@@ -1,6 +1,6 @@
 if (!require("rvest")) install.packages("rvest")
 library(rvest)
-dir.create("./data",warn=F)
+dir.create("./data",showWarnings=F)
 
 url<-"http://gom.gomtv.com/main/index.html?ch=subtitles&pt=l&menu=subtitles"
 tem<-read_html(url)
