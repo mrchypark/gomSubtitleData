@@ -25,7 +25,7 @@ links<-links[-c(1,2,3)]
     url<-paste0("http://gom.gomtv.com/main/index.html/?ch=subtitles&pt=down&intSeq=",down[2],"&capSeq=",down[4])
     title<-stri_trim_both(gsub("[^a-zA-Zㄱ-ㅎㅏ-ㅣ가-힣0-9.\\_ ]","",down[6]))
     title<-gsub(" ","_",title)
-    download.file(url,destfile = paste0("./data/",))
+    download.file(url,destfile = paste0("./data/",title))
   }
   print(paste0(i," / ",maxPage))
 }
