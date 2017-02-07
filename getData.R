@@ -21,7 +21,7 @@ links<-links[-c(1,2,3)]
     
     down<-strsplit(down,"'")[[1]]
     url<-paste0("http://gom.gomtv.com/main/index.html/?ch=subtitles&pt=down&intSeq=",down[2],"&capSeq=",down[4])
-    download.file(url,destfile = paste0("./data/",down[6]))
+    download.file(url,destfile = paste0("./data/",gsub("~","-",down[6])))
   }
   print(paste0(i," / ",maxPage))
 }
