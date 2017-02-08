@@ -1,0 +1,942 @@
+<SAMI>
+<HEAD>
+<TITLE>Hanbange 3.0 - (C) Breadu Soft 2008</TITLE>
+<STYLE TYPE="text/css">
+<!--
+P { margin-left:8pt; margin-right:8pt; margin-bottom:2pt;
+    margin-top:2pt; font-size:14pt; text-align:center;
+    font-family:굴림, Arial; font-weight:normal; color:white;
+    background-color:black; }
+.KRCC { Name:한국어; lang:ko-KR; SAMIType:CC; }
+#STDPrn { Name:Standard Print; }
+#LargePrn { Name:Large Print; font-size:20pt; }
+#SmallPrn { Name:Small Print; font-size:10pt; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<SYNC Start=24183><P Class=KRCC>
+뭐지?
+<SYNC Start=25179><P Class=KRCC>&nbsp;
+<SYNC Start=37643><P Class=KRCC>
+그래?
+<SYNC Start=38723><P Class=KRCC>&nbsp;
+<SYNC Start=40346><P Class=KRCC>
+많은 닌자들이 말이야?
+<SYNC Start=42762><P Class=KRCC>&nbsp;
+<SYNC Start=45364><P Class=KRCC>
+이 새들이 하는 말로는...
+<SYNC Start=47542><P Class=KRCC>
+그거... 전쟁을 말하는거지?
+<SYNC Start=49656><P Class=KRCC>&nbsp;
+<SYNC Start=52634><P Class=KRCC>
+전쟁에 휘말리기 전에<br>
+어서 사스케를 찾아야 겠는데?
+<SYNC Start=57177><P Class=KRCC>&nbsp;
+<SYNC Start=60967><P Class=KRCC>
+<font color=orange>▷뉴웨스트 ☆ 고독저격◁
+<SYNC Start=62092><P Class=KRCC>
+<font color=#7B68EE>▶뉴웨스트 ★ 고독저격◀
+<SYNC Start=63436><P Class=KRCC>
+<font color=#FFB6C1>◐http://cafe.naver.com/narutosmi◑
+<SYNC Start=64374><P Class=KRCC>
+<font color=orange>NEWEST
+<SYNC Start=64725><P Class=KRCC>
+<font color=orange>NEWEST<br>
+<font color=#7B68EE>SOLITUDE SNIPE
+<SYNC Start=65037><P Class=KRCC>
+<font color=orange>NEWEST<br>
+<font color=#7B68EE>SOLITUDE SNIPE<br>
+<font color=#FFB6C1>NARUTO SMI∵CAFE IN NAVER
+<SYNC Start=65390><P Class=KRCC>
+<font color=#00FFFF>뉴웨스트<br>
+<font color=#BC8F8F>고독저격<br>
+<font color=#F0E68C>나루토 자막카페
+<SYNC Start=65693><P Class=KRCC>
+<font color=#DC143C>NEWEST<br>
+<font color=#32CD32>SOLITUDE SNIPE<br>
+<font color=#20B2AA>http://cafe.naver.com/narutosmi
+<SYNC Start=66086><P Class=KRCC>
+<font color=#FFFF00>NEWEST<br>
+<font color=#4682B4>SOLITUDE SNIPE<br>
+<font color=#00BFFF>http://cafe.naver.com/narutosmi
+<SYNC Start=67309><P Class=KRCC>
+<font color=#FF4500>나루토 질풍전<br>
+<font color=#1E90FF>§ NARUTO §
+<SYNC Start=68617><P Class=KRCC>
+<font color=#CD5C5C>나루토 질풍전<br>
+<font color=#00BFFF>§ NARUTO §
+<SYNC Start=69386><P Class=KRCC>
+<font color=#F08080>나루토 질풍전<br>
+<font color=#87CEFA>§ NARUTO §
+<SYNC Start=70039><P Class=KRCC>
+<font color=#FFA07A>나루토 질풍전<br>
+<font color=#AFEEEE>§ NARUTO §
+<SYNC Start=70562><P Class=KRCC>
+<font color=#FF4500>나루토 질풍전<br>
+<font color=#1E90FF>§ NARUTO §
+<SYNC Start=71363><P Class=KRCC>
+<font color=#4169E1>나루토 자막카페ː<br>
+<font color=#ADFF2F>http://cafe.naver.com/narutosmi
+<SYNC Start=71938><P Class=KRCC>
+<font color=#A52A2A>柔よく剛を制しまして<br>
+<font color=#FFA500>부드러움은 강함을 이기고
+<SYNC Start=74470><P Class=KRCC>
+<font color=#A52A2A>剛よく柔も斷つ<br>
+<font color=#FFA500>강함은 부드러움을 없애지
+<SYNC Start=76943><P Class=KRCC>
+<font color=#A52A2A>夢中で格好つけてら<br>
+<font color=#FFA500>정신없이 폼만 잡았다가는
+<SYNC Start=79613><P Class=KRCC>
+<font color=#A52A2A>非常ベルが鳴る<br>
+<font color=#FFA500>비상벨이 울려
+<SYNC Start=82036><P Class=KRCC>
+<font color=#A52A2A>五十步以上も先步いて 猪突猛進なスタイル<br>
+<font color=#FFA500>오십보 이상 먼저 나가고 보는 저돌적인 스타일
+<SYNC Start=87144><P Class=KRCC>
+<font color=#A52A2A>自由で氣分屋の君は どうやったって無視<br>
+<font color=#FFA500>자유롭고 기분파인 그대는 어떻게 하든 상관없지
+<SYNC Start=92147><P Class=KRCC>
+<font color=#A52A2A>誰にも解けない謎がある<br>
+<font color=#FFA500>누구에게도 풀수없는 수수께끼가 있어
+<SYNC Start=94802><P Class=KRCC>
+<font color=#A52A2A>吹き出した風に震えてる<br>
+<font color=#FFA500>불기 시작한 바람에 떨고있어
+<SYNC Start=97304><P Class=KRCC>
+<font color=#A52A2A>この迷路をほどいてやる<br>
+<font color=#FFA500>이 미로에서 꺼내줄게
+<SYNC Start=100463><P Class=KRCC>
+この迷路をほどいてやる<br>
+이 미로에서 꺼내줄게
+<SYNC Start=100652><P Class=KRCC>
+<font color=gold>この迷路をほどいてやる<br>
+이 미로에서 꺼내줄게
+<SYNC Start=100877><P Class=KRCC>
+この迷路をほどいてやる<br>
+이 미로에서 꺼내줄게
+<SYNC Start=101086><P Class=KRCC>
+<font color=gold>この迷路をほどいてやる<br>
+이 미로에서 꺼내줄게
+<SYNC Start=101401><P Class=KRCC>
+この迷路をほどいてやる<br>
+이 미로에서 꺼내줄게
+<SYNC Start=101595><P Class=KRCC>
+<font color=gold>この迷路をほどいてやる<br>
+이 미로에서 꺼내줄게
+<SYNC Start=101868><P Class=KRCC>
+この迷路をほどいてやる<br>
+이 미로에서 꺼내줄게
+<SYNC Start=102011><P Class=KRCC>
+<font color=gold>この迷路をほどいてやる<br>
+이 미로에서 꺼내줄게
+<SYNC Start=102248><P Class=KRCC>
+<font color=#A52A2A>君が笑った 明日は雨かい?<br>
+<font color=#FFA500>그대가 웃었던 내일은 비가 내릴까?
+<SYNC Start=107624><P Class=KRCC>
+<font color=#A52A2A>聰明な光が  チカチカヒカル<br>
+<font color=#FFA500>총명한 빛이 반짝반짝거려
+<SYNC Start=112579><P Class=KRCC>
+<font color=#A52A2A>目を凝らさなくちゃ<br>
+<font color=#FFA500>집중해야만해
+<SYNC Start=115633><P Class=KRCC>
+<font color=#A52A2A>未來が變わってしまう前に<br>
+<font color=#FFA500>미래가 변해버리기 전에
+<SYNC Start=119191><P Class=KRCC>
+<font color=#A52A2A>きっと きっと今をさらっていく<br>
+<font color=#FFA500>분명 분명히 지금을 가로채갈거야
+<SYNC Start=125547><P Class=KRCC>
+<font color=#A52A2A>君とじゃなくちゃ<br>
+<font color=#FFA500>그대와 함께가 아니라면
+<SYNC Start=128493><P Class=KRCC>
+<font color=#A52A2A>未來は渴いてしまうのかも<br>
+<font color=#FFA500>미래가 메말라버릴지도몰라
+<SYNC Start=132066><P Class=KRCC>
+<font color=#A52A2A>急げ きっと今を笑っていく<br>
+<font color=#FFA500>서둘러 반드시 지금을 웃게될거야
+<SYNC Start=137582><P Class=KRCC>&nbsp;
+<SYNC Start=139066><P Class=KRCC>
+<font color=#BDB76B>∈NEWEST п 뉴웨스트∋
+<SYNC Start=140900><P Class=KRCC>
+<font color=#ADFF2F>≤SOLITUDE SNIPE ß 고독저격≥
+<SYNC Start=143592><P Class=KRCC>
+<font color=#00FF7F>나루토 자막카페：：
+<SYNC Start=146094><P Class=KRCC>
+<font color=#1E90FF>http://cafe.naver.com/narutosmi
+<SYNC Start=146899><P Class=KRCC>
+<font color=#DA70D6>ΝΑΡΥΤΟ
+<SYNC Start=147221><P Class=KRCC>
+<font color=#191970>http://cafe.naver.com/narutosmi
+<SYNC Start=147767><P Class=KRCC>
+<font color=#6A5ACD>ναρυτω
+<SYNC Start=148220><P Class=KRCC>
+http://cafe.naver.com/narutosmi
+<SYNC Start=148704><P Class=KRCC>
+<font color=#DA70D6>ΝΑΡΥΤΟ
+<SYNC Start=149232><P Class=KRCC>
+<font color=gold>ναρυτω ː NARUTO<br>
+<font color=#7FFFD4>http://cafe.naver.com/narutosmi
+<SYNC Start=150124><P Class=KRCC>&nbsp;
+<SYNC Start=150964><P Class=KRCC>
+<font color=#7b68ee>안녕하세요~ 뉴웨스트 + 고독저격 입니다<br>
+<font color=#f0e68c>http://cafe.naver.com/narutosmi
+<SYNC Start=154174><P Class=KRCC>
+<font color=#6495ed>재미있게 보세요^^<br>
+<font color=#f0e68c>http://cafe.naver.com/narutosmi
+<SYNC Start=159473><P Class=KRCC>&nbsp;
+<SYNC Start=160876><P Class=KRCC>
+<font color=#5f9ea0>《어둠을 보는 눈》
+<SYNC Start=165818><P Class=KRCC>&nbsp;
+<SYNC Start=169994><P Class=KRCC>
+나뭇잎 경비대 제 1 소대,<br>
+동쪽 구역 순찰 종료!
+<SYNC Start=174064><P Class=KRCC>
+현재 이상 없음!
+<SYNC Start=175930><P Class=KRCC>
+나뭇잎 경비대 제 2 소대,<br>
+서쪽 구역 순찰 종료!
+<SYNC Start=179895><P Class=KRCC>
+현재 이상 없음!
+<SYNC Start=181622><P Class=KRCC>&nbsp;
+<SYNC Start=182512><P Class=KRCC>
+지금부터 제 1 소대는<br>
+북쪽 구역으로 순찰을 돌겠다!
+<SYNC Start=186626><P Class=KRCC>
+제 2 소대는 남쪽 구역으로 향하겠다
+<SYNC Start=189508><P Class=KRCC>&nbsp;
+<SYNC Start=190549><P Class=KRCC>
+코노하마루, 잘 부탁한다!
+<SYNC Start=193017><P Class=KRCC>
+와타세 팀도 잘 부탁해, 이거!
+<SYNC Start=195616><P Class=KRCC>&nbsp;
+<SYNC Start=199511><P Class=KRCC>
+뭐랄까, 실전같아서<br>
+두근두근 거린다~
+<SYNC Start=203155><P Class=KRCC>
+본격적이지?
+<SYNC Start=205368><P Class=KRCC>
+장난이 아니라구, 이거!
+<SYNC Start=207495><P Class=KRCC>
+또 씨름꾼이나, 싸움꾼이 나타나면
+<SYNC Start=209895><P Class=KRCC>
+다같이 나뭇잎 마을을<br>
+지켜내야 해! 알겟지!!
+<SYNC Start=212858><P Class=KRCC>
+- 응!<br>
+- 응!
+<SYNC Start=214005><P Class=KRCC>&nbsp;
+<SYNC Start=218155><P Class=KRCC>
+나쁜자식!!!!
+<SYNC Start=219815><P Class=KRCC>
+죽여버릴거야!!!
+<SYNC Start=221499><P Class=KRCC>
+코노하마루, 이 목소리 뭐야?
+<SYNC Start=224362><P Class=KRCC>
+-정보부-<br>
+용서할 수 없어!!
+<SYNC Start=226051><P Class=KRCC>
+저긴, 정보부...
+<SYNC Start=228443><P Class=KRCC>
+그렇구나, 그때 그 포로인가?
+<SYNC Start=230351><P Class=KRCC>
+포로라니, 누구?
+<SYNC Start=231842><P Class=KRCC>
+사스케 형의 동료야
+<SYNC Start=233656><P Class=KRCC>
+『아카츠키』인지, <br>
+『매』인지 하는 조직의...
+<SYNC Start=235843><P Class=KRCC>
+하지만 용서해주마!!!!
+<SYNC Start=238120><P Class=KRCC>&nbsp;
+<SYNC Start=238909><P Class=KRCC>
+자, 가자!<br>
+괜찮아, 이거
+<SYNC Start=242041><P Class=KRCC>&nbsp;
+<SYNC Start=245826><P Class=KRCC>
+죽어, 이자식아!!!
+<SYNC Start=248335><P Class=KRCC>&nbsp;
+<SYNC Start=248957><P Class=KRCC>
+하지만....
+<SYNC Start=250366><P Class=KRCC>
+역시 멋있어~♡
+<SYNC Start=253588><P Class=KRCC>&nbsp;
+<SYNC Start=256784><P Class=KRCC>
+그러나... 잘도 나를 죽이려했겠다!!!
+<SYNC Start=261011><P Class=KRCC>&nbsp;
+<SYNC Start=265451><P Class=KRCC>
+<font color=gray>카린, 인질로 잡혀버리면<br>
+걸리적 거릴 뿐이야
+<SYNC Start=270443><P Class=KRCC>
+이 놈의 자식....!!
+<SYNC Start=272639><P Class=KRCC>&nbsp;
+<SYNC Start=277347><P Class=KRCC>
+이자식~ 그래도 좋은걸 어떻게해~♡
+<SYNC Start=280787><P Class=KRCC>&nbsp;
+<SYNC Start=282767><P Class=KRCC>
+아니지! 이 자식은 나를...
+<SYNC Start=285903><P Class=KRCC>
+용서할 수 없는일이야!!!
+<SYNC Start=287993><P Class=KRCC>
+하지만, 멋있어~♡
+<SYNC Start=289982><P Class=KRCC>
+저 녀석, 아까부터 뭐하는거야?
+<SYNC Start=292176><P Class=KRCC>
+직접만든 브로마이드래
+<SYNC Start=294431><P Class=KRCC>
+혼자서 계속 사진에 말걸고있어
+<SYNC Start=297368><P Class=KRCC>
+불쌍하게도 말이야...
+<SYNC Start=298628><P Class=KRCC>
+험한일을 당한 모양이야
+<SYNC Start=301119><P Class=KRCC>
+아, 그 사스케의 브로마이드 말이야?
+<SYNC Start=304182><P Class=KRCC>&nbsp;
+<SYNC Start=306166><P Class=KRCC>
+저것도 몰수해야 하는거 아냐?
+<SYNC Start=309243><P Class=KRCC>&nbsp;
+<SYNC Start=310098><P Class=KRCC>
+그러려고 했더니<br>
+엄청 날뛰더라구~
+<SYNC Start=313301><P Class=KRCC>
+저러는 편이 얌전하기도 하고..<br>
+겨우 브로마이드 하난데 뭐~
+<SYNC Start=318218><P Class=KRCC>
+그럼 우리들도 얌전히...
+<SYNC Start=321123><P Class=KRCC>
+카드게임이라도 할까?
+<SYNC Start=322660><P Class=KRCC>
+그거 좋지!
+<SYNC Start=323701><P Class=KRCC>&nbsp;
+<SYNC Start=348984><P Class=KRCC>
+이 아지트에 사스케가<br>
+있어주면 좋겠는데 말이야...
+<SYNC Start=352582><P Class=KRCC>
+여긴 특별한 곳이니까...
+<SYNC Start=355444><P Class=KRCC>&nbsp;
+<SYNC Start=356371><P Class=KRCC>
+오로치마루도 꽤 좋아했었지
+<SYNC Start=358639><P Class=KRCC>&nbsp;
+<SYNC Start=362644><P Class=KRCC>
+야~ 사스케~<br>
+안에 있어?
+<SYNC Start=366038><P Class=KRCC>&nbsp;
+<SYNC Start=374114><P Class=KRCC>
+그나저나 정말<br>
+쓸데없이 큰 아지트야
+<SYNC Start=377256><P Class=KRCC>&nbsp;
+<SYNC Start=381080><P Class=KRCC>
+왜 그래?
+<SYNC Start=382268><P Class=KRCC>&nbsp;
+<SYNC Start=383116><P Class=KRCC>
+별일 아니야,<br>
+살짝 두통이 왔을 뿐이야
+<SYNC Start=386253><P Class=KRCC>&nbsp;
+<SYNC Start=387205><P Class=KRCC>
+(설마, 또 폭주는 아니겠지?)
+<SYNC Start=390107><P Class=KRCC>&nbsp;
+<SYNC Start=391128><P Class=KRCC>
+(사스케에 카린..<br>
+그리고 쥬고...)
+<SYNC Start=393193><P Class=KRCC>
+(『뱀』인지『매』인지 모르겠지만,)
+<SYNC Start=395416><P Class=KRCC>
+(진짜 나 말고는 다 이상하다니까?)
+<SYNC Start=398433><P Class=KRCC>
+스이게츠...
+<SYNC Start=399887><P Class=KRCC>
+왜?
+<SYNC Start=400907><P Class=KRCC>
+너에 관련해서 한 가지<br>
+신경쓰이는게 있는데...
+<SYNC Start=404611><P Class=KRCC>
+아, 그래?
+<SYNC Start=405904><P Class=KRCC>
+난 이미 널 신경쓰고 있다구~<br>
+흠칫흠칫 놀라면서 말이야
+<SYNC Start=409755><P Class=KRCC>
+난 키미마로와의 약속 때문이지만...
+<SYNC Start=412712><P Class=KRCC>
+넌 왜 일부러 사스케와 카린을<br>
+방해한다는 이유로『매』에 있는거지?
+<SYNC Start=417424><P Class=KRCC>
+왜냐구?
+<SYNC Start=418604><P Class=KRCC>&nbsp;
+<SYNC Start=418968><P Class=KRCC>
+그래, 어째서야?
+<SYNC Start=420828><P Class=KRCC>&nbsp;
+<SYNC Start=421711><P Class=KRCC>
+왜...냐...
+<SYNC Start=424383><P Class=KRCC>&nbsp;
+<SYNC Start=432309><P Class=KRCC>
+<font color=gray>역시 너구나
+<SYNC Start=434287><P Class=KRCC>&nbsp;
+<SYNC Start=434907><P Class=KRCC>
+<font color=gray>네가 여기에 왔다는건...
+<SYNC Start=437560><P Class=KRCC>
+<font color=gray>오로치마루를 쓰러뜨린거지?
+<SYNC Start=439492><P Class=KRCC>&nbsp;
+<SYNC Start=440226><P Class=KRCC>
+<font color=gray>뭐, 그렇지
+<SYNC Start=441311><P Class=KRCC>&nbsp;
+<SYNC Start=443048><P Class=KRCC>
+<font color=gray>그보다, 여기서 꺼내주겠다
+<SYNC Start=446158><P Class=KRCC>&nbsp;
+<SYNC Start=457902><P Class=KRCC>
+<font color=gray>겨우 나왔네...<br>
+사스케, 고맙다
+<SYNC Start=462149><P Class=KRCC>&nbsp;
+<SYNC Start=462832><P Class=KRCC>
+<font color=gray>스이게츠, 우선 너다
+<SYNC Start=465425><P Class=KRCC>&nbsp;
+<SYNC Start=467022><P Class=KRCC>
+<font color=gray>함께 가자
+<SYNC Start=468451><P Class=KRCC>
+<font color=gray>우선은 나?<br>
+그럼...
+<SYNC Start=471728><P Class=KRCC>
+<font color=gray>또 누가 있는거야?
+<SYNC Start=473180><P Class=KRCC>&nbsp;
+<SYNC Start=473888><P Class=KRCC>
+<font color=gray>앞으로 두 명.. 북쪽아지트의 쥬고와,
+<SYNC Start=477168><P Class=KRCC>
+<font color=gray>남쪽 아지트의 카린을 데리고 간다
+<SYNC Start=479511><P Class=KRCC>
+<font color=gray>날 고른건 그렇다치고,
+<SYNC Start=481604><P Class=KRCC>
+<font color=gray>사스케, 그 두명을 선택한 넌<br>
+"어떤 녀석일까?"라는 생각이 든다구
+<SYNC Start=485816><P Class=KRCC>&nbsp;
+<SYNC Start=486537><P Class=KRCC>
+<font color=gray>쓸데없이 시끄럽군..<br>
+옷이나 입어!
+<SYNC Start=489751><P Class=KRCC>
+<font color=gray>가자
+<SYNC Start=490789><P Class=KRCC>&nbsp;
+<SYNC Start=493271><P Class=KRCC>
+<font color=gray>한 가지 물어봐도 될까?
+<SYNC Start=495272><P Class=KRCC>
+<font color=gray>뭐지?
+<SYNC Start=496361><P Class=KRCC>
+<font color=gray>어째서 동료를 모으는거지?
+<SYNC Start=499153><P Class=KRCC>
+<font color=gray>나에게는 목적이 있다
+<SYNC Start=501739><P Class=KRCC>
+<font color=gray>그 목적을 달성하기 위해서는
+<SYNC Start=503887><P Class=KRCC>
+<font color=gray>소대인 편이 효율성이 좋기 때문이다
+<SYNC Start=506239><P Class=KRCC>&nbsp;
+<SYNC Start=506761><P Class=KRCC>
+<font color=gray>오로치마루에게 접근했을 때부터<br>
+이렇게 되었을 때를 생각해서
+<SYNC Start=511270><P Class=KRCC>
+<font color=gray>능력이 있는 닌자를<br>
+사전에 선발해 두었었다
+<SYNC Start=514430><P Class=KRCC>&nbsp;
+<SYNC Start=517456><P Class=KRCC>
+<font color=gray>이걸로 내가 생각한 멤버는 모였다
+<SYNC Start=521342><P Class=KRCC>&nbsp;
+<SYNC Start=522149><P Class=KRCC>
+<font color=gray>내 목적은 아카츠키의 <br>
+우치하 이타치를 죽이는거다
+<SYNC Start=526659><P Class=KRCC>&nbsp;
+<SYNC Start=527318><P Class=KRCC>
+<font color=gray>거기서 너희들의 힘을 빌리고 싶다
+<SYNC Start=530003><P Class=KRCC>
+<font color=gray>물론, 강제로는 하지 않아
+<SYNC Start=532438><P Class=KRCC>
+<font color=gray>카린, 너는 용무가 있다고<br>
+ 말하지 않았나?
+<SYNC Start=536215><P Class=KRCC>
+<font color=gray>어떻게 할래?
+<SYNC Start=537737><P Class=KRCC>
+<font color=gray>그..그렇군..
+<SYNC Start=539286><P Class=KRCC>
+<font color=gray>잘 생각해보니 그다지 급한 용무는...
+<SYNC Start=542877><P Class=KRCC>
+<font color=gray>카린~ 너는 솔직해 지는게 어때?
+<SYNC Start=546538><P Class=KRCC>
+<font color=gray>사실은 사스케와 쭉~ 같이 있고 <br>
+싶은거 뿐 아니야?
+<SYNC Start=550853><P Class=KRCC>
+<font color=gray>그.. 그럴리가 있냐!!
+<SYNC Start=552837><P Class=KRCC>
+<font color=gray>누,누가 그,그런 걸..말한적 있냐!
+<SYNC Start=556911><P Class=KRCC>
+<font color=gray>봐~ 걸렸다, 그러니까 혀가 꼬이게 되는거야
+<SYNC Start=561037><P Class=KRCC>
+<font color=gray>빤히 보여
+<SYNC Start=562470><P Class=KRCC>
+<font color=gray>사실은 알고 있어 예전에 <br>
+너는 사스케에...
+<SYNC Start=566733><P Class=KRCC>&nbsp;
+<SYNC Start=568895><P Class=KRCC>
+<font color=gray>스이케츠, 카린을 부추기는건 그만둬
+<SYNC Start=572264><P Class=KRCC>
+<font color=gray>협력 한다고 했을 텐데
+<SYNC Start=575088><P Class=KRCC>&nbsp;
+<SYNC Start=575644><P Class=KRCC>
+<font color=gray>알았다고, 미안했어 카린
+<SYNC Start=579893><P Class=KRCC>
+<font color=gray>그렇지만, 미안하게도 나는 <br>
+사스케에게 확실히 말해두겠어
+<SYNC Start=585554><P Class=KRCC>&nbsp;
+<SYNC Start=586248><P Class=KRCC>
+<font color=gray>안개마을의 칠도(七刀) 중에 하나..
+<SYNC Start=588834><P Class=KRCC>
+<font color=gray>우치하 이타치와 다니는<br>
+호시가키 키사메의 대도..
+<SYNC Start=592329><P Class=KRCC>
+<font color=gray>사메하다를 이 손에 <br>
+넣기 전까지는 말이지
+<SYNC Start=595697><P Class=KRCC>&nbsp;
+<SYNC Start=596041><P Class=KRCC>
+<font color=gray>결정났군
+<SYNC Start=597625><P Class=KRCC>&nbsp;
+<SYNC Start=598496><P Class=KRCC>
+<font color=gray>이후 우리들은 네명이 움직인다
+<SYNC Start=601284><P Class=KRCC>
+<font color=gray>그리고 이제부터 우리 소대는 <br>
+『뱀』이라고 부른다
+<SYNC Start=605782><P Class=KRCC>&nbsp;
+<SYNC Start=607835><P Class=KRCC>
+왜지?
+<SYNC Start=608889><P Class=KRCC>&nbsp;
+<SYNC Start=613890><P Class=KRCC>
+붙어먹을 것 같은 녀석들 사이를<br>
+떼어놓고 싶어서 참을 수 없거든!!
+<SYNC Start=617945><P Class=KRCC>
+뭐랄까 나란 놈은 하나로 된 걸 둘로<br>
+나눠버리고 싶은 충동에 휩싸이는거지!
+<SYNC Start=623792><P Class=KRCC>
+너.. 상당히 변변치 못한 녀석이구나
+<SYNC Start=627147><P Class=KRCC>&nbsp;
+<SYNC Start=629324><P Class=KRCC>
+이 일에서는 사스케 쪽이<br>
+변변치 못할 뿐더러 위험한 정도라구
+<SYNC Start=634309><P Class=KRCC>
+뭐?
+<SYNC Start=635528><P Class=KRCC>
+그렇잖아, 이타치를 죽이고<br>
+목적달성을 했다고 생각을 하던 참인데..
+<SYNC Start=640861><P Class=KRCC>&nbsp;
+<SYNC Start=657115><P Class=KRCC>
+<font color=gray>우리들은 『뱀』을 버린다
+<SYNC Start=660447><P Class=KRCC>
+<font color=gray>지금부터 우리 소대는<br>
+이름을 『매』로 개명하여 행동한다
+<SYNC Start=664877><P Class=KRCC>&nbsp;
+<SYNC Start=666590><P Class=KRCC>
+<font color=gray>『매』의 목적은 단 하나!
+<SYNC Start=669479><P Class=KRCC>
+<font color=gray>우리들은..
+<SYNC Start=670780><P Class=KRCC>&nbsp;
+<SYNC Start=676055><P Class=KRCC>
+<font color=gray>나뭇잎 마을을 부순다!
+<SYNC Start=678237><P Class=KRCC>&nbsp;
+<SYNC Start=679466><P Class=KRCC>
+..라고 말했잖아?
+<SYNC Start=681189><P Class=KRCC>
+그 녀석, 아카츠키하고 손을 잡고
+<SYNC Start=683153><P Class=KRCC>
+우리들을 팔미 인주력 사냥이라는<br>
+말도안되는 임무에 끌어들여서는...
+<SYNC Start=687741><P Class=KRCC>&nbsp;
+<SYNC Start=692580><P Class=KRCC>
+<font color=gray>네가 8미(八尾)<br>
+인주력 이냐?
+<SYNC Start=695472><P Class=KRCC>
+<font color=gray>그게 아냐, "8미(八尾)님<br>
+이십니까?" 잖아?
+<SYNC Start=698137><P Class=KRCC>&nbsp;
+<SYNC Start=698357><P Class=KRCC>
+<font color=gray>안 그래? "인주력님<br>
+이십니까?" 잖아?
+<SYNC Start=702591><P Class=KRCC>
+<font color=gray>널 구속 하겠다
+<SYNC Start=704982><P Class=KRCC>
+<font color=gray>스이게츠는 오른쪽
+<SYNC Start=706820><P Class=KRCC>
+<font color=gray>쥬고는 왼쪽
+<SYNC Start=709792><P Class=KRCC>
+<font color=gray>카린은 내 뒤에 붙어라
+<SYNC Start=711867><P Class=KRCC>&nbsp;
+<SYNC Start=724621><P Class=KRCC>
+<font color=gray>팔미! 벌 처럼 찌르지!
+<SYNC Start=727441><P Class=KRCC>&nbsp;
+<SYNC Start=731582><P Class=KRCC>
+<font color=gray>사스케!!!
+<SYNC Start=733128><P Class=KRCC>
+<font color=gray>그리고, 이렇게<br>
+마무리를 짓지!
+<SYNC Start=735990><P Class=KRCC>&nbsp;
+<SYNC Start=760129><P Class=KRCC>
+<font color=gray>사스케, 셋이 치자!
+<SYNC Start=762823><P Class=KRCC>
+<font color=gray>솔직히, 이 녀석 무지 강해..
+<SYNC Start=765858><P Class=KRCC>
+<font color=gray>포획하는 건 둘째 치고,<br>
+죽일 각오로 가자!
+<SYNC Start=769228><P Class=KRCC>&nbsp;
+<SYNC Start=769729><P Class=KRCC>
+<font color=gray>그래야, 죽지 않을 정도로<br>
+끝낼 수 있어
+<SYNC Start=772302><P Class=KRCC>&nbsp;
+<SYNC Start=788632><P Class=KRCC>
+<font color=gray>(소와 문어의 합체괴물..<br>
+이것이 녀석의 정체인가!)
+<SYNC Start=793144><P Class=KRCC>&nbsp;
+<SYNC Start=798321><P Class=KRCC>
+<font color=gray>여기는 내가 맡겠어!
+<SYNC Start=799578><P Class=KRCC>&nbsp;
+<SYNC Start=800582><P Class=KRCC>
+<font color=gray>이 틈을 타서 도망쳐!
+<SYNC Start=801897><P Class=KRCC>&nbsp;
+<SYNC Start=803010><P Class=KRCC>
+<font color=gray>- 스이게츠...<br>
+- 사스케, 가자!
+<SYNC Start=804748><P Class=KRCC>&nbsp;
+<SYNC Start=808748><P Class=KRCC>
+<font color=gray>이렇게까지 하고 놓칠것 같으냐!<br>
+바보녀석! 이 자식아!
+<SYNC Start=813074><P Class=KRCC>&nbsp;
+<SYNC Start=824627><P Class=KRCC>
+그때 다 죽을뻔 했다구!
+<SYNC Start=826780><P Class=KRCC>
+임무는 어떻게든 성공했지만 말이야
+<SYNC Start=829331><P Class=KRCC>&nbsp;
+<SYNC Start=830866><P Class=KRCC>
+그리고는 다음엔<br>
+5카게 회담에 난입이야!
+<SYNC Start=834411><P Class=KRCC>
+라이카게 일행과 대난투를<br>
+벌였었다구~
+<SYNC Start=836869><P Class=KRCC>&nbsp;
+<SYNC Start=837394><P Class=KRCC>
+<font color=gray>시야를 막은건가!!
+<SYNC Start=839154><P Class=KRCC>&nbsp;
+<SYNC Start=844693><P Class=KRCC>
+<font color=gray>(말도안돼...)
+<SYNC Start=845545><P Class=KRCC>&nbsp;
+<SYNC Start=846328><P Class=KRCC>
+<font color=gray>쥬고! 기죽지마!<br>
+이건 환술이야!!
+<SYNC Start=849015><P Class=KRCC>&nbsp;
+<SYNC Start=849966><P Class=KRCC>
+<font color=gray>환술이라 간파했다고해도<br>
+이미 늦었다!!!
+<SYNC Start=852933><P Class=KRCC>&nbsp;
+<SYNC Start=861576><P Class=KRCC>
+끝내, 결국에는 우리들은<br>
+신경도 안쓰고 천정을 무너뜨리고..
+<SYNC Start=866108><P Class=KRCC>&nbsp;
+<SYNC Start=869575><P Class=KRCC>
+<font color=gray>이건 뭐야!!!
+<SYNC Start=871615><P Class=KRCC>&nbsp;
+<SYNC Start=873115><P Class=KRCC>
+그 덕에 우리는<br>
+철나라의 포로가 됐었잖아
+<SYNC Start=876896><P Class=KRCC>&nbsp;
+<SYNC Start=884091><P Class=KRCC>
+난 너희들이 싫어!
+<SYNC Start=886175><P Class=KRCC>
+말하자면 아무리 말해봐도<br>
+결과가 나오지 않는거지
+<SYNC Start=888165><P Class=KRCC>
+뭔가를 하려고 결정하면<br>
+찬물을 끼얹지
+<SYNC Start=890781><P Class=KRCC>
+그래서...
+<SYNC Start=891749><P Class=KRCC>&nbsp;
+<SYNC Start=893060><P Class=KRCC>
+우와! 폭주야?!!<br>
+난데없이 살인충동이냐!!
+<SYNC Start=896207><P Class=KRCC>
+죽어라!!!
+<SYNC Start=898196><P Class=KRCC>&nbsp;
+<SYNC Start=904530><P Class=KRCC>
+난 그 중에서 네가 제일 싫어!!!
+<SYNC Start=907431><P Class=KRCC>&nbsp;
+<SYNC Start=914829><P Class=KRCC>
+이건...!!
+<SYNC Start=915941><P Class=KRCC>&nbsp;
+<SYNC Start=921437><P Class=KRCC>
+지금까지 몇 번이나 여기에 왔었지만...
+<SYNC Start=924261><P Class=KRCC>
+몰랐었어...
+<SYNC Start=925773><P Class=KRCC>&nbsp;
+<SYNC Start=928358><P Class=KRCC>
+여기... 오로치마루의<br>
+숨겨놓은 방인가?
+<SYNC Start=931718><P Class=KRCC>&nbsp;
+<SYNC Start=961145><P Class=KRCC>
+(이거... 오로치마루는 이런 것까지<br>
+생각해 놨었다는 거야?!!!)
+<SYNC Start=965813><P Class=KRCC>
+(그렇다면, 이 자료는 지금의 전쟁도<br>
+좌우할 수 있다는 말이잖아!!)
+<SYNC Start=970983><P Class=KRCC>&nbsp;
+<SYNC Start=976127><P Class=KRCC>
+뭘 하고 있어?
+<SYNC Start=977489><P Class=KRCC>&nbsp;
+<SYNC Start=981340><P Class=KRCC>
+이거, 사스케에게<br>
+꽤 괜찮은 선물이 되겠어
+<SYNC Start=985081><P Class=KRCC>
+우리들 우연히도 엄청 굉장한걸<br>
+발견한걸지도 모르겠는데?
+<SYNC Start=988316><P Class=KRCC>&nbsp;
+<SYNC Start=991238><P Class=KRCC>
+쥬고, 아까 펀치는<br>
+없었던 일로 할게
+<SYNC Start=994514><P Class=KRCC>&nbsp;
+<SYNC Start=999462><P Class=KRCC>
+멍하니 있지 마~
+<SYNC Start=1001596><P Class=KRCC>
+빨리 사스케를 찾아야 한다구
+<SYNC Start=1004299><P Class=KRCC>&nbsp;
+<SYNC Start=1012560><P Class=KRCC>
+새들이 어수선해
+<SYNC Start=1014641><P Class=KRCC>&nbsp;
+<SYNC Start=1019918><P Class=KRCC>
+저쪽이야
+<SYNC Start=1020943><P Class=KRCC>
+가자
+<SYNC Start=1022051><P Class=KRCC>&nbsp;
+<SYNC Start=1036162><P Class=KRCC>
+날 바로 쫓아왔나?
+<SYNC Start=1038155><P Class=KRCC>
+왜 네가 여기있는거냐!!
+<SYNC Start=1040333><P Class=KRCC>
+그건 아닌모양이군
+<SYNC Start=1042409><P Class=KRCC>&nbsp;
+<SYNC Start=1044994><P Class=KRCC>
+여기 오기 전까지<br>
+마을을 2곳 지났는데,
+<SYNC Start=1047868><P Class=KRCC>
+아무도 없더군
+<SYNC Start=1049642><P Class=KRCC>
+바깥 상황이 이상하다고 생각했는데,
+<SYNC Start=1052439><P Class=KRCC>
+무슨 일인지 알고있나?
+<SYNC Start=1053581><P Class=KRCC>
+묻고있는건 이쪽이다!!
+<SYNC Start=1055646><P Class=KRCC>
+왜 네가 밖으로 나온거야!!!
+<SYNC Start=1057300><P Class=KRCC>
+같이 있던 우리들 오리지날을 어떻게 했지?!
+<SYNC Start=1059851><P Class=KRCC>&nbsp;
+<SYNC Start=1060795><P Class=KRCC>
+그렇게 내가 밖에 있는게 싫다면..
+<SYNC Start=1063465><P Class=KRCC>
+붙잡으면 되잖아?
+<SYNC Start=1064966><P Class=KRCC>
+이번엔 인원도 많이 있잖아?
+<SYNC Start=1067461><P Class=KRCC>
+너 설마 우리들 오리지날을...?
+<SYNC Start=1070439><P Class=KRCC>
+수가 많은 만큼..
+<SYNC Start=1072057><P Class=KRCC>
+이번에는 좀 손맛 좀 느끼고 싶군
+<SYNC Start=1074802><P Class=KRCC>&nbsp;
+<SYNC Start=1081566><P Class=KRCC>
+스사노오!<br>
+<font color=skyblue>(須佐能乎)
+<SYNC Start=1082886><P Class=KRCC>&nbsp;
+<SYNC Start=1102232><P Class=KRCC>
+사륜안<br>
+<font color=skyblue>(寫輪眼)
+<SYNC Start=1103653><P Class=KRCC>&nbsp;
+<SYNC Start=1105623><P Class=KRCC>
+전쟁이다...
+<SYNC Start=1107165><P Class=KRCC>
+쓰러뜨려라... 적... 을....
+<SYNC Start=1110764><P Class=KRCC>&nbsp;
+<SYNC Start=1111246><P Class=KRCC>
+마다라 녀석 시작한 모양이군
+<SYNC Start=1114160><P Class=KRCC>
+킬러 비...와 우즈마키 나루토를<br>
+잡.. 아라...
+<SYNC Start=1120103><P Class=KRCC>&nbsp;
+<SYNC Start=1123151><P Class=KRCC>
+<font color=gray>네가 나뭇잎 마을을 공격한다면..<br>
+난 너와 싸워야만해!
+<SYNC Start=1129416><P Class=KRCC>&nbsp;
+<SYNC Start=1129941><P Class=KRCC>
+<font color=gray>증오는 그 때까지<br>
+한 쪽 구석에 간직해 둬!
+<SYNC Start=1132259><P Class=KRCC>
+<font color=gray>그건 때가 오면,<br>
+나에게 전부 발산해 버리라구!
+<SYNC Start=1135643><P Class=KRCC>&nbsp;
+<SYNC Start=1136433><P Class=KRCC>
+<font color=gray>너의 증오를<br>
+받아줄 수 있는 건.. 나 밖에 없어!
+<SYNC Start=1140143><P Class=KRCC>&nbsp;
+<SYNC Start=1142908><P Class=KRCC>
+<font color=gray>좋아, 너를<br>
+가장 먼저 죽여주지
+<SYNC Start=1147080><P Class=KRCC>&nbsp;
+<SYNC Start=1147693><P Class=KRCC>
+빨리 하지 않으면 녀석 곁으로...
+<SYNC Start=1150999><P Class=KRCC>
+동료들이.. 점점... 모여든다...
+<SYNC Start=1154422><P Class=KRCC>&nbsp;
+<SYNC Start=1155763><P Class=KRCC>
+<font color=gray>너도 나와 마찬가지로..<br>
+고독의 아픔을 아는 녀석이야
+<SYNC Start=1159598><P Class=KRCC>
+<font color=gray>그리고 그 고통이<br>
+사람을 강하게 만들지
+<SYNC Start=1162895><P Class=KRCC>
+<font color=gray>그렇기에 이 유대감을 끊음으로서,
+<SYNC Start=1165692><P Class=KRCC>
+<font color=gray>난 보다 강한 힘을<br>
+손에 넣는거야
+<SYNC Start=1168036><P Class=KRCC>&nbsp;
+<SYNC Start=1168708><P Class=KRCC>
+나루토, 잊은거냐?
+<SYNC Start=1170530><P Class=KRCC>
+진정한 힘이 무엇인지...
+<SYNC Start=1173362><P Class=KRCC>&nbsp;
+<SYNC Start=1174392><P Class=KRCC>
+<font color=gray>썩어버린 닌자세계와<br>
+우치하를 결별시키는 감각!
+<SYNC Start=1179093><P Class=KRCC>
+<font color=gray>어떻게보면 너희 나뭇잎이<br>
+항상 바래왔던 일이야
+<SYNC Start=1183627><P Class=KRCC>
+<font color=gray>오래전부터 우치하를 부정해왔던<br>
+너희들의 바람대로...
+<SYNC Start=1187651><P Class=KRCC>
+<font color=gray>너희들의 기억에서<br>
+우치하를 지워주마!
+<SYNC Start=1191168><P Class=KRCC>
+<font color=gray>너희들을!!<br>
+나뭇잎의 모두를...
+<SYNC Start=1196101><P Class=KRCC>
+<font color=gray>죽여버리는 것으로 말이야!!
+<SYNC Start=1197888><P Class=KRCC>&nbsp;
+<SYNC Start=1198915><P Class=KRCC>
+<font color=gray>나뭇잎과의 모든 유대감을<br>
+모두 끊어버리는 것이 정화!
+<SYNC Start=1203642><P Class=KRCC>
+<font color=gray>그거야 말로 진정한<br>
+우치하 일족의 부흥이야!
+<SYNC Start=1207695><P Class=KRCC>&nbsp;
+<SYNC Start=1216640><P Class=KRCC>
+나도 네 곁으로 가마
+<SYNC Start=1220128><P Class=KRCC>
+널 베러!!
+<SYNC Start=1222510><P Class=KRCC>&nbsp;
+<SYNC Start=1227849><P Class=KRCC>
+너희들은 나뭇잎 마을 닌자가 아니야
+<SYNC Start=1230858><P Class=KRCC>
+약속에는 들어가있지 않아
+<SYNC Start=1232919><P Class=KRCC>&nbsp;
+<SYNC Start=1238547><P Class=KRCC>
+좋은 눈이야..<br>
+형, 점점 익숙해져
+<SYNC Start=1242440><P Class=KRCC>&nbsp;
+<SYNC Start=1244145><P Class=KRCC>
+<font color=gray>"나와 같은 눈을 갖고<br>
+내 앞으로 오거라"
+<SYNC Start=1247413><P Class=KRCC>&nbsp;
+<SYNC Start=1248511><P Class=KRCC>
+(이, 형의 눈에 새겨지는<br>
+광경은 모두..)
+<SYNC Start=1252480><P Class=KRCC>
+(끔찍하고... 슬프고...<br>
+무거운 것이 될거야)
+<SYNC Start=1256475><P Class=KRCC>
+(허나, 그게 옳은 거야)
+<SYNC Start=1259042><P Class=KRCC>
+(형, 지켜봐줘!!)
+<SYNC Start=1261693><P Class=KRCC>&nbsp;
+<SYNC Start=1275616><P Class=KRCC>
+<font color=#00ffff>いつかきっときっとたどり着くために<br>
+<font color=#ffd700>언젠가 반드시 도착하기 위해서
+<SYNC Start=1280911><P Class=KRCC>
+<font color=#00ffff>今はまだまだ步こう<br>
+<font color=#ffd700>지금은 꾸준히 걸어가자
+<SYNC Start=1288336><P Class=KRCC>
+<font color=#ffd700>뉴웨스트</font> & <font color=#00ffff>고독저격<br>
+<font color=9370db>http://cafe.naver.com/narutosmi
+<SYNC Start=1290609><P Class=KRCC>
+<font color=#00ffff>幼い頃手にした<br>
+<font color=#ffd700>어릴적에 가지고 있던
+<SYNC Start=1294335><P Class=KRCC>
+<font color=#00ffff>おもちゃ代わりだったギタ―<br>
+<font color=#ffd700>장난감 같았던 기타
+<SYNC Start=1297508><P Class=KRCC>
+<font color=#00ffff>ただ音を出す<br>
+<font color=#ffd700>단지 소리를 내는 것에
+<SYNC Start=1299831><P Class=KRCC>
+<font color=#00ffff>本當それだけに 夢中になっていた<br>
+<font color=#ffd700>정말로 그것에만 빠져있었어
+<SYNC Start=1307109><P Class=KRCC>
+<font color=#00ffff>諦めるのは簡單なようで 一番難しい<br>
+<font color=#ffd700>포기란 쉬워 보이지만 가장 어려워
+<SYNC Start=1313627><P Class=KRCC>
+<font color=#00ffff>そうさ僕は今日も歌うよ<br>
+<font color=#ffd700>그래서 난 오늘도 노래해
+<SYNC Start=1318102><P Class=KRCC>
+<font color=#00ffff>だからそう 夢はかなう<br>
+<font color=#ffd700>그래서 꿈은 이루어진다고
+<SYNC Start=1321847><P Class=KRCC>
+<font color=#00ffff>信じたい 信じたい<br>
+<font color=#ffd700>믿고싶어 믿고싶어
+<SYNC Start=1326431><P Class=KRCC>
+<font color=#00ffff>たった一人でも 屆いてくれたら<br>
+<font color=#ffd700>단 한 명이라도 이루어진다면
+<SYNC Start=1332026><P Class=KRCC>
+<font color=#00ffff>この聲かれるまで<br>
+<font color=#ffd700>내 목소리가 쉬기 전까지
+<SYNC Start=1335942><P Class=KRCC>
+<font color=#00ffff>だれでも 夢はかなう<br>
+<font color=#ffd700>모두 꿈은 이루어 진다고
+<SYNC Start=1339684><P Class=KRCC>
+<font color=#00ffff>信じてる 信じてる<br>
+<font color=#ffd700>믿고있어 믿고있어
+<SYNC Start=1344494><P Class=KRCC>
+<font color=#00ffff>だからもっともっと未來はこれから<br>
+<font color=#ffd700>그래서 미래는 지금보다 더욱 더
+<SYNC Start=1349648><P Class=KRCC>
+<font color=#00ffff>好きな色にかわるよ<br>
+<font color=#ffd700>좋아하는 빛깔로 변할거야
+<SYNC Start=1357551><P Class=KRCC>&nbsp;
+<SYNC Start=1358675><P Class=KRCC>
+<font color=#00ffff>夢を抱いて步こう<br>
+<font color=#ffd700>꿈을 품고 걸어가자
+<SYNC Start=1365159><P Class=KRCC>&nbsp;
+<SYNC Start=1367680><P Class=KRCC>
+<font color=#9932CC>초대 호카게, 센쥬 하시라마 정도의<br>
+닌자는 더 이상 존재하지 않아
+<SYNC Start=1372161><P Class=KRCC>
+<font color=#9932CC>사람들은 모두 그렇게 말하며,
+<SYNC Start=1374040><P Class=KRCC>
+<font color=#9932CC>그 실력을 들은 자들은,<br>
+육도선인과 마찬가지로..
+<SYNC Start=1377612><P Class=KRCC>
+<font color=#9932CC>동화같은 이야기라고 하지
+<SYNC Start=1379567><P Class=KRCC>
+<font color=#9932CC>지금이야말로<br>
+그 동화같은 이야기를 현실로...!!
+<SYNC Start=1383561><P Class=KRCC>
+<font color=#9932CC>이 예토전생은 아무도 막을 수 없어!
+<SYNC Start=1386524><P Class=KRCC>
+<font color=#9932CC>차회 나루토 질풍전은
+<SYNC Start=1388514><P Class=KRCC>
+<font color=#9932CC>차회 나루토 질풍전은</font><br>
+"돌의 의지"
+<SYNC Start=1390345><P Class=KRCC>
+<font color=#9932CC>역시 늙은겐가..<br>
+나에게는 더 이상...
+<SYNC Start=1393641><P Class=KRCC>&nbsp;
+<SYNC Start=1395329><P Class=KRCC>
+<font color=#FAEB78>재미있게 보셨나요?<br>
+<Font Color=cornsilk>http://cafe.naver.com/narutosmi</font>
+<SYNC Start=1400780><P Class=KRCC>
+<font color=#FAEB78>나루토 자막 카페 입니다^^<br>
+<Font Color=cornsilk>http://cafe.naver.com/narutosmi</font>
+<SYNC Start=1410380><P Class=KRCC>&nbsp;
+</BODY>
+</SAMI>

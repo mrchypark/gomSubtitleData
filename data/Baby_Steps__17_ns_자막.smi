@@ -1,0 +1,612 @@
+﻿<SAMI>
+
+<HEAD>
+<TITLE>Untitled</TITLE>
+
+<SAMIParam>
+  Metrics {time:ms;}
+  Spec {MSFT:1.0;}
+</SAMIParam>
+
+<STYLE TYPE="text/css">
+<!--
+  P { font-family: Arial; font-weight: normal; color: white; background-color: black; text-align: center; }
+  .ENUSCC { name: English; lang: en-US ; SAMIType: CC ; }
+-->
+</STYLE>
+
+</HEAD>
+
+<BODY>
+
+<-- Open play menu, choose Captions and Subtiles, On if available -->
+<-- Open tools menu, Security, Show local captions when present -->
+
+<SYNC Start=0><P Class=ENUSCC><font color=#c0c0c0>카나가와 주니어<br>테니스 서킷
+<SYNC Start=3635><P Class=ENUSCC>&nbsp;
+<SYNC Start=4613><P Class=ENUSCC>내 자세로 서브의<br>코스를 읽어온다면
+<SYNC Start=7899><P Class=ENUSCC>&nbsp;
+<SYNC Start=8063><P Class=ENUSCC>지금 손목만으로 센터를<br>노렸던 것도 눈치챘을 터
+<SYNC Start=12110><P Class=ENUSCC>&nbsp;
+<SYNC Start=12377><P Class=ENUSCC>아라야 군이 서브를 치기<br>직전까지 움직이지 않아!
+<SYNC Start=15981><P Class=ENUSCC>30-30
+<SYNC Start=17497><P Class=ENUSCC>&nbsp;
+<SYNC Start=17675><P Class=ENUSCC>다음 따낸다면<br>브레이크 포인트!
+<SYNC Start=20491><P Class=ENUSCC>&nbsp;
+<SYNC Start=20747><P Class=ENUSCC>다음 따낸다면<br>매치 포인트
+<SYNC Start=23706><P Class=ENUSCC>&nbsp;
+<SYNC Start=32141><P Class=ENUSCC>와이드인가?
+<SYNC Start=34069><P Class=ENUSCC>&nbsp;
+<SYNC Start=35152><P Class=ENUSCC>정면인가?
+<SYNC Start=36875><P Class=ENUSCC>&nbsp;
+<SYNC Start=37091><P Class=ENUSCC>센터인가?
+<SYNC Start=39121><P Class=ENUSCC>&nbsp;
+<SYNC Start=40154><P Class=ENUSCC>와이드의 폼으로<br>와이드의 시선!
+<SYNC Start=42765><P Class=ENUSCC>폼은 와이드<br>시선도 와이드!
+<SYNC Start=45154><P Class=ENUSCC>마지막까지 끌었다가..
+<SYNC Start=47035><P Class=ENUSCC>마지막까지 기다렸다가..
+<SYNC Start=49056><P Class=ENUSCC>센터!
+<SYNC Start=50223><P Class=ENUSCC>센터, 좋았어!
+<SYNC Start=52683><P Class=ENUSCC>&nbsp;
+<SYNC Start=52819><P Class=ENUSCC>아라야 군도 읽고 있어!
+<SYNC Start=54438><P Class=ENUSCC>안 좋아..!
+<SYNC Start=56496><P Class=ENUSCC>&nbsp;
+<SYNC Start=58112><P Class=ENUSCC>오픈 코트!
+<SYNC Start=59429><P Class=ENUSCC>&nbsp;
+<SYNC Start=59746><P Class=ENUSCC>돌아와!
+<SYNC Start=61009><P Class=ENUSCC>&nbsp;
+<SYNC Start=62286><P Class=ENUSCC>맞출 수 있어!
+<SYNC Start=63984><P Class=ENUSCC>&nbsp;
+<SYNC Start=64294><P Class=ENUSCC>허를 찔렸어?!
+<SYNC Start=66905><P Class=ENUSCC>&nbsp;
+<SYNC Start=67800><P Class=ENUSCC>40-30
+<SYNC Start=69760><P Class=ENUSCC>아라야의 테니스가<br>변하기 시작했어
+<SYNC Start=72252><P Class=ENUSCC>스피드와 파워에 의지한..
+<SYNC Start=73935><P Class=ENUSCC>오픈 코트 노리기의<br>단조로운 테니스에서
+<SYNC Start=76308><P Class=ENUSCC>조금씩 전략적으로..
+<SYNC Start=78586><P Class=ENUSCC>결국에는 매치 포인트!
+<SYNC Start=79967><P Class=ENUSCC>마루오, 아직 할 수 있어!
+<SYNC Start=81268><P Class=ENUSCC>아라야, 한 방에<br>결정지어버려!
+<SYNC Start=83300><P Class=ENUSCC>상대방의 서브<br>속임수 성가시네..
+<SYNC Start=85689><P Class=ENUSCC>그래도, 따내면 찬스지?
+<SYNC Start=87514><P Class=ENUSCC>이제부터야
+<SYNC Start=89070><P Class=ENUSCC>에이 짱은<br>절대 포기하지 않아!
+<SYNC Start=91673><P Class=ENUSCC>&nbsp;
+<SYNC Start=91864><P Class=ENUSCC>버틴다!
+<SYNC Start=93531><P Class=ENUSCC>&nbsp;
+<SYNC Start=94879><P Class=ENUSCC><font color=#ffffff>Baby steps Episode 17<br><font color=#ff0080>Gaiant의 자막 블로그<br><font color=#800080>(http://blog.naver.com/chereamante))
+<SYNC Start=100415><P Class=ENUSCC><font color=#80ff00>베이비 <font color=#00ff40>스텝 <font color=#ff0080>OP <font color=#ff00ff>테마<br><font color=#8080ff>Title<font color=#ffffff> : <font color=#00ffff>Believe in yourself<br><font color=#ff8000>Artist<font color=#ffffff> : <font color=#ffff00>阿部真央 <font color=#ff8080>
+<SYNC Start=106301><P Class=ENUSCC>&nbsp;
+<SYNC Start=106412><P Class=ENUSCC><font color=#80ffff>やれるだけやり切ったかなんて<br><font color=#80ff80>할 수 있는 만큼 전부 해냈는 지는
+<SYNC Start=112061><P Class=ENUSCC><font color=#80ffff>自分しか分からない<br><font color=#80ff80>자신 밖에는 알지 못해
+<SYNC Start=117675><P Class=ENUSCC><font color=#80ffff>だから自分に嘘つくな<br><font color=#80ff80>그러니 자신에게 거짓말하지 마
+<SYNC Start=123326><P Class=ENUSCC><font color=#80ffff>自分にはズルするな<br><font color=#80ff80>자신에게 치사해지지 마
+<SYNC Start=128903><P Class=ENUSCC><font color=#80ffff>誰かと自分を比べるよりも<br><font color=#80ff80>누군과 자신을 견주는 것보다도
+<SYNC Start=134502><P Class=ENUSCC><font color=#80ffff>己を誇れる人になりたい<br><font color=#80ff80>자기를 자랑스레<br>여길 수 있는 사람이 되고파
+<SYNC Start=140265><P Class=ENUSCC><font color=#80ffff>自分を投げ出さず生きた今日を<br><font color=#80ff80>자신을 포기하지 않고 살아온 오늘을
+<SYNC Start=145695><P Class=ENUSCC><font color=#80ffff>褒め続けられる日々を送ろう<br><font color=#80ff80>게속 칭찬해가는 나날을 보내자
+<SYNC Start=151340><P Class=ENUSCC><font color=#80ffff>君にしか分からなくたって<br><font color=#80ff80>너밖에 모른다 해도
+<SYNC Start=156978><P Class=ENUSCC><font color=#80ffff>楽な道は選ぶな<br><font color=#80ff80>편한 길은 고르지 마
+<SYNC Start=162523><P Class=ENUSCC><font color=#80ffff>最後に報われるのは<br><font color=#80ff80>마지막에 보답받는 것은
+<SYNC Start=167954><P Class=ENUSCC><font color=#80ffff>逃げずに居た君自身だから<br><font color=#80ff80>도망치지 않고 있던 너 자신이니까
+<SYNC Start=175924><P Class=ENUSCC><font color=#c0c0c0>So <font color=#008000>believe<font color=#ffff00> in<font color=#0080ff> yourself<br><font color=#ffffff>그러니 너 자신을 믿어
+<SYNC Start=179755><P Class=ENUSCC>&nbsp;
+<SYNC Start=185763><P Class=ENUSCC><font color=#80ffff>Episode 17<br><font color=#8080ff>"프로에 동급생"
+<SYNC Start=189930><P Class=ENUSCC>&nbsp;
+<SYNC Start=196935><P Class=ENUSCC>와이드!
+<SYNC Start=198538><P Class=ENUSCC>&nbsp;
+<SYNC Start=199583><P Class=ENUSCC>좋았어
+<SYNC Start=200480><P Class=ENUSCC>설령 읽혔다 하더라도<br>리턴 대시!
+<SYNC Start=203282><P Class=ENUSCC>카운터라면 나도<br>다음은 예측할 수 있어
+<SYNC Start=205814><P Class=ENUSCC>크로스다!
+<SYNC Start=207379><P Class=ENUSCC>&nbsp;
+<SYNC Start=208314><P Class=ENUSCC>옳지!
+<SYNC Start=209594><P Class=ENUSCC>&nbsp;
+<SYNC Start=209750><P Class=ENUSCC>따라붙는다!
+<SYNC Start=211313><P Class=ENUSCC>&nbsp;
+<SYNC Start=211543><P Class=ENUSCC>반응했어..
+<SYNC Start=212647><P Class=ENUSCC>믿을 수 없는 스피드!
+<SYNC Start=214131><P Class=ENUSCC>그래도, 볼은 조금 떴어
+<SYNC Start=215949><P Class=ENUSCC>&nbsp;
+<SYNC Start=216060><P Class=ENUSCC>결정짓는다!
+<SYNC Start=218041><P Class=ENUSCC>&nbsp;
+<SYNC Start=218590><P Class=ENUSCC>버텼어!
+<SYNC Start=220153><P Class=ENUSCC>&nbsp;
+<SYNC Start=220296><P Class=ENUSCC>듀스
+<SYNC Start=221534><P Class=ENUSCC>좋았어!
+<SYNC Start=222709><P Class=ENUSCC>스피드와 파워에<br>맞서기 위한 리턴 대시가
+<SYNC Start=226559><P Class=ENUSCC>무기가 되어가고 있구나
+<SYNC Start=229158><P Class=ENUSCC>&nbsp;
+<SYNC Start=231149><P Class=ENUSCC>여기서 쓰러뜨리지 않으면<br>앞으로가 귀찮아질 거야
+<SYNC Start=234038><P Class=ENUSCC>할 수 있어..
+<SYNC Start=235003><P Class=ENUSCC>아직, 반드시<br>더 할 수 있어!
+<SYNC Start=237749><P Class=ENUSCC>&nbsp;
+<SYNC Start=241148><P Class=ENUSCC>어드밴티지, 아라야
+<SYNC Start=243561><P Class=ENUSCC>&nbsp;
+<SYNC Start=243751><P Class=ENUSCC>젠장!
+<SYNC Start=244894><P Class=ENUSCC>좋아
+<SYNC Start=246140><P Class=ENUSCC>빨라!
+<SYNC Start=247275><P Class=ENUSCC>저건 읽어도<br>반응할 수 없어요!
+<SYNC Start=249434><P Class=ENUSCC>한판승부..
+<SYNC Start=251148><P Class=ENUSCC>이건 어쩔 수가 없지
+<SYNC Start=253439><P Class=ENUSCC>실패를 아랑곳하지 않고 노려온<br>아라야 군을 칭찬해줘야 한다
+<SYNC Start=257090><P Class=ENUSCC>또 매치 포인트?
+<SYNC Start=258662><P Class=ENUSCC>이젠 싫다구..
+<SYNC Start=260170><P Class=ENUSCC>괜찮다니까
+<SYNC Start=261523><P Class=ENUSCC>저런 서브, 그렇게<br>몇 번이나 들어가지 않아
+<SYNC Start=264626><P Class=ENUSCC>지금의 에이스는 컸어
+<SYNC Start=266896><P Class=ENUSCC>하지만 다음도<br>된다고는 못 해
+<SYNC Start=269706><P Class=ENUSCC>저 녀석은 스피드 볼에<br>대한 적응성이 높아
+<SYNC Start=272749><P Class=ENUSCC>게다가 실수로 세컨드 서브가<br>되면 리턴 대시로 나오겠지
+<SYNC Start=277495><P Class=ENUSCC>&nbsp;
+<SYNC Start=277656><P Class=ENUSCC>다음은 반드시<br>코스 중시로 가야한다
+<SYNC Start=280521><P Class=ENUSCC>하지만, 그것만으로<br>괜찮은 건가?
+<SYNC Start=283540><P Class=ENUSCC>&nbsp;
+<SYNC Start=284134><P Class=ENUSCC>시합에서 이렇게<br>생각하는 건 처음이야..
+<SYNC Start=288205><P Class=ENUSCC>&nbsp;
+<SYNC Start=288493><P Class=ENUSCC>스피드와 파워로 굴복시키는 것<br>말고는 머리에 없었으니까...
+<SYNC Start=293707><P Class=ENUSCC>&nbsp;
+<SYNC Start=297163><P Class=ENUSCC>좋아, 이걸로 끝낸다
+<SYNC Start=300326><P Class=ENUSCC>&nbsp;
+<SYNC Start=303379><P Class=ENUSCC>뭔가 폼에 위화감이..
+<SYNC Start=306817><P Class=ENUSCC>&nbsp;
+<SYNC Start=308470><P Class=ENUSCC>커트 서브!
+<SYNC Start=309644><P Class=ENUSCC>뭐야?
+<SYNC Start=310486><P Class=ENUSCC>슬로우 커브같아!
+<SYNC Start=312603><P Class=ENUSCC>아라야답진 않지만 능숙해!
+<SYNC Start=315525><P Class=ENUSCC>역시나..
+<SYNC Start=316682><P Class=ENUSCC>에이 짱도 읽고 있어!
+<SYNC Start=318976><P Class=ENUSCC>&nbsp;
+<SYNC Start=324128><P Class=ENUSCC>깊어..
+<SYNC Start=324993><P Class=ENUSCC>하지만, 앞에서 승부!
+<SYNC Start=327207><P Class=ENUSCC>에이 짱!
+<SYNC Start=328095><P Class=ENUSCC>끝내버려!
+<SYNC Start=329262><P Class=ENUSCC>그 자리에서<br>치려는 건가?
+<SYNC Start=330969><P Class=ENUSCC>크로스?
+<SYNC Start=331723><P Class=ENUSCC>역크로스?
+<SYNC Start=332792><P Class=ENUSCC>아니, 자세가 무너져 있어
+<SYNC Start=334970><P Class=ENUSCC>크로스다!
+<SYNC Start=336491><P Class=ENUSCC>크로스는 안 돼!
+<SYNC Start=338798><P Class=ENUSCC>&nbsp;
+<SYNC Start=342959><P Class=ENUSCC>손목만으로 허를 찔렀다
+<SYNC Start=345047><P Class=ENUSCC>이 녀석, 아까의<br>내 서브를 보고..
+<SYNC Start=347985><P Class=ENUSCC>코스는 좋지만<br>구위가 없어!
+<SYNC Start=349826><P Class=ENUSCC>아라야라면..!
+<SYNC Start=350868><P Class=ENUSCC>닿는다!
+<SYNC Start=351956><P Class=ENUSCC>라인 근처에서 카운터!
+<SYNC Start=354480><P Class=ENUSCC>&nbsp;
+<SYNC Start=354653><P Class=ENUSCC>좋았어!
+<SYNC Start=356101><P Class=ENUSCC>&nbsp;
+<SYNC Start=362488><P Class=ENUSCC>들어가!!!
+<SYNC Start=364797><P Class=ENUSCC>&nbsp;
+<SYNC Start=372338><P Class=ENUSCC>어느 쪽이냐..?
+<SYNC Start=374383><P Class=ENUSCC>&nbsp;
+<SYNC Start=376487><P Class=ENUSCC>게임 셋트<br>승자 아라야
+<SYNC Start=379869><P Class=ENUSCC>&nbsp;
+<SYNC Start=380301><P Class=ENUSCC>게임 셋트..
+<SYNC Start=382984><P Class=ENUSCC>아자!
+<SYNC Start=384922><P Class=ENUSCC>&nbsp;
+<SYNC Start=385295><P Class=ENUSCC>졌다..
+<SYNC Start=387851><P Class=ENUSCC>&nbsp;
+<SYNC Start=388385><P Class=ENUSCC>멋진 경기!
+<SYNC Start=389831><P Class=ENUSCC>아깝다, 마루오
+<SYNC Start=391005><P Class=ENUSCC>잘 했어!
+<SYNC Start=392100><P Class=ENUSCC>엄청났다고, 노 시드
+<SYNC Start=394124><P Class=ENUSCC>아라야, 이번엔 우승해라!
+<SYNC Start=397289><P Class=ENUSCC>&nbsp;
+<SYNC Start=404627><P Class=ENUSCC>고맙다
+<SYNC Start=406879><P Class=ENUSCC>&nbsp;
+<SYNC Start=410423><P Class=ENUSCC>감사했습니다
+<SYNC Start=412510><P Class=ENUSCC>&nbsp;
+<SYNC Start=412764><P Class=ENUSCC>아, 져버렸어
+<SYNC Start=414852><P Class=ENUSCC>&nbsp;
+<SYNC Start=415773><P Class=ENUSCC>그래도, 상대방은<br>현에서 2위잖아?
+<SYNC Start=417931><P Class=ENUSCC>굉장해, 마루오 군
+<SYNC Start=419479><P Class=ENUSCC>마지막 네트 인은 아라야가<br>집념으로 꽂아넣은 듯 했죠
+<SYNC Start=423955><P Class=ENUSCC>응
+<SYNC Start=425114><P Class=ENUSCC>&nbsp;
+<SYNC Start=425266><P Class=ENUSCC>둘 다 자신의 테니스 감이<br>변할 정도의 시합이었을 거다
+<SYNC Start=429790><P Class=ENUSCC>서로가 자신의 장점을<br>마음껏 발휘했으니까 말이다
+<SYNC Start=433425><P Class=ENUSCC>놀란 것은 마루오 군이<br>프로를 노리는 선수를 상대로
+<SYNC Start=437504><P Class=ENUSCC>단 1년만에 이렇게까지<br>싸울 수 있게 됐다는 사실
+<SYNC Start=442192><P Class=ENUSCC>&nbsp;
+<SYNC Start=442471><P Class=ENUSCC>이건 터무니없는 일이다
+<SYNC Start=445330><P Class=ENUSCC>&nbsp;
+<SYNC Start=461947><P Class=ENUSCC>시끌시끌 달려들지 않아
+<SYNC Start=463709><P Class=ENUSCC>그건 그거대로 기분나빠
+<SYNC Start=466777><P Class=ENUSCC>그건 그렇고, 마루오 녀석
+<SYNC Start=468880><P Class=ENUSCC>모처럼 아라야의<br>약점을 알려줬는데
+<SYNC Start=471547><P Class=ENUSCC>역으로 강하게<br>만들어버렸잖아
+<SYNC Start=474923><P Class=ENUSCC>&nbsp;
+<SYNC Start=477218><P Class=ENUSCC>왜 그래, 안 가?
+<SYNC Start=479731><P Class=ENUSCC>그게, 뭐라고 말을<br>걸면 좋을지 모르겠어
+<SYNC Start=482866><P Class=ENUSCC>그런 거, '수고했어'<br>정도면 되는 거 아냐?
+<SYNC Start=485617><P Class=ENUSCC>그게, 그렇게<br>가벼운 느낌이..
+<SYNC Start=486990><P Class=ENUSCC>우물쭈물하고 있으면<br>다른 누군가가..
+<SYNC Start=490193><P Class=ENUSCC>&nbsp;
+<SYNC Start=490715><P Class=ENUSCC>수고했어, 에이 짱
+<SYNC Start=493049><P Class=ENUSCC>&nbsp;
+<SYNC Start=493461><P Class=ENUSCC>봐
+<SYNC Start=494541><P Class=ENUSCC>아, 고마워
+<SYNC Start=496477><P Class=ENUSCC>굉장한 시합이었어
+<SYNC Start=499338><P Class=ENUSCC>&nbsp;
+<SYNC Start=503286><P Class=ENUSCC>그래도, 져버렸어
+<SYNC Start=504587><P Class=ENUSCC>그렇긴 하지만..
+<SYNC Start=505619><P Class=ENUSCC>후반엔 점점 만회해서<br>마지막에는 호각이었잖아
+<SYNC Start=509381><P Class=ENUSCC>제3셋트까지 갔더라면<br>역전했을지도 모른다구?
+<SYNC Start=513052><P Class=ENUSCC>아니..
+<SYNC Start=514227><P Class=ENUSCC>결국, 제2셋트는 한 번도<br>브레이크하질 못 했고..
+<SYNC Start=517369><P Class=ENUSCC>분하지만 완패야
+<SYNC Start=520277><P Class=ENUSCC>&nbsp;
+<SYNC Start=521306><P Class=ENUSCC>할 수 있는 건<br>전부 다 했어
+<SYNC Start=523688><P Class=ENUSCC>프로를 노리고 있는<br>아라야 군이 상대라도
+<SYNC Start=526101><P Class=ENUSCC>마음가짐에선 지지<br>않았다고 생각하고..
+<SYNC Start=528553><P Class=ENUSCC>그러니까 어떻게든<br>이기고 싶어서..
+<SYNC Start=532431><P Class=ENUSCC>&nbsp;
+<SYNC Start=534527><P Class=ENUSCC>어쨌든 생각하고 생각해서<br>아라야 군의 약점을 노리고
+<SYNC Start=538860><P Class=ENUSCC>마지막까지 최선을 다했지만..
+<SYNC Start=542257><P Class=ENUSCC>&nbsp;
+<SYNC Start=543762><P Class=ENUSCC>그래도 졌어
+<SYNC Start=546251><P Class=ENUSCC>&nbsp;
+<SYNC Start=546774><P Class=ENUSCC>마음가짐에선<br>지지 않았지만..
+<SYNC Start=550245><P Class=ENUSCC>&nbsp;
+<SYNC Start=551210><P Class=ENUSCC>그래도 닿지 않았으니까..
+<SYNC Start=554202><P Class=ENUSCC>&nbsp;
+<SYNC Start=556661><P Class=ENUSCC>실력이 부족했어
+<SYNC Start=558963><P Class=ENUSCC>그러니까 변명의 여지가 없어
+<SYNC Start=562613><P Class=ENUSCC>&nbsp;
+<SYNC Start=563041><P Class=ENUSCC>울고있어..?
+<SYNC Start=564892><P Class=ENUSCC>&nbsp;
+<SYNC Start=571448><P Class=ENUSCC>에에?!
+<SYNC Start=573019><P Class=ENUSCC>&nbsp;
+<SYNC Start=574108><P Class=ENUSCC>에에에엑?!
+<SYNC Start=576388><P Class=ENUSCC>&nbsp;
+<SYNC Start=578087><P Class=ENUSCC>에이 짱은 아직 자신의<br>대단함을 모르고 있어
+<SYNC Start=582175><P Class=ENUSCC>&nbsp;
+<SYNC Start=588909><P Class=ENUSCC>프로를 목표로 하고있는<br>아라야 군한테 지고
+<SYNC Start=591211><P Class=ENUSCC>그렇게까지 분해하다니<br>정말로 대단해
+<SYNC Start=594695><P Class=ENUSCC>에이 짱은 대단하다니까!
+<SYNC Start=597888><P Class=ENUSCC>&nbsp;
+<SYNC Start=598843><P Class=ENUSCC>그래?
+<SYNC Start=599792><P Class=ENUSCC>응!
+<SYNC Start=601371><P Class=ENUSCC>&nbsp;
+<SYNC Start=604215><P Class=ENUSCC>마루오 군, 수고했어!
+<SYNC Start=606049><P Class=ENUSCC>&nbsp;
+<SYNC Start=606771><P Class=ENUSCC>고마워, 사사키
+<SYNC Start=609065><P Class=ENUSCC>아아, 깜짝 놀랐네
+<SYNC Start=610549><P Class=ENUSCC>아니..<br>신경쓰지 마!
+<SYNC Start=613089><P Class=ENUSCC>&nbsp;
+<SYNC Start=613683><P Class=ENUSCC>이런이런..
+<SYNC Start=615857><P Class=ENUSCC>&nbsp;
+<SYNC Start=616572><P Class=ENUSCC><font color=#ff8080>Subtitled by Gaiant<br><font color=#80ffff>가이안트의 유혹<br><font color=#ff80ff>blog.naver.com/chereamante
+<SYNC Start=621657><P Class=ENUSCC>&nbsp;
+<SYNC Start=622705><P Class=ENUSCC>지금부터 카나가와<br>주니어 테니스 서킷
+<SYNC Start=626308><P Class=ENUSCC>18세 이하 남자 단식전<br>결승전을 시작하겠습니다
+<SYNC Start=630625><P Class=ENUSCC>결승전은 작년과 같은 대전
+<SYNC Start=634276><P Class=ENUSCC>이건 뭐,<br>숙명의 대결이네요
+<SYNC Start=636823><P Class=ENUSCC>어째서 숙명인데?
+<SYNC Start=639101><P Class=ENUSCC>이 둘은 초등학생 무렵부터<br>몇 번이나 경기하고 있어요
+<SYNC Start=643577><P Class=ENUSCC>실력 차이는 그다지<br>없다고 말하고들 있지만
+<SYNC Start=646228><P Class=ENUSCC>결과는 타쿠마 씨의 전승
+<SYNC Start=649180><P Class=ENUSCC>&nbsp;
+<SYNC Start=650394><P Class=ENUSCC>슬럼프시기 이후에
+<SYNC Start=651625><P Class=ENUSCC>타쿠마 씨는 다른 약한<br>상대한테 지거나 하지만
+<SYNC Start=655269><P Class=ENUSCC>왜인지 아라야한테는<br>패배하질 않네요
+<SYNC Start=657888><P Class=ENUSCC>상성이 좋다든가?
+<SYNC Start=659611><P Class=ENUSCC>아뇨, 아마도 마음가짐<br>문제라고 생각하는데요
+<SYNC Start=663421><P Class=ENUSCC>그러니까,<br>아라야 군도 그런 말을..
+<SYNC Start=665921><P Class=ENUSCC>&nbsp;
+<SYNC Start=666184><P Class=ENUSCC>혹시 이 대회에서<br>네게 이기지 못한다면
+<SYNC Start=669716><P Class=ENUSCC>난 프로 그만둘 생각이다
+<SYNC Start=672906><P Class=ENUSCC>확실히 봐둬야지!
+<SYNC Start=674848><P Class=ENUSCC>&nbsp;
+<SYNC Start=675098><P Class=ENUSCC>쓰리 셋트 매치<br>에가와 서비스, 플레이
+<SYNC Start=679109><P Class=ENUSCC>&nbsp;
+<SYNC Start=681946><P Class=ENUSCC>빨라..!
+<SYNC Start=682803><P Class=ENUSCC>200km 넘는 거 아냐?
+<SYNC Start=684676><P Class=ENUSCC>들어가면 무조건 에이스야..
+<SYNC Start=687802><P Class=ENUSCC>&nbsp;
+<SYNC Start=688468><P Class=ENUSCC>아라야 군은 어떻게<br>브레이크할 생각일까?
+<SYNC Start=691737><P Class=ENUSCC>내가 전혀 맞설 수 없는<br>타쿠마 씨의 서브 게임을!
+<SYNC Start=696582><P Class=ENUSCC>&nbsp;
+<SYNC Start=705713><P Class=ENUSCC>0-15
+<SYNC Start=707454><P Class=ENUSCC>아자!
+<SYNC Start=708557><P Class=ENUSCC>오, 아라야가<br>먼저 카운터!
+<SYNC Start=710676><P Class=ENUSCC>아라야, 오늘이야말로<br>할 수 있을 거라고!
+<SYNC Start=713573><P Class=ENUSCC>잘 해!
+<SYNC Start=714478><P Class=ENUSCC>얕게 가라앉는 볼
+<SYNC Start=716057><P Class=ENUSCC>전략적인 볼이야
+<SYNC Start=718279><P Class=ENUSCC>&nbsp;
+<SYNC Start=719686><P Class=ENUSCC>마루오 전에서<br>학습했다는 건가..
+<SYNC Start=722432><P Class=ENUSCC>그렇다고 하면, 나는 매일<br>마루오한테 들러붙어 산다고!
+<SYNC Start=727770><P Class=ENUSCC>&nbsp;
+<SYNC Start=729244><P Class=ENUSCC>벌써 앞에 있어!
+<SYNC Start=731298><P Class=ENUSCC>&nbsp;
+<SYNC Start=731789><P Class=ENUSCC>15-15
+<SYNC Start=733448><P Class=ENUSCC>&nbsp;
+<SYNC Start=733909><P Class=ENUSCC>나왔네요
+<SYNC Start=735385><P Class=ENUSCC>비장의 수단<br>서브 앤 발리!
+<SYNC Start=737861><P Class=ENUSCC>멋있어..
+<SYNC Start=739274><P Class=ENUSCC>굉장해..
+<SYNC Start=740306><P Class=ENUSCC>저런 빠른 서브를 친 직후엔<br>순식간에 코트의 한가운데..
+<SYNC Start=744107><P Class=ENUSCC>다음 한 발짝으로 코트 대부분을<br>커버할 수 있는 위치에 있어
+<SYNC Start=749353><P Class=ENUSCC>아라야 군이 상대면..
+<SYNC Start=750805><P Class=ENUSCC>앞으로 나올 때까지가<br>엄청 힘들텐데..
+<SYNC Start=753202><P Class=ENUSCC>이제 와서지만, 타쿠마 씨의<br>굉장함이 뼈저리게 느껴져
+<SYNC Start=757067><P Class=ENUSCC>그렇게 나와야지!
+<SYNC Start=759472><P Class=ENUSCC>&nbsp;
+<SYNC Start=759686><P Class=ENUSCC>아라야, 넌 굉장해
+<SYNC Start=762892><P Class=ENUSCC>프로를 그만둔다니<br>나는 그런 말 못했다
+<SYNC Start=766320><P Class=ENUSCC>잇달아 지기만 해서..
+<SYNC Start=768217><P Class=ENUSCC>의욕이 사라져도<br>그걸 말할 각오가 없었다
+<SYNC Start=771678><P Class=ENUSCC>단, 그래도 네게만은<br>지고싶지 않았다
+<SYNC Start=777741><P Class=ENUSCC>진심으로 프로를 노리는<br>녀석에겐 지지 않아
+<SYNC Start=780971><P Class=ENUSCC>그것만이 내<br>자존심이었으니까!
+<SYNC Start=785183><P Class=ENUSCC>&nbsp;
+<SYNC Start=788839><P Class=ENUSCC>그래도, 이제 그런<br>자존심따윈 필요없어졌어
+<SYNC Start=792966><P Class=ENUSCC>&nbsp;
+<SYNC Start=793586><P Class=ENUSCC>난 프로가 될 거다!
+<SYNC Start=796024><P Class=ENUSCC>&nbsp;
+<SYNC Start=796992><P Class=ENUSCC>이젠 어떤<br>시합에서도 안 져!
+<SYNC Start=800406><P Class=ENUSCC>평소보다 더 굉장해
+<SYNC Start=802644><P Class=ENUSCC>그래도, 조금씩<br>보이기 시작했어
+<SYNC Start=805327><P Class=ENUSCC>한 구 한 구가..
+<SYNC Start=806851><P Class=ENUSCC>마지막에 발리를<br>결정짓기 위한 노림수가 있어
+<SYNC Start=809645><P Class=ENUSCC>그게 보이기 시작했단 건..
+<SYNC Start=811533><P Class=ENUSCC>타쿠마 씨가 어느 정도 멀리<br>있는지 보이기 시작했단 건지도!
+<SYNC Start=817739><P Class=ENUSCC>저런 공격 패턴이나<br>구종을 늘리는 공격법이라면
+<SYNC Start=821223><P Class=ENUSCC>신장이나 리치가 없는<br>나라도 할 수 있어
+<SYNC Start=824919><P Class=ENUSCC>&nbsp;
+<SYNC Start=825628><P Class=ENUSCC>그렇구나..
+<SYNC Start=826994><P Class=ENUSCC>타쿠마 씨는 앞으로 못 나오게<br>하기 위해 공격하고 있어
+<SYNC Start=830782><P Class=ENUSCC>그렇다고 하면..
+<SYNC Start=833162><P Class=ENUSCC>&nbsp;
+<SYNC Start=841289><P Class=ENUSCC>게임 셋트<br>승자, 에가와 타쿠마
+<SYNC Start=845107><P Class=ENUSCC>카운트<br>4-6, 7-5, 7-5
+<SYNC Start=849439><P Class=ENUSCC>&nbsp;
+<SYNC Start=859971><P Class=ENUSCC>어이, 내가 시합 전에<br>했던 말 기억하고 있겠지?
+<SYNC Start=863456><P Class=ENUSCC>그래
+<SYNC Start=864388><P Class=ENUSCC>그건 철회다
+<SYNC Start=866253><P Class=ENUSCC>오늘 알았다
+<SYNC Start=867896><P Class=ENUSCC>난 아직 더욱 더<br>강해질 수 있어
+<SYNC Start=871221><P Class=ENUSCC>&nbsp;
+<SYNC Start=871355><P Class=ENUSCC>네게는 조금만 더<br>있으면 이길 수 있어
+<SYNC Start=874911><P Class=ENUSCC>&nbsp;
+<SYNC Start=875448><P Class=ENUSCC>프로를 논하는 건<br>그 이후다
+<SYNC Start=878091><P Class=ENUSCC>&nbsp;
+<SYNC Start=878240><P Class=ENUSCC>그러니까 선언하지<br>않아도 된다니까
+<SYNC Start=881757><P Class=ENUSCC>&nbsp;
+<SYNC Start=883793><P Class=ENUSCC>이 녀석이고 저 녀석이고<br>포기라는 걸 모르는구만
+<SYNC Start=888047><P Class=ENUSCC>&nbsp;
+<SYNC Start=888269><P Class=ENUSCC>드디어 끝났어
+<SYNC Start=889940><P Class=ENUSCC>응
+<SYNC Start=891130><P Class=ENUSCC>아, 그래도<br>아직 시상식이 있어
+<SYNC Start=894146><P Class=ENUSCC>베스트4는 시상받으니까
+<SYNC Start=896040><P Class=ENUSCC>에이 짱도 노트는 정리하고<br>어서 준비하지 않으면..
+<SYNC Start=899659><P Class=ENUSCC>가방은?
+<SYNC Start=900627><P Class=ENUSCC>아, 밖의<br>짐 두는 곳에..
+<SYNC Start=903027><P Class=ENUSCC>자, 빨리빨리!
+<SYNC Start=904928><P Class=ENUSCC>아, 응..
+<SYNC Start=905658><P Class=ENUSCC>알겠어
+<SYNC Start=907958><P Class=ENUSCC>&nbsp;
+<SYNC Start=923599><P Class=ENUSCC>네가 노트의 마루오 군?
+<SYNC Start=925769><P Class=ENUSCC>&nbsp;
+<SYNC Start=925927><P Class=ENUSCC>에?!
+<SYNC Start=927413><P Class=ENUSCC>&nbsp;
+<SYNC Start=928219><P Class=ENUSCC>오늘 시합은 노트의 마루오란<br>녀석이 재밌었단 소문을 들어서
+<SYNC Start=933695><P Class=ENUSCC>오, 이게 그<br>소문의 노트구나?
+<SYNC Start=937085><P Class=ENUSCC>오오, 이런 걸<br>시합 중에 적는구나
+<SYNC Start=939926><P Class=ENUSCC>잠깐, 뭘 멋대로<br>남의 노트를..!
+<SYNC Start=942124><P Class=ENUSCC>이 수식은 뭐야?
+<SYNC Start=943650><P Class=ENUSCC>에에?
+<SYNC Start=944761><P Class=ENUSCC>&nbsp;
+<SYNC Start=944940><P Class=ENUSCC>이거!
+<SYNC Start=945901><P Class=ENUSCC>아, 그건 아까 시합에서<br>서브가 와이드인지 정면인지
+<SYNC Start=950814><P Class=ENUSCC>센터인지 어디서 올까의<br>확률을 계산해야만 해서..
+<SYNC Start=954925><P Class=ENUSCC>우와, 체인지 코트중에<br>계산한 거구나?
+<SYNC Start=957901><P Class=ENUSCC>굉장한데!
+<SYNC Start=959362><P Class=ENUSCC>난 뭘 평범하게<br>대답하고 있는 거냐..
+<SYNC Start=963042><P Class=ENUSCC>그보다, 그 전에<br>대체 뭐예요?!
+<SYNC Start=965709><P Class=ENUSCC>그 외에도 대부분의<br>랠리가 기록되어 있어
+<SYNC Start=969120><P Class=ENUSCC>그건 집에 돌아가서 반성하거나<br>이미지 트레이닝에도 쓰니까..
+<SYNC Start=975578><P Class=ENUSCC>그러니까, 난 왜<br>대답하는 거냐..!
+<SYNC Start=978365><P Class=ENUSCC>재밌는 걸 생각하는구나
+<SYNC Start=981409><P Class=ENUSCC>&nbsp;
+<SYNC Start=983163><P Class=ENUSCC>그런가..
+<SYNC Start=985204><P Class=ENUSCC>과연 그렇군..
+<SYNC Start=986910><P Class=ENUSCC>이 사람, 진짜 뭐냐..?!
+<SYNC Start=990283><P Class=ENUSCC>&nbsp;
+<SYNC Start=990600><P Class=ENUSCC>저기!
+<SYNC Start=992312><P Class=ENUSCC>&nbsp;
+<SYNC Start=993000><P Class=ENUSCC>위험해, 벌써 이런 시간!
+<SYNC Start=995643><P Class=ENUSCC>뭐 하는 거냐,<br>이 바보 자식아!
+<SYNC Start=997968><P Class=ENUSCC>지금, 마침<br>가는 중이예요..
+<SYNC Start=1000504><P Class=ENUSCC>어이!
+<SYNC Start=1001280><P Class=ENUSCC>아아, 곤란하네..
+<SYNC Start=1003140><P Class=ENUSCC>인사할 생각으로 왔는데<br>벌써 가지 않으면 안 돼
+<SYNC Start=1007179><P Class=ENUSCC>고마워
+<SYNC Start=1008617><P Class=ENUSCC>&nbsp;
+<SYNC Start=1009267><P Class=ENUSCC>재밌었어, 노트 군
+<SYNC Start=1011783><P Class=ENUSCC>&nbsp;
+<SYNC Start=1011883><P Class=ENUSCC>노트 군?
+<SYNC Start=1013161><P Class=ENUSCC>그래서 STC 소속의<br>노트 군에게 부탁이 있는데..
+<SYNC Start=1017447><P Class=ENUSCC>들어줄래?
+<SYNC Start=1018608><P Class=ENUSCC>에?!
+<SYNC Start=1019518><P Class=ENUSCC>&nbsp;
+<SYNC Start=1020176><P Class=ENUSCC>미우라 코치는 알지?
+<SYNC Start=1022540><P Class=ENUSCC>그 불독처럼 생긴..
+<SYNC Start=1024363><P Class=ENUSCC>아, 뭐..
+<SYNC Start=1025936><P Class=ENUSCC>향후에 제대로<br>인사하러 간다고
+<SYNC Start=1028394><P Class=ENUSCC>이케 소우지가 그랬다고<br>전해줬으면 하는데
+<SYNC Start=1031820><P Class=ENUSCC>부탁해!
+<SYNC Start=1033133><P Class=ENUSCC>&nbsp;
+<SYNC Start=1035870><P Class=ENUSCC>이케 소우지?
+<SYNC Start=1037728><P Class=ENUSCC>어라, 어디선가<br>들은 적이 있는데?
+<SYNC Start=1040639><P Class=ENUSCC>이케 소우지..
+<SYNC Start=1043170><P Class=ENUSCC>&nbsp;
+<SYNC Start=1044180><P Class=ENUSCC><font color=#ff8000>천재 이케다 소우지<br><font color=#ffff00>[강함]<font color=#80ff00>의 비밀에 다가서다!
+<SYNC Start=1045005><P Class=ENUSCC><font color=#ff8000>천재 이케다 소우지<br><font color=#ffff00>[강함]<font color=#80ff00>의 비밀에 다가서다!<br><br><font color=#ffffff>종종 테니스<br>잡지에 실리는
+<SYNC Start=1046847><P Class=ENUSCC><font color=#ff8000>천재 이케다 소우지<br><font color=#ffff00>[강함]<font color=#80ff00>의 비밀에 다가서다!<br><br><font color=#ffffff>고교생이며 일본 랭킹<br>톱 텐에 드는 사람!
+<SYNC Start=1051439><P Class=ENUSCC>&nbsp;
+<SYNC Start=1053465><P Class=ENUSCC>거짓말..
+<SYNC Start=1055529><P Class=ENUSCC>&nbsp;
+<SYNC Start=1057370><P Class=ENUSCC>카나가와 주니어 테니스 서킷<br>남자 단식 우승 에가와 타쿠마
+<SYNC Start=1064608><P Class=ENUSCC>준우승 아라야 히로시
+<SYNC Start=1067980><P Class=ENUSCC>&nbsp;
+<SYNC Start=1068082><P Class=ENUSCC>베스트4, 마루오 에이치로
+<SYNC Start=1071495><P Class=ENUSCC>오오바야시 료
+<SYNC Start=1073249><P Class=ENUSCC>&nbsp;
+<SYNC Start=1074349><P Class=ENUSCC>축하해!
+<SYNC Start=1075600><P Class=ENUSCC>축하해, 에이 짱!
+<SYNC Start=1077199><P Class=ENUSCC>베스트4 멋있다-!
+<SYNC Start=1079979><P Class=ENUSCC>&nbsp;
+<SYNC Start=1080818><P Class=ENUSCC>작년 1회전에서 싸웠던<br>마루오 군이 옆에 있다니
+<SYNC Start=1084883><P Class=ENUSCC>신기해
+<SYNC Start=1086717><P Class=ENUSCC>&nbsp;
+<SYNC Start=1086943><P Class=ENUSCC>축하해
+<SYNC Start=1088296><P Class=ENUSCC>&nbsp;
+<SYNC Start=1088462><P Class=ENUSCC>고마워
+<SYNC Start=1090375><P Class=ENUSCC>&nbsp;
+<SYNC Start=1094450><P Class=ENUSCC>아, 미우라 코치
+<SYNC Start=1096488><P Class=ENUSCC>아까 이케 소우지란 사람이<br>코치한테 잘 부탁한다고..
+<SYNC Start=1100639><P Class=ENUSCC>&nbsp;
+<SYNC Start=1100799><P Class=ENUSCC>이케 소우지?
+<SYNC Start=1102299><P Class=ENUSCC>&nbsp;
+<SYNC Start=1102453><P Class=ENUSCC>아, 네..
+<SYNC Start=1104132><P Class=ENUSCC>&nbsp;
+<SYNC Start=1104260><P Class=ENUSCC>왔던 건가요?
+<SYNC Start=1105887><P Class=ENUSCC>어디있는 건가요, 스승-!
+<SYNC Start=1108390><P Class=ENUSCC>벌써 갔다구, 유키치 군
+<SYNC Start=1110950><P Class=ENUSCC>스승?
+<SYNC Start=1112331><P Class=ENUSCC>그런가..
+<SYNC Start=1113291><P Class=ENUSCC>벌써 돌아온 건가..
+<SYNC Start=1115608><P Class=ENUSCC>헤에, 그럼 이케 군<br>이번에 STC 오는 거구나?
+<SYNC Start=1119211><P Class=ENUSCC>오랜만이네~
+<SYNC Start=1121060><P Class=ENUSCC>뭐야, 모두들<br>아는 사람인 건가?
+<SYNC Start=1124031><P Class=ENUSCC>소우 짱..
+<SYNC Start=1126016><P Class=ENUSCC>&nbsp;
+<SYNC Start=1126171><P Class=ENUSCC>소, 소우 짱..?
+<SYNC Start=1128346><P Class=ENUSCC>아, 나 소꿉친구야
+<SYNC Start=1130918><P Class=ENUSCC>소꿉친구인가..
+<SYNC Start=1132929><P Class=ENUSCC>누구?
+<SYNC Start=1133878><P Class=ENUSCC>마루오 군과는<br>동급생이란다
+<SYNC Start=1136743><P Class=ENUSCC>3년 전, 또래의 적수가<br>국내에 없어지게 되서
+<SYNC Start=1140660><P Class=ENUSCC>플로리다로 유학갔었다
+<SYNC Start=1142776><P Class=ENUSCC>저 쪽에서도<br>시합에 계속 승리해서
+<SYNC Start=1144960><P Class=ENUSCC>세계 순위도 급상승했으니<br>그냥 굉장한 정도가 아니예요
+<SYNC Start=1149805><P Class=ENUSCC>초천재예요!
+<SYNC Start=1151773><P Class=ENUSCC>근데 그런 사람이<br>왜 지금 일본에 있어?
+<SYNC Start=1154876><P Class=ENUSCC>Japan Open 이잖아?
+<SYNC Start=1156753><P Class=ENUSCC>그렇겠지
+<SYNC Start=1157932><P Class=ENUSCC>세계의 강호들이 모이는<br>일본 최대의 대회에서
+<SYNC Start=1161813><P Class=ENUSCC>화려하게 데뷔하는 거야
+<SYNC Start=1164239><P Class=ENUSCC>데뷔?
+<SYNC Start=1165683><P Class=ENUSCC>&nbsp;
+<SYNC Start=1165907><P Class=ENUSCC>그건 즉, 나랑<br>같은 나이에 프로?
+<SYNC Start=1169842><P Class=ENUSCC>&nbsp;
+<SYNC Start=1170885><P Class=ENUSCC>그래
+<SYNC Start=1172661><P Class=ENUSCC>&nbsp;
+<SYNC Start=1178781><P Class=ENUSCC>그럼, 오늘 시합했던<br>사람은 편히 쉬어라
+<SYNC Start=1182638><P Class=ENUSCC>나머지는 STC에<br>돌아가서 연습이다
+<SYNC Start=1185344><P Class=ENUSCC>코치, 나도 돌아갈게요
+<SYNC Start=1188154><P Class=ENUSCC>전 일본 주니어까지<br>시간이 얼마 없으니까요
+<SYNC Start=1191305><P Class=ENUSCC>오, 잘 알고 있구나
+<SYNC Start=1193662><P Class=ENUSCC>전 일본 주니어?
+<SYNC Start=1195416><P Class=ENUSCC>주니어 선수의<br>일본 제일을 결정하는 대회
+<SYNC Start=1197920><P Class=ENUSCC>그냥 듣고<br>넘길 수 없겠구만!
+<SYNC Start=1199720><P Class=ENUSCC>전 일본 주니어에는<br>나도 나간다는 걸 잊지 마라!
+<SYNC Start=1203477><P Class=ENUSCC>다음엔 이긴다!
+<SYNC Start=1205644><P Class=ENUSCC>왜 달리지?
+<SYNC Start=1207279><P Class=ENUSCC>졌으니까?
+<SYNC Start=1208691><P Class=ENUSCC>또 시끄러워졌어
+<SYNC Start=1210683><P Class=ENUSCC>이번엔 졌지만 다음엔<br>그렇게는 안 될 거라구~?
+<SYNC Start=1213991><P Class=ENUSCC>미야가와 군에<br>오오바야시 군도..
+<SYNC Start=1216392><P Class=ENUSCC>전 일본 주니어에서<br>다시 보는 걸로
+<SYNC Start=1219376><P Class=ENUSCC>그래도 형님은 올해<br>전 일본에는 못 나가죠?
+<SYNC Start=1222900><P Class=ENUSCC>으응..
+<SYNC Start=1223845><P Class=ENUSCC>아, 그렇구나..
+<SYNC Start=1225257><P Class=ENUSCC>엔트리한 시점의 성적으로는<br>아직 나갈 수 없었지..
+<SYNC Start=1229523><P Class=ENUSCC>&nbsp;
+<SYNC Start=1229685><P Class=ENUSCC>아, 미안
+<SYNC Start=1230940><P Class=ENUSCC>마루오 군이라면 나가도<br>이상하지 않다고 생각해서 그만..
+<SYNC Start=1236273><P Class=ENUSCC>그래도 또 기회는 있어
+<SYNC Start=1238583><P Class=ENUSCC>그럼, 수고해
+<SYNC Start=1239963><P Class=ENUSCC>우리들은 인터하이도 있으니<br>이제부터 바쁠 거라고
+<SYNC Start=1243314><P Class=ENUSCC>뭔가 모두 굉장하네..
+<SYNC Start=1245822><P Class=ENUSCC>저도 힘낼 거라구욧!
+<SYNC Start=1248076><P Class=ENUSCC>나도 노력해야지!
+<SYNC Start=1250647><P Class=ENUSCC>&nbsp;
+<SYNC Start=1253021><P Class=ENUSCC>에이 짱은<br>이제부터 어쩔 거니?
+<SYNC Start=1254881><P Class=ENUSCC>&nbsp;
+<SYNC Start=1255064><P Class=ENUSCC>응?
+<SYNC Start=1256326><P Class=ENUSCC>&nbsp;
+<SYNC Start=1262121><P Class=ENUSCC>아, 그러니까..
+<SYNC Start=1264455><P Class=ENUSCC>&nbsp;
+<SYNC Start=1265710><P Class=ENUSCC>나는 좀 더..
+<SYNC Start=1268298><P Class=ENUSCC>이후의 일은 다음에<br>느긋하게 얘기하자고
+<SYNC Start=1271072><P Class=ENUSCC>아, 네..
+<SYNC Start=1273663><P Class=ENUSCC>&nbsp;
+<SYNC Start=1287962><P Class=ENUSCC>프로를 노리고 있는<br>아라야 군한테 지고
+<SYNC Start=1290232><P Class=ENUSCC>그렇게까지 분해하다니<br>정말로 대단해!
+<SYNC Start=1293841><P Class=ENUSCC>&nbsp;
+<SYNC Start=1294808><P Class=ENUSCC>대단한 거야?
+<SYNC Start=1296396><P Class=ENUSCC>&nbsp;
+<SYNC Start=1297269><P Class=ENUSCC>다녀왔다
+<SYNC Start=1299345><P Class=ENUSCC>&nbsp;
+<SYNC Start=1301074><P Class=ENUSCC>어서오세요, 아빠
+<SYNC Start=1303042><P Class=ENUSCC>&nbsp;
+<SYNC Start=1303480><P Class=ENUSCC>오늘 밤은<br>진수성찬이구나
+<SYNC Start=1305392><P Class=ENUSCC>수고했다, 에이치로
+<SYNC Start=1306829><P Class=ENUSCC>베스트4라니 굉장하잖니
+<SYNC Start=1309218><P Class=ENUSCC>오, 그 기념인가?
+<SYNC Start=1311376><P Class=ENUSCC>작년은<br>1회전 패배였으니..
+<SYNC Start=1314352><P Class=ENUSCC>1년간 성실히 해온<br>성과가 나와서 다행이구나
+<SYNC Start=1317979><P Class=ENUSCC>응, 잘 먹겠습니다
+<SYNC Start=1320090><P Class=ENUSCC>테니스는 잘 모르겠지만<br>빨리 느는 거 아니냐?
+<SYNC Start=1324010><P Class=ENUSCC>네..
+<SYNC Start=1325581><P Class=ENUSCC>&nbsp;
+<SYNC Start=1331715><P Class=ENUSCC>저기 있지, 만약..<br>만약의 경우인데...
+<SYNC Start=1335715><P Class=ENUSCC>&nbsp;
+<SYNC Start=1335979><P Class=ENUSCC>뭐니?
+<SYNC Start=1337513><P Class=ENUSCC>&nbsp;
+<SYNC Start=1338622><P Class=ENUSCC>내가 혹시 프로가 되고<br>싶다고 말한다면 어떡할래요?
+<SYNC Start=1343850><P Class=ENUSCC>&nbsp;
+<SYNC Start=1351346><P Class=ENUSCC><font color=#80ff00>베이비 <font color=#00ff40>스텝 <font color=#ff0080>ED <font color=#ff00ff>테마<br><font color=#8080ff>Title<font color=#ffffff> : <font color=#00ffff>「Baby Steps」<br><font color=#ff8000>Artist<font color=#ffffff> : <font color=#ffff00>Baby<font color=#ff8080>raids
+<SYNC Start=1352892><P Class=ENUSCC><font color=#ff8040>放課後とオレンジの空<br><font color=#ff80ff>방과 후와 오렌지 색 하늘
+<SYNC Start=1356879><P Class=ENUSCC><font color=#ff8040>また明日ねって手を振って<br><font color=#ff80ff>내일 보자며 손을 흔들어
+<SYNC Start=1361357><P Class=ENUSCC><font color=#ff8040>帰り道にひとりきり<br><font color=#ff80ff>귀가하는 길에는 혼자뿐이야
+<SYNC Start=1369111><P Class=ENUSCC><font color=#ff8040>手を伸ばせば遠くて<br><font color=#ff80ff>손을 뻗으면 멀기만 해서
+<SYNC Start=1373424><P Class=ENUSCC><font color=#ff8040>取り残された夕焼け<br><font color=#ff80ff>남겨진 저녁 노을
+<SYNC Start=1377542><P Class=ENUSCC><font color=#ff8040>今もちゃんと覚えてる<br><font color=#ff80ff>지금도 제대로 기억하고 있어
+<SYNC Start=1382631><P Class=ENUSCC><font color=#ff8040>夢を見て 追いかけて<br><font color=#ff80ff>꿈을 꾸며 뒤쫓아 가며
+<SYNC Start=1387633><P Class=ENUSCC><font color=#ff8040>気が付けば 日も暮れて<br><font color=#ff80ff>정신이 들면 날도 저물어 있고
+<SYNC Start=1391744><P Class=ENUSCC><font color=#ff8040>それでも 頼り無い足取りで<br><font color=#ff80ff>그래도 의지할 곳 없는 발걸음으로
+<SYNC Start=1398693><P Class=ENUSCC><font color=#ff8040>踏み出せる<br><font color=#ff80ff>내딛을 수 있어
+<SYNC Start=1400700><P Class=ENUSCC><font color=#ff8040>何度も何度も<br><font color=#ff80ff>몇 번이고 몇 번이고
+<SYNC Start=1404962><P Class=ENUSCC><font color=#ff8040>転んで泣いたっていいんだよ<br><font color=#ff80ff>넘어지고 울어도 괜찮아
+<SYNC Start=1408815><P Class=ENUSCC><font color=#ff8040>あの日の誓いと<br><font color=#ff80ff>그 날의 굳은 결심과
+<SYNC Start=1411998><P Class=ENUSCC><font color=#ff8040> あふれる思いが (夢を描いて)<br><font color=#ff80ff>넘치는 감정이<font color=#80ffff> (꿈을 그려)
+<SYNC Start=1415149><P Class=ENUSCC><font color=#ff8040>ここにある<br><font color=#ff80ff>여기에 있어
+<SYNC Start=1416928><P Class=ENUSCC><font color=#ff8040>明日も明後日も<br><font color=#ff80ff>내일도 모레도
+<SYNC Start=1421087><P Class=ENUSCC><font color=#ff8040>夜明けが街を照らしてく<br><font color=#ff80ff>새벽이 거리를 비춰가고
+<SYNC Start=1425044><P Class=ENUSCC><font color=#ff8040>昨日に負けられない今日を<br><font color=#ff80ff>어제에 질 수 없는 오늘을
+<SYNC Start=1428902><P Class=ENUSCC><font color=#ff8040>重ねてく<br><font color=#ff80ff>거듭해 가
+<SYNC Start=1431283><P Class=ENUSCC><font color=#ff8040>ちいさな歩幅で<br><font color=#ff80ff>자그마한 보폭으로
+<SYNC Start=1436165><P Class=ENUSCC><font color=#ff8080>Subtitled by Gaiant<br><font color=#80ffff>Thanks for watching my caption
+<SYNC Start=1439634><P Class=ENUSCC>&nbsp;
+<SYNC Start=1440371><P Class=ENUSCC>얘, 에이 짱
+<SYNC Start=1441647><P Class=ENUSCC>다음 주에<br>Japan Open 안 갈래?
+<SYNC Start=1443425><P Class=ENUSCC>Japan Open?
+<SYNC Start=1444837><P Class=ENUSCC>소우 짱의<br>프로 데뷔전이야
+<SYNC Start=1446822><P Class=ENUSCC>소우 짱이라니..
+<SYNC Start=1448377><P Class=ENUSCC>이케 소우지?
+<SYNC Start=1449823><P Class=ENUSCC>그 사람이 나오는<br>프로의 시합!
+<SYNC Start=1452617><P Class=ENUSCC>갈게, 가자!
+<SYNC Start=1454006><P Class=ENUSCC>응, 그럼 자세한 <br>내용은 메일로 보낼게
+<SYNC Start=1457244><P Class=ENUSCC>이, 이건 <br>혹시 데이트인가?!
+<SYNC Start=1460458><P Class=ENUSCC>&nbsp;
+<SYNC Start=1460569><P Class=ENUSCC>다음화 베이비 스텝은<br><br><font color=#80ffff>Episode 18<br><font color=#8080ff>"결의에 발표"
+<SYNC Start=1462339><P Class=ENUSCC><font color=#80ffff>Episode 18<br><font color=#8080ff>"결의에 발표"
+<SYNC Start=1465228><P Class=ENUSCC>&nbsp;
+</BODY>
+</SAMI>

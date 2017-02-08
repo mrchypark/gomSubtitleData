@@ -1,0 +1,67 @@
+<SAMI>
+
+<HEAD>
+<TITLE>자막</TITLE>
+
+<SAMIParam>
+  Metrics {time:ms;}
+  Spec {MSFT:1.0;}
+</SAMIParam>
+
+<STYLE TYPE="text/css">
+<!--
+  P { font-family: Arial; font-weight: normal; color: white; background-color: black; text-align: center; }
+  .ENUSCC { name: English; lang: en-US ; SAMIType: CC ; }
+-->
+</STYLE>
+
+</HEAD>
+
+<BODY>
+
+<-- Open play menu, choose Captions and Subtiles, On if available -->
+<-- Open tools menu, Security, Show local captions when present -->
+
+<SYNC Start="0"><P Class="ENUSCC">개강이 열흘 앞으로 다가온 이 시점</P></SYNC>
+<SYNC Start="2000"><P Class="ENUSCC">난 아주 큰 결심을 하나했음</P></SYNC>
+<SYNC Start="4000"><P Class="ENUSCC">그건 바로 멜론뮤직어워드를 끝까지 보는 것...!!</P></SYNC>
+<SYNC Start="6000"><P Class="ENUSCC">으르렁 뮤직 드라마까지는 조금 격한 애교로 넘어가려했으나</P></SYNC>
+<SYNC Start="8000"><P Class="ENUSCC">S(oo) M(an)은 몇 만명을 모아두고</P></SYNC>
+<SYNC Start="10000"><P Class="ENUSCC">또 카메라로 똥을 싸는 기획을 시전함</P></SYNC>
+<SYNC Start="12000"><P Class="ENUSCC">몇번의 시도가 있었지만 정독은 불가능했음...</P></SYNC>
+<SYNC Start="13000"><P Class="ENUSCC">(절레절레)</P></SYNC>
+<SYNC Start="14000"><P Class="ENUSCC">사실 지금 도저히 맨정신으로 볼 수 없어 지금 옆에 소주 한 병 깠음</P></SYNC>
+<SYNC Start="16000"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="16300"><P Class="ENUSCC">안녕 저낙생?</P></SYNC>
+<SYNC Start="17500"><P Class="ENUSCC">학겨저긍은 잘 대가?</P></SYNC>
+<SYNC Start="18500"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="19000"><P Class="ENUSCC">ㅇ..응..;;</P></SYNC>
+<SYNC Start="20000"><P Class="ENUSCC">존대ㅋ 멋진척잼ㅋ</P></SYNC>
+<SYNC Start="21000"><P Class="ENUSCC">불꽃 패스★</P></SYNC>
+<SYNC Start="22000"><P Class="ENUSCC">야 첸!</P></SYNC>
+<SYNC Start="23000"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="23300"><P Class="ENUSCC">까딱</P></SYNC>
+<SYNC Start="24000"><P Class="ENUSCC">휘이익</P></SYNC>
+<SYNC Start="25000"><P Class="ENUSCC">○ㅁ○!!</P></SYNC>
+<SYNC Start="26100"><P Class="ENUSCC">너 농구 좀 하냐..?쿡..</P></SYNC>
+<SYNC Start="27000"><P Class="ENUSCC">그런거 모테</P></SYNC>
+<SYNC Start="28100"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="28400"><P Class="ENUSCC">퍽-_-☆</P></SYNC>
+<SYNC Start="29500"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="29800"><P Class="ENUSCC">시바 좃댓다</P></SYNC>
+<SYNC Start="31000"><P Class="ENUSCC">ㅅ..스미마셍..!</P></SYNC>
+<SYNC Start="32000"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="32600"><P Class="ENUSCC">괜챠나⊙▽⊙</P></SYNC>
+<SYNC Start="33500"><P Class="ENUSCC">(긁적긁적)</P></SYNC>
+<SYNC Start="34300"><P Class="ENUSCC">쟈까님...?</P></SYNC>
+<SYNC Start="34900"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="35000"><P Class="ENUSCC">그리구 학교만큼이나 이상한 아이들 열두명이 있다</P></SYNC>
+<SYNC Start="38500"><P Class="ENUSCC">거 어디요?</P></SYNC>
+<SYNC Start="39000"><P Class="ENUSCC">나도 좀 다녀봅시다</P></SYNC>
+<SYNC Start="40000"><P Class="ENUSCC">역시 하모니카는 빨아먹어야 제맛이지</P></SYNC>
+<SYNC Start="41500"><P Class="ENUSCC">준며노빠...♡</P></SYNC>
+<SYNC Start="43500"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="45000"><P Class="ENUSCC">기집애 삼주만에 염탐을 제대로 했군</P></SYNC>
+<SYNC Start="46500"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="46700"><P Class="ENUSCC">무엇보다 특히...</P></SYNC>
+<SYNC Start="47700"><P Class="ENUSCC">&nbsp;</P></SYNC>

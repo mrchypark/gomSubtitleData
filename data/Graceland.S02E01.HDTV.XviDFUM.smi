@@ -1,0 +1,2495 @@
+﻿<SAMI>
+<HEAD>
+<TITLE>http://uzys.net Uzys SRT converter</TITLE>
+<STYLE TYPE="text/css">
+<!--
+P { margin-left:2pt; margin-right:2pt; margin-bottom:1pt;
+    margin-top:1pt; font-size:20pt; text-align:center;
+    font-family:Arial, Sans-serif; font-weight:bold; color:white;
+    }
+.KRCC {Name: Korean; lang:ko-KR; SAMIType:CC;}
+.KNCC {Name: English; lang:en-US; SAMI_TYPE: CC;}-->
+</STYLE>
+<!--
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+	Distribution  by  Light on River
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+-->
+</HEAD>
+<BODY>
+<SYNC Start=976><P Class=KNCC>
+그레이스랜드 지난이야기
+<SYNC Start=2678><P Class=KNCC>&nbsp;
+<SYNC Start=2690><P Class=KNCC>
+왜 그레이스랜드에요?
+<SYNC Start=4029><P Class=KNCC>&nbsp;
+<SYNC Start=4054><P Class=KNCC>
+마약상한테 압수했는데<br>그 사람이 엘비스 팬이었어
+<SYNC Start=7530><P Class=KNCC>&nbsp;
+<SYNC Start=7565><P Class=KNCC>
+그 이름이 굳어진거지
+<SYNC Start=8764><P Class=KNCC>&nbsp;
+<SYNC Start=8799><P Class=KNCC>
+폴 브릭스 조사 담당 요원이네
+<SYNC Start=12202><P Class=KNCC>&nbsp;
+<SYNC Start=12236><P Class=KNCC>
+사건 조사에 합류해<br>가깝게 지내는거야
+<SYNC Start=14070><P Class=KNCC>&nbsp;
+<SYNC Start=14104><P Class=KNCC>
+- 벨로건에 넣어줘요<br>- 절대 안돼
+<SYNC Start=15704><P Class=KNCC>&nbsp;
+<SYNC Start=15738><P Class=KNCC>
+벨로에게 해병을 알고 있다고 해요
+<SYNC Start=18240><P Class=KNCC>&nbsp;
+<SYNC Start=18274><P Class=KNCC>
+벨로 같은 큰 물고기는<br>더 큰 물고기에게 안내하지
+<SYNC Start=20209><P Class=KNCC>&nbsp;
+<SYNC Start=20243><P Class=KNCC>
+카자 카르텔처럼
+<SYNC Start=21376><P Class=KNCC>&nbsp;
+<SYNC Start=21411><P Class=KNCC>
+폴 브릭스는 범죄자가 아니에요
+<SYNC Start=23111><P Class=KNCC>&nbsp;
+<SYNC Start=23145><P Class=KNCC>
+몇년 전 카자가 브릭스를 잡았어요
+<SYNC Start=24625><P Class=KNCC>&nbsp;
+<SYNC Start=24647><P Class=KNCC>
+고문하고 약쟁이로 만들었죠
+<SYNC Start=26381><P Class=KNCC>&nbsp;
+<SYNC Start=26416><P Class=KNCC>
+그러고나서 그냥 문을 열고<br>도망가게 둔거에요
+<SYNC Start=28456><P Class=KNCC>&nbsp;
+<SYNC Start=28484><P Class=KNCC>
+쟁글
+<SYNC Start=29984><P Class=KNCC>&nbsp;
+<SYNC Start=30019><P Class=KNCC>
+브릭스를 잡게 도와줘
+<SYNC Start=30985><P Class=KNCC>&nbsp;
+<SYNC Start=31020><P Class=KNCC>
+싫습니다
+<SYNC Start=32287><P Class=KNCC>&nbsp;
+<SYNC Start=32322><P Class=KNCC>
+후안 바딜로 요원이다
+<SYNC Start=33788><P Class=KNCC>&nbsp;
+<SYNC Start=33823><P Class=KNCC>
+쟁글로 위장 수사 중이다
+<SYNC Start=36157><P Class=KNCC>&nbsp;
+<SYNC Start=36192><P Class=KNCC>
+- 나를 찾았다고?<br>- 그래
+<SYNC Start=38694><P Class=KNCC>&nbsp;
+<SYNC Start=38728><P Class=KNCC>
+물러서
+<SYNC Start=39794><P Class=KNCC>&nbsp;
+<SYNC Start=39829><P Class=KNCC>
+이젠 총이야?
+<SYNC Start=43432><P Class=KNCC>&nbsp;
+<SYNC Start=46703><P Class=KNCC>
+지난 3달간 선배를 조사했어요
+<SYNC Start=49704><P Class=KNCC>&nbsp;
+<SYNC Start=49739><P Class=KNCC>
+저에게 임무를 준 요원이 실종됐어요
+<SYNC Start=51305><P Class=KNCC>&nbsp;
+<SYNC Start=51340><P Class=KNCC>
+FBI는 선배를 의심하고요
+<SYNC Start=53007><P Class=KNCC>&nbsp;
+<SYNC Start=53042><P Class=KNCC>
+쟁글이 집을 불태우고 리사를 죽였어요
+<SYNC Start=55243><P Class=KNCC>&nbsp;
+<SYNC Start=55277><P Class=KNCC>
+브릭스는 절대 용서 안할거에요
+<SYNC Start=56711><P Class=KNCC>&nbsp;
+<SYNC Start=56746><P Class=KNCC>
+- 절대로 선배는...<br>- 마이크, 그만해
+<SYNC Start=59614><P Class=KNCC>&nbsp;
+<SYNC Start=59648><P Class=KNCC>
+- 꼼짝마<br>- 경찰인가?
+<SYNC Start=61449><P Class=KNCC>&nbsp;
+<SYNC Start=61483><P Class=KNCC>
+같이 일할 수 있겠군
+<SYNC Start=62683><P Class=KNCC>&nbsp;
+<SYNC Start=62718><P Class=KNCC>
+쟁글이 나타났으니<br>곧 피바다가 될거야
+<SYNC Start=65787><P Class=KNCC>&nbsp;
+<SYNC Start=65821><P Class=KNCC>
+아직 어떻게 생겼는지도 모르겠어
+<SYNC Start=67688><P Class=KNCC>&nbsp;
+<SYNC Start=67723><P Class=KNCC>
+놔줘, 폴
+<SYNC Start=69190><P Class=KNCC>&nbsp;
+<SYNC Start=69225><P Class=KNCC>
+이 사람이 쟁글이야, 정말!
+<SYNC Start=71926><P Class=KNCC>&nbsp;
+<SYNC Start=71961><P Class=KNCC>
+나야. 알잖아
+<SYNC Start=73061><P Class=KNCC>&nbsp;
+<SYNC Start=86975><P Class=KNCC>
+더 이상 용의자가 아니네<br>쟁글이 후안을 죽였어
+<SYNC Start=90511><P Class=KNCC>&nbsp;
+<SYNC Start=90545><P Class=KNCC>
+이 악명높은 열쇠의 정체를 알았어
+<SYNC Start=92313><P Class=KNCC>&nbsp;
+<SYNC Start=92347><P Class=KNCC>
+기념품이었지
+<SYNC Start=93681><P Class=KNCC>&nbsp;
+<SYNC Start=93715><P Class=KNCC>
+이건 후안의 열쇠야
+<SYNC Start=95650><P Class=KNCC>&nbsp;
+<SYNC Start=97886><P Class=KNCC>
+내가 다 잘못했어
+<SYNC Start=99219><P Class=KNCC>&nbsp;
+<SYNC Start=99254><P Class=KNCC>
+용서해줄래?
+<SYNC Start=101289><P Class=KNCC>&nbsp;
+<SYNC Start=103525><P Class=KNCC>
+후안이 처음 DC를 약속했지
+<SYNC Start=105859><P Class=KNCC>&nbsp;
+<SYNC Start=105894><P Class=KNCC>
+그러니 부국장의 보좌관<br>자리를 주겠네
+<SYNC Start=110764><P Class=KNCC>&nbsp;
+<SYNC Start=117071><P Class=KNCC>
+말할래, 어?<br>말 하고 싶어, 터프가이?
+<SYNC Start=119206><P Class=KNCC>&nbsp;
+<SYNC Start=132320><P Class=KNCC>
+라인을 찾았나?
+<SYNC Start=133921><P Class=KNCC>&nbsp;
+<SYNC Start=133955><P Class=KNCC>
+왜 이러는거야?
+<SYNC Start=135823><P Class=KNCC>&nbsp;
+<SYNC Start=135857><P Class=KNCC>
+찾았냐고...
+<SYNC Start=136890><P Class=KNCC>&nbsp;
+<SYNC Start=139927><P Class=KNCC>
+2주전
+<SYNC Start=141304><P Class=KNCC>&nbsp;
+<SYNC Start=171390><P Class=KNCC>
+안녕, 리온?
+<SYNC Start=172824><P Class=KNCC>&nbsp;
+<SYNC Start=172859><P Class=KNCC>
+폴 더 전갈!
+<SYNC Start=174459><P Class=KNCC>&nbsp;
+<SYNC Start=174493><P Class=KNCC>
+내 집에 온걸 환영해
+<SYNC Start=176862><P Class=KNCC>&nbsp;
+<SYNC Start=176896><P Class=KNCC>
+좋은데
+<SYNC Start=178296><P Class=KNCC>&nbsp;
+<SYNC Start=178331><P Class=KNCC>
+뭘 가져왔지?
+<SYNC Start=179530><P Class=KNCC>&nbsp;
+<SYNC Start=179565><P Class=KNCC>
+와서 봐
+<SYNC Start=182467><P Class=KNCC>&nbsp;
+<SYNC Start=190776><P Class=KNCC>
+도미가 참 잘생겼네
+<SYNC Start=194178><P Class=KNCC>&nbsp;
+<SYNC Start=194212><P Class=KNCC>
+더 깊이 봐
+<SYNC Start=196881><P Class=KNCC>&nbsp;
+<SYNC Start=198783><P Class=KNCC>
+M.R.U.D.* 야?<br>*지뢰의 한 종류
+<SYNC Start=201385><P Class=KNCC>&nbsp;
+<SYNC Start=201419><P Class=KNCC>
+- 세르비안 처럼 보여?<br>- 아니
+<SYNC Start=203052><P Class=KNCC>&nbsp;
+<SYNC Start=203087><P Class=KNCC>
+m18 클레이모어 지뢰야
+<SYNC Start=204587><P Class=KNCC>&nbsp;
+<SYNC Start=205656><P Class=KNCC>
+- 진짜 거래지<br>- 같은 가격이야?
+<SYNC Start=208425><P Class=KNCC>&nbsp;
+<SYNC Start=208459><P Class=KNCC>
+너니까
+<SYNC Start=209760><P Class=KNCC>&nbsp;
+<SYNC Start=209794><P Class=KNCC>
+당연 그렇겠지
+<SYNC Start=211795><P Class=KNCC>&nbsp;
+<SYNC Start=211829><P Class=KNCC>
+척, 너만 브릭스 매력에<br>빠진게 아닌가봐
+<SYNC Start=214865><P Class=KNCC>&nbsp;
+<SYNC Start=214899><P Class=KNCC>
+무슨 말인지 모르겠는데
+<SYNC Start=216666><P Class=KNCC>&nbsp;
+<SYNC Start=216701><P Class=KNCC>
+비밀은 없어, 척
+<SYNC Start=220604><P Class=KNCC>&nbsp;
+<SYNC Start=220638><P Class=KNCC>
+텀블러 훔친거 할면 페이지가 화낼걸
+<SYNC Start=223273><P Class=KNCC>&nbsp;
+<SYNC Start=223307><P Class=KNCC>
+그래?
+<SYNC Start=224507><P Class=KNCC>&nbsp;
+<SYNC Start=224541><P Class=KNCC>
+그럼 늦잠자지 말았어야지
+<SYNC Start=226276><P Class=KNCC>&nbsp;
+<SYNC Start=226310><P Class=KNCC>
+자면 지는거야
+<SYNC Start=227777><P Class=KNCC>&nbsp;
+<SYNC Start=229280><P Class=KNCC>
+파란색?
+<SYNC Start=230780><P Class=KNCC>&nbsp;
+<SYNC Start=234885><P Class=KNCC>
+좋아
+<SYNC Start=237520><P Class=KNCC>&nbsp;
+<SYNC Start=240124><P Class=KNCC>
+와우, 정말 멋진데
+<SYNC Start=243492><P Class=KNCC>&nbsp;
+<SYNC Start=243527><P Class=KNCC>
+응, 그걸로 회 몇점 뜰 수 있지?
+<SYNC Start=246261><P Class=KNCC>&nbsp;
+<SYNC Start=246296><P Class=KNCC>
+응, 저녁 먹고 갈거야?
+<SYNC Start=247496><P Class=KNCC>&nbsp;
+<SYNC Start=247531><P Class=KNCC>
+저녁은 안먹지
+<SYNC Start=248898><P Class=KNCC>&nbsp;
+<SYNC Start=248932><P Class=KNCC>
+마무리 중이네, 꾸물거리지 마
+<SYNC Start=250733><P Class=KNCC>&nbsp;
+<SYNC Start=250767><P Class=KNCC>
+내 신호에 가는거야<br>젤란스키
+<SYNC Start=252535><P Class=KNCC>&nbsp;
+<SYNC Start=252569><P Class=KNCC>
+리온이 칼을 갖고 있어<br>너희 팀 준비시켜
+<SYNC Start=253803><P Class=KNCC>&nbsp;
+<SYNC Start=253837><P Class=KNCC>
+칼, 알겠어
+<SYNC Start=255438><P Class=KNCC>&nbsp;
+<SYNC Start=255472><P Class=KNCC>
+한입 할래?
+<SYNC Start=257573><P Class=KNCC>&nbsp;
+<SYNC Start=261912><P Class=KNCC>
+아는 사람이야?
+<SYNC Start=264679><P Class=KNCC>&nbsp;
+<SYNC Start=264713><P Class=KNCC>
+아마도
+<SYNC Start=265914><P Class=KNCC>&nbsp;
+<SYNC Start=265949><P Class=KNCC>
+빨리, 브릭스
+<SYNC Start=267615><P Class=KNCC>&nbsp;
+<SYNC Start=267650><P Class=KNCC>
+대체 뭐하는거야?
+<SYNC Start=269484><P Class=KNCC>&nbsp;
+<SYNC Start=269518><P Class=KNCC>
+Z, 팀 준비시켜
+<SYNC Start=270852><P Class=KNCC>&nbsp;
+<SYNC Start=270886><P Class=KNCC>
+안나오면 네가 들어가
+<SYNC Start=272354><P Class=KNCC>&nbsp;
+<SYNC Start=272388><P Class=KNCC>
+알겠어
+<SYNC Start=273888><P Class=KNCC>&nbsp;
+<SYNC Start=273923><P Class=KNCC>
+알면 좀 찾아봐
+<SYNC Start=276891><P Class=KNCC>&nbsp;
+<SYNC Start=276926><P Class=KNCC>
+누가 찾는데?
+<SYNC Start=279761><P Class=KNCC>&nbsp;
+<SYNC Start=279795><P Class=KNCC>
+카자
+<SYNC Start=280528><P Class=KNCC>&nbsp;
+<SYNC Start=280563><P Class=KNCC>
+카자? 카자 카르텔?
+<SYNC Start=282431><P Class=KNCC>&nbsp;
+<SYNC Start=282465><P Class=KNCC>
+응, 온 동네 그 사진을<br>뿌리고 다니는 사람들이 있어
+<SYNC Start=285367><P Class=KNCC>&nbsp;
+<SYNC Start=285401><P Class=KNCC>
+왜 그러는데
+<SYNC Start=286634><P Class=KNCC>&nbsp;
+<SYNC Start=286669><P Class=KNCC>
+그런 사람들은 말이 없잖아
+<SYNC Start=288035><P Class=KNCC>&nbsp;
+<SYNC Start=288070><P Class=KNCC>
+내 생각엔...
+<SYNC Start=289637><P Class=KNCC>&nbsp;
+<SYNC Start=289672><P Class=KNCC>
+음, 그래
+<SYNC Start=292440><P Class=KNCC>&nbsp;
+<SYNC Start=294543><P Class=KNCC>
+그래서 아는거야?
+<SYNC Start=296845><P Class=KNCC>&nbsp;
+<SYNC Start=298914><P Class=KNCC>
+응, 알지
+<SYNC Start=301516><P Class=KNCC>&nbsp;
+<SYNC Start=308791><P Class=KNCC>
+처음 치곤 돈을 긁어 모았네, 아라쉬
+<SYNC Start=312993><P Class=KNCC>&nbsp;
+<SYNC Start=313027><P Class=KNCC>
+버스 투어가 템플러 카르텔 영역을 지나가고
+<SYNC Start=316029><P Class=KNCC>&nbsp;
+<SYNC Start=316063><P Class=KNCC>
+엄청 위험한데
+<SYNC Start=317364><P Class=KNCC>&nbsp;
+<SYNC Start=317398><P Class=KNCC>
+왜 두랑고로 가지 않지?
+<SYNC Start=318799><P Class=KNCC>&nbsp;
+<SYNC Start=320535><P Class=KNCC>
+그게 죄라는 거야, 척 노리스?
+<SYNC Start=321969><P Class=KNCC>&nbsp;
+<SYNC Start=322003><P Class=KNCC>
+방향이 틀려서?
+<SYNC Start=323670><P Class=KNCC>&nbsp;
+<SYNC Start=323705><P Class=KNCC>
+죄목은 밀수지
+<SYNC Start=324905><P Class=KNCC>&nbsp;
+<SYNC Start=324939><P Class=KNCC>
+내가 틀리면 말해봐
+<SYNC Start=326507><P Class=KNCC>&nbsp;
+<SYNC Start=326541><P Class=KNCC>
+뚱뚱한 미국 사람들을 태우고
+<SYNC Start=328308><P Class=KNCC>&nbsp;
+<SYNC Start=328342><P Class=KNCC>
+템플러에 들러서
+<SYNC Start=329643><P Class=KNCC>&nbsp;
+<SYNC Start=329677><P Class=KNCC>
+다른걸 더 싣는거지
+<SYNC Start=331645><P Class=KNCC>&nbsp;
+<SYNC Start=331679><P Class=KNCC>
+다 아네
+<SYNC Start=333413><P Class=KNCC>&nbsp;
+<SYNC Start=333447><P Class=KNCC>
+뭘 알아?
+<SYNC Start=335115><P Class=KNCC>&nbsp;
+<SYNC Start=335149><P Class=KNCC>
+샤반, 괜찮아
+<SYNC Start=337450><P Class=KNCC>&nbsp;
+<SYNC Start=337485><P Class=KNCC>
+뭘 알면 질문만 하지 않겠지
+<SYNC Start=340153><P Class=KNCC>&nbsp;
+<SYNC Start=343991><P Class=KNCC>
+다 거짓말이야
+<SYNC Start=346726><P Class=KNCC>&nbsp;
+<SYNC Start=346760><P Class=KNCC>
+자
+<SYNC Start=349429><P Class=KNCC>&nbsp;
+<SYNC Start=349463><P Class=KNCC>
+사업을 하려고 했었지만
+<SYNC Start=350963><P Class=KNCC>&nbsp;
+<SYNC Start=350998><P Class=KNCC>
+3년간 근근히 먹고 살았다고
+<SYNC Start=353733><P Class=KNCC>&nbsp;
+<SYNC Start=355369><P Class=KNCC>
+시가?
+<SYNC Start=356669><P Class=KNCC>&nbsp;
+<SYNC Start=356703><P Class=KNCC>
+이걸 밀반입한거야?
+<SYNC Start=358024><P Class=KNCC>&nbsp;
+<SYNC Start=358039><P Class=KNCC>
+일주일에 30상자
+<SYNC Start=360106><P Class=KNCC>&nbsp;
+<SYNC Start=360141><P Class=KNCC>
+정말 미안해
+<SYNC Start=363642><P Class=KNCC>&nbsp;
+<SYNC Start=363676><P Class=KNCC>
+이놈을을 연행할 순 있겠지
+<SYNC Start=366611><P Class=KNCC>&nbsp;
+<SYNC Start=368048><P Class=KNCC>
+그럼 부장자리에서 한달만에 짤릴거야
+<SYNC Start=371550><P Class=KNCC>&nbsp;
+<SYNC Start=371584><P Class=KNCC>
+아라쉬, 아라쉬
+<SYNC Start=376655><P Class=KNCC>&nbsp;
+<SYNC Start=385998><P Class=KNCC>
+그래도 리스트는 줄었네요
+<SYNC Start=388867><P Class=KNCC>&nbsp;
+<SYNC Start=388901><P Class=KNCC>
+무슨 일이에요?
+<SYNC Start=390535><P Class=KNCC>&nbsp;
+<SYNC Start=390570><P Class=KNCC>
+부국장님이 찾으신다
+<SYNC Start=393939><P Class=KNCC>&nbsp;
+<SYNC Start=393973><P Class=KNCC>
+우리 예산을 늘려줄까요?
+<SYNC Start=396040><P Class=KNCC>&nbsp;
+<SYNC Start=402848><P Class=KNCC>
+재밌네요, 크랜스턴
+<SYNC Start=404649><P Class=KNCC>&nbsp;
+<SYNC Start=404684><P Class=KNCC>
+소식은 빠른법이지
+<SYNC Start=406718><P Class=KNCC>&nbsp;
+<SYNC Start=406752><P Class=KNCC>
+그래요, 제시카?
+<SYNC Start=408219><P Class=KNCC>&nbsp;
+<SYNC Start=408253><P Class=KNCC>
+좋은 시가를 놓칠 순 없지
+<SYNC Start=409753><P Class=KNCC>&nbsp;
+<SYNC Start=409788><P Class=KNCC>
+잘했네, 워렌
+<SYNC Start=411622><P Class=KNCC>&nbsp;
+<SYNC Start=411656><P Class=KNCC>
+부국장님이 뭐랄지 기대되는군
+<SYNC Start=414024><P Class=KNCC>&nbsp;
+<SYNC Start=414059><P Class=KNCC>
+다음엔 같이 마실 코냑도 압수해줘
+<SYNC Start=415993><P Class=KNCC>&nbsp;
+<SYNC Start=416027><P Class=KNCC>
+그래요
+<SYNC Start=418729><P Class=KNCC>&nbsp;
+<SYNC Start=418763><P Class=KNCC>
+- 좋은 아침이네<br>- 네, 부국장님
+<SYNC Start=420098><P Class=KNCC>&nbsp;
+<SYNC Start=420132><P Class=KNCC>
+안녕하세요
+<SYNC Start=420898><P Class=KNCC>&nbsp;
+<SYNC Start=420932><P Class=KNCC>
+앉게
+<SYNC Start=422700><P Class=KNCC>&nbsp;
+<SYNC Start=422734><P Class=KNCC>
+그래서 버스엔 약도 무기도 없었다고
+<SYNC Start=424902><P Class=KNCC>&nbsp;
+<SYNC Start=424936><P Class=KNCC>
+네
+<SYNC Start=426504><P Class=KNCC>&nbsp;
+<SYNC Start=426538><P Class=KNCC>
+잡담은 넘어가지
+<SYNC Start=428439><P Class=KNCC>&nbsp;
+<SYNC Start=428474><P Class=KNCC>
+버스 수사를 종료하게
+<SYNC Start=430141><P Class=KNCC>&nbsp;
+<SYNC Start=430175><P Class=KNCC>
+이틀 안에 사무실로 복귀해
+<SYNC Start=432710><P Class=KNCC>&nbsp;
+<SYNC Start=432744><P Class=KNCC>
+지금 중단하는건 실수입니다
+<SYNC Start=435378><P Class=KNCC>&nbsp;
+<SYNC Start=435413><P Class=KNCC>
+지금까지 한걸 보고도?
+<SYNC Start=436680><P Class=KNCC>&nbsp;
+<SYNC Start=436715><P Class=KNCC>
+말할 기회를 줘요
+<SYNC Start=438148><P Class=KNCC>&nbsp;
+<SYNC Start=438182><P Class=KNCC>
+시작하죠
+<SYNC Start=440951><P Class=KNCC>&nbsp;
+<SYNC Start=440986><P Class=KNCC>
+승객 버스는 특이한 이익을 누려요
+<SYNC Start=443520><P Class=KNCC>&nbsp;
+<SYNC Start=443554><P Class=KNCC>
+상업 차량과는 달리<br>국경 순찰지역이 따로 있고
+<SYNC Start=446957><P Class=KNCC>&nbsp;
+<SYNC Start=446992><P Class=KNCC>
+경찰견도, 엑스레이 검사도 없죠
+<SYNC Start=450694><P Class=KNCC>&nbsp;
+<SYNC Start=450729><P Class=KNCC>
+예전에도 들었던 얘기네
+<SYNC Start=452663><P Class=KNCC>&nbsp;
+<SYNC Start=452697><P Class=KNCC>
+화물을 보여드려
+<SYNC Start=454564><P Class=KNCC>&nbsp;
+<SYNC Start=454599><P Class=KNCC>
+승객을 제외하고, 각 버스는<br>6톤까지 실을 수 있어요
+<SYNC Start=457601><P Class=KNCC>&nbsp;
+<SYNC Start=457636><P Class=KNCC>
+미국은 매년 10톤의 헤로인을 반입하죠
+<SYNC Start=460704><P Class=KNCC>&nbsp;
+<SYNC Start=460739><P Class=KNCC>
+버스 두 대만 있으면<br>헤로인을 반입하고도
+<SYNC Start=464040><P Class=KNCC>&nbsp;
+<SYNC Start=464074><P Class=KNCC>
+남는 자리에 필로폰, 총,<br>아무거나 들여올 수 있어요
+<SYNC Start=468377><P Class=KNCC>&nbsp;
+<SYNC Start=468411><P Class=KNCC>
+스페어 타이어에 감춘<br>소량을 얘기하는게 아니에요
+<SYNC Start=471781><P Class=KNCC>&nbsp;
+<SYNC Start=471815><P Class=KNCC>
+새로운 대량의 밀수 방법입니다
+<SYNC Start=475618><P Class=KNCC>&nbsp;
+<SYNC Start=475653><P Class=KNCC>
+세상에나
+<SYNC Start=477286><P Class=KNCC>&nbsp;
+<SYNC Start=477320><P Class=KNCC>
+이게 다 모터 오일이나 쫓는거잖아
+<SYNC Start=478955><P Class=KNCC>&nbsp;
+<SYNC Start=478989><P Class=KNCC>
+모터 오일은 지표에요
+<SYNC Start=480556><P Class=KNCC>&nbsp;
+<SYNC Start=480590><P Class=KNCC>
+그래, 예산 낭비의...
+<SYNC Start=483059><P Class=KNCC>&nbsp;
+<SYNC Start=483093><P Class=KNCC>
+크랜스턴, 조용히 해
+<SYNC Start=485394><P Class=KNCC>&nbsp;
+<SYNC Start=485428><P Class=KNCC>
+여기서 새로운 사실은 하나도 없네
+<SYNC Start=487930><P Class=KNCC>&nbsp;
+<SYNC Start=487965><P Class=KNCC>
+그 이론이 좋아서 허용했네만
+<SYNC Start=490099><P Class=KNCC>&nbsp;
+<SYNC Start=490134><P Class=KNCC>
+결과가 아무것도 없지 않나
+<SYNC Start=491734><P Class=KNCC>&nbsp;
+<SYNC Start=491769><P Class=KNCC>
+- 부국장님...<br>- 중단해
+<SYNC Start=493435><P Class=KNCC>&nbsp;
+<SYNC Start=493470><P Class=KNCC>
+다음주에 사무실로 복귀하도록
+<SYNC Start=496471><P Class=KNCC>&nbsp;
+<SYNC Start=496505><P Class=KNCC>
+미안
+<SYNC Start=497438><P Class=KNCC>&nbsp;
+<SYNC Start=497473><P Class=KNCC>
+괜찮아
+<SYNC Start=499741><P Class=KNCC>&nbsp;
+<SYNC Start=504613><P Class=KNCC>
+노력했어
+<SYNC Start=505681><P Class=KNCC>&nbsp;
+<SYNC Start=505715><P Class=KNCC>
+어떻게 보답할까요?
+<SYNC Start=507882><P Class=KNCC>&nbsp;
+<SYNC Start=512889><P Class=KNCC>
+네가 사무실로 돌아와서 좋아
+<SYNC Start=515957><P Class=KNCC>&nbsp;
+<SYNC Start=515992><P Class=KNCC>
+- 그런말 마요<br>- 뭐?
+<SYNC Start=518159><P Class=KNCC>&nbsp;
+<SYNC Start=518194><P Class=KNCC>
+- 그거요<br>- 뭐?
+<SYNC Start=519194><P Class=KNCC>&nbsp;
+<SYNC Start=520663><P Class=KNCC>
+버스는 선배 아이디어였잖아요
+<SYNC Start=523264><P Class=KNCC>&nbsp;
+<SYNC Start=523299><P Class=KNCC>
+- 아니야<br>- 맞아요
+<SYNC Start=524932><P Class=KNCC>&nbsp;
+<SYNC Start=524966><P Class=KNCC>
+애초에 현장엔 나가면 안됐어
+<SYNC Start=526834><P Class=KNCC>&nbsp;
+<SYNC Start=528170><P Class=KNCC>
+국장님이 네 말을 들어준건 단지
+<SYNC Start=531038><P Class=KNCC>&nbsp;
+<SYNC Start=531073><P Class=KNCC>
+네가 그레이스랜드에서 와서야
+<SYNC Start=533374><P Class=KNCC>&nbsp;
+<SYNC Start=533409><P Class=KNCC>
+무슨 락스타처럼
+<SYNC Start=535276><P Class=KNCC>&nbsp;
+<SYNC Start=535311><P Class=KNCC>
+락스타요?
+<SYNC Start=538913><P Class=KNCC>&nbsp;
+<SYNC Start=538947><P Class=KNCC>
+왜 네가 핫하다고 생각했겠어?
+<SYNC Start=542817><P Class=KNCC>&nbsp;
+<SYNC Start=542851><P Class=KNCC>
+넌 FBI 부국장의 보좌관이잖아
+<SYNC Start=548256><P Class=KNCC>&nbsp;
+<SYNC Start=548290><P Class=KNCC>
+그 자리를 원하면
+<SYNC Start=550758><P Class=KNCC>&nbsp;
+<SYNC Start=550792><P Class=KNCC>
+사다리를 올라가<br>다른 사람들처럼
+<SYNC Start=554127><P Class=KNCC>&nbsp;
+<SYNC Start=554161><P Class=KNCC>
+천천히 꾸준하게
+<SYNC Start=556630><P Class=KNCC>&nbsp;
+<SYNC Start=556664><P Class=KNCC>
+지름길 없이요?
+<SYNC Start=558798><P Class=KNCC>&nbsp;
+<SYNC Start=558833><P Class=KNCC>
+난데없이 벨로 같은<br>큰 건을 물 수 없으면
+<SYNC Start=563803><P Class=KNCC>&nbsp;
+<SYNC Start=567575><P Class=KNCC>
+내가 평범해져도<br>좋아해줄거에요?
+<SYNC Start=570176><P Class=KNCC>&nbsp;
+<SYNC Start=572079><P Class=KNCC>
+이제 막 재밌어졌는데
+<SYNC Start=575115><P Class=KNCC>&nbsp;
+<SYNC Start=584158><P Class=KNCC>
+시작하지
+<SYNC Start=585825><P Class=KNCC>&nbsp;
+<SYNC Start=585860><P Class=KNCC>
+환영해, 마이크
+<SYNC Start=588194><P Class=KNCC>&nbsp;
+<SYNC Start=589163><P Class=KNCC>
+브릭스 요원
+<SYNC Start=590529><P Class=KNCC>&nbsp;
+<SYNC Start=590564><P Class=KNCC>
+마이키 마이크<br>보고싶어, 맨
+<SYNC Start=593299><P Class=KNCC>&nbsp;
+<SYNC Start=593333><P Class=KNCC>
+권력의 동네는 좀 어때?
+<SYNC Start=595701><P Class=KNCC>&nbsp;
+<SYNC Start=595736><P Class=KNCC>
+좋아요, 선배는요?
+<SYNC Start=597603><P Class=KNCC>&nbsp;
+<SYNC Start=597638><P Class=KNCC>
+알잖아, 좋은 시절 생각해봐
+<SYNC Start=600840><P Class=KNCC>&nbsp;
+<SYNC Start=600875><P Class=KNCC>
+그래요, 그레이스랜드는 어때요?
+<SYNC Start=603877><P Class=KNCC>&nbsp;
+<SYNC Start=603911><P Class=KNCC>
+좋아, 모두 좋아
+<SYNC Start=605178><P Class=KNCC>&nbsp;
+<SYNC Start=605212><P Class=KNCC>
+우리 기사님은 없지만 말이야
+<SYNC Start=608001><P Class=KNCC>&nbsp;
+<SYNC Start=608015><P Class=KNCC>
+휴가 생각은 없어?
+<SYNC Start=611017><P Class=KNCC>&nbsp;
+<SYNC Start=611051><P Class=KNCC>
+네
+<SYNC Start=611984><P Class=KNCC>&nbsp;
+<SYNC Start=615554><P Class=KNCC>
+- 진심이에요?<br>- 잘 들어, 마이크
+<SYNC Start=618023><P Class=KNCC>&nbsp;
+<SYNC Start=618057><P Class=KNCC>
+이건 아무한테도 말한 적 없는데
+<SYNC Start=621193><P Class=KNCC>&nbsp;
+<SYNC Start=621227><P Class=KNCC>
+카자 카르텔이 널 찾고있어
+<SYNC Start=623262><P Class=KNCC>&nbsp;
+<SYNC Start=626766><P Class=KNCC>
+다시 걸게요
+<SYNC Start=628733><P Class=KNCC>&nbsp;
+<SYNC Start=631304><P Class=KNCC>
+자리 좀 비켜주시겠어요
+<SYNC Start=633906><P Class=KNCC>&nbsp;
+<SYNC Start=636286><P Class=KNCC>
+문 닫아주세요
+<SYNC Start=637286><P Class=KNCC>&nbsp;
+<SYNC Start=639612><P Class=KNCC>
+내 패를 보여줬는데 끊어?
+<SYNC Start=642814><P Class=KNCC>&nbsp;
+<SYNC Start=644382><P Class=KNCC>
+왜 카자가 날 찾아요?
+<SYNC Start=645482><P Class=KNCC>&nbsp;
+<SYNC Start=645517><P Class=KNCC>
+정확히는 네가 아니지
+<SYNC Start=647751><P Class=KNCC>&nbsp;
+<SYNC Start=647786><P Class=KNCC>
+해병 마이크를 원하는거야
+<SYNC Start=649086><P Class=KNCC>&nbsp;
+<SYNC Start=649121><P Class=KNCC>
+널 찾으려고 현상금도 내걸었어
+<SYNC Start=652623><P Class=KNCC>&nbsp;
+<SYNC Start=652657><P Class=KNCC>
+무기 거래상을 찾는건 아니군요
+<SYNC Start=654658><P Class=KNCC>&nbsp;
+<SYNC Start=654693><P Class=KNCC>
+너랑 벨로가 끼친 손해를 생각하면
+<SYNC Start=657895><P Class=KNCC>&nbsp;
+<SYNC Start=657930><P Class=KNCC>
+네 목숨을 원하는 걸거야
+<SYNC Start=659997><P Class=KNCC>&nbsp;
+<SYNC Start=660032><P Class=KNCC>
+그래서 계획이 뭔데요?
+<SYNC Start=661299><P Class=KNCC>&nbsp;
+<SYNC Start=661333><P Class=KNCC>
+살인미수로 잡아 넣고
+<SYNC Start=663000><P Class=KNCC>&nbsp;
+<SYNC Start=663035><P Class=KNCC>
+보스까지 잡는거지
+<SYNC Start=664368><P Class=KNCC>&nbsp;
+<SYNC Start=664402><P Class=KNCC>
+믿어봐
+<SYNC Start=665803><P Class=KNCC>&nbsp;
+<SYNC Start=665837><P Class=KNCC>
+길어야 3, 4일이면 돼
+<SYNC Start=668505><P Class=KNCC>&nbsp;
+<SYNC Start=668540><P Class=KNCC>
+서핑 좀 하고 백만장자 카르텔도 잡고
+<SYNC Start=671274><P Class=KNCC>&nbsp;
+<SYNC Start=671309><P Class=KNCC>
+FBI 내 전설적인 위상을 회복하는거지
+<SYNC Start=674177><P Class=KNCC>&nbsp;
+<SYNC Start=674212><P Class=KNCC>
+누구든 승리를 원치 않겠어?
+<SYNC Start=676046><P Class=KNCC>&nbsp;
+<SYNC Start=676080><P Class=KNCC>
+언제부터 FBI 평판을 신경썼어요?
+<SYNC Start=678400><P Class=KNCC>&nbsp;
+<SYNC Start=678416><P Class=KNCC>
+내가 바로잡을 일이 좀 많잖아
+<SYNC Start=682353><P Class=KNCC>&nbsp;
+<SYNC Start=682387><P Class=KNCC>
+알겠어요
+<SYNC Start=684120><P Class=KNCC>&nbsp;
+<SYNC Start=684155><P Class=KNCC>
+뭐가?
+<SYNC Start=685322><P Class=KNCC>&nbsp;
+<SYNC Start=685357><P Class=KNCC>
+미끼가 될게요
+<SYNC Start=688091><P Class=KNCC>&nbsp;
+<SYNC Start=689761><P Class=KNCC>
+고마워, 곧 얘기해
+<SYNC Start=692195><P Class=KNCC>&nbsp;
+<SYNC Start=703730><P Class=KNCC>
+<font color="#40bfff">Sync & corrections by</font> <font color="#FFA500">wilson0804</font><br><font color="#40bfff">www.Addic7ed.com</font><br>한글자막 유동바발<br>2X01 The Line
+<SYNC Start=708892><P Class=KNCC>&nbsp;
+<SYNC Start=715934><P Class=KNCC>
+실패하면 엄청난 결과가 있을거야
+<SYNC Start=721610><P Class=KNCC>&nbsp;
+<SYNC Start=721640><P Class=KNCC>
+모든게 네 기술과<br>적응 능력에 달렸어
+<SYNC Start=725109><P Class=KNCC>&nbsp;
+<SYNC Start=725143><P Class=KNCC>
+쟤 반칙하잖아
+<SYNC Start=726676><P Class=KNCC>&nbsp;
+<SYNC Start=726710><P Class=KNCC>
+아직 아무말도 안했는데
+<SYNC Start=728011><P Class=KNCC>&nbsp;
+<SYNC Start=728045><P Class=KNCC>
+조니, 내가 반칙하는건 어떻게 알았는데
+<SYNC Start=729879><P Class=KNCC>&nbsp;
+<SYNC Start=729913><P Class=KNCC>
+그냥 알아
+<SYNC Start=731114><P Class=KNCC>&nbsp;
+<SYNC Start=731148><P Class=KNCC>
+- 그만해들<br>- 내가 시험한거야
+<SYNC Start=732982><P Class=KNCC>&nbsp;
+<SYNC Start=733017><P Class=KNCC>
+- 넌 실패한거고<br>- 제익스, 반칙 그만해
+<SYNC Start=734717><P Class=KNCC>&nbsp;
+<SYNC Start=734752><P Class=KNCC>
+- 빨리 해<br>- 시작
+<SYNC Start=735752><P Class=KNCC>&nbsp;
+<SYNC Start=735786><P Class=KNCC>
+알겠어, 알겠어
+<SYNC Start=737453><P Class=KNCC>&nbsp;
+<SYNC Start=737487><P Class=KNCC>
+얼른 써, 동시에
+<SYNC Start=739055><P Class=KNCC>&nbsp;
+<SYNC Start=739089><P Class=KNCC>
+어른처럼 굴어 좀
+<SYNC Start=742125><P Class=KNCC>&nbsp;
+<SYNC Start=742159><P Class=KNCC>
+준비...
+<SYNC Start=746095><P Class=KNCC>&nbsp;
+<SYNC Start=746130><P Class=KNCC>
+시작!
+<SYNC Start=748830><P Class=KNCC>&nbsp;
+<SYNC Start=750900><P Class=KNCC>
+빨리, 조니!
+<SYNC Start=752200><P Class=KNCC>&nbsp;
+<SYNC Start=766883><P Class=KNCC>
+- 또 반칙해!<br>- 제익스, 그만!
+<SYNC Start=768016><P Class=KNCC>&nbsp;
+<SYNC Start=768051><P Class=KNCC>
+안했어
+<SYNC Start=769316><P Class=KNCC>&nbsp;
+<SYNC Start=769350><P Class=KNCC>
+- 다시해<br>- 너나 신경써
+<SYNC Start=770851><P Class=KNCC>&nbsp;
+<SYNC Start=780528><P Class=KNCC>
+1층에 총은 안돼요
+<SYNC Start=782763><P Class=KNCC>&nbsp;
+<SYNC Start=782798><P Class=KNCC>
+마이크
+<SYNC Start=784165><P Class=KNCC>&nbsp;
+<SYNC Start=784199><P Class=KNCC>
+마이키! 죽으러 왔네
+<SYNC Start=786000><P Class=KNCC>&nbsp;
+<SYNC Start=786034><P Class=KNCC>
+- 안 웃겨<br>- 재밌잖아
+<SYNC Start=788135><P Class=KNCC>&nbsp;
+<SYNC Start=788170><P Class=KNCC>
+소식 들었나봐요
+<SYNC Start=789737><P Class=KNCC>&nbsp;
+<SYNC Start=791539><P Class=KNCC>
+안녕, 브라더
+<SYNC Start=792673><P Class=KNCC>&nbsp;
+<SYNC Start=792707><P Class=KNCC>
+- 잘 지냈어?<br>- 네, 선배는요?
+<SYNC Start=794241><P Class=KNCC>&nbsp;
+<SYNC Start=794275><P Class=KNCC>
+응
+<SYNC Start=795141><P Class=KNCC>&nbsp;
+<SYNC Start=795176><P Class=KNCC>
+- 안녕, 이방인<br>- 안녕
+<SYNC Start=797744><P Class=KNCC>&nbsp;
+<SYNC Start=805353><P Class=KNCC>
+내가 이겼지롱!
+<SYNC Start=807254><P Class=KNCC>&nbsp;
+<SYNC Start=807288><P Class=KNCC>
+안돼
+<SYNC Start=808222><P Class=KNCC>&nbsp;
+<SYNC Start=808256><P Class=KNCC>
+기각함!
+<SYNC Start=809889><P Class=KNCC>&nbsp;
+<SYNC Start=809924><P Class=KNCC>
+절대 안돼!
+<SYNC Start=811725><P Class=KNCC>&nbsp;
+<SYNC Start=811759><P Class=KNCC>
+또 반칙 하잖아!
+<SYNC Start=813326><P Class=KNCC>&nbsp;
+<SYNC Start=813360><P Class=KNCC>
+넌 리바이한테 인사하고<br>난 승자가 됐지
+<SYNC Start=816162><P Class=KNCC>&nbsp;
+<SYNC Start=816197><P Class=KNCC>
+또 한번 잘못된 선택이야, 존 보이
+<SYNC Start=819265><P Class=KNCC>&nbsp;
+<SYNC Start=821035><P Class=KNCC>
+반가워, 아들!
+<SYNC Start=822902><P Class=KNCC>&nbsp;
+<SYNC Start=824671><P Class=KNCC>
+대체 무슨 일이에요, 선배?
+<SYNC Start=825972><P Class=KNCC>&nbsp;
+<SYNC Start=826006><P Class=KNCC>
+왜, 난 행복하면 안돼?
+<SYNC Start=827907><P Class=KNCC>&nbsp;
+<SYNC Start=827942><P Class=KNCC>
+- 이런지 몇 달 됐어, 이상하지?<br>- 반가워
+<SYNC Start=830964><P Class=KNCC>&nbsp;
+<SYNC Start=830978><P Class=KNCC>
+난 DEA 질렌스키야
+<SYNC Start=832945><P Class=KNCC>&nbsp;
+<SYNC Start=832979><P Class=KNCC>
+- 반가워요<br>- 베이츠라고 부르지마
+<SYNC Start=834347><P Class=KNCC>&nbsp;
+<SYNC Start=834381><P Class=KNCC>
+베이츠라고 부르지 마
+<SYNC Start=836048><P Class=KNCC>&nbsp;
+<SYNC Start=836082><P Class=KNCC>
+- 네 방 쓰고 있어<br>- 왜 베이츠에요?
+<SYNC Start=837850><P Class=KNCC>&nbsp;
+<SYNC Start=837884><P Class=KNCC>
+마스터-베이츠*니까<br>*자위행위
+<SYNC Start=840353><P Class=KNCC>&nbsp;
+<SYNC Start=840387><P Class=KNCC>
+감시 중에 그짓 하다 들켰어
+<SYNC Start=842121><P Class=KNCC>&nbsp;
+<SYNC Start=842155><P Class=KNCC>
+한 번
+<SYNC Start=843322><P Class=KNCC>&nbsp;
+<SYNC Start=843357><P Class=KNCC>
+12시간 동안 혼자 차에 있었다고
+<SYNC Start=844923><P Class=KNCC>&nbsp;
+<SYNC Start=844958><P Class=KNCC>
+지금은 제 방을 쓰고요
+<SYNC Start=846125><P Class=KNCC>&nbsp;
+<SYNC Start=846159><P Class=KNCC>
+응
+<SYNC Start=847760><P Class=KNCC>&nbsp;
+<SYNC Start=847794><P Class=KNCC>
+네가 올 줄은 몰랐지
+<SYNC Start=849194><P Class=KNCC>&nbsp;
+<SYNC Start=849229><P Class=KNCC>
+- 난 소파서 자도 돼<br>- 괜찮아요
+<SYNC Start=850796><P Class=KNCC>&nbsp;
+<SYNC Start=850830><P Class=KNCC>
+소파에 좋은 기억이 많거든요
+<SYNC Start=851997><P Class=KNCC>&nbsp;
+<SYNC Start=852031><P Class=KNCC>
+- 맥주?<br>- 내일 작전이에요
+<SYNC Start=853198><P Class=KNCC>&nbsp;
+<SYNC Start=853233><P Class=KNCC>
+마셔, 마이크
+<SYNC Start=855267><P Class=KNCC>&nbsp;
+<SYNC Start=855301><P Class=KNCC>
+아직 동부 부심 못버린거야?
+<SYNC Start=857101><P Class=KNCC>&nbsp;
+<SYNC Start=857136><P Class=KNCC>
+그만해, 조니
+<SYNC Start=858336><P Class=KNCC>&nbsp;
+<SYNC Start=858371><P Class=KNCC>
+제발
+<SYNC Start=859671><P Class=KNCC>&nbsp;
+<SYNC Start=859705><P Class=KNCC>
+- 브릭스는요?<br>- 위층에
+<SYNC Start=862006><P Class=KNCC>&nbsp;
+<SYNC Start=862040><P Class=KNCC>
+알잖아, 브릭스<br>파티는 절대 안하는거
+<SYNC Start=863908><P Class=KNCC>&nbsp;
+<SYNC Start=863942><P Class=KNCC>
+그렇겠죠
+<SYNC Start=867111><P Class=KNCC>&nbsp;
+<SYNC Start=867146><P Class=KNCC>
+폴 브릭스 얘기하는거 맞아요?
+<SYNC Start=869681><P Class=KNCC>&nbsp;
+<SYNC Start=869715><P Class=KNCC>
+새 시대야, 아들
+<SYNC Start=872016><P Class=KNCC>&nbsp;
+<SYNC Start=874353><P Class=KNCC>
+2라운드 해
+<SYNC Start=875787><P Class=KNCC>&nbsp;
+<SYNC Start=875821><P Class=KNCC>
+또 이길 것 같은데
+<SYNC Start=877822><P Class=KNCC>&nbsp;
+<SYNC Start=887933><P Class=KNCC>
+파티할 기분 아니에요?
+<SYNC Start=889300><P Class=KNCC>&nbsp;
+<SYNC Start=889334><P Class=KNCC>
+마이클
+<SYNC Start=891002><P Class=KNCC>&nbsp;
+<SYNC Start=891036><P Class=KNCC>
+반가워, 와 줘서 다행이야
+<SYNC Start=893437><P Class=KNCC>&nbsp;
+<SYNC Start=893471><P Class=KNCC>
+윗분때문에 바빴을텐데
+<SYNC Start=895239><P Class=KNCC>&nbsp;
+<SYNC Start=895274><P Class=KNCC>
+그랬죠
+<SYNC Start=896874><P Class=KNCC>&nbsp;
+<SYNC Start=896909><P Class=KNCC>
+돌아오니 어때?
+<SYNC Start=898142><P Class=KNCC>&nbsp;
+<SYNC Start=900145><P Class=KNCC>
+- 이게 그리웠어요<br>- 그래?
+<SYNC Start=901312><P Class=KNCC>&nbsp;
+<SYNC Start=901346><P Class=KNCC>
+네
+<SYNC Start=903547><P Class=KNCC>&nbsp;
+<SYNC Start=903581><P Class=KNCC>
+달라졌네요
+<SYNC Start=904982><P Class=KNCC>&nbsp;
+<SYNC Start=905017><P Class=KNCC>
+뭐가?
+<SYNC Start=907384><P Class=KNCC>&nbsp;
+<SYNC Start=907419><P Class=KNCC>
+제가 살땐 1층엔 총 반입 절대 안됐고
+<SYNC Start=910321><P Class=KNCC>&nbsp;
+<SYNC Start=910355><P Class=KNCC>
+제익스가 절 껴안았어요
+<SYNC Start=911755><P Class=KNCC>&nbsp;
+<SYNC Start=911790><P Class=KNCC>
+엔트로피일거야
+<SYNC Start=913691><P Class=KNCC>&nbsp;
+<SYNC Start=913725><P Class=KNCC>
+모든게 카오스지
+<SYNC Start=916527><P Class=KNCC>&nbsp;
+<SYNC Start=918496><P Class=KNCC>
+내일 건이에요?
+<SYNC Start=919963><P Class=KNCC>&nbsp;
+<SYNC Start=919997><P Class=KNCC>
+응, 한번 볼래?
+<SYNC Start=921465><P Class=KNCC>&nbsp;
+<SYNC Start=921499><P Class=KNCC>
+- 네<br>- 좋아
+<SYNC Start=923166><P Class=KNCC>&nbsp;
+<SYNC Start=923201><P Class=KNCC>
+마실래요?
+<SYNC Start=924301><P Class=KNCC>&nbsp;
+<SYNC Start=924336><P Class=KNCC>
+난 물이면 돼
+<SYNC Start=927571><P Class=KNCC>&nbsp;
+<SYNC Start=927605><P Class=KNCC>
+- 어때요?<br>- 카자 파일이야
+<SYNC Start=929873><P Class=KNCC>&nbsp;
+<SYNC Start=939850><P Class=KNCC>
+다신 안마셔
+<SYNC Start=943353><P Class=KNCC>&nbsp;
+<SYNC Start=943387><P Class=KNCC>
+누구야?
+<SYNC Start=944487><P Class=KNCC>&nbsp;
+<SYNC Start=944521><P Class=KNCC>
+오, 이런
+<SYNC Start=947189><P Class=KNCC>&nbsp;
+<SYNC Start=947224><P Class=KNCC>
+마이키!
+<SYNC Start=949424><P Class=KNCC>&nbsp;
+<SYNC Start=949459><P Class=KNCC>
+브릭스랑 파티 잘 했어?
+<SYNC Start=951560><P Class=KNCC>&nbsp;
+<SYNC Start=951594><P Class=KNCC>
+네
+<SYNC Start=953094><P Class=KNCC>&nbsp;
+<SYNC Start=955665><P Class=KNCC>
+다시 봐서 반가워
+<SYNC Start=957599><P Class=KNCC>&nbsp;
+<SYNC Start=957633><P Class=KNCC>
+저도요
+<SYNC Start=959334><P Class=KNCC>&nbsp;
+<SYNC Start=959369><P Class=KNCC>
+잘 지냈어요?
+<SYNC Start=961570><P Class=KNCC>&nbsp;
+<SYNC Start=961604><P Class=KNCC>
+그럼
+<SYNC Start=964172><P Class=KNCC>&nbsp;
+<SYNC Start=964206><P Class=KNCC>
+혼자 사건도 맡고
+<SYNC Start=966908><P Class=KNCC>&nbsp;
+<SYNC Start=966942><P Class=KNCC>
+- 잘됐네요<br>- 응
+<SYNC Start=969310><P Class=KNCC>&nbsp;
+<SYNC Start=969345><P Class=KNCC>
+네 벨로 사건이 정말 날 감명시켰거든
+<SYNC Start=974349><P Class=KNCC>&nbsp;
+<SYNC Start=974384><P Class=KNCC>
+그럼 이제 사건 맡은거에요?
+<SYNC Start=975917><P Class=KNCC>&nbsp;
+<SYNC Start=975951><P Class=KNCC>
+아니
+<SYNC Start=977485><P Class=KNCC>&nbsp;
+<SYNC Start=977519><P Class=KNCC>
+아니, 결국 항상 다른길로 빠졌지
+<SYNC Start=980588><P Class=KNCC>&nbsp;
+<SYNC Start=980622><P Class=KNCC>
+다른 사람 작전 커버팀 지휘하면서
+<SYNC Start=982757><P Class=KNCC>&nbsp;
+<SYNC Start=982791><P Class=KNCC>
+모두 제각기 재능이 있으니까요
+<SYNC Start=985159><P Class=KNCC>&nbsp;
+<SYNC Start=988330><P Class=KNCC>
+그래
+<SYNC Start=989563><P Class=KNCC>&nbsp;
+<SYNC Start=992368><P Class=KNCC>
+그렇지
+<SYNC Start=995203><P Class=KNCC>&nbsp;
+<SYNC Start=995237><P Class=KNCC>
+엉망이어서 미안
+<SYNC Start=997272><P Class=KNCC>&nbsp;
+<SYNC Start=997306><P Class=KNCC>
+전에도 그랬는데요 뭐
+<SYNC Start=998940><P Class=KNCC>&nbsp;
+<SYNC Start=998974><P Class=KNCC>
+알지
+<SYNC Start=1000341><P Class=KNCC>&nbsp;
+<SYNC Start=1000376><P Class=KNCC>
+여길 청소하는 기쁨을 누릴사람이 누구에요?
+<SYNC Start=1003044><P Class=KNCC>&nbsp;
+<SYNC Start=1004479><P Class=KNCC>
+집안일 당번 기억해야지
+<SYNC Start=1007214><P Class=KNCC>&nbsp;
+<SYNC Start=1008517><P Class=KNCC>
+잘자, 마이키
+<SYNC Start=1010584><P Class=KNCC>&nbsp;
+<SYNC Start=1045285><P Class=KNCC>
+여보세요
+<SYNC Start=1046352><P Class=KNCC>&nbsp;
+<SYNC Start=1046386><P Class=KNCC>
+안녕, 마이크<br>죽고 싶기라도 한거야?
+<SYNC Start=1048888><P Class=KNCC>&nbsp;
+<SYNC Start=1048923><P Class=KNCC>
+아니요, 그런건 아닌데요
+<SYNC Start=1051591><P Class=KNCC>&nbsp;
+<SYNC Start=1051625><P Class=KNCC>
+왜 그레이스랜드로 간다고 말 안했어?
+<SYNC Start=1054060><P Class=KNCC>&nbsp;
+<SYNC Start=1054094><P Class=KNCC>
+아, 이제 서로 다 말하는 사이인거에요?
+<SYNC Start=1055594><P Class=KNCC>&nbsp;
+<SYNC Start=1055628><P Class=KNCC>
+어젯밤은 그냥 즐긴건줄 알았는데
+<SYNC Start=1058931><P Class=KNCC>&nbsp;
+<SYNC Start=1058966><P Class=KNCC>
+거기서 뭐하는거야, 마이크?
+<SYNC Start=1061700><P Class=KNCC>&nbsp;
+<SYNC Start=1061734><P Class=KNCC>
+브릭스가 뭘 약속했는데?
+<SYNC Start=1064837><P Class=KNCC>&nbsp;
+<SYNC Start=1064871><P Class=KNCC>
+거대 카르텔을 잡으면서<br>서핑 좀 하자고요
+<SYNC Start=1068341><P Class=KNCC>&nbsp;
+<SYNC Start=1092131><P Class=KNCC>
+폴
+<SYNC Start=1095333><P Class=KNCC>&nbsp;
+<SYNC Start=1095368><P Class=KNCC>
+악몽을 꿨나봐
+<SYNC Start=1099505><P Class=KNCC>&nbsp;
+<SYNC Start=1099539><P Class=KNCC>
+나때문에 일어난거야?
+<SYNC Start=1101072><P Class=KNCC>&nbsp;
+<SYNC Start=1101107><P Class=KNCC>
+일어날 때 됐어
+<SYNC Start=1103475><P Class=KNCC>&nbsp;
+<SYNC Start=1105344><P Class=KNCC>
+뭐가 널 괴롭히는지 말하고싶어?
+<SYNC Start=1110015><P Class=KNCC>&nbsp;
+<SYNC Start=1110049><P Class=KNCC>
+꿈은 전혀 기억이 안나, 자기
+<SYNC Start=1111984><P Class=KNCC>&nbsp;
+<SYNC Start=1112018><P Class=KNCC>
+다행이네
+<SYNC Start=1113485><P Class=KNCC>&nbsp;
+<SYNC Start=1113520><P Class=KNCC>
+행복해보이진 않았거든
+<SYNC Start=1115453><P Class=KNCC>&nbsp;
+<SYNC Start=1118257><P Class=KNCC>
+따로 자야할까봐
+<SYNC Start=1120025><P Class=KNCC>&nbsp;
+<SYNC Start=1120059><P Class=KNCC>
+따로 자자고 한 말이 아니야
+<SYNC Start=1121627><P Class=KNCC>&nbsp;
+<SYNC Start=1121661><P Class=KNCC>
+네가 불행한 곳에 있었던 것 같단거지
+<SYNC Start=1125296><P Class=KNCC>&nbsp;
+<SYNC Start=1128267><P Class=KNCC>
+여기가 행복한 곳이야
+<SYNC Start=1130067><P Class=KNCC>&nbsp;
+<SYNC Start=1130101><P Class=KNCC>
+좀 낫네
+<SYNC Start=1131435><P Class=KNCC>&nbsp;
+<SYNC Start=1138276><P Class=KNCC>
+찰리?
+<SYNC Start=1141546><P Class=KNCC>&nbsp;
+<SYNC Start=1141580><P Class=KNCC>
+- 들켰네<br>- 왜?
+<SYNC Start=1143881><P Class=KNCC>&nbsp;
+<SYNC Start=1143916><P Class=KNCC>
+네 방에 없네
+<SYNC Start=1145282><P Class=KNCC>&nbsp;
+<SYNC Start=1145316><P Class=KNCC>
+내 방에 있으니까
+<SYNC Start=1148519><P Class=KNCC>&nbsp;
+<SYNC Start=1148554><P Class=KNCC>
+어제 밴 썼지?
+<SYNC Start=1150788><P Class=KNCC>&nbsp;
+<SYNC Start=1150822><P Class=KNCC>
+열쇠 줄까?
+<SYNC Start=1152322><P Class=KNCC>&nbsp;
+<SYNC Start=1152357><P Class=KNCC>
+응, 물건 좀 전달해야돼
+<SYNC Start=1154559><P Class=KNCC>&nbsp;
+<SYNC Start=1154593><P Class=KNCC>
+고마워
+<SYNC Start=1155726><P Class=KNCC>&nbsp;
+<SYNC Start=1155761><P Class=KNCC>
+부르네
+<SYNC Start=1158295><P Class=KNCC>&nbsp;
+<SYNC Start=1160198><P Class=KNCC>
+이리와
+<SYNC Start=1161198><P Class=KNCC>&nbsp;
+<SYNC Start=1161199><P Class=KNCC>
+놔
+<SYNC Start=1163167><P Class=KNCC>&nbsp;
+<SYNC Start=1163201><P Class=KNCC>
+저리가
+<SYNC Start=1164501><P Class=KNCC>&nbsp;
+<SYNC Start=1164536><P Class=KNCC>
+네가 좋아하는대로 볶았어
+<SYNC Start=1167470><P Class=KNCC>&nbsp;
+<SYNC Start=1167504><P Class=KNCC>
+훌륭해
+<SYNC Start=1168572><P Class=KNCC>&nbsp;
+<SYNC Start=1168606><P Class=KNCC>
+좀 싸줄래?
+<SYNC Start=1170306><P Class=KNCC>&nbsp;
+<SYNC Start=1170340><P Class=KNCC>
+나 나가야돼
+<SYNC Start=1172275><P Class=KNCC>&nbsp;
+<SYNC Start=1172309><P Class=KNCC>
+- 가<br>- 조니!
+<SYNC Start=1174210><P Class=KNCC>&nbsp;
+<SYNC Start=1174244><P Class=KNCC>
+왜? 나 여기 있잖아
+<SYNC Start=1175612><P Class=KNCC>&nbsp;
+<SYNC Start=1175646><P Class=KNCC>
+텀블러 다 어딨어?
+<SYNC Start=1177681><P Class=KNCC>&nbsp;
+<SYNC Start=1177715><P Class=KNCC>
+나도 몰라
+<SYNC Start=1179683><P Class=KNCC>&nbsp;
+<SYNC Start=1179717><P Class=KNCC>
+왜 나일거라 생각해?
+<SYNC Start=1181585><P Class=KNCC>&nbsp;
+<SYNC Start=1181619><P Class=KNCC>
+나 민감한 남자라고
+<SYNC Start=1183753><P Class=KNCC>&nbsp;
+<SYNC Start=1183788><P Class=KNCC>
+자
+<SYNC Start=1185221><P Class=KNCC>&nbsp;
+<SYNC Start=1185255><P Class=KNCC>
+응
+<SYNC Start=1186556><P Class=KNCC>&nbsp;
+<SYNC Start=1186590><P Class=KNCC>
+그러니까 지금 네 방에 가도
+<SYNC Start=1187990><P Class=KNCC>&nbsp;
+<SYNC Start=1188024><P Class=KNCC>
+텀블러는 하나도 없는거지?
+<SYNC Start=1189959><P Class=KNCC>&nbsp;
+<SYNC Start=1189993><P Class=KNCC>
+내가 먼저 간다면
+<SYNC Start=1191594><P Class=KNCC>&nbsp;
+<SYNC Start=1193464><P Class=KNCC>
+좋은 아침
+<SYNC Start=1196365><P Class=KNCC>&nbsp;
+<SYNC Start=1196400><P Class=KNCC>
+- 계란 먹을래?<br>- 네
+<SYNC Start=1198501><P Class=KNCC>&nbsp;
+<SYNC Start=1198535><P Class=KNCC>
+제익스가 왜 신용평가보고서를 받은거지?
+<SYNC Start=1201304><P Class=KNCC>&nbsp;
+<SYNC Start=1201338><P Class=KNCC>
+네가 상관할 바 아니잖아
+<SYNC Start=1203839><P Class=KNCC>&nbsp;
+<SYNC Start=1203873><P Class=KNCC>
+내가 마시면 안되는거 있어요?
+<SYNC Start=1206842><P Class=KNCC>&nbsp;
+<SYNC Start=1206876><P Class=KNCC>
+아직도 이름표 붙여요?
+<SYNC Start=1208677><P Class=KNCC>&nbsp;
+<SYNC Start=1208712><P Class=KNCC>
+아니
+<SYNC Start=1210345><P Class=KNCC>&nbsp;
+<SYNC Start=1210379><P Class=KNCC>
+왜 이름표 붙이는거 그만해, 브로?
+<SYNC Start=1211413><P Class=KNCC>&nbsp;
+<SYNC Start=1211447><P Class=KNCC>
+컸나보지
+<SYNC Start=1212880><P Class=KNCC>&nbsp;
+<SYNC Start=1212915><P Class=KNCC>
+브릭스가 이제 안훔치니까
+<SYNC Start=1215183><P Class=KNCC>&nbsp;
+<SYNC Start=1215218><P Class=KNCC>
+- 퍽이나<br>- 만땅이야
+<SYNC Start=1216384><P Class=KNCC>&nbsp;
+<SYNC Start=1216419><P Class=KNCC>
+고마워
+<SYNC Start=1218286><P Class=KNCC>&nbsp;
+<SYNC Start=1219288><P Class=KNCC>
+마이크
+<SYNC Start=1221389><P Class=KNCC>&nbsp;
+<SYNC Start=1221424><P Class=KNCC>
+오늘 행운을 빌어
+<SYNC Start=1223492><P Class=KNCC>&nbsp;
+<SYNC Start=1223526><P Class=KNCC>
+그래, 행운을 빌어
+<SYNC Start=1226694><P Class=KNCC>&nbsp;
+<SYNC Start=1226729><P Class=KNCC>
+고마워요
+<SYNC Start=1228163><P Class=KNCC>&nbsp;
+<SYNC Start=1228197><P Class=KNCC>
+총 맞지마, 마이키
+<SYNC Start=1230432><P Class=KNCC>&nbsp;
+<SYNC Start=1230466><P Class=KNCC>
+- 총 맞지마<br>- 절대
+<SYNC Start=1232333><P Class=KNCC>&nbsp;
+<SYNC Start=1232367><P Class=KNCC>
+나도 나간다
+<SYNC Start=1233567><P Class=KNCC>&nbsp;
+<SYNC Start=1233602><P Class=KNCC>
+만날 사람이 있어
+<SYNC Start=1236237><P Class=KNCC>&nbsp;
+<SYNC Start=1236271><P Class=KNCC>
+- 새 차 뽑아?<br>- 아니
+<SYNC Start=1238105><P Class=KNCC>&nbsp;
+<SYNC Start=1238140><P Class=KNCC>
+- 무슨 생각 하는거야?<br>- 차 안사, 조니
+<SYNC Start=1239706><P Class=KNCC>&nbsp;
+<SYNC Start=1239741><P Class=KNCC>
+같이가. 시운전 해줄게
+<SYNC Start=1241842><P Class=KNCC>&nbsp;
+<SYNC Start=1241876><P Class=KNCC>
+날 내버려 둬, 안녕
+<SYNC Start=1245045><P Class=KNCC>&nbsp;
+<SYNC Start=1245079><P Class=KNCC>
+오늘 잘될거야
+<SYNC Start=1246359><P Class=KNCC>&nbsp;
+<SYNC Start=1246381><P Class=KNCC>
+9시에 준비해서 10시에 리온 만나고
+<SYNC Start=1249049><P Class=KNCC>&nbsp;
+<SYNC Start=1249083><P Class=KNCC>
+11시에 나쁜놈들은 감옥가고
+<SYNC Start=1250284><P Class=KNCC>&nbsp;
+<SYNC Start=1250318><P Class=KNCC>
+정오엔 파도나 타는거지
+<SYNC Start=1251952><P Class=KNCC>&nbsp;
+<SYNC Start=1251986><P Class=KNCC>
+자신감 대단한데
+<SYNC Start=1253820><P Class=KNCC>&nbsp;
+<SYNC Start=1253855><P Class=KNCC>
+리온은 네가 at4 로켓런처 한 박스를<br>가지고 있다고 생각할거야
+<SYNC Start=1259192><P Class=KNCC>&nbsp;
+<SYNC Start=1259226><P Class=KNCC>
+엄청난 연줄이 있어야겠네요
+<SYNC Start=1261561><P Class=KNCC>&nbsp;
+<SYNC Start=1261595><P Class=KNCC>
+최고만한게 없지, 워렌 요원
+<SYNC Start=1263530><P Class=KNCC>&nbsp;
+<SYNC Start=1263564><P Class=KNCC>
+특히나 혼자 갈땐 말이야
+<SYNC Start=1265498><P Class=KNCC>&nbsp;
+<SYNC Start=1265533><P Class=KNCC>
+리온은 네가 정말<br>그 해병 마이크가 맞는지 확인해야돼
+<SYNC Start=1270503><P Class=KNCC>&nbsp;
+<SYNC Start=1270538><P Class=KNCC>
+벨로의 전 고용인 말이야
+<SYNC Start=1272673><P Class=KNCC>&nbsp;
+<SYNC Start=1272707><P Class=KNCC>
+네가 맞는걸 확인하면
+<SYNC Start=1274541><P Class=KNCC>&nbsp;
+<SYNC Start=1274575><P Class=KNCC>
+- 카자 기병을 부를테고<br>- 놈들이 절 죽이기 전에...
+<SYNC Start=1277377><P Class=KNCC>&nbsp;
+<SYNC Start=1277411><P Class=KNCC>
+놈들을 체포하고 터는거지, 베이비
+<SYNC Start=1279146><P Class=KNCC>&nbsp;
+<SYNC Start=1279180><P Class=KNCC>
+정오엔 서핑하고요
+<SYNC Start=1281381><P Class=KNCC>&nbsp;
+<SYNC Start=1281415><P Class=KNCC>
+전문적인데요, 척
+<SYNC Start=1283483><P Class=KNCC>&nbsp;
+<SYNC Start=1283517><P Class=KNCC>
+- 고마워, 마이키<br>- 그래야지
+<SYNC Start=1285052><P Class=KNCC>&nbsp;
+<SYNC Start=1285086><P Class=KNCC>
+타투 시술소서 위장근무하니까
+<SYNC Start=1286952><P Class=KNCC>&nbsp;
+<SYNC Start=1286987><P Class=KNCC>
+동 LA의 작은 잉크가게야
+<SYNC Start=1288587><P Class=KNCC>&nbsp;
+<SYNC Start=1288621><P Class=KNCC>
+눈물방울 타투하러 들르는 곳
+<SYNC Start=1290790><P Class=KNCC>&nbsp;
+<SYNC Start=1290824><P Class=KNCC>
+말도 안돼
+<SYNC Start=1292491><P Class=KNCC>&nbsp;
+<SYNC Start=1292525><P Class=KNCC>
+온갖걸 다 털어놓는다니까
+<SYNC Start=1294927><P Class=KNCC>&nbsp;
+<SYNC Start=1294961><P Class=KNCC>
+말그대로 얼굴에 살인한걸 새기는거지
+<SYNC Start=1299865><P Class=KNCC>&nbsp;
+<SYNC Start=1299900><P Class=KNCC>
+좋아, 다됐어
+<SYNC Start=1301266><P Class=KNCC>&nbsp;
+<SYNC Start=1301301><P Class=KNCC>
+예술이네, 척
+<SYNC Start=1302802><P Class=KNCC>&nbsp;
+<SYNC Start=1302836><P Class=KNCC>
+조니네 팀 준비 됐는지 보고 올게
+<SYNC Start=1304603><P Class=KNCC>&nbsp;
+<SYNC Start=1304637><P Class=KNCC>
+그러고 출발하자
+<SYNC Start=1305905><P Class=KNCC>&nbsp;
+<SYNC Start=1305939><P Class=KNCC>
+- 좋아<br>- 네
+<SYNC Start=1307406><P Class=KNCC>&nbsp;
+<SYNC Start=1316949><P Class=KNCC>
+걸리는거 있어?
+<SYNC Start=1318283><P Class=KNCC>&nbsp;
+<SYNC Start=1318318><P Class=KNCC>
+어떻게 지냈어요?
+<SYNC Start=1320285><P Class=KNCC>&nbsp;
+<SYNC Start=1320320><P Class=KNCC>
+- 폴?<br>- 네
+<SYNC Start=1321320><P Class=KNCC>&nbsp;
+<SYNC Start=1321321><P Class=KNCC>
+좋아, 정말
+<SYNC Start=1322854><P Class=KNCC>&nbsp;
+<SYNC Start=1322888><P Class=KNCC>
+다행이네요
+<SYNC Start=1325424><P Class=KNCC>&nbsp;
+<SYNC Start=1325458><P Class=KNCC>
+일어난 일 들을 생각해보면...
+<SYNC Start=1328960><P Class=KNCC>&nbsp;
+<SYNC Start=1328994><P Class=KNCC>
+후안도 죽고
+<SYNC Start=1331296><P Class=KNCC>&nbsp;
+<SYNC Start=1331331><P Class=KNCC>
+우리 둘다 선배가<br>오딘인 줄 알았잖아요
+<SYNC Start=1334533><P Class=KNCC>&nbsp;
+<SYNC Start=1340372><P Class=KNCC>
+둘이 자는 사이에요?
+<SYNC Start=1342707><P Class=KNCC>&nbsp;
+<SYNC Start=1342741><P Class=KNCC>
+내껀줄 어떻게 알아?
+<SYNC Start=1345509><P Class=KNCC>&nbsp;
+<SYNC Start=1345544><P Class=KNCC>
+민간인은 윗층에 못오고,<br>페이지껀 아니니까요
+<SYNC Start=1348479><P Class=KNCC>&nbsp;
+<SYNC Start=1348513><P Class=KNCC>
+성급히 판단하지마, 자기
+<SYNC Start=1350948><P Class=KNCC>&nbsp;
+<SYNC Start=1352751><P Class=KNCC>
+아니, 전...
+<SYNC Start=1354852><P Class=KNCC>&nbsp;
+<SYNC Start=1358857><P Class=KNCC>
+- 결백하다고 생각해요?<br>- 잘 하고 있어
+<SYNC Start=1362993><P Class=KNCC>&nbsp;
+<SYNC Start=1363027><P Class=KNCC>
+우리가 겪었던 혼란을<br>겪을 필요는 없어
+<SYNC Start=1364868><P Class=KNCC>&nbsp;
+<SYNC Start=1364896><P Class=KNCC>
+다시 흔들지 마, 마이크
+<SYNC Start=1367697><P Class=KNCC>&nbsp;
+<SYNC Start=1367732><P Class=KNCC>
+알겠어요
+<SYNC Start=1368531><P Class=KNCC>&nbsp;
+<SYNC Start=1368566><P Class=KNCC>
+- 알겠어?<br>- 네
+<SYNC Start=1370700><P Class=KNCC>&nbsp;
+<SYNC Start=1370735><P Class=KNCC>
+그냥 사실을 알고 싶은거에요
+<SYNC Start=1372569><P Class=KNCC>&nbsp;
+<SYNC Start=1372603><P Class=KNCC>
+이미 알잖아
+<SYNC Start=1375005><P Class=KNCC>&nbsp;
+<SYNC Start=1388418><P Class=KNCC>
+브릭스랑 워렌한테<br>도청기를 달았어
+<SYNC Start=1389818><P Class=KNCC>&nbsp;
+<SYNC Start=1389852><P Class=KNCC>
+카자 놈들을 보자마자 들어가는거야
+<SYNC Start=1392020><P Class=KNCC>&nbsp;
+<SYNC Start=1392054><P Class=KNCC>
+이놈들을 터는게 중요해
+<SYNC Start=1393855><P Class=KNCC>&nbsp;
+<SYNC Start=1393889><P Class=KNCC>
+일이 틀어져도, 제압하고
+<SYNC Start=1395189><P Class=KNCC>&nbsp;
+<SYNC Start=1395223><P Class=KNCC>
+죽이지는 마
+<SYNC Start=1396791><P Class=KNCC>&nbsp;
+<SYNC Start=1396825><P Class=KNCC>
+다시 잠입수사 하는거 긴장돼?
+<SYNC Start=1399060><P Class=KNCC>&nbsp;
+<SYNC Start=1399094><P Class=KNCC>
+아니요, 신나는데요
+<SYNC Start=1400929><P Class=KNCC>&nbsp;
+<SYNC Start=1400963><P Class=KNCC>
+그래
+<SYNC Start=1402196><P Class=KNCC>&nbsp;
+<SYNC Start=1402230><P Class=KNCC>
+선배랑 찰리가요?
+<SYNC Start=1404566><P Class=KNCC>&nbsp;
+<SYNC Start=1404600><P Class=KNCC>
+- 떠보는건가?<br>- 아닙니다
+<SYNC Start=1406634><P Class=KNCC>&nbsp;
+<SYNC Start=1406669><P Class=KNCC>
+속옷이 있던데요
+<SYNC Start=1407669><P Class=KNCC>&nbsp;
+<SYNC Start=1409438><P Class=KNCC>
+예리했어요?
+<SYNC Start=1411905><P Class=KNCC>&nbsp;
+<SYNC Start=1411940><P Class=KNCC>
+우리 둘 다 기댈 곳이 필요하지
+<SYNC Start=1416177><P Class=KNCC>&nbsp;
+<SYNC Start=1418480><P Class=KNCC>
+왔네
+<SYNC Start=1420081><P Class=KNCC>&nbsp;
+<SYNC Start=1420115><P Class=KNCC>
+안녕, 리온?
+<SYNC Start=1421815><P Class=KNCC>&nbsp;
+<SYNC Start=1421849><P Class=KNCC>
+폴리!
+<SYNC Start=1424351><P Class=KNCC>&nbsp;
+<SYNC Start=1424386><P Class=KNCC>
+- 이 사람이야?<br>- 응
+<SYNC Start=1425586><P Class=KNCC>&nbsp;
+<SYNC Start=1425620><P Class=KNCC>
+진정해, 말 했잖아
+<SYNC Start=1427221><P Class=KNCC>&nbsp;
+<SYNC Start=1427255><P Class=KNCC>
+마이크, 네 좋은 친구 리온이야
+<SYNC Start=1429490><P Class=KNCC>&nbsp;
+<SYNC Start=1429524><P Class=KNCC>
+반가워요, 리온
+<SYNC Start=1430657><P Class=KNCC>&nbsp;
+<SYNC Start=1430692><P Class=KNCC>
+나도 그래
+<SYNC Start=1431891><P Class=KNCC>&nbsp;
+<SYNC Start=1431925><P Class=KNCC>
+물건 좀 보자고
+<SYNC Start=1433693><P Class=KNCC>&nbsp;
+<SYNC Start=1438199><P Class=KNCC>
+맞아?
+<SYNC Start=1439532><P Class=KNCC>&nbsp;
+<SYNC Start=1439567><P Class=KNCC>
+응
+<SYNC Start=1442368><P Class=KNCC>&nbsp;
+<SYNC Start=1442403><P Class=KNCC>
+카자에 말 할거야?
+<SYNC Start=1443803><P Class=KNCC>&nbsp;
+<SYNC Start=1443837><P Class=KNCC>
+응, 그래야지
+<SYNC Start=1445171><P Class=KNCC>&nbsp;
+<SYNC Start=1450211><P Class=KNCC>
+리온, 뭐하는거야?
+<SYNC Start=1453746><P Class=KNCC>&nbsp;
+<SYNC Start=1453780><P Class=KNCC>
+총이다
+<SYNC Start=1454914><P Class=KNCC>&nbsp;
+<SYNC Start=1454948><P Class=KNCC>
+보여. 발사 중지
+<SYNC Start=1456415><P Class=KNCC>&nbsp;
+<SYNC Start=1456449><P Class=KNCC>
+계획 변경이야, 폴
+<SYNC Start=1458283><P Class=KNCC>&nbsp;
+<SYNC Start=1458318><P Class=KNCC>
+- 돈은 못 나눠<br>- 뭐하는거야? 카자는?
+<SYNC Start=1460620><P Class=KNCC>&nbsp;
+<SYNC Start=1460654><P Class=KNCC>
+쉽게 만들어주는거야
+<SYNC Start=1462588><P Class=KNCC>&nbsp;
+<SYNC Start=1462623><P Class=KNCC>
+총을 들이밀면서<br>쉽게 만들어준다고?
+<SYNC Start=1464924><P Class=KNCC>&nbsp;
+<SYNC Start=1464958><P Class=KNCC>
+- 안 쉬운데<br>- 다칠지도 몰라, 폴
+<SYNC Start=1467192><P Class=KNCC>&nbsp;
+<SYNC Start=1467227><P Class=KNCC>
+알겠어?
+<SYNC Start=1468794><P Class=KNCC>&nbsp;
+<SYNC Start=1468829><P Class=KNCC>
+- 다칠거라고?<br>- 엄청 심하게
+<SYNC Start=1470229><P Class=KNCC>&nbsp;
+<SYNC Start=1470263><P Class=KNCC>
+브릭스, 시야에 걸리잖아
+<SYNC Start=1472231><P Class=KNCC>&nbsp;
+<SYNC Start=1472265><P Class=KNCC>
+진심이야, 리온<br>이러지마
+<SYNC Start=1474634><P Class=KNCC>&nbsp;
+<SYNC Start=1474668><P Class=KNCC>
+이래라 저래라 하지마
+<SYNC Start=1476268><P Class=KNCC>&nbsp;
+<SYNC Start=1476302><P Class=KNCC>
+마이크, 진정해
+<SYNC Start=1477603><P Class=KNCC>&nbsp;
+<SYNC Start=1477637><P Class=KNCC>
+조준했어. 쏠게
+<SYNC Start=1479771><P Class=KNCC>&nbsp;
+<SYNC Start=1479805><P Class=KNCC>
+브릭스가 고의적으로 막고 있어
+<SYNC Start=1481940><P Class=KNCC>&nbsp;
+<SYNC Start=1481974><P Class=KNCC>
+조준한 사람 있나?
+<SYNC Start=1483174><P Class=KNCC>&nbsp;
+<SYNC Start=1483208><P Class=KNCC>
+- 안보여<br>- 무슨 일이에요?
+<SYNC Start=1485176><P Class=KNCC>&nbsp;
+<SYNC Start=1485210><P Class=KNCC>
+친구간 의견 불일치지
+<SYNC Start=1487078><P Class=KNCC>&nbsp;
+<SYNC Start=1487113><P Class=KNCC>
+둘다 쏠거야, 정말로
+<SYNC Start=1488947><P Class=KNCC>&nbsp;
+<SYNC Start=1488981><P Class=KNCC>
+뭐라든지 상관안해<br>시체를 갖다줄거야
+<SYNC Start=1491415><P Class=KNCC>&nbsp;
+<SYNC Start=1491450><P Class=KNCC>
+그거 알아? 때려처
+<SYNC Start=1492517><P Class=KNCC>&nbsp;
+<SYNC Start=1492551><P Class=KNCC>
+조니, 손을 쏴버려
+<SYNC Start=1494218><P Class=KNCC>&nbsp;
+<SYNC Start=1504595><P Class=KNCC>
+어떻게 한거야, 폴?
+<SYNC Start=1505996><P Class=KNCC>&nbsp;
+<SYNC Start=1506031><P Class=KNCC>
+나도 몰라, 리온
+<SYNC Start=1507631><P Class=KNCC>&nbsp;
+<SYNC Start=1507666><P Class=KNCC>
+내가 FBI라서 그런가보지
+<SYNC Start=1510000><P Class=KNCC>&nbsp;
+<SYNC Start=1510035><P Class=KNCC>
+멍청아, 넌 체포야
+<SYNC Start=1511201><P Class=KNCC>&nbsp;
+<SYNC Start=1511235><P Class=KNCC>
+- 브릭스<br>- 응
+<SYNC Start=1512569><P Class=KNCC>&nbsp;
+<SYNC Start=1512603><P Class=KNCC>
+정오에 서핑은요?
+<SYNC Start=1514838><P Class=KNCC>&nbsp;
+<SYNC Start=1514873><P Class=KNCC>
+안되지
+<SYNC Start=1517741><P Class=KNCC>&nbsp;
+<SYNC Start=1520712><P Class=KNCC>
+- 잘못했잖아<br>- 닥쳐
+<SYNC Start=1522245><P Class=KNCC>&nbsp;
+<SYNC Start=1522280><P Class=KNCC>
+무자비해들
+<SYNC Start=1524181><P Class=KNCC>&nbsp;
+<SYNC Start=1524215><P Class=KNCC>
+냉혹해
+<SYNC Start=1525248><P Class=KNCC>&nbsp;
+<SYNC Start=1525283><P Class=KNCC>
+- 정말?<br>- 응
+<SYNC Start=1526949><P Class=KNCC>&nbsp;
+<SYNC Start=1526984><P Class=KNCC>
+리온, 방금 네가 거래를 깼잖아
+<SYNC Start=1528944><P Class=KNCC>&nbsp;
+<SYNC Start=1528952><P Class=KNCC>
+당신은 날 암살자한테 넘기려고 했고
+<SYNC Start=1530853><P Class=KNCC>&nbsp;
+<SYNC Start=1530888><P Class=KNCC>
+암살자인지 내가 어떻게 알겠어?
+<SYNC Start=1534057><P Class=KNCC>&nbsp;
+<SYNC Start=1537227><P Class=KNCC>
+연락은 어떻게해?
+<SYNC Start=1538728><P Class=KNCC>&nbsp;
+<SYNC Start=1538762><P Class=KNCC>
+번호나...
+<SYNC Start=1540029><P Class=KNCC>&nbsp;
+<SYNC Start=1540064><P Class=KNCC>
+킬보이즈
+<SYNC Start=1542531><P Class=KNCC>&nbsp;
+<SYNC Start=1545836><P Class=KNCC>
+그렇네
+<SYNC Start=1547804><P Class=KNCC>&nbsp;
+<SYNC Start=1551874><P Class=KNCC>
+왜 이렇게 오래걸래?
+<SYNC Start=1553742><P Class=KNCC>&nbsp;
+<SYNC Start=1553776><P Class=KNCC>
+계획이 바뀌었다
+<SYNC Start=1555143><P Class=KNCC>&nbsp;
+<SYNC Start=1555178><P Class=KNCC>
+리온이 날 빼려고 했어
+<SYNC Start=1556845><P Class=KNCC>&nbsp;
+<SYNC Start=1556879><P Class=KNCC>
+- 이제 나랑 거래하는거야<br>- 누군데?
+<SYNC Start=1559047><P Class=KNCC>&nbsp;
+<SYNC Start=1559082><P Class=KNCC>
+누구냐고? 놈을 알고 있는 사람이지
+<SYNC Start=1561650><P Class=KNCC>&nbsp;
+<SYNC Start=1561685><P Class=KNCC>
+해병을 원하면 나한테 와
+<SYNC Start=1563686><P Class=KNCC>&nbsp;
+<SYNC Start=1563720><P Class=KNCC>
+아니, 핸드폰 가지고 있어
+<SYNC Start=1565921><P Class=KNCC>&nbsp;
+<SYNC Start=1565955><P Class=KNCC>
+우리가 장소와 시간을 정하지
+<SYNC Start=1567389><P Class=KNCC>&nbsp;
+<SYNC Start=1569926><P Class=KNCC>
+뭐에요?
+<SYNC Start=1572394><P Class=KNCC>&nbsp;
+<SYNC Start=1572429><P Class=KNCC>
+고맙네, 리온
+<SYNC Start=1573429><P Class=KNCC>&nbsp;
+<SYNC Start=1578367><P Class=KNCC>
+- 중단하지<br>- 바뀐건 없어요
+<SYNC Start=1580769><P Class=KNCC>&nbsp;
+<SYNC Start=1580803><P Class=KNCC>
+잡아서 털어봐요
+<SYNC Start=1582838><P Class=KNCC>&nbsp;
+<SYNC Start=1582872><P Class=KNCC>
+시간과 장소를 우리가 정할 수 없으면
+<SYNC Start=1584239><P Class=KNCC>&nbsp;
+<SYNC Start=1584273><P Class=KNCC>
+네 안전도 보장 못해, 마이크
+<SYNC Start=1586007><P Class=KNCC>&nbsp;
+<SYNC Start=1586042><P Class=KNCC>
+- 제 안전이요?<br>- 응
+<SYNC Start=1587675><P Class=KNCC>&nbsp;
+<SYNC Start=1587710><P Class=KNCC>
+언제부터 제 안전에 신경썼는데요?
+<SYNC Start=1589778><P Class=KNCC>&nbsp;
+<SYNC Start=1589812><P Class=KNCC>
+카자 카르텔 얘기라면<br>절 지옥문까지 들이밀었잖아요
+<SYNC Start=1592347><P Class=KNCC>&nbsp;
+<SYNC Start=1592381><P Class=KNCC>
+그만해
+<SYNC Start=1593949><P Class=KNCC>&nbsp;
+<SYNC Start=1593983><P Class=KNCC>
+브릭스가 끝났다면 끝인거야
+<SYNC Start=1595851><P Class=KNCC>&nbsp;
+<SYNC Start=1595885><P Class=KNCC>
+스스로도 생각해요, 존
+<SYNC Start=1597219><P Class=KNCC>&nbsp;
+<SYNC Start=1597253><P Class=KNCC>
+뭐, 뭐라고?
+<SYNC Start=1599121><P Class=KNCC>&nbsp;
+<SYNC Start=1599155><P Class=KNCC>
+와, 오늘 정말 작정했구나
+<SYNC Start=1601022><P Class=KNCC>&nbsp;
+<SYNC Start=1601057><P Class=KNCC>
+대체 무슨 일이 생긴거에요?
+<SYNC Start=1602624><P Class=KNCC>&nbsp;
+<SYNC Start=1602658><P Class=KNCC>
+내가 아는 브릭스는...
+<SYNC Start=1604726><P Class=KNCC>&nbsp;
+<SYNC Start=1604760><P Class=KNCC>
+1킬로 앞도 내다봤는데
+<SYNC Start=1606694><P Class=KNCC>&nbsp;
+<SYNC Start=1606729><P Class=KNCC>
+지금은...
+<SYNC Start=1608363><P Class=KNCC>&nbsp;
+<SYNC Start=1608397><P Class=KNCC>
+완전 나가떨어져서<br>경찰 도둑놀이 하는 것 같아요
+<SYNC Start=1612600><P Class=KNCC>&nbsp;
+<SYNC Start=1613902><P Class=KNCC>
+나가 떨어져?
+<SYNC Start=1615336><P Class=KNCC>&nbsp;
+<SYNC Start=1615371><P Class=KNCC>
+일 하면 안돼요?
+<SYNC Start=1616771><P Class=KNCC>&nbsp;
+<SYNC Start=1616805><P Class=KNCC>
+아님 총잡고 돌기나 할까요<br>재밌어보이던데
+<SYNC Start=1620775><P Class=KNCC>&nbsp;
+<SYNC Start=1620809><P Class=KNCC>
+- 때려도 돼?<br>- 아니, 조니. 안돼
+<SYNC Start=1623645><P Class=KNCC>&nbsp;
+<SYNC Start=1623679><P Class=KNCC>
+내 작전이야, 마이크
+<SYNC Start=1625380><P Class=KNCC>&nbsp;
+<SYNC Start=1625414><P Class=KNCC>
+끝났어
+<SYNC Start=1627114><P Class=KNCC>&nbsp;
+<SYNC Start=1627149><P Class=KNCC>
+비행기 티켓 낭비하게 해서 미안해
+<SYNC Start=1629317><P Class=KNCC>&nbsp;
+<SYNC Start=1629351><P Class=KNCC>
+수트에 주름 안가길 바랄게
+<SYNC Start=1632886><P Class=KNCC>&nbsp;
+<SYNC Start=1632920><P Class=KNCC>
+너 없이도 잘했어, 브로
+<SYNC Start=1636055><P Class=KNCC>&nbsp;
+<SYNC Start=1651205><P Class=KNCC>
+- 안녕<br>- 안녕
+<SYNC Start=1655241><P Class=KNCC>&nbsp;
+<SYNC Start=1655276><P Class=KNCC>
+왔어요
+<SYNC Start=1658144><P Class=KNCC>&nbsp;
+<SYNC Start=1658179><P Class=KNCC>
+워싱턴이 널 멍청이로 만들었나봐
+<SYNC Start=1662081><P Class=KNCC>&nbsp;
+<SYNC Start=1662116><P Class=KNCC>
+이젠 멍청이네요
+<SYNC Start=1663149><P Class=KNCC>&nbsp;
+<SYNC Start=1663184><P Class=KNCC>
+우리가 나가떨어진것처럼
+<SYNC Start=1665351><P Class=KNCC>&nbsp;
+<SYNC Start=1665385><P Class=KNCC>
+선배 얘긴 아니에요
+<SYNC Start=1667420><P Class=KNCC>&nbsp;
+<SYNC Start=1667454><P Class=KNCC>
+조니만 놀고 있던건 아니야, 마이크
+<SYNC Start=1670656><P Class=KNCC>&nbsp;
+<SYNC Start=1673894><P Class=KNCC>
+워싱턴에 갔을 때 전...
+<SYNC Start=1678764><P Class=KNCC>&nbsp;
+<SYNC Start=1678799><P Class=KNCC>
+락스타 같았어요
+<SYNC Start=1680133><P Class=KNCC>&nbsp;
+<SYNC Start=1680167><P Class=KNCC>
+진짜 위장수사 요원이었죠
+<SYNC Start=1682202><P Class=KNCC>&nbsp;
+<SYNC Start=1682236><P Class=KNCC>
+모두가 들떴어요
+<SYNC Start=1686272><P Class=KNCC>&nbsp;
+<SYNC Start=1686307><P Class=KNCC>
+신나서, 책상 뒤에 묶어놨죠
+<SYNC Start=1689709><P Class=KNCC>&nbsp;
+<SYNC Start=1689743><P Class=KNCC>
+원하던거 아니었어?
+<SYNC Start=1692778><P Class=KNCC>&nbsp;
+<SYNC Start=1692813><P Class=KNCC>
+아마도요
+<SYNC Start=1695047><P Class=KNCC>&nbsp;
+<SYNC Start=1697818><P Class=KNCC>
+근데 여기 일을 겪고 나서는...
+<SYNC Start=1699051><P Class=KNCC>&nbsp;
+<SYNC Start=1699085><P Class=KNCC>
+아무것도 현실 같지 않았겠지
+<SYNC Start=1701454><P Class=KNCC>&nbsp;
+<SYNC Start=1704190><P Class=KNCC>
+알아
+<SYNC Start=1705224><P Class=KNCC>&nbsp;
+<SYNC Start=1709563><P Class=KNCC>
+가설이 있어요
+<SYNC Start=1711330><P Class=KNCC>&nbsp;
+<SYNC Start=1711365><P Class=KNCC>
+버스에 대한건데
+<SYNC Start=1712798><P Class=KNCC>&nbsp;
+<SYNC Start=1712833><P Class=KNCC>
+제가 만들었어요
+<SYNC Start=1715100><P Class=KNCC>&nbsp;
+<SYNC Start=1715134><P Class=KNCC>
+열심히 추진했죠
+<SYNC Start=1716801><P Class=KNCC>&nbsp;
+<SYNC Start=1716836><P Class=KNCC>
+근데 모든 영향력을 잃어버렸어요
+<SYNC Start=1720905><P Class=KNCC>&nbsp;
+<SYNC Start=1720939><P Class=KNCC>
+그래서 다시 와서<br>락스타가 되려고 했구나
+<SYNC Start=1726811><P Class=KNCC>&nbsp;
+<SYNC Start=1730549><P Class=KNCC>
+이 세계엔 이미 죽은 락스타가 많아, 마이크
+<SYNC Start=1734352><P Class=KNCC>&nbsp;
+<SYNC Start=1734387><P Class=KNCC>
+브릭스는 네가 죽지 않게 하려는 것 뿐이고
+<SYNC Start=1737321><P Class=KNCC>&nbsp;
+<SYNC Start=1811662><P Class=KNCC>
+안녕, 달링
+<SYNC Start=1814330><P Class=KNCC>&nbsp;
+<SYNC Start=1814364><P Class=KNCC>
+늦었네
+<SYNC Start=1816198><P Class=KNCC>&nbsp;
+<SYNC Start=1816232><P Class=KNCC>
+좀 걷고 싶어서
+<SYNC Start=1819068><P Class=KNCC>&nbsp;
+<SYNC Start=1819102><P Class=KNCC>
+또 긴 산책했어?
+<SYNC Start=1820603><P Class=KNCC>&nbsp;
+<SYNC Start=1820637><P Class=KNCC>
+너도 머리를 비우고 싶을때가 있잖아
+<SYNC Start=1823172><P Class=KNCC>&nbsp;
+<SYNC Start=1827277><P Class=KNCC>
+- 끊는다고 했잖아<br>- 나도 알아
+<SYNC Start=1830412><P Class=KNCC>&nbsp;
+<SYNC Start=1832148><P Class=KNCC>
+얘기 좀 할까요?
+<SYNC Start=1833549><P Class=KNCC>&nbsp;
+<SYNC Start=1841525><P Class=KNCC>
+무슨 일이야?
+<SYNC Start=1843325><P Class=KNCC>&nbsp;
+<SYNC Start=1845260><P Class=KNCC>
+워싱턴의 선임이 카자 작전을<br>저에게 넘겼어요
+<SYNC Start=1848730><P Class=KNCC>&nbsp;
+<SYNC Start=1848764><P Class=KNCC>
+선배 없이도 할거에요
+<SYNC Start=1850031><P Class=KNCC>&nbsp;
+<SYNC Start=1850065><P Class=KNCC>
+이거 봐라
+<SYNC Start=1851566><P Class=KNCC>&nbsp;
+<SYNC Start=1851601><P Class=KNCC>
+연줄을 썼어?
+<SYNC Start=1853368><P Class=KNCC>&nbsp;
+<SYNC Start=1853402><P Class=KNCC>
+좋네. 그거야
+<SYNC Start=1855470><P Class=KNCC>&nbsp;
+<SYNC Start=1855505><P Class=KNCC>
+선배가 있음 좋겠어요
+<SYNC Start=1857706><P Class=KNCC>&nbsp;
+<SYNC Start=1857740><P Class=KNCC>
+그럽죠, 워렌 요원
+<SYNC Start=1859307><P Class=KNCC>&nbsp;
+<SYNC Start=1859341><P Class=KNCC>
+네 의사가 중요하지
+<SYNC Start=1863645><P Class=KNCC>&nbsp;
+<SYNC Start=1879029><P Class=KNCC>
+카자한테 전화 왔어
+<SYNC Start=1880896><P Class=KNCC>&nbsp;
+<SYNC Start=1880931><P Class=KNCC>
+뭐래요?
+<SYNC Start=1882831><P Class=KNCC>&nbsp;
+<SYNC Start=1882865><P Class=KNCC>
+시간, 장소를 준대
+<SYNC Start=1885333><P Class=KNCC>&nbsp;
+<SYNC Start=1885367><P Class=KNCC>
+- 할거에요?<br>- 응
+<SYNC Start=1887268><P Class=KNCC>&nbsp;
+<SYNC Start=1887302><P Class=KNCC>
+더 나은 내 판단과는 다르게
+<SYNC Start=1891039><P Class=KNCC>&nbsp;
+<SYNC Start=1904686><P Class=KNCC>
+조금 작은데 괜찮을 것 같네요
+<SYNC Start=1908689><P Class=KNCC>&nbsp;
+<SYNC Start=1912794><P Class=KNCC>
+둘 뿐인가요?
+<SYNC Start=1914862><P Class=KNCC>&nbsp;
+<SYNC Start=1914896><P Class=KNCC>
+네, 저랑 아들이요
+<SYNC Start=1918132><P Class=KNCC>&nbsp;
+<SYNC Start=1923304><P Class=KNCC>
+좋아
+<SYNC Start=1924838><P Class=KNCC>&nbsp;
+<SYNC Start=1924873><P Class=KNCC>
+두 사람 핸드폰에 트랜스폰더가 있으니
+<SYNC Start=1926774><P Class=KNCC>&nbsp;
+<SYNC Start=1926808><P Class=KNCC>
+잘못될 경우 추적할 수 있어
+<SYNC Start=1928108><P Class=KNCC>&nbsp;
+<SYNC Start=1928143><P Class=KNCC>
+잘 될거야, 그치 조니?
+<SYNC Start=1930343><P Class=KNCC>&nbsp;
+<SYNC Start=1930378><P Class=KNCC>
+모르지, 취해서 나가떨어진 사람들이니<br>제대로 못할 수도
+<SYNC Start=1934047><P Class=KNCC>&nbsp;
+<SYNC Start=1934082><P Class=KNCC>
+- 취했다곤 안했어요<br>- 꺼져
+<SYNC Start=1936750><P Class=KNCC>&nbsp;
+<SYNC Start=1936785><P Class=KNCC>
+난 빠지고 싶어, 폴
+<SYNC Start=1938685><P Class=KNCC>&nbsp;
+<SYNC Start=1938719><P Class=KNCC>
+그래? 법을 어기지 말았어야지, 리온
+<SYNC Start=1941187><P Class=KNCC>&nbsp;
+<SYNC Start=1941221><P Class=KNCC>
+그럼 문제 없었을텐데
+<SYNC Start=1942722><P Class=KNCC>&nbsp;
+<SYNC Start=1942757><P Class=KNCC>
+앉아
+<SYNC Start=1944758><P Class=KNCC>&nbsp;
+<SYNC Start=1944792><P Class=KNCC>
+네가 카자를 본 유일한 사람이니<br>부끄러워 마
+<SYNC Start=1947994><P Class=KNCC>&nbsp;
+<SYNC Start=1948028><P Class=KNCC>
+널 위해 화면들도 준비했잖아
+<SYNC Start=1950330><P Class=KNCC>&nbsp;
+<SYNC Start=1961776><P Class=KNCC>
+늦는데
+<SYNC Start=1963142><P Class=KNCC>&nbsp;
+<SYNC Start=1963177><P Class=KNCC>
+내 암살자들은 프로페셔널할거라 기대했는데요
+<SYNC Start=1967914><P Class=KNCC>&nbsp;
+<SYNC Start=1967948><P Class=KNCC>
+엉성한데. 맘에 안들어
+<SYNC Start=1970416><P Class=KNCC>&nbsp;
+<SYNC Start=1973053><P Class=KNCC>
+개들은 왜저래?
+<SYNC Start=1978024><P Class=KNCC>&nbsp;
+<SYNC Start=1978058><P Class=KNCC>
+바람맞았나봐
+<SYNC Start=1980193><P Class=KNCC>&nbsp;
+<SYNC Start=1980227><P Class=KNCC>
+왜 저렇게 짖는거야?
+<SYNC Start=1982361><P Class=KNCC>&nbsp;
+<SYNC Start=1984597><P Class=KNCC>
+내 생각이 맞는거에요?
+<SYNC Start=1985965><P Class=KNCC>&nbsp;
+<SYNC Start=1985999><P Class=KNCC>
+개들이 싸우는 것 같은데
+<SYNC Start=1987800><P Class=KNCC>&nbsp;
+<SYNC Start=1987835><P Class=KNCC>
+왜저런지 보이는 사람 있어?
+<SYNC Start=1990902><P Class=KNCC>&nbsp;
+<SYNC Start=1990937><P Class=KNCC>
+저기도 일행이에요?
+<SYNC Start=1993171><P Class=KNCC>&nbsp;
+<SYNC Start=1993206><P Class=KNCC>
+아닌데
+<SYNC Start=1994440><P Class=KNCC>&nbsp;
+<SYNC Start=2002114><P Class=KNCC>
+거기 있어요
+<SYNC Start=2003782><P Class=KNCC>&nbsp;
+<SYNC Start=2003817><P Class=KNCC>
+무슨 일이에요?
+<SYNC Start=2006618><P Class=KNCC>&nbsp;
+<SYNC Start=2006653><P Class=KNCC>
+정말이에요?
+<SYNC Start=2008186><P Class=KNCC>&nbsp;
+<SYNC Start=2008221><P Class=KNCC>
+이봐요
+<SYNC Start=2009388><P Class=KNCC>&nbsp;
+<SYNC Start=2013459><P Class=KNCC>
+LA 경찰이다! 꼼짝마!
+<SYNC Start=2014960><P Class=KNCC>&nbsp;
+<SYNC Start=2017296><P Class=KNCC>
+너! 너!
+<SYNC Start=2017996><P Class=KNCC>&nbsp;
+<SYNC Start=2018030><P Class=KNCC>
+책임자 나와
+<SYNC Start=2019231><P Class=KNCC>&nbsp;
+<SYNC Start=2019265><P Class=KNCC>
+너
+<SYNC Start=2020932><P Class=KNCC>&nbsp;
+<SYNC Start=2020967><P Class=KNCC>
+벽에 기대 서
+<SYNC Start=2022033><P Class=KNCC>&nbsp;
+<SYNC Start=2022068><P Class=KNCC>
+손 들어
+<SYNC Start=2023869><P Class=KNCC>&nbsp;
+<SYNC Start=2023903><P Class=KNCC>
+움직여. 빨리
+<SYNC Start=2025103><P Class=KNCC>&nbsp;
+<SYNC Start=2028174><P Class=KNCC>
+브릭스랑 워렌이 카메라에 안보여
+<SYNC Start=2029908><P Class=KNCC>&nbsp;
+<SYNC Start=2029942><P Class=KNCC>
+Z
+<SYNC Start=2031243><P Class=KNCC>&nbsp;
+<SYNC Start=2031277><P Class=KNCC>
+네 팀을 가까이 대기시켜
+<SYNC Start=2032710><P Class=KNCC>&nbsp;
+<SYNC Start=2032745><P Class=KNCC>
+알겠어. 가자
+<SYNC Start=2035413><P Class=KNCC>&nbsp;
+<SYNC Start=2035447><P Class=KNCC>
+저기, 저기있어
+<SYNC Start=2037348><P Class=KNCC>&nbsp;
+<SYNC Start=2037383><P Class=KNCC>
+대기해
+<SYNC Start=2038716><P Class=KNCC>&nbsp;
+<SYNC Start=2038751><P Class=KNCC>
+목표물이 도착했다
+<SYNC Start=2040184><P Class=KNCC>&nbsp;
+<SYNC Start=2040218><P Class=KNCC>
+가서 잡아들이자고
+<SYNC Start=2042987><P Class=KNCC>&nbsp;
+<SYNC Start=2043021><P Class=KNCC>
+어디가는거에요?
+<SYNC Start=2044455><P Class=KNCC>&nbsp;
+<SYNC Start=2052831><P Class=KNCC>
+우연이 아니야. 중지해
+<SYNC Start=2055465><P Class=KNCC>&nbsp;
+<SYNC Start=2055500><P Class=KNCC>
+철수해
+<SYNC Start=2057368><P Class=KNCC>&nbsp;
+<SYNC Start=2057402><P Class=KNCC>
+마이크
+<SYNC Start=2059336><P Class=KNCC>&nbsp;
+<SYNC Start=2061139><P Class=KNCC>
+마이클!
+<SYNC Start=2063374><P Class=KNCC>&nbsp;
+<SYNC Start=2063408><P Class=KNCC>
+- 워렌은?<br>- 이동중이야
+<SYNC Start=2065776><P Class=KNCC>&nbsp;
+<SYNC Start=2065810><P Class=KNCC>
+- 이동중이래<br>- 잡아갔어
+<SYNC Start=2068212><P Class=KNCC>&nbsp;
+<SYNC Start=2069747><P Class=KNCC>
+저기, 저기야
+<SYNC Start=2071481><P Class=KNCC>&nbsp;
+<SYNC Start=2071516><P Class=KNCC>
+움직여
+<SYNC Start=2074284><P Class=KNCC>&nbsp;
+<SYNC Start=2074318><P Class=KNCC>
+- 남쪽이야, 아니 동쪽<br>- 젠장, Z
+<SYNC Start=2077086><P Class=KNCC>&nbsp;
+<SYNC Start=2077121><P Class=KNCC>
+이리 줘. 좌회전, 조니
+<SYNC Start=2079055><P Class=KNCC>&nbsp;
+<SYNC Start=2079089><P Class=KNCC>
+어떻게 이렇게 빨리 간거야?
+<SYNC Start=2081024><P Class=KNCC>&nbsp;
+<SYNC Start=2081058><P Class=KNCC>
+니가 꾸물거려서 그렇지
+<SYNC Start=2082425><P Class=KNCC>&nbsp;
+<SYNC Start=2082459><P Class=KNCC>
+움직여, 백인놈아
+<SYNC Start=2084160><P Class=KNCC>&nbsp;
+<SYNC Start=2084194><P Class=KNCC>
+- 빨리<br>- 진정해요
+<SYNC Start=2085461><P Class=KNCC>&nbsp;
+<SYNC Start=2085495><P Class=KNCC>
+안돼요
+<SYNC Start=2086862><P Class=KNCC>&nbsp;
+<SYNC Start=2086897><P Class=KNCC>
+- 멈췄어<br>- 어디?
+<SYNC Start=2088298><P Class=KNCC>&nbsp;
+<SYNC Start=2088332><P Class=KNCC>
+플로랑스 동쪽
+<SYNC Start=2089665><P Class=KNCC>&nbsp;
+<SYNC Start=2089699><P Class=KNCC>
+놈들 소굴이야
+<SYNC Start=2091000><P Class=KNCC>&nbsp;
+<SYNC Start=2091035><P Class=KNCC>
+카자 쪽이 있어?
+<SYNC Start=2092101><P Class=KNCC>&nbsp;
+<SYNC Start=2092136><P Class=KNCC>
+바로 이웃이야
+<SYNC Start=2093903><P Class=KNCC>&nbsp;
+<SYNC Start=2093938><P Class=KNCC>
+- LA 경찰 지원 와?<br>- 응, 진압팀 있어
+<SYNC Start=2095204><P Class=KNCC>&nbsp;
+<SYNC Start=2095239><P Class=KNCC>
+핸드폰, 시계, 셔츠, 바지 벗어
+<SYNC Start=2097039><P Class=KNCC>&nbsp;
+<SYNC Start=2097073><P Class=KNCC>
+<i>빨리</i>
+<SYNC Start=2098073><P Class=KNCC>&nbsp;
+<SYNC Start=2098107><P Class=KNCC>
+핸드폰 내놔
+<SYNC Start=2099141><P Class=KNCC>&nbsp;
+<SYNC Start=2099175><P Class=KNCC>
+오늘이야
+<SYNC Start=2100743><P Class=KNCC>&nbsp;
+<SYNC Start=2100777><P Class=KNCC>
+- 저기<br>- 저기 어디, 브릭스?
+<SYNC Start=2102210><P Class=KNCC>&nbsp;
+<SYNC Start=2102245><P Class=KNCC>
+블록 끝 오른쪽, 조니
+<SYNC Start=2103879><P Class=KNCC>&nbsp;
+<SYNC Start=2103914><P Class=KNCC>
+- 빨리<br>- <i>빨리</i>
+<SYNC Start=2105915><P Class=KNCC>&nbsp;
+<SYNC Start=2105949><P Class=KNCC>
+- 좋아<br>- 끌고가
+<SYNC Start=2106882><P Class=KNCC>&nbsp;
+<SYNC Start=2124733><P Class=KNCC>
+놓쳤어
+<SYNC Start=2127469><P Class=KNCC>&nbsp;
+<SYNC Start=2136343><P Class=KNCC>
+브릭스
+<SYNC Start=2137451><P Class=KNCC>&nbsp;
+<SYNC Start=2137469><P Class=KNCC>
+단서야. 차를 바꿨어
+<SYNC Start=2139571><P Class=KNCC>&nbsp;
+<SYNC Start=2139606><P Class=KNCC>
+뭔지만 알면 저기 신호에 카메라가 있어
+<SYNC Start=2143475><P Class=KNCC>&nbsp;
+<SYNC Start=2143510><P Class=KNCC>
+몇 분 전에 여기서 차 봤어?
+<SYNC Start=2145243><P Class=KNCC>&nbsp;
+<SYNC Start=2145277><P Class=KNCC>
+- 글쎄<br>- 조니, 20불 줘
+<SYNC Start=2147513><P Class=KNCC>&nbsp;
+<SYNC Start=2147547><P Class=KNCC>
+- 없어<br>- 조니, 20불만 줘봐
+<SYNC Start=2149548><P Class=KNCC>&nbsp;
+<SYNC Start=2149582><P Class=KNCC>
+젠장, 갚을거야?
+<SYNC Start=2150615><P Class=KNCC>&nbsp;
+<SYNC Start=2150649><P Class=KNCC>
+아마도
+<SYNC Start=2152517><P Class=KNCC>&nbsp;
+<SYNC Start=2152551><P Class=KNCC>
+내 친구를 찾고 있어
+<SYNC Start=2153784><P Class=KNCC>&nbsp;
+<SYNC Start=2153819><P Class=KNCC>
+몇 분 전에 여기 있었다고
+<SYNC Start=2156587><P Class=KNCC>&nbsp;
+<SYNC Start=2156622><P Class=KNCC>
+응, 봤어. 차
+<SYNC Start=2159790><P Class=KNCC>&nbsp;
+<SYNC Start=2159825><P Class=KNCC>
+빨간색
+<SYNC Start=2161526><P Class=KNCC>&nbsp;
+<SYNC Start=2161560><P Class=KNCC>
+다른건?
+<SYNC Start=2162960><P Class=KNCC>&nbsp;
+<SYNC Start=2162995><P Class=KNCC>
+낡았어
+<SYNC Start=2164862><P Class=KNCC>&nbsp;
+<SYNC Start=2164897><P Class=KNCC>
+낡은 빨간 차 수배해
+<SYNC Start=2167832><P Class=KNCC>&nbsp;
+<SYNC Start=2167866><P Class=KNCC>
+5분은 안지났을 거야
+<SYNC Start=2169467><P Class=KNCC>&nbsp;
+<SYNC Start=2169502><P Class=KNCC>
+체리와 플로랑스 지역 교통 카메라가 필요해
+<SYNC Start=2172003><P Class=KNCC>&nbsp;
+<SYNC Start=2181479><P Class=KNCC>
+이제 얘기할래?
+<SYNC Start=2182914><P Class=KNCC>&nbsp;
+<SYNC Start=2182948><P Class=KNCC>
+말하고 싶어, 터프가이?
+<SYNC Start=2184849><P Class=KNCC>&nbsp;
+<SYNC Start=2191523><P Class=KNCC>
+라인을 찾았나?
+<SYNC Start=2193457><P Class=KNCC>&nbsp;
+<SYNC Start=2193491><P Class=KNCC>
+<i>라인, 병신아</i>
+<SYNC Start=2195059><P Class=KNCC>&nbsp;
+<SYNC Start=2195093><P Class=KNCC>
+- <i>백인놈</i><br>- 라인
+<SYNC Start=2196861><P Class=KNCC>&nbsp;
+<SYNC Start=2196895><P Class=KNCC>
+- <i>말해</i>
+<SYNC Start=2199864><P Class=KNCC>&nbsp;
+<SYNC Start=2199898><P Class=KNCC>
+- <i>라인, 어?</i><br>- 라인
+<SYNC Start=2201731><P Class=KNCC>&nbsp;
+<SYNC Start=2203334><P Class=KNCC>
+대체 뭘 원하는거야?
+<SYNC Start=2205502><P Class=KNCC>&nbsp;
+<SYNC Start=2205537><P Class=KNCC>
+무슨 말인지 모르겠어
+<SYNC Start=2206937><P Class=KNCC>&nbsp;
+<SYNC Start=2210908><P Class=KNCC>
+말해!
+<SYNC Start=2212576><P Class=KNCC>&nbsp;
+<SYNC Start=2212610><P Class=KNCC>
+라인을 찾았냐고?
+<SYNC Start=2214578><P Class=KNCC>&nbsp;
+<SYNC Start=2214612><P Class=KNCC>
+<i>라인, 양키</i>
+<SYNC Start=2216780><P Class=KNCC>&nbsp;
+<SYNC Start=2218783><P Class=KNCC>
+말해
+<SYNC Start=2222686><P Class=KNCC>&nbsp;
+<SYNC Start=2222720><P Class=KNCC>
+라인
+<SYNC Start=2224588><P Class=KNCC>&nbsp;
+<SYNC Start=2224622><P Class=KNCC>
+라인을 찾았어?
+<SYNC Start=2228057><P Class=KNCC>&nbsp;
+<SYNC Start=2234998><P Class=KNCC>
+좋아?
+<SYNC Start=2236632><P Class=KNCC>&nbsp;
+<SYNC Start=2236666><P Class=KNCC>
+좋냐고, 양키<br>터프가이네?
+<SYNC Start=2238267><P Class=KNCC>&nbsp;
+<SYNC Start=2238302><P Class=KNCC>
+네가 강하다고 생각해?
+<SYNC Start=2240503><P Class=KNCC>&nbsp;
+<SYNC Start=2244374><P Class=KNCC>
+라인은
+<SYNC Start=2245374><P Class=KNCC>&nbsp;
+<SYNC Start=2245375><P Class=KNCC>
+무슨 라인? 젠장
+<SYNC Start=2246709><P Class=KNCC>&nbsp;
+<SYNC Start=2246743><P Class=KNCC>
+뭐?
+<SYNC Start=2247977><P Class=KNCC>&nbsp;
+<SYNC Start=2250714><P Class=KNCC>
+라인. 버스 라인
+<SYNC Start=2253449><P Class=KNCC>&nbsp;
+<SYNC Start=2257353><P Class=KNCC>
+버스 라인
+<SYNC Start=2259854><P Class=KNCC>&nbsp;
+<SYNC Start=2259888><P Class=KNCC>
+버스
+<SYNC Start=2260655><P Class=KNCC>&nbsp;
+<SYNC Start=2265361><P Class=KNCC>
+뭐라고?
+<SYNC Start=2267862><P Class=KNCC>&nbsp;
+<SYNC Start=2267896><P Class=KNCC>
+뭐라고?
+<SYNC Start=2269797><P Class=KNCC>&nbsp;
+<SYNC Start=2277106><P Class=KNCC>
+<i>라인, 양키</i>
+<SYNC Start=2278906><P Class=KNCC>&nbsp;
+<SYNC Start=2278941><P Class=KNCC>
+거짓말마, 양키!
+<SYNC Start=2281643><P Class=KNCC>&nbsp;
+<SYNC Start=2281677><P Class=KNCC>
+<i>라인! 거짓말 하지마!</i>
+<SYNC Start=2284646><P Class=KNCC>&nbsp;
+<SYNC Start=2284680><P Class=KNCC>
+속일 생각 마
+<SYNC Start=2288150><P Class=KNCC>&nbsp;
+<SYNC Start=2288184><P Class=KNCC>
+<i>라인, 양키놈아</i>
+<SYNC Start=2290519><P Class=KNCC>&nbsp;
+<SYNC Start=2296424><P Class=KNCC>
+마이크
+<SYNC Start=2297958><P Class=KNCC>&nbsp;
+<SYNC Start=2297992><P Class=KNCC>
+괜찮아?
+<SYNC Start=2299893><P Class=KNCC>&nbsp;
+<SYNC Start=2299927><P Class=KNCC>
+진정해. 괜찮아
+<SYNC Start=2303096><P Class=KNCC>&nbsp;
+<SYNC Start=2311706><P Class=KNCC>
+- 뭘 한거야?<br>- 고문인것 같은데요
+<SYNC Start=2313874><P Class=KNCC>&nbsp;
+<SYNC Start=2313908><P Class=KNCC>
+카자에 새 심문법이 생겼네
+<SYNC Start=2316977><P Class=KNCC>&nbsp;
+<SYNC Start=2317011><P Class=KNCC>
+물고문 보다 싸고, 깔끔하니
+<SYNC Start=2320112><P Class=KNCC>&nbsp;
+<SYNC Start=2320147><P Class=KNCC>
+도와줘서 고마워요
+<SYNC Start=2321381><P Class=KNCC>&nbsp;
+<SYNC Start=2321415><P Class=KNCC>
+무슨소리야?
+<SYNC Start=2322695><P Class=KNCC>&nbsp;
+<SYNC Start=2322716><P Class=KNCC>
+네가 원하는대로 됐잖아
+<SYNC Start=2323683><P Class=KNCC>&nbsp;
+<SYNC Start=2325386><P Class=KNCC>
+찌꺼기 남겨줘서 고마워
+<SYNC Start=2326719><P Class=KNCC>&nbsp;
+<SYNC Start=2326753><P Class=KNCC>
+그래요
+<SYNC Start=2328154><P Class=KNCC>&nbsp;
+<SYNC Start=2328189><P Class=KNCC>
+- 들어가면 안돼<br>- 비켜
+<SYNC Start=2329789><P Class=KNCC>&nbsp;
+<SYNC Start=2329823><P Class=KNCC>
+우린 가족이야. 괜찮아, 마이크?
+<SYNC Start=2331924><P Class=KNCC>&nbsp;
+<SYNC Start=2331958><P Class=KNCC>
+옆에 못있어줘서 미안. 괜찮아?
+<SYNC Start=2334860><P Class=KNCC>&nbsp;
+<SYNC Start=2334895><P Class=KNCC>
+- 척, 숨은 쉬게 해줘<br>- 괜찮아요
+<SYNC Start=2336095><P Class=KNCC>&nbsp;
+<SYNC Start=2336129><P Class=KNCC>
+- 그래?<br>- 네
+<SYNC Start=2337863><P Class=KNCC>&nbsp;
+<SYNC Start=2337898><P Class=KNCC>
+사무직도 이젠 괜찮아보이지?
+<SYNC Start=2340099><P Class=KNCC>&nbsp;
+<SYNC Start=2340133><P Class=KNCC>
+그러게요
+<SYNC Start=2341401><P Class=KNCC>&nbsp;
+<SYNC Start=2341435><P Class=KNCC>
+종이 넘기고, 전화 받고
+<SYNC Start=2344236><P Class=KNCC>&nbsp;
+<SYNC Start=2344270><P Class=KNCC>
+별 일 없어 다행이야
+<SYNC Start=2346505><P Class=KNCC>&nbsp;
+<SYNC Start=2346539><P Class=KNCC>
+락스타
+<SYNC Start=2348773><P Class=KNCC>&nbsp;
+<SYNC Start=2355114><P Class=KNCC>
+마이크
+<SYNC Start=2356781><P Class=KNCC>&nbsp;
+<SYNC Start=2356816><P Class=KNCC>
+초짜들한테 당했나봐
+<SYNC Start=2359084><P Class=KNCC>&nbsp;
+<SYNC Start=2359118><P Class=KNCC>
+뭐?
+<SYNC Start=2360852><P Class=KNCC>&nbsp;
+<SYNC Start=2360886><P Class=KNCC>
+한지 얼마 안된 문신이야
+<SYNC Start=2363047><P Class=KNCC>&nbsp;
+<SYNC Start=2363055><P Class=KNCC>
+신입들인데
+<SYNC Start=2366758><P Class=KNCC>&nbsp;
+<SYNC Start=2366792><P Class=KNCC>
+입회식 한번 거하네
+<SYNC Start=2370862><P Class=KNCC>&nbsp;
+<SYNC Start=2370896><P Class=KNCC>
+나랑 같은 생각해?
+<SYNC Start=2372730><P Class=KNCC>&nbsp;
+<SYNC Start=2372764><P Class=KNCC>
+네, 고문하고 죽일거면
+<SYNC Start=2374524><P Class=KNCC>&nbsp;
+<SYNC Start=2374533><P Class=KNCC>
+초짜는 안보내죠
+<SYNC Start=2375733><P Class=KNCC>&nbsp;
+<SYNC Start=2375767><P Class=KNCC>
+응, 최고를 보내지
+<SYNC Start=2377368><P Class=KNCC>&nbsp;
+<SYNC Start=2377402><P Class=KNCC>
+봉지도 새로운거에요
+<SYNC Start=2379103><P Class=KNCC>&nbsp;
+<SYNC Start=2379137><P Class=KNCC>
+응, 카자 수법은 아니지
+<SYNC Start=2384174><P Class=KNCC>&nbsp;
+<SYNC Start=2384209><P Class=KNCC>
+카자가 아니군요
+<SYNC Start=2385643><P Class=KNCC>&nbsp;
+<SYNC Start=2391947><P Class=KNCC>
+- 안녕<br>- 안녕이라니
+<SYNC Start=2393818><P Class=KNCC>&nbsp;
+<SYNC Start=2393848><P Class=KNCC>
+네가 살아있는지 보고서 보고 알아야해?
+<SYNC Start=2396683><P Class=KNCC>&nbsp;
+<SYNC Start=2396717><P Class=KNCC>
+이제야 시간이 났어요
+<SYNC Start=2399219><P Class=KNCC>&nbsp;
+<SYNC Start=2399253><P Class=KNCC>
+지금 혼자에요?
+<SYNC Start=2400786><P Class=KNCC>&nbsp;
+<SYNC Start=2400821><P Class=KNCC>
+무슨 일이야, 마이크?
+<SYNC Start=2402655><P Class=KNCC>&nbsp;
+<SYNC Start=2402690><P Class=KNCC>
+- 절 잡은 놈들이요...<br>- 걱정마
+<SYNC Start=2404524><P Class=KNCC>&nbsp;
+<SYNC Start=2404558><P Class=KNCC>
+카자를 잡으려고 소규모 군을 파견했어
+<SYNC Start=2407560><P Class=KNCC>&nbsp;
+<SYNC Start=2407595><P Class=KNCC>
+좋지만, 아니었어요
+<SYNC Start=2409195><P Class=KNCC>&nbsp;
+<SYNC Start=2409230><P Class=KNCC>
+뭐가?
+<SYNC Start=2411030><P Class=KNCC>&nbsp;
+<SYNC Start=2411064><P Class=KNCC>
+카자가 아니에요
+<SYNC Start=2413833><P Class=KNCC>&nbsp;
+<SYNC Start=2413867><P Class=KNCC>
+무슨 말이야?
+<SYNC Start=2415868><P Class=KNCC>&nbsp;
+<SYNC Start=2415902><P Class=KNCC>
+제스, 버스 얘기가 맞았어요
+<SYNC Start=2419239><P Class=KNCC>&nbsp;
+<SYNC Start=2422443><P Class=KNCC>
+- 세상에, 마이크<br>- 들어봐요
+<SYNC Start=2424110><P Class=KNCC>&nbsp;
+<SYNC Start=2424144><P Class=KNCC>
+계속 라인이 뭐냐고 물었어요
+<SYNC Start=2425677><P Class=KNCC>&nbsp;
+<SYNC Start=2425712><P Class=KNCC>
+라인을 아냐고요
+<SYNC Start=2427246><P Class=KNCC>&nbsp;
+<SYNC Start=2427280><P Class=KNCC>
+- '버스 라인'이라고 했어?<br>- 네, 그랬어요
+<SYNC Start=2430916><P Class=KNCC>&nbsp;
+<SYNC Start=2430951><P Class=KNCC>
+아직은 잘 모르지만<br>팀이 필요해요
+<SYNC Start=2433685><P Class=KNCC>&nbsp;
+<SYNC Start=2433720><P Class=KNCC>
+연관 됐을지 안됐을지 모를<br>카자를 잡겠다고
+<SYNC Start=2436922><P Class=KNCC>&nbsp;
+<SYNC Start=2436957><P Class=KNCC>
+팀을 맡겨줬더니
+<SYNC Start=2438124><P Class=KNCC>&nbsp;
+<SYNC Start=2438158><P Class=KNCC>
+다시 버스를 노린다고
+<SYNC Start=2440226><P Class=KNCC>&nbsp;
+<SYNC Start=2440260><P Class=KNCC>
+할만해요, 제스<br>큰 건이라고요
+<SYNC Start=2442594><P Class=KNCC>&nbsp;
+<SYNC Start=2442629><P Class=KNCC>
+제발요
+<SYNC Start=2445064><P Class=KNCC>&nbsp;
+<SYNC Start=2447267><P Class=KNCC>
+국장을 설득하기 힘들거야
+<SYNC Start=2450002><P Class=KNCC>&nbsp;
+<SYNC Start=2450036><P Class=KNCC>
+알아요. 시간과 예산이 좀 필요해요
+<SYNC Start=2453337><P Class=KNCC>&nbsp;
+<SYNC Start=2453372><P Class=KNCC>
+- 팀도<br>- 팀도요
+<SYNC Start=2456808><P Class=KNCC>&nbsp;
+<SYNC Start=2467953><P Class=KNCC>
+p-펑크, 찰리는?
+<SYNC Start=2469220><P Class=KNCC>&nbsp;
+<SYNC Start=2469255><P Class=KNCC>
+아랫층
+<SYNC Start=2470321><P Class=KNCC>&nbsp;
+<SYNC Start=2470355><P Class=KNCC>
+척!
+<SYNC Start=2473291><P Class=KNCC>&nbsp;
+<SYNC Start=2473325><P Class=KNCC>
+무슨일이야?
+<SYNC Start=2476761><P Class=KNCC>&nbsp;
+<SYNC Start=2476795><P Class=KNCC>
+왜 불렀어?
+<SYNC Start=2478996><P Class=KNCC>&nbsp;
+<SYNC Start=2479030><P Class=KNCC>
+모두들, 마이크가 할 말이 있다
+<SYNC Start=2481265><P Class=KNCC>&nbsp;
+<SYNC Start=2481300><P Class=KNCC>
+조니를 또 욕할거야?
+<SYNC Start=2484234><P Class=KNCC>&nbsp;
+<SYNC Start=2484269><P Class=KNCC>
+- 미안해요<br>- 고마워
+<SYNC Start=2486837><P Class=KNCC>&nbsp;
+<SYNC Start=2486871><P Class=KNCC>
+들어봐요, 그 사람들...
+<SYNC Start=2489740><P Class=KNCC>&nbsp;
+<SYNC Start=2489775><P Class=KNCC>
+절 고문한 사람들이
+<SYNC Start=2492843><P Class=KNCC>&nbsp;
+<SYNC Start=2492877><P Class=KNCC>
+카자인 척 했어요
+<SYNC Start=2494845><P Class=KNCC>&nbsp;
+<SYNC Start=2494879><P Class=KNCC>
+이제 문제는, 그들이 누구냔거죠
+<SYNC Start=2496980><P Class=KNCC>&nbsp;
+<SYNC Start=2497015><P Class=KNCC>
+누구를 위해 일하는지
+<SYNC Start=2498815><P Class=KNCC>&nbsp;
+<SYNC Start=2498849><P Class=KNCC>
+몇 달 동안 사건을 조사했는데
+<SYNC Start=2501150><P Class=KNCC>&nbsp;
+<SYNC Start=2501185><P Class=KNCC>
+답이 여기 있는것 같아요
+<SYNC Start=2503219><P Class=KNCC>&nbsp;
+<SYNC Start=2503253><P Class=KNCC>
+버스요
+<SYNC Start=2504788><P Class=KNCC>&nbsp;
+<SYNC Start=2504822><P Class=KNCC>
+승객용 버스로 밀수하는거죠
+<SYNC Start=2508858><P Class=KNCC>&nbsp;
+<SYNC Start=2508892><P Class=KNCC>
+FBI가 수사팀을 승인해줬어요
+<SYNC Start=2511728><P Class=KNCC>&nbsp;
+<SYNC Start=2511762><P Class=KNCC>
+- 잘됐네<br>- 축하해, 브로
+<SYNC Start=2513062><P Class=KNCC>&nbsp;
+<SYNC Start=2513096><P Class=KNCC>
+때릴뻔해서 미안해
+<SYNC Start=2514698><P Class=KNCC>&nbsp;
+<SYNC Start=2514732><P Class=KNCC>
+- 배구할래?<br>- 그래
+<SYNC Start=2516199><P Class=KNCC>&nbsp;
+<SYNC Start=2516233><P Class=KNCC>
+선배
+<SYNC Start=2517834><P Class=KNCC>&nbsp;
+<SYNC Start=2517868><P Class=KNCC>
+아직 끝난게 아니에요
+<SYNC Start=2520269><P Class=KNCC>&nbsp;
+<SYNC Start=2520304><P Class=KNCC>
+선배들이 제 팀이에요
+<SYNC Start=2522872><P Class=KNCC>&nbsp;
+<SYNC Start=2526943><P Class=KNCC>
+어쨌든, 저 다시 이사할게요
+<SYNC Start=2530346><P Class=KNCC>&nbsp;
+<SYNC Start=2530380><P Class=KNCC>
+부국장이 선배들 상관에게<br>세부사항을 말해줄거에요
+<SYNC Start=2535050><P Class=KNCC>&nbsp;
+<SYNC Start=2535084><P Class=KNCC>
+앞으로 8주간은
+<SYNC Start=2537753><P Class=KNCC>&nbsp;
+<SYNC Start=2537787><P Class=KNCC>
+제 밑에서 일할거에요
+<SYNC Start=2541089><P Class=KNCC>&nbsp;
+<SYNC Start=2546462><P Class=KNCC>
+<font color="#40bfff">Sync & corrections by</font> <font color="#FFA500">wilson0804</font><br><font color="#40bfff">www.Addic7ed.com</font>
+<SYNC Start=2551930><P Class=KNCC>&nbsp;
+</BODY>
+</SAMI>

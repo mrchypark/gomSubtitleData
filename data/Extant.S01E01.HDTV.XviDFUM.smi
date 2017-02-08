@@ -1,0 +1,3335 @@
+<SAMI>
+<HEAD>
+<TITLE>Uzys SMI Merge Tool</TITLE>
+<STYLE TYPE="text/css">
+<!--
+P { margin-left:2pt; margin-right:2pt; margin-bottom:1pt;
+   font-size:20pt; text-align:center; font-weight:bold;
+   color:white; }
+.KRCC { Name:Korean; lang:ko-KR; SAMIType:CC; }
+.ENCC { Name:English; lang:en-US; SAMIType:CC; }
+-->            
+</STYLE>
+</HEAD>
+<BODY>
+<SYNC Start=61083><P Class=KRCC>
+엄마, 파티가기엔 너무 아파?
+<SYNC Start=64886><P Class=KRCC>&nbsp;
+<SYNC Start=68290><P Class=KRCC>
+괜찮아
+<SYNC Start=70391><P Class=KRCC>&nbsp;
+<SYNC Start=70393><P Class=KRCC>
+그냥 몸을 정리하는거야
+<SYNC Start=74462><P Class=KRCC>&nbsp;
+<SYNC Start=76131><P Class=KRCC>
+바로 갈게, 알았지?
+<SYNC Start=77865><P Class=KRCC>&nbsp;
+<SYNC Start=89578><P Class=KRCC>
+어제 정전의 원인에 대해여전히 답변 없음
+<SYNC Start=92380><P Class=KRCC>&nbsp;
+<SYNC Start=92382><P Class=KRCC>
+전기없이 격리된약 6만 가구 이주중
+<SYNC Start=96050><P Class=KRCC>&nbsp;
+<SYNC Start=100556><P Class=KRCC>
+상상이 안가
+<SYNC Start=101722><P Class=KRCC>&nbsp;
+<SYNC Start=101724><P Class=KRCC>
+빌하고 애들한테서 떨어진지이틀인데, 마치..
+<SYNC Start=104358><P Class=KRCC>&nbsp;
+<SYNC Start=104360><P Class=KRCC>
+어렵지
+<SYNC Start=105593><P Class=KRCC>&nbsp;
+<SYNC Start=105595><P Class=KRCC>
+그래, 네 비밀은 뭐야?
+<SYNC Start=106827><P Class=KRCC>&nbsp;
+<SYNC Start=106829><P Class=KRCC>
+비크론 많은거
+<SYNC Start=108095><P Class=KRCC>&nbsp;
+<SYNC Start=108097><P Class=KRCC>
+취하지도 않고?
+<SYNC Start=109430><P Class=KRCC>&nbsp;
+<SYNC Start=109432><P Class=KRCC>
+아니, 나 금주한지 13개월이야
+<SYNC Start=111865><P Class=KRCC>&nbsp;
+<SYNC Start=112831><P Class=KRCC>
+- 뭐?- 우주에서 DUI는 위험해
+<SYNC Start=114834><P Class=KRCC>&nbsp;
+<SYNC Start=115030><P Class=KRCC>
+못들어주겠네
+<SYNC Start=115797><P Class=KRCC>&nbsp;
+<SYNC Start=115830><P Class=KRCC>
+진짜 슬픈 얘기다
+<SYNC Start=117429><P Class=KRCC>&nbsp;
+<SYNC Start=117431><P Class=KRCC>
+당장 치료 받아야 해
+<SYNC Start=119632><P Class=KRCC>&nbsp;
+<SYNC Start=119730><P Class=KRCC>
+- 안돼- 그렇지, 한잔 할거니까
+<SYNC Start=121463><P Class=KRCC>&nbsp;
+<SYNC Start=121465><P Class=KRCC>
+여기 의사한테 물어봐
+<SYNC Start=123031><P Class=KRCC>&nbsp;
+<SYNC Start=123033><P Class=KRCC>
+- 테스트 결과 나오기전엔 안돼- 한잔만
+<SYNC Start=125334><P Class=KRCC>&nbsp;
+<SYNC Start=125336><P Class=KRCC>
+테스트 나오면
+<SYNC Start=126635><P Class=KRCC>&nbsp;
+<SYNC Start=126637><P Class=KRCC>
+내가 직접
+<SYNC Start=127903><P Class=KRCC>&nbsp;
+<SYNC Start=127905><P Class=KRCC>
+마가리타 처방할게
+<SYNC Start=129638><P Class=KRCC>&nbsp;
+<SYNC Start=129640><P Class=KRCC>
+고맙네
+<SYNC Start=132574><P Class=KRCC>&nbsp;
+<SYNC Start=132576><P Class=KRCC>
+이단, 하지마
+<SYNC Start=135077><P Class=KRCC>&nbsp;
+<SYNC Start=135079><P Class=KRCC>
+
+<SYNC Start=137145><P Class=KRCC>&nbsp;
+<SYNC Start=137147><P Class=KRCC>
+다칠거야
+<SYNC Start=138780><P Class=KRCC>&nbsp;
+<SYNC Start=138782><P Class=KRCC>
+이단
+<SYNC Start=140048><P Class=KRCC>&nbsp;
+<SYNC Start=140050><P Class=KRCC>
+뭐하니?
+<SYNC Start=141283><P Class=KRCC>&nbsp;
+<SYNC Start=141285><P Class=KRCC>
+공을 안주잖아
+<SYNC Start=142651><P Class=KRCC>&nbsp;
+<SYNC Start=142653><P Class=KRCC>
+그래서 쟤를 눕혔어?
+<SYNC Start=145020><P Class=KRCC>&nbsp;
+<SYNC Start=145888><P Class=KRCC>
+이단, 뭐라고 해야지?
+<SYNC Start=148056><P Class=KRCC>&nbsp;
+<SYNC Start=149458><P Class=KRCC>
+미안
+<SYNC Start=150759><P Class=KRCC>&nbsp;
+<SYNC Start=150761><P Class=KRCC>
+괜찮아
+<SYNC Start=152861><P Class=KRCC>&nbsp;
+<SYNC Start=152863><P Class=KRCC>
+또 이러면, 파티는 없어알겠니?
+<SYNC Start=156298><P Class=KRCC>&nbsp;
+<SYNC Start=156300><P Class=KRCC>
+정말 미안해요
+<SYNC Start=158533><P Class=KRCC>&nbsp;
+<SYNC Start=158535><P Class=KRCC>
+
+<SYNC Start=159982><P Class=KRCC>&nbsp;
+<SYNC Start=160007><P Class=KRCC>
+
+<SYNC Start=161293><P Class=KRCC>&nbsp;
+<SYNC Start=164407><P Class=KRCC>
+가서 놀자
+<SYNC Start=166574><P Class=KRCC>&nbsp;
+<SYNC Start=178120><P Class=KRCC>
+당신 지쳤잖아, 놔둬
+<SYNC Start=180889><P Class=KRCC>&nbsp;
+<SYNC Start=180891><P Class=KRCC>
+쓰레기야 버릴수 있어
+<SYNC Start=183391><P Class=KRCC>&nbsp;
+<SYNC Start=183393><P Class=KRCC>
+몰
+<SYNC Start=185526><P Class=KRCC>&nbsp;
+<SYNC Start=185528><P Class=KRCC>
+평소대로 돌아온거야, 맞지?
+<SYNC Start=187895><P Class=KRCC>&nbsp;
+<SYNC Start=235677><P Class=KRCC>
+화났었어
+<SYNC Start=237611><P Class=KRCC>&nbsp;
+<SYNC Start=237613><P Class=KRCC>
+화날때는 어떻해야지?
+<SYNC Start=239914><P Class=KRCC>&nbsp;
+<SYNC Start=239916><P Class=KRCC>
+누굴 때리니?
+<SYNC Start=241148><P Class=KRCC>&nbsp;
+<SYNC Start=241150><P Class=KRCC>
+아니
+<SYNC Start=243150><P Class=KRCC>&nbsp;
+<SYNC Start=243152><P Class=KRCC>
+제이크가 진짜로 다치면, 어떤 기분일까?
+<SYNC Start=246120><P Class=KRCC>&nbsp;
+<SYNC Start=248323><P Class=KRCC>
+나빠
+<SYNC Start=249657><P Class=KRCC>&nbsp;
+<SYNC Start=249659><P Class=KRCC>
+그럴꺼야
+<SYNC Start=251592><P Class=KRCC>&nbsp;
+<SYNC Start=251594><P Class=KRCC>
+엄마 화났어?
+<SYNC Start=253227><P Class=KRCC>&nbsp;
+<SYNC Start=253229><P Class=KRCC>
+아냐, 엄마 화 안났어
+<SYNC Start=254895><P Class=KRCC>&nbsp;
+<SYNC Start=254897><P Class=KRCC>
+근데 뭔가 달라
+<SYNC Start=258632><P Class=KRCC>&nbsp;
+<SYNC Start=258634><P Class=KRCC>
+엄마는 집에 돌아온후적응하는 중이야
+<SYNC Start=262002><P Class=KRCC>&nbsp;
+<SYNC Start=262004><P Class=KRCC>
+위에 오래 있었잖아
+<SYNC Start=263771><P Class=KRCC>&nbsp;
+<SYNC Start=263773><P Class=KRCC>
+혼자서
+<SYNC Start=265639><P Class=KRCC>&nbsp;
+<SYNC Start=265641><P Class=KRCC>
+평소처럼 느낄려면 좀 있어야 해
+<SYNC Start=267908><P Class=KRCC>&nbsp;
+<SYNC Start=267910><P Class=KRCC>
+그렇게 될거야
+<SYNC Start=270577><P Class=KRCC>&nbsp;
+<SYNC Start=271846><P Class=KRCC>
+알았어
+<SYNC Start=273380><P Class=KRCC>&nbsp;
+<SYNC Start=273382><P Class=KRCC>
+잘 자거라
+<SYNC Start=274948><P Class=KRCC>&nbsp;
+<SYNC Start=274950><P Class=KRCC>
+내일 큰 일 있잖니
+<SYNC Start=277017><P Class=KRCC>&nbsp;
+<SYNC Start=277019><P Class=KRCC>
+나 바꿔줘야 돼
+<SYNC Start=279153><P Class=KRCC>&nbsp;
+<SYNC Start=279155><P Class=KRCC>
+보자
+<SYNC Start=281321><P Class=KRCC>&nbsp;
+<SYNC Start=290865><P Class=KRCC>
+
+<SYNC Start=292399><P Class=KRCC>&nbsp;
+<SYNC Start=292401><P Class=KRCC>
+
+<SYNC Start=294568><P Class=KRCC>&nbsp;
+<SYNC Start=310785><P Class=KRCC>
+다 됐다
+<SYNC Start=312853><P Class=KRCC>&nbsp;
+<SYNC Start=315990><P Class=KRCC>
+사랑한다
+<SYNC Start=318558><P Class=KRCC>&nbsp;
+<SYNC Start=322129><P Class=KRCC>
+불 꺼줄래
+<SYNC Start=324564><P Class=KRCC>&nbsp;
+<SYNC Start=324566><P Class=KRCC>
+
+<SYNC Start=326766><P Class=KRCC>&nbsp;
+<SYNC Start=452258><P Class=KRCC>
+뭐하고 있어?
+<SYNC Start=454426><P Class=KRCC>&nbsp;
+<SYNC Start=457697><P Class=KRCC>
+꿈꿨어
+<SYNC Start=459164><P Class=KRCC>&nbsp;
+<SYNC Start=460633><P Class=KRCC>
+꿈에 마커스가 자주 나와?
+<SYNC Start=463168><P Class=KRCC>&nbsp;
+<SYNC Start=463170><P Class=KRCC>
+점점 덜해
+<SYNC Start=465037><P Class=KRCC>&nbsp;
+<SYNC Start=465039><P Class=KRCC>
+여전히 생각이 나, 자주
+<SYNC Start=467873><P Class=KRCC>&nbsp;
+<SYNC Start=472044><P Class=KRCC>
+무슨 생각?
+<SYNC Start=474212><P Class=KRCC>&nbsp;
+<SYNC Start=476749><P Class=KRCC>
+아직 살아있다면,우리는 없잖아
+<SYNC Start=479985><P Class=KRCC>&nbsp;
+<SYNC Start=479987><P Class=KRCC>
+이단도 없고
+<SYNC Start=481253><P Class=KRCC>&nbsp;
+<SYNC Start=481255><P Class=KRCC>
+마커스가 죽지 않았다면
+<SYNC Start=483388><P Class=KRCC>&nbsp;
+<SYNC Start=483390><P Class=KRCC>
+우린 아마 못 만났을거야
+<SYNC Start=486224><P Class=KRCC>&nbsp;
+<SYNC Start=486226><P Class=KRCC>
+당신은 그와 함께겠지
+<SYNC Start=488893><P Class=KRCC>&nbsp;
+<SYNC Start=488895><P Class=KRCC>
+그거 알아?
+<SYNC Start=492764><P Class=KRCC>&nbsp;
+<SYNC Start=492766><P Class=KRCC>
+우린 마지막까지
+<SYNC Start=496001><P Class=KRCC>&nbsp;
+<SYNC Start=496003><P Class=KRCC>
+함께하게 될거야
+<SYNC Start=498136><P Class=KRCC>&nbsp;
+<SYNC Start=510316><P Class=KRCC>
+야스모토 회사에 도착
+<SYNC Start=513918><P Class=KRCC>&nbsp;
+<SYNC Start=522795><P Class=KRCC>
+
+<SYNC Start=524729><P Class=KRCC>&nbsp;
+<SYNC Start=524731><P Class=KRCC>
+잘 들어
+<SYNC Start=526431><P Class=KRCC>&nbsp;
+<SYNC Start=526433><P Class=KRCC>
+오늘 너에 대해 얘기할텐데
+<SYNC Start=528099><P Class=KRCC>&nbsp;
+<SYNC Start=528101><P Class=KRCC>
+
+<SYNC Start=529901><P Class=KRCC>&nbsp;
+<SYNC Start=529903><P Class=KRCC>
+오늘 너에 대해 얘기할텐데
+<SYNC Start=531636><P Class=KRCC>&nbsp;
+<SYNC Start=531638><P Class=KRCC>
+네가 원래 어떻게 프로그램 됐는지
+<SYNC Start=534272><P Class=KRCC>&nbsp;
+<SYNC Start=534274><P Class=KRCC>
+얘기하게 될거야,하지만 그렇다고 해서
+<SYNC Start=535807><P Class=KRCC>&nbsp;
+<SYNC Start=535809><P Class=KRCC>
+네가 가짜라는 소리가 아니야
+<SYNC Start=536941><P Class=KRCC>&nbsp;
+<SYNC Start=536943><P Class=KRCC>
+- 알겠지?- 아니야
+<SYNC Start=538309><P Class=KRCC>&nbsp;
+<SYNC Start=538311><P Class=KRCC>
+맞아
+<SYNC Start=539544><P Class=KRCC>&nbsp;
+<SYNC Start=539546><P Class=KRCC>
+넌 실재야, 나처럼
+<SYNC Start=541446><P Class=KRCC>&nbsp;
+<SYNC Start=541448><P Class=KRCC>
+네 엄마처럼, 알았지?
+<SYNC Start=543548><P Class=KRCC>&nbsp;
+<SYNC Start=543550><P Class=KRCC>
+쥬
+<SYNC Start=545449><P Class=KRCC>&nbsp;
+<SYNC Start=545451><P Class=KRCC>
+토끼
+<SYNC Start=547151><P Class=KRCC>&nbsp;
+<SYNC Start=547153><P Class=KRCC>
+
+<SYNC Start=549487><P Class=KRCC>&nbsp;
+<SYNC Start=553893><P Class=KRCC>
+잘하는데
+<SYNC Start=555192><P Class=KRCC>&nbsp;
+<SYNC Start=555194><P Class=KRCC>
+연습했어
+<SYNC Start=556193><P Class=KRCC>&nbsp;
+<SYNC Start=556195><P Class=KRCC>
+긴장돼?
+<SYNC Start=558095><P Class=KRCC>&nbsp;
+<SYNC Start=558097><P Class=KRCC>
+어.. 껌이지
+<SYNC Start=560665><P Class=KRCC>&nbsp;
+<SYNC Start=560667><P Class=KRCC>
+그래
+<SYNC Start=562867><P Class=KRCC>&nbsp;
+<SYNC Start=565337><P Class=KRCC>
+잘 모르겠어
+<SYNC Start=566871><P Class=KRCC>&nbsp;
+<SYNC Start=566873><P Class=KRCC>
+어떻게 시작할까
+<SYNC Start=568305><P Class=KRCC>&nbsp;
+<SYNC Start=572310><P Class=KRCC>
+넌 세라핌 스테이션에
+<SYNC Start=574111><P Class=KRCC>&nbsp;
+<SYNC Start=574113><P Class=KRCC>
+13개월간 있었어
+<SYNC Start=575346><P Class=KRCC>&nbsp;
+<SYNC Start=575348><P Class=KRCC>
+단독 미션이었고?
+<SYNC Start=576680><P Class=KRCC>&nbsp;
+<SYNC Start=576682><P Class=KRCC>
+그래
+<SYNC Start=578582><P Class=KRCC>&nbsp;
+<SYNC Start=578584><P Class=KRCC>
+내내 혼자였고?
+<SYNC Start=580784><P Class=KRCC>&nbsp;
+<SYNC Start=582153><P Class=KRCC>
+그래서 솔로 미션이라고 하겠지
+<SYNC Start=585356><P Class=KRCC>&nbsp;
+<SYNC Start=586592><P Class=KRCC>
+
+<SYNC Start=588325><P Class=KRCC>&nbsp;
+<SYNC Start=588327><P Class=KRCC>
+어.. 솔직히, 이해가 안가
+<SYNC Start=591395><P Class=KRCC>&nbsp;
+<SYNC Start=591397><P Class=KRCC>
+무슨 이해?
+<SYNC Start=592997><P Class=KRCC>&nbsp;
+<SYNC Start=592999><P Class=KRCC>
+내가 알기론, 이번 분기에
+<SYNC Start=595366><P Class=KRCC>&nbsp;
+<SYNC Start=595368><P Class=KRCC>
+다른 ISEA 미션도 없었어
+<SYNC Start=597401><P Class=KRCC>&nbsp;
+<SYNC Start=598403><P Class=KRCC>
+몰리
+<SYNC Start=599336><P Class=KRCC>&nbsp;
+<SYNC Start=599338><P Class=KRCC>
+거기에서 내가 모르는
+<SYNC Start=601805><P Class=KRCC>&nbsp;
+<SYNC Start=601807><P Class=KRCC>
+응급상황에 타국 승무원이
+<SYNC Start=603073><P Class=KRCC>&nbsp;
+<SYNC Start=603075><P Class=KRCC>
+탑승했다던가 그런게 있니?
+<SYNC Start=605476><P Class=KRCC>&nbsp;
+<SYNC Start=606311><P Class=KRCC>
+아니
+<SYNC Start=607945><P Class=KRCC>&nbsp;
+<SYNC Start=607947><P Class=KRCC>
+왜?
+<SYNC Start=609713><P Class=KRCC>&nbsp;
+<SYNC Start=612015><P Class=KRCC>
+너 임신이야
+<SYNC Start=613350><P Class=KRCC>&nbsp;
+<SYNC Start=613352><P Class=KRCC>
+뭐?
+<SYNC Start=614718><P Class=KRCC>&nbsp;
+<SYNC Start=616020><P Class=KRCC>
+임신이야
+<SYNC Start=617221><P Class=KRCC>&nbsp;
+<SYNC Start=617223><P Class=KRCC>
+
+<SYNC Start=618722><P Class=KRCC>&nbsp;
+<SYNC Start=618724><P Class=KRCC>
+가능하지 않아
+<SYNC Start=620724><P Class=KRCC>&nbsp;
+<SYNC Start=676547><P Class=KRCC>
+젠장
+<SYNC Start=677847><P Class=KRCC>&nbsp;
+<SYNC Start=677849><P Class=KRCC>
+벌금 5달러입니다
+<SYNC Start=681050><P Class=KRCC>&nbsp;
+<SYNC Start=681052><P Class=KRCC>
+기록해둬
+<SYNC Start=683052><P Class=KRCC>&nbsp;
+<SYNC Start=683054><P Class=KRCC>
+물론이죠
+<SYNC Start=684821><P Class=KRCC>&nbsp;
+<SYNC Start=684823><P Class=KRCC>
+연구 데이터 띄우고
+<SYNC Start=686055><P Class=KRCC>&nbsp;
+<SYNC Start=686057><P Class=KRCC>
+샘플의 문제점을 체크해
+<SYNC Start=688925><P Class=KRCC>&nbsp;
+<SYNC Start=688927><P Class=KRCC>
+출발전에 어디서 오염된건가
+<SYNC Start=692762><P Class=KRCC>&nbsp;
+<SYNC Start=692764><P Class=KRCC>
+그럴것 같지는 않습니다
+<SYNC Start=694897><P Class=KRCC>&nbsp;
+<SYNC Start=694899><P Class=KRCC>
+친절도 하셔라
+<SYNC Start=697467><P Class=KRCC>&nbsp;
+<SYNC Start=697469><P Class=KRCC>
+영광입니다
+<SYNC Start=700103><P Class=KRCC>&nbsp;
+<SYNC Start=704307><P Class=KRCC>
+몰리
+<SYNC Start=705141><P Class=KRCC>&nbsp;
+<SYNC Start=705143><P Class=KRCC>
+말해
+<SYNC Start=706743><P Class=KRCC>&nbsp;
+<SYNC Start=706745><P Class=KRCC>
+비크론이 왔습니다
+<SYNC Start=708044><P Class=KRCC>&nbsp;
+<SYNC Start=708046><P Class=KRCC>
+베이 1 에 부탁해
+<SYNC Start=709278><P Class=KRCC>&nbsp;
+<SYNC Start=709280><P Class=KRCC>
+베이 1 으로 전송
+<SYNC Start=710746><P Class=KRCC>&nbsp;
+<SYNC Start=714418><P Class=KRCC>
+카메라 불 켜졌다
+<SYNC Start=715585><P Class=KRCC>&nbsp;
+<SYNC Start=715587><P Class=KRCC>
+인사해봐
+<SYNC Start=717119><P Class=KRCC>&nbsp;
+<SYNC Start=717121><P Class=KRCC>
+안녕
+<SYNC Start=718821><P Class=KRCC>&nbsp;
+<SYNC Start=718823><P Class=KRCC>
+네가 말할래?
+<SYNC Start=720823><P Class=KRCC>&nbsp;
+<SYNC Start=720825><P Class=KRCC>
+어서
+<SYNC Start=722258><P Class=KRCC>&nbsp;
+<SYNC Start=722260><P Class=KRCC>
+나 입학 허가 받았어
+<SYNC Start=723993><P Class=KRCC>&nbsp;
+<SYNC Start=723995><P Class=KRCC>
+오늘 아침에 교장이랑최종 미팅 했어
+<SYNC Start=727129><P Class=KRCC>&nbsp;
+<SYNC Start=727131><P Class=KRCC>
+입학식은 당신 돌아올때까지..
+<SYNC Start=730399><P Class=KRCC>&nbsp;
+<SYNC Start=730401><P Class=KRCC>
+벤?
+<SYNC Start=731967><P Class=KRCC>&nbsp;
+<SYNC Start=731969><P Class=KRCC>
+<ruby>솔라 플레어<rt><font color=gold>태양면 폭팔로 인한 전자기 파장</font></rt><ruby>의 간섭이 감지됩니다
+<SYNC Start=734236><P Class=KRCC>&nbsp;
+<SYNC Start=734238><P Class=KRCC>
+지나가면 다시 플레이 할까요?
+<SYNC Start=736672><P Class=KRCC>&nbsp;
+<SYNC Start=736674><P Class=KRCC>
+그래
+<SYNC Start=738607><P Class=KRCC>&nbsp;
+<SYNC Start=740844><P Class=KRCC>
+재시도..
+<SYNC Start=743813><P Class=KRCC>&nbsp;
+<SYNC Start=746584><P Class=KRCC>
+
+<SYNC Start=749185><P Class=KRCC>&nbsp;
+<SYNC Start=750153><P Class=KRCC>
+
+<SYNC Start=752187><P Class=KRCC>&nbsp;
+<SYNC Start=867760><P Class=KRCC>
+<ruby>한글자막 <font color=steelblue>Hiqq</font><rt>    facebook.com/hiqq<font color=deepskyblue>x</font></rt></ruby>
+<SYNC Start=873660><P Class=KRCC>&nbsp;
+<SYNC Start=882461><P Class=KRCC>
+설명할게 있어야 할거야
+<SYNC Start=883928><P Class=KRCC>&nbsp;
+<SYNC Start=884796><P Class=KRCC>
+네가 실수한거 아닐까
+<SYNC Start=886197><P Class=KRCC>&nbsp;
+<SYNC Start=886199><P Class=KRCC>
+몰리, 네 모든 샘플을각각 두번씩 테스트했어
+<SYNC Start=890467><P Class=KRCC>&nbsp;
+<SYNC Start=891998><P Class=KRCC>
+다른 사람은 없었던게 확실해?
+<SYNC Start=895233><P Class=KRCC>&nbsp;
+<SYNC Start=895235><P Class=KRCC>
+얼마나 물어볼거니?
+<SYNC Start=897400><P Class=KRCC>&nbsp;
+<SYNC Start=897435><P Class=KRCC>
+그렇다고 해도,내가 임신못하는거 네가 알잖아
+<SYNC Start=899603><P Class=KRCC>&nbsp;
+<SYNC Start=899635><P Class=KRCC>
+몇년을 노력했었어
+<SYNC Start=900668><P Class=KRCC>&nbsp;
+<SYNC Start=900670><P Class=KRCC>
+임신촉진제 복용한적은?
+<SYNC Start=903104><P Class=KRCC>&nbsp;
+<SYNC Start=903106><P Class=KRCC>
+없어
+<SYNC Start=906474><P Class=KRCC>&nbsp;
+<SYNC Start=906476><P Class=KRCC>
+이단 입양전에 끊었어
+<SYNC Start=910511><P Class=KRCC>&nbsp;
+<SYNC Start=910513><P Class=KRCC>
+그냥 가능한 질문들을 하는거야보고서 내야 하니까
+<SYNC Start=913614><P Class=KRCC>&nbsp;
+<SYNC Start=913949><P Class=KRCC>
+이거 보고서에 넣으면 안돼
+<SYNC Start=915817><P Class=KRCC>&nbsp;
+<SYNC Start=915819><P Class=KRCC>
+몰리, 이 보고서는스팍스 감독관에게 바로 가는거야
+<SYNC Start=917986><P Class=KRCC>&nbsp;
+<SYNC Start=918387><P Class=KRCC>
+거짓말할 수 없어
+<SYNC Start=919253><P Class=KRCC>&nbsp;
+<SYNC Start=919255><P Class=KRCC>
+거짓말하라는게 아냐
+<SYNC Start=920621><P Class=KRCC>&nbsp;
+<SYNC Start=921256><P Class=KRCC>
+시간을 조금 달라는거야
+<SYNC Start=922490><P Class=KRCC>&nbsp;
+<SYNC Start=922492><P Class=KRCC>
+친구로서
+<SYNC Start=923991><P Class=KRCC>&nbsp;
+<SYNC Start=923993><P Class=KRCC>
+친구로서, 난 지금 당장
+<SYNC Start=926260><P Class=KRCC>&nbsp;
+<SYNC Start=926262><P Class=KRCC>
+널 입원시켜야 해
+<SYNC Start=928529><P Class=KRCC>&nbsp;
+<SYNC Start=928531><P Class=KRCC>
+내가 싫은게 바로 그거야
+<SYNC Start=929964><P Class=KRCC>&nbsp;
+<SYNC Start=930732><P Class=KRCC>
+이제야 가족한테 돌아왔어, 샘
+<SYNC Start=932166><P Class=KRCC>&nbsp;
+<SYNC Start=932168><P Class=KRCC>
+격리되고 싶지는 않다고
+<SYNC Start=934402><P Class=KRCC>&nbsp;
+<SYNC Start=934937><P Class=KRCC>
+존한테 말하기전에알아볼 시간을 좀 달라는거야
+<SYNC Start=938306><P Class=KRCC>&nbsp;
+<SYNC Start=943611><P Class=KRCC>
+휴매닉 프로젝트에 있어서
+<SYNC Start=945012><P Class=KRCC>&nbsp;
+<SYNC Start=945014><P Class=KRCC>
+우리는 많은 기계와함께 살아가고 있습니다
+<SYNC Start=948249><P Class=KRCC>&nbsp;
+<SYNC Start=949618><P Class=KRCC>
+대부분의 상호작용은
+<SYNC Start=951619><P Class=KRCC>&nbsp;
+<SYNC Start=951621><P Class=KRCC>
+우리가 깨어날때부터
+<SYNC Start=953854><P Class=KRCC>&nbsp;
+<SYNC Start=954523><P Class=KRCC>
+잠들때까지 지속됩니다
+<SYNC Start=955756><P Class=KRCC>&nbsp;
+<SYNC Start=955825><P Class=KRCC>
+로봇에 의한 매일의 활동은
+<SYNC Start=959260><P Class=KRCC>&nbsp;
+<SYNC Start=959262><P Class=KRCC>
+우리 삶을 더 효율적으로 만들죠
+<SYNC Start=961729><P Class=KRCC>&nbsp;
+<SYNC Start=961731><P Class=KRCC>
+하지만 이런 과정에서가장 중요한 요소가 배제됐습니다
+<SYNC Start=964565><P Class=KRCC>&nbsp;
+<SYNC Start=964567><P Class=KRCC>
+인간 교류
+<SYNC Start=966033><P Class=KRCC>&nbsp;
+<SYNC Start=966035><P Class=KRCC>
+사실상, 우리는 로봇이
+<SYNC Start=967968><P Class=KRCC>&nbsp;
+<SYNC Start=967970><P Class=KRCC>
+실제 인간이 아니란것을 알아요
+<SYNC Start=970237><P Class=KRCC>&nbsp;
+<SYNC Start=970239><P Class=KRCC>
+의료용 보조로봇은
+<SYNC Start=972173><P Class=KRCC>&nbsp;
+<SYNC Start=972175><P Class=KRCC>
+백신투여시 100%의정확도를 보입니다
+<SYNC Start=975075><P Class=KRCC>&nbsp;
+<SYNC Start=975077><P Class=KRCC>
+하지만, 아이들이바늘을 무서워할때
+<SYNC Start=977077><P Class=KRCC>&nbsp;
+<SYNC Start=977079><P Class=KRCC>
+안심시켜 주지는 못하죠
+<SYNC Start=978712><P Class=KRCC>&nbsp;
+<SYNC Start=978714><P Class=KRCC>
+업무용 안드로이드는은행업무를 볼 수 있지만
+<SYNC Start=982650><P Class=KRCC>&nbsp;
+<SYNC Start=982652><P Class=KRCC>
+여러분이 첫 집을 장만했을때의
+<SYNC Start=984184><P Class=KRCC>&nbsp;
+<SYNC Start=984251><P Class=KRCC>
+기쁨을 나누지는 못합니다
+<SYNC Start=985853><P Class=KRCC>&nbsp;
+<SYNC Start=986655><P Class=KRCC>
+이런 참된 신비로움은 전혀
+<SYNC Start=989056><P Class=KRCC>&nbsp;
+<SYNC Start=989058><P Class=KRCC>
+보여주질 못합니다이것은 유전적 고리에 의하죠
+<SYNC Start=992526><P Class=KRCC>&nbsp;
+<SYNC Start=992528><P Class=KRCC>
+휴매닉 프로젝트의 목표는
+<SYNC Start=994696><P Class=KRCC>&nbsp;
+<SYNC Start=994798><P Class=KRCC>
+기계의 인간성을 넣음으로써교류를 이루는 것입니다
+<SYNC Start=997965><P Class=KRCC>&nbsp;
+<SYNC Start=997967><P Class=KRCC>
+어떻게 하면 될까요?
+<SYNC Start=1000200><P Class=KRCC>&nbsp;
+<SYNC Start=1000202><P Class=KRCC>
+인공지능을 창조함에 있어서
+<SYNC Start=1002803><P Class=KRCC>&nbsp;
+<SYNC Start=1002805><P Class=KRCC>
+아주 초기부터 연결성을 넣어디자인하는 것입니다
+<SYNC Start=1005072><P Class=KRCC>&nbsp;
+<SYNC Start=1005074><P Class=KRCC>
+인터페이스에 0과 1을타이핑하여 프로그램하지만
+<SYNC Start=1008242><P Class=KRCC>&nbsp;
+<SYNC Start=1008244><P Class=KRCC>
+매일의 인간 경험을 주는 것이죠
+<SYNC Start=1012279><P Class=KRCC>&nbsp;
+<SYNC Start=1013348><P Class=KRCC>
+여러분
+<SYNC Start=1014982><P Class=KRCC>&nbsp;
+<SYNC Start=1014984><P Class=KRCC>
+제 아들을 소개합니다
+<SYNC Start=1016950><P Class=KRCC>&nbsp;
+<SYNC Start=1016952><P Class=KRCC>
+이단
+<SYNC Start=1019152><P Class=KRCC>&nbsp;
+<SYNC Start=1019154><P Class=KRCC>
+가봐, 토끼
+<SYNC Start=1022322><P Class=KRCC>&nbsp;
+<SYNC Start=1043276><P Class=KRCC>
+하몬 크래거
+<SYNC Start=1044344><P Class=KRCC>&nbsp;
+<SYNC Start=1044346><P Class=KRCC>
+내가 합류하기전에 떠났죠
+<SYNC Start=1047480><P Class=KRCC>&nbsp;
+<SYNC Start=1047482><P Class=KRCC>
+가까우셨나요?
+<SYNC Start=1049215><P Class=KRCC>&nbsp;
+<SYNC Start=1050051><P Class=KRCC>
+네
+<SYNC Start=1051818><P Class=KRCC>&nbsp;
+<SYNC Start=1051820><P Class=KRCC>
+- 좋은 사람이었어요- 그렇다더군요
+<SYNC Start=1054688><P Class=KRCC>&nbsp;
+<SYNC Start=1054690><P Class=KRCC>
+우즈 박사님, 고든 켄 입니다
+<SYNC Start=1056856><P Class=KRCC>&nbsp;
+<SYNC Start=1056858><P Class=KRCC>
+새 부감독관이시군요
+<SYNC Start=1058124><P Class=KRCC>&nbsp;
+<SYNC Start=1058126><P Class=KRCC>
+나 겠군요
+<SYNC Start=1060794><P Class=KRCC>&nbsp;
+<SYNC Start=1060796><P Class=KRCC>
+비극적 상황이네요
+<SYNC Start=1062429><P Class=KRCC>&nbsp;
+<SYNC Start=1062431><P Class=KRCC>
+가실까요?
+<SYNC Start=1064664><P Class=KRCC>&nbsp;
+<SYNC Start=1064666><P Class=KRCC>
+솔직히, 박사님의 로그를
+<SYNC Start=1067734><P Class=KRCC>&nbsp;
+<SYNC Start=1067736><P Class=KRCC>
+분석하는데 주말을 다 보냈어요
+<SYNC Start=1070236><P Class=KRCC>&nbsp;
+<SYNC Start=1070238><P Class=KRCC>
+작업이 완전 철저하시더군요
+<SYNC Start=1072172><P Class=KRCC>&nbsp;
+<SYNC Start=1072174><P Class=KRCC>
+여지가 없었어요
+<SYNC Start=1075208><P Class=KRCC>&nbsp;
+<SYNC Start=1075210><P Class=KRCC>
+한가지가 있는데
+<SYNC Start=1077143><P Class=KRCC>&nbsp;
+<SYNC Start=1077145><P Class=KRCC>
+- 갭 말이죠- 네, 갭
+<SYNC Start=1079579><P Class=KRCC>&nbsp;
+<SYNC Start=1079581><P Class=KRCC>
+쉽게 설명되요, 사실..
+<SYNC Start=1081915><P Class=KRCC>&nbsp;
+<SYNC Start=1081917><P Class=KRCC>
+괜찮으시다면,스팍스 감독관님을 기다릴까요?
+<SYNC Start=1084384><P Class=KRCC>&nbsp;
+<SYNC Start=1085019><P Class=KRCC>
+질문이 있으시답니다
+<SYNC Start=1086252><P Class=KRCC>&nbsp;
+<SYNC Start=1088156><P Class=KRCC>
+아마도 이곳에 있는 모든 분들이
+<SYNC Start=1090890><P Class=KRCC>&nbsp;
+<SYNC Start=1090892><P Class=KRCC>
+궁금해 할만하지만 무례할까봐
+<SYNC Start=1093359><P Class=KRCC>&nbsp;
+<SYNC Start=1093361><P Class=KRCC>
+질문 못하고 있는듯 하네요
+<SYNC Start=1096729><P Class=KRCC>&nbsp;
+<SYNC Start=1096731><P Class=KRCC>
+로봇 반란, 맞나요?
+<SYNC Start=1099532><P Class=KRCC>&nbsp;
+<SYNC Start=1099534><P Class=KRCC>
+어느날 우리를전복하고 노예로 만들어
+<SYNC Start=1102468><P Class=KRCC>&nbsp;
+<SYNC Start=1102470><P Class=KRCC>
+인간 대군주가 되는것은 아닌지?
+<SYNC Start=1104537><P Class=KRCC>&nbsp;
+<SYNC Start=1104539><P Class=KRCC>
+이런 질문인가요?
+<SYNC Start=1106105><P Class=KRCC>&nbsp;
+<SYNC Start=1107374><P Class=KRCC>
+절대 아닙니다
+<SYNC Start=1109675><P Class=KRCC>&nbsp;
+<SYNC Start=1109677><P Class=KRCC>
+소유주는 어떻게행동을 제어하고 관리하게 되나요?
+<SYNC Start=1112511><P Class=KRCC>&nbsp;
+<SYNC Start=1112575><P Class=KRCC>
+이것은 주인-노예 관계가 아닙니다
+<SYNC Start=1114714><P Class=KRCC>&nbsp;
+<SYNC Start=1114716><P Class=KRCC>
+제 파트너와 저의 생각은
+<SYNC Start=1116382><P Class=KRCC>&nbsp;
+<SYNC Start=1116384><P Class=KRCC>
+기계가 인간화되려면
+<SYNC Start=1119185><P Class=KRCC>&nbsp;
+<SYNC Start=1119187><P Class=KRCC>
+인간 경험을 주어야 하고
+<SYNC Start=1121454><P Class=KRCC>&nbsp;
+<SYNC Start=1121456><P Class=KRCC>
+아이처럼 배우게 하는 것입니다
+<SYNC Start=1123823><P Class=KRCC>&nbsp;
+<SYNC Start=1123825><P Class=KRCC>
+이 휴매닉의 뇌는틀림에서 옮음을 배우고
+<SYNC Start=1126158><P Class=KRCC>&nbsp;
+<SYNC Start=1126160><P Class=KRCC>
+나쁨에서 좋음을 배웁니다우리가 그러듯이요
+<SYNC Start=1127893><P Class=KRCC>&nbsp;
+<SYNC Start=1128028><P Class=KRCC>
+대부분은요
+<SYNC Start=1129095><P Class=KRCC>&nbsp;
+<SYNC Start=1129197><P Class=KRCC>
+무슨뜻인가요, 대부분은?
+<SYNC Start=1130863><P Class=KRCC>&nbsp;
+<SYNC Start=1131126><P Class=KRCC>
+어떤 아이인지는 보장이 없다는 거죠
+<SYNC Start=1132565><P Class=KRCC>&nbsp;
+<SYNC Start=1132625><P Class=KRCC>
+결국 자신의 방식을선택하는건 자유로우니까요
+<SYNC Start=1135434><P Class=KRCC>&nbsp;
+<SYNC Start=1135936><P Class=KRCC>
+우즈 박사님,저는 페티 도드인데요
+<SYNC Start=1137736><P Class=KRCC>&nbsp;
+<SYNC Start=1137738><P Class=KRCC>
+야스모토씨의 프로그램을보좌하고 있습니다
+<SYNC Start=1139905><P Class=KRCC>&nbsp;
+<SYNC Start=1141007><P Class=KRCC>
+실험 실패시의 과정은 무엇인가요?
+<SYNC Start=1143709><P Class=KRCC>&nbsp;
+<SYNC Start=1143711><P Class=KRCC>
+정지시키는 응급계획이 있나요?
+<SYNC Start=1146278><P Class=KRCC>&nbsp;
+<SYNC Start=1146280><P Class=KRCC>
+힘을 제한하는거요? 당연하죠
+<SYNC Start=1147713><P Class=KRCC>&nbsp;
+<SYNC Start=1147715><P Class=KRCC>
+유휴 모드라고 부릅니다
+<SYNC Start=1149348><P Class=KRCC>&nbsp;
+<SYNC Start=1149350><P Class=KRCC>
+괜찮지?
+<SYNC Start=1150716><P Class=KRCC>&nbsp;
+<SYNC Start=1151015><P Class=KRCC>
+잠시, 박사님 미안합니다만
+<SYNC Start=1151884><P Class=KRCC>&nbsp;
+<SYNC Start=1151915><P Class=KRCC>
+휴식 모드를 말한게 아니에요
+<SYNC Start=1153185><P Class=KRCC>&nbsp;
+<SYNC Start=1153415><P Class=KRCC>
+종료를 말하는 겁니다
+<SYNC Start=1155054><P Class=KRCC>&nbsp;
+<SYNC Start=1155056><P Class=KRCC>
+죽이는거요?
+<SYNC Start=1156322><P Class=KRCC>&nbsp;
+<SYNC Start=1156324><P Class=KRCC>
+그런 말은 고상하지 않지만, 맞아요
+<SYNC Start=1159925><P Class=KRCC>&nbsp;
+<SYNC Start=1161261><P Class=KRCC>
+아이가 있으신가요?
+<SYNC Start=1163462><P Class=KRCC>&nbsp;
+<SYNC Start=1164297><P Class=KRCC>
+딸 하나요
+<SYNC Start=1166432><P Class=KRCC>&nbsp;
+<SYNC Start=1166434><P Class=KRCC>
+딸을 죽일 계획이 있나요?
+<SYNC Start=1168367><P Class=KRCC>&nbsp;
+<SYNC Start=1169202><P Class=KRCC>
+내 딸은 인간이에요
+<SYNC Start=1171770><P Class=KRCC>&nbsp;
+<SYNC Start=1171772><P Class=KRCC>
+차이를 이해 못하겠는데요
+<SYNC Start=1173305><P Class=KRCC>&nbsp;
+<SYNC Start=1173307><P Class=KRCC>
+처음부터, 영혼이 있죠
+<SYNC Start=1175974><P Class=KRCC>&nbsp;
+<SYNC Start=1175976><P Class=KRCC>
+도드씨, 존중드립니다만
+<SYNC Start=1178043><P Class=KRCC>&nbsp;
+<SYNC Start=1178045><P Class=KRCC>
+영혼이라는 것은 없습니다
+<SYNC Start=1180312><P Class=KRCC>&nbsp;
+<SYNC Start=1180813><P Class=KRCC>
+영혼이라 부르는 것은
+<SYNC Start=1181913><P Class=KRCC>&nbsp;
+<SYNC Start=1181915><P Class=KRCC>
+삶의 경험에 의한 누적효과입니다
+<SYNC Start=1185083><P Class=KRCC>&nbsp;
+<SYNC Start=1185085><P Class=KRCC>
+따님 뇌 상의 신경학적 작용이죠
+<SYNC Start=1187919><P Class=KRCC>&nbsp;
+<SYNC Start=1188415><P Class=KRCC>
+박사님, 믿거나 말거나
+<SYNC Start=1189755><P Class=KRCC>&nbsp;
+<SYNC Start=1189915><P Class=KRCC>
+세상의 많은 사람들은과학만으로 설명할 수 없는
+<SYNC Start=1192224><P Class=KRCC>&nbsp;
+<SYNC Start=1192415><P Class=KRCC>
+많은것들이 있다고 믿어요
+<SYNC Start=1193925><P Class=KRCC>&nbsp;
+<SYNC Start=1194193><P Class=KRCC>
+
+<SYNC Start=1196061><P Class=KRCC>&nbsp;
+<SYNC Start=1196063><P Class=KRCC>
+그런 사람들이 멍청한거죠
+<SYNC Start=1197562><P Class=KRCC>&nbsp;
+<SYNC Start=1197564><P Class=KRCC>
+- 우즈 박사- 내가 그런 멍청이에요
+<SYNC Start=1199564><P Class=KRCC>&nbsp;
+<SYNC Start=1199863><P Class=KRCC>
+- 미안합니다- 사과를 받아들이죠
+<SYNC Start=1201800><P Class=KRCC>&nbsp;
+<SYNC Start=1201802><P Class=KRCC>
+아뇨, 당신이 멍청이중 하나라서
+<SYNC Start=1203159><P Class=KRCC>&nbsp;
+<SYNC Start=1203184><P Class=KRCC>
+- 유감이란 거에요- 그만하세요
+<SYNC Start=1204527><P Class=KRCC>&nbsp;
+<SYNC Start=1204583><P Class=KRCC>
+- 어떻게 감히?- 어떻게 감히 나한테
+<SYNC Start=1206238><P Class=KRCC>&nbsp;
+<SYNC Start=1206283><P Class=KRCC>
+내 아들을 살인하는응급계획을 묻는 겁니까?
+<SYNC Start=1207973><P Class=KRCC>&nbsp;
+<SYNC Start=1208381><P Class=KRCC>
+박사는 지금 세상에 풀려날
+<SYNC Start=1210342><P Class=KRCC>&nbsp;
+<SYNC Start=1210344><P Class=KRCC>
+수천 수만의 이러한 휴매닉에 대한펀딩을 요청하고 있는 거에요
+<SYNC Start=1212944><P Class=KRCC>&nbsp;
+<SYNC Start=1213713><P Class=KRCC>
+완전히 적절한 질문이세요
+<SYNC Start=1214946><P Class=KRCC>&nbsp;
+<SYNC Start=1214948><P Class=KRCC>
+행동의 조정과 제한이 되는지
+<SYNC Start=1216982><P Class=KRCC>&nbsp;
+<SYNC Start=1216984><P Class=KRCC>
+이자리에서 장담할 수 있나요?
+<SYNC Start=1220251><P Class=KRCC>&nbsp;
+<SYNC Start=1220253><P Class=KRCC>
+답변을 드리죠, 시져씨
+<SYNC Start=1222687><P Class=KRCC>&nbsp;
+<SYNC Start=1222689><P Class=KRCC>
+절대 안됩니다
+<SYNC Start=1224856><P Class=KRCC>&nbsp;
+<SYNC Start=1224858><P Class=KRCC>
+보안 및 생명유지 시스템은
+<SYNC Start=1226291><P Class=KRCC>&nbsp;
+<SYNC Start=1226388><P Class=KRCC>
+대부분 즉시 복구됐어요
+<SYNC Start=1228393><P Class=KRCC>&nbsp;
+<SYNC Start=1228395><P Class=KRCC>
+하지만 통신 시스템은
+<SYNC Start=1229761><P Class=KRCC>&nbsp;
+<SYNC Start=1229763><P Class=KRCC>
+약 13시간동안 다운상태였죠
+<SYNC Start=1232363><P Class=KRCC>&nbsp;
+<SYNC Start=1232365><P Class=KRCC>
+거기 로그에 나오듯이,전 대부분의 시간을
+<SYNC Start=1235867><P Class=KRCC>&nbsp;
+<SYNC Start=1235965><P Class=KRCC>
+시스템을 복구하는데 썼지만
+<SYNC Start=1238603><P Class=KRCC>&nbsp;
+<SYNC Start=1238605><P Class=KRCC>
+불행히, 잘 안됐어요
+<SYNC Start=1241539><P Class=KRCC>&nbsp;
+<SYNC Start=1241541><P Class=KRCC>
+그리고는 3시간동안 잠들었고
+<SYNC Start=1244776><P Class=KRCC>&nbsp;
+<SYNC Start=1244778><P Class=KRCC>
+깨어났더니, 모든게
+<SYNC Start=1247845><P Class=KRCC>&nbsp;
+<SYNC Start=1247847><P Class=KRCC>
+정상이 되었더군요
+<SYNC Start=1249213><P Class=KRCC>&nbsp;
+<SYNC Start=1249215><P Class=KRCC>
+그 시간 전부를벤 복구하는데 썼나요?
+<SYNC Start=1251149><P Class=KRCC>&nbsp;
+<SYNC Start=1251315><P Class=KRCC>
+벤이랑 일해 보셨어요?
+<SYNC Start=1252951><P Class=KRCC>&nbsp;
+<SYNC Start=1253619><P Class=KRCC>
+아뇨
+<SYNC Start=1255586><P Class=KRCC>&nbsp;
+<SYNC Start=1255588><P Class=KRCC>
+그 13시간 동안, 다른 일은 없었나요?
+<SYNC Start=1257689><P Class=KRCC>&nbsp;
+<SYNC Start=1258323><P Class=KRCC>
+이례적인 일이라거나
+<SYNC Start=1260224><P Class=KRCC>&nbsp;
+<SYNC Start=1260226><P Class=KRCC>
+솔라 플레어와 관련된거나
+<SYNC Start=1261826><P Class=KRCC>&nbsp;
+<SYNC Start=1261828><P Class=KRCC>
+전부 로그에 있는대로에요
+<SYNC Start=1263928><P Class=KRCC>&nbsp;
+<SYNC Start=1263930><P Class=KRCC>
+확실치 않은게 하나 있는데요
+<SYNC Start=1266164><P Class=KRCC>&nbsp;
+<SYNC Start=1266166><P Class=KRCC>
+보안 시스템은 세라핌내 각 구역을
+<SYNC Start=1268332><P Class=KRCC>&nbsp;
+<SYNC Start=1268334><P Class=KRCC>
+감시 카메라로 기록하게 되있어요
+<SYNC Start=1271202><P Class=KRCC>&nbsp;
+<SYNC Start=1271204><P Class=KRCC>
+짐작이지만, 응급 전원이
+<SYNC Start=1272870><P Class=KRCC>&nbsp;
+<SYNC Start=1273103><P Class=KRCC>
+바로 다시 켜졌을텐데, 영상은
+<SYNC Start=1275373><P Class=KRCC>&nbsp;
+<SYNC Start=1275375><P Class=KRCC>
+시스템 메모리에서 지워졌더군요
+<SYNC Start=1277508><P Class=KRCC>&nbsp;
+<SYNC Start=1278076><P Class=KRCC>
+매달초 가끔
+<SYNC Start=1279076><P Class=KRCC>&nbsp;
+<SYNC Start=1279078><P Class=KRCC>
+임시 간섭 현상이 있었어요
+<SYNC Start=1281078><P Class=KRCC>&nbsp;
+<SYNC Start=1281080><P Class=KRCC>
+하지만 이정도 레벨은 처음이에요
+<SYNC Start=1283814><P Class=KRCC>&nbsp;
+<SYNC Start=1283816><P Class=KRCC>
+예전에는 만약을 대비해
+<SYNC Start=1286150><P Class=KRCC>&nbsp;
+<SYNC Start=1286152><P Class=KRCC>
+영상의 복사본을 만들었는데
+<SYNC Start=1288653><P Class=KRCC>&nbsp;
+<SYNC Start=1289051><P Class=KRCC>
+이번 경우는
+<SYNC Start=1290321><P Class=KRCC>&nbsp;
+<SYNC Start=1290350><P Class=KRCC>
+영상을 복사하는 대신에
+<SYNC Start=1292289><P Class=KRCC>&nbsp;
+<SYNC Start=1292291><P Class=KRCC>
+사고로 지워졌어요
+<SYNC Start=1293724><P Class=KRCC>&nbsp;
+<SYNC Start=1293726><P Class=KRCC>
+그 시간의 유일한 기록은
+<SYNC Start=1296193><P Class=KRCC>&nbsp;
+<SYNC Start=1296195><P Class=KRCC>
+제 로그에 수동으로 입력된 거에요
+<SYNC Start=1298562><P Class=KRCC>&nbsp;
+<SYNC Start=1299664><P Class=KRCC>
+이 에러는 완전히 제 책임이에요
+<SYNC Start=1302066><P Class=KRCC>&nbsp;
+<SYNC Start=1302068><P Class=KRCC>
+뭐, 우리는 실수 안하겠나요
+<SYNC Start=1304735><P Class=KRCC>&nbsp;
+<SYNC Start=1304737><P Class=KRCC>
+저만 굳어 있었나 봐요
+<SYNC Start=1308939><P Class=KRCC>&nbsp;
+<SYNC Start=1311043><P Class=KRCC>
+아직 의료 검진 보고를기다리고 있긴 하지만
+<SYNC Start=1313811><P Class=KRCC>&nbsp;
+<SYNC Start=1313813><P Class=KRCC>
+곧 보게 되겠죠
+<SYNC Start=1316080><P Class=KRCC>&nbsp;
+<SYNC Start=1316511><P Class=KRCC>
+그리고, 정신과 평가만더하면 마무리 되겠네요
+<SYNC Start=1319149><P Class=KRCC>&nbsp;
+<SYNC Start=1319151><P Class=KRCC>
+기록에 넣을게요
+<SYNC Start=1321151><P Class=KRCC>&nbsp;
+<SYNC Start=1321153><P Class=KRCC>
+정신과 평가요?
+<SYNC Start=1323587><P Class=KRCC>&nbsp;
+<SYNC Start=1323589><P Class=KRCC>
+이후 추가 미팅이 있을거고
+<SYNC Start=1325589><P Class=KRCC>&nbsp;
+<SYNC Start=1326157><P Class=KRCC>
+당신의 재진입에 도움될거에요
+<SYNC Start=1327291><P Class=KRCC>&nbsp;
+<SYNC Start=1327293><P Class=KRCC>
+작년 하몬 크래거의 사건이후
+<SYNC Start=1329426><P Class=KRCC>&nbsp;
+<SYNC Start=1329491><P Class=KRCC>
+요원 정책이 바뀌었어요
+<SYNC Start=1331328><P Class=KRCC>&nbsp;
+<SYNC Start=1331330><P Class=KRCC>
+끝내기 전에 주의 당부 드려요
+<SYNC Start=1333297><P Class=KRCC>&nbsp;
+<SYNC Start=1333330><P Class=KRCC>
+뭐 관료주의적인거고
+<SYNC Start=1335165><P Class=KRCC>&nbsp;
+<SYNC Start=1335167><P Class=KRCC>
+지금은 좀 더 사적인거죠
+<SYNC Start=1336667><P Class=KRCC>&nbsp;
+<SYNC Start=1336766><P Class=KRCC>
+시간 맞추려면,지금 나가셔야 합니다
+<SYNC Start=1339203><P Class=KRCC>&nbsp;
+<SYNC Start=1339871><P Class=KRCC>
+외부 미팅이라서
+<SYNC Start=1341505><P Class=KRCC>&nbsp;
+<SYNC Start=1341507><P Class=KRCC>
+돌아와서 좋네요, 몰리
+<SYNC Start=1344107><P Class=KRCC>&nbsp;
+<SYNC Start=1344109><P Class=KRCC>
+그리웠어요
+<SYNC Start=1345576><P Class=KRCC>&nbsp;
+<SYNC Start=1345578><P Class=KRCC>
+감사해요
+<SYNC Start=1347344><P Class=KRCC>&nbsp;
+<SYNC Start=1369134><P Class=KRCC>
+어떤가?
+<SYNC Start=1371868><P Class=KRCC>&nbsp;
+<SYNC Start=1371870><P Class=KRCC>
+준비됐습니다
+<SYNC Start=1373036><P Class=KRCC>&nbsp;
+<SYNC Start=1397094><P Class=KRCC>
+환영합니다, 야스모토 씨
+<SYNC Start=1399729><P Class=KRCC>&nbsp;
+<SYNC Start=1403734><P Class=KRCC>
+세라핌에서 변칙적인것이발견됐습니다
+<SYNC Start=1407237><P Class=KRCC>&nbsp;
+<SYNC Start=1407239><P Class=KRCC>
+변칙?
+<SYNC Start=1409873><P Class=KRCC>&nbsp;
+<SYNC Start=1409875><P Class=KRCC>
+다른 솔라 플레어가통신 시스템을 차단했어요
+<SYNC Start=1415612><P Class=KRCC>&nbsp;
+<SYNC Start=1415614><P Class=KRCC>
+크라이거 때처럼?
+<SYNC Start=1417447><P Class=KRCC>&nbsp;
+<SYNC Start=1417449><P Class=KRCC>
+네
+<SYNC Start=1419415><P Class=KRCC>&nbsp;
+<SYNC Start=1419417><P Class=KRCC>
+하지만, 크래거때와 다르게
+<SYNC Start=1421184><P Class=KRCC>&nbsp;
+<SYNC Start=1421186><P Class=KRCC>
+13시간 동안의
+<SYNC Start=1423987><P Class=KRCC>&nbsp;
+<SYNC Start=1423989><P Class=KRCC>
+보안 카메라 영상이 사라졌습니다
+<SYNC Start=1427123><P Class=KRCC>&nbsp;
+<SYNC Start=1427125><P Class=KRCC>
+우연으로 보이지는 않는군
+<SYNC Start=1430193><P Class=KRCC>&nbsp;
+<SYNC Start=1430195><P Class=KRCC>
+비행사가 연관된 것일지도요
+<SYNC Start=1433429><P Class=KRCC>&nbsp;
+<SYNC Start=1433431><P Class=KRCC>
+몰리 우즈
+<SYNC Start=1435932><P Class=KRCC>&nbsp;
+<SYNC Start=1435934><P Class=KRCC>
+사고로 지웠다고 주장합니다
+<SYNC Start=1439435><P Class=KRCC>&nbsp;
+<SYNC Start=1442139><P Class=KRCC>
+안믿기나?
+<SYNC Start=1444874><P Class=KRCC>&nbsp;
+<SYNC Start=1444876><P Class=KRCC>
+안믿습니다
+<SYNC Start=1447410><P Class=KRCC>&nbsp;
+<SYNC Start=1448445><P Class=KRCC>
+어째서?
+<SYNC Start=1450813><P Class=KRCC>&nbsp;
+<SYNC Start=1450815><P Class=KRCC>
+실수나 할 타입이 아니거든요
+<SYNC Start=1453449><P Class=KRCC>&nbsp;
+<SYNC Start=1459056><P Class=KRCC>
+이것이 전부가 될 수 있어
+<SYNC Start=1461490><P Class=KRCC>&nbsp;
+<SYNC Start=1461492><P Class=KRCC>
+가까이 둬야 해
+<SYNC Start=1463926><P Class=KRCC>&nbsp;
+<SYNC Start=1463928><P Class=KRCC>
+그래서 말인데
+<SYNC Start=1466128><P Class=KRCC>&nbsp;
+<SYNC Start=1466130><P Class=KRCC>
+남편 존이, 오늘 이사회에서
+<SYNC Start=1469031><P Class=KRCC>&nbsp;
+<SYNC Start=1469033><P Class=KRCC>
+프리젠테이션이 있었지만,거부됐습니다
+<SYNC Start=1471901><P Class=KRCC>&nbsp;
+<SYNC Start=1471903><P Class=KRCC>
+저는 ISEA 관련해서만 가까이 하지만
+<SYNC Start=1475771><P Class=KRCC>&nbsp;
+<SYNC Start=1475773><P Class=KRCC>
+회장님의 손짓이면, 그 가족을가까이 두실 수 있습니다
+<SYNC Start=1479875><P Class=KRCC>&nbsp;
+<SYNC Start=1479877><P Class=KRCC>
+지켜보기도 쉬울거고요
+<SYNC Start=1482978><P Class=KRCC>&nbsp;
+<SYNC Start=1499621><P Class=KRCC>
+이게 마지막이야
+<SYNC Start=1502156><P Class=KRCC>&nbsp;
+<SYNC Start=1506396><P Class=KRCC>
+
+<SYNC Start=1508362><P Class=KRCC>&nbsp;
+<SYNC Start=1510467><P Class=KRCC>
+존, 야스모토 회사로의 호출입니다
+<SYNC Start=1515002><P Class=KRCC>&nbsp;
+<SYNC Start=1545531><P Class=KRCC>
+우즈 박사님
+<SYNC Start=1546667><P Class=KRCC>&nbsp;
+<SYNC Start=1546669><P Class=KRCC>
+히데키 야스모토 요
+<SYNC Start=1548869><P Class=KRCC>&nbsp;
+<SYNC Start=1548871><P Class=KRCC>
+와줘서 감사해요
+<SYNC Start=1550504><P Class=KRCC>&nbsp;
+<SYNC Start=1550506><P Class=KRCC>
+어.. 영광입니다
+<SYNC Start=1553440><P Class=KRCC>&nbsp;
+<SYNC Start=1553442><P Class=KRCC>
+제가 더 영광이죠
+<SYNC Start=1555476><P Class=KRCC>&nbsp;
+<SYNC Start=1573895><P Class=KRCC>
+오늘 내가 아주 중요한 미션이 있거든
+<SYNC Start=1576697><P Class=KRCC>&nbsp;
+<SYNC Start=1576699><P Class=KRCC>
+네가 좀 도와줬으면 하는데
+<SYNC Start=1578933><P Class=KRCC>&nbsp;
+<SYNC Start=1578998><P Class=KRCC>
+무슨 미션?
+<SYNC Start=1580667><P Class=KRCC>&nbsp;
+<SYNC Start=1580669><P Class=KRCC>
+음.. 탐색
+<SYNC Start=1583737><P Class=KRCC>&nbsp;
+<SYNC Start=1583739><P Class=KRCC>
+무슨 탐색?
+<SYNC Start=1587341><P Class=KRCC>&nbsp;
+<SYNC Start=1587343><P Class=KRCC>
+휴매닉의 목적을 확장시키려면
+<SYNC Start=1590844><P Class=KRCC>&nbsp;
+<SYNC Start=1590846><P Class=KRCC>
+진짜 인간 경험을 주어야 하죠
+<SYNC Start=1592046><P Class=KRCC>&nbsp;
+<SYNC Start=1592145><P Class=KRCC>
+가족의 일원이 될 필요가 있어요
+<SYNC Start=1594682><P Class=KRCC>&nbsp;
+<SYNC Start=1594745><P Class=KRCC>
+가족을 위해서
+<SYNC Start=1596650><P Class=KRCC>&nbsp;
+<SYNC Start=1596652><P Class=KRCC>
+직접 받아들였죠
+<SYNC Start=1598652><P Class=KRCC>&nbsp;
+<SYNC Start=1601055><P Class=KRCC>
+와이프와 저는 불임문제로몇년을 힘들어 했어요
+<SYNC Start=1604658><P Class=KRCC>&nbsp;
+<SYNC Start=1604660><P Class=KRCC>
+결국에는 아이를 가질 수
+<SYNC Start=1606827><P Class=KRCC>&nbsp;
+<SYNC Start=1606860><P Class=KRCC>
+없다고 합의하게 됐죠
+<SYNC Start=1608095><P Class=KRCC>&nbsp;
+<SYNC Start=1608160><P Class=KRCC>
+이건 결혼의 중요한 효과에요
+<SYNC Start=1610431><P Class=KRCC>&nbsp;
+<SYNC Start=1610460><P Class=KRCC>
+우리가 행복하려는데,뭔가가 빠진거죠
+<SYNC Start=1613233><P Class=KRCC>&nbsp;
+<SYNC Start=1613768><P Class=KRCC>
+거기에 이단이 있는거에요
+<SYNC Start=1614901><P Class=KRCC>&nbsp;
+<SYNC Start=1614903><P Class=KRCC>
+그러니까, 휴매닉은무자녀 커플에게 치료제인 거군요
+<SYNC Start=1618905><P Class=KRCC>&nbsp;
+<SYNC Start=1618907><P Class=KRCC>
+입양, 대리출산.. 옵션이 많겠지만
+<SYNC Start=1622976><P Class=KRCC>&nbsp;
+<SYNC Start=1622978><P Class=KRCC>
+
+<SYNC Start=1625545><P Class=KRCC>&nbsp;
+<SYNC Start=1625547><P Class=KRCC>
+모두가 적절한 것은 아니죠
+<SYNC Start=1628415><P Class=KRCC>&nbsp;
+<SYNC Start=1628417><P Class=KRCC>
+사람들이 항상 필요로 하는건
+<SYNC Start=1630817><P Class=KRCC>&nbsp;
+<SYNC Start=1630819><P Class=KRCC>
+동반관계나 연결같은거에요
+<SYNC Start=1633386><P Class=KRCC>&nbsp;
+<SYNC Start=1633388><P Class=KRCC>
+이사회에게 더 말할 수 있다면
+<SYNC Start=1635922><P Class=KRCC>&nbsp;
+<SYNC Start=1636891><P Class=KRCC>
+공허함을 채우는것은매우 중요하다고 말하고 싶어요
+<SYNC Start=1638625><P Class=KRCC>&nbsp;
+<SYNC Start=1638627><P Class=KRCC>
+공감서비스 술집을세우는 것보다는 말이죠
+<SYNC Start=1642028><P Class=KRCC>&nbsp;
+<SYNC Start=1643164><P Class=KRCC>
+아마도 이러한 미래적 제안은
+<SYNC Start=1645165><P Class=KRCC>&nbsp;
+<SYNC Start=1645167><P Class=KRCC>
+많은 도덕적 질문을 키울거에요
+<SYNC Start=1648067><P Class=KRCC>&nbsp;
+<SYNC Start=1648069><P Class=KRCC>
+네, 하지만 큰 가능성도 키워요
+<SYNC Start=1650136><P Class=KRCC>&nbsp;
+<SYNC Start=1650138><P Class=KRCC>
+동의해요
+<SYNC Start=1651804><P Class=KRCC>&nbsp;
+<SYNC Start=1651806><P Class=KRCC>
+불행히, 장기적 관점으로 볼때야스모토 회사에서는
+<SYNC Start=1655475><P Class=KRCC>&nbsp;
+<SYNC Start=1655477><P Class=KRCC>
+이번 투자에 부정적이에요
+<SYNC Start=1659045><P Class=KRCC>&nbsp;
+<SYNC Start=1659047><P Class=KRCC>
+이사회의 결정은 지켜질거에요
+<SYNC Start=1661714><P Class=KRCC>&nbsp;
+<SYNC Start=1661716><P Class=KRCC>
+주주들에 대한 책임이 있으니까요
+<SYNC Start=1665151><P Class=KRCC>&nbsp;
+<SYNC Start=1666186><P Class=KRCC>
+그렇죠
+<SYNC Start=1667620><P Class=KRCC>&nbsp;
+<SYNC Start=1667622><P Class=KRCC>
+당연히 이해해요
+<SYNC Start=1669188><P Class=KRCC>&nbsp;
+<SYNC Start=1669190><P Class=KRCC>
+정말 시간내주셔서 감사합니다
+<SYNC Start=1671657><P Class=KRCC>&nbsp;
+<SYNC Start=1671659><P Class=KRCC>
+하지만, 사적인 시민으로는
+<SYNC Start=1673960><P Class=KRCC>&nbsp;
+<SYNC Start=1673962><P Class=KRCC>
+그런 책임을 질 의무가 없죠
+<SYNC Start=1677697><P Class=KRCC>&nbsp;
+<SYNC Start=1685005><P Class=KRCC>
+어떠니?
+<SYNC Start=1686806><P Class=KRCC>&nbsp;
+<SYNC Start=1686808><P Class=KRCC>
+좋아
+<SYNC Start=1688608><P Class=KRCC>&nbsp;
+<SYNC Start=1688610><P Class=KRCC>
+- 먹어볼래?- 그래
+<SYNC Start=1690743><P Class=KRCC>&nbsp;
+<SYNC Start=1692813><P Class=KRCC>
+좋은데
+<SYNC Start=1695047><P Class=KRCC>&nbsp;
+<SYNC Start=1695049><P Class=KRCC>
+내꺼 먹어볼래?
+<SYNC Start=1696816><P Class=KRCC>&nbsp;
+<SYNC Start=1696818><P Class=KRCC>
+그래
+<SYNC Start=1698184><P Class=KRCC>&nbsp;
+<SYNC Start=1700421><P Class=KRCC>
+그게 더 좋아
+<SYNC Start=1702354><P Class=KRCC>&nbsp;
+<SYNC Start=1702356><P Class=KRCC>
+바꿀래?
+<SYNC Start=1703789><P Class=KRCC>&nbsp;
+<SYNC Start=1703791><P Class=KRCC>
+응
+<SYNC Start=1705391><P Class=KRCC>&nbsp;
+<SYNC Start=1705393><P Class=KRCC>
+실례합니다
+<SYNC Start=1707493><P Class=KRCC>&nbsp;
+<SYNC Start=1707495><P Class=KRCC>
+- 이거요- 괜찮아요
+<SYNC Start=1709662><P Class=KRCC>&nbsp;
+<SYNC Start=1709664><P Class=KRCC>
+이건 당신 겁니다
+<SYNC Start=1711464><P Class=KRCC>&nbsp;
+<SYNC Start=1711466><P Class=KRCC>
+계산된거에요
+<SYNC Start=1712865><P Class=KRCC>&nbsp;
+<SYNC Start=1712867><P Class=KRCC>
+누가요?
+<SYNC Start=1714700><P Class=KRCC>&nbsp;
+<SYNC Start=1714702><P Class=KRCC>
+
+<SYNC Start=1717036><P Class=KRCC>&nbsp;
+<SYNC Start=1717038><P Class=KRCC>
+갔네요, 미안요
+<SYNC Start=1719538><P Class=KRCC>&nbsp;
+<SYNC Start=1722736><P Class=KRCC>
+네게 무슨일이 있었는지 안다, 곧 보자
+<SYNC Start=1725436><P Class=KRCC>&nbsp;
+<SYNC Start=1730784><P Class=KRCC>
+이리와, 가자
+<SYNC Start=1733686><P Class=KRCC>&nbsp;
+<SYNC Start=1733688><P Class=KRCC>
+엄마, 아이스크림 떨어졌잖아
+<SYNC Start=1737222><P Class=KRCC>&nbsp;
+<SYNC Start=1737224><P Class=KRCC>
+그래, 이거 가져
+<SYNC Start=1739625><P Class=KRCC>&nbsp;
+<SYNC Start=1739627><P Class=KRCC>
+그거 싫어
+<SYNC Start=1741126><P Class=KRCC>&nbsp;
+<SYNC Start=1741128><P Class=KRCC>
+다른게 좋아, 이런거
+<SYNC Start=1743228><P Class=KRCC>&nbsp;
+<SYNC Start=1743230><P Class=KRCC>
+이것밖에 없어
+<SYNC Start=1744496><P Class=KRCC>&nbsp;
+<SYNC Start=1744530><P Class=KRCC>
+그건 싫다고
+<SYNC Start=1746165><P Class=KRCC>&nbsp;
+<SYNC Start=1746499><P Class=KRCC>
+가자
+<SYNC Start=1747799><P Class=KRCC>&nbsp;
+<SYNC Start=1747801><P Class=KRCC>
+- 다른 아이스크림 줘- 이단
+<SYNC Start=1750369><P Class=KRCC>&nbsp;
+<SYNC Start=1750371><P Class=KRCC>
+지금 가야 돼
+<SYNC Start=1751570><P Class=KRCC>&nbsp;
+<SYNC Start=1751605><P Class=KRCC>
+- 싫어- 이단
+<SYNC Start=1753205><P Class=KRCC>&nbsp;
+<SYNC Start=1753207><P Class=KRCC>
+
+<SYNC Start=1755874><P Class=KRCC>&nbsp;
+<SYNC Start=1755876><P Class=KRCC>
+
+<SYNC Start=1758310><P Class=KRCC>&nbsp;
+<SYNC Start=1758312><P Class=KRCC>
+
+<SYNC Start=1760912><P Class=KRCC>&nbsp;
+<SYNC Start=1764884><P Class=KRCC>
+
+<SYNC Start=1767419><P Class=KRCC>&nbsp;
+<SYNC Start=1776429><P Class=KRCC>
+
+<SYNC Start=1779131><P Class=KRCC>&nbsp;
+<SYNC Start=1790476><P Class=KRCC>
+찾았을때부터 이랬어
+<SYNC Start=1792111><P Class=KRCC>&nbsp;
+<SYNC Start=1801987><P Class=KRCC>
+엄마 머리 진짜 이쁘다
+<SYNC Start=1804524><P Class=KRCC>&nbsp;
+<SYNC Start=1820470><P Class=KRCC>
+왜 그러는지 모르겠어
+<SYNC Start=1821671><P Class=KRCC>&nbsp;
+<SYNC Start=1821770><P Class=KRCC>
+내가 떠날때랑 달라
+<SYNC Start=1823873><P Class=KRCC>&nbsp;
+<SYNC Start=1824307><P Class=KRCC>
+안 그래
+<SYNC Start=1825307><P Class=KRCC>&nbsp;
+<SYNC Start=1826506><P Class=KRCC>
+나이 더 먹었잖아
+<SYNC Start=1827906><P Class=KRCC>&nbsp;
+<SYNC Start=1827908><P Class=KRCC>
+그런 말이 아니잖아
+<SYNC Start=1830075><P Class=KRCC>&nbsp;
+<SYNC Start=1830077><P Class=KRCC>
+변했다고
+<SYNC Start=1831376><P Class=KRCC>&nbsp;
+<SYNC Start=1831378><P Class=KRCC>
+자기도 그래, 그런게 삶이야
+<SYNC Start=1833178><P Class=KRCC>&nbsp;
+<SYNC Start=1833276><P Class=KRCC>
+우리 가족의 연속성이
+<SYNC Start=1834546><P Class=KRCC>&nbsp;
+<SYNC Start=1834575><P Class=KRCC>
+오래 중단됐었잖아
+<SYNC Start=1835947><P Class=KRCC>&nbsp;
+<SYNC Start=1835976><P Class=KRCC>
+재연결되는데 시간이 걸리는거야
+<SYNC Start=1837682><P Class=KRCC>&nbsp;
+<SYNC Start=1837684><P Class=KRCC>
+노력중이잖아
+<SYNC Start=1838850><P Class=KRCC>&nbsp;
+<SYNC Start=1838852><P Class=KRCC>
+- 그래?- 그래
+<SYNC Start=1841553><P Class=KRCC>&nbsp;
+<SYNC Start=1841555><P Class=KRCC>
+우리를 밀치는 느낌이라고
+<SYNC Start=1843855><P Class=KRCC>&nbsp;
+<SYNC Start=1844055><P Class=KRCC>
+무슨일인지는 모르겠지만
+<SYNC Start=1845290><P Class=KRCC>&nbsp;
+<SYNC Start=1845355><P Class=KRCC>
+느껴진다고, 걔도 느끼고
+<SYNC Start=1847025><P Class=KRCC>&nbsp;
+<SYNC Start=1847559><P Class=KRCC>
+네가 돌아온 순간부터 그래
+<SYNC Start=1849294><P Class=KRCC>&nbsp;
+<SYNC Start=1849296><P Class=KRCC>
+떠나기 전에도 쉽지 않았어
+<SYNC Start=1851029><P Class=KRCC>&nbsp;
+<SYNC Start=1851031><P Class=KRCC>
+당신한테처럼 쉽지 않다고
+<SYNC Start=1853565><P Class=KRCC>&nbsp;
+<SYNC Start=1853630><P Class=KRCC>
+우린 항상 다르게 느꼈어
+<SYNC Start=1855300><P Class=KRCC>&nbsp;
+<SYNC Start=1855302><P Class=KRCC>
+난 아들로서 대하고 있어
+<SYNC Start=1856868><P Class=KRCC>&nbsp;
+<SYNC Start=1856901><P Class=KRCC>
+나도 그래
+<SYNC Start=1858002><P Class=KRCC>&nbsp;
+<SYNC Start=1858337><P Class=KRCC>
+하지만
+<SYNC Start=1859470><P Class=KRCC>&nbsp;
+<SYNC Start=1859472><P Class=KRCC>
+오늘 날 보는데..당신도 봤어야 해
+<SYNC Start=1863441><P Class=KRCC>&nbsp;
+<SYNC Start=1863443><P Class=KRCC>
+꼭 날 증오하는듯 했어
+<SYNC Start=1866277><P Class=KRCC>&nbsp;
+<SYNC Start=1866279><P Class=KRCC>
+당신 증오하지 않아, 몰리당신을 사랑한다고
+<SYNC Start=1868513><P Class=KRCC>&nbsp;
+<SYNC Start=1868778><P Class=KRCC>
+날 사랑하는게 아냐
+<SYNC Start=1870982><P Class=KRCC>&nbsp;
+<SYNC Start=1870984><P Class=KRCC>
+당신이 걔한테 프로그램한대로
+<SYNC Start=1873584><P Class=KRCC>&nbsp;
+<SYNC Start=1873586><P Class=KRCC>
+명령을 실행하는거잖아
+<SYNC Start=1874919><P Class=KRCC>&nbsp;
+<SYNC Start=1874921><P Class=KRCC>
+행동은 마치
+<SYNC Start=1876254><P Class=KRCC>&nbsp;
+<SYNC Start=1876256><P Class=KRCC>
+사랑과 닯았지
+<SYNC Start=1878022><P Class=KRCC>&nbsp;
+<SYNC Start=1878024><P Class=KRCC>
+그건 사랑이 아냐
+<SYNC Start=1879423><P Class=KRCC>&nbsp;
+<SYNC Start=1881226><P Class=KRCC>
+어째야 하는지 모르겠다
+<SYNC Start=1883161><P Class=KRCC>&nbsp;
+<SYNC Start=1883225><P Class=KRCC>
+하지만 당신도 알게 될거야
+<SYNC Start=1885696><P Class=KRCC>&nbsp;
+<SYNC Start=1885725><P Class=KRCC>
+우리가 부모로서 있게 해준다는걸
+<SYNC Start=1889300><P Class=KRCC>&nbsp;
+<SYNC Start=1893171><P Class=KRCC>
+야스모토에서 펀딩 받았어
+<SYNC Start=1895773><P Class=KRCC>&nbsp;
+<SYNC Start=1895775><P Class=KRCC>
+바로 시작할거야
+<SYNC Start=1898342><P Class=KRCC>&nbsp;
+<SYNC Start=1969714><P Class=KRCC>
+녹화 시작
+<SYNC Start=1972048><P Class=KRCC>&nbsp;
+<SYNC Start=1987732><P Class=KRCC>
+마커스
+<SYNC Start=1990800><P Class=KRCC>&nbsp;
+<SYNC Start=1999410><P Class=KRCC>
+안녕?
+<SYNC Start=2001111><P Class=KRCC>&nbsp;
+<SYNC Start=2003013><P Class=KRCC>
+안녕
+<SYNC Start=2004914><P Class=KRCC>&nbsp;
+<SYNC Start=2005850><P Class=KRCC>
+도움이 필요하다고?
+<SYNC Start=2007383><P Class=KRCC>&nbsp;
+<SYNC Start=2009386><P Class=KRCC>
+도움
+<SYNC Start=2011087><P Class=KRCC>&nbsp;
+<SYNC Start=2016193><P Class=KRCC>
+어떻게 해 줄까?
+<SYNC Start=2017894><P Class=KRCC>&nbsp;
+<SYNC Start=2021398><P Class=KRCC>
+해
+<SYNC Start=2024267><P Class=KRCC>&nbsp;
+<SYNC Start=2043620><P Class=KRCC>
+그래 괜찮아
+<SYNC Start=2045254><P Class=KRCC>&nbsp;
+<SYNC Start=2047524><P Class=KRCC>
+그래
+<SYNC Start=2049458><P Class=KRCC>&nbsp;
+<SYNC Start=2049460><P Class=KRCC>
+괜찮아
+<SYNC Start=2052428><P Class=KRCC>&nbsp;
+<SYNC Start=2088365><P Class=KRCC>
+
+<SYNC Start=2089999><P Class=KRCC>&nbsp;
+<SYNC Start=2100376><P Class=KRCC>
+
+<SYNC Start=2102010><P Class=KRCC>&nbsp;
+<SYNC Start=2102946><P Class=KRCC>
+
+<SYNC Start=2104947><P Class=KRCC>&nbsp;
+<SYNC Start=2104949><P Class=KRCC>
+
+<SYNC Start=2106348><P Class=KRCC>&nbsp;
+<SYNC Start=2109452><P Class=KRCC>
+
+<SYNC Start=2111587><P Class=KRCC>&nbsp;
+<SYNC Start=2135331><P Class=KRCC>
+몰리
+<SYNC Start=2138000><P Class=KRCC>&nbsp;
+<SYNC Start=2139436><P Class=KRCC>
+어제는 미안해
+<SYNC Start=2140936><P Class=KRCC>&nbsp;
+<SYNC Start=2144575><P Class=KRCC>
+뭐, 틀린말 한거도 아니잖아
+<SYNC Start=2147843><P Class=KRCC>&nbsp;
+<SYNC Start=2147845><P Class=KRCC>
+야스모토와의 이번 기회는..
+<SYNC Start=2152347><P Class=KRCC>&nbsp;
+<SYNC Start=2152349><P Class=KRCC>
+이상적인 시기는 아니겠지만
+<SYNC Start=2155117><P Class=KRCC>&nbsp;
+<SYNC Start=2155119><P Class=KRCC>
+몰리, 우린 해낼 수 있어
+<SYNC Start=2158754><P Class=KRCC>&nbsp;
+<SYNC Start=2158756><P Class=KRCC>
+우린 해낼거야
+<SYNC Start=2161590><P Class=KRCC>&nbsp;
+<SYNC Start=2164093><P Class=KRCC>
+내가 축하한다고 말했던가?
+<SYNC Start=2166261><P Class=KRCC>&nbsp;
+<SYNC Start=2168064><P Class=KRCC>
+아니
+<SYNC Start=2168832><P Class=KRCC>&nbsp;
+<SYNC Start=2170734><P Class=KRCC>
+축하해
+<SYNC Start=2171536><P Class=KRCC>&nbsp;
+<SYNC Start=2182078><P Class=KRCC>
+이런 확장 미션후의 재진입은
+<SYNC Start=2183945><P Class=KRCC>&nbsp;
+<SYNC Start=2183976><P Class=KRCC>
+도전이 될 수 있어요, 특히
+<SYNC Start=2186114><P Class=KRCC>&nbsp;
+<SYNC Start=2186116><P Class=KRCC>
+배우자와 자녀가 있을경우는요
+<SYNC Start=2189317><P Class=KRCC>&nbsp;
+<SYNC Start=2189319><P Class=KRCC>
+그래서, 기관이이 미팅을 요청한거에요
+<SYNC Start=2192787><P Class=KRCC>&nbsp;
+<SYNC Start=2196425><P Class=KRCC>
+이 사무실이 당신에게성역이 되었으면 좋겠어요
+<SYNC Start=2199294><P Class=KRCC>&nbsp;
+<SYNC Start=2199296><P Class=KRCC>
+당신이 어느것이든
+<SYNC Start=2201129><P Class=KRCC>&nbsp;
+<SYNC Start=2201131><P Class=KRCC>
+모든걸 말할 수 있는 곳이요
+<SYNC Start=2202664><P Class=KRCC>&nbsp;
+<SYNC Start=2202830><P Class=KRCC>
+이곳에는 동료이셨던
+<SYNC Start=2204099><P Class=KRCC>&nbsp;
+<SYNC Start=2204130><P Class=KRCC>
+크래거 박사의 자료는 없지만필요할 거에요
+<SYNC Start=2207268><P Class=KRCC>&nbsp;
+<SYNC Start=2207270><P Class=KRCC>
+기관은 그의 정신상태에 대한
+<SYNC Start=2210104><P Class=KRCC>&nbsp;
+<SYNC Start=2210906><P Class=KRCC>
+관심 부족이 자살의 요인이라고생각하고, 나도 동의해요
+<SYNC Start=2213541><P Class=KRCC>&nbsp;
+<SYNC Start=2213543><P Class=KRCC>
+변화기에 관한 평가를 가지고
+<SYNC Start=2215944><P Class=KRCC>&nbsp;
+<SYNC Start=2215946><P Class=KRCC>
+시작해보는건 어떨까요
+<SYNC Start=2217845><P Class=KRCC>&nbsp;
+<SYNC Start=2218314><P Class=KRCC>
+기분은 어떠세요?
+<SYNC Start=2220148><P Class=KRCC>&nbsp;
+<SYNC Start=2220150><P Class=KRCC>
+물리적으로요?
+<SYNC Start=2221916><P Class=KRCC>&nbsp;
+<SYNC Start=2221918><P Class=KRCC>
+무엇이든 말해보세요
+<SYNC Start=2223651><P Class=KRCC>&nbsp;
+<SYNC Start=2223653><P Class=KRCC>
+물리적
+<SYNC Start=2225787><P Class=KRCC>&nbsp;
+<SYNC Start=2225789><P Class=KRCC>
+감정적, 정신적..
+<SYNC Start=2228022><P Class=KRCC>&nbsp;
+<SYNC Start=2263859><P Class=KRCC>
+
+<SYNC Start=2265292><P Class=KRCC>&nbsp;
+<SYNC Start=2265294><P Class=KRCC>
+재생 시작
+<SYNC Start=2267561><P Class=KRCC>&nbsp;
+<SYNC Start=2419546><P Class=KRCC>
+하몬?
+<SYNC Start=2421013><P Class=KRCC>&nbsp;
+<SYNC Start=2423450><P Class=KRCC>
+나야
+<SYNC Start=2426452><P Class=KRCC>&nbsp;
+<SYNC Start=2426454><P Class=KRCC>
+나 진짜야
+<SYNC Start=2428487><P Class=KRCC>&nbsp;
+<SYNC Start=2428489><P Class=KRCC>
+세라핌에서 본 것 같은게 아냐
+<SYNC Start=2430222><P Class=KRCC>&nbsp;
+<SYNC Start=2430224><P Class=KRCC>
+환각이 아냐
+<SYNC Start=2432391><P Class=KRCC>&nbsp;
+<SYNC Start=2435028><P Class=KRCC>
+다들 네가 죽은줄 알아
+<SYNC Start=2436996><P Class=KRCC>&nbsp;
+<SYNC Start=2436998><P Class=KRCC>
+여기.. 오면 안됐어
+<SYNC Start=2439331><P Class=KRCC>&nbsp;
+<SYNC Start=2439833><P Class=KRCC>
+하몬, 말해줘
+<SYNC Start=2441734><P Class=KRCC>&nbsp;
+<SYNC Start=2441736><P Class=KRCC>
+무슨 일이야?
+<SYNC Start=2442735><P Class=KRCC>&nbsp;
+<SYNC Start=2443137><P Class=KRCC>
+몰리, 저녁 다 됐어
+<SYNC Start=2444403><P Class=KRCC>&nbsp;
+<SYNC Start=2444405><P Class=KRCC>
+내가 찾아갈게
+<SYNC Start=2445604><P Class=KRCC>&nbsp;
+<SYNC Start=2445606><P Class=KRCC>
+그때까지, 조심해
+<SYNC Start=2448974><P Class=KRCC>&nbsp;
+<SYNC Start=2448976><P Class=KRCC>
+그들을 믿지 마
+<SYNC Start=2450676><P Class=KRCC>&nbsp;
+<SYNC Start=2450678><P Class=KRCC>
+누구?
+<SYNC Start=2451645><P Class=KRCC>&nbsp;
+<SYNC Start=2452547><P Class=KRCC>
+아무도
+<SYNC Start=2453813><P Class=KRCC>&nbsp;
+<SYNC Start=2457284><P Class=KRCC>
+아무도
+<SYNC Start=2458484><P Class=KRCC>&nbsp;
+<SYNC Start=2467495><P Class=KRCC>
+- Synced and corrected by oykubuyuk -- www.addic7ed.com -
+<SYNC Start=2470496><P Class=KRCC>&nbsp;
+
+<SYNC Start=61083><P Class=ENCC>
+Mom? Are you too sick to come to the party?
+<SYNC Start=64886><P Class=ENCC>&nbsp;
+<SYNC Start=68290><P Class=ENCC>
+I'm fine.
+<SYNC Start=70391><P Class=ENCC>&nbsp;
+<SYNC Start=70393><P Class=ENCC>
+You know, it's just my bodyreadjusting, that's all.
+<SYNC Start=74462><P Class=ENCC>&nbsp;
+<SYNC Start=76131><P Class=ENCC>
+I'll be right there, okay?
+<SYNC Start=77865><P Class=ENCC>&nbsp;
+<SYNC Start=89578><P Class=ENCC>
+Still no answers as towhat caused yesterday's blackout,
+<SYNC Start=92380><P Class=ENCC>&nbsp;
+<SYNC Start=92382><P Class=ENCC>
+leaving nearly 60,000 homesin the district without power.
+<SYNC Start=96050><P Class=ENCC>&nbsp;
+<SYNC Start=99556><P Class=ENCC>
+I can't imagine.
+<SYNC Start=101722><P Class=ENCC>&nbsp;
+<SYNC Start=101724><P Class=ENCC>
+I'm away from Bill and the kidsfor two days, and it's like...
+<SYNC Start=104358><P Class=ENCC>&nbsp;
+<SYNC Start=104360><P Class=ENCC>
+It's tough.
+<SYNC Start=105593><P Class=ENCC>&nbsp;
+<SYNC Start=105595><P Class=ENCC>
+Oh, yeah. So what's your secret?
+<SYNC Start=106827><P Class=ENCC>&nbsp;
+<SYNC Start=106829><P Class=ENCC>
+A lot of V-Chrons.
+<SYNC Start=108095><P Class=ENCC>&nbsp;
+<SYNC Start=108097><P Class=ENCC>
+And no alcohol?
+<SYNC Start=109430><P Class=ENCC>&nbsp;
+<SYNC Start=109432><P Class=ENCC>
+Nope. I have not had a drink in 13 months.
+<SYNC Start=111865><P Class=ENCC>&nbsp;
+<SYNC Start=112831><P Class=ENCC>
+- What?- Can't risk getting a DUI in space.
+<SYNC Start=114834><P Class=ENCC>&nbsp;
+<SYNC Start=115030><P Class=ENCC>
+I can't wait to hear all about it.
+<SYNC Start=115797><P Class=ENCC>&nbsp;
+<SYNC Start=115830><P Class=ENCC>
+You know what, that'sthe saddest story I've
+<SYNC Start=117429><P Class=ENCC>&nbsp;
+<SYNC Start=117431><P Class=ENCC>
+ever heard. We have toremedy that right now.
+<SYNC Start=119632><P Class=ENCC>&nbsp;
+<SYNC Start=119730><P Class=ENCC>
+- Uh, we can't.- No can'ts, we're doing shots.
+<SYNC Start=121463><P Class=ENCC>&nbsp;
+<SYNC Start=121465><P Class=ENCC>
+Mm-hmm, well, ask the doctor here.
+<SYNC Start=123031><P Class=ENCC>&nbsp;
+<SYNC Start=123033><P Class=ENCC>
+- Not until her tests come back.- One shot.
+<SYNC Start=125334><P Class=ENCC>&nbsp;
+<SYNC Start=125336><P Class=ENCC>
+Listen, when her tests come back,
+<SYNC Start=126635><P Class=ENCC>&nbsp;
+<SYNC Start=126637><P Class=ENCC>
+I will personally write her
+<SYNC Start=127903><P Class=ENCC>&nbsp;
+<SYNC Start=127905><P Class=ENCC>
+a prescription for margaritas.
+<SYNC Start=129638><P Class=ENCC>&nbsp;
+<SYNC Start=129640><P Class=ENCC>
+Thank you.
+<SYNC Start=132574><P Class=ENCC>&nbsp;
+<SYNC Start=132576><P Class=ENCC>
+Ethan, get off him!
+<SYNC Start=135077><P Class=ENCC>&nbsp;
+<SYNC Start=135079><P Class=ENCC>
+Stop.
+<SYNC Start=137145><P Class=ENCC>&nbsp;
+<SYNC Start=137147><P Class=ENCC>
+You're gonna hurt him.
+<SYNC Start=138780><P Class=ENCC>&nbsp;
+<SYNC Start=138782><P Class=ENCC>
+Ethan.
+<SYNC Start=140048><P Class=ENCC>&nbsp;
+<SYNC Start=140050><P Class=ENCC>
+Hey. What are you doing?
+<SYNC Start=141283><P Class=ENCC>&nbsp;
+<SYNC Start=141285><P Class=ENCC>
+He wouldn't give me the ball.
+<SYNC Start=142651><P Class=ENCC>&nbsp;
+<SYNC Start=142653><P Class=ENCC>
+And your solution was to push him down?
+<SYNC Start=145020><P Class=ENCC>&nbsp;
+<SYNC Start=145888><P Class=ENCC>
+Ethan, what do you say?
+<SYNC Start=148056><P Class=ENCC>&nbsp;
+<SYNC Start=149458><P Class=ENCC>
+I'm sorry.
+<SYNC Start=150759><P Class=ENCC>&nbsp;
+<SYNC Start=150761><P Class=ENCC>
+It's okay.
+<SYNC Start=152861><P Class=ENCC>&nbsp;
+<SYNC Start=152863><P Class=ENCC>
+If you do this again, no moreparty for you. Understand?
+<SYNC Start=156298><P Class=ENCC>&nbsp;
+<SYNC Start=156300><P Class=ENCC>
+So sorry, guys.
+<SYNC Start=158533><P Class=ENCC>&nbsp;
+<SYNC Start=158535><P Class=ENCC>
+Yeah. All right, it's fine.
+<SYNC Start=159982><P Class=ENCC>&nbsp;
+<SYNC Start=160007><P Class=ENCC>
+- You okay?- That's okay.
+<SYNC Start=161293><P Class=ENCC>&nbsp;
+<SYNC Start=164407><P Class=ENCC>
+Let's go play.
+<SYNC Start=166574><P Class=ENCC>&nbsp;
+<SYNC Start=178120><P Class=ENCC>
+You've got to be exhausted, go on up.
+<SYNC Start=180889><P Class=ENCC>&nbsp;
+<SYNC Start=180891><P Class=ENCC>
+I can take out the trash.
+<SYNC Start=183391><P Class=ENCC>&nbsp;
+<SYNC Start=183393><P Class=ENCC>
+Moll.
+<SYNC Start=185526><P Class=ENCC>&nbsp;
+<SYNC Start=185528><P Class=ENCC>
+Got to get back to the routine, right?
+<SYNC Start=187895><P Class=ENCC>&nbsp;
+<SYNC Start=235677><P Class=ENCC>
+I was angry.
+<SYNC Start=237611><P Class=ENCC>&nbsp;
+<SYNC Start=237613><P Class=ENCC>
+Is that what you're supposedto do when you get angry?
+<SYNC Start=239914><P Class=ENCC>&nbsp;
+<SYNC Start=239916><P Class=ENCC>
+Hurt someone?
+<SYNC Start=241148><P Class=ENCC>&nbsp;
+<SYNC Start=241150><P Class=ENCC>
+No.
+<SYNC Start=243150><P Class=ENCC>&nbsp;
+<SYNC Start=243152><P Class=ENCC>
+How do you think you would havefelt if you'd really hurt Jake?
+<SYNC Start=246120><P Class=ENCC>&nbsp;
+<SYNC Start=248323><P Class=ENCC>
+Bad.
+<SYNC Start=249657><P Class=ENCC>&nbsp;
+<SYNC Start=249659><P Class=ENCC>
+Well, I sure hope so.
+<SYNC Start=251592><P Class=ENCC>&nbsp;
+<SYNC Start=251594><P Class=ENCC>
+Mom's mad at me.
+<SYNC Start=253227><P Class=ENCC>&nbsp;
+<SYNC Start=253229><P Class=ENCC>
+No, no. She's not mad.
+<SYNC Start=254895><P Class=ENCC>&nbsp;
+<SYNC Start=254897><P Class=ENCC>
+But it's different now. With her.
+<SYNC Start=258632><P Class=ENCC>&nbsp;
+<SYNC Start=258634><P Class=ENCC>
+Your mom has to get usedto being back home again.
+<SYNC Start=262002><P Class=ENCC>&nbsp;
+<SYNC Start=262004><P Class=ENCC>
+She was up there a long time.
+<SYNC Start=263771><P Class=ENCC>&nbsp;
+<SYNC Start=263773><P Class=ENCC>
+All by herself.
+<SYNC Start=265639><P Class=ENCC>&nbsp;
+<SYNC Start=265641><P Class=ENCC>
+It's gonna take a while foreverything to feel normal again,
+<SYNC Start=267908><P Class=ENCC>&nbsp;
+<SYNC Start=267910><P Class=ENCC>
+but it will. I promise.
+<SYNC Start=270577><P Class=ENCC>&nbsp;
+<SYNC Start=271846><P Class=ENCC>
+Okay.
+<SYNC Start=273380><P Class=ENCC>&nbsp;
+<SYNC Start=273382><P Class=ENCC>
+Get a good night's sleep.
+<SYNC Start=274948><P Class=ENCC>&nbsp;
+<SYNC Start=274950><P Class=ENCC>
+We have a big day tomorrow.
+<SYNC Start=277017><P Class=ENCC>&nbsp;
+<SYNC Start=277019><P Class=ENCC>
+I think I need a flip.
+<SYNC Start=279153><P Class=ENCC>&nbsp;
+<SYNC Start=279155><P Class=ENCC>
+Let me see.
+<SYNC Start=281321><P Class=ENCC>&nbsp;
+<SYNC Start=290865><P Class=ENCC>
+Well, yeah.
+<SYNC Start=292399><P Class=ENCC>&nbsp;
+<SYNC Start=292401><P Class=ENCC>
+You're right.
+<SYNC Start=294568><P Class=ENCC>&nbsp;
+<SYNC Start=310785><P Class=ENCC>
+All set.
+<SYNC Start=312853><P Class=ENCC>&nbsp;
+<SYNC Start=315990><P Class=ENCC>
+I love you.
+<SYNC Start=318558><P Class=ENCC>&nbsp;
+<SYNC Start=322129><P Class=ENCC>
+Will you leave my night-light on?
+<SYNC Start=324564><P Class=ENCC>&nbsp;
+<SYNC Start=324566><P Class=ENCC>
+Sure.
+<SYNC Start=326766><P Class=ENCC>&nbsp;
+<SYNC Start=452258><P Class=ENCC>
+What brought this on?
+<SYNC Start=454426><P Class=ENCC>&nbsp;
+<SYNC Start=457697><P Class=ENCC>
+I had a dream.
+<SYNC Start=459164><P Class=ENCC>&nbsp;
+<SYNC Start=460633><P Class=ENCC>
+Do you dream about Marcus much?
+<SYNC Start=463168><P Class=ENCC>&nbsp;
+<SYNC Start=463170><P Class=ENCC>
+Less and less as I get older.
+<SYNC Start=465037><P Class=ENCC>&nbsp;
+<SYNC Start=465039><P Class=ENCC>
+I still think about him.Every now and then.
+<SYNC Start=467873><P Class=ENCC>&nbsp;
+<SYNC Start=472044><P Class=ENCC>
+What do you think about?
+<SYNC Start=474212><P Class=ENCC>&nbsp;
+<SYNC Start=476749><P Class=ENCC>
+How if he were still alive,there would be no us.
+<SYNC Start=479985><P Class=ENCC>&nbsp;
+<SYNC Start=479987><P Class=ENCC>
+No Ethan.
+<SYNC Start=481253><P Class=ENCC>&nbsp;
+<SYNC Start=481255><P Class=ENCC>
+Without Marcus dying,
+<SYNC Start=483388><P Class=ENCC>&nbsp;
+<SYNC Start=483390><P Class=ENCC>
+we may have never even met.
+<SYNC Start=486224><P Class=ENCC>&nbsp;
+<SYNC Start=486226><P Class=ENCC>
+Maybe you'd still be with him.
+<SYNC Start=488893><P Class=ENCC>&nbsp;
+<SYNC Start=488895><P Class=ENCC>
+Well, you know what?
+<SYNC Start=492764><P Class=ENCC>&nbsp;
+<SYNC Start=492766><P Class=ENCC>
+I think we always end up
+<SYNC Start=496001><P Class=ENCC>&nbsp;
+<SYNC Start=496003><P Class=ENCC>
+where we're supposed to.
+<SYNC Start=498136><P Class=ENCC>&nbsp;
+<SYNC Start=510316><P Class=ENCC>
+Approaching Yasumoto Corp.
+<SYNC Start=513918><P Class=ENCC>&nbsp;
+<SYNC Start=522795><P Class=ENCC>
+Hey.
+<SYNC Start=524729><P Class=ENCC>&nbsp;
+<SYNC Start=524731><P Class=ENCC>
+Listen to me.
+<SYNC Start=526431><P Class=ENCC>&nbsp;
+<SYNC Start=526433><P Class=ENCC>
+When I talk about you today...
+<SYNC Start=528099><P Class=ENCC>&nbsp;
+<SYNC Start=528101><P Class=ENCC>
+Hey.
+<SYNC Start=529901><P Class=ENCC>&nbsp;
+<SYNC Start=529903><P Class=ENCC>
+When I talk about you today,
+<SYNC Start=531636><P Class=ENCC>&nbsp;
+<SYNC Start=531638><P Class=ENCC>
+I'm gonna talk a bit abouthow you were originally created
+<SYNC Start=534272><P Class=ENCC>&nbsp;
+<SYNC Start=534274><P Class=ENCC>
+for the program, but it doesn't mean
+<SYNC Start=535807><P Class=ENCC>&nbsp;
+<SYNC Start=535809><P Class=ENCC>
+I don't see you as real.
+<SYNC Start=536941><P Class=ENCC>&nbsp;
+<SYNC Start=536943><P Class=ENCC>
+- Okay?- I'm not.
+<SYNC Start=538309><P Class=ENCC>&nbsp;
+<SYNC Start=538311><P Class=ENCC>
+Well... Yes, you are.
+<SYNC Start=539544><P Class=ENCC>&nbsp;
+<SYNC Start=539546><P Class=ENCC>
+You exist, just like me.
+<SYNC Start=541446><P Class=ENCC>&nbsp;
+<SYNC Start=541448><P Class=ENCC>
+Just like your mom. Okay?
+<SYNC Start=543548><P Class=ENCC>&nbsp;
+<SYNC Start=543550><P Class=ENCC>
+Jubes!
+<SYNC Start=545449><P Class=ENCC>&nbsp;
+<SYNC Start=545451><P Class=ENCC>
+Rabbit!
+<SYNC Start=547151><P Class=ENCC>&nbsp;
+<SYNC Start=547153><P Class=ENCC>
+Oh.
+<SYNC Start=549487><P Class=ENCC>&nbsp;
+<SYNC Start=553893><P Class=ENCC>
+Look at you.
+<SYNC Start=555192><P Class=ENCC>&nbsp;
+<SYNC Start=555194><P Class=ENCC>
+He's been practicing.
+<SYNC Start=556193><P Class=ENCC>&nbsp;
+<SYNC Start=556195><P Class=ENCC>
+You nervous?
+<SYNC Start=558095><P Class=ENCC>&nbsp;
+<SYNC Start=558097><P Class=ENCC>
+Uh... Walk in the park.
+<SYNC Start=560665><P Class=ENCC>&nbsp;
+<SYNC Start=560667><P Class=ENCC>
+Exactly.
+<SYNC Start=562867><P Class=ENCC>&nbsp;
+<SYNC Start=565337><P Class=ENCC>
+I don't even know
+<SYNC Start=566871><P Class=ENCC>&nbsp;
+<SYNC Start=566873><P Class=ENCC>
+where to begin.
+<SYNC Start=568305><P Class=ENCC>&nbsp;
+<SYNC Start=572310><P Class=ENCC>
+You were on the Seraphim Station
+<SYNC Start=574111><P Class=ENCC>&nbsp;
+<SYNC Start=574113><P Class=ENCC>
+for 13 months.
+<SYNC Start=575346><P Class=ENCC>&nbsp;
+<SYNC Start=575348><P Class=ENCC>
+A solo mission.
+<SYNC Start=576680><P Class=ENCC>&nbsp;
+<SYNC Start=576682><P Class=ENCC>
+Yes.
+<SYNC Start=578582><P Class=ENCC>&nbsp;
+<SYNC Start=578584><P Class=ENCC>
+You were alone the whole time?
+<SYNC Start=580784><P Class=ENCC>&nbsp;
+<SYNC Start=582153><P Class=ENCC>
+Well, that's why theycall it a solo mission.
+<SYNC Start=585356><P Class=ENCC>&nbsp;
+<SYNC Start=586592><P Class=ENCC>
+Well...
+<SYNC Start=588325><P Class=ENCC>&nbsp;
+<SYNC Start=588327><P Class=ENCC>
+Then I... I honestly d...I don't understand this.
+<SYNC Start=591395><P Class=ENCC>&nbsp;
+<SYNC Start=591397><P Class=ENCC>
+Understand what?
+<SYNC Start=592997><P Class=ENCC>&nbsp;
+<SYNC Start=592999><P Class=ENCC>
+I know there weren't any other
+<SYNC Start=595366><P Class=ENCC>&nbsp;
+<SYNC Start=595368><P Class=ENCC>
+ISEA missions in that quadrant.
+<SYNC Start=597401><P Class=ENCC>&nbsp;
+<SYNC Start=597403><P Class=ENCC>
+Molly,
+<SYNC Start=599336><P Class=ENCC>&nbsp;
+<SYNC Start=599338><P Class=ENCC>
+was there an emergency
+<SYNC Start=601805><P Class=ENCC>&nbsp;
+<SYNC Start=601807><P Class=ENCC>
+that I didn't hear about,
+<SYNC Start=603073><P Class=ENCC>&nbsp;
+<SYNC Start=603075><P Class=ENCC>
+an international crew that docked?
+<SYNC Start=605476><P Class=ENCC>&nbsp;
+<SYNC Start=606311><P Class=ENCC>
+No.
+<SYNC Start=607945><P Class=ENCC>&nbsp;
+<SYNC Start=607947><P Class=ENCC>
+Why?
+<SYNC Start=609713><P Class=ENCC>&nbsp;
+<SYNC Start=610615><P Class=ENCC>
+You're pregnant.
+<SYNC Start=613350><P Class=ENCC>&nbsp;
+<SYNC Start=613352><P Class=ENCC>
+What?
+<SYNC Start=614718><P Class=ENCC>&nbsp;
+<SYNC Start=614720><P Class=ENCC>
+You're pregnant.
+<SYNC Start=617221><P Class=ENCC>&nbsp;
+<SYNC Start=617223><P Class=ENCC>
+But... But...
+<SYNC Start=618722><P Class=ENCC>&nbsp;
+<SYNC Start=618724><P Class=ENCC>
+that's not possible.
+<SYNC Start=620724><P Class=ENCC>&nbsp;
+<SYNC Start=676547><P Class=ENCC>
+Damn it.
+<SYNC Start=677847><P Class=ENCC>&nbsp;
+<SYNC Start=677849><P Class=ENCC>
+Five dollars for the swear jar.
+<SYNC Start=681050><P Class=ENCC>&nbsp;
+<SYNC Start=681052><P Class=ENCC>
+Put it on my tab.
+<SYNC Start=683052><P Class=ENCC>&nbsp;
+<SYNC Start=683054><P Class=ENCC>
+Of course.
+<SYNC Start=684821><P Class=ENCC>&nbsp;
+<SYNC Start=684823><P Class=ENCC>
+Let's run the probe's data deck
+<SYNC Start=686055><P Class=ENCC>&nbsp;
+<SYNC Start=686057><P Class=ENCC>
+and check for problems with the samples.
+<SYNC Start=688925><P Class=ENCC>&nbsp;
+<SYNC Start=688927><P Class=ENCC>
+Maybe I contaminated 'emsomehow before they left.
+<SYNC Start=692762><P Class=ENCC>&nbsp;
+<SYNC Start=692764><P Class=ENCC>
+I find that unlikely.
+<SYNC Start=694897><P Class=ENCC>&nbsp;
+<SYNC Start=694899><P Class=ENCC>
+Aren't you sweet.
+<SYNC Start=697467><P Class=ENCC>&nbsp;
+<SYNC Start=697469><P Class=ENCC>
+I have my moments.
+<SYNC Start=700103><P Class=ENCC>&nbsp;
+<SYNC Start=703407><P Class=ENCC>
+Molly.
+<SYNC Start=705141><P Class=ENCC>&nbsp;
+<SYNC Start=705143><P Class=ENCC>
+Go ahead.
+<SYNC Start=706743><P Class=ENCC>&nbsp;
+<SYNC Start=706745><P Class=ENCC>
+You have an incoming V-Chron.
+<SYNC Start=708044><P Class=ENCC>&nbsp;
+<SYNC Start=708046><P Class=ENCC>
+Bay 1, please.
+<SYNC Start=709278><P Class=ENCC>&nbsp;
+<SYNC Start=709280><P Class=ENCC>
+Sending Bay 1.
+<SYNC Start=710746><P Class=ENCC>&nbsp;
+<SYNC Start=714418><P Class=ENCC>
+The camera's on.
+<SYNC Start=715585><P Class=ENCC>&nbsp;
+<SYNC Start=715587><P Class=ENCC>
+Say hello.
+<SYNC Start=717119><P Class=ENCC>&nbsp;
+<SYNC Start=717121><P Class=ENCC>
+Hello.
+<SYNC Start=718821><P Class=ENCC>&nbsp;
+<SYNC Start=718823><P Class=ENCC>
+You want to tell her?
+<SYNC Start=720823><P Class=ENCC>&nbsp;
+<SYNC Start=720825><P Class=ENCC>
+Go ahead.
+<SYNC Start=722258><P Class=ENCC>&nbsp;
+<SYNC Start=722260><P Class=ENCC>
+I got accepted into school.
+<SYNC Start=723993><P Class=ENCC>&nbsp;
+<SYNC Start=723995><P Class=ENCC>
+I had my last meeting withthe principal this morning.
+<SYNC Start=727129><P Class=ENCC>&nbsp;
+<SYNC Start=727131><P Class=ENCC>
+We're gonna wait for youto get back for the orie...
+<SYNC Start=730399><P Class=ENCC>&nbsp;
+<SYNC Start=730401><P Class=ENCC>
+Ben?
+<SYNC Start=731967><P Class=ENCC>&nbsp;
+<SYNC Start=731969><P Class=ENCC>
+I'm detecting interferencefrom a solar flare.
+<SYNC Start=734236><P Class=ENCC>&nbsp;
+<SYNC Start=734238><P Class=ENCC>
+Shall I attempt to restart after it passes?
+<SYNC Start=736672><P Class=ENCC>&nbsp;
+<SYNC Start=736674><P Class=ENCC>
+Sure.
+<SYNC Start=738607><P Class=ENCC>&nbsp;
+<SYNC Start=740844><P Class=ENCC>
+Attempt to re...
+<SYNC Start=743813><P Class=ENCC>&nbsp;
+<SYNC Start=746584><P Class=ENCC>
+Ben?
+<SYNC Start=749185><P Class=ENCC>&nbsp;
+<SYNC Start=750153><P Class=ENCC>
+Ben?
+<SYNC Start=752187><P Class=ENCC>&nbsp;
+<SYNC Start=863360><P Class=ENCC>
+- Synced and corrected by oykubuyuk -- www.addic7ed.com
+<SYNC Start=867660><P Class=ENCC>&nbsp;
+<SYNC Start=882461><P Class=ENCC>
+There has to be some kind of explanation.
+<SYNC Start=883928><P Class=ENCC>&nbsp;
+<SYNC Start=884796><P Class=ENCC>
+How about you made a mistake.
+<SYNC Start=886197><P Class=ENCC>&nbsp;
+<SYNC Start=886199><P Class=ENCC>
+Molly, I ran every single samplefrom your tether twice.
+<SYNC Start=890467><P Class=ENCC>&nbsp;
+<SYNC Start=891998><P Class=ENCC>
+Are you sure there was no one else?
+<SYNC Start=895233><P Class=ENCC>&nbsp;
+<SYNC Start=895235><P Class=ENCC>
+How many times are you gonna ask me this?
+<SYNC Start=897400><P Class=ENCC>&nbsp;
+<SYNC Start=897435><P Class=ENCC>
+And even if there was,you know I can't get pregnant.
+<SYNC Start=899603><P Class=ENCC>&nbsp;
+<SYNC Start=899635><P Class=ENCC>
+We tried for years.
+<SYNC Start=900668><P Class=ENCC>&nbsp;
+<SYNC Start=900670><P Class=ENCC>
+Were you taking the fertility drugs?
+<SYNC Start=903104><P Class=ENCC>&nbsp;
+<SYNC Start=903106><P Class=ENCC>
+No. No.
+<SYNC Start=906474><P Class=ENCC>&nbsp;
+<SYNC Start=906476><P Class=ENCC>
+I... I stopped takingthose way before Ethan.
+<SYNC Start=910511><P Class=ENCC>&nbsp;
+<SYNC Start=910513><P Class=ENCC>
+I'm just asking every rationalquestion I can think of for the report.
+<SYNC Start=913614><P Class=ENCC>&nbsp;
+<SYNC Start=913949><P Class=ENCC>
+You can't put this in the report.
+<SYNC Start=915817><P Class=ENCC>&nbsp;
+<SYNC Start=915819><P Class=ENCC>
+Molly, this report goesstraight to Director Sparks.
+<SYNC Start=917986><P Class=ENCC>&nbsp;
+<SYNC Start=918387><P Class=ENCC>
+I can't lie.
+<SYNC Start=919253><P Class=ENCC>&nbsp;
+<SYNC Start=919255><P Class=ENCC>
+I'm not asking you to lie.
+<SYNC Start=920621><P Class=ENCC>&nbsp;
+<SYNC Start=921256><P Class=ENCC>
+I'm asking for some time.
+<SYNC Start=922490><P Class=ENCC>&nbsp;
+<SYNC Start=922492><P Class=ENCC>
+As my friend.
+<SYNC Start=923991><P Class=ENCC>&nbsp;
+<SYNC Start=923993><P Class=ENCC>
+As your friend, I should be admitting you
+<SYNC Start=926260><P Class=ENCC>&nbsp;
+<SYNC Start=926262><P Class=ENCC>
+for observation right now.
+<SYNC Start=928529><P Class=ENCC>&nbsp;
+<SYNC Start=928531><P Class=ENCC>
+That's exactly what I'm afraid of.
+<SYNC Start=929964><P Class=ENCC>&nbsp;
+<SYNC Start=930732><P Class=ENCC>
+I just got back to my family, Sam.
+<SYNC Start=932166><P Class=ENCC>&nbsp;
+<SYNC Start=932168><P Class=ENCC>
+I don't want to end up in quarantine.
+<SYNC Start=934402><P Class=ENCC>&nbsp;
+<SYNC Start=934937><P Class=ENCC>
+Just give me some time tofigure it out before I tell John.
+<SYNC Start=938306><P Class=ENCC>&nbsp;
+<SYNC Start=942011><P Class=ENCC>
+At the Humanichs Project
+<SYNC Start=945012><P Class=ENCC>&nbsp;
+<SYNC Start=945014><P Class=ENCC>
+we recognize that we livein a world of machines.
+<SYNC Start=948249><P Class=ENCC>&nbsp;
+<SYNC Start=949618><P Class=ENCC>
+Most of us interact
+<SYNC Start=951619><P Class=ENCC>&nbsp;
+<SYNC Start=951621><P Class=ENCC>
+with one form or anotherfrom the time we wake up
+<SYNC Start=953854><P Class=ENCC>&nbsp;
+<SYNC Start=954523><P Class=ENCC>
+until the time we go to sleep.
+<SYNC Start=955756><P Class=ENCC>&nbsp;
+<SYNC Start=955825><P Class=ENCC>
+We've outsourced many of ourday-to-day activities to robots
+<SYNC Start=959260><P Class=ENCC>&nbsp;
+<SYNC Start=959262><P Class=ENCC>
+that have made our livesway more efficient,
+<SYNC Start=961729><P Class=ENCC>&nbsp;
+<SYNC Start=961731><P Class=ENCC>
+but in the process we've removedthe all-important element
+<SYNC Start=964565><P Class=ENCC>&nbsp;
+<SYNC Start=964567><P Class=ENCC>
+of human connection.
+<SYNC Start=966033><P Class=ENCC>&nbsp;
+<SYNC Start=966035><P Class=ENCC>
+Deep down, we all know
+<SYNC Start=967968><P Class=ENCC>&nbsp;
+<SYNC Start=967970><P Class=ENCC>
+that robots are not really human.
+<SYNC Start=970237><P Class=ENCC>&nbsp;
+<SYNC Start=970239><P Class=ENCC>
+A Medi-Assist bot has
+<SYNC Start=972173><P Class=ENCC>&nbsp;
+<SYNC Start=972175><P Class=ENCC>
+100% accuracy ratingwhen administering a vaccine,
+<SYNC Start=975075><P Class=ENCC>&nbsp;
+<SYNC Start=975077><P Class=ENCC>
+but it cannot comfort a child
+<SYNC Start=977077><P Class=ENCC>&nbsp;
+<SYNC Start=977079><P Class=ENCC>
+who's afraid of the needle.
+<SYNC Start=978712><P Class=ENCC>&nbsp;
+<SYNC Start=978714><P Class=ENCC>
+A task-android can processyour bank deposit,
+<SYNC Start=982650><P Class=ENCC>&nbsp;
+<SYNC Start=982652><P Class=ENCC>
+but it can't share your joy
+<SYNC Start=984184><P Class=ENCC>&nbsp;
+<SYNC Start=984251><P Class=ENCC>
+when it helps you buy your first home.
+<SYNC Start=985853><P Class=ENCC>&nbsp;
+<SYNC Start=986655><P Class=ENCC>
+It turns out the true uncanny valley
+<SYNC Start=989056><P Class=ENCC>&nbsp;
+<SYNC Start=989058><P Class=ENCC>
+isn't visual at all. It's thevalley of genuine connection.
+<SYNC Start=992526><P Class=ENCC>&nbsp;
+<SYNC Start=992528><P Class=ENCC>
+The goal of the HumanichsProject is to bridge that divide
+<SYNC Start=995696><P Class=ENCC>&nbsp;
+<SYNC Start=996498><P Class=ENCC>
+by bringing humanity to the machine.
+<SYNC Start=997965><P Class=ENCC>&nbsp;
+<SYNC Start=997967><P Class=ENCC>
+How are we going to do that?
+<SYNC Start=1000200><P Class=ENCC>&nbsp;
+<SYNC Start=1000202><P Class=ENCC>
+By creating an artificialintelligence designed
+<SYNC Start=1002803><P Class=ENCC>&nbsp;
+<SYNC Start=1002805><P Class=ENCC>
+from the very beginning to seek connection.
+<SYNC Start=1005072><P Class=ENCC>&nbsp;
+<SYNC Start=1005074><P Class=ENCC>
+Programmed not by onesand zeroes that we type
+<SYNC Start=1008242><P Class=ENCC>&nbsp;
+<SYNC Start=1008244><P Class=ENCC>
+into interfaces but byday-to-day human experience.
+<SYNC Start=1012279><P Class=ENCC>&nbsp;
+<SYNC Start=1013348><P Class=ENCC>
+Ladies and gentlemen,
+<SYNC Start=1014982><P Class=ENCC>&nbsp;
+<SYNC Start=1014984><P Class=ENCC>
+let me introduce you to my son.
+<SYNC Start=1016950><P Class=ENCC>&nbsp;
+<SYNC Start=1016952><P Class=ENCC>
+Ethan.
+<SYNC Start=1019152><P Class=ENCC>&nbsp;
+<SYNC Start=1019154><P Class=ENCC>
+Go get 'em, Rabbit.
+<SYNC Start=1022322><P Class=ENCC>&nbsp;
+<SYNC Start=1041676><P Class=ENCC>
+Harmon Kryger.
+<SYNC Start=1044344><P Class=ENCC>&nbsp;
+<SYNC Start=1044346><P Class=ENCC>
+He passed away before I came on board.
+<SYNC Start=1047480><P Class=ENCC>&nbsp;
+<SYNC Start=1047482><P Class=ENCC>
+Were you close?
+<SYNC Start=1049215><P Class=ENCC>&nbsp;
+<SYNC Start=1050051><P Class=ENCC>
+Yeah.
+<SYNC Start=1051818><P Class=ENCC>&nbsp;
+<SYNC Start=1051820><P Class=ENCC>
+- He was a good guy.- So I heard.
+<SYNC Start=1054688><P Class=ENCC>&nbsp;
+<SYNC Start=1054690><P Class=ENCC>
+Dr. Woods, I'm Gordon Kern.
+<SYNC Start=1056856><P Class=ENCC>&nbsp;
+<SYNC Start=1056858><P Class=ENCC>
+The new Deputy Director.
+<SYNC Start=1058124><P Class=ENCC>&nbsp;
+<SYNC Start=1058126><P Class=ENCC>
+That would be me.
+<SYNC Start=1060794><P Class=ENCC>&nbsp;
+<SYNC Start=1060796><P Class=ENCC>
+It's a tragic situation.
+<SYNC Start=1062429><P Class=ENCC>&nbsp;
+<SYNC Start=1062431><P Class=ENCC>
+Shall we?
+<SYNC Start=1064664><P Class=ENCC>&nbsp;
+<SYNC Start=1064666><P Class=ENCC>
+I have to be honest. Ispent all weekend preparing
+<SYNC Start=1067734><P Class=ENCC>&nbsp;
+<SYNC Start=1067736><P Class=ENCC>
+- to grill you on your logs.- Mm.
+<SYNC Start=1070236><P Class=ENCC>&nbsp;
+<SYNC Start=1070238><P Class=ENCC>
+but your work is incredibly thorough.
+<SYNC Start=1072172><P Class=ENCC>&nbsp;
+<SYNC Start=1072174><P Class=ENCC>
+Leaves very little left to the imagination.
+<SYNC Start=1075208><P Class=ENCC>&nbsp;
+<SYNC Start=1075210><P Class=ENCC>
+There was one thing.
+<SYNC Start=1077143><P Class=ENCC>&nbsp;
+<SYNC Start=1077145><P Class=ENCC>
+- The gap.- Yes, the gap.
+<SYNC Start=1079579><P Class=ENCC>&nbsp;
+<SYNC Start=1079581><P Class=ENCC>
+Well, that's easily explained, actually...
+<SYNC Start=1081915><P Class=ENCC>&nbsp;
+<SYNC Start=1081917><P Class=ENCC>
+If you don't mind, we'llwait for Director Sparks.
+<SYNC Start=1084384><P Class=ENCC>&nbsp;
+<SYNC Start=1085019><P Class=ENCC>
+I know he has questions.
+<SYNC Start=1086252><P Class=ENCC>&nbsp;
+<SYNC Start=1088156><P Class=ENCC>
+Well, there's something I'm sureeveryone in this room is...
+<SYNC Start=1090890><P Class=ENCC>&nbsp;
+<SYNC Start=1090892><P Class=ENCC>
+curious about, but we're all either too...
+<SYNC Start=1093359><P Class=ENCC>&nbsp;
+<SYNC Start=1093361><P Class=ENCC>
+polite or too embarrassed to ask.
+<SYNC Start=1096729><P Class=ENCC>&nbsp;
+<SYNC Start=1096731><P Class=ENCC>
+The robot uprising, am I right?
+<SYNC Start=1099532><P Class=ENCC>&nbsp;
+<SYNC Start=1099534><P Class=ENCC>
+What's to stop the Humanichsfrom overthrowing us one day
+<SYNC Start=1102468><P Class=ENCC>&nbsp;
+<SYNC Start=1102470><P Class=ENCC>
+and enslaving their human overlords?
+<SYNC Start=1104537><P Class=ENCC>&nbsp;
+<SYNC Start=1104539><P Class=ENCC>
+Is that the question?
+<SYNC Start=1106105><P Class=ENCC>&nbsp;
+<SYNC Start=1107374><P Class=ENCC>
+Absolutely nothing.
+<SYNC Start=1109675><P Class=ENCC>&nbsp;
+<SYNC Start=1109677><P Class=ENCC>
+How then would an owner controland manage their behavior?
+<SYNC Start=1112511><P Class=ENCC>&nbsp;
+<SYNC Start=1112575><P Class=ENCC>
+It's not a master-slave relationship.
+<SYNC Start=1114714><P Class=ENCC>&nbsp;
+<SYNC Start=1114716><P Class=ENCC>
+My partners and I
+<SYNC Start=1116382><P Class=ENCC>&nbsp;
+<SYNC Start=1116384><P Class=ENCC>
+believe if we want machinesto be more human,
+<SYNC Start=1119185><P Class=ENCC>&nbsp;
+<SYNC Start=1119187><P Class=ENCC>
+we have to give them the human experience.
+<SYNC Start=1121454><P Class=ENCC>&nbsp;
+<SYNC Start=1121456><P Class=ENCC>
+They have to learn like children learn.
+<SYNC Start=1123823><P Class=ENCC>&nbsp;
+<SYNC Start=1123825><P Class=ENCC>
+The Humanichs brainlearns right from wrong,
+<SYNC Start=1126158><P Class=ENCC>&nbsp;
+<SYNC Start=1126160><P Class=ENCC>
+good from bad, the same way we all did.
+<SYNC Start=1127893><P Class=ENCC>&nbsp;
+<SYNC Start=1128028><P Class=ENCC>
+For the most part.
+<SYNC Start=1129095><P Class=ENCC>&nbsp;
+<SYNC Start=1129197><P Class=ENCC>
+What do you mean, for the most part?
+<SYNC Start=1130863><P Class=ENCC>&nbsp;
+<SYNC Start=1131126><P Class=ENCC>
+Well, there is no guarantee with any child,
+<SYNC Start=1132565><P Class=ENCC>&nbsp;
+<SYNC Start=1132625><P Class=ENCC>
+because, in the end, they'refree to choose their own path.
+<SYNC Start=1135434><P Class=ENCC>&nbsp;
+<SYNC Start=1135936><P Class=ENCC>
+Dr. Woods, my name is Femi Dodd.
+<SYNC Start=1137736><P Class=ENCC>&nbsp;
+<SYNC Start=1137738><P Class=ENCC>
+I chair a number ofprograms for Mr. Yasumoto.
+<SYNC Start=1139905><P Class=ENCC>&nbsp;
+<SYNC Start=1141007><P Class=ENCC>
+What is the protocol inthe event your experiment fails?
+<SYNC Start=1143709><P Class=ENCC>&nbsp;
+<SYNC Start=1143711><P Class=ENCC>
+Do you have an emergencyplan for their shutdown?
+<SYNC Start=1146278><P Class=ENCC>&nbsp;
+<SYNC Start=1146280><P Class=ENCC>
+To preserve their power? Absolutely.
+<SYNC Start=1147713><P Class=ENCC>&nbsp;
+<SYNC Start=1147715><P Class=ENCC>
+It's called Interlude Mode.
+<SYNC Start=1149348><P Class=ENCC>&nbsp;
+<SYNC Start=1149350><P Class=ENCC>
+- Do you mind?- Excuse me,
+<SYNC Start=1150716><P Class=ENCC>&nbsp;
+<SYNC Start=1151015><P Class=ENCC>
+Dr. Woods. I'm sorry.
+<SYNC Start=1151884><P Class=ENCC>&nbsp;
+<SYNC Start=1151915><P Class=ENCC>
+I didn't mean for the resting mode.
+<SYNC Start=1153185><P Class=ENCC>&nbsp;
+<SYNC Start=1153415><P Class=ENCC>
+I meant for their termination.
+<SYNC Start=1155054><P Class=ENCC>&nbsp;
+<SYNC Start=1155056><P Class=ENCC>
+To kill them?
+<SYNC Start=1156322><P Class=ENCC>&nbsp;
+<SYNC Start=1156324><P Class=ENCC>
+That wording is a bit inelegant but yes.
+<SYNC Start=1159925><P Class=ENCC>&nbsp;
+<SYNC Start=1161261><P Class=ENCC>
+Do you have a child?
+<SYNC Start=1163462><P Class=ENCC>&nbsp;
+<SYNC Start=1164297><P Class=ENCC>
+I have a daughter.
+<SYNC Start=1166432><P Class=ENCC>&nbsp;
+<SYNC Start=1166434><P Class=ENCC>
+Do you have a plan to kill her?
+<SYNC Start=1168367><P Class=ENCC>&nbsp;
+<SYNC Start=1169202><P Class=ENCC>
+My daughter's a human being.
+<SYNC Start=1171770><P Class=ENCC>&nbsp;
+<SYNC Start=1171772><P Class=ENCC>
+I don't understand the difference.
+<SYNC Start=1173305><P Class=ENCC>&nbsp;
+<SYNC Start=1173307><P Class=ENCC>
+Well, for starters, she has a soul.
+<SYNC Start=1175974><P Class=ENCC>&nbsp;
+<SYNC Start=1175976><P Class=ENCC>
+With all due respect, Ms. Dodd,
+<SYNC Start=1178043><P Class=ENCC>&nbsp;
+<SYNC Start=1178045><P Class=ENCC>
+there is no such thing as a soul.
+<SYNC Start=1180312><P Class=ENCC>&nbsp;
+<SYNC Start=1180813><P Class=ENCC>
+What you call a soul,
+<SYNC Start=1181913><P Class=ENCC>&nbsp;
+<SYNC Start=1181915><P Class=ENCC>
+I call a cumulative effectof a lifetime of experience.
+<SYNC Start=1185083><P Class=ENCC>&nbsp;
+<SYNC Start=1185085><P Class=ENCC>
+Simple information traveling in theneuropathways in your daughter's brain.
+<SYNC Start=1187919><P Class=ENCC>&nbsp;
+<SYNC Start=1188415><P Class=ENCC>
+Believe it or not, Dr. Woods, there are
+<SYNC Start=1189755><P Class=ENCC>&nbsp;
+<SYNC Start=1189915><P Class=ENCC>
+plenty of people in this worldwho still believe that there is
+<SYNC Start=1192224><P Class=ENCC>&nbsp;
+<SYNC Start=1192415><P Class=ENCC>
+more to us than can beexplained by science.
+<SYNC Start=1193925><P Class=ENCC>&nbsp;
+<SYNC Start=1194193><P Class=ENCC>
+Well...
+<SYNC Start=1196061><P Class=ENCC>&nbsp;
+<SYNC Start=1196063><P Class=ENCC>
+those people are idiots.
+<SYNC Start=1197562><P Class=ENCC>&nbsp;
+<SYNC Start=1197564><P Class=ENCC>
+- Dr. Woods.- I am one of those idiots.
+<SYNC Start=1199564><P Class=ENCC>&nbsp;
+<SYNC Start=1199863><P Class=ENCC>
+- I'm sorry.- I accept your apology.
+<SYNC Start=1201800><P Class=ENCC>&nbsp;
+<SYNC Start=1201802><P Class=ENCC>
+No, I mean I'm sorry you're one
+<SYNC Start=1203159><P Class=ENCC>&nbsp;
+<SYNC Start=1203184><P Class=ENCC>
+- of those idiots.- That's enough.
+<SYNC Start=1204527><P Class=ENCC>&nbsp;
+<SYNC Start=1204583><P Class=ENCC>
+- How dare you?- How dare you ask me
+<SYNC Start=1206238><P Class=ENCC>&nbsp;
+<SYNC Start=1206283><P Class=ENCC>
+do I have a contingencyplan to murder my son.
+<SYNC Start=1207973><P Class=ENCC>&nbsp;
+<SYNC Start=1208381><P Class=ENCC>
+And you're asking us for fundingthat can unleash thousands,
+<SYNC Start=1210842><P Class=ENCC>&nbsp;
+<SYNC Start=1210844><P Class=ENCC>
+maybe millions of theseHumanichs on the world.
+<SYNC Start=1212944><P Class=ENCC>&nbsp;
+<SYNC Start=1213713><P Class=ENCC>
+It's a perfectly valid question.
+<SYNC Start=1214946><P Class=ENCC>&nbsp;
+<SYNC Start=1214948><P Class=ENCC>
+What sort of controls and restrictions
+<SYNC Start=1216982><P Class=ENCC>&nbsp;
+<SYNC Start=1216984><P Class=ENCC>
+would you put in place to ensurethey behave properly?
+<SYNC Start=1220251><P Class=ENCC>&nbsp;
+<SYNC Start=1220253><P Class=ENCC>
+And I gave you my answer, Mr. Segers.
+<SYNC Start=1222687><P Class=ENCC>&nbsp;
+<SYNC Start=1222689><P Class=ENCC>
+Absolutely none.
+<SYNC Start=1224856><P Class=ENCC>&nbsp;
+<SYNC Start=1224858><P Class=ENCC>
+The security and life support systems
+<SYNC Start=1226291><P Class=ENCC>&nbsp;
+<SYNC Start=1226388><P Class=ENCC>
+were back online almost immediately,
+<SYNC Start=1228393><P Class=ENCC>&nbsp;
+<SYNC Start=1228395><P Class=ENCC>
+but the communication system
+<SYNC Start=1229761><P Class=ENCC>&nbsp;
+<SYNC Start=1229763><P Class=ENCC>
+stayed down for approximately 13 hours.
+<SYNC Start=1232363><P Class=ENCC>&nbsp;
+<SYNC Start=1232365><P Class=ENCC>
+As it says in my log book there,I spent most of that time
+<SYNC Start=1235867><P Class=ENCC>&nbsp;
+<SYNC Start=1235965><P Class=ENCC>
+trying to get the systemup and running again, but,
+<SYNC Start=1238603><P Class=ENCC>&nbsp;
+<SYNC Start=1238605><P Class=ENCC>
+unfortunately, I was unsuccessful.
+<SYNC Start=1241539><P Class=ENCC>&nbsp;
+<SYNC Start=1241541><P Class=ENCC>
+I then went to sleep for three hours,
+<SYNC Start=1244776><P Class=ENCC>&nbsp;
+<SYNC Start=1244778><P Class=ENCC>
+and when I woke up, everything seemed
+<SYNC Start=1247845><P Class=ENCC>&nbsp;
+<SYNC Start=1247847><P Class=ENCC>
+back to normal.
+<SYNC Start=1249213><P Class=ENCC>&nbsp;
+<SYNC Start=1249215><P Class=ENCC>
+It took you all that time to reboot Ben?
+<SYNC Start=1251149><P Class=ENCC>&nbsp;
+<SYNC Start=1251315><P Class=ENCC>
+Have you ever tried to work on that thing?
+<SYNC Start=1252951><P Class=ENCC>&nbsp;
+<SYNC Start=1253619><P Class=ENCC>
+No.
+<SYNC Start=1255586><P Class=ENCC>&nbsp;
+<SYNC Start=1255588><P Class=ENCC>
+During that 13 hours,did anything else happen?
+<SYNC Start=1257689><P Class=ENCC>&nbsp;
+<SYNC Start=1258323><P Class=ENCC>
+- Anything anomalous?- Uh...
+<SYNC Start=1260224><P Class=ENCC>&nbsp;
+<SYNC Start=1260226><P Class=ENCC>
+Related to the solar flare?
+<SYNC Start=1261826><P Class=ENCC>&nbsp;
+<SYNC Start=1261828><P Class=ENCC>
+Everything is right here in the log.
+<SYNC Start=1263928><P Class=ENCC>&nbsp;
+<SYNC Start=1263930><P Class=ENCC>
+There's one thing I'd like to clear up.
+<SYNC Start=1266164><P Class=ENCC>&nbsp;
+<SYNC Start=1266166><P Class=ENCC>
+The security system records each quadrant
+<SYNC Start=1268332><P Class=ENCC>&nbsp;
+<SYNC Start=1268334><P Class=ENCC>
+of the Seraphim with banksof surveillance cameras.
+<SYNC Start=1271202><P Class=ENCC>&nbsp;
+<SYNC Start=1271204><P Class=ENCC>
+Presumably, they were up and running
+<SYNC Start=1272870><P Class=ENCC>&nbsp;
+<SYNC Start=1273103><P Class=ENCC>
+as soon as that emergencypower kicked back on,
+<SYNC Start=1275373><P Class=ENCC>&nbsp;
+<SYNC Start=1275375><P Class=ENCC>
+but that footage was deletedfrom the system's memory.
+<SYNC Start=1277508><P Class=ENCC>&nbsp;
+<SYNC Start=1278076><P Class=ENCC>
+There had been several
+<SYNC Start=1279076><P Class=ENCC>&nbsp;
+<SYNC Start=1279078><P Class=ENCC>
+instances of interferencein the months prior,
+<SYNC Start=1281078><P Class=ENCC>&nbsp;
+<SYNC Start=1281080><P Class=ENCC>
+but none quite to this level.
+<SYNC Start=1283814><P Class=ENCC>&nbsp;
+<SYNC Start=1283816><P Class=ENCC>
+In the past, what I had done is
+<SYNC Start=1286150><P Class=ENCC>&nbsp;
+<SYNC Start=1286152><P Class=ENCC>
+make a copy of the footage, just in case.
+<SYNC Start=1288653><P Class=ENCC>&nbsp;
+<SYNC Start=1289051><P Class=ENCC>
+I went to do the same thing this time,
+<SYNC Start=1290321><P Class=ENCC>&nbsp;
+<SYNC Start=1290350><P Class=ENCC>
+but instead of copying the footage,
+<SYNC Start=1292289><P Class=ENCC>&nbsp;
+<SYNC Start=1292291><P Class=ENCC>
+I accidentally deleted it.
+<SYNC Start=1293724><P Class=ENCC>&nbsp;
+<SYNC Start=1293726><P Class=ENCC>
+The only record of that time
+<SYNC Start=1296193><P Class=ENCC>&nbsp;
+<SYNC Start=1296195><P Class=ENCC>
+is what I manually entered into my log.
+<SYNC Start=1298562><P Class=ENCC>&nbsp;
+<SYNC Start=1299664><P Class=ENCC>
+I take complete responsibilityfor that error, sir.
+<SYNC Start=1302066><P Class=ENCC>&nbsp;
+<SYNC Start=1302068><P Class=ENCC>
+Well, sounds like we didn't miss much.
+<SYNC Start=1304735><P Class=ENCC>&nbsp;
+<SYNC Start=1304737><P Class=ENCC>
+Just me swearing at abunch of inanimate objects.
+<SYNC Start=1308939><P Class=ENCC>&nbsp;
+<SYNC Start=1311043><P Class=ENCC>
+I'm still waiting for yourmedical examinations,
+<SYNC Start=1313811><P Class=ENCC>&nbsp;
+<SYNC Start=1313813><P Class=ENCC>
+but as soon as I've hada chance to review them,
+<SYNC Start=1316080><P Class=ENCC>&nbsp;
+<SYNC Start=1316511><P Class=ENCC>
+and you complete a seriesof psychiatric evaluations,
+<SYNC Start=1319149><P Class=ENCC>&nbsp;
+<SYNC Start=1319151><P Class=ENCC>
+we'll put this one in the books.
+<SYNC Start=1321151><P Class=ENCC>&nbsp;
+<SYNC Start=1321153><P Class=ENCC>
+Psychiatric evaluations?
+<SYNC Start=1323587><P Class=ENCC>&nbsp;
+<SYNC Start=1323589><P Class=ENCC>
+Just a few meetings inaddition to your post-morts.
+<SYNC Start=1325589><P Class=ENCC>&nbsp;
+<SYNC Start=1326157><P Class=ENCC>
+To help with your reentry.
+<SYNC Start=1327291><P Class=ENCC>&nbsp;
+<SYNC Start=1327293><P Class=ENCC>
+It's a change in agency policyafter what happened
+<SYNC Start=1329426><P Class=ENCC>&nbsp;
+<SYNC Start=1329491><P Class=ENCC>
+with Harmon Kryger last year.
+<SYNC Start=1331328><P Class=ENCC>&nbsp;
+<SYNC Start=1331330><P Class=ENCC>
+I probably should have warnedyou before I brought you over.
+<SYNC Start=1333297><P Class=ENCC>&nbsp;
+<SYNC Start=1333330><P Class=ENCC>
+There's just as much bureaucracy
+<SYNC Start=1335165><P Class=ENCC>&nbsp;
+<SYNC Start=1335167><P Class=ENCC>
+now that we're in the private sector.
+<SYNC Start=1336667><P Class=ENCC>&nbsp;
+<SYNC Start=1336766><P Class=ENCC>
+Sir, if you want to make it,you'd better leave now.
+<SYNC Start=1339203><P Class=ENCC>&nbsp;
+<SYNC Start=1339871><P Class=ENCC>
+Off-campus meeting.
+<SYNC Start=1341505><P Class=ENCC>&nbsp;
+<SYNC Start=1341507><P Class=ENCC>
+It's a pleasure to have you back, Molly.
+<SYNC Start=1344107><P Class=ENCC>&nbsp;
+<SYNC Start=1344109><P Class=ENCC>
+You were missed.
+<SYNC Start=1345576><P Class=ENCC>&nbsp;
+<SYNC Start=1345578><P Class=ENCC>
+Thank you, sir.
+<SYNC Start=1347344><P Class=ENCC>&nbsp;
+<SYNC Start=1369134><P Class=ENCC>
+How's he doing?
+<SYNC Start=1371868><P Class=ENCC>&nbsp;
+<SYNC Start=1371870><P Class=ENCC>
+He's ready.
+<SYNC Start=1373036><P Class=ENCC>&nbsp;
+<SYNC Start=1397094><P Class=ENCC>
+Welcome back, Mr. Yasumoto.
+<SYNC Start=1399729><P Class=ENCC>&nbsp;
+<SYNC Start=1403734><P Class=ENCC>
+We found something of ananomaly on the Seraphim.
+<SYNC Start=1407237><P Class=ENCC>&nbsp;
+<SYNC Start=1407239><P Class=ENCC>
+An anomaly?
+<SYNC Start=1409873><P Class=ENCC>&nbsp;
+<SYNC Start=1409875><P Class=ENCC>
+Another solar flare knocked outthe communications system.
+<SYNC Start=1415612><P Class=ENCC>&nbsp;
+<SYNC Start=1415614><P Class=ENCC>
+Like Kryger.
+<SYNC Start=1417447><P Class=ENCC>&nbsp;
+<SYNC Start=1417449><P Class=ENCC>
+Yes.
+<SYNC Start=1419415><P Class=ENCC>&nbsp;
+<SYNC Start=1419417><P Class=ENCC>
+But, unlike Kryger,
+<SYNC Start=1421184><P Class=ENCC>&nbsp;
+<SYNC Start=1421186><P Class=ENCC>
+we're missing the security camera footage
+<SYNC Start=1423987><P Class=ENCC>&nbsp;
+<SYNC Start=1423989><P Class=ENCC>
+for the 13 hours that followed.
+<SYNC Start=1427123><P Class=ENCC>&nbsp;
+<SYNC Start=1427125><P Class=ENCC>
+That seems like an unlikely coincidence.
+<SYNC Start=1430193><P Class=ENCC>&nbsp;
+<SYNC Start=1430195><P Class=ENCC>
+Even more so if you knowthe astronaut involved.
+<SYNC Start=1433429><P Class=ENCC>&nbsp;
+<SYNC Start=1433431><P Class=ENCC>
+Molly Woods.
+<SYNC Start=1435932><P Class=ENCC>&nbsp;
+<SYNC Start=1435934><P Class=ENCC>
+She claims she accidentally deleted it.
+<SYNC Start=1439435><P Class=ENCC>&nbsp;
+<SYNC Start=1442139><P Class=ENCC>
+You don't believe her?
+<SYNC Start=1444874><P Class=ENCC>&nbsp;
+<SYNC Start=1444876><P Class=ENCC>
+No.
+<SYNC Start=1447410><P Class=ENCC>&nbsp;
+<SYNC Start=1448445><P Class=ENCC>
+Why not?
+<SYNC Start=1450813><P Class=ENCC>&nbsp;
+<SYNC Start=1450815><P Class=ENCC>
+Because she doesn't makethose kinds of mistakes.
+<SYNC Start=1453449><P Class=ENCC>&nbsp;
+<SYNC Start=1459056><P Class=ENCC>
+This could be everything.
+<SYNC Start=1461490><P Class=ENCC>&nbsp;
+<SYNC Start=1461492><P Class=ENCC>
+Stay close.
+<SYNC Start=1463926><P Class=ENCC>&nbsp;
+<SYNC Start=1463928><P Class=ENCC>
+About that.
+<SYNC Start=1466128><P Class=ENCC>&nbsp;
+<SYNC Start=1466130><P Class=ENCC>
+Her husband John gave a presentation
+<SYNC Start=1469031><P Class=ENCC>&nbsp;
+<SYNC Start=1469033><P Class=ENCC>
+to your board today,but was denied funding.
+<SYNC Start=1471901><P Class=ENCC>&nbsp;
+<SYNC Start=1471903><P Class=ENCC>
+I can only do so much from the ISEA.
+<SYNC Start=1475771><P Class=ENCC>&nbsp;
+<SYNC Start=1475773><P Class=ENCC>
+A gesture from you couldput us closer to the family.
+<SYNC Start=1479875><P Class=ENCC>&nbsp;
+<SYNC Start=1479877><P Class=ENCC>
+It might make it easierto keep an eye on her.
+<SYNC Start=1482978><P Class=ENCC>&nbsp;
+<SYNC Start=1499621><P Class=ENCC>
+This is the last one.
+<SYNC Start=1502156><P Class=ENCC>&nbsp;
+<SYNC Start=1506396><P Class=ENCC>
+Oh, wow.
+<SYNC Start=1508362><P Class=ENCC>&nbsp;
+<SYNC Start=1510467><P Class=ENCC>
+John, you havean incoming call from Yasumoto Corp.
+<SYNC Start=1515002><P Class=ENCC>&nbsp;
+<SYNC Start=1545531><P Class=ENCC>
+Dr. Woods.
+<SYNC Start=1546667><P Class=ENCC>&nbsp;
+<SYNC Start=1546669><P Class=ENCC>
+Hideki Yasumoto.
+<SYNC Start=1548869><P Class=ENCC>&nbsp;
+<SYNC Start=1548871><P Class=ENCC>
+Thanks for coming.
+<SYNC Start=1550504><P Class=ENCC>&nbsp;
+<SYNC Start=1550506><P Class=ENCC>
+Oh, please. Uh, it's anhon... it's an honor.
+<SYNC Start=1553440><P Class=ENCC>&nbsp;
+<SYNC Start=1553442><P Class=ENCC>
+The honor is all mine.
+<SYNC Start=1555876><P Class=ENCC>&nbsp;
+<SYNC Start=1573895><P Class=ENCC>
+I have a very important mission today,
+<SYNC Start=1576697><P Class=ENCC>&nbsp;
+<SYNC Start=1576699><P Class=ENCC>
+and I think you're just the guy to help me.
+<SYNC Start=1578933><P Class=ENCC>&nbsp;
+<SYNC Start=1578998><P Class=ENCC>
+What kind of mission?
+<SYNC Start=1580667><P Class=ENCC>&nbsp;
+<SYNC Start=1580669><P Class=ENCC>
+Um... it's a search.
+<SYNC Start=1583737><P Class=ENCC>&nbsp;
+<SYNC Start=1583739><P Class=ENCC>
+A search for what?
+<SYNC Start=1587341><P Class=ENCC>&nbsp;
+<SYNC Start=1587343><P Class=ENCC>
+I realized that in order tofurther the goal of Humanichs,
+<SYNC Start=1590844><P Class=ENCC>&nbsp;
+<SYNC Start=1590846><P Class=ENCC>
+to give him a true human experience,
+<SYNC Start=1592046><P Class=ENCC>&nbsp;
+<SYNC Start=1592145><P Class=ENCC>
+he needed to be part of a family unit.
+<SYNC Start=1594682><P Class=ENCC>&nbsp;
+<SYNC Start=1594745><P Class=ENCC>
+To be raised in a home.
+<SYNC Start=1596650><P Class=ENCC>&nbsp;
+<SYNC Start=1596652><P Class=ENCC>
+So, I brought him into ours.
+<SYNC Start=1598652><P Class=ENCC>&nbsp;
+<SYNC Start=1601055><P Class=ENCC>
+My wife and I struggledfor years with infertility,
+<SYNC Start=1604658><P Class=ENCC>&nbsp;
+<SYNC Start=1604660><P Class=ENCC>
+and, eventually, we were toldwe would never be able
+<SYNC Start=1606827><P Class=ENCC>&nbsp;
+<SYNC Start=1606860><P Class=ENCC>
+to have a child.
+<SYNC Start=1608095><P Class=ENCC>&nbsp;
+<SYNC Start=1608160><P Class=ENCC>
+That can have a profoundeffect on a marriage.
+<SYNC Start=1610431><P Class=ENCC>&nbsp;
+<SYNC Start=1610460><P Class=ENCC>
+As happy as we were,there was something missing.
+<SYNC Start=1613233><P Class=ENCC>&nbsp;
+<SYNC Start=1613768><P Class=ENCC>
+And... and that was Ethan.
+<SYNC Start=1614901><P Class=ENCC>&nbsp;
+<SYNC Start=1614903><P Class=ENCC>
+So, you see Humanichs as a curefor childless couples.
+<SYNC Start=1618905><P Class=ENCC>&nbsp;
+<SYNC Start=1618907><P Class=ENCC>
+Adoption, surrogacy... thoseare all viable options...
+<SYNC Start=1622976><P Class=ENCC>&nbsp;
+<SYNC Start=1622978><P Class=ENCC>
+Thank you.
+<SYNC Start=1625545><P Class=ENCC>&nbsp;
+<SYNC Start=1625547><P Class=ENCC>
+but not everyone is a viable candidate.
+<SYNC Start=1628415><P Class=ENCC>&nbsp;
+<SYNC Start=1628417><P Class=ENCC>
+There will always be people with a need
+<SYNC Start=1630817><P Class=ENCC>&nbsp;
+<SYNC Start=1630819><P Class=ENCC>
+for companionship and... and connection.
+<SYNC Start=1633386><P Class=ENCC>&nbsp;
+<SYNC Start=1633388><P Class=ENCC>
+If your board had let mefinish, I would have told them
+<SYNC Start=1635922><P Class=ENCC>&nbsp;
+<SYNC Start=1636891><P Class=ENCC>
+that filling that voidis way more important
+<SYNC Start=1638625><P Class=ENCC>&nbsp;
+<SYNC Start=1638627><P Class=ENCC>
+than building a moreempathetic service bar.
+<SYNC Start=1642028><P Class=ENCC>&nbsp;
+<SYNC Start=1643164><P Class=ENCC>
+I'm sure you understand
+<SYNC Start=1645165><P Class=ENCC>&nbsp;
+<SYNC Start=1645167><P Class=ENCC>
+that the future you're proposingraises great moral questions.
+<SYNC Start=1648067><P Class=ENCC>&nbsp;
+<SYNC Start=1648069><P Class=ENCC>
+Yes, but it also raisesgreat possibilities.
+<SYNC Start=1650136><P Class=ENCC>&nbsp;
+<SYNC Start=1650138><P Class=ENCC>
+I agree.
+<SYNC Start=1651804><P Class=ENCC>&nbsp;
+<SYNC Start=1651806><P Class=ENCC>
+Unfortunately, the long-termprospects are too murky
+<SYNC Start=1655475><P Class=ENCC>&nbsp;
+<SYNC Start=1655477><P Class=ENCC>
+for Yasumoto Corporationto invest in at this time.
+<SYNC Start=1659045><P Class=ENCC>&nbsp;
+<SYNC Start=1659047><P Class=ENCC>
+The board's decision will have to stand.
+<SYNC Start=1661714><P Class=ENCC>&nbsp;
+<SYNC Start=1661716><P Class=ENCC>
+We have responsibilitiesto our shareholders.
+<SYNC Start=1665151><P Class=ENCC>&nbsp;
+<SYNC Start=1666186><P Class=ENCC>
+Of course.
+<SYNC Start=1667620><P Class=ENCC>&nbsp;
+<SYNC Start=1667622><P Class=ENCC>
+Yeah, I fully understand.
+<SYNC Start=1669188><P Class=ENCC>&nbsp;
+<SYNC Start=1669190><P Class=ENCC>
+I... I really just appreciate your time.
+<SYNC Start=1671657><P Class=ENCC>&nbsp;
+<SYNC Start=1671659><P Class=ENCC>
+However, as a private citizen,
+<SYNC Start=1673960><P Class=ENCC>&nbsp;
+<SYNC Start=1673962><P Class=ENCC>
+I would not be boundby those same responsibilities.
+<SYNC Start=1677697><P Class=ENCC>&nbsp;
+<SYNC Start=1685005><P Class=ENCC>
+How is it?
+<SYNC Start=1686806><P Class=ENCC>&nbsp;
+<SYNC Start=1686808><P Class=ENCC>
+Good.
+<SYNC Start=1688608><P Class=ENCC>&nbsp;
+<SYNC Start=1688610><P Class=ENCC>
+- Do you want to try?- Okay.
+<SYNC Start=1690743><P Class=ENCC>&nbsp;
+<SYNC Start=1692813><P Class=ENCC>
+Mmm. That is good.
+<SYNC Start=1695047><P Class=ENCC>&nbsp;
+<SYNC Start=1695049><P Class=ENCC>
+Want to try mine?
+<SYNC Start=1696816><P Class=ENCC>&nbsp;
+<SYNC Start=1696818><P Class=ENCC>
+Sure.
+<SYNC Start=1698184><P Class=ENCC>&nbsp;
+<SYNC Start=1700421><P Class=ENCC>
+I like yours better.
+<SYNC Start=1702354><P Class=ENCC>&nbsp;
+<SYNC Start=1702356><P Class=ENCC>
+Want to switch?
+<SYNC Start=1703789><P Class=ENCC>&nbsp;
+<SYNC Start=1703791><P Class=ENCC>
+Okay.
+<SYNC Start=1705391><P Class=ENCC>&nbsp;
+<SYNC Start=1705393><P Class=ENCC>
+Excuse me, ma'am.
+<SYNC Start=1707493><P Class=ENCC>&nbsp;
+<SYNC Start=1707495><P Class=ENCC>
+Here you go. No, thanks.
+<SYNC Start=1709662><P Class=ENCC>&nbsp;
+<SYNC Start=1709664><P Class=ENCC>
+This one is for you.
+<SYNC Start=1711464><P Class=ENCC>&nbsp;
+<SYNC Start=1711466><P Class=ENCC>
+It's already paid for.
+<SYNC Start=1712865><P Class=ENCC>&nbsp;
+<SYNC Start=1712867><P Class=ENCC>
+By whom?
+<SYNC Start=1714700><P Class=ENCC>&nbsp;
+<SYNC Start=1714702><P Class=ENCC>
+Uh...
+<SYNC Start=1717036><P Class=ENCC>&nbsp;
+<SYNC Start=1717038><P Class=ENCC>
+He's gone. Sorry.
+<SYNC Start=1719538><P Class=ENCC>&nbsp;
+<SYNC Start=1722736><P Class=ENCC>
+_
+<SYNC Start=1725436><P Class=ENCC>&nbsp;
+<SYNC Start=1730784><P Class=ENCC>
+Come on, let's go.
+<SYNC Start=1733686><P Class=ENCC>&nbsp;
+<SYNC Start=1733688><P Class=ENCC>
+Mom! You made me drop my ice cream!
+<SYNC Start=1737222><P Class=ENCC>&nbsp;
+<SYNC Start=1737224><P Class=ENCC>
+Okay. Look, have this one.
+<SYNC Start=1739625><P Class=ENCC>&nbsp;
+<SYNC Start=1739627><P Class=ENCC>
+I don't want that one.
+<SYNC Start=1741126><P Class=ENCC>&nbsp;
+<SYNC Start=1741128><P Class=ENCC>
+I want another one... like this.
+<SYNC Start=1743228><P Class=ENCC>&nbsp;
+<SYNC Start=1743230><P Class=ENCC>
+Okay, this is the one you chose.
+<SYNC Start=1744496><P Class=ENCC>&nbsp;
+<SYNC Start=1744530><P Class=ENCC>
+I don't want it anymore.
+<SYNC Start=1746165><P Class=ENCC>&nbsp;
+<SYNC Start=1746499><P Class=ENCC>
+Let's go.
+<SYNC Start=1747799><P Class=ENCC>&nbsp;
+<SYNC Start=1747801><P Class=ENCC>
+- I want another ice cream.- Ethan!
+<SYNC Start=1750369><P Class=ENCC>&nbsp;
+<SYNC Start=1750371><P Class=ENCC>
+We have to go right now.
+<SYNC Start=1751570><P Class=ENCC>&nbsp;
+<SYNC Start=1751605><P Class=ENCC>
+- No!- Ethan!
+<SYNC Start=1753205><P Class=ENCC>&nbsp;
+<SYNC Start=1753207><P Class=ENCC>
+Ethan!
+<SYNC Start=1755874><P Class=ENCC>&nbsp;
+<SYNC Start=1755876><P Class=ENCC>
+Ethan?
+<SYNC Start=1758310><P Class=ENCC>&nbsp;
+<SYNC Start=1758312><P Class=ENCC>
+Ethan?!
+<SYNC Start=1760912><P Class=ENCC>&nbsp;
+<SYNC Start=1764884><P Class=ENCC>
+Ethan?
+<SYNC Start=1767419><P Class=ENCC>&nbsp;
+<SYNC Start=1776429><P Class=ENCC>
+Ethan.
+<SYNC Start=1779131><P Class=ENCC>&nbsp;
+<SYNC Start=1790476><P Class=ENCC>
+It was like this when I found it.
+<SYNC Start=1793111><P Class=ENCC>&nbsp;
+<SYNC Start=1801287><P Class=ENCC>
+Your hair looks really pretty.
+<SYNC Start=1805824><P Class=ENCC>&nbsp;
+<SYNC Start=1820470><P Class=ENCC>
+I don't know what's going on with him,
+<SYNC Start=1821671><P Class=ENCC>&nbsp;
+<SYNC Start=1821770><P Class=ENCC>
+but he is not the same as when I left here.
+<SYNC Start=1823873><P Class=ENCC>&nbsp;
+<SYNC Start=1824307><P Class=ENCC>
+No, he's not.
+<SYNC Start=1825307><P Class=ENCC>&nbsp;
+<SYNC Start=1826506><P Class=ENCC>
+He's a year older.
+<SYNC Start=1827906><P Class=ENCC>&nbsp;
+<SYNC Start=1827908><P Class=ENCC>
+That is not what I'm talking about.
+<SYNC Start=1830075><P Class=ENCC>&nbsp;
+<SYNC Start=1830077><P Class=ENCC>
+He's changed.
+<SYNC Start=1831376><P Class=ENCC>&nbsp;
+<SYNC Start=1831378><P Class=ENCC>
+And so have you. That's called life.
+<SYNC Start=1833178><P Class=ENCC>&nbsp;
+<SYNC Start=1833276><P Class=ENCC>
+That's the consequence of our family
+<SYNC Start=1834546><P Class=ENCC>&nbsp;
+<SYNC Start=1834575><P Class=ENCC>
+being apart for so long.
+<SYNC Start=1835947><P Class=ENCC>&nbsp;
+<SYNC Start=1835976><P Class=ENCC>
+It takes time to reconnect.
+<SYNC Start=1837682><P Class=ENCC>&nbsp;
+<SYNC Start=1837684><P Class=ENCC>
+And I'm trying.
+<SYNC Start=1838850><P Class=ENCC>&nbsp;
+<SYNC Start=1838852><P Class=ENCC>
+- Uh, are you?- Yes.
+<SYNC Start=1841553><P Class=ENCC>&nbsp;
+<SYNC Start=1841555><P Class=ENCC>
+Because it feels likeyou're pulling away from us.
+<SYNC Start=1843855><P Class=ENCC>&nbsp;
+<SYNC Start=1844055><P Class=ENCC>
+I don't know what's happened, but
+<SYNC Start=1845290><P Class=ENCC>&nbsp;
+<SYNC Start=1845355><P Class=ENCC>
+I've felt it. And he's felt it, too.
+<SYNC Start=1847025><P Class=ENCC>&nbsp;
+<SYNC Start=1847559><P Class=ENCC>
+Ever since you got back.
+<SYNC Start=1849294><P Class=ENCC>&nbsp;
+<SYNC Start=1849296><P Class=ENCC>
+Well, it wasn't that easy before
+<SYNC Start=1851029><P Class=ENCC>&nbsp;
+<SYNC Start=1851031><P Class=ENCC>
+I left here. Not easy like it was for you.
+<SYNC Start=1853565><P Class=ENCC>&nbsp;
+<SYNC Start=1853630><P Class=ENCC>
+We've always seen him differently.
+<SYNC Start=1855300><P Class=ENCC>&nbsp;
+<SYNC Start=1855302><P Class=ENCC>
+I see him as our son.
+<SYNC Start=1856868><P Class=ENCC>&nbsp;
+<SYNC Start=1856901><P Class=ENCC>
+And so do I.
+<SYNC Start=1858002><P Class=ENCC>&nbsp;
+<SYNC Start=1858337><P Class=ENCC>
+But the way
+<SYNC Start=1859470><P Class=ENCC>&nbsp;
+<SYNC Start=1859472><P Class=ENCC>
+he looked at me today...you should have seen it.
+<SYNC Start=1863441><P Class=ENCC>&nbsp;
+<SYNC Start=1863443><P Class=ENCC>
+It was almost as if he hated me.
+<SYNC Start=1866277><P Class=ENCC>&nbsp;
+<SYNC Start=1866279><P Class=ENCC>
+He doesn't hate you, Molly. He loves you.
+<SYNC Start=1868513><P Class=ENCC>&nbsp;
+<SYNC Start=1868778><P Class=ENCC>
+He doesn't love me.
+<SYNC Start=1870982><P Class=ENCC>&nbsp;
+<SYNC Start=1870984><P Class=ENCC>
+He executes a seriesof commands that you've
+<SYNC Start=1873584><P Class=ENCC>&nbsp;
+<SYNC Start=1873586><P Class=ENCC>
+programmed into him.
+<SYNC Start=1874919><P Class=ENCC>&nbsp;
+<SYNC Start=1874921><P Class=ENCC>
+He approximates a behavior
+<SYNC Start=1876254><P Class=ENCC>&nbsp;
+<SYNC Start=1876256><P Class=ENCC>
+that resembles love.
+<SYNC Start=1878022><P Class=ENCC>&nbsp;
+<SYNC Start=1878024><P Class=ENCC>
+But that's not love.
+<SYNC Start=1879423><P Class=ENCC>&nbsp;
+<SYNC Start=1881226><P Class=ENCC>
+I don't know what's going on with you,
+<SYNC Start=1883161><P Class=ENCC>&nbsp;
+<SYNC Start=1883225><P Class=ENCC>
+but you have to figureit out, because that kid
+<SYNC Start=1885696><P Class=ENCC>&nbsp;
+<SYNC Start=1885725><P Class=ENCC>
+is the closest we're evergonna get to being parents.
+<SYNC Start=1889300><P Class=ENCC>&nbsp;
+<SYNC Start=1893171><P Class=ENCC>
+I got the funding from Yasumoto.
+<SYNC Start=1895773><P Class=ENCC>&nbsp;
+<SYNC Start=1895775><P Class=ENCC>
+We start immediately.
+<SYNC Start=1898342><P Class=ENCC>&nbsp;
+<SYNC Start=1969714><P Class=ENCC>
+Camera recording.
+<SYNC Start=1972048><P Class=ENCC>&nbsp;
+<SYNC Start=1987732><P Class=ENCC>
+Marcus.
+<SYNC Start=1990800><P Class=ENCC>&nbsp;
+<SYNC Start=1999410><P Class=ENCC>
+Hello?
+<SYNC Start=2001111><P Class=ENCC>&nbsp;
+<SYNC Start=2003013><P Class=ENCC>
+Hello.
+<SYNC Start=2004914><P Class=ENCC>&nbsp;
+<SYNC Start=2005850><P Class=ENCC>
+You need help?
+<SYNC Start=2007383><P Class=ENCC>&nbsp;
+<SYNC Start=2009386><P Class=ENCC>
+Help.
+<SYNC Start=2011087><P Class=ENCC>&nbsp;
+<SYNC Start=2016193><P Class=ENCC>
+What can I do?
+<SYNC Start=2017894><P Class=ENCC>&nbsp;
+<SYNC Start=2021398><P Class=ENCC>
+Do.
+<SYNC Start=2024267><P Class=ENCC>&nbsp;
+<SYNC Start=2043620><P Class=ENCC>
+It's okay.
+<SYNC Start=2045254><P Class=ENCC>&nbsp;
+<SYNC Start=2047524><P Class=ENCC>
+It's...
+<SYNC Start=2049458><P Class=ENCC>&nbsp;
+<SYNC Start=2049460><P Class=ENCC>
+Okay.
+<SYNC Start=2052428><P Class=ENCC>&nbsp;
+<SYNC Start=2088365><P Class=ENCC>
+It's okay.
+<SYNC Start=2089999><P Class=ENCC>&nbsp;
+<SYNC Start=2100376><P Class=ENCC>
+It's okay.
+<SYNC Start=2102010><P Class=ENCC>&nbsp;
+<SYNC Start=2102946><P Class=ENCC>
+It's okay.
+<SYNC Start=2104947><P Class=ENCC>&nbsp;
+<SYNC Start=2104949><P Class=ENCC>
+It's okay.
+<SYNC Start=2106348><P Class=ENCC>&nbsp;
+<SYNC Start=2109452><P Class=ENCC>
+It's okay.
+<SYNC Start=2111587><P Class=ENCC>&nbsp;
+<SYNC Start=2135331><P Class=ENCC>
+Molly.
+<SYNC Start=2138000><P Class=ENCC>&nbsp;
+<SYNC Start=2139436><P Class=ENCC>
+I'm sorry about yesterday.
+<SYNC Start=2140936><P Class=ENCC>&nbsp;
+<SYNC Start=2144575><P Class=ENCC>
+Well, you didn't sayanything that wasn't true.
+<SYNC Start=2147843><P Class=ENCC>&nbsp;
+<SYNC Start=2147845><P Class=ENCC>
+This opportunity with Yasumoto,
+<SYNC Start=2152347><P Class=ENCC>&nbsp;
+<SYNC Start=2152349><P Class=ENCC>
+it may not be the ideal time, but,
+<SYNC Start=2155117><P Class=ENCC>&nbsp;
+<SYNC Start=2155119><P Class=ENCC>
+Molly, if we can make it work...
+<SYNC Start=2158754><P Class=ENCC>&nbsp;
+<SYNC Start=2158756><P Class=ENCC>
+We'll make it work.
+<SYNC Start=2161590><P Class=ENCC>&nbsp;
+<SYNC Start=2164093><P Class=ENCC>
+Have I said congratulations?
+<SYNC Start=2166261><P Class=ENCC>&nbsp;
+<SYNC Start=2168064><P Class=ENCC>
+No.
+<SYNC Start=2170832><P Class=ENCC>&nbsp;
+<SYNC Start=2170834><P Class=ENCC>
+Congratulations.
+<SYNC Start=2174936><P Class=ENCC>&nbsp;
+<SYNC Start=2182078><P Class=ENCC>
+Reentry can be a challenge
+<SYNC Start=2183945><P Class=ENCC>&nbsp;
+<SYNC Start=2183976><P Class=ENCC>
+after this kind ofextended mission, especially
+<SYNC Start=2186114><P Class=ENCC>&nbsp;
+<SYNC Start=2186116><P Class=ENCC>
+if there are spousesand children involved. So,
+<SYNC Start=2189317><P Class=ENCC>&nbsp;
+<SYNC Start=2189319><P Class=ENCC>
+the agency would like usto meet for a few sessions.
+<SYNC Start=2192787><P Class=ENCC>&nbsp;
+<SYNC Start=2196425><P Class=ENCC>
+I want this officeto be a sanctuary for you.
+<SYNC Start=2199294><P Class=ENCC>&nbsp;
+<SYNC Start=2199296><P Class=ENCC>
+A place where you can
+<SYNC Start=2201129><P Class=ENCC>&nbsp;
+<SYNC Start=2201131><P Class=ENCC>
+talk about anything and everything.
+<SYNC Start=2202664><P Class=ENCC>&nbsp;
+<SYNC Start=2202830><P Class=ENCC>
+We didn't have this resource in place
+<SYNC Start=2204099><P Class=ENCC>&nbsp;
+<SYNC Start=2204130><P Class=ENCC>
+for your colleague, Dr.Kryger. We should have.
+<SYNC Start=2207268><P Class=ENCC>&nbsp;
+<SYNC Start=2207270><P Class=ENCC>
+The agency believes a lackof attention to his mental state
+<SYNC Start=2210104><P Class=ENCC>&nbsp;
+<SYNC Start=2210906><P Class=ENCC>
+was a factor in his suicide. I agree.
+<SYNC Start=2213541><P Class=ENCC>&nbsp;
+<SYNC Start=2213543><P Class=ENCC>
+Why don't we begin with your own assessment
+<SYNC Start=2215944><P Class=ENCC>&nbsp;
+<SYNC Start=2215946><P Class=ENCC>
+about where you are in your transition.
+<SYNC Start=2217845><P Class=ENCC>&nbsp;
+<SYNC Start=2218314><P Class=ENCC>
+How are you feeling?
+<SYNC Start=2220148><P Class=ENCC>&nbsp;
+<SYNC Start=2220150><P Class=ENCC>
+Physically?
+<SYNC Start=2221916><P Class=ENCC>&nbsp;
+<SYNC Start=2221918><P Class=ENCC>
+Whatever you'd like to share.
+<SYNC Start=2223651><P Class=ENCC>&nbsp;
+<SYNC Start=2223653><P Class=ENCC>
+Physically.
+<SYNC Start=2225787><P Class=ENCC>&nbsp;
+<SYNC Start=2225789><P Class=ENCC>
+Emotionally, mentally.
+<SYNC Start=2228022><P Class=ENCC>&nbsp;
+<SYNC Start=2263859><P Class=ENCC>
+Okay.
+<SYNC Start=2265292><P Class=ENCC>&nbsp;
+<SYNC Start=2265294><P Class=ENCC>
+Beginning playback.
+<SYNC Start=2267561><P Class=ENCC>&nbsp;
+<SYNC Start=2419046><P Class=ENCC>
+Harmon?
+<SYNC Start=2421213><P Class=ENCC>&nbsp;
+<SYNC Start=2423450><P Class=ENCC>
+It's me.
+<SYNC Start=2426452><P Class=ENCC>&nbsp;
+<SYNC Start=2426454><P Class=ENCC>
+I'm real.
+<SYNC Start=2428487><P Class=ENCC>&nbsp;
+<SYNC Start=2428489><P Class=ENCC>
+It's not like on the Seraphim.
+<SYNC Start=2430222><P Class=ENCC>&nbsp;
+<SYNC Start=2430224><P Class=ENCC>
+You're not hallucinating.
+<SYNC Start=2432391><P Class=ENCC>&nbsp;
+<SYNC Start=2435028><P Class=ENCC>
+Everybody thinks you're dead.
+<SYNC Start=2436996><P Class=ENCC>&nbsp;
+<SYNC Start=2436998><P Class=ENCC>
+I... I shouldn't have...I shouldn't have come here.
+<SYNC Start=2439331><P Class=ENCC>&nbsp;
+<SYNC Start=2439833><P Class=ENCC>
+Harmon. Talk to me.
+<SYNC Start=2441734><P Class=ENCC>&nbsp;
+<SYNC Start=2441736><P Class=ENCC>
+- What happened?- Molly?
+<SYNC Start=2443135><P Class=ENCC>&nbsp;
+<SYNC Start=2443137><P Class=ENCC>
+Dinner's ready.
+<SYNC Start=2444403><P Class=ENCC>&nbsp;
+<SYNC Start=2444405><P Class=ENCC>
+I'll find you.
+<SYNC Start=2445604><P Class=ENCC>&nbsp;
+<SYNC Start=2445606><P Class=ENCC>
+Until then, be careful.
+<SYNC Start=2448974><P Class=ENCC>&nbsp;
+<SYNC Start=2448976><P Class=ENCC>
+Don't trust them.
+<SYNC Start=2450676><P Class=ENCC>&nbsp;
+<SYNC Start=2450678><P Class=ENCC>
+Who?
+<SYNC Start=2452645><P Class=ENCC>&nbsp;
+<SYNC Start=2452647><P Class=ENCC>
+Anybody.
+<SYNC Start=2454813><P Class=ENCC>&nbsp;
+<SYNC Start=2457384><P Class=ENCC>
+Anybody.
+<SYNC Start=2459284><P Class=ENCC>&nbsp;
+<SYNC Start=2463795><P Class=ENCC>
+- Synced and corrected by oykubuyuk -- www.addic7ed.com -
+<SYNC Start=2467496><P Class=ENCC>&nbsp;
+
+</BODY></SAMI>

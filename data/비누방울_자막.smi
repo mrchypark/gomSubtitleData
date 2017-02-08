@@ -1,0 +1,27 @@
+<SAMI>
+<HEAD>
+<TITLE>Hanbange 3.0 - (C) Breadu Soft 2008</TITLE>
+<STYLE TYPE="text/css">
+<!--
+P { margin-left:8pt; margin-right:8pt; margin-bottom:2pt;
+    margin-top:2pt; font-size:14pt; text-align:center;
+    font-family:굴림, Arial; font-weight:normal; color:white;
+    background-color:black; }
+.KRCC { Name:한국어; lang:ko-KR; SAMIType:CC; }
+#STDPrn { Name:Standard Print; }
+#LargePrn { Name:Large Print; font-size:20pt; }
+#SmallPrn { Name:Small Print; font-size:10pt; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<SYNC Start=657><P Class=KRCC>
+비누방울<br>
+작사 : 김혜진<br>
+작곡 : 김동성
+<SYNC Start=10151><P Class=KRCC>&nbsp;
+<SYNC Start=109533><P Class=KRCC>
+간주중
+<SYNC Start=118581><P Class=KRCC>&nbsp;
+</BODY>
+</SAMI>

@@ -1,0 +1,5132 @@
+﻿<SAMI>
+            <HEAD>
+            <TITLE>Uzys SMI Merge Tool</TITLE>
+            <STYLE TYPE="text/css">
+            <!--
+            P { margin-left:2pt; margin-right:2pt; margin-bottom:1pt;
+                font-size:20pt; text-align:center; font-weight:bold;
+                color:white; }
+            .ENCC { Name:English; lang:en-US; SAMIType:CC; }
+            .KRCC { Name:한국어; lang:ko-KR; SAMIType:CC; }
+            -->
+            </STYLE>
+            </HEAD>
+            <BODY>
+            <SYNC Start=10><P Class=ENCC> Uzys SMI Merge Tool http://uzys.net
+            <SYNC Start=10><P Class=KRCC> Uzys 통합 자막 생성기 http://uzys.net  
+            
+<SYNC Start=1545><P Class=KRCC>
+내 이름은<br>올리버 퀸
+<SYNC Start=4253><P Class=KRCC>
+&nbsp;
+<SYNC Start=4254><P Class=KRCC>
+지난 5년을<br>지옥에서 살고
+<SYNC Start=6037><P Class=KRCC>
+&nbsp;
+<SYNC Start=6356><P Class=KRCC>
+한 가지 목표로<br>집에 돌아왔다
+<SYNC Start=8523><P Class=KRCC>
+&nbsp;
+<SYNC Start=8525><P Class=KRCC>
+내 도시를 <br>구하는 것
+<SYNC Start=10742><P Class=KRCC>
+&nbsp;
+<SYNC Start=10744><P Class=KRCC>
+다른 사람들은<br>내 십자군에 합류했다
+<SYNC Start=13444><P Class=KRCC>
+&nbsp;
+<SYNC Start=13446><P Class=KRCC>
+스탈링 시티에 남은<br>사람들에게 난 올리버 퀸이다
+<SYNC Start=18283><P Class=KRCC>
+&nbsp;
+<SYNC Start=18285><P Class=KRCC>
+다른 사람이<br>되어야 한다
+<SYNC Start=19834><P Class=KRCC>
+&nbsp;
+<SYNC Start=19836><P Class=KRCC>
+다른 무엇이<br>되어야 한다
+<SYNC Start=22453><P Class=KRCC>
+&nbsp;
+<SYNC Start=22455><P Class=KRCC>
+애로우<br>지난 이야기
+<SYNC Start=24038><P Class=KRCC>
+&nbsp;
+<SYNC Start=25456><P Class=KRCC>
+&nbsp;
+<SYNC Start=25458><P Class=KRCC>
+여긴 왜 왔어?
+<SYNC Start=27292><P Class=KRCC>
+&nbsp;
+<SYNC Start=30597><P Class=KRCC>
+누가 이런 짓을 했건<br>꼭 찾아 낼꺼야
+<SYNC Start=33014><P Class=KRCC>
+&nbsp;
+<SYNC Start=33016><P Class=KRCC>
+회사인수를 원하는<br>경쟁상대가 있습니다
+<SYNC Start=34215><P Class=KRCC>
+&nbsp;
+<SYNC Start=34217><P Class=KRCC>
+누구요?
+<SYNC Start=35466><P Class=KRCC>
+&nbsp;
+<SYNC Start=35468><P Class=KRCC>
+레이 팔머
+<SYNC Start=36751><P Class=KRCC>
+&nbsp;
+<SYNC Start=36753><P Class=KRCC>
+내가 이제 너의 보스야
+<SYNC Start=39387><P Class=KRCC>
+&nbsp;
+<SYNC Start=39389><P Class=KRCC>
+안돼!
+<SYNC Start=41639><P Class=KRCC>
+&nbsp;
+<SYNC Start=41641><P Class=KRCC>
+로이 난 널 믿지않아<br>그 누구도 믿지 않을꺼야
+<SYNC Start=44809><P Class=KRCC>
+&nbsp;
+<SYNC Start=44811><P Class=KRCC>
+날 찾으려고 하지마<br>난 절대로 돌아오지 않을꺼야
+<SYNC Start=48279><P Class=KRCC>
+&nbsp;
+<SYNC Start=48281><P Class=KRCC>
+테아를 찾으러 가야겠어
+<SYNC Start=49781><P Class=KRCC>
+&nbsp;
+<SYNC Start=49783><P Class=KRCC>
+오랜 시간이 지났는데<br>테아가 집에 오지않아
+<SYNC Start=51983><P Class=KRCC>
+&nbsp;
+<SYNC Start=53703><P Class=KRCC>
+잘했다
+<SYNC Start=56037><P Class=KRCC>
+&nbsp;
+<SYNC Start=59075><P Class=KRCC>
+고마워요<br>아빠
+<SYNC Start=61643><P Class=KRCC>
+&nbsp;
+<SYNC Start=78126><P Class=KRCC>
+&nbsp;
+<SYNC Start=78128><P Class=KRCC>
+이제 우린 어디로 가요?
+<SYNC Start=81529><P Class=KRCC>
+&nbsp;
+<SYNC Start=81531><P Class=KRCC>
+네가 원하는 곳
+<SYNC Start=82830><P Class=KRCC>
+&nbsp;
+<SYNC Start=82832><P Class=KRCC>
+- 내가 원하는 곳이요?<br>- 왜 아니겠니?
+<SYNC Start=85504><P Class=KRCC>
+난 여행을 많이 했어
+<SYNC Start=86565><P Class=KRCC>
+&nbsp;
+<SYNC Start=86589><P Class=KRCC>
+난 세상을 곳곳을 다갔어
+<SYNC Start=88710><P Class=KRCC>
+&nbsp;
+<SYNC Start=88922><P Class=KRCC>
+그러나 당신은 여기서<br>나가고 싶겠네요
+<SYNC Start=90905><P Class=KRCC>
+&nbsp;
+<SYNC Start=90907><P Class=KRCC>
+왜냐하면 경찰이 당신이<br>살아있는것을 알면 찾아올테니까요
+<SYNC Start=94275><P Class=KRCC>
+&nbsp;
+<SYNC Start=94277><P Class=KRCC>
+애로우도요
+<SYNC Start=96611><P Class=KRCC>
+&nbsp;
+<SYNC Start=96613><P Class=KRCC>
+넌 아주 통찰력이<br>있구나 테아
+<SYNC Start=100181><P Class=KRCC>
+&nbsp;
+<SYNC Start=100183><P Class=KRCC>
+어떤사람들은 무언가를<br>그들이 미소뒤에 숨겨
+<SYNC Start=103167><P Class=KRCC>
+&nbsp;
+<SYNC Start=103169><P Class=KRCC>
+네 엄마는 재능이 있었다
+<SYNC Start=105086><P Class=KRCC>
+&nbsp;
+<SYNC Start=105088><P Class=KRCC>
+그래
+<SYNC Start=107338><P Class=KRCC>
+&nbsp;
+<SYNC Start=107340><P Class=KRCC>
+만약에 누군가<br>내가 어디있는지 안다면
+<SYNC Start=109590><P Class=KRCC>
+&nbsp;
+<SYNC Start=109592><P Class=KRCC>
+유감스럽길 바란다
+<SYNC Start=111909><P Class=KRCC>
+&nbsp;
+<SYNC Start=111911><P Class=KRCC>
+우리둘을 위해서
+<SYNC Start=113678><P Class=KRCC>
+&nbsp;
+<SYNC Start=116015><P Class=KRCC>
+그래서 왜 날 찾은거니?
+<SYNC Start=118883><P Class=KRCC>
+&nbsp;
+<SYNC Start=118885><P Class=KRCC>
+당신이 찾았잖아요
+<SYNC Start=120284><P Class=KRCC>
+&nbsp;
+<SYNC Start=120286><P Class=KRCC>
+그래
+<SYNC Start=122053><P Class=KRCC>
+&nbsp;
+<SYNC Start=122055><P Class=KRCC>
+난 다시는<br>고통 받기 싫어요
+<SYNC Start=126140><P Class=KRCC>
+&nbsp;
+<SYNC Start=126142><P Class=KRCC>
+다시는 상처받지<br>않고 싶어요
+<SYNC Start=128309><P Class=KRCC>
+&nbsp;
+<SYNC Start=128311><P Class=KRCC>
+아니면 다치는 것도 싫어요
+<SYNC Start=130278><P Class=KRCC>
+&nbsp;
+<SYNC Start=130280><P Class=KRCC>
+평생 상처<br>받기 싫어요
+<SYNC Start=133281><P Class=KRCC>
+&nbsp;
+<SYNC Start=133283><P Class=KRCC>
+그리고 당신은 <br>날 가르칠 사람으로 보이네요
+<SYNC Start=137368><P Class=KRCC>
+&nbsp;
+<SYNC Start=141089><P Class=KRCC>
+&nbsp;
+<SYNC Start=152133><P Class=KRCC>
+&nbsp;
+<SYNC Start=167098><P Class=KRCC>
+&nbsp;
+<SYNC Start=168518><P Class=KRCC>
+내가 안 그랬어요
+<SYNC Start=170902><P Class=KRCC>
+&nbsp;
+<SYNC Start=170904><P Class=KRCC>
+지난주에 어떤 여자가<br>건물 옥상에서 살해됐다
+<SYNC Start=172653><P Class=KRCC>
+&nbsp;
+<SYNC Start=172655><P Class=KRCC>
+검은 가죽옷, 금발, 마스크를 썻다
+<SYNC Start=174572><P Class=KRCC>
+&nbsp;
+<SYNC Start=174574><P Class=KRCC>
+- 내가 안죽였어요<br>- 너도 있었잖아!
+<SYNC Start=176324><P Class=KRCC>
+&nbsp;
+<SYNC Start=176326><P Class=KRCC>
+난 그 일에<br>대해서 하나도 몰라요
+<SYNC Start=178075><P Class=KRCC>
+&nbsp;
+<SYNC Start=178077><P Class=KRCC>
+이 물건에서 <br>너의 지문이 발견됐어
+<SYNC Start=180077><P Class=KRCC>
+&nbsp;
+<SYNC Start=180079><P Class=KRCC>
+술을 마시고 옥상에 올라갔어요
+<SYNC Start=181529><P Class=KRCC>
+&nbsp;
+<SYNC Start=181531><P Class=KRCC>
+네가 본게 무엇이지?
+<SYNC Start=183030><P Class=KRCC>
+&nbsp;
+<SYNC Start=183032><P Class=KRCC>
+아무것도<br>못봣어요
+<SYNC Start=184582><P Class=KRCC>
+&nbsp;
+<SYNC Start=184584><P Class=KRCC>
+옥상에서 일어나니<br>시신들이 있었어요
+<SYNC Start=186367><P Class=KRCC>
+&nbsp;
+<SYNC Start=186369><P Class=KRCC>
+여자가 나타났어요
+<SYNC Start=187869><P Class=KRCC>
+&nbsp;
+<SYNC Start=187871><P Class=KRCC>
+그 여자는 우리보고<br>가라고했어요
+<SYNC Start=189620><P Class=KRCC>
+&nbsp;
+<SYNC Start=189622><P Class=KRCC>
+보니까 그녀는 자신이 <br>다룰줄아는 것 같았어요
+<SYNC Start=191622><P Class=KRCC>
+&nbsp;
+<SYNC Start=193510><P Class=KRCC>
+당신이 누구찾는지 몰라도
+<SYNC Start=195426><P Class=KRCC>
+&nbsp;
+<SYNC Start=195428><P Class=KRCC>
+그사람이 남자였으면<br>좋겠어요
+<SYNC Start=196878><P Class=KRCC>
+&nbsp;
+<SYNC Start=198248><P Class=KRCC>
+또 하나의 막다른 길이야
+<SYNC Start=201382><P Class=KRCC>
+&nbsp;
+<SYNC Start=201384><P Class=KRCC>
+그게 저한테 일주일을<br>프린트하는데 뻈었어요
+<SYNC Start=204435><P Class=KRCC>
+&nbsp;
+<SYNC Start=204437><P Class=KRCC>
+난 일부분을 복원한<br>것을 가지고있어요
+<SYNC Start=205937><P Class=KRCC>
+&nbsp;
+<SYNC Start=205939><P Class=KRCC>
+자동완성이되는 인덱싱<br>알고리즘을 이용해서요
+<SYNC Start=207722><P Class=KRCC>
+&nbsp;
+<SYNC Start=207724><P Class=KRCC>
+적당한 시기에<br>그의 집게손가락이 있었어요
+<SYNC Start=210641><P Class=KRCC>
+&nbsp;
+<SYNC Start=210643><P Class=KRCC>
+지금 그렇게 특별히<br>관련있지는 않네요
+<SYNC Start=213895><P Class=KRCC>
+&nbsp;
+<SYNC Start=215732><P Class=KRCC>
+걱정마 우리가 찾을꺼야<br>그는 어딘가에 있어
+<SYNC Start=218566><P Class=KRCC>
+&nbsp;
+<SYNC Start=218568><P Class=KRCC>
+아니, 그렇지않아
+<SYNC Start=220067><P Class=KRCC>
+&nbsp;
+<SYNC Start=220069><P Class=KRCC>
+트레일이 차가워졌어
+<SYNC Start=222236><P Class=KRCC>
+&nbsp;
+<SYNC Start=222238><P Class=KRCC>
+난 이일을하는게 싫어요
+<SYNC Start=224822><P Class=KRCC>
+&nbsp;
+<SYNC Start=224824><P Class=KRCC>
+테크 빌리지 일찍열어요?
+<SYNC Start=226314><P Class=KRCC>
+&nbsp;
+<SYNC Start=226338><P Class=KRCC>
+정확하지 않을꺼야
+<SYNC Start=227666><P Class=KRCC>
+&nbsp;
+<SYNC Start=227667><P Class=KRCC>
+테아가 이탈리아 어디서<br>머무르는지 생각안했어요?
+<SYNC Start=229338><P Class=KRCC>
+네 그거말인데..<br>테아는 이탈리아에 없어요
+<SYNC Start=231079><P Class=KRCC>
+&nbsp;
+<SYNC Start=231663><P Class=KRCC>
+&nbsp;
+<SYNC Start=231664><P Class=KRCC>
+아니면 유럽이던가<br>테아는...
+<SYNC Start=234749><P Class=KRCC>
+&nbsp;
+<SYNC Start=234751><P Class=KRCC>
+테아는 어딨어요?
+<SYNC Start=236217><P Class=KRCC>
+&nbsp;
+<SYNC Start=236219><P Class=KRCC>
+테아의 전화기로<br>찾아냈어요
+<SYNC Start=237635><P Class=KRCC>
+&nbsp;
+<SYNC Start=237637><P Class=KRCC>
+이탈리아에서 메세지 보낸것이
+<SYNC Start=240054><P Class=KRCC>
+&nbsp;
+<SYNC Start=240056><P Class=KRCC>
+코르토 말테즈로 바뀌었어요
+<SYNC Start=244175><P Class=KRCC>
+&nbsp;
+<SYNC Start=244177><P Class=KRCC>
+코르토 말테즈는 섬이에요<br>남아메리카에 위치했어요
+<SYNC Start=245893><P Class=KRCC>
+&nbsp;
+<SYNC Start=245895><P Class=KRCC>
+너의가족과, 섬이 무슨관계이야?
+<SYNC Start=248095><P Class=KRCC>
+&nbsp;
+<SYNC Start=248097><P Class=KRCC>
+잠깐만요 올리버
+<SYNC Start=251098><P Class=KRCC>
+&nbsp;
+<SYNC Start=251100><P Class=KRCC>
+테아의 편지에는<br>절대로 자기를 찾지말래요
+<SYNC Start=254068><P Class=KRCC>
+&nbsp;
+<SYNC Start=254070><P Class=KRCC>
+그 편지는 네한테<br>간거지 나한테 온게아니야
+<SYNC Start=257271><P Class=KRCC>
+&nbsp;
+<SYNC Start=257273><P Class=KRCC>
+난 로럴을 보면서 새라도 잃었어
+<SYNC Start=261909><P Class=KRCC>
+&nbsp;
+<SYNC Start=263613><P Class=KRCC>
+내 동생이 집으로 <br>와야할 시간이야
+<SYNC Start=266280><P Class=KRCC>
+&nbsp;
+<SYNC Start=272038><P Class=KRCC>
+머하는 거야?
+<SYNC Start=273120><P Class=KRCC>
+&nbsp;
+<SYNC Start=273122><P Class=KRCC>
+테아는 나때문에 <br>떠났어요
+<SYNC Start=274956><P Class=KRCC>
+&nbsp;
+<SYNC Start=274958><P Class=KRCC>
+왜냐하면 내가 그녀한테<br>했던 거짓말때문에요
+<SYNC Start=276591><P Class=KRCC>
+&nbsp;
+<SYNC Start=276593><P Class=KRCC>
+그래서 난 당신과같이<br>이걸 바로잡을거에요
+<SYNC Start=278426><P Class=KRCC>
+&nbsp;
+<SYNC Start=278428><P Class=KRCC>
+그게아니라..<br>머하는거야?
+<SYNC Start=281429><P Class=KRCC>
+&nbsp;
+<SYNC Start=281431><P Class=KRCC>
+그 활들고 <br>여행할수는 없잖아
+<SYNC Start=284332><P Class=KRCC>
+&nbsp;
+<SYNC Start=286686><P Class=KRCC>
+난 솔직히 비행기 <br>한번도 안봤어요
+<SYNC Start=289720><P Class=KRCC>
+&nbsp;
+<SYNC Start=294859><P Class=KRCC>
+&nbsp;
+<SYNC Start=294861><P Class=KRCC>
+아무것도 안해야지
+<SYNC Start=296477><P Class=KRCC>
+&nbsp;
+<SYNC Start=296479><P Class=KRCC>
+내가 널 그대로 <br>평생 보지
+<SYNC Start=298446><P Class=KRCC>
+&nbsp;
+<SYNC Start=298448><P Class=KRCC>
+그래?
+<SYNC Start=300231><P Class=KRCC>
+&nbsp;
+<SYNC Start=300233><P Class=KRCC>
+한번은 그 애가<br>남자를 발견하겠어?
+<SYNC Start=303034><P Class=KRCC>
+&nbsp;
+<SYNC Start=303036><P Class=KRCC>
+글쎄 내 글록(glock) 아기
+<SYNC Start=306287><P Class=KRCC>
+&nbsp;
+<SYNC Start=306289><P Class=KRCC>
+맞아 걔는 내 글록이야
+<SYNC Start=308456><P Class=KRCC>
+&nbsp;
+<SYNC Start=315882><P Class=KRCC>
+난 다음 몇 일동안 애기하고<br>몇가지 좋은 시간을 즐길거야
+<SYNC Start=319967><P Class=KRCC>
+&nbsp;
+<SYNC Start=319969><P Class=KRCC>
+난 귀저기 가는것을<br>기대하고있어
+<SYNC Start=322670><P Class=KRCC>
+&nbsp;
+<SYNC Start=322672><P Class=KRCC>
+그리고 난 좋은 결과를<br>보면 믿을거야
+<SYNC Start=325890><P Class=KRCC>
+&nbsp;
+<SYNC Start=327343><P Class=KRCC>
+왜 쉬고 있어?
+<SYNC Start=329894><P Class=KRCC>
+&nbsp;
+<SYNC Start=329896><P Class=KRCC>
+다시 팀을 나가게?
+<SYNC Start=331846><P Class=KRCC>
+&nbsp;
+<SYNC Start=331848><P Class=KRCC>
+아니, 올리버가 <br>코르토 말테즈에간대
+<SYNC Start=334348><P Class=KRCC>
+&nbsp;
+<SYNC Start=334350><P Class=KRCC>
+몇 칠 동안
+<SYNC Start=337018><P Class=KRCC>
+&nbsp;
+<SYNC Start=337020><P Class=KRCC>
+올리버하고 같이가고 싶어?
+<SYNC Start=339854><P Class=KRCC>
+&nbsp;
+<SYNC Start=339856><P Class=KRCC>
+난 아직 올리버하고 시간을<br>보낼 준비가 안됐다는 말이야?
+<SYNC Start=343074><P Class=KRCC>
+&nbsp;
+<SYNC Start=343076><P Class=KRCC>
+팀 애로우가 스탈링시티에 <br>가르릉 거리는 고양이같아
+<SYNC Start=346110><P Class=KRCC>
+&nbsp;
+<SYNC Start=346112><P Class=KRCC>
+남은 세상은 여전히<br>위험한 곳이야
+<SYNC Start=349864><P Class=KRCC>
+&nbsp;
+<SYNC Start=349866><P Class=KRCC>
+코르토 말테즈를 포함해서
+<SYNC Start=352366><P Class=KRCC>
+&nbsp;
+<SYNC Start=352368><P Class=KRCC>
+라일라 나 주소적혀있는거 싫어하잖아
+<SYNC Start=354168><P Class=KRCC>
+&nbsp;
+<SYNC Start=354170><P Class=KRCC>
+들판 정보원을 보낼꺼야
+<SYNC Start=356170><P Class=KRCC>
+&nbsp;
+<SYNC Start=356172><P Class=KRCC>
+알았어, 그래서 군대<br>요원을 보낸다고?
+<SYNC Start=358706><P Class=KRCC>
+&nbsp;
+<SYNC Start=358708><P Class=KRCC>
+그는 아무 문제도<br>일으키지 않을꺼야
+<SYNC Start=360508><P Class=KRCC>
+&nbsp;
+<SYNC Start=360510><P Class=KRCC>
+그는 그의 패닉<br>버튼을 누르지않아
+<SYNC Start=362543><P Class=KRCC>
+&nbsp;
+<SYNC Start=362545><P Class=KRCC>
+그는 아마도 미인의 별장에서<br>술마시고 있을꺼야
+<SYNC Start=365179><P Class=KRCC>
+&nbsp;
+<SYNC Start=365181><P Class=KRCC>
+마크는 몇 일을 시간에서 시간으로 보내
+<SYNC Start=368132><P Class=KRCC>
+&nbsp;
+<SYNC Start=370470><P Class=KRCC>
+그냥 내일에 찬성해주면 안되?
+<SYNC Start=373054><P Class=KRCC>
+&nbsp;
+<SYNC Start=373056><P Class=KRCC>
+그리고 만약에 그가 괜찮을까?
+<SYNC Start=374722><P Class=KRCC>
+&nbsp;
+<SYNC Start=374724><P Class=KRCC>
+그한테 확인하라고 할께
+<SYNC Start=376490><P Class=KRCC>
+&nbsp;
+<SYNC Start=376492><P Class=KRCC>
+이틀뒤 난 정찰하러가
+<SYNC Start=378309><P Class=KRCC>
+&nbsp;
+<SYNC Start=378311><P Class=KRCC>
+난 그를 월러하고<br>문제를일으키게하고싶지않아
+<SYNC Start=380361><P Class=KRCC>
+&nbsp;
+<SYNC Start=380363><P Class=KRCC>
+마크는 오랜 친구잖아
+<SYNC Start=383364><P Class=KRCC>
+&nbsp;
+<SYNC Start=385952><P Class=KRCC>
+그녀는 내가 떠나고<br>흥미로운것들을 하지않을꺼야
+<SYNC Start=389403><P Class=KRCC>
+&nbsp;
+<SYNC Start=399298><P Class=KRCC>
+다음엔 네 손을 올려
+<SYNC Start=402216><P Class=KRCC>
+&nbsp;
+<SYNC Start=404552><P Class=KRCC>
+&nbsp;
+<SYNC Start=406222><P Class=KRCC>
+테드 그랜트?
+<SYNC Start=409090><P Class=KRCC>
+&nbsp;
+<SYNC Start=409092><P Class=KRCC>
+글쎄 배지가 뜻하는것은<br>넌 여기 없다는 거네
+<SYNC Start=410641><P Class=KRCC>
+&nbsp;
+<SYNC Start=410643><P Class=KRCC>
+자기 방어 수업
+<SYNC Start=412143><P Class=KRCC>
+&nbsp;
+<SYNC Start=412145><P Class=KRCC>
+아니, 난 이미 정당한 몫을 했어
+<SYNC Start=413811><P Class=KRCC>
+&nbsp;
+<SYNC Start=413813><P Class=KRCC>
+난 당신 학생 때문에<br>왔어요 톰 브론슨
+<SYNC Start=416013><P Class=KRCC>
+&nbsp;
+<SYNC Start=416015><P Class=KRCC>
+현장의 목격자거든요
+<SYNC Start=417264><P Class=KRCC>
+&nbsp;
+<SYNC Start=417266><P Class=KRCC>
+어젯밤에 건물에 침입한 사건에서요
+<SYNC Start=418803><P Class=KRCC>
+글쎄 그건 불가능해
+<SYNC Start=419854><P Class=KRCC>
+&nbsp;
+<SYNC Start=419879><P Class=KRCC>
+톰과 나는 어젯밤에 스파링에 있었거든
+<SYNC Start=422022><P Class=KRCC>
+&nbsp;
+<SYNC Start=422655><P Class=KRCC>
+그래트씨 변호사한테한 <br>거짓말은
+<SYNC Start=425690><P Class=KRCC>
+&nbsp;
+<SYNC Start=425692><P Class=KRCC>
+법에 위반되는걸 아세요?
+<SYNC Start=427158><P Class=KRCC>
+&nbsp;
+<SYNC Start=427160><P Class=KRCC>
+그말은 내가 거짓말을 한다는건가?
+<SYNC Start=429110><P Class=KRCC>
+&nbsp;
+<SYNC Start=429112><P Class=KRCC>
+착한 아이가 실수를 한것에<br>대해 덮어서 빠져나오게해주려고?
+<SYNC Start=431495><P Class=KRCC>
+&nbsp;
+<SYNC Start=431497><P Class=KRCC>
+내 생각에는 너도 내대답을 알텐데?
+<SYNC Start=434365><P Class=KRCC>
+&nbsp;
+<SYNC Start=434367><P Class=KRCC>
+당신은 위증죄를 한게<br>결백하다고 생각해요?
+<SYNC Start=438369><P Class=KRCC>
+&nbsp;
+<SYNC Start=438371><P Class=KRCC>
+이제 그건 큰 단어군
+<SYNC Start=441088><P Class=KRCC>
+&nbsp;
+<SYNC Start=441090><P Class=KRCC>
+난 그냥 멍청한 파이터야
+<SYNC Start=443124><P Class=KRCC>
+&nbsp;
+<SYNC Start=443126><P Class=KRCC>
+안 그래?
+<SYNC Start=444875><P Class=KRCC>
+&nbsp;
+<SYNC Start=444877><P Class=KRCC>
+이봐 톰은 어제 나랑<br>여기 있었어
+<SYNC Start=446861><P Class=KRCC>
+&nbsp;
+<SYNC Start=446863><P Class=KRCC>
+우리는 어퍼컷 <br>콤비네이션을 연습했어
+<SYNC Start=448679><P Class=KRCC>
+&nbsp;
+<SYNC Start=448681><P Class=KRCC>
+말 했다시피 이도시에는<br>선량한 사람들이 많아
+<SYNC Start=450948><P Class=KRCC>
+&nbsp;
+<SYNC Start=450950><P Class=KRCC>
+누가 안좋은<br>손에 거래하는것을 찾았내
+<SYNC Start=452767><P Class=KRCC>
+&nbsp;
+<SYNC Start=452769><P Class=KRCC>
+그들은 누구를 잃을때<br>자기를 잃는거야
+<SYNC Start=454769><P Class=KRCC>
+&nbsp;
+<SYNC Start=454771><P Class=KRCC>
+여기와서 분노를 풀어
+<SYNC Start=456804><P Class=KRCC>
+&nbsp;
+<SYNC Start=456806><P Class=KRCC>
+난 타입에 없는 사람을 골랐어
+<SYNC Start=459056><P Class=KRCC>
+&nbsp;
+<SYNC Start=459058><P Class=KRCC>
+너 같은 타입
+<SYNC Start=460891><P Class=KRCC>
+&nbsp;
+<SYNC Start=460893><P Class=KRCC>
+내가 화가나있다면<br>그건 내가 거래를 해서에요
+<SYNC Start=463194><P Class=KRCC>
+&nbsp;
+<SYNC Start=463196><P Class=KRCC>
+누군가 지방검사한테<br>거짓말을해
+<SYNC Start=464445><P Class=KRCC>
+&nbsp;
+<SYNC Start=464447><P Class=KRCC>
+불량배를 보호하려고 해서에요
+<SYNC Start=466063><P Class=KRCC>
+&nbsp;
+<SYNC Start=466065><P Class=KRCC>
+난 이게 사건이라고 생각되지않네요
+<SYNC Start=467732><P Class=KRCC>
+&nbsp;
+<SYNC Start=467734><P Class=KRCC>
+어느 쪽이든
+<SYNC Start=471318><P Class=KRCC>
+&nbsp;
+<SYNC Start=471320><P Class=KRCC>
+여기와서 무엇을 하고싶으면<br>일 다끝내고 와
+<SYNC Start=474121><P Class=KRCC>
+&nbsp;
+<SYNC Start=493893><P Class=KRCC>
+테아와 누가 먼저 얘기할까요?
+<SYNC Start=495726><P Class=KRCC>
+&nbsp;
+<SYNC Start=495728><P Class=KRCC>
+내가 그녀하고 먼저 혼자서 얘기해야할까?
+<SYNC Start=498095><P Class=KRCC>
+&nbsp;
+<SYNC Start=498097><P Class=KRCC>
+정말 오랜만이지
+<SYNC Start=500347><P Class=KRCC>
+&nbsp;
+<SYNC Start=500349><P Class=KRCC>
+펠리시티가 어딨는지 알려줬어?
+<SYNC Start=501816><P Class=KRCC>
+&nbsp;
+<SYNC Start=501818><P Class=KRCC>
+펠리시티가 주소를 줬어
+<SYNC Start=504568><P Class=KRCC>
+&nbsp;
+<SYNC Start=519869><P Class=KRCC>
+테아!
+<SYNC Start=522286><P Class=KRCC>
+&nbsp;
+<SYNC Start=526590><P Class=KRCC>
+&nbsp;
+<SYNC Start=527925><P Class=KRCC>
+&nbsp;
+<SYNC Start=529710><P Class=KRCC>
+&nbsp;
+<SYNC Start=529712><P Class=KRCC>
+당신은 미아의 오빠겠군요
+<SYNC Start=532296><P Class=KRCC>
+&nbsp;
+<SYNC Start=532298><P Class=KRCC>
+미아와 닮은것을 봤어요
+<SYNC Start=534048><P Class=KRCC>
+&nbsp;
+<SYNC Start=534050><P Class=KRCC>
+미아가 근처에있나요?
+<SYNC Start=535633><P Class=KRCC>
+&nbsp;
+<SYNC Start=535635><P Class=KRCC>
+그녀는 카페에서 일하고 있어요
+<SYNC Start=538018><P Class=KRCC>
+&nbsp;
+<SYNC Start=538020><P Class=KRCC>
+카페가 어디에요?
+<SYNC Start=539103><P Class=KRCC>
+&nbsp;
+<SYNC Start=539105><P Class=KRCC>
+- 보여드릴께요<br>- 감사합니다
+<SYNC Start=541222><P Class=KRCC>
+&nbsp;
+<SYNC Start=547194><P Class=KRCC>
+&nbsp;
+<SYNC Start=552151><P Class=KRCC>
+난 남아메리카로 오지<br>않았는데요
+<SYNC Start=553984><P Class=KRCC>
+&nbsp;
+<SYNC Start=553986><P Class=KRCC>
+난 중독시켰군요?
+<SYNC Start=555903><P Class=KRCC>
+&nbsp;
+<SYNC Start=557738><P Class=KRCC>
+&nbsp;
+<SYNC Start=557740><P Class=KRCC>
+이건 명상적인 차란다
+<SYNC Start=560074><P Class=KRCC>
+&nbsp;
+<SYNC Start=560076><P Class=KRCC>
+이게 네정신과 몸을<br>활성화시켜줄꺼야
+<SYNC Start=563794><P Class=KRCC>
+&nbsp;
+<SYNC Start=563796><P Class=KRCC>
+내 생각에는 조금맞는게<br>차보다 더필요할거같네요
+<SYNC Start=569300><P Class=KRCC>
+&nbsp;
+<SYNC Start=569302><P Class=KRCC>
+sohei 전사들은 싸울때 정신을
+<SYNC Start=575172><P Class=KRCC>
+&nbsp;
+<SYNC Start=575174><P Class=KRCC>
+검보다 더믿었어
+<SYNC Start=577508><P Class=KRCC>
+&nbsp;
+<SYNC Start=578761><P Class=KRCC>
+난 내가 전사가 되기위해<br>훈련 받던게 기억이 난다
+<SYNC Start=583480><P Class=KRCC>
+&nbsp;
+<SYNC Start=583482><P Class=KRCC>
+난 너처럼
+<SYNC Start=584982><P Class=KRCC>
+&nbsp;
+<SYNC Start=584984><P Class=KRCC>
+내 아내의 죽음에<br>대해 충격을 받았어
+<SYNC Start=587234><P Class=KRCC>
+&nbsp;
+<SYNC Start=587236><P Class=KRCC>
+난... 화가 났었지
+<SYNC Start=589603><P Class=KRCC>
+&nbsp;
+<SYNC Start=589605><P Class=KRCC>
+그리고 상처 받았어
+<SYNC Start=591772><P Class=KRCC>
+&nbsp;
+<SYNC Start=593192><P Class=KRCC>
+고통은 참을 수 없었지
+<SYNC Start=596527><P Class=KRCC>
+&nbsp;
+<SYNC Start=605454><P Class=KRCC>
+이것처럼
+<SYNC Start=607538><P Class=KRCC>
+&nbsp;
+<SYNC Start=609959><P Class=KRCC>
+미쳤군요!<br>손 치워요!
+<SYNC Start=612293><P Class=KRCC>
+&nbsp;
+<SYNC Start=612295><P Class=KRCC>
+모든 전사들은 간단한<br>믿음을 배워야 한다
+<SYNC Start=615763><P Class=KRCC>
+&nbsp;
+<SYNC Start=615765><P Class=KRCC>
+고통은 필연적이야
+<SYNC Start=617514><P Class=KRCC>
+&nbsp;
+<SYNC Start=617516><P Class=KRCC>
+그리고 고통은 선택이지
+<SYNC Start=620384><P Class=KRCC>
+&nbsp;
+<SYNC Start=622136><P Class=KRCC>
+&nbsp;
+<SYNC Start=622138><P Class=KRCC>
+제발 그러지마요..
+<SYNC Start=623721><P Class=KRCC>
+&nbsp;
+<SYNC Start=623723><P Class=KRCC>
+내가 생각하는 그것을 하지마요
+<SYNC Start=624972><P Class=KRCC>
+&nbsp;
+<SYNC Start=624974><P Class=KRCC>
+넌 나보고 가르쳐 달라고 했어
+<SYNC Start=627808><P Class=KRCC>
+&nbsp;
+<SYNC Start=629236><P Class=KRCC>
+안돼
+<SYNC Start=630801><P Class=KRCC>
+&nbsp;
+<SYNC Start=634802><P Class=KRCC>
+&nbsp;
+<SYNC Start=634826><P Class=KRCC>
+== sync, corrected by <font color=#00FF00>elderman</font> ==<br><font color=#00FFFF>@elder_man</font><br>오역 의역 있음 그래도 잘보셈^^
+<SYNC Start=641286><P Class=KRCC>
+&nbsp;
+<SYNC Start=643037><P Class=KRCC>
+&nbsp;
+<SYNC Start=647093><P Class=KRCC>
+테아
+<SYNC Start=649043><P Class=KRCC>
+&nbsp;
+<SYNC Start=653833><P Class=KRCC>
+좋아보이네
+<SYNC Start=655716><P Class=KRCC>
+&nbsp;
+<SYNC Start=655718><P Class=KRCC>
+오빠도 좋아보여
+<SYNC Start=657134><P Class=KRCC>
+&nbsp;
+<SYNC Start=657136><P Class=KRCC>
+어어어떻게?
+<SYNC Start=658602><P Class=KRCC>
+&nbsp;
+<SYNC Start=658604><P Class=KRCC>
+글쎄 정확히 아말피<br>코스트가 아니잖아
+<SYNC Start=661806><P Class=KRCC>
+&nbsp;
+<SYNC Start=663974><P Class=KRCC>
+&nbsp;
+<SYNC Start=665693><P Class=KRCC>
+&nbsp;
+<SYNC Start=665695><P Class=KRCC>
+너 스페인 시험에서<br>떨어지지 않았어?
+<SYNC Start=667778><P Class=KRCC>
+&nbsp;
+<SYNC Start=667780><P Class=KRCC>
+완전히 건너뛴건 아니니까
+<SYNC Start=670564><P Class=KRCC>
+&nbsp;
+<SYNC Start=670566><P Class=KRCC>
+너 좋아보인다
+<SYNC Start=672883><P Class=KRCC>
+&nbsp;
+<SYNC Start=672885><P Class=KRCC>
+너 머리 자른거 <br>마음에드네
+<SYNC Start=675252><P Class=KRCC>
+&nbsp;
+<SYNC Start=675254><P Class=KRCC>
+고마워 머리 짧게 자르고 싶었어
+<SYNC Start=678489><P Class=KRCC>
+&nbsp;
+<SYNC Start=678491><P Class=KRCC>
+여기는 더워서 말이지
+<SYNC Start=680157><P Class=KRCC>
+&nbsp;
+<SYNC Start=681494><P Class=KRCC>
+거짓말해서 미안해
+<SYNC Start=683961><P Class=KRCC>
+&nbsp;
+<SYNC Start=683963><P Class=KRCC>
+올리
+<SYNC Start=685663><P Class=KRCC>
+&nbsp;
+<SYNC Start=685665><P Class=KRCC>
+난 그냥 시간이 <br>필요했어
+<SYNC Start=688666><P Class=KRCC>
+&nbsp;
+<SYNC Start=688668><P Class=KRCC>
+괜찮아 넌 5개월동안<br>시간을 가졌잖아
+<SYNC Start=691802><P Class=KRCC>
+&nbsp;
+<SYNC Start=691804><P Class=KRCC>
+그냥 방문이 아니구나
+<SYNC Start=695506><P Class=KRCC>
+&nbsp;
+<SYNC Start=698311><P Class=KRCC>
+네것도 가져왔어
+<SYNC Start=702346><P Class=KRCC>
+&nbsp;
+<SYNC Start=702348><P Class=KRCC>
+엄마 일이 있고 난뒤
+<SYNC Start=704248><P Class=KRCC>
+&nbsp;
+<SYNC Start=704250><P Class=KRCC>
+난 왜 네가 <br>스탈링을 떠났는지 이해했어
+<SYNC Start=707101><P Class=KRCC>
+&nbsp;
+<SYNC Start=707103><P Class=KRCC>
+하지만 테아
+<SYNC Start=710488><P Class=KRCC>
+&nbsp;
+<SYNC Start=710490><P Class=KRCC>
+난 네가 그리워
+<SYNC Start=712106><P Class=KRCC>
+&nbsp;
+<SYNC Start=714160><P Class=KRCC>
+그리고 난 네가<br>집으로 돌아왔으면해
+<SYNC Start=718529><P Class=KRCC>
+&nbsp;
+<SYNC Start=718531><P Class=KRCC>
+나도 그리워해
+<SYNC Start=721165><P Class=KRCC>
+&nbsp;
+<SYNC Start=721167><P Class=KRCC>
+그리고 엄청 사랑해
+<SYNC Start=725085><P Class=KRCC>
+&nbsp;
+<SYNC Start=725087><P Class=KRCC>
+하지만 난 스탈링 시티로<br>돌아가지 않을꺼야
+<SYNC Start=728839><P Class=KRCC>
+&nbsp;
+<SYNC Start=739302><P Class=KRCC>
+전 못해요 죄송해요
+<SYNC Start=743220><P Class=KRCC>
+&nbsp;
+<SYNC Start=743222><P Class=KRCC>
+너한텐 힘이 있다<br>테아
+<SYNC Start=744889><P Class=KRCC>
+&nbsp;
+<SYNC Start=744891><P Class=KRCC>
+네 자신을 보지못하는것을 난 봤다
+<SYNC Start=747808><P Class=KRCC>
+&nbsp;
+<SYNC Start=747810><P Class=KRCC>
+죄송해요
+<SYNC Start=749977><P Class=KRCC>
+&nbsp;
+<SYNC Start=749979><P Class=KRCC>
+이건 제가 아니에요<br>난 당신이아니에요 전 못해요!
+<SYNC Start=754482><P Class=KRCC>
+&nbsp;
+<SYNC Start=754484><P Class=KRCC>
+괜찮다
+<SYNC Start=757701><P Class=KRCC>
+&nbsp;
+<SYNC Start=757703><P Class=KRCC>
+그건 네 잘못이 아니다
+<SYNC Start=761071><P Class=KRCC>
+&nbsp;
+<SYNC Start=761073><P Class=KRCC>
+내 잘못이지
+<SYNC Start=763457><P Class=KRCC>
+&nbsp;
+<SYNC Start=763459><P Class=KRCC>
+퀸회사 주식이 10달러가 올랐어요
+<SYNC Start=767411><P Class=KRCC>
+&nbsp;
+<SYNC Start=767413><P Class=KRCC>
+사랑스럽군!
+<SYNC Start=769129><P Class=KRCC>
+&nbsp;
+<SYNC Start=769131><P Class=KRCC>
+미스 스모크 좋은 아침
+<SYNC Start=771832><P Class=KRCC>
+&nbsp;
+<SYNC Start=771834><P Class=KRCC>
+내 생각에는 난 여기서<br>밤새도록 있었어
+<SYNC Start=773751><P Class=KRCC>
+&nbsp;
+<SYNC Start=773753><P Class=KRCC>
+내 프로듀서가 남긴 것들 그런것들말이야
+<SYNC Start=775719><P Class=KRCC>
+&nbsp;
+<SYNC Start=775721><P Class=KRCC>
+예의바른 길이네 이것도말해야해? 약간 불안정하네
+<SYNC Start=778172><P Class=KRCC>
+&nbsp;
+<SYNC Start=778174><P Class=KRCC>
+미안해 내가 횡설수설했네<br>카페인이 살짝 많아
+<SYNC Start=780224><P Class=KRCC>
+&nbsp;
+<SYNC Start=780226><P Class=KRCC>
+난 그냥 에스프레소 <br>세컵을 가지고있어
+<SYNC Start=781976><P Class=KRCC>
+&nbsp;
+<SYNC Start=781978><P Class=KRCC>
+내가 멈추게 거기 가많이 있어!
+<SYNC Start=783477><P Class=KRCC>
+&nbsp;
+<SYNC Start=783479><P Class=KRCC>
+내 자신한테 말한거에요<br>난 회사가 일어섰으면 좋겠어요
+<SYNC Start=785563><P Class=KRCC>
+&nbsp;
+<SYNC Start=785565><P Class=KRCC>
+몇 가지 점 말이에요
+<SYNC Start=786525><P Class=KRCC>
+&nbsp;
+<SYNC Start=786548><P Class=KRCC>
+어제밤 이메일은 늦지않았네<br>개인적인 심부름은아니야
+<SYNC Start=788648><P Class=KRCC>
+&nbsp;
+<SYNC Start=788684><P Class=KRCC>
+그리고 절대로 커피는 안먹었어요
+<SYNC Start=791485><P Class=KRCC>
+&nbsp;
+<SYNC Start=791487><P Class=KRCC>
+에스프레소 사주지마요
+<SYNC Start=794071><P Class=KRCC>
+&nbsp;
+<SYNC Start=794073><P Class=KRCC>
+난 단단한 것에 일어섯어요<br>라스토 포인트말이에요
+<SYNC Start=797441><P Class=KRCC>
+&nbsp;
+<SYNC Start=797443><P Class=KRCC>
+그리고 당신의 신념을 존경해
+<SYNC Start=801111><P Class=KRCC>
+&nbsp;
+<SYNC Start=801113><P Class=KRCC>
+제리 콘웨이, 너의 비서야
+<SYNC Start=803581><P Class=KRCC>
+&nbsp;
+<SYNC Start=803583><P Class=KRCC>
+그리고 난 커피를 얻기 위해 그를 좋아하는지 알고 싶었어
+<SYNC Start=807117><P Class=KRCC>
+&nbsp;
+<SYNC Start=807119><P Class=KRCC>
+아니면 넌 그냥 일반적으로 안티라떼야?
+<SYNC Start=809203><P Class=KRCC>
+&nbsp;
+<SYNC Start=809205><P Class=KRCC>
+음... 행정 도우미?
+<SYNC Start=812339><P Class=KRCC>
+&nbsp;
+<SYNC Start=812341><P Class=KRCC>
+내 생각에는 라떼에 예스인것같아
+<SYNC Start=816093><P Class=KRCC>
+&nbsp;
+<SYNC Start=816095><P Class=KRCC>
+고마워 제리
+<SYNC Start=818095><P Class=KRCC>
+&nbsp;
+<SYNC Start=818097><P Class=KRCC>
+고마워 제리
+<SYNC Start=819346><P Class=KRCC>
+&nbsp;
+<SYNC Start=819348><P Class=KRCC>
+우리 일하러 가야 하는건가? 좋아
+<SYNC Start=820764><P Class=KRCC>
+&nbsp;
+<SYNC Start=820766><P Class=KRCC>
+응용 과학
+<SYNC Start=822383><P Class=KRCC>
+&nbsp;
+<SYNC Start=822385><P Class=KRCC>
+퀸회사 첨단 연구 부문
+<SYNC Start=824051><P Class=KRCC>
+&nbsp;
+<SYNC Start=824053><P Class=KRCC>
+어떤 미친 사람을<br>작년에 폭발로 날렸어
+<SYNC Start=825352><P Class=KRCC>
+&nbsp;
+<SYNC Start=825354><P Class=KRCC>
+난 그들이 이유를 가지고<br>있는것을 확신해
+<SYNC Start=827638><P Class=KRCC>
+&nbsp;
+<SYNC Start=827640><P Class=KRCC>
+요점은 내 계획의 초석이라는 것
+<SYNC Start=829907><P Class=KRCC>
+&nbsp;
+<SYNC Start=829908><P Class=KRCC>
+퀸회사를 다시 짓고
+<SYNC Start=831541><P Class=KRCC>
+&nbsp;
+<SYNC Start=831544><P Class=KRCC>
+난 내사람을 가졌다
+<SYNC Start=833944><P Class=KRCC>
+&nbsp;
+<SYNC Start=833946><P Class=KRCC>
+밤과 낮에 일하면서<br>구출이 그들이 할수있는것이야
+<SYNC Start=835646><P Class=KRCC>
+&nbsp;
+<SYNC Start=835648><P Class=KRCC>
+파일 서버도 포함해서
+<SYNC Start=837481><P Class=KRCC>
+&nbsp;
+<SYNC Start=837483><P Class=KRCC>
+응용과학 디자인 작업을 말이지
+<SYNC Start=839867><P Class=KRCC>
+&nbsp;
+<SYNC Start=839869><P Class=KRCC>
+불행하게 이건 일이아니야
+<SYNC Start=841452><P Class=KRCC>
+&nbsp;
+<SYNC Start=841454><P Class=KRCC>
+계좌에 대규모 폭발이 일어나지
+<SYNC Start=843237><P Class=KRCC>
+&nbsp;
+<SYNC Start=843239><P Class=KRCC>
+내가 데이터에 액세스 <br>해주기를 원하는거죠
+<SYNC Start=845205><P Class=KRCC>
+&nbsp;
+<SYNC Start=845207><P Class=KRCC>
+뛰어난 생각은<br>일할 준비를 해주지
+<SYNC Start=846991><P Class=KRCC>
+&nbsp;
+<SYNC Start=846993><P Class=KRCC>
+난 일하러 돌아가야해
+<SYNC Start=849426><P Class=KRCC>
+&nbsp;
+<SYNC Start=849428><P Class=KRCC>
+그러면 왜 당신<br>사무실을 떠나요?
+<SYNC Start=852379><P Class=KRCC>
+&nbsp;
+<SYNC Start=852381><P Class=KRCC>
+아니야 너의 사무실을 떠나는거지
+<SYNC Start=854965><P Class=KRCC>
+&nbsp;
+<SYNC Start=867146><P Class=KRCC>
+이건 라일라의 바쁜 일이야<br>넌 태그 얼롱도 없잖아
+<SYNC Start=869313><P Class=KRCC>
+&nbsp;
+<SYNC Start=869315><P Class=KRCC>
+글쎄 난 휴가를 <br>평범한 사람처럼 보내고싶어
+<SYNC Start=872683><P Class=KRCC>
+&nbsp;
+<SYNC Start=872685><P Class=KRCC>
+작전이 머야?
+<SYNC Start=873901><P Class=KRCC>
+&nbsp;
+<SYNC Start=875402><P Class=KRCC>
+&nbsp;
+<SYNC Start=875404><P Class=KRCC>
+라일라가 나한테 사진을 보냈어
+<SYNC Start=877738><P Class=KRCC>
+&nbsp;
+<SYNC Start=877740><P Class=KRCC>
+그냥 그가 괜찮게할께
+<SYNC Start=879356><P Class=KRCC>
+&nbsp;
+<SYNC Start=882862><P Class=KRCC>
+그를 잡아<br>내가 너를 잡을께
+<SYNC Start=884862><P Class=KRCC>
+&nbsp;
+<SYNC Start=884864><P Class=KRCC>
+그는 우정이있어<br>올리버
+<SYNC Start=887798><P Class=KRCC>
+&nbsp;
+<SYNC Start=890336><P Class=KRCC>
+쇼
+<SYNC Start=892503><P Class=KRCC>
+&nbsp;
+<SYNC Start=892505><P Class=KRCC>
+헤이X8
+<SYNC Start=896006><P Class=KRCC>
+&nbsp;
+<SYNC Start=896008><P Class=KRCC>
+들어봐 난 라일라 마이클스와 함꼐야
+<SYNC Start=897758><P Class=KRCC>
+&nbsp;
+<SYNC Start=897760><P Class=KRCC>
+오늘 꼬리감기원숭이 봤어?
+<SYNC Start=899960><P Class=KRCC>
+&nbsp;
+<SYNC Start=899962><P Class=KRCC>
+그 도전 코드 내가 말해줄께<br>난 아르거스하고 있지않아
+<SYNC Start=901845><P Class=KRCC>
+&nbsp;
+<SYNC Start=901847><P Class=KRCC>
+난 그냥 라일라의 아기 아빠야
+<SYNC Start=903380><P Class=KRCC>
+&nbsp;
+<SYNC Start=903382><P Class=KRCC>
+지금 니가 확인을 안했잖아<br>그녀는 걱정스러웠던거야
+<SYNC Start=905132><P Class=KRCC>
+&nbsp;
+<SYNC Start=905134><P Class=KRCC>
+그녀가 널찾아내라고 보냈어
+<SYNC Start=906967><P Class=KRCC>
+&nbsp;
+<SYNC Start=906969><P Class=KRCC>
+거짓말이면 너의 창자를
+<SYNC Start=908886><P Class=KRCC>
+&nbsp;
+<SYNC Start=908888><P Class=KRCC>
+보도에 뺴놓을 꺼야
+<SYNC Start=910354><P Class=KRCC>
+&nbsp;
+<SYNC Start=910356><P Class=KRCC>
+이제 충분히 공평해
+<SYNC Start=912723><P Class=KRCC>
+&nbsp;
+<SYNC Start=914894><P Class=KRCC>
+라일라가 준 보안트랜스코더를<br>내주머니에 넣었어
+<SYNC Start=918946><P Class=KRCC>
+&nbsp;
+<SYNC Start=927740><P Class=KRCC>
+멋지게 뛰어오르는군, 쇼
+<SYNC Start=929373><P Class=KRCC>
+&nbsp;
+<SYNC Start=929375><P Class=KRCC>
+더 잘뛰면 죽어
+<SYNC Start=932459><P Class=KRCC>
+&nbsp;
+<SYNC Start=932461><P Class=KRCC>
+알았어<br>무슨일이 일어나는거야?
+<SYNC Start=934161><P Class=KRCC>
+&nbsp;
+<SYNC Start=934163><P Class=KRCC>
+여기선 아니야
+<SYNC Start=936547><P Class=KRCC>
+&nbsp;
+<SYNC Start=939218><P Class=KRCC>
+미안해
+<SYNC Start=941251><P Class=KRCC>
+&nbsp;
+<SYNC Start=941253><P Class=KRCC>
+누가 날 지켜보고있거든
+<SYNC Start=942836><P Class=KRCC>
+&nbsp;
+<SYNC Start=942838><P Class=KRCC>
+팀 전체가 날따라다녀
+<SYNC Start=944338><P Class=KRCC>
+&nbsp;
+<SYNC Start=944340><P Class=KRCC>
+기다려 쇼, 무엇이 널<br>이렇게 중요하게 만든거야?
+<SYNC Start=947057><P Class=KRCC>
+&nbsp;
+<SYNC Start=947059><P Class=KRCC>
+나한테 정보가 있어
+<SYNC Start=948592><P Class=KRCC>
+&nbsp;
+<SYNC Start=948593><P Class=KRCC>
+코르토 말테즈에서 온 누군가가<br>서버로 해킹을 했어
+<SYNC Start=951060><P Class=KRCC>
+&nbsp;
+<SYNC Start=951063><P Class=KRCC>
+그리고 사실상 아르거스를 습득했어
+<SYNC Start=952596><P Class=KRCC>
+&nbsp;
+<SYNC Start=952598><P Class=KRCC>
+그들이 팔고 싶어해
+<SYNC Start=954014><P Class=KRCC>
+&nbsp;
+<SYNC Start=954016><P Class=KRCC>
+내가 아르거스를 위해 일하지<br>않는다고 말했잖아
+<SYNC Start=955482><P Class=KRCC>
+&nbsp;
+<SYNC Start=955484><P Class=KRCC>
+사실상 총괄적인데이터가 암호화됐어
+<SYNC Start=957568><P Class=KRCC>
+&nbsp;
+<SYNC Start=957570><P Class=KRCC>
+그건 요원들의 정보를 입력해놓았어
+<SYNC Start=959153><P Class=KRCC>
+&nbsp;
+<SYNC Start=959155><P Class=KRCC>
+개인적인 부분까지 적었어
+<SYNC Start=961605><P Class=KRCC>
+&nbsp;
+<SYNC Start=961607><P Class=KRCC>
+워워워 소프트 타게이라<br>내가족도 있어?
+<SYNC Start=965492><P Class=KRCC>
+&nbsp;
+<SYNC Start=965494><P Class=KRCC>
+그래 여자와 아이야
+<SYNC Start=968028><P Class=KRCC>
+&nbsp;
+<SYNC Start=968030><P Class=KRCC>
+이제 이게 왜중요<br>한지 알겠지?
+<SYNC Start=971915><P Class=KRCC>
+&nbsp;
+<SYNC Start=972225><P Class=KRCC>
+안녕하세요 제이름은 로럴이에요<br>알콜 중독자죠
+<SYNC Start=974426><P Class=KRCC>
+&nbsp;
+<SYNC Start=974428><P Class=KRCC>
+안녕하세요 로럴
+<SYNC Start=976094><P Class=KRCC>
+&nbsp;
+<SYNC Start=976096><P Class=KRCC>
+일주일전...
+<SYNC Start=979347><P Class=KRCC>
+&nbsp;
+<SYNC Start=979349><P Class=KRCC>
+먼 일이 일어났어요
+<SYNC Start=982400><P Class=KRCC>
+&nbsp;
+<SYNC Start=982402><P Class=KRCC>
+어떤일은 누구나<br>공유할수가없어요
+<SYNC Start=985937><P Class=KRCC>
+&nbsp;
+<SYNC Start=985939><P Class=KRCC>
+몇몇은 완전한 이유가있어요
+<SYNC Start=990108><P Class=KRCC>
+&nbsp;
+<SYNC Start=992662><P Class=KRCC>
+전 술을 마시고 싶어한다는<br>것을 생각했어요
+<SYNC Start=996614><P Class=KRCC>
+&nbsp;
+<SYNC Start=996616><P Class=KRCC>
+하지만 그러지 않았어요
+<SYNC Start=998833><P Class=KRCC>
+&nbsp;
+<SYNC Start=998835><P Class=KRCC>
+유혹되지않았어요<br>진짜에요
+<SYNC Start=1000418><P Class=KRCC>
+&nbsp;
+<SYNC Start=1005809><P Class=KRCC>
+난 화가났죠
+<SYNC Start=1008877><P Class=KRCC>
+&nbsp;
+<SYNC Start=1008879><P Class=KRCC>
+그리고 전 그걸로<br>멀할지 몰랐죠
+<SYNC Start=1011012><P Class=KRCC>
+&nbsp;
+<SYNC Start=1011014><P Class=KRCC>
+어쨋든
+<SYNC Start=1014532><P Class=KRCC>
+&nbsp;
+<SYNC Start=1018939><P Class=KRCC>
+저와 공유해주셔서<br>감사해요
+<SYNC Start=1022974><P Class=KRCC>
+&nbsp;
+<SYNC Start=1022976><P Class=KRCC>
+타는 욕망을 느끼신<br>분이 있으세요?
+<SYNC Start=1027145><P Class=KRCC>
+&nbsp;
+<SYNC Start=1029566><P Class=KRCC>
+에리카이고 <br>알콜 중독자에요
+<SYNC Start=1033084><P Class=KRCC>
+&nbsp;
+<SYNC Start=1033086><P Class=KRCC>
+안녕 에리카
+<SYNC Start=1034235><P Class=KRCC>
+&nbsp;
+<SYNC Start=1034237><P Class=KRCC>
+내 남친과 저에요
+<SYNC Start=1036037><P Class=KRCC>
+&nbsp;
+<SYNC Start=1036039><P Class=KRCC>
+다른 이야기는<br>전 어젯밤에 싸웠어요
+<SYNC Start=1037639><P Class=KRCC>
+&nbsp;
+<SYNC Start=1037641><P Class=KRCC>
+그는 아직도<br>술을 마셔요 많이요
+<SYNC Start=1040992><P Class=KRCC>
+&nbsp;
+<SYNC Start=1040994><P Class=KRCC>
+그리고 전 어떤걸 말했어요
+<SYNC Start=1043161><P Class=KRCC>
+&nbsp;
+<SYNC Start=1044464><P Class=KRCC>
+전 그냥 제입을<br>닥치고 있어야 하는걸알았어요
+<SYNC Start=1048216><P Class=KRCC>
+&nbsp;
+<SYNC Start=1048218><P Class=KRCC>
+전그냥 그를<br>떠나야하는데 못하겠어요
+<SYNC Start=1053688><P Class=KRCC>
+&nbsp;
+<SYNC Start=1053690><P Class=KRCC>
+그냥 미팅이네요
+<SYNC Start=1055140><P Class=KRCC>
+&nbsp;
+<SYNC Start=1056808><P Class=KRCC>
+&nbsp;
+<SYNC Start=1056810><P Class=KRCC>
+한달전 에리카가<br>나누었어요
+<SYNC Start=1060011><P Class=KRCC>
+&nbsp;
+<SYNC Start=1060013><P Class=KRCC>
+- 계속 심해졌어요<br>- 그래
+<SYNC Start=1061596><P Class=KRCC>
+&nbsp;
+<SYNC Start=1061598><P Class=KRCC>
+남친이있었는거알아요
+<SYNC Start=1063064><P Class=KRCC>
+&nbsp;
+<SYNC Start=1063066><P Class=KRCC>
+반역 죄가 그를 잡았나요?
+<SYNC Start=1064432><P Class=KRCC>
+&nbsp;
+<SYNC Start=1064434><P Class=KRCC>
+그리고 그냥<br>스탈링시티에 없어요
+<SYNC Start=1065767><P Class=KRCC>
+&nbsp;
+<SYNC Start=1065769><P Class=KRCC>
+그는 영장도없이<br>그를 잡아갔어요
+<SYNC Start=1066985><P Class=KRCC>
+&nbsp;
+<SYNC Start=1066987><P Class=KRCC>
+멀리 있는 코스트시티에서요
+<SYNC Start=1068570><P Class=KRCC>
+&nbsp;
+<SYNC Start=1070071><P Class=KRCC>
+&nbsp;
+<SYNC Start=1070073><P Class=KRCC>
+환경미화원같이<br>그러나 경찰이왔어
+<SYNC Start=1071656><P Class=KRCC>
+&nbsp;
+<SYNC Start=1071658><P Class=KRCC>
+배지들고 이런<br>미팅에 오는겨
+<SYNC Start=1073575><P Class=KRCC>
+&nbsp;
+<SYNC Start=1073577><P Class=KRCC>
+이제 여기 오는건<br>그만둬라
+<SYNC Start=1076494><P Class=KRCC>
+&nbsp;
+<SYNC Start=1081535><P Class=KRCC>
+위치에 있어
+<SYNC Start=1084035><P Class=KRCC>
+&nbsp;
+<SYNC Start=1084037><P Class=KRCC>
+거래는 이밑에서<br>이루어 질꺼야
+<SYNC Start=1086538><P Class=KRCC>
+&nbsp;
+<SYNC Start=1086540><P Class=KRCC>
+지원 안불러도 괜찮겠어?
+<SYNC Start=1090341><P Class=KRCC>
+&nbsp;
+<SYNC Start=1090343><P Class=KRCC>
+이봐
+<SYNC Start=1092544><P Class=KRCC>
+&nbsp;
+<SYNC Start=1092546><P Class=KRCC>
+이건 유일한 보험이야<br>넌 이게 필요할꺼야
+<SYNC Start=1094796><P Class=KRCC>
+&nbsp;
+<SYNC Start=1098185><P Class=KRCC>
+그들이 왔어
+<SYNC Start=1100218><P Class=KRCC>
+&nbsp;
+<SYNC Start=1103190><P Class=KRCC>
+그들이 우리 차<br>봐도 괜찮겠어?
+<SYNC Start=1106524><P Class=KRCC>
+&nbsp;
+<SYNC Start=1107811><P Class=KRCC>
+어떻게 거래가 이루어<br>지는지 알았어?
+<SYNC Start=1110161><P Class=KRCC>
+&nbsp;
+<SYNC Start=1110162><P Class=KRCC>
+난 코르토 말테즈에서<br>정거장 용원으로 삼년째야
+<SYNC Start=1114364><P Class=KRCC>
+&nbsp;
+<SYNC Start=1114367><P Class=KRCC>
+난 세번쨰 세상에<br>컴퓨터에 연결됀 쓰레기야
+<SYNC Start=1117035><P Class=KRCC>
+&nbsp;
+<SYNC Start=1118705><P Class=KRCC>
+머가 잘못됐어?
+<SYNC Start=1120572><P Class=KRCC>
+&nbsp;
+<SYNC Start=1122826><P Class=KRCC>
+여긴 거래 현장이<br>없잖아 쇼?
+<SYNC Start=1125743><P Class=KRCC>
+&nbsp;
+<SYNC Start=1130548><P Class=KRCC>
+&nbsp;
+<SYNC Start=1144431><P Class=KRCC>
+거짓말해서 미안해 존
+<SYNC Start=1146898><P Class=KRCC>
+&nbsp;
+<SYNC Start=1146900><P Class=KRCC>
+거래는 내일 이루어 질꺼야
+<SYNC Start=1149684><P Class=KRCC>
+&nbsp;
+<SYNC Start=1149686><P Class=KRCC>
+이걸 얻어야겠어
+<SYNC Start=1151603><P Class=KRCC>
+&nbsp;
+<SYNC Start=1151605><P Class=KRCC>
+날 도와줘서 고마워
+<SYNC Start=1154906><P Class=KRCC>
+&nbsp;
+<SYNC Start=1154908><P Class=KRCC>
+디글!
+<SYNC Start=1157275><P Class=KRCC>
+&nbsp;
+<SYNC Start=1175758><P Class=KRCC>
+&nbsp;
+<SYNC Start=1179497><P Class=KRCC>
+무겁고 더러운<br>걸 갔고잇네
+<SYNC Start=1182181><P Class=KRCC>
+&nbsp;
+<SYNC Start=1182483><P Class=KRCC>
+네 머리 맘에 들어
+<SYNC Start=1184332><P Class=KRCC>
+&nbsp;
+<SYNC Start=1184334><P Class=KRCC>
+너랑 내오빠랑<br>여행 친구야?
+<SYNC Start=1187936><P Class=KRCC>
+&nbsp;
+<SYNC Start=1188627><P Class=KRCC>
+아니, 우리는<br>그냥 네가 걱정스러웠어
+<SYNC Start=1193330><P Class=KRCC>
+&nbsp;
+<SYNC Start=1195117><P Class=KRCC>
+올리버가 네가 집으로<br>돌아오는거를 말했어 그래서..
+<SYNC Start=1197117><P Class=KRCC>
+&nbsp;
+<SYNC Start=1197119><P Class=KRCC>
+난 추측해서 여기와서<br>널 납득시키려고 하는걸알았어
+<SYNC Start=1200303><P Class=KRCC>
+&nbsp;
+<SYNC Start=1200305><P Class=KRCC>
+글쎄, 넌 못해
+<SYNC Start=1201638><P Class=KRCC>
+&nbsp;
+<SYNC Start=1201640><P Class=KRCC>
+이봐 알았어<br>넌 상처받았어
+<SYNC Start=1203006><P Class=KRCC>
+&nbsp;
+<SYNC Start=1203008><P Class=KRCC>
+내가 거짓말했어<br>네 얼굴앞에서 거짓말했어
+<SYNC Start=1205175><P Class=KRCC>
+&nbsp;
+<SYNC Start=1205177><P Class=KRCC>
+하지만 내가 그때<br>했던 말은 알아줬으면좋겠어
+<SYNC Start=1206938><P Class=KRCC>
+&nbsp;
+<SYNC Start=1206962><P Class=KRCC>
+난 스탈링과 널<br>떠나는 것을 원했어
+<SYNC Start=1208679><P Class=KRCC>
+&nbsp;
+<SYNC Start=1208680><P Class=KRCC>
+이건 거짓말이<br>아니야
+<SYNC Start=1210263><P Class=KRCC>
+&nbsp;
+<SYNC Start=1210265><P Class=KRCC>
+난 너때문에<br>떠났다고 안헀어 로이
+<SYNC Start=1213550><P Class=KRCC>
+&nbsp;
+<SYNC Start=1213552><P Class=KRCC>
+내엄마가 거짓말을했어
+<SYNC Start=1216720><P Class=KRCC>
+&nbsp;
+<SYNC Start=1216722><P Class=KRCC>
+내 오빠도
+<SYNC Start=1219222><P Class=KRCC>
+&nbsp;
+<SYNC Start=1219224><P Class=KRCC>
+난 스탈링을 떠나면서 비밀도 떠났어
+<SYNC Start=1222809><P Class=KRCC>
+&nbsp;
+<SYNC Start=1222811><P Class=KRCC>
+그리고 내자신을<br>여기서 찾았어
+<SYNC Start=1225812><P Class=KRCC>
+&nbsp;
+<SYNC Start=1225814><P Class=KRCC>
+여기 외롭지 않아?
+<SYNC Start=1228565><P Class=KRCC>
+&nbsp;
+<SYNC Start=1228567><P Class=KRCC>
+난 이게좋아
+<SYNC Start=1231234><P Class=KRCC>
+&nbsp;
+<SYNC Start=1231236><P Class=KRCC>
+여긴 아무도없고<br>누구도 날알지못하고
+<SYNC Start=1234154><P Class=KRCC>
+&nbsp;
+<SYNC Start=1234155><P Class=KRCC>
+날 테아 퀸이라고 생각하지않아
+<SYNC Start=1237656><P Class=KRCC>
+&nbsp;
+<SYNC Start=1237659><P Class=KRCC>
+아니면 테아 멀린으로
+<SYNC Start=1239976><P Class=KRCC>
+&nbsp;
+<SYNC Start=1241380><P Class=KRCC>
+아무도 나한테<br>거짓말을하지않아 아니면
+<SYNC Start=1244381><P Class=KRCC>
+&nbsp;
+<SYNC Start=1244383><P Class=KRCC>
+비밀로 부터 <br>보호하지않고
+<SYNC Start=1247751><P Class=KRCC>
+&nbsp;
+<SYNC Start=1247753><P Class=KRCC>
+내가 원한건 니가<br>행복한거야 테아
+<SYNC Start=1250470><P Class=KRCC>
+&nbsp;
+<SYNC Start=1250472><P Class=KRCC>
+미안해 내가<br>그렇게한거
+<SYNC Start=1253056><P Class=KRCC>
+&nbsp;
+<SYNC Start=1253058><P Class=KRCC>
+내가 너한테<br>상처준거 미안해
+<SYNC Start=1255425><P Class=KRCC>
+&nbsp;
+<SYNC Start=1255427><P Class=KRCC>
+집에 있을때보다<br>행복하면..
+<SYNC Start=1258395><P Class=KRCC>
+&nbsp;
+<SYNC Start=1258397><P Class=KRCC>
+여기서 살아
+<SYNC Start=1260730><P Class=KRCC>
+&nbsp;
+<SYNC Start=1263685><P Class=KRCC>
+로이?
+<SYNC Start=1266736><P Class=KRCC>
+&nbsp;
+<SYNC Start=1268690><P Class=KRCC>
+너 괜찮아?
+<SYNC Start=1270540><P Class=KRCC>
+&nbsp;
+<SYNC Start=1270542><P Class=KRCC>
+너 살짝<br>피곤해보여
+<SYNC Start=1273443><P Class=KRCC>
+&nbsp;
+<SYNC Start=1273445><P Class=KRCC>
+그냥 잠을<br>많이 못자서 그래
+<SYNC Start=1276196><P Class=KRCC>
+&nbsp;
+<SYNC Start=1276198><P Class=KRCC>
+너도 건강 챙겨
+<SYNC Start=1278949><P Class=KRCC>
+&nbsp;
+<SYNC Start=1293632><P Class=KRCC>
+무슨 뜻이야?
+<SYNC Start=1296132><P Class=KRCC>
+&nbsp;
+<SYNC Start=1296134><P Class=KRCC>
+너의 잘못이아니라<br>내 잘못이라니
+<SYNC Start=1299135><P Class=KRCC>
+&nbsp;
+<SYNC Start=1300939><P Class=KRCC>
+난 이걸 다르게할줄<br>생각했어
+<SYNC Start=1302939><P Class=KRCC>
+&nbsp;
+<SYNC Start=1302941><P Class=KRCC>
+하지만 못해
+<SYNC Start=1304274><P Class=KRCC>
+&nbsp;
+<SYNC Start=1304276><P Class=KRCC>
+난 너를 훈련시켜야해<br>내가 훈련 받았던것처럼
+<SYNC Start=1307110><P Class=KRCC>
+&nbsp;
+<SYNC Start=1307112><P Class=KRCC>
+내 제자로 대할게
+<SYNC Start=1309813><P Class=KRCC>
+&nbsp;
+<SYNC Start=1309815><P Class=KRCC>
+내 딸이 아니라
+<SYNC Start=1312282><P Class=KRCC>
+&nbsp;
+<SYNC Start=1314818><P Class=KRCC>
+&nbsp;
+<SYNC Start=1314820><P Class=KRCC>
+무슨 짓이에요?!
+<SYNC Start=1317621><P Class=KRCC>
+&nbsp;
+<SYNC Start=1317623><P Class=KRCC>
+이한가지 방식이<br>성질을 만들어줄꺼야
+<SYNC Start=1321625><P Class=KRCC>
+&nbsp;
+<SYNC Start=1323710><P Class=KRCC>
+&nbsp;
+<SYNC Start=1323712><P Class=KRCC>
+나한테 떨어져<br>이 병든 개새끼야
+<SYNC Start=1327297><P Class=KRCC>
+&nbsp;
+<SYNC Start=1328667><P Class=KRCC>
+이제 다시 시작<br>할수 있겠구나
+<SYNC Start=1330667><P Class=KRCC>
+&nbsp;
+<SYNC Start=1332387><P Class=KRCC>
+왜 일찍 전화안했어?<br>그랬으면 도와줬을텐데
+<SYNC Start=1335255><P Class=KRCC>
+&nbsp;
+<SYNC Start=1335257><P Class=KRCC>
+라일라 네가 걱정하는게<br>싫었어
+<SYNC Start=1336556><P Class=KRCC>
+&nbsp;
+<SYNC Start=1336558><P Class=KRCC>
+내가 이걸 해결할<br>수있다고 생각했거든
+<SYNC Start=1337891><P Class=KRCC>
+&nbsp;
+<SYNC Start=1337893><P Class=KRCC>
+글쎄 우리가<br>그의 이메일을 해킹했어
+<SYNC Start=1339309><P Class=KRCC>
+&nbsp;
+<SYNC Start=1339310><P Class=KRCC>
+그의 손님이<br>코르토 말테즈에 있어
+<SYNC Start=1340665><P Class=KRCC>
+&nbsp;
+<SYNC Start=1340666><P Class=KRCC>
+누구야?
+<SYNC Start=1341268><P Class=KRCC>
+&nbsp;
+<SYNC Start=1341292><P Class=KRCC>
+테크 보이야 아직도<br>일하고 있어
+<SYNC Start=1343056><P Class=KRCC>
+&nbsp;
+<SYNC Start=1343466><P Class=KRCC>
+월러가 팀을 만들어서<br>그쪽으로 보낼꺼야
+<SYNC Start=1345682><P Class=KRCC>
+&nbsp;
+<SYNC Start=1345684><P Class=KRCC>
+그들은 시간안에<br>못올 꺼야
+<SYNC Start=1347184><P Class=KRCC>
+&nbsp;
+<SYNC Start=1347186><P Class=KRCC>
+그들은 네 파우더 드라이를<br>지킬 꺼야
+<SYNC Start=1349853><P Class=KRCC>
+&nbsp;
+<SYNC Start=1349855><P Class=KRCC>
+알았어
+<SYNC Start=1351622><P Class=KRCC>
+&nbsp;
+<SYNC Start=1353442><P Class=KRCC>
+우리는 우리의<br>파우더 드라이를 지키지 않을꺼야
+<SYNC Start=1355492><P Class=KRCC>
+&nbsp;
+<SYNC Start=1355494><P Class=KRCC>
+바라지 마
+<SYNC Start=1357828><P Class=KRCC>
+&nbsp;
+<SYNC Start=1360866><P Class=KRCC>
+이봐
+<SYNC Start=1363066><P Class=KRCC>
+&nbsp;
+<SYNC Start=1363068><P Class=KRCC>
+디지털 도마뱀이 죽었어?
+<SYNC Start=1365602><P Class=KRCC>
+&nbsp;
+<SYNC Start=1365604><P Class=KRCC>
+하드드라이브가 <br>토스트 가 됐어요
+<SYNC Start=1367438><P Class=KRCC>
+&nbsp;
+<SYNC Start=1367440><P Class=KRCC>
+파워 서플라이도요
+<SYNC Start=1369039><P Class=KRCC>
+&nbsp;
+<SYNC Start=1369041><P Class=KRCC>
+그리고 액추에이터도요
+<SYNC Start=1371375><P Class=KRCC>
+&nbsp;
+<SYNC Start=1371377><P Class=KRCC>
+오, 내가 전산학 패턴을 찾았네
+<SYNC Start=1372976><P Class=KRCC>
+&nbsp;
+<SYNC Start=1372978><P Class=KRCC>
+죄송해요 잠깐만요
+<SYNC Start=1377181><P Class=KRCC>
+&nbsp;
+<SYNC Start=1377183><P Class=KRCC>
+여보세요?
+<SYNC Start=1379283><P Class=KRCC>
+&nbsp;
+<SYNC Start=1379285><P Class=KRCC>
+헤이, 펠리시티<br>존인데 어디야?
+<SYNC Start=1381351><P Class=KRCC>
+&nbsp;
+<SYNC Start=1381353><P Class=KRCC>
+내가 말해도<br>믿지않을거에요
+<SYNC Start=1383687><P Class=KRCC>
+&nbsp;
+<SYNC Start=1383689><P Class=KRCC>
+- 컴퓨터 근처에있어?<br>- 그런 거 같네요
+<SYNC Start=1385439><P Class=KRCC>
+&nbsp;
+<SYNC Start=1385440><P Class=KRCC>
+내가 코르토 말테즈에서<br>누군가를 찾고있어
+<SYNC Start=1387390><P Class=KRCC>
+&nbsp;
+<SYNC Start=1387393><P Class=KRCC>
+실제로 조금 중간에..
+<SYNC Start=1389393><P Class=KRCC>
+&nbsp;
+<SYNC Start=1389395><P Class=KRCC>
+그가 어딧는지<br>알아야 겠어
+<SYNC Start=1390477><P Class=KRCC>
+&nbsp;
+<SYNC Start=1390500><P Class=KRCC>
+이메일로 그에<br>대한 모든것을 보냈어
+<SYNC Start=1391995><P Class=KRCC>
+&nbsp;
+<SYNC Start=1391997><P Class=KRCC>
+... 미팅 중이에요
+<SYNC Start=1393814><P Class=KRCC>
+&nbsp;
+<SYNC Start=1393816><P Class=KRCC>
+정말죄송해요<br>친구에요
+<SYNC Start=1396233><P Class=KRCC>
+&nbsp;
+<SYNC Start=1396235><P Class=KRCC>
+몇명의 친구죠..
+<SYNC Start=1398619><P Class=KRCC>
+&nbsp;
+<SYNC Start=1398621><P Class=KRCC>
+정말 긴 이야기에요
+<SYNC Start=1401788><P Class=KRCC>
+&nbsp;
+<SYNC Start=1401790><P Class=KRCC>
+그 많은 이야기에 <br>인상이깊네
+<SYNC Start=1404741><P Class=KRCC>
+&nbsp;
+<SYNC Start=1404743><P Class=KRCC>
+얼마나 길지?
+<SYNC Start=1407411><P Class=KRCC>
+&nbsp;
+<SYNC Start=1407413><P Class=KRCC>
+내가 나중에<br>오기를 바래?
+<SYNC Start=1408412><P Class=KRCC>
+&nbsp;
+<SYNC Start=1408414><P Class=KRCC>
+머라고요? 미안해요
+<SYNC Start=1410247><P Class=KRCC>
+&nbsp;
+<SYNC Start=1410249><P Class=KRCC>
+여보세요?
+<SYNC Start=1411999><P Class=KRCC>
+&nbsp;
+<SYNC Start=1412001><P Class=KRCC>
+펠리시티 난 친절이 필요해
+<SYNC Start=1413250><P Class=KRCC>
+&nbsp;
+<SYNC Start=1413252><P Class=KRCC>
+우리이제 친절한<br>친구에요?
+<SYNC Start=1415502><P Class=KRCC>
+&nbsp;
+<SYNC Start=1415504><P Class=KRCC>
+- 우리 친구에요?<br>- 머라고?
+<SYNC Start=1417671><P Class=KRCC>
+&nbsp;
+<SYNC Start=1417673><P Class=KRCC>
+아무것도 아니에요 죄송해요
+<SYNC Start=1419456><P Class=KRCC>
+&nbsp;
+<SYNC Start=1419458><P Class=KRCC>
+오 세상에 일초만요<br>일초만 더요 여보세요?
+<SYNC Start=1422092><P Class=KRCC>
+&nbsp;
+<SYNC Start=1422094><P Class=KRCC>
+전화가 끊겼네
+<SYNC Start=1423343><P Class=KRCC>
+&nbsp;
+<SYNC Start=1423345><P Class=KRCC>
+당신이 나한테<br>보낸 파일에 따르면
+<SYNC Start=1424661><P Class=KRCC>
+&nbsp;
+<SYNC Start=1424663><P Class=KRCC>
+이 자는 해커에요
+<SYNC Start=1426713><P Class=KRCC>
+&nbsp;
+<SYNC Start=1426715><P Class=KRCC>
+맞쳐볼께 긴이야기지?
+<SYNC Start=1428899><P Class=KRCC>
+&nbsp;
+<SYNC Start=1428901><P Class=KRCC>
+그래 이자는 내가알아보기는<br>아르거스 시스템을 해킹했어
+<SYNC Start=1431051><P Class=KRCC>
+&nbsp;
+<SYNC Start=1431053><P Class=KRCC>
+그리고 자국을 남겼어요<br>그는뛰어난 해커에요
+<SYNC Start=1432936><P Class=KRCC>
+&nbsp;
+<SYNC Start=1432938><P Class=KRCC>
+그러니 약간의 운이 필요하겠어요<br>내가 찾아낼께요
+<SYNC Start=1435689><P Class=KRCC>
+&nbsp;
+<SYNC Start=1435691><P Class=KRCC>
+내가 무엇을 찾아내면 이메일로 보낼께요
+<SYNC Start=1438942><P Class=KRCC>
+&nbsp;
+<SYNC Start=1438944><P Class=KRCC>
+오늘 조금 바쁜 날이네요
+<SYNC Start=1441578><P Class=KRCC>
+&nbsp;
+<SYNC Start=1441580><P Class=KRCC>
+내가 누구를 찾고있어
+<SYNC Start=1444114><P Class=KRCC>
+&nbsp;
+<SYNC Start=1444116><P Class=KRCC>
+그의 gps를 켜요
+<SYNC Start=1446083><P Class=KRCC>
+&nbsp;
+<SYNC Start=1446085><P Class=KRCC>
+나중에 전화해도 될까요?
+<SYNC Start=1448952><P Class=KRCC>
+&nbsp;
+<SYNC Start=1448954><P Class=KRCC>
+이건 전형적인 날이네
+<SYNC Start=1451088><P Class=KRCC>
+&nbsp;
+<SYNC Start=1451090><P Class=KRCC>
+믿든지 말든지 <br>원래는 더심해요
+<SYNC Start=1454725><P Class=KRCC>
+&nbsp;
+<SYNC Start=1454727><P Class=KRCC>
+펠리시티가 쇼의 위치를알면<br>나한테 문자해주면 내가 찾아갈께
+<SYNC Start=1457211><P Class=KRCC>
+&nbsp;
+<SYNC Start=1457213><P Class=KRCC>
+- 테아?<br>- 그래
+<SYNC Start=1459763><P Class=KRCC>
+&nbsp;
+<SYNC Start=1459765><P Class=KRCC>
+올리버 제생각에는<br>그녀는 안올꺼 같아요
+<SYNC Start=1461265><P Class=KRCC>
+&nbsp;
+<SYNC Start=1461267><P Class=KRCC>
+그녀의마음을 바꾸려 <br>했지만 그녀가 원하지않아요
+<SYNC Start=1462966><P Class=KRCC>
+&nbsp;
+<SYNC Start=1462968><P Class=KRCC>
+난 그녀를 원망하지 않아요
+<SYNC Start=1464218><P Class=KRCC>
+&nbsp;
+<SYNC Start=1464220><P Class=KRCC>
+내말은 우리둘다 <br>그녀에게 거짓말했잖아요 많이요
+<SYNC Start=1466770><P Class=KRCC>
+&nbsp;
+<SYNC Start=1466772><P Class=KRCC>
+나도알아 이제<br>그녀에게 사실을 말해줄꺼야
+<SYNC Start=1468772><P Class=KRCC>
+&nbsp;
+<SYNC Start=1468774><P Class=KRCC>
+올리버 네가 말한 사실이..
+<SYNC Start=1470390><P Class=KRCC>
+&nbsp;
+<SYNC Start=1470392><P Class=KRCC>
+내가 5년동안 떠나있을때
+<SYNC Start=1472226><P Class=KRCC>
+&nbsp;
+<SYNC Start=1472228><P Class=KRCC>
+내가 돌아올줄은 몰랐어
+<SYNC Start=1473777><P Class=KRCC>
+&nbsp;
+<SYNC Start=1473779><P Class=KRCC>
+모든게말야
+<SYNC Start=1475862><P Class=KRCC>
+&nbsp;
+<SYNC Start=1475864><P Class=KRCC>
+글쎄, 넌 몇초동안<br>생각좀해
+<SYNC Start=1477397><P Class=KRCC>
+&nbsp;
+<SYNC Start=1477399><P Class=KRCC>
+거짓말이 테아를<br>스탈링시티에서 떠나게했어
+<SYNC Start=1480617><P Class=KRCC>
+&nbsp;
+<SYNC Start=1480619><P Class=KRCC>
+진실이 테아를<br>돌아오게할꺼야
+<SYNC Start=1482986><P Class=KRCC>
+&nbsp;
+<SYNC Start=1482988><P Class=KRCC>
+너도 테아한테<br>사실을 말할꺼야?
+<SYNC Start=1485122><P Class=KRCC>
+&nbsp;
+<SYNC Start=1485124><P Class=KRCC>
+그녀한테 오빠가 이때까지<br>얼굴앞에서 거짓말했던것을말할거야
+<SYNC Start=1487958><P Class=KRCC>
+&nbsp;
+<SYNC Start=1487960><P Class=KRCC>
+거의 병적인 성질을<br>지난 2년동안 가지고 있던거를말할꺼야?
+<SYNC Start=1491712><P Class=KRCC>
+&nbsp;
+<SYNC Start=1491714><P Class=KRCC>
+그녀는 네가 다른<br>말을 할때까지 믿지 않을꺼야
+<SYNC Start=1493997><P Class=KRCC>
+&nbsp;
+<SYNC Start=1493999><P Class=KRCC>
+그리고 그녀를<br>잃게 될꺼야 올리버 평생동안
+<SYNC Start=1496166><P Class=KRCC>
+&nbsp;
+<SYNC Start=1496168><P Class=KRCC>
+글쎄, 잘봐
+<SYNC Start=1499720><P Class=KRCC>
+&nbsp;
+<SYNC Start=1499722><P Class=KRCC>
+난 이미 그녀를<br>잃었어
+<SYNC Start=1502055><P Class=KRCC>
+&nbsp;
+<SYNC Start=1502057><P Class=KRCC>
+나한텐 다른<br>방법이 없어
+<SYNC Start=1504641><P Class=KRCC>
+&nbsp;
+<SYNC Start=1522027><P Class=KRCC>
+여자를 떄리라는<br>것처럼 들리네
+<SYNC Start=1524611><P Class=KRCC>
+&nbsp;
+<SYNC Start=1524613><P Class=KRCC>
+어떤 사람이<br>다시 반격하는건 어떄?
+<SYNC Start=1526780><P Class=KRCC>
+&nbsp;
+<SYNC Start=1528949><P Class=KRCC>
+&nbsp;
+<SYNC Start=1533756><P Class=KRCC>
+네가 맞아<br>반격하는게 더좋지
+<SYNC Start=1537708><P Class=KRCC>
+&nbsp;
+<SYNC Start=1542796><P Class=KRCC>
+&nbsp;
+<SYNC Start=1544965><P Class=KRCC>
+&nbsp;
+<SYNC Start=1557258><P Class=KRCC>
+&nbsp;
+<SYNC Start=1558678><P Class=KRCC>
+아가 괜찮니?
+<SYNC Start=1560845><P Class=KRCC>
+&nbsp;
+<SYNC Start=1560847><P Class=KRCC>
+정말 죄송해요
+<SYNC Start=1563364><P Class=KRCC>
+&nbsp;
+<SYNC Start=1563366><P Class=KRCC>
+내가 너한테 미친걸<br>다행으로 여겨 진짜야
+<SYNC Start=1566383><P Class=KRCC>
+&nbsp;
+<SYNC Start=1566385><P Class=KRCC>
+하지만 얘야
+<SYNC Start=1570805><P Class=KRCC>
+&nbsp;
+<SYNC Start=1570807><P Class=KRCC>
+이건 미친짓이야
+<SYNC Start=1573040><P Class=KRCC>
+&nbsp;
+<SYNC Start=1573042><P Class=KRCC>
+무슨 생각으로
+<SYNC Start=1574375><P Class=KRCC>
+&nbsp;
+<SYNC Start=1574377><P Class=KRCC>
+어떤 여자의 남친을<br>떄리니?
+<SYNC Start=1576544><P Class=KRCC>
+&nbsp;
+<SYNC Start=1576546><P Class=KRCC>
+그냥 일에서 벗어날것<br>이 필요했어요
+<SYNC Start=1579363><P Class=KRCC>
+&nbsp;
+<SYNC Start=1579365><P Class=KRCC>
+전 세상을알아요<br>공평하지 않아요
+<SYNC Start=1582450><P Class=KRCC>
+&nbsp;
+<SYNC Start=1582452><P Class=KRCC>
+난 어디가 끔찍한..
+<SYNC Start=1586237><P Class=KRCC>
+&nbsp;
+<SYNC Start=1586239><P Class=KRCC>
+사람들이 정당하게<br>벌을 받아야할곳이에요
+<SYNC Start=1589406><P Class=KRCC>
+&nbsp;
+<SYNC Start=1589408><P Class=KRCC>
+하지만 그들은 안그래요
+<SYNC Start=1592660><P Class=KRCC>
+&nbsp;
+<SYNC Start=1596280><P Class=KRCC>
+&nbsp;
+<SYNC Start=1596282><P Class=KRCC>
+그냥 하룻 밤만요
+<SYNC Start=1598916><P Class=KRCC>
+&nbsp;
+<SYNC Start=1598918><P Class=KRCC>
+전 세상을<br>다르게 봐요
+<SYNC Start=1600968><P Class=KRCC>
+&nbsp;
+<SYNC Start=1600970><P Class=KRCC>
+그래 로럴, 로럴
+<SYNC Start=1604572><P Class=KRCC>
+&nbsp;
+<SYNC Start=1604574><P Class=KRCC>
+너한테 무슨일이<br>벌어나는거니 허?
+<SYNC Start=1606390><P Class=KRCC>
+&nbsp;
+<SYNC Start=1606392><P Class=KRCC>
+최근에 네 자신이<br>아니였어
+<SYNC Start=1607925><P Class=KRCC>
+&nbsp;
+<SYNC Start=1607927><P Class=KRCC>
+그리고 이젠<br>주변을달려
+<SYNC Start=1609510><P Class=KRCC>
+&nbsp;
+<SYNC Start=1609512><P Class=KRCC>
+이자를 떄리고<br>머하는 짓이니?
+<SYNC Start=1613097><P Class=KRCC>
+&nbsp;
+<SYNC Start=1613099><P Class=KRCC>
+아가야 나한테<br>다말해 아무거나
+<SYNC Start=1615149><P Class=KRCC>
+&nbsp;
+<SYNC Start=1615151><P Class=KRCC>
+너도알잖아 응?
+<SYNC Start=1617184><P Class=KRCC>
+&nbsp;
+<SYNC Start=1617186><P Class=KRCC>
+알아요
+<SYNC Start=1619770><P Class=KRCC>
+&nbsp;
+<SYNC Start=1623075><P Class=KRCC>
+그러면 나한테 말해
+<SYNC Start=1625826><P Class=KRCC>
+&nbsp;
+<SYNC Start=1628496><P Class=KRCC>
+&nbsp;
+<SYNC Start=1638040><P Class=KRCC>
+로럴 넌 애로우가 아니야
+<SYNC Start=1640758><P Class=KRCC>
+&nbsp;
+<SYNC Start=1640760><P Class=KRCC>
+아니면 네 여동생이나
+<SYNC Start=1643127><P Class=KRCC>
+&nbsp;
+<SYNC Start=1645882><P Class=KRCC>
+다시는 이런짓<br>안한다고 약속해!
+<SYNC Start=1648799><P Class=KRCC>
+&nbsp;
+<SYNC Start=1648801><P Class=KRCC>
+약속해요
+<SYNC Start=1651969><P Class=KRCC>
+&nbsp;
+<SYNC Start=1651971><P Class=KRCC>
+이건 실수였다고<br>생각하고있어요
+<SYNC Start=1655940><P Class=KRCC>
+&nbsp;
+<SYNC Start=1667569><P Class=KRCC>
+코르토 말테즈에 지내고<br>싶으면 괜찮아
+<SYNC Start=1669736><P Class=KRCC>
+&nbsp;
+<SYNC Start=1669739><P Class=KRCC>
+여긴 관광할거리가<br>많지 않아
+<SYNC Start=1671789><P Class=KRCC>
+&nbsp;
+<SYNC Start=1671791><P Class=KRCC>
+이야기 좀하자
+<SYNC Start=1673407><P Class=KRCC>
+&nbsp;
+<SYNC Start=1673409><P Class=KRCC>
+오빠하고 그리고 베프 로이하고는
+<SYNC Start=1675859><P Class=KRCC>
+&nbsp;
+<SYNC Start=1675861><P Class=KRCC>
+모든걸 말할꺼 같네
+<SYNC Start=1677561><P Class=KRCC>
+&nbsp;
+<SYNC Start=1677563><P Class=KRCC>
+난 아냐
+<SYNC Start=1679947><P Class=KRCC>
+&nbsp;
+<SYNC Start=1679949><P Class=KRCC>
+아직이야 어쨋든
+<SYNC Start=1682232><P Class=KRCC>
+&nbsp;
+<SYNC Start=1684701><P Class=KRCC>
+&nbsp;
+<SYNC Start=1686038><P Class=KRCC>
+로이가 니가남긴<br>메세지를 보여줫어
+<SYNC Start=1688705><P Class=KRCC>
+&nbsp;
+<SYNC Start=1688707><P Class=KRCC>
+그리고 네가<br>다맞았어
+<SYNC Start=1690791><P Class=KRCC>
+&nbsp;
+<SYNC Start=1690793><P Class=KRCC>
+너한테 거짓말을했어<br>비밀도 숨기고
+<SYNC Start=1693827><P Class=KRCC>
+&nbsp;
+<SYNC Start=1693829><P Class=KRCC>
+진실은
+<SYNC Start=1696380><P Class=KRCC>
+&nbsp;
+<SYNC Start=1696382><P Class=KRCC>
+내가말해도..
+<SYNC Start=1698498><P Class=KRCC>
+&nbsp;
+<SYNC Start=1698500><P Class=KRCC>
+나에 다른 것을 알게될거야
+<SYNC Start=1701168><P Class=KRCC>
+&nbsp;
+<SYNC Start=1701170><P Class=KRCC>
+그러면 널 <br>평생동안 잃게 되겠지
+<SYNC Start=1704504><P Class=KRCC>
+&nbsp;
+<SYNC Start=1704506><P Class=KRCC>
+난 5년을<br>여러가지 종류의 지옥에서 살았어
+<SYNC Start=1707891><P Class=KRCC>
+&nbsp;
+<SYNC Start=1707893><P Class=KRCC>
+여러가지 일이<br>일어났지
+<SYNC Start=1710844><P Class=KRCC>
+&nbsp;
+<SYNC Start=1710846><P Class=KRCC>
+거기서 내가 했던 일...
+<SYNC Start=1715766><P Class=KRCC>
+&nbsp;
+<SYNC Start=1717484><P Class=KRCC>
+&nbsp;
+<SYNC Start=1717486><P Class=KRCC>
+네가 알게 된다면
+<SYNC Start=1719686><P Class=KRCC>
+&nbsp;
+<SYNC Start=1719688><P Class=KRCC>
+날 다르게 볼꺼야
+<SYNC Start=1721772><P Class=KRCC>
+&nbsp;
+<SYNC Start=1721774><P Class=KRCC>
+난 항상 내 오빠로<br>볼꺼야
+<SYNC Start=1725492><P Class=KRCC>
+&nbsp;
+<SYNC Start=1725494><P Class=KRCC>
+내말은 거기서 무슨일이
+<SYNC Start=1727911><P Class=KRCC>
+&nbsp;
+<SYNC Start=1727913><P Class=KRCC>
+일어났든, 오빠가 누가됬던간
+<SYNC Start=1731999><P Class=KRCC>
+&nbsp;
+<SYNC Start=1732001><P Class=KRCC>
+내 인생에관한 비밀을 숨겼어
+<SYNC Start=1736670><P Class=KRCC>
+&nbsp;
+<SYNC Start=1738624><P Class=KRCC>
+내말은 나한테 거짓말을했어
+<SYNC Start=1741792><P Class=KRCC>
+&nbsp;
+<SYNC Start=1741794><P Class=KRCC>
+내 아버지가 누구였는지
+<SYNC Start=1744795><P Class=KRCC>
+&nbsp;
+<SYNC Start=1748434><P Class=KRCC>
+말콤의 피가 너한테도 있찌
+<SYNC Start=1752352><P Class=KRCC>
+&nbsp;
+<SYNC Start=1752354><P Class=KRCC>
+하지만 로버트가 너의 아버지야
+<SYNC Start=1755055><P Class=KRCC>
+&nbsp;
+<SYNC Start=1759028><P Class=KRCC>
+난 그에대한것도<br>거짓말했어
+<SYNC Start=1761812><P Class=KRCC>
+&nbsp;
+<SYNC Start=1761814><P Class=KRCC>
+아빠는 우리가<br>생각했던 사람이 아니였어
+<SYNC Start=1765065><P Class=KRCC>
+&nbsp;
+<SYNC Start=1765067><P Class=KRCC>
+더 뛰어나셧지
+<SYNC Start=1767951><P Class=KRCC>
+&nbsp;
+<SYNC Start=1767953><P Class=KRCC>
+그리고 난 너한테도<br>숨겼어 왜녀하면 그냥..
+<SYNC Start=1771788><P Class=KRCC>
+&nbsp;
+<SYNC Start=1774043><P Class=KRCC>
+네가 그걸 알기 바라지 않아서 그랬어
+<SYNC Start=1777044><P Class=KRCC>
+&nbsp;
+<SYNC Start=1779131><P Class=KRCC>
+아빠는 나랑 겜빗호를<br>탈출했어
+<SYNC Start=1782382><P Class=KRCC>
+&nbsp;
+<SYNC Start=1782384><P Class=KRCC>
+나보곤 익사하셧다고 했잖아
+<SYNC Start=1785585><P Class=KRCC>
+&nbsp;
+<SYNC Start=1785587><P Class=KRCC>
+우리는 구명 보트에 탔어
+<SYNC Start=1789172><P Class=KRCC>
+&nbsp;
+<SYNC Start=1789174><P Class=KRCC>
+물과 식량이 부족해져서
+<SYNC Start=1792426><P Class=KRCC>
+&nbsp;
+<SYNC Start=1794263><P Class=KRCC>
+자살하신거야
+<SYNC Start=1796730><P Class=KRCC>
+&nbsp;
+<SYNC Start=1799652><P Class=KRCC>
+그리고 너한테 말한<br>한가지 비밀이야
+<SYNC Start=1803437><P Class=KRCC>
+&nbsp;
+<SYNC Start=1803439><P Class=KRCC>
+왜나하면 네가<br>엄마와 아빠에 대해
+<SYNC Start=1806740><P Class=KRCC>
+&nbsp;
+<SYNC Start=1806742><P Class=KRCC>
+깨달았으면해
+<SYNC Start=1810077><P Class=KRCC>
+&nbsp;
+<SYNC Start=1810079><P Class=KRCC>
+그들은 희생했다는것을
+<SYNC Start=1812913><P Class=KRCC>
+&nbsp;
+<SYNC Start=1812915><P Class=KRCC>
+그래서 우리가 살아있는것을
+<SYNC Start=1815449><P Class=KRCC>
+&nbsp;
+<SYNC Start=1815451><P Class=KRCC>
+우리가 같이 안있는다면...
+<SYNC Start=1819202><P Class=KRCC>
+&nbsp;
+<SYNC Start=1819204><P Class=KRCC>
+우리는 살아 있지 않을 꺼야
+<SYNC Start=1821688><P Class=KRCC>
+&nbsp;
+<SYNC Start=1821690><P Class=KRCC>
+넌 내가족이야
+<SYNC Start=1824374><P Class=KRCC>
+&nbsp;
+<SYNC Start=1824376><P Class=KRCC>
+만약에 네가 날<br>필요로 하지않더라도
+<SYNC Start=1827044><P Class=KRCC>
+&nbsp;
+<SYNC Start=1828931><P Class=KRCC>
+난 네가 필요해
+<SYNC Start=1830964><P Class=KRCC>
+&nbsp;
+<SYNC Start=1832518><P Class=KRCC>
+내가 말하는것을<br>고려해봐
+<SYNC Start=1836770><P Class=KRCC>
+&nbsp;
+<SYNC Start=1849385><P Class=KRCC>
+그가 왔어
+<SYNC Start=1851618><P Class=KRCC>
+&nbsp;
+<SYNC Start=1851620><P Class=KRCC>
+그래서 저자가 손님이군
+<SYNC Start=1853286><P Class=KRCC>
+&nbsp;
+<SYNC Start=1863031><P Class=KRCC>
+아미티지라고 예상했지
+<SYNC Start=1864831><P Class=KRCC>
+&nbsp;
+<SYNC Start=1864833><P Class=KRCC>
+이 나라는 가치가 없지 미스터 아미티지
+<SYNC Start=1868051><P Class=KRCC>
+&nbsp;
+<SYNC Start=1868053><P Class=KRCC>
+아이템은 있어?
+<SYNC Start=1869886><P Class=KRCC>
+&nbsp;
+<SYNC Start=1871090><P Class=KRCC>
+돈은 어딨어?
+<SYNC Start=1873206><P Class=KRCC>
+&nbsp;
+<SYNC Start=1878230><P Class=KRCC>
+그리고 트랜스코더?
+<SYNC Start=1879679><P Class=KRCC>
+&nbsp;
+<SYNC Start=1890526><P Class=KRCC>
+가야겠어
+<SYNC Start=1893460><P Class=KRCC>
+&nbsp;
+<SYNC Start=1901370><P Class=KRCC>
+이걸 어디서 얻었어요?
+<SYNC Start=1903837><P Class=KRCC>
+&nbsp;
+<SYNC Start=1906291><P Class=KRCC>
+우리 호텔 룸에서
+<SYNC Start=1908341><P Class=KRCC>
+&nbsp;
+<SYNC Start=1914183><P Class=KRCC>
+누구에요?
+<SYNC Start=1916216><P Class=KRCC>
+&nbsp;
+<SYNC Start=1916218><P Class=KRCC>
+아르거스 일꺼야
+<SYNC Start=1918251><P Class=KRCC>
+&nbsp;
+<SYNC Start=1920389><P Class=KRCC>
+저건 아르거스가 아니야
+<SYNC Start=1922189><P Class=KRCC>
+&nbsp;
+<SYNC Start=1929195><P Class=KRCC>
+가자
+<SYNC Start=1931533><P Class=KRCC>
+&nbsp;
+<SYNC Start=1936327><P Class=KRCC>
+가!
+<SYNC Start=1937644><P Class=KRCC>
+&nbsp;
+<SYNC Start=1946788><P Class=KRCC>
+아르거스는 우리가 여깄는걸 알아
+<SYNC Start=1948921><P Class=KRCC>
+&nbsp;
+<SYNC Start=1948923><P Class=KRCC>
+Which is why I got a bunch<br>of renta-soldiers to secure the perimeter.
+<SYNC Start=1951040><P Class=KRCC>
+&nbsp;
+<SYNC Start=1951042><P Class=KRCC>
+얼마나 돈을줘야 군대를 살수있지
+<SYNC Start=1952758><P Class=KRCC>
+&nbsp;
+<SYNC Start=1952760><P Class=KRCC>
+그나라의 군대를
+<SYNC Start=1954410><P Class=KRCC>
+&nbsp;
+<SYNC Start=1962520><P Class=KRCC>
+디글!<br>뒤에있어!
+<SYNC Start=1964937><P Class=KRCC>
+&nbsp;
+<SYNC Start=1972196><P Class=KRCC>
+I never said I didn't know<br>how to use a gun.
+<SYNC Start=1974814><P Class=KRCC>
+&nbsp;
+<SYNC Start=1999054><P Class=KRCC>
+&nbsp;
+<SYNC Start=2013068><P Class=KRCC>
+&nbsp;
+<SYNC Start=2036711><P Class=KRCC>
+라일라는 네 친구였어!
+<SYNC Start=2038177><P Class=KRCC>
+&nbsp;
+<SYNC Start=2038179><P Class=KRCC>
+그리고 넌 그녀와 <br>딸에 위험하게했어!
+<SYNC Start=2040462><P Class=KRCC>
+&nbsp;
+<SYNC Start=2040464><P Class=KRCC>
+그냥 형편 없는 돈을 위해서!
+<SYNC Start=2042631><P Class=KRCC>
+&nbsp;
+<SYNC Start=2042633><P Class=KRCC>
+이건 내 나가는 티켓이야
+<SYNC Start=2044850><P Class=KRCC>
+&nbsp;
+<SYNC Start=2044852><P Class=KRCC>
+- 어디로부터?<br>- 아르거스!
+<SYNC Start=2047469><P Class=KRCC>
+&nbsp;
+<SYNC Start=2047471><P Class=KRCC>
+월러가 내가 이걸<br>하게 했어
+<SYNC Start=2050272><P Class=KRCC>
+&nbsp;
+<SYNC Start=2050274><P Class=KRCC>
+네가 생각하는사람이아니야
+<SYNC Start=2053108><P Class=KRCC>
+&nbsp;
+<SYNC Start=2054810><P Class=KRCC>
+&nbsp;
+<SYNC Start=2054812><P Class=KRCC>
+내 가족을 과녁의 한복판에 나뒀어!
+<SYNC Start=2057363><P Class=KRCC>
+&nbsp;
+<SYNC Start=2057365><P Class=KRCC>
+난 선택권이 없어
+<SYNC Start=2059198><P Class=KRCC>
+&nbsp;
+<SYNC Start=2059200><P Class=KRCC>
+너는 있어 존
+<SYNC Start=2061483><P Class=KRCC>
+&nbsp;
+<SYNC Start=2061485><P Class=KRCC>
+월러한테 내가 죽었다고해줘
+<SYNC Start=2063886><P Class=KRCC>
+&nbsp;
+<SYNC Start=2063888><P Class=KRCC>
+그녀에게 내가 총에 맞았다고해줘
+<SYNC Start=2065955><P Class=KRCC>
+&nbsp;
+<SYNC Start=2069377><P Class=KRCC>
+그러지않을꺼야
+<SYNC Start=2072261><P Class=KRCC>
+&nbsp;
+<SYNC Start=2072263><P Class=KRCC>
+생각 해봤는데요
+<SYNC Start=2074029><P Class=KRCC>
+&nbsp;
+<SYNC Start=2074031><P Class=KRCC>
+집에가고싶어요 내오빠한테요
+<SYNC Start=2077883><P Class=KRCC>
+&nbsp;
+<SYNC Start=2077885><P Class=KRCC>
+그리고 그의 거짓말 그리고 비밀로?
+<SYNC Start=2079752><P Class=KRCC>
+&nbsp;
+<SYNC Start=2079754><P Class=KRCC>
+아마도 넌 내가 생각<br>했던 것보다 못왔구나
+<SYNC Start=2082004><P Class=KRCC>
+&nbsp;
+<SYNC Start=2082006><P Class=KRCC>
+증명해보겠어요
+<SYNC Start=2084039><P Class=KRCC>
+&nbsp;
+<SYNC Start=2090262><P Class=KRCC>
+&nbsp;
+<SYNC Start=2107365><P Class=KRCC>
+감명적이군
+<SYNC Start=2108914><P Class=KRCC>
+&nbsp;
+<SYNC Start=2111033><P Class=KRCC>
+&nbsp;
+<SYNC Start=2111919><P Class=KRCC>
+좋은 선생을 뒀죠
+<SYNC Start=2114286><P Class=KRCC>
+&nbsp;
+<SYNC Start=2121927><P Class=KRCC>
+&nbsp;
+<SYNC Start=2121929><P Class=KRCC>
+집으로 갈수있는 것처럼 보이는구나
+<SYNC Start=2124096><P Class=KRCC>
+&nbsp;
+<SYNC Start=2126465><P Class=KRCC>
+&nbsp;
+<SYNC Start=2133774><P Class=KRCC>
+내가이기게해줬죠?<br>맞죠?
+<SYNC Start=2136392><P Class=KRCC>
+&nbsp;
+<SYNC Start=2136394><P Class=KRCC>
+곧 또 다시 볼꺼다
+<SYNC Start=2138944><P Class=KRCC>
+&nbsp;
+<SYNC Start=2138946><P Class=KRCC>
+안전하게있어라
+<SYNC Start=2140980><P Class=KRCC>
+&nbsp;
+<SYNC Start=2151574><P Class=KRCC>
+- 고마워<br>- 그래
+<SYNC Start=2153992><P Class=KRCC>
+&nbsp;
+<SYNC Start=2157464><P Class=KRCC>
+괜찮아?
+<SYNC Start=2159797><P Class=KRCC>
+&nbsp;
+<SYNC Start=2161751><P Class=KRCC>
+그녀가 안와
+<SYNC Start=2164719><P Class=KRCC>
+&nbsp;
+<SYNC Start=2167340><P Class=KRCC>
+유감이야 올리버<br>넌 할수있는걸다했어
+<SYNC Start=2170725><P Class=KRCC>
+&nbsp;
+<SYNC Start=2173229><P Class=KRCC>
+올리버...
+<SYNC Start=2175163><P Class=KRCC>
+&nbsp;
+<SYNC Start=2183940><P Class=KRCC>
+마음 바꿔줘서 고마워
+<SYNC Start=2186107><P Class=KRCC>
+&nbsp;
+<SYNC Start=2186109><P Class=KRCC>
+아직까지는 옆에있고싶어
+<SYNC Start=2189577><P Class=KRCC>
+&nbsp;
+<SYNC Start=2196036><P Class=KRCC>
+테아 괜찮아?
+<SYNC Start=2198703><P Class=KRCC>
+&nbsp;
+<SYNC Start=2198705><P Class=KRCC>
+그래 괜찮아
+<SYNC Start=2201589><P Class=KRCC>
+&nbsp;
+<SYNC Start=2211370><P Class=KRCC>
+로럴?
+<SYNC Start=2213620><P Class=KRCC>
+&nbsp;
+<SYNC Start=2215592><P Class=KRCC>
+난 애로우가 휴가를<br>갔는지 몰랐네
+<SYNC Start=2217742><P Class=KRCC>
+&nbsp;
+<SYNC Start=2217744><P Class=KRCC>
+헤이! 무슨일이야!
+<SYNC Start=2219760><P Class=KRCC>
+&nbsp;
+<SYNC Start=2219762><P Class=KRCC>
+난 괜찮아
+<SYNC Start=2221229><P Class=KRCC>
+&nbsp;
+<SYNC Start=2221231><P Class=KRCC>
+무슨 일이야?
+<SYNC Start=2223848><P Class=KRCC>
+&nbsp;
+<SYNC Start=2224984><P Class=KRCC>
+난 좋게 하려고했어
+<SYNC Start=2226734><P Class=KRCC>
+&nbsp;
+<SYNC Start=2226736><P Class=KRCC>
+하지만 안댔어
+<SYNC Start=2228686><P Class=KRCC>
+&nbsp;
+<SYNC Start=2228688><P Class=KRCC>
+오, 로럴
+<SYNC Start=2230071><P Class=KRCC>
+&nbsp;
+<SYNC Start=2230073><P Class=KRCC>
+아마도 미친 소리로<br>들릴거 알아
+<SYNC Start=2233908><P Class=KRCC>
+&nbsp;
+<SYNC Start=2233910><P Class=KRCC>
+아마도, 하지만...
+<SYNC Start=2237078><P Class=KRCC>
+&nbsp;
+<SYNC Start=2238665><P Class=KRCC>
+새라
+<SYNC Start=2240448><P Class=KRCC>
+&nbsp;
+<SYNC Start=2240450><P Class=KRCC>
+새라가 이걸 줬어
+<SYNC Start=2243000><P Class=KRCC>
+&nbsp;
+<SYNC Start=2243002><P Class=KRCC>
+내가 이걸 걸치면
+<SYNC Start=2244285><P Class=KRCC>
+&nbsp;
+<SYNC Start=2244287><P Class=KRCC>
+사람들을 돕고싶어져<br>그녀도 그랬을거야
+<SYNC Start=2247171><P Class=KRCC>
+&nbsp;
+<SYNC Start=2247173><P Class=KRCC>
+만약에 그녀가 살아있다면
+<SYNC Start=2249207><P Class=KRCC>
+&nbsp;
+<SYNC Start=2249209><P Class=KRCC>
+알았어
+<SYNC Start=2251209><P Class=KRCC>
+&nbsp;
+<SYNC Start=2253012><P Class=KRCC>
+새라는 훈련을 받았어
+<SYNC Start=2255630><P Class=KRCC>
+&nbsp;
+<SYNC Start=2255632><P Class=KRCC>
+몇년씩이나..
+<SYNC Start=2257265><P Class=KRCC>
+&nbsp;
+<SYNC Start=2257267><P Class=KRCC>
+올리버, 나도알아
+<SYNC Start=2260434><P Class=KRCC>
+&nbsp;
+<SYNC Start=2260436><P Class=KRCC>
+그래서 내가 시작해야하는거야
+<SYNC Start=2263221><P Class=KRCC>
+&nbsp;
+<SYNC Start=2263223><P Class=KRCC>
+그리고 난 네도움이 필요해
+<SYNC Start=2265473><P Class=KRCC>
+&nbsp;
+<SYNC Start=2267441><P Class=KRCC>
+&nbsp;
+<SYNC Start=2269896><P Class=KRCC>
+안돼
+<SYNC Start=2272063><P Class=KRCC>
+&nbsp;
+<SYNC Start=2272065><P Class=KRCC>
+올리버!
+<SYNC Start=2274649><P Class=KRCC>
+&nbsp;
+<SYNC Start=2274651><P Class=KRCC>
+안돼!
+<SYNC Start=2275950><P Class=KRCC>
+&nbsp;
+<SYNC Start=2275952><P Class=KRCC>
+안돼
+<SYNC Start=2278286><P Class=KRCC>
+&nbsp;
+<SYNC Start=2278288><P Class=KRCC>
+난...
+<SYNC Start=2280621><P Class=KRCC>
+&nbsp;
+<SYNC Start=2282659><P Class=KRCC>
+난 네가 고려했으면 좋겠어
+<SYNC Start=2285876><P Class=KRCC>
+&nbsp;
+<SYNC Start=2285878><P Class=KRCC>
+너의 아버지한테 일어난일이<br>너한테도 일어 날꺼야
+<SYNC Start=2291832><P Class=KRCC>
+&nbsp;
+<SYNC Start=2291834><P Class=KRCC>
+올리버 언제나 일어날꺼야
+<SYNC Start=2294719><P Class=KRCC>
+&nbsp;
+<SYNC Start=2294721><P Class=KRCC>
+난 내안에 불꽃이있어
+<SYNC Start=2296721><P Class=KRCC>
+&nbsp;
+<SYNC Start=2296723><P Class=KRCC>
+그떄마다 난 약이나 술로 해결했지
+<SYNC Start=2300091><P Class=KRCC>
+&nbsp;
+<SYNC Start=2300093><P Class=KRCC>
+난 다른 방법이 필요해!
+<SYNC Start=2301726><P Class=KRCC>
+&nbsp;
+<SYNC Start=2301728><P Class=KRCC>
+그리고 다른 밤에 잘못됬다는것을
+<SYNC Start=2304979><P Class=KRCC>
+&nbsp;
+<SYNC Start=2304981><P Class=KRCC>
+새라가 죽은 날밤이였어
+<SYNC Start=2306681><P Class=KRCC>
+&nbsp;
+<SYNC Start=2306683><P Class=KRCC>
+그 불꽃을 쓸곳이 없어
+<SYNC Start=2308532><P Class=KRCC>
+&nbsp;
+<SYNC Start=2308534><P Class=KRCC>
+미안해<br>하지만 난 못해
+<SYNC Start=2311168><P Class=KRCC>
+&nbsp;
+<SYNC Start=2312989><P Class=KRCC>
+내가 한다해도
+<SYNC Start=2315523><P Class=KRCC>
+&nbsp;
+<SYNC Start=2315525><P Class=KRCC>
+새라가 날 <br>용서하지않을꺼야
+<SYNC Start=2318659><P Class=KRCC>
+&nbsp;
+<SYNC Start=2338929><P Class=KRCC>
+&nbsp;
+<SYNC Start=2345303><P Class=KRCC>
+&nbsp;
+<SYNC Start=2345305><P Class=KRCC>
+사랑해<br>둘다 사랑해
+<SYNC Start=2347555><P Class=KRCC>
+&nbsp;
+<SYNC Start=2347557><P Class=KRCC>
+둘을 계속 생각했어
+<SYNC Start=2349807><P Class=KRCC>
+&nbsp;
+<SYNC Start=2352612><P Class=KRCC>
+난 그냥 그녀를 내려놨을 뿐이야
+<SYNC Start=2355980><P Class=KRCC>
+&nbsp;
+<SYNC Start=2355982><P Class=KRCC>
+괜찮아<br>난 그냥 계속 그녀를 볼꺼야
+<SYNC Start=2359317><P Class=KRCC>
+&nbsp;
+<SYNC Start=2359319><P Class=KRCC>
+좋아
+<SYNC Start=2361485><P Class=KRCC>
+&nbsp;
+<SYNC Start=2361487><P Class=KRCC>
+난 사무실가야해
+<SYNC Start=2363954><P Class=KRCC>
+&nbsp;
+<SYNC Start=2363956><P Class=KRCC>
+늦게와?
+<SYNC Start=2365573><P Class=KRCC>
+&nbsp;
+<SYNC Start=2365575><P Class=KRCC>
+늦게와 아만다 월러가<br>물어 기억해?
+<SYNC Start=2368459><P Class=KRCC>
+&nbsp;
+<SYNC Start=2372799><P Class=KRCC>
+괜찮아?
+<SYNC Start=2375716><P Class=KRCC>
+&nbsp;
+<SYNC Start=2377387><P Class=KRCC>
+그래
+<SYNC Start=2380137><P Class=KRCC>
+&nbsp;
+<SYNC Start=2381724><P Class=KRCC>
+이자는머야
+<SYNC Start=2384058><P Class=KRCC>
+&nbsp;
+<SYNC Start=2384060><P Class=KRCC>
+코스트시티에서의 폭행때문에<br>잡혔어요
+<SYNC Start=2387228><P Class=KRCC>
+&nbsp;
+<SYNC Start=2387230><P Class=KRCC>
+익명의 신고로 <br>스탈링으로 온걸 알아요
+<SYNC Start=2390181><P Class=KRCC>
+&nbsp;
+<SYNC Start=2390183><P Class=KRCC>
+익명의 신고?
+<SYNC Start=2392817><P Class=KRCC>
+&nbsp;
+<SYNC Start=2392819><P Class=KRCC>
+불운이군<br>친구
+<SYNC Start=2396153><P Class=KRCC>
+&nbsp;
+<SYNC Start=2413005><P Class=KRCC>
+좋아요언제부터 시작할까요?
+<SYNC Start=2415539><P Class=KRCC>
+&nbsp;
+<SYNC Start=2420430><P Class=KRCC>
+퀸회사의 테크가 얼마나 많은지 알아?
+<SYNC Start=2422713><P Class=KRCC>
+&nbsp;
+<SYNC Start=2422715><P Class=KRCC>
+이 데이터는 복구 불가능이라고 했지 않아요?
+<SYNC Start=2425633><P Class=KRCC>
+&nbsp;
+<SYNC Start=2425635><P Class=KRCC>
+오직 전부야
+<SYNC Start=2427551><P Class=KRCC>
+&nbsp;
+<SYNC Start=2432623><P Class=KRCC>
+&nbsp;
+<SYNC Start=2434024><P Class=KRCC>
+&nbsp;
+<SYNC Start=2434026><P Class=KRCC>
+내가 아는것은내친구가 번개에 맞고
+<SYNC Start=2437061><P Class=KRCC>
+&nbsp;
+<SYNC Start=2437063><P Class=KRCC>
+코마상태란거에요
+<SYNC Start=2438979><P Class=KRCC>
+&nbsp;
+<SYNC Start=2438981><P Class=KRCC>
+글쎄, 코마상태 였었네요
+<SYNC Start=2441282><P Class=KRCC>
+&nbsp;
+<SYNC Start=2441284><P Class=KRCC>
+모르겠어요 음...
+<SYNC Start=2443951><P Class=KRCC>
+&nbsp;
+<SYNC Start=2443953><P Class=KRCC>
+긴이야기군
+<SYNC Start=2445403><P Class=KRCC>
+&nbsp;
+<SYNC Start=2446522><P Class=KRCC>
+나중에 봐
+<SYNC Start=2448622><P Class=KRCC>
+&nbsp;
+<SYNC Start=2448624><P Class=KRCC>
+네
+<SYNC Start=2450791><P Class=KRCC>
+&nbsp;
+<SYNC Start=2477019><P Class=KRCC>
+거기서 잘했어
+<SYNC Start=2479487><P Class=KRCC>
+&nbsp;
+<SYNC Start=2479489><P Class=KRCC>
+좋은 선생을 뒀죠
+<SYNC Start=2482189><P Class=KRCC>
+&nbsp;
+<SYNC Start=2485493><P Class=KRCC>
+&nbsp;
+<SYNC Start=2488579><P Class=KRCC>
+&nbsp;
+<SYNC Start=2490981><P Class=KRCC>
+&nbsp;
+<SYNC Start=2490983><P Class=KRCC>
+테아가 좀 달라보이지않아?
+<SYNC Start=2494752><P Class=KRCC>
+&nbsp;
+<SYNC Start=2494754><P Class=KRCC>
+그녀의 머리가<br>많이 짧아졌어요
+<SYNC Start=2496420><P Class=KRCC>
+&nbsp;
+<SYNC Start=2496422><P Class=KRCC>
+당신이 말하는 뜻이아니겠네요
+<SYNC Start=2499273><P Class=KRCC>
+&nbsp;
+<SYNC Start=2499275><P Class=KRCC>
+무슨 뜻이에요?
+<SYNC Start=2500708><P Class=KRCC>
+&nbsp;
+<SYNC Start=2500710><P Class=KRCC>
+모르겠어
+<SYNC Start=2502426><P Class=KRCC>
+&nbsp;
+<SYNC Start=2502428><P Class=KRCC>
+그녀가 너보고 말안했어?
+<SYNC Start=2504628><P Class=KRCC>
+&nbsp;
+<SYNC Start=2504630><P Class=KRCC>
+그녀는 아마도
+<SYNC Start=2505880><P Class=KRCC>
+&nbsp;
+<SYNC Start=2505882><P Class=KRCC>
+누구를 코르토 말테즈에서 본거같아 아니면
+<SYNC Start=2508682><P Class=KRCC>
+&nbsp;
+<SYNC Start=2508684><P Class=KRCC>
+테아가 다른 사람과<br>있었던 걸수 있네요
+<SYNC Start=2511435><P Class=KRCC>
+&nbsp;
+<SYNC Start=2512803><P Class=KRCC>
+&nbsp;
+<SYNC Start=2514939><P Class=KRCC>
+&nbsp;
+<SYNC Start=2514941><P Class=KRCC>
+그녀는 어딧지?
+<SYNC Start=2517775><P Class=KRCC>
+&nbsp;
+<SYNC Start=2517777><P Class=KRCC>
+새라는 어딧어?
+<SYNC Start=2519360><P Class=KRCC>
+&nbsp;
+<SYNC Start=2521652><P Class=KRCC>
+== sync, corrected by <font color=#00FF00>elderman</font> ==<br><font color=#00FFFF>@elder_man</font>
+<SYNC Start=2528152><P Class=KRCC>
+&nbsp; 
+
+<SYNC Start=1545><P Class=ENCC>
+My name is Oliver Queen.
+<SYNC Start=4253><P Class=ENCC>&nbsp;
+<SYNC Start=4254><P Class=ENCC>
+<br>After five years in hell,
+<SYNC Start=6037><P Class=ENCC>&nbsp;
+<SYNC Start=6356><P Class=ENCC>
+<br>I have come home<br>with only one goal--
+<SYNC Start=8523><P Class=ENCC>&nbsp;
+<SYNC Start=8525><P Class=ENCC>
+<br>to save my city.
+<SYNC Start=10742><P Class=ENCC>&nbsp;
+<SYNC Start=10744><P Class=ENCC>
+<br>Now others have<br>joined my crusade.
+<SYNC Start=13444><P Class=ENCC>&nbsp;
+<SYNC Start=13446><P Class=ENCC>
+<br>To them, I am Oliver Queen.
+<SYNC Start=16030><P Class=ENCC>&nbsp;
+<SYNC Start=16032><P Class=ENCC>
+<br>But to the rest<br>of Starling City,
+<SYNC Start=18283><P Class=ENCC>&nbsp;
+<SYNC Start=18285><P Class=ENCC>
+<br>I am someone else.
+<SYNC Start=19834><P Class=ENCC>&nbsp;
+<SYNC Start=19836><P Class=ENCC>
+<br>I am something else.
+<SYNC Start=22453><P Class=ENCC>&nbsp;
+<SYNC Start=22455><P Class=ENCC>
+<br>Previously, on "Arrow"...
+<SYNC Start=24038><P Class=ENCC>&nbsp;
+<SYNC Start=24040><P Class=ENCC>
+<br>Man: Hello, Sara.
+<SYNC Start=25456><P Class=ENCC>&nbsp;
+<SYNC Start=25458><P Class=ENCC>
+<br>What are you doing here?
+<SYNC Start=27292><P Class=ENCC>&nbsp;
+<SYNC Start=30597><P Class=ENCC>
+<br>Oliver: Whoever did this,<br>I'm going to find them.
+<SYNC Start=33014><P Class=ENCC>&nbsp;
+<SYNC Start=33016><P Class=ENCC>
+<br>Apparently there's<br>another bidder for the company.
+<SYNC Start=34215><P Class=ENCC>&nbsp;
+<SYNC Start=34217><P Class=ENCC>
+<br>Who?
+<SYNC Start=35466><P Class=ENCC>&nbsp;
+<SYNC Start=35468><P Class=ENCC>
+<br>Ray Palmer.
+<SYNC Start=36751><P Class=ENCC>&nbsp;
+<SYNC Start=36753><P Class=ENCC>
+<br>Yes, I am your boss now.
+<SYNC Start=39387><P Class=ENCC>&nbsp;
+<SYNC Start=39389><P Class=ENCC>
+<br>No! [Sobbing]
+<SYNC Start=41639><P Class=ENCC>&nbsp;
+<SYNC Start=41641><P Class=ENCC>
+<br>Thea: Roy, I don't<br>trust you, or anyone.
+<SYNC Start=44809><P Class=ENCC>&nbsp;
+<SYNC Start=44811><P Class=ENCC>
+<br>Don't try to find me.<br>I am never coming back.
+<SYNC Start=48279><P Class=ENCC>&nbsp;
+<SYNC Start=48281><P Class=ENCC>
+<br>Now I've got<br>to go get Thea.
+<SYNC Start=49781><P Class=ENCC>&nbsp;
+<SYNC Start=49783><P Class=ENCC>
+<br>It's long past time<br>she came home.
+<SYNC Start=51983><P Class=ENCC>&nbsp;
+<SYNC Start=53703><P Class=ENCC>
+<br>Well done.
+<SYNC Start=56037><P Class=ENCC>&nbsp;
+<SYNC Start=59075><P Class=ENCC>
+<br>Thanks, Dad.
+<SYNC Start=61643><P Class=ENCC>&nbsp;
+<SYNC Start=76459><P Class=ENCC>
+<br>[Engine starts]
+<SYNC Start=78126><P Class=ENCC>&nbsp;
+<SYNC Start=78128><P Class=ENCC>
+<br>So, where are we going?
+<SYNC Start=81529><P Class=ENCC>&nbsp;
+<SYNC Start=81531><P Class=ENCC>
+<br>Wherever you want.
+<SYNC Start=82830><P Class=ENCC>&nbsp;
+<SYNC Start=82832><P Class=ENCC>
+<br>It's up to me?<br>Why not?
+<SYNC Start=85504><P Class=ENCC>&nbsp;
+<SYNC Start=85504><P Class=ENCC>
+<br>I'm a well-traveled man.
+<SYNC Start=86565><P Class=ENCC>&nbsp;
+<SYNC Start=86589><P Class=ENCC>
+<br>I've been every place<br>in the world there is.
+<SYNC Start=88710><P Class=ENCC>&nbsp;
+<SYNC Start=88922><P Class=ENCC>
+<br>But you want<br>to get out of here.
+<SYNC Start=90905><P Class=ENCC>&nbsp;
+<SYNC Start=90907><P Class=ENCC>
+<br>Because if the police know<br>you're alive, they come after you.
+<SYNC Start=94275><P Class=ENCC>&nbsp;
+<SYNC Start=94277><P Class=ENCC>
+<br>The Arrow, too.
+<SYNC Start=96611><P Class=ENCC>&nbsp;
+<SYNC Start=96613><P Class=ENCC>
+<br>You're very<br>perceptive, Thea.
+<SYNC Start=100181><P Class=ENCC>&nbsp;
+<SYNC Start=100183><P Class=ENCC>
+<br>Knowing when people are hiding<br>something behind their smiles.
+<SYNC Start=103167><P Class=ENCC>&nbsp;
+<SYNC Start=103169><P Class=ENCC>
+<br>Your mother<br>had that talent.
+<SYNC Start=105086><P Class=ENCC>&nbsp;
+<SYNC Start=105088><P Class=ENCC>
+<br>Yes.
+<SYNC Start=107338><P Class=ENCC>&nbsp;
+<SYNC Start=107340><P Class=ENCC>
+<br>If someone knew<br>where I was,
+<SYNC Start=109590><P Class=ENCC>&nbsp;
+<SYNC Start=109592><P Class=ENCC>
+<br>it would be<br>unfortunate--
+<SYNC Start=111909><P Class=ENCC>&nbsp;
+<SYNC Start=111911><P Class=ENCC>
+<br>for both of us.
+<SYNC Start=113678><P Class=ENCC>&nbsp;
+<SYNC Start=116015><P Class=ENCC>
+<br>So why did you<br>reach out to me?
+<SYNC Start=118883><P Class=ENCC>&nbsp;
+<SYNC Start=118885><P Class=ENCC>
+<br>You reached first.
+<SYNC Start=120284><P Class=ENCC>&nbsp;
+<SYNC Start=120286><P Class=ENCC>
+<br>Still.
+<SYNC Start=122053><P Class=ENCC>&nbsp;
+<SYNC Start=122055><P Class=ENCC>
+<br>I don't want to feel<br>this pain again.
+<SYNC Start=126140><P Class=ENCC>&nbsp;
+<SYNC Start=126142><P Class=ENCC>
+<br>I don't want to hurt
+<SYNC Start=128309><P Class=ENCC>&nbsp;
+<SYNC Start=128311><P Class=ENCC>
+<br>or get hurt
+<SYNC Start=130278><P Class=ENCC>&nbsp;
+<SYNC Start=130280><P Class=ENCC>
+<br>ever again.
+<SYNC Start=133281><P Class=ENCC>&nbsp;
+<SYNC Start=133283><P Class=ENCC>
+<br>And you seem like someone<br>who can teach me how not to.
+<SYNC Start=137368><P Class=ENCC>&nbsp;
+<SYNC Start=138922><P Class=ENCC>
+<br>[Horns honking]
+<SYNC Start=141089><P Class=ENCC>&nbsp;
+<SYNC Start=149599><P Class=ENCC>
+<br>[Tires squealing,<br>horns honking]
+<SYNC Start=152133><P Class=ENCC>&nbsp;
+<SYNC Start=164931><P Class=ENCC>
+<br>[Grunts]
+<SYNC Start=167098><P Class=ENCC>&nbsp;
+<SYNC Start=168518><P Class=ENCC>
+<br>I didn't do it!
+<SYNC Start=170902><P Class=ENCC>&nbsp;
+<SYNC Start=170904><P Class=ENCC>
+<br>A woman was killed<br>on a rooftop last week.
+<SYNC Start=172653><P Class=ENCC>&nbsp;
+<SYNC Start=172655><P Class=ENCC>
+<br>Black leather,<br>blonde hair, wore a mask!
+<SYNC Start=174572><P Class=ENCC>&nbsp;
+<SYNC Start=174574><P Class=ENCC>
+<br>I didn't kill her.<br>You were there!
+<SYNC Start=176324><P Class=ENCC>&nbsp;
+<SYNC Start=176326><P Class=ENCC>
+<br>I don't know<br>anything about it!
+<SYNC Start=178075><P Class=ENCC>&nbsp;
+<SYNC Start=178077><P Class=ENCC>
+<br>Your fingerprints<br>are on this.
+<SYNC Start=180077><P Class=ENCC>&nbsp;
+<SYNC Start=180079><P Class=ENCC>
+<br>From a fifth I drank<br>up there, but I--
+<SYNC Start=181529><P Class=ENCC>&nbsp;
+<SYNC Start=181531><P Class=ENCC>
+<br>What did you see?
+<SYNC Start=183030><P Class=ENCC>&nbsp;
+<SYNC Start=183032><P Class=ENCC>
+<br>Nothing!
+<SYNC Start=184582><P Class=ENCC>&nbsp;
+<SYNC Start=184584><P Class=ENCC>
+<br>I was up on the roof<br>with some buddies.
+<SYNC Start=186367><P Class=ENCC>&nbsp;
+<SYNC Start=186369><P Class=ENCC>
+<br>This lady,<br>she showed up
+<SYNC Start=187869><P Class=ENCC>&nbsp;
+<SYNC Start=187871><P Class=ENCC>
+<br>and she--<br>she told us to go!
+<SYNC Start=189620><P Class=ENCC>&nbsp;
+<SYNC Start=189622><P Class=ENCC>
+<br>Looked like she could handle<br>herself, you know?
+<SYNC Start=191622><P Class=ENCC>&nbsp;
+<SYNC Start=193510><P Class=ENCC>
+<br>Whoever it is<br>you're looking for,
+<SYNC Start=195426><P Class=ENCC>&nbsp;
+<SYNC Start=195428><P Class=ENCC>
+<br>I wouldn't want<br>to be him.
+<SYNC Start=196878><P Class=ENCC>&nbsp;
+<SYNC Start=198248><P Class=ENCC>
+<br>Another dead end.
+<SYNC Start=201382><P Class=ENCC>&nbsp;
+<SYNC Start=201384><P Class=ENCC>
+<br>It took me a week to get<br>a hit off that print.
+<SYNC Start=204435><P Class=ENCC>&nbsp;
+<SYNC Start=204437><P Class=ENCC>
+<br>I had to reconstruct<br>the partial
+<SYNC Start=205937><P Class=ENCC>&nbsp;
+<SYNC Start=205939><P Class=ENCC>
+<br>using a predictive<br>indexing algorithm.
+<SYNC Start=207722><P Class=ENCC>&nbsp;
+<SYNC Start=207724><P Class=ENCC>
+<br>Appropriate, since it was<br>his index finger...
+<SYNC Start=210641><P Class=ENCC>&nbsp;
+<SYNC Start=210643><P Class=ENCC>
+<br>Not particularly<br>relevant now.
+<SYNC Start=213895><P Class=ENCC>&nbsp;
+<SYNC Start=215732><P Class=ENCC>
+<br>Don't worry, Oliver, we'll find him.<br>He's out there somewhere.
+<SYNC Start=218566><P Class=ENCC>&nbsp;
+<SYNC Start=218568><P Class=ENCC>
+<br>No, he's not.
+<SYNC Start=220067><P Class=ENCC>&nbsp;
+<SYNC Start=220069><P Class=ENCC>
+<br>Trail's gone cold.
+<SYNC Start=222236><P Class=ENCC>&nbsp;
+<SYNC Start=222238><P Class=ENCC>
+<br>I hate to do this, but I have to<br>head off to work.
+<SYNC Start=224822><P Class=ENCC>&nbsp;
+<SYNC Start=224824><P Class=ENCC>
+<br>Tech Village<br>is open this early?
+<SYNC Start=226314><P Class=ENCC>&nbsp;
+<SYNC Start=226338><P Class=ENCC>
+<br>Not exactly.
+<SYNC Start=227666><P Class=ENCC>&nbsp;
+<SYNC Start=227667><P Class=ENCC>
+<br>Have you figured out<br>where in Italy Thea's staying?
+<SYNC Start=229338><P Class=ENCC>&nbsp;
+<SYNC Start=229338><P Class=ENCC>
+<br>Yeah, about that--<br>she's not in Italy.
+<SYNC Start=231079><P Class=ENCC>&nbsp;
+<SYNC Start=231103><P Class=ENCC>
+<br>Hmm?
+<SYNC Start=231663><P Class=ENCC>&nbsp;
+<SYNC Start=231664><P Class=ENCC>
+<br>Or Europe.<br>Or, well, she's--
+<SYNC Start=234749><P Class=ENCC>&nbsp;
+<SYNC Start=234751><P Class=ENCC>
+<br>Where is she?
+<SYNC Start=236217><P Class=ENCC>&nbsp;
+<SYNC Start=236219><P Class=ENCC>
+<br>I had to ping her cell phone<br>to find out
+<SYNC Start=237635><P Class=ENCC>&nbsp;
+<SYNC Start=237637><P Class=ENCC>
+<br>where in Italy she<br>was texting from.
+<SYNC Start=240054><P Class=ENCC>&nbsp;
+<SYNC Start=240056><P Class=ENCC>
+<br>Turns out, came back<br>Corto Maltese.
+<SYNC Start=244175><P Class=ENCC>&nbsp;
+<SYNC Start=244177><P Class=ENCC>
+<br>Corto's an island<br>off of South America.
+<SYNC Start=245893><P Class=ENCC>&nbsp;
+<SYNC Start=245895><P Class=ENCC>
+<br>What's up with your family<br>and islands?
+<SYNC Start=248095><P Class=ENCC>&nbsp;
+<SYNC Start=248097><P Class=ENCC>
+<br>Wait, Oliver.
+<SYNC Start=251098><P Class=ENCC>&nbsp;
+<SYNC Start=251100><P Class=ENCC>
+<br>Thea's letter said<br>not to come find her.
+<SYNC Start=254068><P Class=ENCC>&nbsp;
+<SYNC Start=254070><P Class=ENCC>
+<br>That letter was addressed<br>to you, not to me.
+<SYNC Start=257271><P Class=ENCC>&nbsp;
+<SYNC Start=257273><P Class=ENCC>
+<br>I'm watching Laurel<br>go through losing Sara.
+<SYNC Start=261909><P Class=ENCC>&nbsp;
+<SYNC Start=263613><P Class=ENCC>
+<br>It's time for my sister<br>to come home.
+<SYNC Start=266280><P Class=ENCC>&nbsp;
+<SYNC Start=272038><P Class=ENCC>
+<br>What are you doing?
+<SYNC Start=273120><P Class=ENCC>&nbsp;
+<SYNC Start=273122><P Class=ENCC>
+<br>Thea's gone because of me.
+<SYNC Start=274956><P Class=ENCC>&nbsp;
+<SYNC Start=274958><P Class=ENCC>
+<br>Because the lies<br>that I told her.
+<SYNC Start=276591><P Class=ENCC>&nbsp;
+<SYNC Start=276593><P Class=ENCC>
+<br>So I owe this to both<br>of you to make things right.
+<SYNC Start=278426><P Class=ENCC>&nbsp;
+<SYNC Start=278428><P Class=ENCC>
+<br>No. What are<br>you...doing?
+<SYNC Start=281429><P Class=ENCC>&nbsp;
+<SYNC Start=281431><P Class=ENCC>
+<br>You can't travel<br>with that.
+<SYNC Start=284332><P Class=ENCC>&nbsp;
+<SYNC Start=286686><P Class=ENCC>
+<br>I've actually never<br>been on a plane before.
+<SYNC Start=289720><P Class=ENCC>&nbsp;
+<SYNC Start=292475><P Class=ENCC>
+<br>[Babbling]
+<SYNC Start=294859><P Class=ENCC>&nbsp;
+<SYNC Start=294861><P Class=ENCC>
+<br>I know. You're not<br>doing anything
+<SYNC Start=296477><P Class=ENCC>&nbsp;
+<SYNC Start=296479><P Class=ENCC>
+<br>and I could literally<br>watch you forever.
+<SYNC Start=298446><P Class=ENCC>&nbsp;
+<SYNC Start=298448><P Class=ENCC>
+<br>Oh, yeah?
+<SYNC Start=300231><P Class=ENCC>&nbsp;
+<SYNC Start=300233><P Class=ENCC>
+<br>What about once<br>she discovers boys?
+<SYNC Start=303034><P Class=ENCC>&nbsp;
+<SYNC Start=303036><P Class=ENCC>
+<br>Well, that's what my Glock<br>is for, right, baby?
+<SYNC Start=306287><P Class=ENCC>&nbsp;
+<SYNC Start=306289><P Class=ENCC>
+<br>Right. It's my Glock.
+<SYNC Start=308456><P Class=ENCC>&nbsp;
+<SYNC Start=315882><P Class=ENCC>
+<br>I'm going to enjoy some quality time<br>with her for the next few days.
+<SYNC Start=319967><P Class=ENCC>&nbsp;
+<SYNC Start=319969><P Class=ENCC>
+<br>I'm even looking forward<br>to changing a few diapers.
+<SYNC Start=322670><P Class=ENCC>&nbsp;
+<SYNC Start=322672><P Class=ENCC>
+<br>And I'm looking forward to believing<br>that when I see it.
+<SYNC Start=325890><P Class=ENCC>&nbsp;
+<SYNC Start=327343><P Class=ENCC>
+<br>Why the time off?
+<SYNC Start=329894><P Class=ENCC>&nbsp;
+<SYNC Start=329896><P Class=ENCC>
+<br>You quit<br>the team again?
+<SYNC Start=331846><P Class=ENCC>&nbsp;
+<SYNC Start=331848><P Class=ENCC>
+<br>No, Oliver's going<br>to Corto Maltese
+<SYNC Start=334348><P Class=ENCC>&nbsp;
+<SYNC Start=334350><P Class=ENCC>
+<br>for a couple of days.
+<SYNC Start=337018><P Class=ENCC>&nbsp;
+<SYNC Start=337020><P Class=ENCC>
+<br>Could you<br>go with him?
+<SYNC Start=339854><P Class=ENCC>&nbsp;
+<SYNC Start=339856><P Class=ENCC>
+<br>Like I don't already spend<br>enough time with Oliver as it is?
+<SYNC Start=343074><P Class=ENCC>&nbsp;
+<SYNC Start=343076><P Class=ENCC>
+<br>Team Arrow may have Starling City<br>purring like a kitten,
+<SYNC Start=346110><P Class=ENCC>&nbsp;
+<SYNC Start=346112><P Class=ENCC>
+<br>but the rest of the world is still<br>a very dangerous place.
+<SYNC Start=349864><P Class=ENCC>&nbsp;
+<SYNC Start=349866><P Class=ENCC>
+<br>Including Corto Maltese.
+<SYNC Start=352366><P Class=ENCC>&nbsp;
+<SYNC Start=352368><P Class=ENCC>
+<br>Lyla, I already don't like<br>where this is headed.
+<SYNC Start=354168><P Class=ENCC>&nbsp;
+<SYNC Start=354170><P Class=ENCC>
+<br>We have a field operative<br>down there who's gone dark.
+<SYNC Start=356170><P Class=ENCC>&nbsp;
+<SYNC Start=356172><P Class=ENCC>
+<br>All right, so send an agent.<br>Send a task force.
+<SYNC Start=358706><P Class=ENCC>&nbsp;
+<SYNC Start=358708><P Class=ENCC>
+<br>He's not in any<br>kind of trouble.
+<SYNC Start=360508><P Class=ENCC>&nbsp;
+<SYNC Start=360510><P Class=ENCC>
+<br>He hasn't touched<br>his panic button.
+<SYNC Start=362543><P Class=ENCC>&nbsp;
+<SYNC Start=362545><P Class=ENCC>
+<br>He's probably just drunk<br>in some belleza's villa.
+<SYNC Start=365179><P Class=ENCC>&nbsp;
+<SYNC Start=365181><P Class=ENCC>
+<br>Mark Shaw's been known<br>to miss a few days from time to time.
+<SYNC Start=368132><P Class=ENCC>&nbsp;
+<SYNC Start=368134><P Class=ENCC>
+<br>[Exhales]
+<SYNC Start=370468><P Class=ENCC>&nbsp;
+<SYNC Start=370470><P Class=ENCC>
+<br>Will you just<br>do me a favor...
+<SYNC Start=373054><P Class=ENCC>&nbsp;
+<SYNC Start=373056><P Class=ENCC>
+<br>And see if he's ok?
+<SYNC Start=374722><P Class=ENCC>&nbsp;
+<SYNC Start=374724><P Class=ENCC>
+<br>Tell him to check in.
+<SYNC Start=376490><P Class=ENCC>&nbsp;
+<SYNC Start=376492><P Class=ENCC>
+<br>Two more days and I'm going to have<br>to call in the cavalry.
+<SYNC Start=378309><P Class=ENCC>&nbsp;
+<SYNC Start=378311><P Class=ENCC>
+<br>And I don't want to get him into<br>trouble with Waller.
+<SYNC Start=380361><P Class=ENCC>&nbsp;
+<SYNC Start=380363><P Class=ENCC>
+<br>Mark's an old friend.
+<SYNC Start=383364><P Class=ENCC>&nbsp;
+<SYNC Start=385952><P Class=ENCC>
+<br>She better not do anything interesting<br>while I'm gone.
+<SYNC Start=389403><P Class=ENCC>&nbsp;
+<SYNC Start=399298><P Class=ENCC>
+<br>Next time,<br>keep your hands up.
+<SYNC Start=402216><P Class=ENCC>&nbsp;
+<SYNC Start=402218><P Class=ENCC>
+<br>[Velcro tearing]
+<SYNC Start=404552><P Class=ENCC>&nbsp;
+<SYNC Start=406222><P Class=ENCC>
+<br>Ted Grant?
+<SYNC Start=409090><P Class=ENCC>&nbsp;
+<SYNC Start=409092><P Class=ENCC>
+<br>Well, I guess that badge means<br>you're not here
+<SYNC Start=410641><P Class=ENCC>&nbsp;
+<SYNC Start=410643><P Class=ENCC>
+<br>for a self defense<br>class.
+<SYNC Start=412143><P Class=ENCC>&nbsp;
+<SYNC Start=412145><P Class=ENCC>
+<br>No, I've already had<br>my fair share.
+<SYNC Start=413811><P Class=ENCC>&nbsp;
+<SYNC Start=413813><P Class=ENCC>
+<br>I'm here about one<br>of your students, Tom Bronson.
+<SYNC Start=416013><P Class=ENCC>&nbsp;
+<SYNC Start=416015><P Class=ENCC>
+<br>A witness places him<br>at the scene
+<SYNC Start=417264><P Class=ENCC>&nbsp;
+<SYNC Start=417266><P Class=ENCC>
+<br>of a break-in last night.
+<SYNC Start=418803><P Class=ENCC>&nbsp;
+<SYNC Start=418803><P Class=ENCC>
+<br>Well, that's not possible.
+<SYNC Start=419854><P Class=ENCC>&nbsp;
+<SYNC Start=419879><P Class=ENCC>
+<br>See, because Tom and I<br>were sparring last night.
+<SYNC Start=422022><P Class=ENCC>&nbsp;
+<SYNC Start=422655><P Class=ENCC>
+<br>Mr. Grant, do you<br>know that lying
+<SYNC Start=424355><P Class=ENCC>&nbsp;
+<SYNC Start=424357><P Class=ENCC>
+<br>to the district<br>attorney
+<SYNC Start=425690><P Class=ENCC>&nbsp;
+<SYNC Start=425692><P Class=ENCC>
+<br>is against the law?
+<SYNC Start=427158><P Class=ENCC>&nbsp;
+<SYNC Start=427160><P Class=ENCC>
+<br>If by that, you mean<br>am I willing to lie
+<SYNC Start=429110><P Class=ENCC>&nbsp;
+<SYNC Start=429112><P Class=ENCC>
+<br>in order to keep a good kid who<br>just happened to make a stupid mistake
+<SYNC Start=431495><P Class=ENCC>&nbsp;
+<SYNC Start=431497><P Class=ENCC>
+<br>out of this system?<br>I think you know my answer.
+<SYNC Start=434365><P Class=ENCC>&nbsp;
+<SYNC Start=434367><P Class=ENCC>
+<br>Are you admitting<br>to perjury, Mr. Grant?
+<SYNC Start=438369><P Class=ENCC>&nbsp;
+<SYNC Start=438371><P Class=ENCC>
+<br>Now that's a big word.
+<SYNC Start=441088><P Class=ENCC>&nbsp;
+<SYNC Start=441090><P Class=ENCC>
+<br>I'm just a dumb fighter.
+<SYNC Start=443124><P Class=ENCC>&nbsp;
+<SYNC Start=443126><P Class=ENCC>
+<br>Right?
+<SYNC Start=444875><P Class=ENCC>&nbsp;
+<SYNC Start=444877><P Class=ENCC>
+<br>Look, Tom was here<br>with me last night.
+<SYNC Start=446861><P Class=ENCC>&nbsp;
+<SYNC Start=446863><P Class=ENCC>
+<br>We worked on his<br>uppercut combinations.
+<SYNC Start=448679><P Class=ENCC>&nbsp;
+<SYNC Start=448681><P Class=ENCC>
+<br>Like I said, in this city,<br>there's a lot of good people
+<SYNC Start=450948><P Class=ENCC>&nbsp;
+<SYNC Start=450950><P Class=ENCC>
+<br>who get dealt bad hands.
+<SYNC Start=452767><P Class=ENCC>&nbsp;
+<SYNC Start=452769><P Class=ENCC>
+<br>They lose someone, they lose themselves,<br>which is why they
+<SYNC Start=454769><P Class=ENCC>&nbsp;
+<SYNC Start=454771><P Class=ENCC>
+<br>come in here<br>to work off that rage.
+<SYNC Start=456804><P Class=ENCC>&nbsp;
+<SYNC Start=456806><P Class=ENCC>
+<br>I've gotten good<br>at picking out the types.
+<SYNC Start=459056><P Class=ENCC>&nbsp;
+<SYNC Start=459058><P Class=ENCC>
+<br>Types just like you.
+<SYNC Start=460891><P Class=ENCC>&nbsp;
+<SYNC Start=460893><P Class=ENCC>
+<br>If I'm angry,<br>it's because I'm dealing
+<SYNC Start=463194><P Class=ENCC>&nbsp;
+<SYNC Start=463196><P Class=ENCC>
+<br>with someone who's<br>willing to lie to a D.A.
+<SYNC Start=464445><P Class=ENCC>&nbsp;
+<SYNC Start=464447><P Class=ENCC>
+<br>to protect a punk kid.
+<SYNC Start=466063><P Class=ENCC>&nbsp;
+<SYNC Start=466065><P Class=ENCC>
+<br>I don't think<br>that's the case.
+<SYNC Start=467732><P Class=ENCC>&nbsp;
+<SYNC Start=467734><P Class=ENCC>
+<br>Either way,
+<SYNC Start=471318><P Class=ENCC>&nbsp;
+<SYNC Start=471320><P Class=ENCC>
+<br>if you do have something<br>you want to work off...
+<SYNC Start=474121><P Class=ENCC>&nbsp;
+<SYNC Start=493893><P Class=ENCC>
+<br>So what's the play<br>with Thea?
+<SYNC Start=495726><P Class=ENCC>&nbsp;
+<SYNC Start=495728><P Class=ENCC>
+<br>Do you mind if I talk<br>to her alone first?
+<SYNC Start=498095><P Class=ENCC>&nbsp;
+<SYNC Start=498097><P Class=ENCC>
+<br>It's been a while.
+<SYNC Start=500347><P Class=ENCC>&nbsp;
+<SYNC Start=500349><P Class=ENCC>
+<br>Felicity able<br>to pin her down?
+<SYNC Start=501816><P Class=ENCC>&nbsp;
+<SYNC Start=501818><P Class=ENCC>
+<br>She gave me an address.
+<SYNC Start=504568><P Class=ENCC>&nbsp;
+<SYNC Start=519869><P Class=ENCC>
+<br>Thea!
+<SYNC Start=522286><P Class=ENCC>&nbsp;
+<SYNC Start=524740><P Class=ENCC>
+<br>Señor.
+<SYNC Start=526590><P Class=ENCC>&nbsp;
+<SYNC Start=526592><P Class=ENCC>
+<br>Cómo puedo ayudarlo?
+<SYNC Start=527925><P Class=ENCC>&nbsp;
+<SYNC Start=527927><P Class=ENCC>
+<br>Estoy buscando<br>a mi hermana.
+<SYNC Start=529710><P Class=ENCC>&nbsp;
+<SYNC Start=529712><P Class=ENCC>
+<br>You must be Mia's brother.
+<SYNC Start=532296><P Class=ENCC>&nbsp;
+<SYNC Start=532298><P Class=ENCC>
+<br>I see the resemblance.
+<SYNC Start=534048><P Class=ENCC>&nbsp;
+<SYNC Start=534050><P Class=ENCC>
+<br>Is "Mia" around?
+<SYNC Start=535633><P Class=ENCC>&nbsp;
+<SYNC Start=535635><P Class=ENCC>
+<br>She works. At the cafe.
+<SYNC Start=538018><P Class=ENCC>&nbsp;
+<SYNC Start=538020><P Class=ENCC>
+<br>Where's the cafe?
+<SYNC Start=539103><P Class=ENCC>&nbsp;
+<SYNC Start=539105><P Class=ENCC>
+<br>I'll show you.<br>Thank you.
+<SYNC Start=541222><P Class=ENCC>&nbsp;
+<SYNC Start=545061><P Class=ENCC>
+<br>[Exhales]
+<SYNC Start=547194><P Class=ENCC>&nbsp;
+<SYNC Start=552151><P Class=ENCC>
+<br>I didn't come all the way<br>to South America
+<SYNC Start=553984><P Class=ENCC>&nbsp;
+<SYNC Start=553986><P Class=ENCC>
+<br>to have you poison me, did I?
+<SYNC Start=555903><P Class=ENCC>&nbsp;
+<SYNC Start=555905><P Class=ENCC>
+<br>[Laughs]
+<SYNC Start=557738><P Class=ENCC>&nbsp;
+<SYNC Start=557740><P Class=ENCC>
+<br>It's a meditative tea.
+<SYNC Start=560074><P Class=ENCC>&nbsp;
+<SYNC Start=560076><P Class=ENCC>
+<br>It will activate<br>your mind and body.
+<SYNC Start=563794><P Class=ENCC>&nbsp;
+<SYNC Start=563796><P Class=ENCC>
+<br>I think I'm going to need<br>a little bit more than tea
+<SYNC Start=566881><P Class=ENCC>&nbsp;
+<SYNC Start=566883><P Class=ENCC>
+<br>to learn how<br>to use one of those.
+<SYNC Start=569300><P Class=ENCC>&nbsp;
+<SYNC Start=569302><P Class=ENCC>
+<br>The Sohei Buddhist<br>warriors believed that
+<SYNC Start=572586><P Class=ENCC>&nbsp;
+<SYNC Start=572588><P Class=ENCC>
+<br>first you fight<br>with the mind...
+<SYNC Start=575172><P Class=ENCC>&nbsp;
+<SYNC Start=575174><P Class=ENCC>
+<br>then your sword.
+<SYNC Start=577508><P Class=ENCC>&nbsp;
+<SYNC Start=578761><P Class=ENCC>
+<br>I remember when<br>I was training
+<SYNC Start=581929><P Class=ENCC>&nbsp;
+<SYNC Start=581931><P Class=ENCC>
+<br>to be a warrior.
+<SYNC Start=583480><P Class=ENCC>&nbsp;
+<SYNC Start=583482><P Class=ENCC>
+<br>I began<br>just like you--
+<SYNC Start=584982><P Class=ENCC>&nbsp;
+<SYNC Start=584984><P Class=ENCC>
+<br>devastated<br>by my wife's death.
+<SYNC Start=587234><P Class=ENCC>&nbsp;
+<SYNC Start=587236><P Class=ENCC>
+<br>I was...angry,
+<SYNC Start=589603><P Class=ENCC>&nbsp;
+<SYNC Start=589605><P Class=ENCC>
+<br>and hurt.
+<SYNC Start=591772><P Class=ENCC>&nbsp;
+<SYNC Start=593192><P Class=ENCC>
+<br>The pain<br>was unbearable.
+<SYNC Start=596527><P Class=ENCC>&nbsp;
+<SYNC Start=605454><P Class=ENCC>
+<br>Like this.
+<SYNC Start=607538><P Class=ENCC>&nbsp;
+<SYNC Start=609959><P Class=ENCC>
+<br>You're out of your mind!<br>Put your hand in here!
+<SYNC Start=612293><P Class=ENCC>&nbsp;
+<SYNC Start=612295><P Class=ENCC>
+<br>Every warrior must learn<br>the simple truth--
+<SYNC Start=615763><P Class=ENCC>&nbsp;
+<SYNC Start=615765><P Class=ENCC>
+<br>that pain<br>is inevitable,
+<SYNC Start=617514><P Class=ENCC>&nbsp;
+<SYNC Start=617516><P Class=ENCC>
+<br>and suffering<br>is optional.
+<SYNC Start=620384><P Class=ENCC>&nbsp;
+<SYNC Start=620386><P Class=ENCC>
+<br>[Gasping]
+<SYNC Start=622136><P Class=ENCC>&nbsp;
+<SYNC Start=622138><P Class=ENCC>
+<br>Please, don't--
+<SYNC Start=623721><P Class=ENCC>&nbsp;
+<SYNC Start=623723><P Class=ENCC>
+<br>Don't do what I think<br>you're going to do!
+<SYNC Start=624972><P Class=ENCC>&nbsp;
+<SYNC Start=624974><P Class=ENCC>
+<br>You asked me<br>to teach you.
+<SYNC Start=627808><P Class=ENCC>&nbsp;
+<SYNC Start=629236><P Class=ENCC>
+<br>No.
+<SYNC Start=630801><P Class=ENCC>&nbsp;
+<SYNC Start=630802><P Class=ENCC>
+<br><font color=#00FF00>♪ Arrow 3x03 ♪</font><br><font color=#00FFFF>Corto Maltese</font><br>Original Air Date on October 22, 2014
+<SYNC Start=634802><P Class=ENCC>&nbsp;
+<SYNC Start=634826><P Class=ENCC>
+<br>== sync, corrected by <font color=#00FF00>elderman</font> ==<br><font color=#00FFFF>@elder_man</font>
+<SYNC Start=641286><P Class=ENCC>&nbsp;
+<SYNC Start=641287><P Class=ENCC>
+<br>Aquí tienes.
+<SYNC Start=643037><P Class=ENCC>&nbsp;
+<SYNC Start=647093><P Class=ENCC>
+<br>Thea.
+<SYNC Start=649043><P Class=ENCC>&nbsp;
+<SYNC Start=653833><P Class=ENCC>
+<br>Good to see you.
+<SYNC Start=655716><P Class=ENCC>&nbsp;
+<SYNC Start=655718><P Class=ENCC>
+<br>You, too.
+<SYNC Start=657134><P Class=ENCC>&nbsp;
+<SYNC Start=657136><P Class=ENCC>
+<br>How--how did you--
+<SYNC Start=658602><P Class=ENCC>&nbsp;
+<SYNC Start=658604><P Class=ENCC>
+<br>Well, it's not exactly<br>the Amalfi Coast.
+<SYNC Start=661806><P Class=ENCC>&nbsp;
+<SYNC Start=661808><P Class=ENCC>
+<br>[Sighs]
+<SYNC Start=663974><P Class=ENCC>&nbsp;
+<SYNC Start=663976><P Class=ENCC>
+<br>Voy a cerrar, earnesto.
+<SYNC Start=665693><P Class=ENCC>&nbsp;
+<SYNC Start=665695><P Class=ENCC>
+<br>Didn't you flunk<br>Spanish?
+<SYNC Start=667778><P Class=ENCC>&nbsp;
+<SYNC Start=667780><P Class=ENCC>
+<br>More like<br>skipped it altogether.
+<SYNC Start=670564><P Class=ENCC>&nbsp;
+<SYNC Start=670566><P Class=ENCC>
+<br>Well, you look good.
+<SYNC Start=672883><P Class=ENCC>&nbsp;
+<SYNC Start=672885><P Class=ENCC>
+<br>I like<br>your hair cut.
+<SYNC Start=675252><P Class=ENCC>&nbsp;
+<SYNC Start=675254><P Class=ENCC>
+<br>Thank you. Yeah,<br>wanted it short, you know.
+<SYNC Start=678489><P Class=ENCC>&nbsp;
+<SYNC Start=678491><P Class=ENCC>
+<br>It gets hot down here.
+<SYNC Start=680157><P Class=ENCC>&nbsp;
+<SYNC Start=681494><P Class=ENCC>
+<br>I'm sorry I lied to you
+<SYNC Start=683961><P Class=ENCC>&nbsp;
+<SYNC Start=683963><P Class=ENCC>
+<br>about it, Ollie.
+<SYNC Start=685663><P Class=ENCC>&nbsp;
+<SYNC Start=685665><P Class=ENCC>
+<br>I just needed some space.
+<SYNC Start=688666><P Class=ENCC>&nbsp;
+<SYNC Start=688668><P Class=ENCC>
+<br>It's ok. You've had<br>five months of it.
+<SYNC Start=691802><P Class=ENCC>&nbsp;
+<SYNC Start=691804><P Class=ENCC>
+<br>This isn't just a visit.
+<SYNC Start=695506><P Class=ENCC>&nbsp;
+<SYNC Start=698311><P Class=ENCC>
+<br>Got one<br>for you, too.
+<SYNC Start=702346><P Class=ENCC>&nbsp;
+<SYNC Start=702348><P Class=ENCC>
+<br>After mom,
+<SYNC Start=704248><P Class=ENCC>&nbsp;
+<SYNC Start=704250><P Class=ENCC>
+<br>I understood why<br>you left Starling.
+<SYNC Start=707101><P Class=ENCC>&nbsp;
+<SYNC Start=707103><P Class=ENCC>
+<br>But Thea,
+<SYNC Start=710488><P Class=ENCC>&nbsp;
+<SYNC Start=710490><P Class=ENCC>
+<br>I miss you.
+<SYNC Start=712106><P Class=ENCC>&nbsp;
+<SYNC Start=714160><P Class=ENCC>
+<br>And I would really like it<br>if you came home.
+<SYNC Start=718529><P Class=ENCC>&nbsp;
+<SYNC Start=718531><P Class=ENCC>
+<br>I miss you, too.
+<SYNC Start=721165><P Class=ENCC>&nbsp;
+<SYNC Start=721167><P Class=ENCC>
+<br>And I love you...so much.
+<SYNC Start=725085><P Class=ENCC>&nbsp;
+<SYNC Start=725087><P Class=ENCC>
+<br>But I'm never coming back<br>to Starling City.
+<SYNC Start=728839><P Class=ENCC>&nbsp;
+<SYNC Start=733379><P Class=ENCC>
+<br>[Thea gasping]
+<SYNC Start=735713><P Class=ENCC>&nbsp;
+<SYNC Start=737383><P Class=ENCC>
+<br>Ahh!
+<SYNC Start=739300><P Class=ENCC>&nbsp;
+<SYNC Start=739302><P Class=ENCC>
+<br>I can't. Sorry.
+<SYNC Start=743220><P Class=ENCC>&nbsp;
+<SYNC Start=743222><P Class=ENCC>
+<br>There is strength<br>in you, Thea.
+<SYNC Start=744889><P Class=ENCC>&nbsp;
+<SYNC Start=744891><P Class=ENCC>
+<br>I see it, even if you can't<br>see it yourself.
+<SYNC Start=747808><P Class=ENCC>&nbsp;
+<SYNC Start=747810><P Class=ENCC>
+<br>I'm sorry, this--
+<SYNC Start=749977><P Class=ENCC>&nbsp;
+<SYNC Start=749979><P Class=ENCC>
+<br>this just isn't me.<br>I'm not like you. I can't do this!
+<SYNC Start=754482><P Class=ENCC>&nbsp;
+<SYNC Start=754484><P Class=ENCC>
+<br>It's all right.
+<SYNC Start=757701><P Class=ENCC>&nbsp;
+<SYNC Start=757703><P Class=ENCC>
+<br>It's not your fault.
+<SYNC Start=761071><P Class=ENCC>&nbsp;
+<SYNC Start=761073><P Class=ENCC>
+<br>It's mine.
+<SYNC Start=763457><P Class=ENCC>&nbsp;
+<SYNC Start=763459><P Class=ENCC>
+<br>Q.C. stock up 10 bucks<br>at the open.
+<SYNC Start=767411><P Class=ENCC>&nbsp;
+<SYNC Start=767413><P Class=ENCC>
+<br>That is love, ha!
+<SYNC Start=769129><P Class=ENCC>&nbsp;
+<SYNC Start=769131><P Class=ENCC>
+<br>Ah, miss Smoak,<br>good morning--
+<SYNC Start=771832><P Class=ENCC>&nbsp;
+<SYNC Start=771834><P Class=ENCC>
+<br>I think. I've been<br>here all night.
+<SYNC Start=773751><P Class=ENCC>&nbsp;
+<SYNC Start=773753><P Class=ENCC>
+<br>My predecessor left<br>things a little, um,
+<SYNC Start=775719><P Class=ENCC>&nbsp;
+<SYNC Start=775721><P Class=ENCC>
+<br>what's the polite way<br>to say this? Little wonky.
+<SYNC Start=778172><P Class=ENCC>&nbsp;
+<SYNC Start=778174><P Class=ENCC>
+<br>Sorry if I'm rambling.<br>I'm a little over-caffeinated.
+<SYNC Start=780224><P Class=ENCC>&nbsp;
+<SYNC Start=780226><P Class=ENCC>
+<br>I just had<br>three espressos.
+<SYNC Start=781976><P Class=ENCC>&nbsp;
+<SYNC Start=781978><P Class=ENCC>
+<br>Speaking of coffee--<br>Let me stop you right there!
+<SYNC Start=783477><P Class=ENCC>&nbsp;
+<SYNC Start=783479><P Class=ENCC>
+<br>I told myself<br>that I would stand firm
+<SYNC Start=785563><P Class=ENCC>&nbsp;
+<SYNC Start=785565><P Class=ENCC>
+<br>on a few points.
+<SYNC Start=786525><P Class=ENCC>&nbsp;
+<SYNC Start=786548><P Class=ENCC>
+<br>No late night emails,<br>no personal errands,
+<SYNC Start=788648><P Class=ENCC>&nbsp;
+<SYNC Start=788684><P Class=ENCC>
+<br>and definitely no coffee.
+<SYNC Start=791485><P Class=ENCC>&nbsp;
+<SYNC Start=791487><P Class=ENCC>
+<br>There'll be no espressos<br>brought to you by me.
+<SYNC Start=794071><P Class=ENCC>&nbsp;
+<SYNC Start=794073><P Class=ENCC>
+<br>I stand very firm<br>on that last point.
+<SYNC Start=797441><P Class=ENCC>&nbsp;
+<SYNC Start=797443><P Class=ENCC>
+<br>And I admire<br>your conviction.
+<SYNC Start=801111><P Class=ENCC>&nbsp;
+<SYNC Start=801113><P Class=ENCC>
+<br>This is Jerry Conway,<br>your executive assistant.
+<SYNC Start=803581><P Class=ENCC>&nbsp;
+<SYNC Start=803583><P Class=ENCC>
+<br>And I wanted to know<br>if you'd like him to get you a coffee.
+<SYNC Start=807117><P Class=ENCC>&nbsp;
+<SYNC Start=807119><P Class=ENCC>
+<br>Or are you just<br>anti-latte in general?
+<SYNC Start=809203><P Class=ENCC>&nbsp;
+<SYNC Start=809205><P Class=ENCC>
+<br>Um...Executive assistant?
+<SYNC Start=812339><P Class=ENCC>&nbsp;
+<SYNC Start=812341><P Class=ENCC>
+<br>I think that's<br>a yes on the latte.
+<SYNC Start=816093><P Class=ENCC>&nbsp;
+<SYNC Start=816095><P Class=ENCC>
+<br>Thank you, Jerry.
+<SYNC Start=818095><P Class=ENCC>&nbsp;
+<SYNC Start=818097><P Class=ENCC>
+<br>Thank you, Jerry.
+<SYNC Start=819346><P Class=ENCC>&nbsp;
+<SYNC Start=819348><P Class=ENCC>
+<br>Should we get to<br>work? Excellent.
+<SYNC Start=820764><P Class=ENCC>&nbsp;
+<SYNC Start=820766><P Class=ENCC>
+<br>Applied Sciences.
+<SYNC Start=822383><P Class=ENCC>&nbsp;
+<SYNC Start=822385><P Class=ENCC>
+<br>Q.C.'s bleeding edge<br>research division,
+<SYNC Start=824051><P Class=ENCC>&nbsp;
+<SYNC Start=824053><P Class=ENCC>
+<br>till some wacko<br>blew it up last year.
+<SYNC Start=825352><P Class=ENCC>&nbsp;
+<SYNC Start=825354><P Class=ENCC>
+<br>I'm sure they had<br>their reasons.
+<SYNC Start=827638><P Class=ENCC>&nbsp;
+<SYNC Start=827640><P Class=ENCC>
+<br>The point is, it's the cornerstone<br>for my plan
+<SYNC Start=829907><P Class=ENCC>&nbsp;
+<SYNC Start=829908><P Class=ENCC>
+<br>to rebuild<br>Queen Consolidated
+<SYNC Start=831541><P Class=ENCC>&nbsp;
+<SYNC Start=831544><P Class=ENCC>
+<br>and thus the city.<br>I've had my people
+<SYNC Start=833944><P Class=ENCC>&nbsp;
+<SYNC Start=833946><P Class=ENCC>
+<br>working day and night<br>salvaging what they can,
+<SYNC Start=835646><P Class=ENCC>&nbsp;
+<SYNC Start=835648><P Class=ENCC>
+<br>including this--<br>a file server
+<SYNC Start=837481><P Class=ENCC>&nbsp;
+<SYNC Start=837483><P Class=ENCC>
+<br>containing Applied<br>Science's design work.
+<SYNC Start=839867><P Class=ENCC>&nbsp;
+<SYNC Start=839869><P Class=ENCC>
+<br>It's not working,<br>unfortunately,
+<SYNC Start=841452><P Class=ENCC>&nbsp;
+<SYNC Start=841454><P Class=ENCC>
+<br>on account of being caught<br>in a massive explosion.
+<SYNC Start=843237><P Class=ENCC>&nbsp;
+<SYNC Start=843239><P Class=ENCC>
+<br>You want me to access the data.
+<SYNC Start=845205><P Class=ENCC>&nbsp;
+<SYNC Start=845207><P Class=ENCC>
+<br>A brilliant mind<br>at work already.
+<SYNC Start=846991><P Class=ENCC>&nbsp;
+<SYNC Start=846993><P Class=ENCC>
+<br>Speaking of, I got<br>to get back to work.
+<SYNC Start=849426><P Class=ENCC>&nbsp;
+<SYNC Start=849428><P Class=ENCC>
+<br>Then why are you<br>leaving your office?
+<SYNC Start=852379><P Class=ENCC>&nbsp;
+<SYNC Start=852381><P Class=ENCC>
+<br>Oh, I'm not.<br>I'm leaving yours.
+<SYNC Start=854965><P Class=ENCC>&nbsp;
+<SYNC Start=867146><P Class=ENCC>
+<br>This is Lyla's busy work, man<br>you didn't have to tag along.
+<SYNC Start=869313><P Class=ENCC>&nbsp;
+<SYNC Start=869315><P Class=ENCC>
+<br>Well, I don't know how to vacation<br>like a normal person, Diggle.
+<SYNC Start=872683><P Class=ENCC>&nbsp;
+<SYNC Start=872685><P Class=ENCC>
+<br>What's the plan?
+<SYNC Start=873901><P Class=ENCC>&nbsp;
+<SYNC Start=873903><P Class=ENCC>
+<br>This spot's his<br>usual dead drop.
+<SYNC Start=875402><P Class=ENCC>&nbsp;
+<SYNC Start=875404><P Class=ENCC>
+<br>Lyla sent me over<br>this file photo.
+<SYNC Start=877738><P Class=ENCC>&nbsp;
+<SYNC Start=877740><P Class=ENCC>
+<br>Just make sure<br>he's all right.
+<SYNC Start=879356><P Class=ENCC>&nbsp;
+<SYNC Start=882862><P Class=ENCC>
+<br>Got him.<br>I got you.
+<SYNC Start=884862><P Class=ENCC>&nbsp;
+<SYNC Start=884864><P Class=ENCC>
+<br>He's a friendly,<br>Oliver.
+<SYNC Start=887798><P Class=ENCC>&nbsp;
+<SYNC Start=890336><P Class=ENCC>
+<br>Shaw.
+<SYNC Start=892503><P Class=ENCC>&nbsp;
+<SYNC Start=892505><P Class=ENCC>
+<br>Hey, hey, hey, hey,<br>hey, hey, hey, hey!
+<SYNC Start=896006><P Class=ENCC>&nbsp;
+<SYNC Start=896008><P Class=ENCC>
+<br>Listen! I'm with<br>Lyla Michaels.
+<SYNC Start=897758><P Class=ENCC>&nbsp;
+<SYNC Start=897760><P Class=ENCC>
+<br>Have you seen any<br>capuchins today?
+<SYNC Start=899960><P Class=ENCC>&nbsp;
+<SYNC Start=899962><P Class=ENCC>
+<br>If that's a challenge code, I got<br>to tell you, I'm not with A.R.G.U.S.
+<SYNC Start=901845><P Class=ENCC>&nbsp;
+<SYNC Start=901847><P Class=ENCC>
+<br>I'm just Lyla's<br>baby daddy.
+<SYNC Start=903380><P Class=ENCC>&nbsp;
+<SYNC Start=903382><P Class=ENCC>
+<br>Now, you didn't check in, Shaw.<br>She was worried,
+<SYNC Start=905132><P Class=ENCC>&nbsp;
+<SYNC Start=905134><P Class=ENCC>
+<br>so she sent me<br>to find you.
+<SYNC Start=906967><P Class=ENCC>&nbsp;
+<SYNC Start=906969><P Class=ENCC>
+<br>If you're lyin', you'll be picking<br>your intestines up
+<SYNC Start=908886><P Class=ENCC>&nbsp;
+<SYNC Start=908888><P Class=ENCC>
+<br>off this sidewalk.
+<SYNC Start=910354><P Class=ENCC>&nbsp;
+<SYNC Start=910356><P Class=ENCC>
+<br>That's fair enough.
+<SYNC Start=912723><P Class=ENCC>&nbsp;
+<SYNC Start=914894><P Class=ENCC>
+<br>Lyla gave me a security<br>transcoder in my right jacket pocket.
+<SYNC Start=918946><P Class=ENCC>&nbsp;
+<SYNC Start=927740><P Class=ENCC>
+<br>Pretty jumpy, Shaw.
+<SYNC Start=929373><P Class=ENCC>&nbsp;
+<SYNC Start=929375><P Class=ENCC>
+<br>Better jumpy than dead.
+<SYNC Start=932459><P Class=ENCC>&nbsp;
+<SYNC Start=932461><P Class=ENCC>
+<br>Copy that.<br>What's going on?
+<SYNC Start=934161><P Class=ENCC>&nbsp;
+<SYNC Start=934163><P Class=ENCC>
+<br>Not here.
+<SYNC Start=936547><P Class=ENCC>&nbsp;
+<SYNC Start=939218><P Class=ENCC>
+<br>Sorry, I had--
+<SYNC Start=941251><P Class=ENCC>&nbsp;
+<SYNC Start=941253><P Class=ENCC>
+<br>I had eyes on me<br>all week,
+<SYNC Start=942836><P Class=ENCC>&nbsp;
+<SYNC Start=942838><P Class=ENCC>
+<br>a whole<br>follow team.
+<SYNC Start=944338><P Class=ENCC>&nbsp;
+<SYNC Start=944340><P Class=ENCC>
+<br>Wait, Shaw. What makes<br>you so important?
+<SYNC Start=947057><P Class=ENCC>&nbsp;
+<SYNC Start=947059><P Class=ENCC>
+<br>I have hard Intel.
+<SYNC Start=948592><P Class=ENCC>&nbsp;
+<SYNC Start=948593><P Class=ENCC>
+<br>Someone from Corto Maltese<br>hacked into the server
+<SYNC Start=951060><P Class=ENCC>&nbsp;
+<SYNC Start=951063><P Class=ENCC>
+<br>and acquired<br>the A.R.G.U.S. actual.
+<SYNC Start=952596><P Class=ENCC>&nbsp;
+<SYNC Start=952598><P Class=ENCC>
+<br>They want to sell it.
+<SYNC Start=954014><P Class=ENCC>&nbsp;
+<SYNC Start=954016><P Class=ENCC>
+<br>Did I mention I don't<br>work for A.R.G.U.S.?
+<SYNC Start=955482><P Class=ENCC>&nbsp;
+<SYNC Start=955484><P Class=ENCC>
+<br>The actual is an encrypted<br>data omnibus.
+<SYNC Start=957568><P Class=ENCC>&nbsp;
+<SYNC Start=957570><P Class=ENCC>
+<br>It's a complete record<br>of agent covers,
+<SYNC Start=959153><P Class=ENCC>&nbsp;
+<SYNC Start=959155><P Class=ENCC>
+<br>personal details,<br>affiliated soft targets--
+<SYNC Start=961605><P Class=ENCC>&nbsp;
+<SYNC Start=961607><P Class=ENCC>
+<br>Whoa, whoa, whoa, soft targets...<br>As in family members?
+<SYNC Start=965492><P Class=ENCC>&nbsp;
+<SYNC Start=965494><P Class=ENCC>
+<br>Yeah, as in women<br>and children.
+<SYNC Start=968028><P Class=ENCC>&nbsp;
+<SYNC Start=968030><P Class=ENCC>
+<br>You get why<br>this is so important?
+<SYNC Start=971915><P Class=ENCC>&nbsp;
+<SYNC Start=972225><P Class=ENCC>
+<br>Hi, my name is Laurel,<br>I'm an alcoholic.
+<SYNC Start=974426><P Class=ENCC>&nbsp;
+<SYNC Start=974428><P Class=ENCC>
+<br>All: Hi, Laurel.
+<SYNC Start=976094><P Class=ENCC>&nbsp;
+<SYNC Start=976096><P Class=ENCC>
+<br>A week ago, I...
+<SYNC Start=979347><P Class=ENCC>&nbsp;
+<SYNC Start=979349><P Class=ENCC>
+<br>Something happened.
+<SYNC Start=982400><P Class=ENCC>&nbsp;
+<SYNC Start=982402><P Class=ENCC>
+<br>Something that<br>I can't share with anyone
+<SYNC Start=985937><P Class=ENCC>&nbsp;
+<SYNC Start=985939><P Class=ENCC>
+<br>for several<br>complicated reasons.
+<SYNC Start=990108><P Class=ENCC>&nbsp;
+<SYNC Start=992662><P Class=ENCC>
+<br>I thought that I was going<br>to want to drink...
+<SYNC Start=996614><P Class=ENCC>&nbsp;
+<SYNC Start=996616><P Class=ENCC>
+<br>But I didn't.
+<SYNC Start=998833><P Class=ENCC>&nbsp;
+<SYNC Start=998835><P Class=ENCC>
+<br>Not even tempted,<br>really.
+<SYNC Start=1000418><P Class=ENCC>&nbsp;
+<SYNC Start=1000420><P Class=ENCC>
+<br>[Inhales and exhales]
+<SYNC Start=1002587><P Class=ENCC>&nbsp;
+<SYNC Start=1002589><P Class=ENCC>
+<br>But what I am is...
+<SYNC Start=1005807><P Class=ENCC>&nbsp;
+<SYNC Start=1005809><P Class=ENCC>
+<br>Is I'm angry.
+<SYNC Start=1008877><P Class=ENCC>&nbsp;
+<SYNC Start=1008879><P Class=ENCC>
+<br>And I don't know<br>what to do with it
+<SYNC Start=1011012><P Class=ENCC>&nbsp;
+<SYNC Start=1011014><P Class=ENCC>
+<br>or--or where to put<br>it. I just...
+<SYNC Start=1014532><P Class=ENCC>&nbsp;
+<SYNC Start=1018939><P Class=ENCC>
+<br>Thank you for<br>letting me share.
+<SYNC Start=1022974><P Class=ENCC>&nbsp;
+<SYNC Start=1022976><P Class=ENCC>
+<br>Are there any other<br>burning desires?
+<SYNC Start=1027145><P Class=ENCC>&nbsp;
+<SYNC Start=1029566><P Class=ENCC>
+<br>Erica. Alcoholic.
+<SYNC Start=1033084><P Class=ENCC>&nbsp;
+<SYNC Start=1033086><P Class=ENCC>
+<br>All: Hi, Erica.
+<SYNC Start=1034235><P Class=ENCC>&nbsp;
+<SYNC Start=1034237><P Class=ENCC>
+<br>My boyfriend and me
+<SYNC Start=1036037><P Class=ENCC>&nbsp;
+<SYNC Start=1036039><P Class=ENCC>
+<br>got into another<br>fight last night.
+<SYNC Start=1037639><P Class=ENCC>&nbsp;
+<SYNC Start=1037641><P Class=ENCC>
+<br>Some of you know,<br>he still drinks, a lot.
+<SYNC Start=1040992><P Class=ENCC>&nbsp;
+<SYNC Start=1040994><P Class=ENCC>
+<br>And I said something.
+<SYNC Start=1043161><P Class=ENCC>&nbsp;
+<SYNC Start=1044464><P Class=ENCC>
+<br>I know I should have<br>just kept my mouth shut.
+<SYNC Start=1048216><P Class=ENCC>&nbsp;
+<SYNC Start=1048218><P Class=ENCC>
+<br>I know I should<br>just leave him, but...I can't.
+<SYNC Start=1053688><P Class=ENCC>&nbsp;
+<SYNC Start=1053690><P Class=ENCC>
+<br>Maybe there's a meeting
+<SYNC Start=1055140><P Class=ENCC>&nbsp;
+<SYNC Start=1055142><P Class=ENCC>
+<br>I should be<br>going to for that.
+<SYNC Start=1056808><P Class=ENCC>&nbsp;
+<SYNC Start=1056810><P Class=ENCC>
+<br>Laurel: Once a month, Erica<br>gives a share like that
+<SYNC Start=1060011><P Class=ENCC>&nbsp;
+<SYNC Start=1060013><P Class=ENCC>
+<br>and it's getting worse.<br>Quentin: Yeah.
+<SYNC Start=1061596><P Class=ENCC>&nbsp;
+<SYNC Start=1061598><P Class=ENCC>
+<br>Do you know<br>the boyfriend has
+<SYNC Start=1063064><P Class=ENCC>&nbsp;
+<SYNC Start=1063066><P Class=ENCC>
+<br>eight assault charges<br>against him?
+<SYNC Start=1064432><P Class=ENCC>&nbsp;
+<SYNC Start=1064434><P Class=ENCC>
+<br>And not just<br>in Starling.
+<SYNC Start=1065767><P Class=ENCC>&nbsp;
+<SYNC Start=1065769><P Class=ENCC>
+<br>He's got warrants<br>out on him
+<SYNC Start=1066985><P Class=ENCC>&nbsp;
+<SYNC Start=1066987><P Class=ENCC>
+<br>as far off<br>as Coast City.
+<SYNC Start=1068570><P Class=ENCC>&nbsp;
+<SYNC Start=1068572><P Class=ENCC>
+<br>And it takes everything in me<br>not to go after
+<SYNC Start=1070071><P Class=ENCC>&nbsp;
+<SYNC Start=1070073><P Class=ENCC>
+<br>a dirtbag like that,<br>but the day the cops
+<SYNC Start=1071656><P Class=ENCC>&nbsp;
+<SYNC Start=1071658><P Class=ENCC>
+<br>start bringing their badges<br>into AA meetings,
+<SYNC Start=1073575><P Class=ENCC>&nbsp;
+<SYNC Start=1073577><P Class=ENCC>
+<br>that's the day that<br>the drunks stop coming.
+<SYNC Start=1076494><P Class=ENCC>&nbsp;
+<SYNC Start=1081535><P Class=ENCC>
+<br>I'm in position.
+<SYNC Start=1084035><P Class=ENCC>&nbsp;
+<SYNC Start=1084037><P Class=ENCC>
+<br>The sale of the actual<br>is going down here.
+<SYNC Start=1086538><P Class=ENCC>&nbsp;
+<SYNC Start=1086540><P Class=ENCC>
+<br>Only two of us. You didn't want<br>to call for back up?
+<SYNC Start=1090341><P Class=ENCC>&nbsp;
+<SYNC Start=1090343><P Class=ENCC>
+<br>Hey.
+<SYNC Start=1092544><P Class=ENCC>&nbsp;
+<SYNC Start=1092546><P Class=ENCC>
+<br>That's the only insurance<br>policy you're going to need.
+<SYNC Start=1094796><P Class=ENCC>&nbsp;
+<SYNC Start=1098185><P Class=ENCC>
+<br>They're here.
+<SYNC Start=1100218><P Class=ENCC>&nbsp;
+<SYNC Start=1103190><P Class=ENCC>
+<br>You're not worried about them<br>seeing our ride?
+<SYNC Start=1106524><P Class=ENCC>&nbsp;
+<SYNC Start=1107811><P Class=ENCC>
+<br>How did you know<br>the buy was happening?
+<SYNC Start=1110161><P Class=ENCC>&nbsp;
+<SYNC Start=1110162><P Class=ENCC>
+<br>I've been a station agent<br>in Corto Maltese for three years now.
+<SYNC Start=1114364><P Class=ENCC>&nbsp;
+<SYNC Start=1114367><P Class=ENCC>
+<br>I got this third-world<br>garbage dump wired.
+<SYNC Start=1117035><P Class=ENCC>&nbsp;
+<SYNC Start=1118705><P Class=ENCC>
+<br>What's wrong?
+<SYNC Start=1120572><P Class=ENCC>&nbsp;
+<SYNC Start=1122826><P Class=ENCC>
+<br>There's no buy,<br>is there, Shaw?
+<SYNC Start=1125743><P Class=ENCC>&nbsp;
+<SYNC Start=1128582><P Class=ENCC>
+<br>[Groaning]
+<SYNC Start=1130548><P Class=ENCC>&nbsp;
+<SYNC Start=1144431><P Class=ENCC>
+<br>Sorry for lyin' to you,<br>John. Well, partially lyin'.
+<SYNC Start=1146898><P Class=ENCC>&nbsp;
+<SYNC Start=1146900><P Class=ENCC>
+<br>There is a buy going down,<br>just not till tomorrow.
+<SYNC Start=1149684><P Class=ENCC>&nbsp;
+<SYNC Start=1149686><P Class=ENCC>
+<br>I needed to get this first.
+<SYNC Start=1151603><P Class=ENCC>&nbsp;
+<SYNC Start=1151605><P Class=ENCC>
+<br>Thanks for helping me<br>decode the actual.
+<SYNC Start=1154906><P Class=ENCC>&nbsp;
+<SYNC Start=1154908><P Class=ENCC>
+<br>Oliver: Diggle!
+<SYNC Start=1157275><P Class=ENCC>&nbsp;
+<SYNC Start=1172990><P Class=ENCC>
+<br>[Thea sighs]
+<SYNC Start=1175758><P Class=ENCC>&nbsp;
+<SYNC Start=1179497><P Class=ENCC>
+<br>Should have got<br>the heavy duty ones.
+<SYNC Start=1182181><P Class=ENCC>&nbsp;
+<SYNC Start=1182483><P Class=ENCC>
+<br>I like your hair.
+<SYNC Start=1184332><P Class=ENCC>&nbsp;
+<SYNC Start=1184334><P Class=ENCC>
+<br>What are you and my brother<br>like travel buddies now?
+<SYNC Start=1187936><P Class=ENCC>&nbsp;
+<SYNC Start=1188627><P Class=ENCC>
+<br>No, we're just<br>worried about you.
+<SYNC Start=1190694><P Class=ENCC>&nbsp;
+<SYNC Start=1190696><P Class=ENCC>
+<br>[Grunting]
+<SYNC Start=1193330><P Class=ENCC>&nbsp;
+<SYNC Start=1195117><P Class=ENCC>
+<br>Oliver said you weren't<br>going to come back, so...
+<SYNC Start=1197117><P Class=ENCC>&nbsp;
+<SYNC Start=1197119><P Class=ENCC>
+<br>I figured I'd come here<br>and try to convince you to.
+<SYNC Start=1200303><P Class=ENCC>&nbsp;
+<SYNC Start=1200305><P Class=ENCC>
+<br>Well, you can't.
+<SYNC Start=1201638><P Class=ENCC>&nbsp;
+<SYNC Start=1201640><P Class=ENCC>
+<br>Look, I get it, you're hurt.
+<SYNC Start=1203006><P Class=ENCC>&nbsp;
+<SYNC Start=1203008><P Class=ENCC>
+<br>I lied to you,<br>I lied right to your face.
+<SYNC Start=1205175><P Class=ENCC>&nbsp;
+<SYNC Start=1205177><P Class=ENCC>
+<br>But I--I need you to know<br>that when I said
+<SYNC Start=1206938><P Class=ENCC>&nbsp;
+<SYNC Start=1206962><P Class=ENCC>
+<br>I wanted to leave<br>Starling with you,
+<SYNC Start=1208679><P Class=ENCC>&nbsp;
+<SYNC Start=1208680><P Class=ENCC>
+<br>that wasn't a lie.
+<SYNC Start=1210263><P Class=ENCC>&nbsp;
+<SYNC Start=1210265><P Class=ENCC>
+<br>I didn't just leave<br>because of you, Roy.
+<SYNC Start=1213550><P Class=ENCC>&nbsp;
+<SYNC Start=1213552><P Class=ENCC>
+<br>My mother lied to me,
+<SYNC Start=1216720><P Class=ENCC>&nbsp;
+<SYNC Start=1216722><P Class=ENCC>
+<br>my brother.
+<SYNC Start=1219222><P Class=ENCC>&nbsp;
+<SYNC Start=1219224><P Class=ENCC>
+<br>I had to get away from Starling City<br>and all the secrets.
+<SYNC Start=1222809><P Class=ENCC>&nbsp;
+<SYNC Start=1222811><P Class=ENCC>
+<br>And I found<br>myself here.
+<SYNC Start=1225812><P Class=ENCC>&nbsp;
+<SYNC Start=1225814><P Class=ENCC>
+<br>Isn't it lonely here?
+<SYNC Start=1228565><P Class=ENCC>&nbsp;
+<SYNC Start=1228567><P Class=ENCC>
+<br>That's kind of what<br>I like about it.
+<SYNC Start=1231234><P Class=ENCC>&nbsp;
+<SYNC Start=1231236><P Class=ENCC>
+<br>There's no one here<br>who knows me
+<SYNC Start=1234154><P Class=ENCC>&nbsp;
+<SYNC Start=1234155><P Class=ENCC>
+<br>or thinks of me<br>as Thea Queen
+<SYNC Start=1237656><P Class=ENCC>&nbsp;
+<SYNC Start=1237659><P Class=ENCC>
+<br>or Thea Merlyn.
+<SYNC Start=1239976><P Class=ENCC>&nbsp;
+<SYNC Start=1241380><P Class=ENCC>
+<br>No one who lies<br>to me, or...
+<SYNC Start=1244381><P Class=ENCC>&nbsp;
+<SYNC Start=1244383><P Class=ENCC>
+<br>tries to protect me<br>with secrets.
+<SYNC Start=1247751><P Class=ENCC>&nbsp;
+<SYNC Start=1247753><P Class=ENCC>
+<br>All I ever wanted<br>was for you to be happy, Thea.
+<SYNC Start=1250470><P Class=ENCC>&nbsp;
+<SYNC Start=1250472><P Class=ENCC>
+<br>I'm sorry I got<br>in the way of that.
+<SYNC Start=1253056><P Class=ENCC>&nbsp;
+<SYNC Start=1253058><P Class=ENCC>
+<br>I'm sorry that I hurt you.
+<SYNC Start=1255425><P Class=ENCC>&nbsp;
+<SYNC Start=1255427><P Class=ENCC>
+<br>If being here instead of home<br>makes you happy, then--
+<SYNC Start=1258395><P Class=ENCC>&nbsp;
+<SYNC Start=1258397><P Class=ENCC>
+<br>then you should stay.
+<SYNC Start=1260730><P Class=ENCC>&nbsp;
+<SYNC Start=1263685><P Class=ENCC>
+<br>Roy?
+<SYNC Start=1266736><P Class=ENCC>&nbsp;
+<SYNC Start=1268690><P Class=ENCC>
+<br>Are you ok?
+<SYNC Start=1270540><P Class=ENCC>&nbsp;
+<SYNC Start=1270542><P Class=ENCC>
+<br>You look<br>a little tired.
+<SYNC Start=1273443><P Class=ENCC>&nbsp;
+<SYNC Start=1273445><P Class=ENCC>
+<br>I just haven't been<br>sleeping much lately.
+<SYNC Start=1276196><P Class=ENCC>&nbsp;
+<SYNC Start=1276198><P Class=ENCC>
+<br>You take care.
+<SYNC Start=1278949><P Class=ENCC>&nbsp;
+<SYNC Start=1293632><P Class=ENCC>
+<br>What do you mean?
+<SYNC Start=1296132><P Class=ENCC>&nbsp;
+<SYNC Start=1296134><P Class=ENCC>
+<br>It's not your fault,<br>it's mine.
+<SYNC Start=1299135><P Class=ENCC>&nbsp;
+<SYNC Start=1300939><P Class=ENCC>
+<br>I thought I could<br>do this differently,
+<SYNC Start=1302939><P Class=ENCC>&nbsp;
+<SYNC Start=1302941><P Class=ENCC>
+<br>but I can't.
+<SYNC Start=1304274><P Class=ENCC>&nbsp;
+<SYNC Start=1304276><P Class=ENCC>
+<br>I need to train you<br>as I was trained.
+<SYNC Start=1307110><P Class=ENCC>&nbsp;
+<SYNC Start=1307112><P Class=ENCC>
+<br>Treat you<br>as my student,
+<SYNC Start=1309813><P Class=ENCC>&nbsp;
+<SYNC Start=1309815><P Class=ENCC>
+<br>not my daughter.
+<SYNC Start=1312282><P Class=ENCC>&nbsp;
+<SYNC Start=1312284><P Class=ENCC>
+<br>[Gasping]
+<SYNC Start=1314818><P Class=ENCC>&nbsp;
+<SYNC Start=1314820><P Class=ENCC>
+<br>What are you doing?!
+<SYNC Start=1317621><P Class=ENCC>&nbsp;
+<SYNC Start=1317623><P Class=ENCC>
+<br>The only way to forge steel is to<br>temper it with fire.
+<SYNC Start=1321625><P Class=ENCC>&nbsp;
+<SYNC Start=1321627><P Class=ENCC>
+<br>[Gasping and groaning]
+<SYNC Start=1323710><P Class=ENCC>&nbsp;
+<SYNC Start=1323712><P Class=ENCC>
+<br>Stay away from me,<br>you sick son of a bitch!
+<SYNC Start=1327297><P Class=ENCC>&nbsp;
+<SYNC Start=1328667><P Class=ENCC>
+<br>Now we can begin.
+<SYNC Start=1330667><P Class=ENCC>&nbsp;
+<SYNC Start=1332387><P Class=ENCC>
+<br>Lyla: Why didn't you call me sooner?<br>I could have helped.
+<SYNC Start=1335255><P Class=ENCC>&nbsp;
+<SYNC Start=1335257><P Class=ENCC>
+<br>I didn't want you<br>to worry, Lyla.
+<SYNC Start=1336556><P Class=ENCC>&nbsp;
+<SYNC Start=1336558><P Class=ENCC>
+<br>Besides, I thought<br>we could handle it.
+<SYNC Start=1337891><P Class=ENCC>&nbsp;
+<SYNC Start=1337893><P Class=ENCC>
+<br>Well, we've hacked<br>his email traffic.
+<SYNC Start=1339309><P Class=ENCC>&nbsp;
+<SYNC Start=1339310><P Class=ENCC>
+<br>He's got a buyer en route<br>to Corto Maltese.
+<SYNC Start=1340665><P Class=ENCC>&nbsp;
+<SYNC Start=1340666><P Class=ENCC>
+<br>Who?
+<SYNC Start=1341268><P Class=ENCC>&nbsp;
+<SYNC Start=1341292><P Class=ENCC>
+<br>The tech boys<br>are still working on that.
+<SYNC Start=1343056><P Class=ENCC>&nbsp;
+<SYNC Start=1343466><P Class=ENCC>
+<br>But Waller's dispatched<br>a wet team to your position.
+<SYNC Start=1345682><P Class=ENCC>&nbsp;
+<SYNC Start=1345684><P Class=ENCC>
+<br>They're not going<br>to get here in time.
+<SYNC Start=1347184><P Class=ENCC>&nbsp;
+<SYNC Start=1347186><P Class=ENCC>
+<br>They might.<br>Keep your powder dry.
+<SYNC Start=1349853><P Class=ENCC>&nbsp;
+<SYNC Start=1349855><P Class=ENCC>
+<br>Copy that.
+<SYNC Start=1351622><P Class=ENCC>&nbsp;
+<SYNC Start=1353442><P Class=ENCC>
+<br>We're not going to<br>keep our powder dry.
+<SYNC Start=1355492><P Class=ENCC>&nbsp;
+<SYNC Start=1355494><P Class=ENCC>
+<br>Hell no.
+<SYNC Start=1357828><P Class=ENCC>&nbsp;
+<SYNC Start=1360866><P Class=ENCC>
+<br>Hey.
+<SYNC Start=1363066><P Class=ENCC>&nbsp;
+<SYNC Start=1363068><P Class=ENCC>
+<br>Any luck raising our digital Lazarus<br>from the dead?
+<SYNC Start=1365602><P Class=ENCC>&nbsp;
+<SYNC Start=1365604><P Class=ENCC>
+<br>The hard drive<br>is toast.
+<SYNC Start=1367438><P Class=ENCC>&nbsp;
+<SYNC Start=1367440><P Class=ENCC>
+<br>And the power<br>supply.
+<SYNC Start=1369039><P Class=ENCC>&nbsp;
+<SYNC Start=1369041><P Class=ENCC>
+<br>And...the actuator.
+<SYNC Start=1371375><P Class=ENCC>&nbsp;
+<SYNC Start=1371377><P Class=ENCC>
+<br>Ah, I'm sensing<br>a pattern.
+<SYNC Start=1372976><P Class=ENCC>&nbsp;
+<SYNC Start=1372978><P Class=ENCC>
+<br>[Cell phone vibrates]<br>Sorry, one second.
+<SYNC Start=1377181><P Class=ENCC>&nbsp;
+<SYNC Start=1377183><P Class=ENCC>
+<br>Hello?
+<SYNC Start=1379283><P Class=ENCC>&nbsp;
+<SYNC Start=1379285><P Class=ENCC>
+<br>Hey, Felicity, this is John.<br>Where are you?
+<SYNC Start=1381351><P Class=ENCC>&nbsp;
+<SYNC Start=1381353><P Class=ENCC>
+<br>You wouldn't<br>believe me if I told you.
+<SYNC Start=1383687><P Class=ENCC>&nbsp;
+<SYNC Start=1383689><P Class=ENCC>
+<br>Are you near a computer?<br>Kind of.
+<SYNC Start=1385439><P Class=ENCC>&nbsp;
+<SYNC Start=1385440><P Class=ENCC>
+<br>I'm looking for somebody<br>in Corto Maltese.
+<SYNC Start=1387390><P Class=ENCC>&nbsp;
+<SYNC Start=1387393><P Class=ENCC>
+<br>I'm actually a little bit<br>in the middle of a...
+<SYNC Start=1389393><P Class=ENCC>&nbsp;
+<SYNC Start=1389395><P Class=ENCC>
+<br>I need to know where he is.
+<SYNC Start=1390477><P Class=ENCC>&nbsp;
+<SYNC Start=1390500><P Class=ENCC>
+<br>I've emailed you<br>everything I have on him.
+<SYNC Start=1391995><P Class=ENCC>&nbsp;
+<SYNC Start=1391997><P Class=ENCC>
+<br>...meeting right now.
+<SYNC Start=1393814><P Class=ENCC>&nbsp;
+<SYNC Start=1393816><P Class=ENCC>
+<br>I am so sorry.<br>It's a friend.
+<SYNC Start=1396233><P Class=ENCC>&nbsp;
+<SYNC Start=1396235><P Class=ENCC>
+<br>Um, well,<br>a few friends...
+<SYNC Start=1398619><P Class=ENCC>&nbsp;
+<SYNC Start=1398621><P Class=ENCC>
+<br>Actually. You know what,<br>it's a long story.
+<SYNC Start=1401788><P Class=ENCC>&nbsp;
+<SYNC Start=1401790><P Class=ENCC>
+<br>Heh. Why am I under the impression<br>that you have a lot of stories,
+<SYNC Start=1404741><P Class=ENCC>&nbsp;
+<SYNC Start=1404743><P Class=ENCC>
+<br>all of which are long?
+<SYNC Start=1407411><P Class=ENCC>&nbsp;
+<SYNC Start=1407413><P Class=ENCC>
+<br>You want me<br>to come back later?
+<SYNC Start=1408412><P Class=ENCC>&nbsp;
+<SYNC Start=1408414><P Class=ENCC>
+<br>What? Sorry.<br>[Beep]
+<SYNC Start=1410247><P Class=ENCC>&nbsp;
+<SYNC Start=1410249><P Class=ENCC>
+<br>Hello?
+<SYNC Start=1411999><P Class=ENCC>&nbsp;
+<SYNC Start=1412001><P Class=ENCC>
+<br>Felicity, I need a favor.
+<SYNC Start=1413250><P Class=ENCC>&nbsp;
+<SYNC Start=1413252><P Class=ENCC>
+<br>Are we favor<br>friends now?
+<SYNC Start=1415502><P Class=ENCC>&nbsp;
+<SYNC Start=1415504><P Class=ENCC>
+<br>Are we friends?<br>What?
+<SYNC Start=1417671><P Class=ENCC>&nbsp;
+<SYNC Start=1417673><P Class=ENCC>
+<br>Never mind, sorry.<br>[Telephone rings]
+<SYNC Start=1419456><P Class=ENCC>&nbsp;
+<SYNC Start=1419458><P Class=ENCC>
+<br>Oh, dear god. One second.<br>One more second. Hello?
+<SYNC Start=1422092><P Class=ENCC>&nbsp;
+<SYNC Start=1422094><P Class=ENCC>
+<br>We got cut off.
+<SYNC Start=1423343><P Class=ENCC>&nbsp;
+<SYNC Start=1423345><P Class=ENCC>
+<br>According to the file<br>you sent me,
+<SYNC Start=1424661><P Class=ENCC>&nbsp;
+<SYNC Start=1424663><P Class=ENCC>
+<br>this guy is somewhat<br>of a hacker.
+<SYNC Start=1426713><P Class=ENCC>&nbsp;
+<SYNC Start=1426715><P Class=ENCC>
+<br>Let me guess--long story?
+<SYNC Start=1428899><P Class=ENCC>&nbsp;
+<SYNC Start=1428901><P Class=ENCC>
+<br>Yeah, the guy I'm looking for broke<br>into A.R.G.U.S's system.
+<SYNC Start=1431051><P Class=ENCC>&nbsp;
+<SYNC Start=1431053><P Class=ENCC>
+<br>And he left a trail.<br>It's faint--hacking-wise--
+<SYNC Start=1432936><P Class=ENCC>&nbsp;
+<SYNC Start=1432938><P Class=ENCC>
+<br>but with a little bit<br>of luck, I will find him,
+<SYNC Start=1435689><P Class=ENCC>&nbsp;
+<SYNC Start=1435691><P Class=ENCC>
+<br>or his laptop. I will email<br>you when I have something.
+<SYNC Start=1438942><P Class=ENCC>&nbsp;
+<SYNC Start=1438944><P Class=ENCC>
+<br>I'm having<br>a bit of a day.
+<SYNC Start=1441578><P Class=ENCC>&nbsp;
+<SYNC Start=1441580><P Class=ENCC>
+<br>I need you to help me find someone<br>by googling his phone or something.
+<SYNC Start=1444114><P Class=ENCC>&nbsp;
+<SYNC Start=1444116><P Class=ENCC>
+<br>Pinging his GPS.
+<SYNC Start=1446083><P Class=ENCC>&nbsp;
+<SYNC Start=1446085><P Class=ENCC>
+<br>Can I call you back?
+<SYNC Start=1448952><P Class=ENCC>&nbsp;
+<SYNC Start=1448954><P Class=ENCC>
+<br>Is this what a typical day<br>looks like for you?
+<SYNC Start=1451088><P Class=ENCC>&nbsp;
+<SYNC Start=1451090><P Class=ENCC>
+<br>Believe it or not, this is<br>better than most.
+<SYNC Start=1454725><P Class=ENCC>&nbsp;
+<SYNC Start=1454727><P Class=ENCC>
+<br>When Felicity has Shaw's location,<br>I want you to text me and I'll be there.
+<SYNC Start=1457211><P Class=ENCC>&nbsp;
+<SYNC Start=1457213><P Class=ENCC>
+<br>Thea?<br>Yeah.
+<SYNC Start=1459763><P Class=ENCC>&nbsp;
+<SYNC Start=1459765><P Class=ENCC>
+<br>Oliver, I don't<br>think she's going
+<SYNC Start=1461265><P Class=ENCC>&nbsp;
+<SYNC Start=1461267><P Class=ENCC>
+<br>to change her mind on this.<br>She doesn't want
+<SYNC Start=1462966><P Class=ENCC>&nbsp;
+<SYNC Start=1462968><P Class=ENCC>
+<br>to hear from anyone,<br>and I don't blame her.
+<SYNC Start=1464218><P Class=ENCC>&nbsp;
+<SYNC Start=1464220><P Class=ENCC>
+<br>I mean, we both<br>lied to her. A lot.
+<SYNC Start=1466770><P Class=ENCC>&nbsp;
+<SYNC Start=1466772><P Class=ENCC>
+<br>I know, it's why it's time<br>to tell her the truth.
+<SYNC Start=1468772><P Class=ENCC>&nbsp;
+<SYNC Start=1468774><P Class=ENCC>
+<br>Oliver, when you say<br>"the truth"...
+<SYNC Start=1470390><P Class=ENCC>&nbsp;
+<SYNC Start=1470392><P Class=ENCC>
+<br>What happened<br>the five years I was away,
+<SYNC Start=1472226><P Class=ENCC>&nbsp;
+<SYNC Start=1472228><P Class=ENCC>
+<br>everything we've done since<br>I've been back,
+<SYNC Start=1473777><P Class=ENCC>&nbsp;
+<SYNC Start=1473779><P Class=ENCC>
+<br>all of it.
+<SYNC Start=1475862><P Class=ENCC>&nbsp;
+<SYNC Start=1475864><P Class=ENCC>
+<br>Well, you might want<br>to think about that for a second.
+<SYNC Start=1477397><P Class=ENCC>&nbsp;
+<SYNC Start=1477399><P Class=ENCC>
+<br>Lies are what drove Thea<br>away from Starling City
+<SYNC Start=1478782><P Class=ENCC>&nbsp;
+<SYNC Start=1478784><P Class=ENCC>
+<br>in the first place.
+<SYNC Start=1480617><P Class=ENCC>&nbsp;
+<SYNC Start=1480619><P Class=ENCC>
+<br>The truth is the only thing<br>that's going to bring her back.
+<SYNC Start=1482986><P Class=ENCC>&nbsp;
+<SYNC Start=1482988><P Class=ENCC>
+<br>Except you won't be<br>telling her the truth, will you?
+<SYNC Start=1485122><P Class=ENCC>&nbsp;
+<SYNC Start=1485124><P Class=ENCC>
+<br>You'll be telling her that her brother<br>has been lying to her to her face,
+<SYNC Start=1487958><P Class=ENCC>&nbsp;
+<SYNC Start=1487960><P Class=ENCC>
+<br>with almost<br>pathological sincerity
+<SYNC Start=1490327><P Class=ENCC>&nbsp;
+<SYNC Start=1490329><P Class=ENCC>
+<br>for the past two years.
+<SYNC Start=1491712><P Class=ENCC>&nbsp;
+<SYNC Start=1491714><P Class=ENCC>
+<br>She won't believe<br>another word you say.
+<SYNC Start=1493997><P Class=ENCC>&nbsp;
+<SYNC Start=1493999><P Class=ENCC>
+<br>And you will lose her,<br>Oliver, forever.
+<SYNC Start=1496166><P Class=ENCC>&nbsp;
+<SYNC Start=1496168><P Class=ENCC>
+<br>Well, look around.
+<SYNC Start=1499720><P Class=ENCC>&nbsp;
+<SYNC Start=1499722><P Class=ENCC>
+<br>I've already<br>lost her.
+<SYNC Start=1502055><P Class=ENCC>&nbsp;
+<SYNC Start=1502057><P Class=ENCC>
+<br>I don't have<br>any other choice.
+<SYNC Start=1504641><P Class=ENCC>&nbsp;
+<SYNC Start=1522027><P Class=ENCC>
+<br>I hear you like<br>to hit women.
+<SYNC Start=1524611><P Class=ENCC>&nbsp;
+<SYNC Start=1524613><P Class=ENCC>
+<br>How about one<br>who likes to hit back?
+<SYNC Start=1526780><P Class=ENCC>&nbsp;
+<SYNC Start=1526782><P Class=ENCC>
+<br>[Grunting]
+<SYNC Start=1528949><P Class=ENCC>&nbsp;
+<SYNC Start=1533756><P Class=ENCC>
+<br>You're right.<br>It's better when they hit back.
+<SYNC Start=1537708><P Class=ENCC>&nbsp;
+<SYNC Start=1541046><P Class=ENCC>
+<br>[Starts engine]
+<SYNC Start=1542796><P Class=ENCC>&nbsp;
+<SYNC Start=1542798><P Class=ENCC>
+<br>[Tires squealing]
+<SYNC Start=1544965><P Class=ENCC>&nbsp;
+<SYNC Start=1555258><P Class=ENCC>
+<br>[Sighs]
+<SYNC Start=1557258><P Class=ENCC>&nbsp;
+<SYNC Start=1558678><P Class=ENCC>
+<br>Baby, baby,<br>are you ok?
+<SYNC Start=1560845><P Class=ENCC>&nbsp;
+<SYNC Start=1560847><P Class=ENCC>
+<br>I'm so sorry.
+<SYNC Start=1563364><P Class=ENCC>&nbsp;
+<SYNC Start=1563366><P Class=ENCC>
+<br>I'm too relieved to be mad at you,<br>I really am.
+<SYNC Start=1566383><P Class=ENCC>&nbsp;
+<SYNC Start=1566385><P Class=ENCC>
+<br>But, sweetheart...
+<SYNC Start=1570805><P Class=ENCC>&nbsp;
+<SYNC Start=1570807><P Class=ENCC>
+<br>This is crazy.
+<SYNC Start=1573040><P Class=ENCC>&nbsp;
+<SYNC Start=1573042><P Class=ENCC>
+<br>What the hell<br>were you thinking
+<SYNC Start=1574375><P Class=ENCC>&nbsp;
+<SYNC Start=1574377><P Class=ENCC>
+<br>going after that<br>girl's boyfriend?
+<SYNC Start=1576544><P Class=ENCC>&nbsp;
+<SYNC Start=1576546><P Class=ENCC>
+<br>There's just something<br>I needed to work out.
+<SYNC Start=1579363><P Class=ENCC>&nbsp;
+<SYNC Start=1579365><P Class=ENCC>
+<br>I know that the world<br>isn't fair.
+<SYNC Start=1582450><P Class=ENCC>&nbsp;
+<SYNC Start=1582452><P Class=ENCC>
+<br>I know that it's<br>a terrible place where...
+<SYNC Start=1586237><P Class=ENCC>&nbsp;
+<SYNC Start=1586239><P Class=ENCC>
+<br>where people deserve<br>to get punished.
+<SYNC Start=1589406><P Class=ENCC>&nbsp;
+<SYNC Start=1589408><P Class=ENCC>
+<br>And they don't. I just...
+<SYNC Start=1592660><P Class=ENCC>&nbsp;
+<SYNC Start=1592662><P Class=ENCC>
+<br>[Sighs]
+<SYNC Start=1596280><P Class=ENCC>&nbsp;
+<SYNC Start=1596282><P Class=ENCC>
+<br>For one night,
+<SYNC Start=1598916><P Class=ENCC>&nbsp;
+<SYNC Start=1598918><P Class=ENCC>
+<br>I needed the world<br>to be different.
+<SYNC Start=1600968><P Class=ENCC>&nbsp;
+<SYNC Start=1600970><P Class=ENCC>
+<br>Ok, Laurel,<br>Laurel...
+<SYNC Start=1604572><P Class=ENCC>&nbsp;
+<SYNC Start=1604574><P Class=ENCC>
+<br>What's going on<br>with you, huh?
+<SYNC Start=1606390><P Class=ENCC>&nbsp;
+<SYNC Start=1606392><P Class=ENCC>
+<br>You're not being<br>yourself lately.
+<SYNC Start=1607925><P Class=ENCC>&nbsp;
+<SYNC Start=1607927><P Class=ENCC>
+<br>And now you're<br>running around,
+<SYNC Start=1609510><P Class=ENCC>&nbsp;
+<SYNC Start=1609512><P Class=ENCC>
+<br>you're tuning this guy up.<br>What are you doin'?!
+<SYNC Start=1613097><P Class=ENCC>&nbsp;
+<SYNC Start=1613099><P Class=ENCC>
+<br>Baby, you can talk to me<br>about anything.
+<SYNC Start=1615149><P Class=ENCC>&nbsp;
+<SYNC Start=1615151><P Class=ENCC>
+<br>You know that,<br>right? You know that.
+<SYNC Start=1617184><P Class=ENCC>&nbsp;
+<SYNC Start=1617186><P Class=ENCC>
+<br>I know.
+<SYNC Start=1619770><P Class=ENCC>&nbsp;
+<SYNC Start=1623075><P Class=ENCC>
+<br>Talk to me, then.
+<SYNC Start=1625826><P Class=ENCC>&nbsp;
+<SYNC Start=1625828><P Class=ENCC>
+<br>[Sighs]
+<SYNC Start=1628496><P Class=ENCC>&nbsp;
+<SYNC Start=1638040><P Class=ENCC>
+<br>Laurel, you're not<br>the arrow.
+<SYNC Start=1640758><P Class=ENCC>&nbsp;
+<SYNC Start=1640760><P Class=ENCC>
+<br>Or your sister.
+<SYNC Start=1643127><P Class=ENCC>&nbsp;
+<SYNC Start=1645882><P Class=ENCC>
+<br>You promise me you'll never<br>do anything like this again, ever!
+<SYNC Start=1648799><P Class=ENCC>&nbsp;
+<SYNC Start=1648801><P Class=ENCC>
+<br>I promise.
+<SYNC Start=1651969><P Class=ENCC>&nbsp;
+<SYNC Start=1651971><P Class=ENCC>
+<br>It was a mistake;<br>I wasn't thinking.
+<SYNC Start=1655940><P Class=ENCC>&nbsp;
+<SYNC Start=1667569><P Class=ENCC>
+<br>If you want to stay<br>in Corto Maltese, it's fine,
+<SYNC Start=1669736><P Class=ENCC>&nbsp;
+<SYNC Start=1669739><P Class=ENCC>
+<br>but there's not much<br>here in the way of sightseeing.
+<SYNC Start=1671789><P Class=ENCC>&nbsp;
+<SYNC Start=1671791><P Class=ENCC>
+<br>I need to talk to you.
+<SYNC Start=1673407><P Class=ENCC>&nbsp;
+<SYNC Start=1673409><P Class=ENCC>
+<br>Look, between you<br>and your new best friend Roy,
+<SYNC Start=1675859><P Class=ENCC>&nbsp;
+<SYNC Start=1675861><P Class=ENCC>
+<br>I'm pretty sure you guys have<br>said everything.
+<SYNC Start=1677561><P Class=ENCC>&nbsp;
+<SYNC Start=1677563><P Class=ENCC>
+<br>I haven't.
+<SYNC Start=1679947><P Class=ENCC>&nbsp;
+<SYNC Start=1679949><P Class=ENCC>
+<br>Not yet, anyway.
+<SYNC Start=1682232><P Class=ENCC>&nbsp;
+<SYNC Start=1682234><P Class=ENCC>
+<br>[Sighs]
+<SYNC Start=1684701><P Class=ENCC>&nbsp;
+<SYNC Start=1686038><P Class=ENCC>
+<br>Roy showed me<br>the note you left him.
+<SYNC Start=1688705><P Class=ENCC>&nbsp;
+<SYNC Start=1688707><P Class=ENCC>
+<br>And you were right<br>about everything.
+<SYNC Start=1690791><P Class=ENCC>&nbsp;
+<SYNC Start=1690793><P Class=ENCC>
+<br>I have lied,<br>I have kept secrets.
+<SYNC Start=1693827><P Class=ENCC>&nbsp;
+<SYNC Start=1693829><P Class=ENCC>
+<br>The truth is that
+<SYNC Start=1696380><P Class=ENCC>&nbsp;
+<SYNC Start=1696382><P Class=ENCC>
+<br>if I tell you...
+<SYNC Start=1698498><P Class=ENCC>&nbsp;
+<SYNC Start=1698500><P Class=ENCC>
+<br>All the things that you don't<br>know about me,
+<SYNC Start=1701168><P Class=ENCC>&nbsp;
+<SYNC Start=1701170><P Class=ENCC>
+<br>that I might<br>lose you forever.
+<SYNC Start=1704504><P Class=ENCC>&nbsp;
+<SYNC Start=1704506><P Class=ENCC>
+<br>I spent five years<br>in the worst kind of hell,
+<SYNC Start=1707891><P Class=ENCC>&nbsp;
+<SYNC Start=1707893><P Class=ENCC>
+<br>and there were<br>things that happened,
+<SYNC Start=1710844><P Class=ENCC>&nbsp;
+<SYNC Start=1710846><P Class=ENCC>
+<br>there were things<br>that I did...
+<SYNC Start=1715766><P Class=ENCC>&nbsp;
+<SYNC Start=1715768><P Class=ENCC>
+<br>That if--
+<SYNC Start=1717484><P Class=ENCC>&nbsp;
+<SYNC Start=1717486><P Class=ENCC>
+<br>if you knew,
+<SYNC Start=1719686><P Class=ENCC>&nbsp;
+<SYNC Start=1719688><P Class=ENCC>
+<br>you would see me<br>differently.
+<SYNC Start=1721772><P Class=ENCC>&nbsp;
+<SYNC Start=1721774><P Class=ENCC>
+<br>No, I'll always<br>see you as my big brother.
+<SYNC Start=1725492><P Class=ENCC>&nbsp;
+<SYNC Start=1725494><P Class=ENCC>
+<br>I mean, no matter<br>what happened
+<SYNC Start=1727911><P Class=ENCC>&nbsp;
+<SYNC Start=1727913><P Class=ENCC>
+<br>to you on that island,<br>or who you became,
+<SYNC Start=1731999><P Class=ENCC>&nbsp;
+<SYNC Start=1732001><P Class=ENCC>
+<br>it's the secrets you kept<br>about my own life.
+<SYNC Start=1736670><P Class=ENCC>&nbsp;
+<SYNC Start=1738624><P Class=ENCC>
+<br>I mean, you lied to me
+<SYNC Start=1741792><P Class=ENCC>&nbsp;
+<SYNC Start=1741794><P Class=ENCC>
+<br>about who my father was.
+<SYNC Start=1744795><P Class=ENCC>&nbsp;
+<SYNC Start=1748434><P Class=ENCC>
+<br>Malcolm may have<br>been your blood.
+<SYNC Start=1752352><P Class=ENCC>&nbsp;
+<SYNC Start=1752354><P Class=ENCC>
+<br>Robert was<br>your father.
+<SYNC Start=1755055><P Class=ENCC>&nbsp;
+<SYNC Start=1759028><P Class=ENCC>
+<br>I lied to you<br>about him, too.
+<SYNC Start=1761812><P Class=ENCC>&nbsp;
+<SYNC Start=1761814><P Class=ENCC>
+<br>Dad wasn't the man<br>we thought he was.
+<SYNC Start=1765065><P Class=ENCC>&nbsp;
+<SYNC Start=1765067><P Class=ENCC>
+<br>He was better.
+<SYNC Start=1767951><P Class=ENCC>&nbsp;
+<SYNC Start=1767953><P Class=ENCC>
+<br>And I've kept something from you<br>because I just...
+<SYNC Start=1771788><P Class=ENCC>&nbsp;
+<SYNC Start=1774043><P Class=ENCC>
+<br>Never wanted you<br>to know.
+<SYNC Start=1777044><P Class=ENCC>&nbsp;
+<SYNC Start=1779131><P Class=ENCC>
+<br>Dad made it off<br>"The Gambit" with me.
+<SYNC Start=1782382><P Class=ENCC>&nbsp;
+<SYNC Start=1782384><P Class=ENCC>
+<br>You told me he drowned.
+<SYNC Start=1785585><P Class=ENCC>&nbsp;
+<SYNC Start=1785587><P Class=ENCC>
+<br>We made it to<br>a life boat together.
+<SYNC Start=1789172><P Class=ENCC>&nbsp;
+<SYNC Start=1789174><P Class=ENCC>
+<br>There wasn't enough<br>food and water for both of us...
+<SYNC Start=1792426><P Class=ENCC>&nbsp;
+<SYNC Start=1794263><P Class=ENCC>
+<br>So he killed<br>himself.
+<SYNC Start=1796730><P Class=ENCC>&nbsp;
+<SYNC Start=1799652><P Class=ENCC>
+<br>And that is one secret<br>that I'm telling you now
+<SYNC Start=1803437><P Class=ENCC>&nbsp;
+<SYNC Start=1803439><P Class=ENCC>
+<br>because I need you<br>to realize...
+<SYNC Start=1806740><P Class=ENCC>&nbsp;
+<SYNC Start=1806742><P Class=ENCC>
+<br>mom and dad,
+<SYNC Start=1810077><P Class=ENCC>&nbsp;
+<SYNC Start=1810079><P Class=ENCC>
+<br>they sacrificed<br>themselves
+<SYNC Start=1812913><P Class=ENCC>&nbsp;
+<SYNC Start=1812915><P Class=ENCC>
+<br>so that<br>we could live.
+<SYNC Start=1815449><P Class=ENCC>&nbsp;
+<SYNC Start=1815451><P Class=ENCC>
+<br>But if we're not<br>together, then...
+<SYNC Start=1819202><P Class=ENCC>&nbsp;
+<SYNC Start=1819204><P Class=ENCC>
+<br>we're not even<br>really alive.
+<SYNC Start=1821688><P Class=ENCC>&nbsp;
+<SYNC Start=1821690><P Class=ENCC>
+<br>You're my family.
+<SYNC Start=1824374><P Class=ENCC>&nbsp;
+<SYNC Start=1824376><P Class=ENCC>
+<br>And even if you<br>don't need me...
+<SYNC Start=1827044><P Class=ENCC>&nbsp;
+<SYNC Start=1828931><P Class=ENCC>
+<br>I need you.
+<SYNC Start=1830964><P Class=ENCC>&nbsp;
+<SYNC Start=1832518><P Class=ENCC>
+<br>Please just consider<br>what I'm saying.
+<SYNC Start=1836770><P Class=ENCC>&nbsp;
+<SYNC Start=1849385><P Class=ENCC>
+<br>John: He's here.
+<SYNC Start=1851618><P Class=ENCC>&nbsp;
+<SYNC Start=1851620><P Class=ENCC>
+<br>So's his buyer.
+<SYNC Start=1853286><P Class=ENCC>&nbsp;
+<SYNC Start=1863031><P Class=ENCC>
+<br>I was expecting<br>Armitage.
+<SYNC Start=1864831><P Class=ENCC>&nbsp;
+<SYNC Start=1864833><P Class=ENCC>
+<br>This country's soil<br>is not worthy of Mr. Armitage.
+<SYNC Start=1868051><P Class=ENCC>&nbsp;
+<SYNC Start=1868053><P Class=ENCC>
+<br>Do you have the item?
+<SYNC Start=1869886><P Class=ENCC>&nbsp;
+<SYNC Start=1871090><P Class=ENCC>
+<br>Where's the money?
+<SYNC Start=1873206><P Class=ENCC>&nbsp;
+<SYNC Start=1878230><P Class=ENCC>
+<br>And the transcoder?
+<SYNC Start=1879679><P Class=ENCC>&nbsp;
+<SYNC Start=1890526><P Class=ENCC>
+<br>We better go.
+<SYNC Start=1893460><P Class=ENCC>&nbsp;
+<SYNC Start=1901370><P Class=ENCC>
+<br>Where'd you get this?
+<SYNC Start=1903837><P Class=ENCC>&nbsp;
+<SYNC Start=1906291><P Class=ENCC>
+<br>Our hotel room.
+<SYNC Start=1908341><P Class=ENCC>&nbsp;
+<SYNC Start=1914183><P Class=ENCC>
+<br>Who are they?
+<SYNC Start=1916216><P Class=ENCC>&nbsp;
+<SYNC Start=1916218><P Class=ENCC>
+<br>Could be A.R.G.U.S.
+<SYNC Start=1918251><P Class=ENCC>&nbsp;
+<SYNC Start=1920389><P Class=ENCC>
+<br>That's not A.R.G.U.S.
+<SYNC Start=1922189><P Class=ENCC>&nbsp;
+<SYNC Start=1929195><P Class=ENCC>
+<br>Suelten sus armas!<br>Let's go.
+<SYNC Start=1931533><P Class=ENCC>&nbsp;
+<SYNC Start=1936327><P Class=ENCC>
+<br>Go!
+<SYNC Start=1937644><P Class=ENCC>&nbsp;
+<SYNC Start=1946788><P Class=ENCC>
+<br>A.R.G.U.S., they<br>know we're here.
+<SYNC Start=1948921><P Class=ENCC>&nbsp;
+<SYNC Start=1948923><P Class=ENCC>
+<br>Which is why I got a bunch<br>of renta-soldiers to secure the perimeter.
+<SYNC Start=1951040><P Class=ENCC>&nbsp;
+<SYNC Start=1951042><P Class=ENCC>
+<br>It's amazing how cheap<br>you can buy an army
+<SYNC Start=1952758><P Class=ENCC>&nbsp;
+<SYNC Start=1952760><P Class=ENCC>
+<br>for in this country.
+<SYNC Start=1954410><P Class=ENCC>&nbsp;
+<SYNC Start=1962520><P Class=ENCC>
+<br>Diggle!<br>Behind you!
+<SYNC Start=1964937><P Class=ENCC>&nbsp;
+<SYNC Start=1972196><P Class=ENCC>
+<br>I never said I didn't know<br>how to use a gun.
+<SYNC Start=1974814><P Class=ENCC>&nbsp;
+<SYNC Start=1996721><P Class=ENCC>
+<br>[All grunting]
+<SYNC Start=1999054><P Class=ENCC>&nbsp;
+<SYNC Start=2010501><P Class=ENCC>
+<br>[Both grunting]
+<SYNC Start=2013068><P Class=ENCC>&nbsp;
+<SYNC Start=2036711><P Class=ENCC>
+<br>Lyla was your friend!
+<SYNC Start=2038177><P Class=ENCC>&nbsp;
+<SYNC Start=2038179><P Class=ENCC>
+<br>And you endangered<br>her and her daughter
+<SYNC Start=2040462><P Class=ENCC>&nbsp;
+<SYNC Start=2040464><P Class=ENCC>
+<br>for what, for a lousy payday!
+<SYNC Start=2042631><P Class=ENCC>&nbsp;
+<SYNC Start=2042633><P Class=ENCC>
+<br>Not a payday.<br>It's my ticket out.
+<SYNC Start=2044850><P Class=ENCC>&nbsp;
+<SYNC Start=2044852><P Class=ENCC>
+<br>Of what?<br>A.R.G.U.S.!
+<SYNC Start=2047469><P Class=ENCC>&nbsp;
+<SYNC Start=2047471><P Class=ENCC>
+<br>You don't know the things Waller's<br>made me do.
+<SYNC Start=2050272><P Class=ENCC>&nbsp;
+<SYNC Start=2050274><P Class=ENCC>
+<br>The person<br>she turns you into.
+<SYNC Start=2053108><P Class=ENCC>&nbsp;
+<SYNC Start=2053110><P Class=ENCC>
+<br>That still gives you no right
+<SYNC Start=2054810><P Class=ENCC>&nbsp;
+<SYNC Start=2054812><P Class=ENCC>
+<br>to put a bulls-eye<br>on my family's back!
+<SYNC Start=2057363><P Class=ENCC>&nbsp;
+<SYNC Start=2057365><P Class=ENCC>
+<br>I had no choice.
+<SYNC Start=2059198><P Class=ENCC>&nbsp;
+<SYNC Start=2059200><P Class=ENCC>
+<br>But you do, John.
+<SYNC Start=2061483><P Class=ENCC>&nbsp;
+<SYNC Start=2061485><P Class=ENCC>
+<br>Tell Waller I died.
+<SYNC Start=2063886><P Class=ENCC>&nbsp;
+<SYNC Start=2063888><P Class=ENCC>
+<br>Tell her you put<br>a bullet in me.
+<SYNC Start=2065955><P Class=ENCC>&nbsp;
+<SYNC Start=2069377><P Class=ENCC>
+<br>If only.
+<SYNC Start=2072261><P Class=ENCC>&nbsp;
+<SYNC Start=2072263><P Class=ENCC>
+<br>Thea: I've been thinking.
+<SYNC Start=2074029><P Class=ENCC>&nbsp;
+<SYNC Start=2074031><P Class=ENCC>
+<br>I want to go home.<br>To my brother.
+<SYNC Start=2077883><P Class=ENCC>&nbsp;
+<SYNC Start=2077885><P Class=ENCC>
+<br>And all his lies<br>and secrets?
+<SYNC Start=2079752><P Class=ENCC>&nbsp;
+<SYNC Start=2079754><P Class=ENCC>
+<br>Maybe you haven't come<br>as far as I thought.
+<SYNC Start=2082004><P Class=ENCC>&nbsp;
+<SYNC Start=2082006><P Class=ENCC>
+<br>Let me prove it to you.
+<SYNC Start=2084039><P Class=ENCC>&nbsp;
+<SYNC Start=2087745><P Class=ENCC>
+<br>[Both grunting]
+<SYNC Start=2090262><P Class=ENCC>&nbsp;
+<SYNC Start=2107365><P Class=ENCC>
+<br>Impressive.
+<SYNC Start=2108914><P Class=ENCC>&nbsp;
+<SYNC Start=2108916><P Class=ENCC>
+<br>[Both grunting]
+<SYNC Start=2111033><P Class=ENCC>&nbsp;
+<SYNC Start=2111919><P Class=ENCC>
+<br>I had a good teacher.
+<SYNC Start=2114286><P Class=ENCC>&nbsp;
+<SYNC Start=2118793><P Class=ENCC>
+<br>[Laughs]
+<SYNC Start=2121927><P Class=ENCC>&nbsp;
+<SYNC Start=2121929><P Class=ENCC>
+<br>Looks like<br>you're going home.
+<SYNC Start=2124096><P Class=ENCC>&nbsp;
+<SYNC Start=2124098><P Class=ENCC>
+<br>[Both breathing heavily]
+<SYNC Start=2126465><P Class=ENCC>&nbsp;
+<SYNC Start=2133774><P Class=ENCC>
+<br>You let me win,<br>didn't you?
+<SYNC Start=2136392><P Class=ENCC>&nbsp;
+<SYNC Start=2136394><P Class=ENCC>
+<br>I'll be seeing you soon.
+<SYNC Start=2138944><P Class=ENCC>&nbsp;
+<SYNC Start=2138946><P Class=ENCC>
+<br>Safe flight.
+<SYNC Start=2140980><P Class=ENCC>&nbsp;
+<SYNC Start=2151574><P Class=ENCC>
+<br>Thank you.<br>Yeah.
+<SYNC Start=2153992><P Class=ENCC>&nbsp;
+<SYNC Start=2157464><P Class=ENCC>
+<br>You ok?
+<SYNC Start=2159797><P Class=ENCC>&nbsp;
+<SYNC Start=2161751><P Class=ENCC>
+<br>She's not coming.
+<SYNC Start=2164719><P Class=ENCC>&nbsp;
+<SYNC Start=2167340><P Class=ENCC>
+<br>I'm sorry, Oliver.<br>You did everything you could, man.
+<SYNC Start=2170725><P Class=ENCC>&nbsp;
+<SYNC Start=2173229><P Class=ENCC>
+<br>Oliver...
+<SYNC Start=2175163><P Class=ENCC>&nbsp;
+<SYNC Start=2183940><P Class=ENCC>
+<br>I'm glad you changed<br>your mind.
+<SYNC Start=2186107><P Class=ENCC>&nbsp;
+<SYNC Start=2186109><P Class=ENCC>
+<br>Still not sure about flying<br>commercial, though.
+<SYNC Start=2189577><P Class=ENCC>&nbsp;
+<SYNC Start=2191181><P Class=ENCC>
+<br>Oh!
+<SYNC Start=2192580><P Class=ENCC>&nbsp;
+<SYNC Start=2196036><P Class=ENCC>
+<br>Thea,<br>are you ok?
+<SYNC Start=2198703><P Class=ENCC>&nbsp;
+<SYNC Start=2198705><P Class=ENCC>
+<br>Yeah. I'm fine.
+<SYNC Start=2201589><P Class=ENCC>&nbsp;
+<SYNC Start=2211370><P Class=ENCC>
+<br>Laurel?
+<SYNC Start=2213620><P Class=ENCC>&nbsp;
+<SYNC Start=2215592><P Class=ENCC>
+<br>I didn't know the Arrow<br>took vacations.
+<SYNC Start=2217742><P Class=ENCC>&nbsp;
+<SYNC Start=2217744><P Class=ENCC>
+<br>Hey! What happened?
+<SYNC Start=2219760><P Class=ENCC>&nbsp;
+<SYNC Start=2219762><P Class=ENCC>
+<br>I'm fine. Please.
+<SYNC Start=2221229><P Class=ENCC>&nbsp;
+<SYNC Start=2221231><P Class=ENCC>
+<br>What happened?
+<SYNC Start=2223848><P Class=ENCC>&nbsp;
+<SYNC Start=2224984><P Class=ENCC>
+<br>I tried to do good.
+<SYNC Start=2226734><P Class=ENCC>&nbsp;
+<SYNC Start=2226736><P Class=ENCC>
+<br>It didn't work out.
+<SYNC Start=2228686><P Class=ENCC>&nbsp;
+<SYNC Start=2228688><P Class=ENCC>
+<br>Oh, Laurel.
+<SYNC Start=2230071><P Class=ENCC>&nbsp;
+<SYNC Start=2230073><P Class=ENCC>
+<br>I know that<br>it probably sounds insane.
+<SYNC Start=2233908><P Class=ENCC>&nbsp;
+<SYNC Start=2233910><P Class=ENCC>
+<br>It probably is, but...
+<SYNC Start=2237078><P Class=ENCC>&nbsp;
+<SYNC Start=2238665><P Class=ENCC>
+<br>Sara.
+<SYNC Start=2240448><P Class=ENCC>&nbsp;
+<SYNC Start=2240450><P Class=ENCC>
+<br>She gave me this.
+<SYNC Start=2243000><P Class=ENCC>&nbsp;
+<SYNC Start=2243002><P Class=ENCC>
+<br>And when I wear it,<br>it makes me want
+<SYNC Start=2244285><P Class=ENCC>&nbsp;
+<SYNC Start=2244287><P Class=ENCC>
+<br>to help people<br>like she did.
+<SYNC Start=2247171><P Class=ENCC>&nbsp;
+<SYNC Start=2247173><P Class=ENCC>
+<br>Like she's alive again.
+<SYNC Start=2249207><P Class=ENCC>&nbsp;
+<SYNC Start=2249209><P Class=ENCC>
+<br>I get it.
+<SYNC Start=2251209><P Class=ENCC>&nbsp;
+<SYNC Start=2253012><P Class=ENCC>
+<br>Sara had training.
+<SYNC Start=2255630><P Class=ENCC>&nbsp;
+<SYNC Start=2255632><P Class=ENCC>
+<br>She had years--
+<SYNC Start=2257265><P Class=ENCC>&nbsp;
+<SYNC Start=2257267><P Class=ENCC>
+<br>Oliver, I know.
+<SYNC Start=2260434><P Class=ENCC>&nbsp;
+<SYNC Start=2260436><P Class=ENCC>
+<br>Which is why<br>I need to start,
+<SYNC Start=2263221><P Class=ENCC>&nbsp;
+<SYNC Start=2263223><P Class=ENCC>
+<br>and I need<br>your help.
+<SYNC Start=2265473><P Class=ENCC>&nbsp;
+<SYNC Start=2265475><P Class=ENCC>
+<br>[Sighs]
+<SYNC Start=2267441><P Class=ENCC>&nbsp;
+<SYNC Start=2269896><P Class=ENCC>
+<br>No.
+<SYNC Start=2272063><P Class=ENCC>&nbsp;
+<SYNC Start=2272065><P Class=ENCC>
+<br>Oliver!
+<SYNC Start=2274649><P Class=ENCC>&nbsp;
+<SYNC Start=2274651><P Class=ENCC>
+<br>No!
+<SYNC Start=2275950><P Class=ENCC>&nbsp;
+<SYNC Start=2275952><P Class=ENCC>
+<br>No.
+<SYNC Start=2278286><P Class=ENCC>&nbsp;
+<SYNC Start=2278288><P Class=ENCC>
+<br>I...
+<SYNC Start=2280621><P Class=ENCC>&nbsp;
+<SYNC Start=2282659><P Class=ENCC>
+<br>I want you<br>to consider
+<SYNC Start=2285876><P Class=ENCC>&nbsp;
+<SYNC Start=2285878><P Class=ENCC>
+<br>what would happen<br>to your father
+<SYNC Start=2289213><P Class=ENCC>&nbsp;
+<SYNC Start=2289215><P Class=ENCC>
+<br>if something<br>happened to you.
+<SYNC Start=2291832><P Class=ENCC>&nbsp;
+<SYNC Start=2291834><P Class=ENCC>
+<br>Oliver, ever sense<br>it happened,
+<SYNC Start=2294719><P Class=ENCC>&nbsp;
+<SYNC Start=2294721><P Class=ENCC>
+<br>I have had this fire<br>inside of me
+<SYNC Start=2296721><P Class=ENCC>&nbsp;
+<SYNC Start=2296723><P Class=ENCC>
+<br>that I can't get rid of<br>with booze or pills.
+<SYNC Start=2300091><P Class=ENCC>&nbsp;
+<SYNC Start=2300093><P Class=ENCC>
+<br>I need another way!
+<SYNC Start=2301726><P Class=ENCC>&nbsp;
+<SYNC Start=2301728><P Class=ENCC>
+<br>And the other night,<br>even though it went wrong
+<SYNC Start=2304979><P Class=ENCC>&nbsp;
+<SYNC Start=2304981><P Class=ENCC>
+<br>it was the first time<br>since Sara died
+<SYNC Start=2306681><P Class=ENCC>&nbsp;
+<SYNC Start=2306683><P Class=ENCC>
+<br>where I haven't felt that fire.
+<SYNC Start=2308532><P Class=ENCC>&nbsp;
+<SYNC Start=2308534><P Class=ENCC>
+<br>I'm sorry,<br>but I can't.
+<SYNC Start=2311168><P Class=ENCC>&nbsp;
+<SYNC Start=2312989><P Class=ENCC>
+<br>And even if I could,
+<SYNC Start=2315523><P Class=ENCC>&nbsp;
+<SYNC Start=2315525><P Class=ENCC>
+<br>Sara would never<br>forgive me.
+<SYNC Start=2318659><P Class=ENCC>&nbsp;
+<SYNC Start=2335962><P Class=ENCC>
+<br>Yeah.
+<SYNC Start=2338929><P Class=ENCC>&nbsp;
+<SYNC Start=2343219><P Class=ENCC>
+<br>Hey.
+<SYNC Start=2345303><P Class=ENCC>&nbsp;
+<SYNC Start=2345305><P Class=ENCC>
+<br>Love you.<br>I love you both.
+<SYNC Start=2347555><P Class=ENCC>&nbsp;
+<SYNC Start=2347557><P Class=ENCC>
+<br>The two of you<br>were all I could think about.
+<SYNC Start=2349807><P Class=ENCC>&nbsp;
+<SYNC Start=2352612><P Class=ENCC>
+<br>I'm just trying<br>to put her down.
+<SYNC Start=2355980><P Class=ENCC>&nbsp;
+<SYNC Start=2355982><P Class=ENCC>
+<br>That's ok, I just<br>want to look at her for a while.
+<SYNC Start=2359317><P Class=ENCC>&nbsp;
+<SYNC Start=2359319><P Class=ENCC>
+<br>Ok.
+<SYNC Start=2361485><P Class=ENCC>&nbsp;
+<SYNC Start=2361487><P Class=ENCC>
+<br>I have to head<br>into the office.
+<SYNC Start=2363954><P Class=ENCC>&nbsp;
+<SYNC Start=2363956><P Class=ENCC>
+<br>So late?
+<SYNC Start=2365573><P Class=ENCC>&nbsp;
+<SYNC Start=2365575><P Class=ENCC>
+<br>I do whatever Amanda Waller<br>asks, remember?
+<SYNC Start=2368459><P Class=ENCC>&nbsp;
+<SYNC Start=2372799><P Class=ENCC>
+<br>You ok?
+<SYNC Start=2375716><P Class=ENCC>&nbsp;
+<SYNC Start=2377387><P Class=ENCC>
+<br>Yeah.<br>Just hurry back.
+<SYNC Start=2380137><P Class=ENCC>&nbsp;
+<SYNC Start=2381724><P Class=ENCC>
+<br>What's with this guy?
+<SYNC Start=2384058><P Class=ENCC>&nbsp;
+<SYNC Start=2384060><P Class=ENCC>
+<br>Outstanding warrants<br>for assault and battery in Coast City.
+<SYNC Start=2387228><P Class=ENCC>&nbsp;
+<SYNC Start=2387230><P Class=ENCC>
+<br>Got an anonymous tip<br>he was in Starling.
+<SYNC Start=2390181><P Class=ENCC>&nbsp;
+<SYNC Start=2390183><P Class=ENCC>
+<br>Anonymous tip, huh?
+<SYNC Start=2392817><P Class=ENCC>&nbsp;
+<SYNC Start=2392819><P Class=ENCC>
+<br>That's a bad break,<br>buddy.
+<SYNC Start=2396153><P Class=ENCC>&nbsp;
+<SYNC Start=2413005><P Class=ENCC>
+<br>All right.<br>When can I start?
+<SYNC Start=2415539><P Class=ENCC>&nbsp;
+<SYNC Start=2420430><P Class=ENCC>
+<br>Do you know how many<br>of QC's techs
+<SYNC Start=2422713><P Class=ENCC>&nbsp;
+<SYNC Start=2422715><P Class=ENCC>
+<br>said this data<br>was unrecoverable?
+<SYNC Start=2425633><P Class=ENCC>&nbsp;
+<SYNC Start=2425635><P Class=ENCC>
+<br>Only all of them.
+<SYNC Start=2427551><P Class=ENCC>&nbsp;
+<SYNC Start=2427553><P Class=ENCC>
+<br>Seems like this would be a good time<br>to ask for a few days off, then.
+<SYNC Start=2432623><P Class=ENCC>&nbsp;
+<SYNC Start=2432625><P Class=ENCC>
+<br>[Scoffs] You<br>just started.
+<SYNC Start=2434024><P Class=ENCC>&nbsp;
+<SYNC Start=2434026><P Class=ENCC>
+<br>I know. But...my friend<br>was struck by lightning
+<SYNC Start=2437061><P Class=ENCC>&nbsp;
+<SYNC Start=2437063><P Class=ENCC>
+<br>and is in a coma.
+<SYNC Start=2438979><P Class=ENCC>&nbsp;
+<SYNC Start=2438981><P Class=ENCC>
+<br>Well, was.
+<SYNC Start=2441282><P Class=ENCC>&nbsp;
+<SYNC Start=2441284><P Class=ENCC>
+<br>I don't know. Um, it's--
+<SYNC Start=2443951><P Class=ENCC>&nbsp;
+<SYNC Start=2443953><P Class=ENCC>
+<br>A long story.
+<SYNC Start=2445403><P Class=ENCC>&nbsp;
+<SYNC Start=2446522><P Class=ENCC>
+<br>See ya.
+<SYNC Start=2448622><P Class=ENCC>&nbsp;
+<SYNC Start=2448624><P Class=ENCC>
+<br>Thanks.
+<SYNC Start=2450791><P Class=ENCC>&nbsp;
+<SYNC Start=2477019><P Class=ENCC>
+<br>You did good<br>over there.
+<SYNC Start=2479487><P Class=ENCC>&nbsp;
+<SYNC Start=2479489><P Class=ENCC>
+<br>I had a good teacher.
+<SYNC Start=2482189><P Class=ENCC>&nbsp;
+<SYNC Start=2482191><P Class=ENCC>
+<br>A judgmental, occasionally<br>temperamental one, but...
+<SYNC Start=2485493><P Class=ENCC>&nbsp;
+<SYNC Start=2485495><P Class=ENCC>
+<br>Those are<br>the best kind.
+<SYNC Start=2488579><P Class=ENCC>&nbsp;
+<SYNC Start=2488581><P Class=ENCC>
+<br>[Chuckles]
+<SYNC Start=2490981><P Class=ENCC>&nbsp;
+<SYNC Start=2490983><P Class=ENCC>
+<br>Did Thea seem...<br>different to you?
+<SYNC Start=2494752><P Class=ENCC>&nbsp;
+<SYNC Start=2494754><P Class=ENCC>
+<br>Her hair's a lot shorter.
+<SYNC Start=2496420><P Class=ENCC>&nbsp;
+<SYNC Start=2496422><P Class=ENCC>
+<br>But that's not what you mean.
+<SYNC Start=2499273><P Class=ENCC>&nbsp;
+<SYNC Start=2499275><P Class=ENCC>
+<br>What do you mean?
+<SYNC Start=2500708><P Class=ENCC>&nbsp;
+<SYNC Start=2500710><P Class=ENCC>
+<br>I don't know.
+<SYNC Start=2502426><P Class=ENCC>&nbsp;
+<SYNC Start=2502428><P Class=ENCC>
+<br>She say anything?
+<SYNC Start=2504628><P Class=ENCC>&nbsp;
+<SYNC Start=2504630><P Class=ENCC>
+<br>She may be...
+<SYNC Start=2505880><P Class=ENCC>&nbsp;
+<SYNC Start=2505882><P Class=ENCC>
+<br>seeing somebody in<br>Corto Maltese, or...
+<SYNC Start=2508682><P Class=ENCC>&nbsp;
+<SYNC Start=2508684><P Class=ENCC>
+<br>If Thea was with anybody else,<br>I've got a feeling
+<SYNC Start=2511435><P Class=ENCC>&nbsp;
+<SYNC Start=2511437><P Class=ENCC>
+<br>I'd be the last one to know.
+<SYNC Start=2512803><P Class=ENCC>&nbsp;
+<SYNC Start=2512805><P Class=ENCC>
+<br>[Footsteps]
+<SYNC Start=2514939><P Class=ENCC>&nbsp;
+<SYNC Start=2514941><P Class=ENCC>
+<br>Where is she?
+<SYNC Start=2517775><P Class=ENCC>&nbsp;
+<SYNC Start=2517777><P Class=ENCC>
+<br>Where is Sara?
+<SYNC Start=2519360><P Class=ENCC>&nbsp;
+<SYNC Start=2521652><P Class=ENCC>
+<br>== sync, corrected by <font color=#00FF00>elderman</font> ==<br><font color=#00FFFF>@elder_man</font>
+<SYNC Start=2528152><P Class=ENCC>&nbsp;
+
+</BODY></SAMI>

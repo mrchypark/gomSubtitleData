@@ -1,0 +1,669 @@
+<SAMI>
+
+<HEAD>
+<TITLE>The Looney Tunes Show 01x09 - The Foghorn Leghorn Story</TITLE>
+
+<SAMIParam>
+  Metrics {time:ms;}
+  Spec {MSFT:1.0;}
+</SAMIParam>
+
+<STYLE TYPE="text/css">
+<!--
+  P { font-family: Arial; font-weight: normal; color: white; background-color: black; text-align: center; }
+  .ENUSCC { name: English; lang: en-US ; SAMIType: CC ; }
+-->
+</STYLE>
+
+</HEAD>
+
+<BODY>
+
+<-- Open play menu, choose Captions and Subtiles, On if available -->
+<-- Open tools menu, Security, Show local captions when present -->
+
+<SYNC Start=5655><P Class=ENUSCC>넌 대체 언제쯤 수영 배울거야?
+<SYNC Start=7339><P Class=ENUSCC>&nbsp;
+<SYNC Start=7505><P Class=ENUSCC>수영은 보트 못 사는<br>찌질이들이나 배우는거야
+<SYNC Start=10434><P Class=ENUSCC>&nbsp;
+<SYNC Start=17144><P Class=ENUSCC>저리 가
+<SYNC Start=19194><P Class=ENUSCC>&nbsp;
+<SYNC Start=22768><P Class=ENUSCC>너랑 놀고 싶지 않아
+<SYNC Start=24525><P Class=ENUSCC>&nbsp;
+<SYNC Start=29745><P Class=ENUSCC>너랑 놀고 싶지 않다고 말했잖아!
+<SYNC Start=32349><P Class=ENUSCC>&nbsp;
+<SYNC Start=34314><P Class=ENUSCC>개 목걸이 좀 걸어놔
+<SYNC Start=35640><P Class=ENUSCC>&nbsp;
+<SYNC Start=55520.2708><P Class=ENUSCC><font color="#ffff00">자막:태즈</font>
+<SYNC Start=57561.5><P Class=ENUSCC>&nbsp;
+<SYNC Start=66382><P Class=ENUSCC>뭐야?
+<SYNC Start=67119><P Class=ENUSCC>&nbsp;
+<SYNC Start=69318><P Class=ENUSCC>야,그만해!
+<SYNC Start=71371><P Class=ENUSCC>&nbsp;
+<SYNC Start=72388><P Class=ENUSCC>그만해!
+<SYNC Start=72869><P Class=ENUSCC>&nbsp;
+<SYNC Start=73296><P Class=ENUSCC>벅스,이 테즈매니안 데빌 좀 어떻게 해봐!
+<SYNC Start=75357><P Class=ENUSCC>&nbsp;
+<SYNC Start=75550><P Class=ENUSCC>또 땅 파고 있어!
+<SYNC Start=76957><P Class=ENUSCC>&nbsp;
+<SYNC Start=77524><P Class=ENUSCC>경고하는데,<br>다시 한 번 더 나한테 흙 튀기면
+<SYNC Start=80976><P Class=ENUSCC>&nbsp;
+<SYNC Start=81193><P Class=ENUSCC>넌 대가를 치르게 될 거야
+<SYNC Start=83807><P Class=ENUSCC>&nbsp;
+<SYNC Start=86175><P Class=ENUSCC>다음 번에야말로 대가를 치르게 해주지
+<SYNC Start=89411><P Class=ENUSCC>&nbsp;
+<SYNC Start=89479><P Class=ENUSCC>어쩌면
+<SYNC Start=90397><P Class=ENUSCC>&nbsp;
+<SYNC Start=90480><P Class=ENUSCC>아닐 수도 있고
+<SYNC Start=91250><P Class=ENUSCC>&nbsp;
+<SYNC Start=99656><P Class=ENUSCC>이거 무슨 줄이에요?
+<SYNC Start=101339><P Class=ENUSCC>&nbsp;
+<SYNC Start=101591><P Class=ENUSCC>영화요
+<SYNC Start=102498><P Class=ENUSCC>&nbsp;
+<SYNC Start=103337><P Class=ENUSCC>영화요?
+<SYNC Start=104259><P Class=ENUSCC>&nbsp;
+<SYNC Start=104294><P Class=ENUSCC>좋은 영화라서<br>줄을 섰나 보네
+<SYNC Start=106395><P Class=ENUSCC>&nbsp;
+<SYNC Start=109032><P Class=ENUSCC>다음 분
+<SYNC Start=109766><P Class=ENUSCC>&nbsp;
+<SYNC Start=110033><P Class=ENUSCC>1인용 티켓이랑 팝콘 라지 사이즈요
+<SYNC Start=112035><P Class=ENUSCC>&nbsp;
+<SYNC Start=112379><P Class=ENUSCC>참고로 저 65세 이상이에요
+<SYNC Start=113873><P Class=ENUSCC>&nbsp;
+<SYNC Start=114504><P Class=ENUSCC>그리고 학생이에요
+<SYNC Start=115746><P Class=ENUSCC>&nbsp;
+<SYNC Start=115872><P Class=ENUSCC>그리고 군 복무도 하고 있어요
+<SYNC Start=116842><P Class=ENUSCC>&nbsp;
+<SYNC Start=117240><P Class=ENUSCC>그러니까 알아서 다 할인해주세요
+<SYNC Start=118983><P Class=ENUSCC>&nbsp;
+<SYNC Start=119149><P Class=ENUSCC>뭐라고요?
+<SYNC Start=119967><P Class=ENUSCC>&nbsp;
+<SYNC Start=120150><P Class=ENUSCC>그래서 이건 무슨 영화에요?
+<SYNC Start=121461><P Class=ENUSCC>&nbsp;
+<SYNC Start=121818><P Class=ENUSCC>제목은 '포그혼 레그혼 스토리'에요
+<SYNC Start=123390><P Class=ENUSCC>&nbsp;
+<SYNC Start=123680><P Class=ENUSCC>가난하게 살던 한 수탉이
+<SYNC Start=125681><P Class=ENUSCC>&nbsp;
+<SYNC Start=125748><P Class=ENUSCC>세상에서 가장 성공한<br>사업가가 되는 이야기에요
+<SYNC Start=128659><P Class=ENUSCC>&nbsp;
+<SYNC Start=128885><P Class=ENUSCC>그건 별로 재미없겠다
+<SYNC Start=130085><P Class=ENUSCC>&nbsp;
+<SYNC Start=130153><P Class=ENUSCC>다른 영화 뭐 있어요?
+<SYNC Start=131037><P Class=ENUSCC>&nbsp;
+<SYNC Start=131203><P Class=ENUSCC>여긴 영화관이 아니에요
+<SYNC Start=132855><P Class=ENUSCC>여기서는 영화를 만들고 있어요
+<SYNC Start=134237><P Class=ENUSCC>&nbsp;
+<SYNC Start=134239><P Class=ENUSCC>지금 포그혼 레그혼 씨의<br>역할을 뽑기 위한 오디션을 하는 거에요
+<SYNC Start=137853><P Class=ENUSCC>&nbsp;
+<SYNC Start=138615><P Class=ENUSCC>이 녀석이요?
+<SYNC Start=139643><P Class=ENUSCC>&nbsp;
+<SYNC Start=139965><P Class=ENUSCC>이딴 놈에 대해서 영화를 만든다고요?
+<SYNC Start=141885><P Class=ENUSCC>&nbsp;
+<SYNC Start=143546><P Class=ENUSCC>내 말 잘 들어요,아가씨
+<SYNC Start=145480><P Class=ENUSCC>&nbsp;
+<SYNC Start=145548><P Class=ENUSCC>이런 놈이 나오는 영화 보려고<br>2시간이나 낭비하는 사람은 아무도 없어요
+<SYNC Start=148851><P Class=ENUSCC>&nbsp;
+<SYNC Start=148918><P Class=ENUSCC>이런 추한 닭벼슬에 턱에는<br>역겨운 주머니까지 달린 못생긴 새가 나오는데
+<SYNC Start=152480><P Class=ENUSCC>&nbsp;
+<SYNC Start=152646><P Class=ENUSCC>게다가 배도 나오고
+<SYNC Start=153773><P Class=ENUSCC>&nbsp;
+<SYNC Start=155258><P Class=ENUSCC>인석아,말은 조심해서 쓰는 게 좋아
+<SYNC Start=157684><P Class=ENUSCC>&nbsp;
+<SYNC Start=158194><P Class=ENUSCC>그렇지 않으면 내가 널<br>주역으로 캐스팅 해버리는 수가 있어
+<SYNC Start=161563><P Class=ENUSCC>&nbsp;
+<SYNC Start=162823><P Class=ENUSCC>레그혼 씨,이건<br>큰 착오가 생긴거에요
+<SYNC Start=166034><P Class=ENUSCC>&nbsp;
+<SYNC Start=166102><P Class=ENUSCC>큰 착오라고 하면 네 블라우스와<br>그 구두 매칭도 마찬가지야
+<SYNC Start=169500><P Class=ENUSCC>&nbsp;
+<SYNC Start=170840><P Class=ENUSCC>인석아,내 말이,인석아
+<SYNC Start=172441><P Class=ENUSCC>&nbsp;
+<SYNC Start=172508><P Class=ENUSCC>너 혹시 살면서 대담하다는<br>소리 들어본 적 있냐?
+<SYNC Start=175177><P Class=ENUSCC>&nbsp;
+<SYNC Start=175245><P Class=ENUSCC>뭐 어렴풋이 있는 것 같아요
+<SYNC Start=176511><P Class=ENUSCC>&nbsp;
+<SYNC Start=176579><P Class=ENUSCC>근데 전 스페인어 못해요
+<SYNC Start=177755><P Class=ENUSCC>&nbsp;
+<SYNC Start=177921><P Class=ENUSCC>포그혼 씨,잊으셨나요?
+<SYNC Start=179348><P Class=ENUSCC>&nbsp;
+<SYNC Start=179415><P Class=ENUSCC>이 사람은 포그혼 씨<br>회사를 망쳐놓은 멍청이라고요!
+<SYNC Start=181783><P Class=ENUSCC>&nbsp;
+<SYNC Start=181851><P Class=ENUSCC>나는 항상 좋았던 일만 기억하지
+<SYNC Start=184019><P Class=ENUSCC>&nbsp;
+<SYNC Start=184087><P Class=ENUSCC>그게 내 성공 비결이야
+<SYNC Start=186434><P Class=ENUSCC>&nbsp;
+<SYNC Start=188358><P Class=ENUSCC>너 마음에 든다,인석아
+<SYNC Start=189758><P Class=ENUSCC>&nbsp;
+<SYNC Start=189826><P Class=ENUSCC>너는 하고 싶은 말을 제대로 하잖아
+<SYNC Start=191026><P Class=ENUSCC>&nbsp;
+<SYNC Start=191094><P Class=ENUSCC>그게 바로 이 영화에서 필요한 거야
+<SYNC Start=192770><P Class=ENUSCC>&nbsp;
+<SYNC Start=193282><P Class=ENUSCC>난 할 일이 있어서<br>어차피 망할게 뻔한 영화 나올 시간은 없어요
+<SYNC Start=197289><P Class=ENUSCC>&nbsp;
+<SYNC Start=197691><P Class=ENUSCC>무슨 할 일?
+<SYNC Start=199434><P Class=ENUSCC>&nbsp;
+<SYNC Start=199502><P Class=ENUSCC>없어요
+<SYNC Start=200444><P Class=ENUSCC>&nbsp;
+<SYNC Start=202872><P Class=ENUSCC>다들 그냥 돌아가!
+<SYNC Start=204373><P Class=ENUSCC>&nbsp;
+<SYNC Start=204440><P Class=ENUSCC>주역은,내 말이,<br>주역은 이미 정해졌으니까!
+<SYNC Start=206842><P Class=ENUSCC>&nbsp;
+<SYNC Start=208535><P Class=ENUSCC>오리가 어떻게 수탉을 연기해요?
+<SYNC Start=209878><P Class=ENUSCC>&nbsp;
+<SYNC Start=209946><P Class=ENUSCC>이놈은,내 말이,이 놈은 너보다<br>훨씬 더 수탉다운 수탉을 연기할거야!
+<SYNC Start=213775><P Class=ENUSCC>&nbsp;
+<SYNC Start=215051><P Class=ENUSCC>그래도 오리가 수탉 역 맡는 건<br>좀 이상하지 않아요?
+<SYNC Start=218104><P Class=ENUSCC>&nbsp;
+<SYNC Start=218321><P Class=ENUSCC>그게 바로 연기라는 거야,인석아
+<SYNC Start=220389><P Class=ENUSCC>&nbsp;
+<SYNC Start=220456><P Class=ENUSCC>그리고 내가 배우가 아닌데도<br>연기하는 것도 이상하지 않아요?
+<SYNC Start=223023><P Class=ENUSCC>&nbsp;
+<SYNC Start=224527><P Class=ENUSCC>그거 웃기네!
+<SYNC Start=226295><P Class=ENUSCC>&nbsp;
+<SYNC Start=226362><P Class=ENUSCC>하여간 재미있는 놈이야
+<SYNC Start=227876><P Class=ENUSCC>&nbsp;
+<SYNC Start=233603><P Class=ENUSCC>착하기도 해라
+<SYNC Start=235635><P Class=ENUSCC>&nbsp;
+<SYNC Start=236771><P Class=ENUSCC>이렇게 얌전한데 대피는<br>왜 그렇게 시끄럽게 구는지 모르겠어
+<SYNC Start=238941><P Class=ENUSCC>&nbsp;
+<SYNC Start=239008><P Class=ENUSCC>땅을 파긴 무슨 땅을 파?
+<SYNC Start=240231><P Class=ENUSCC>&nbsp;
+<SYNC Start=258127><P Class=ENUSCC>이거 건조기 하나 사야겠네
+<SYNC Start=260696><P Class=ENUSCC>&nbsp;
+<SYNC Start=270073><P Class=ENUSCC>에..왠일이셔,이웃사람?
+<SYNC Start=272407><P Class=ENUSCC>&nbsp;
+<SYNC Start=274010><P Class=ENUSCC>왠일이냐고?<br>그 멍청한 개 때문이야!
+<SYNC Start=276937><P Class=ENUSCC>&nbsp;
+<SYNC Start=277103><P Class=ENUSCC>개가 아니야<br>테즈매니안 데빌이야
+<SYNC Start=280399><P Class=ENUSCC>&nbsp;
+<SYNC Start=280565><P Class=ENUSCC>무슨 종류인지 내가 알게 뭐야!
+<SYNC Start=283151><P Class=ENUSCC>&nbsp;
+<SYNC Start=283219><P Class=ENUSCC>그놈이 땅을 파니까<br>우리가 이렇게 된 거라고!
+<SYNC Start=285404><P Class=ENUSCC>&nbsp;
+<SYNC Start=285570><P Class=ENUSCC>그런데 지금 문제는
+<SYNC Start=287456><P Class=ENUSCC>&nbsp;
+<SYNC Start=287523><P Class=ENUSCC>어떻게 여기서 나갈것이냐야
+<SYNC Start=289191><P Class=ENUSCC>&nbsp;
+<SYNC Start=289258><P Class=ENUSCC>이리와!
+<SYNC Start=290159><P Class=ENUSCC>&nbsp;
+<SYNC Start=293411><P Class=ENUSCC>도와 줄 사람 불러!
+<SYNC Start=294455><P Class=ENUSCC>&nbsp;
+<SYNC Start=302905><P Class=ENUSCC>내가 말했지?<br>멍청한 개라고
+<SYNC Start=306016><P Class=ENUSCC>&nbsp;
+<SYNC Start=307010><P Class=ENUSCC>이걸로 어떻게 되겠네
+<SYNC Start=309011><P Class=ENUSCC>&nbsp;
+<SYNC Start=309078><P Class=ENUSCC>이게 뭐지?
+<SYNC Start=310645><P Class=ENUSCC>&nbsp;
+<SYNC Start=312315><P Class=ENUSCC>이거 참 흥미롭네
+<SYNC Start=313891><P Class=ENUSCC>&nbsp;
+<SYNC Start=314449><P Class=ENUSCC>내꺼야!
+<SYNC Start=315272><P Class=ENUSCC>&nbsp;
+<SYNC Start=320723><P Class=ENUSCC>그게 뭔지는 알아?
+<SYNC Start=322924><P Class=ENUSCC>&nbsp;
+<SYNC Start=326236><P Class=ENUSCC>아니야
+<SYNC Start=327629><P Class=ENUSCC>&nbsp;
+<SYNC Start=329948><P Class=ENUSCC>아니야
+<SYNC Start=330866><P Class=ENUSCC>&nbsp;
+<SYNC Start=334670><P Class=ENUSCC>아니야
+<SYNC Start=335837><P Class=ENUSCC>&nbsp;
+<SYNC Start=338207><P Class=ENUSCC>아니야
+<SYNC Start=339674><P Class=ENUSCC>&nbsp;
+<SYNC Start=341918><P Class=ENUSCC>아니야
+<SYNC Start=342944><P Class=ENUSCC>&nbsp;
+<SYNC Start=345415><P Class=ENUSCC>이건 화분이야
+<SYNC Start=346681><P Class=ENUSCC>&nbsp;
+<SYNC Start=346749><P Class=ENUSCC>내 화분이야!
+<SYNC Start=348247><P Class=ENUSCC>&nbsp;
+<SYNC Start=348425><P Class=ENUSCC>왜 그거에 그렇게 집착하는데?
+<SYNC Start=350302><P Class=ENUSCC>&nbsp;
+<SYNC Start=350520><P Class=ENUSCC>네가 이게 흥미롭다고 했잖아!
+<SYNC Start=352287><P Class=ENUSCC>&nbsp;
+<SYNC Start=352355><P Class=ENUSCC>그것만 알면 돼!
+<SYNC Start=354156><P Class=ENUSCC>&nbsp;
+<SYNC Start=354223><P Class=ENUSCC>난 이제 간다!
+<SYNC Start=355762><P Class=ENUSCC>&nbsp;
+<SYNC Start=358888><P Class=ENUSCC>좀 도와줄래?
+<SYNC Start=359796><P Class=ENUSCC>&nbsp;
+<SYNC Start=373433><P Class=ENUSCC>내가 '포그혼 레그혼 이야기'에서<br>포그혼 레그혼을 연기하려면
+<SYNC Start=376938><P Class=ENUSCC>&nbsp;
+<SYNC Start=377206><P Class=ENUSCC>일단 포그혼 레그혼에<br>대해서 잘 알아야 하죠
+<SYNC Start=379938><P Class=ENUSCC>&nbsp;
+<SYNC Start=379956><P Class=ENUSCC>일단 댁 이름부터<br>알아야죠,이름이?
+<SYNC Start=381708><P Class=ENUSCC>&nbsp;
+<SYNC Start=381861><P Class=ENUSCC>포그혼 레그혼
+<SYNC Start=383196><P Class=ENUSCC>&nbsp;
+<SYNC Start=383362><P Class=ENUSCC>포그..혼..레그..혼
+<SYNC Start=387393><P Class=ENUSCC>&nbsp;
+<SYNC Start=387628><P Class=ENUSCC>그럼 '포그혼'
+<SYNC Start=389862><P Class=ENUSCC>&nbsp;
+<SYNC Start=389930><P Class=ENUSCC>자기소개를 해주세요
+<SYNC Start=391204><P Class=ENUSCC>&nbsp;
+<SYNC Start=391370><P Class=ENUSCC>내가 태어난 때는,내 말이,나는..
+<SYNC Start=394844><P Class=ENUSCC>&nbsp;
+<SYNC Start=395736><P Class=ENUSCC>이봐요,이건 운전면허<br>시험이 아니거든요?
+<SYNC Start=397503><P Class=ENUSCC>&nbsp;
+<SYNC Start=397571><P Class=ENUSCC>난 댁이 언제<br>어디서 태어났고
+<SYNC Start=399963><P Class=ENUSCC>&nbsp;
+<SYNC Start=400129><P Class=ENUSCC>어린시절은 어땠으며,<br>학교는 어딜 나왔고,
+<SYNC Start=402919><P Class=ENUSCC>&nbsp;
+<SYNC Start=403049><P Class=ENUSCC>어떤 경험을 통해 지금에 이르렀는지<br>같은거 알고 싶지 않아요
+<SYNC Start=405745><P Class=ENUSCC>&nbsp;
+<SYNC Start=405812><P Class=ENUSCC>내가 댁을 연기하려면
+<SYNC Start=407213><P Class=ENUSCC>&nbsp;
+<SYNC Start=407281><P Class=ENUSCC>그런 자잘한 사실들보다<br>더 필요한게 있어요
+<SYNC Start=409915><P Class=ENUSCC>&nbsp;
+<SYNC Start=409983><P Class=ENUSCC>그건 바로 여기에 뭐가 있느냐에요
+<SYNC Start=412125><P Class=ENUSCC>&nbsp;
+<SYNC Start=412881><P Class=ENUSCC>나의 열정 말이지?
+<SYNC Start=414954><P Class=ENUSCC>&nbsp;
+<SYNC Start=415022><P Class=ENUSCC>잘 들어,인석아<br>나는 어릴때부터
+<SYNC Start=417590><P Class=ENUSCC>&nbsp;
+<SYNC Start=417658><P Class=ENUSCC>어떤 이야기에 푹 빠져있어
+<SYNC Start=420426><P Class=ENUSCC>&nbsp;
+<SYNC Start=420494><P Class=ENUSCC>바쿠 황제와 아름다운 임영 황후의 이야기지
+<SYNC Start=424597><P Class=ENUSCC>&nbsp;
+<SYNC Start=427734><P Class=ENUSCC>황후는 자신의 애완동물인<br>거북이를 너무나도 사랑했어
+<SYNC Start=432299><P Class=ENUSCC>&nbsp;
+<SYNC Start=436243><P Class=ENUSCC>어느 날, 내 말이, 어느날 황제는<br>황후가 울고 있는 모습을 보게 되었지
+<SYNC Start=440880><P Class=ENUSCC>&nbsp;
+<SYNC Start=441087><P Class=ENUSCC>그 거북이가 죽은거야
+<SYNC Start=443408><P Class=ENUSCC>&nbsp;
+<SYNC Start=444117><P Class=ENUSCC>바쿠 황제는 황후가 우는 모습을<br>더는 볼 수가 없어서
+<SYNC Start=448521><P Class=ENUSCC>&nbsp;
+<SYNC Start=448588><P Class=ENUSCC>황제는 배를 8척, 내 말이,<br>8척을 각자 다른 곳으로 보내서
+<SYNC Start=453114><P Class=ENUSCC>&nbsp;
+<SYNC Start=453260><P Class=ENUSCC>세상에서 가장 아름다운<br>거북이를 찾으라고 명했어
+<SYNC Start=457556><P Class=ENUSCC>&nbsp;
+<SYNC Start=458432><P Class=ENUSCC>그리고 결코 죽지 않는 거북이를
+<SYNC Start=461173><P Class=ENUSCC>&nbsp;
+<SYNC Start=463450><P Class=ENUSCC>오직 배 한 척, 내 말이,<br>배 한척 만 돌아왔어
+<SYNC Start=466196><P Class=ENUSCC>&nbsp;
+<SYNC Start=466362><P Class=ENUSCC>배의 선장은 황제에게 순금으로 만든<br>버마의 거북이를 바쳤어
+<SYNC Start=470993><P Class=ENUSCC>&nbsp;
+<SYNC Start=477117><P Class=ENUSCC>그리고 황제는 황후에게<br>버마의 거북이를 주었는데
+<SYNC Start=480542><P Class=ENUSCC>&nbsp;
+<SYNC Start=480835><P Class=ENUSCC>황후는 폭발했어<br>내 말이,너무 좋아서 폭발했어
+<SYNC Start=484405><P Class=ENUSCC>&nbsp;
+<SYNC Start=484839><P Class=ENUSCC>말 그대로
+<SYNC Start=486293><P Class=ENUSCC>&nbsp;
+<SYNC Start=486326><P Class=ENUSCC>황제는 버마의 거북이를 숨겼지
+<SYNC Start=488694><P Class=ENUSCC>&nbsp;
+<SYNC Start=488762><P Class=ENUSCC>그래서 아무도, 내 말이 다시는 아무도<br>기뻐서 폭발하지 못하도록 말이야
+<SYNC Start=492535><P Class=ENUSCC>&nbsp;
+<SYNC Start=492847><P Class=ENUSCC>그래서 말이다, 인석아
+<SYNC Start=494934><P Class=ENUSCC>&nbsp;
+<SYNC Start=495001><P Class=ENUSCC>나는 이 이야기를 듣고 결심했어<br>내 말이, 결심했다고!
+<SYNC Start=499138><P Class=ENUSCC>&nbsp;
+<SYNC Start=499206><P Class=ENUSCC>내가 그 거북이를 찾겠다고
+<SYNC Start=500840><P Class=ENUSCC>&nbsp;
+<SYNC Start=500907><P Class=ENUSCC>그런데 아직도 나는<br>찾지 못했어
+<SYNC Start=503322><P Class=ENUSCC>&nbsp;
+<SYNC Start=503777><P Class=ENUSCC>하지만 나는 그 버마의 거북이보다<br>훨씬 더 귀중한 걸 얻었어
+<SYNC Start=507115><P Class=ENUSCC>&nbsp;
+<SYNC Start=507347><P Class=ENUSCC>중요한 건 보물이 아니라,<br>바로 탐구하는 자세라는 교훈을!
+<SYNC Start=510049><P Class=ENUSCC>&nbsp;
+<SYNC Start=510117><P Class=ENUSCC>그래서, 내 말이,<br>그래서 내가 이 자리에 서게 된 거지
+<SYNC Start=513183><P Class=ENUSCC>&nbsp;
+<SYNC Start=514431><P Class=ENUSCC>그러니까 댁은 내 말이,내 말이<br>하면서 말이 많은 거네요
+<SYNC Start=516322><P Class=ENUSCC>&nbsp;
+<SYNC Start=516390><P Class=ENUSCC>알았어요<br>그럼 세트장에서 봐요
+<SYNC Start=518057><P Class=ENUSCC>&nbsp;
+<SYNC Start=518125><P Class=ENUSCC>내 말이, 내 말이,<br>내 이름은 포그혼 레그혼
+<SYNC Start=520626><P Class=ENUSCC>&nbsp;
+<SYNC Start=520694><P Class=ENUSCC>나는 재미없는 얘기를 해
+<SYNC Start=522644><P Class=ENUSCC>&nbsp;
+<SYNC Start=525619><P Class=ENUSCC>저 놈이, 내 말이,<br>저 놈이 나한테 한 방 먹였군
+<SYNC Start=528649><P Class=ENUSCC>&nbsp;
+<SYNC Start=535242><P Class=ENUSCC>나한테 거짓말을 해?
+<SYNC Start=536725><P Class=ENUSCC>&nbsp;
+<SYNC Start=536891><P Class=ENUSCC>뭐라고?
+<SYNC Start=538226><P Class=ENUSCC>&nbsp;
+<SYNC Start=538392><P Class=ENUSCC>네가 이 화분이 흥미롭다고 했잖아!
+<SYNC Start=540587><P Class=ENUSCC>&nbsp;
+<SYNC Start=540680><P Class=ENUSCC>나는 이걸 2시간 뚫어지게 바라봤는데<br>아무 일도 안 일어나잖아!
+<SYNC Start=544079><P Class=ENUSCC>&nbsp;
+<SYNC Start=544232><P Class=ENUSCC>아무 일 안 일어나는 게 정상이야
+<SYNC Start=546318><P Class=ENUSCC>&nbsp;
+<SYNC Start=546484><P Class=ENUSCC>그럼 이게 왜 흥미로운건데?
+<SYNC Start=548087><P Class=ENUSCC>&nbsp;
+<SYNC Start=548155><P Class=ENUSCC>일단,이건 오래된 물건 같으니까
+<SYNC Start=549696><P Class=ENUSCC>&nbsp;
+<SYNC Start=549862><P Class=ENUSCC>팔면 값이 좀 나갈지도 모르지
+<SYNC Start=550923><P Class=ENUSCC>&nbsp;
+<SYNC Start=550991><P Class=ENUSCC>값이라고?<br>그것만 알면 돼!
+<SYNC Start=554193><P Class=ENUSCC>&nbsp;
+<SYNC Start=554261><P Class=ENUSCC>잘 있어라,멍청아!
+<SYNC Start=555961><P Class=ENUSCC>&nbsp;
+<SYNC Start=563709><P Class=ENUSCC>고마워
+<SYNC Start=564729><P Class=ENUSCC>&nbsp;
+<SYNC Start=566420><P Class=ENUSCC>이게, 내 말이, 이게 바로<br>영화의 시작 장면이야
+<SYNC Start=569007><P Class=ENUSCC>&nbsp;
+<SYNC Start=569173><P Class=ENUSCC>내가 사랑하는 엄마와 영원히<br>작별하는 장면이지
+<SYNC Start=571802><P Class=ENUSCC>&nbsp;
+<SYNC Start=571968><P Class=ENUSCC>이 녀석이 대사를 칠 거야
+<SYNC Start=573345><P Class=ENUSCC>&nbsp;
+<SYNC Start=573413><P Class=ENUSCC>그러면 너는 아기처럼 펑펑 우는거야
+<SYNC Start=575548><P Class=ENUSCC>&nbsp;
+<SYNC Start=575615><P Class=ENUSCC>옛날의 나처럼
+<SYNC Start=578000><P Class=ENUSCC>&nbsp;
+<SYNC Start=580977><P Class=ENUSCC>내 말이, 그러니까 액션!
+<SYNC Start=582521><P Class=ENUSCC>&nbsp;
+<SYNC Start=582687><P Class=ENUSCC>아들아..내 말이..아들아
+<SYNC Start=585691><P Class=ENUSCC>&nbsp;
+<SYNC Start=585759><P Class=ENUSCC>내가 항상 말했던 것을 기억하렴
+<SYNC Start=588561><P Class=ENUSCC>&nbsp;
+<SYNC Start=588628><P Class=ENUSCC>중요한 건 보물이 아니야<br>바로 탐구하는 자세지
+<SYNC Start=593199><P Class=ENUSCC>&nbsp;
+<SYNC Start=610548><P Class=ENUSCC>울어!
+<SYNC Start=611354><P Class=ENUSCC>&nbsp;
+<SYNC Start=612842><P Class=ENUSCC>네 엄마가 죽었어!
+<SYNC Start=614448><P Class=ENUSCC>&nbsp;
+<SYNC Start=616327><P Class=ENUSCC>엉엉엉
+<SYNC Start=618090><P Class=ENUSCC>&nbsp;
+<SYNC Start=618158><P Class=ENUSCC>나 눈물 펑펑나게 울고 있어!
+<SYNC Start=620526><P Class=ENUSCC>&nbsp;
+<SYNC Start=620594><P Class=ENUSCC>내 말이, 내 말이, 나 울고 있다고!
+<SYNC Start=624876><P Class=ENUSCC>&nbsp;
+<SYNC Start=625855><P Class=ENUSCC>대사 치지 말고,그냥 울어!
+<SYNC Start=627524><P Class=ENUSCC>&nbsp;
+<SYNC Start=635976><P Class=ENUSCC>웃어?
+<SYNC Start=637042><P Class=ENUSCC>&nbsp;
+<SYNC Start=637110><P Class=ENUSCC>나도 지금 열심히 하려고 한다고요!
+<SYNC Start=639445><P Class=ENUSCC>&nbsp;
+<SYNC Start=639513><P Class=ENUSCC>그런데 이 사람 연기를 너무 못하잖아요!
+<SYNC Start=641426><P Class=ENUSCC>&nbsp;
+<SYNC Start=641548><P Class=ENUSCC>나는 진짜 여배우랑<br>일하고 싶단 말이에요!
+<SYNC Start=643915><P Class=ENUSCC>&nbsp;
+<SYNC Start=644081><P Class=ENUSCC>들었지?<br>누가 저 여자 침대에서 나오게 해!
+<SYNC Start=646619><P Class=ENUSCC>&nbsp;
+<SYNC Start=646686><P Class=ENUSCC>다른 여배우로 교체할 테니까
+<SYNC Start=648700><P Class=ENUSCC>&nbsp;
+<SYNC Start=649556><P Class=ENUSCC>바로 너 말하는 거야,캐롤
+<SYNC Start=651298><P Class=ENUSCC>&nbsp;
+<SYNC Start=655384><P Class=ENUSCC>건조기 한 대죠?
+<SYNC Start=656996><P Class=ENUSCC>&nbsp;
+<SYNC Start=657063><P Class=ENUSCC>카드랑 현금 중에서<br>뭘로 지불하시겠어요?
+<SYNC Start=658596><P Class=ENUSCC>&nbsp;
+<SYNC Start=659799><P Class=ENUSCC>화분!
+<SYNC Start=661100><P Class=ENUSCC>&nbsp;
+<SYNC Start=667574><P Class=ENUSCC>나를 속이는 게<br>그렇게도 재미있냐?
+<SYNC Start=669900><P Class=ENUSCC>&nbsp;
+<SYNC Start=670066><P Class=ENUSCC>내가 뭐하러 속이기까지 하는데?
+<SYNC Start=672278><P Class=ENUSCC>&nbsp;
+<SYNC Start=672345><P Class=ENUSCC>네 말이 맞아
+<SYNC Start=673946><P Class=ENUSCC>&nbsp;
+<SYNC Start=674014><P Class=ENUSCC>이건 값나가는 물건이 아니야
+<SYNC Start=675822><P Class=ENUSCC>&nbsp;
+<SYNC Start=675988><P Class=ENUSCC>값이 나갈 수도 있다고 말한거야
+<SYNC Start=677816><P Class=ENUSCC>&nbsp;
+<SYNC Start=677884><P Class=ENUSCC>전문가한테 부탁하면<br>확실하게 알 수 있겠지
+<SYNC Start=679919><P Class=ENUSCC>&nbsp;
+<SYNC Start=679986><P Class=ENUSCC>그것만 알면 충분해!
+<SYNC Start=682555><P Class=ENUSCC>&nbsp;
+<SYNC Start=682622><P Class=ENUSCC>역시 넌 멍청해!
+<SYNC Start=684990><P Class=ENUSCC>&nbsp;
+<SYNC Start=692866><P Class=ENUSCC>혹시 전문가 아는 사람 있어?
+<SYNC Start=694424><P Class=ENUSCC>&nbsp;
+<SYNC Start=694590><P Class=ENUSCC>자,인석아<br>저 상자, 내 말이, 저 상자 안에는
+<SYNC Start=697427><P Class=ENUSCC>&nbsp;
+<SYNC Start=697593><P Class=ENUSCC>버마의 거북이가 들어있어
+<SYNC Start=699238><P Class=ENUSCC>&nbsp;
+<SYNC Start=699306><P Class=ENUSCC>이건 네가 평생동안<br>원했던 거야
+<SYNC Start=701348><P Class=ENUSCC>&nbsp;
+<SYNC Start=701514><P Class=ENUSCC>대사를 치고 나면<br>뛰어 가주세요
+<SYNC Start=704553><P Class=ENUSCC>&nbsp;
+<SYNC Start=704644><P Class=ENUSCC>제가 이 버튼을 누르겠다는<br>신호를 보낼게요
+<SYNC Start=706512><P Class=ENUSCC>&nbsp;
+<SYNC Start=706580><P Class=ENUSCC>버튼을 누르면 세트 전체가<br>조금씩 부서지기 시작할 거에요
+<SYNC Start=710550><P Class=ENUSCC>&nbsp;
+<SYNC Start=710650><P Class=ENUSCC>그래서 촬영은 한 번만 할 거에요
+<SYNC Start=712442><P Class=ENUSCC>&nbsp;
+<SYNC Start=712608><P Class=ENUSCC>준비 되셨나요?
+<SYNC Start=713519><P Class=ENUSCC>&nbsp;
+<SYNC Start=713587><P Class=ENUSCC>준비는 태어날 때 이미 되었어요!
+<SYNC Start=714687><P Class=ENUSCC>&nbsp;
+<SYNC Start=714754><P Class=ENUSCC>시작합시다,칠면조 여러분!
+<SYNC Start=717155><P Class=ENUSCC>&nbsp;
+<SYNC Start=722128><P Class=ENUSCC>액션!
+<SYNC Start=723036><P Class=ENUSCC>&nbsp;
+<SYNC Start=723202><P Class=ENUSCC>내 말이, 내 말이,<br>버마의 거북이를 손에 넣었다!
+<SYNC Start=727322><P Class=ENUSCC>&nbsp;
+<SYNC Start=731838><P Class=ENUSCC>잠깐만 뭐 좀 물어볼게요<br>점심은 언제 먹죠?
+<SYNC Start=734436><P Class=ENUSCC>&nbsp;
+<SYNC Start=760171><P Class=ENUSCC>못해먹겠네
+<SYNC Start=761338><P Class=ENUSCC>&nbsp;
+<SYNC Start=761405><P Class=ENUSCC>- 웃겨,진짜<br>- 전 나갈게요
+<SYNC Start=763006><P Class=ENUSCC>&nbsp;
+<SYNC Start=763074><P Class=ENUSCC>저도요
+<SYNC Start=764113><P Class=ENUSCC>&nbsp;
+<SYNC Start=764308><P Class=ENUSCC>어떻게 이걸 다 망쳐놔요?
+<SYNC Start=766076><P Class=ENUSCC>&nbsp;
+<SYNC Start=766143><P Class=ENUSCC>잘 하는 짓이네요,칠면조 씨
+<SYNC Start=767327><P Class=ENUSCC>&nbsp;
+<SYNC Start=767472><P Class=ENUSCC>수탉이거든요!
+<SYNC Start=769193><P Class=ENUSCC>&nbsp;
+<SYNC Start=770536><P Class=ENUSCC>웃기는 놈들
+<SYNC Start=771827><P Class=ENUSCC>&nbsp;
+<SYNC Start=772083><P Class=ENUSCC>뭐,인생에선 성공도 있고<br>실패도 있잖아요
+<SYNC Start=773516><P Class=ENUSCC>&nbsp;
+<SYNC Start=773584><P Class=ENUSCC>나설 줄도 알고<br>물러날 줄도 알아야지
+<SYNC Start=775251><P Class=ENUSCC>&nbsp;
+<SYNC Start=775319><P Class=ENUSCC>이건 어느 싸움에서나<br>마찬가지에요
+<SYNC Start=777087><P Class=ENUSCC>&nbsp;
+<SYNC Start=777253><P Class=ENUSCC>지금 포기하는거냐,인석아?
+<SYNC Start=778644><P Class=ENUSCC>&nbsp;
+<SYNC Start=778864><P Class=ENUSCC>다들 그만뒀으니까<br>저도 그만 둬야죠
+<SYNC Start=780757><P Class=ENUSCC>&nbsp;
+<SYNC Start=780825><P Class=ENUSCC>대중심리라는 거에요
+<SYNC Start=781451><P Class=ENUSCC>&nbsp;
+<SYNC Start=781846><P Class=ENUSCC>아무래도 내가 널<br>과대평가 한 것 같다,인석아
+<SYNC Start=784147><P Class=ENUSCC>&nbsp;
+<SYNC Start=784406><P Class=ENUSCC>그게 무슨 말이에요?
+<SYNC Start=785960><P Class=ENUSCC>수탉은 항상 충성스럽지<br>수탉은 절대 포기를 안 해
+<SYNC Start=789370><P Class=ENUSCC>&nbsp;
+<SYNC Start=789640><P Class=ENUSCC>수탉은, 내 말이,<br>수탉은 끝까지 싸워!
+<SYNC Start=792933><P Class=ENUSCC>&nbsp;
+<SYNC Start=793255><P Class=ENUSCC>그리고 너,인석아<br>너 같은 건 수탉이 아니야!
+<SYNC Start=797107><P Class=ENUSCC>&nbsp;
+<SYNC Start=797227><P Class=ENUSCC>지금 내가 수탉이 아니라고 말했어요?
+<SYNC Start=800057><P Class=ENUSCC>&nbsp;
+<SYNC Start=800317><P Class=ENUSCC>그렇다면 어쩔건데,엉?<br>인석아
+<SYNC Start=803246><P Class=ENUSCC>&nbsp;
+<SYNC Start=803314><P Class=ENUSCC>내 말이, 네가 도대체 어쩔건데?
+<SYNC Start=805659><P Class=ENUSCC>&nbsp;
+<SYNC Start=826139><P Class=ENUSCC>골동품점
+<SYNC Start=828000><P Class=ENUSCC>그래서 당신들 전문가 생각은 어때?
+<SYNC Start=831182><P Class=ENUSCC>&nbsp;
+<SYNC Start=831348><P Class=ENUSCC>내가 지금 착각하는 게 아니라면
+<SYNC Start=834577><P Class=ENUSCC>&nbsp;
+<SYNC Start=834645><P Class=ENUSCC>이건 진짜 사츠마 화분 같다네
+<SYNC Start=837105><P Class=ENUSCC>&nbsp;
+<SYNC Start=839083><P Class=ENUSCC>사츠마 화분이 뭔데?
+<SYNC Start=840379><P Class=ENUSCC>&nbsp;
+<SYNC Start=840859><P Class=ENUSCC>14세기 일본에서 만들어졌다는<br>유명한 도자기일세
+<SYNC Start=844067><P Class=ENUSCC>&nbsp;
+<SYNC Start=844653><P Class=ENUSCC>그럼 값나가는거야?
+<SYNC Start=845947><P Class=ENUSCC>&nbsp;
+<SYNC Start=845967><P Class=ENUSCC>그렇다고 할 수 있다네
+<SYNC Start=847391><P Class=ENUSCC>&nbsp;
+<SYNC Start=847463><P Class=ENUSCC>이 마무리 한 모양을 보면<br>장인이 만든 게 분명하다네
+<SYNC Start=850077><P Class=ENUSCC>&nbsp;
+<SYNC Start=850326><P Class=ENUSCC>그리고 색깔도 골고루 칠해져 있고
+<SYNC Start=852774><P Class=ENUSCC>이 광택도 빼먹으면 안돼지
+<SYNC Start=854749><P Class=ENUSCC>&nbsp;
+<SYNC Start=854904><P Class=ENUSCC>거기서부터 얘기하면 끝이 없다네
+<SYNC Start=856712><P Class=ENUSCC>&nbsp;
+<SYNC Start=856866><P Class=ENUSCC>그리고 이 장식!
+<SYNC Start=857928><P Class=ENUSCC>&nbsp;
+<SYNC Start=858094><P Class=ENUSCC>윤기넘치는 질감!
+<SYNC Start=859077><P Class=ENUSCC>&nbsp;
+<SYNC Start=859106><P Class=ENUSCC>담황색 빛이 도는 유약!
+<SYNC Start=860741><P Class=ENUSCC>&nbsp;
+<SYNC Start=860878><P Class=ENUSCC>그래서 요점이 뭔데?<br>이 다람쥐들아!
+<SYNC Start=862521><P Class=ENUSCC>&nbsp;
+<SYNC Start=862963><P Class=ENUSCC>- 우리는 땅다람쥐라네<br>- 그렇고 말고
+<SYNC Start=864396><P Class=ENUSCC>&nbsp;
+<SYNC Start=864631><P Class=ENUSCC>그래서 이거 값이 얼마나 나가는데?
+<SYNC Start=866156><P Class=ENUSCC>&nbsp;
+<SYNC Start=866467><P Class=ENUSCC>요즘 도자기 시장은<br>시세변동이 심하다네
+<SYNC Start=869446><P Class=ENUSCC>&nbsp;
+<SYNC Start=869513><P Class=ENUSCC>하지만 사츠마 도자기라면<br>희소성이 있다네
+<SYNC Start=871781><P Class=ENUSCC>&nbsp;
+<SYNC Start=871849><P Class=ENUSCC>게다가 요즘 엔화 환율을<br>생각해본다면
+<SYNC Start=873907><P Class=ENUSCC>&nbsp;
+<SYNC Start=873984><P Class=ENUSCC>이 도자기는 미국 달러로 치자면 거의..
+<SYNC Start=877856><P Class=ENUSCC>&nbsp;
+<SYNC Start=878187><P Class=ENUSCC>- 100만 달러 정도<br>- 100만 달러 정도
+<SYNC Start=879890><P Class=ENUSCC>&nbsp;
+<SYNC Start=880648><P Class=ENUSCC>그래서 두 사람 중<br>누가 이걸 발견했는가?
+<SYNC Start=882734><P Class=ENUSCC>&nbsp;
+<SYNC Start=882900><P Class=ENUSCC>- 내가..<br>- 내가 찾았어!
+<SYNC Start=884227><P Class=ENUSCC>&nbsp;
+<SYNC Start=884295><P Class=ENUSCC>내가 풀장에서 수영하고 있었는데
+<SYNC Start=885795><P Class=ENUSCC>&nbsp;
+<SYNC Start=885863><P Class=ENUSCC>내 멍청한 개가 정원에<br>땅을 파는거야
+<SYNC Start=888431><P Class=ENUSCC>&nbsp;
+<SYNC Start=888499><P Class=ENUSCC>그러다가 이 화분을 발견하고<br>나는 그걸 집어서
+<SYNC Start=890500><P Class=ENUSCC>&nbsp;
+<SYNC Start=890568><P Class=ENUSCC>그리고 확실하게 말했어<br>"이거 참 흥미롭네"라고
+<SYNC Start=894871><P Class=ENUSCC>&nbsp;
+<SYNC Start=894939><P Class=ENUSCC>그것만 알면 돼
+<SYNC Start=897144><P Class=ENUSCC>&nbsp;
+<SYNC Start=903180><P Class=ENUSCC>신경쓰지 말게<br>저건 그냥 티파니 램프라네
+<SYNC Start=906716><P Class=ENUSCC>&nbsp;
+<SYNC Start=906784><P Class=ENUSCC>어차피 모든 물건은 대체가 가능하다네
+<SYNC Start=908952><P Class=ENUSCC>&nbsp;
+<SYNC Start=910928><P Class=ENUSCC>아,그건 아니라네
+<SYNC Start=912288><P Class=ENUSCC>&nbsp;
+<SYNC Start=912356><P Class=ENUSCC>그건 상당히 값나가는 걸세
+<SYNC Start=913294><P Class=ENUSCC>&nbsp;
+<SYNC Start=921766><P Class=ENUSCC>받아라!
+<SYNC Start=922198><P Class=ENUSCC>&nbsp;
+<SYNC Start=923334><P Class=ENUSCC>이것도!
+<SYNC Start=923814><P Class=ENUSCC>&nbsp;
+<SYNC Start=924264><P Class=ENUSCC>이것도!
+<SYNC Start=924770><P Class=ENUSCC>&nbsp;
+<SYNC Start=946296><P Class=ENUSCC>겨우 이거밖에 안되냐?
+<SYNC Start=947723><P Class=ENUSCC>&nbsp;
+<SYNC Start=951468><P Class=ENUSCC>난 아직도 서 있어
+<SYNC Start=954063><P Class=ENUSCC>&nbsp;
+<SYNC Start=955431><P Class=ENUSCC>가게에 있는 거의 모든 걸 부숴버렸다네
+<SYNC Start=957889><P Class=ENUSCC>&nbsp;
+<SYNC Start=958035><P Class=ENUSCC>하지만 생각해보게
+<SYNC Start=959502><P Class=ENUSCC>&nbsp;
+<SYNC Start=959570><P Class=ENUSCC>이제 얼마 안 가서<br>부술 것도 없어질 거라네!
+<SYNC Start=961663><P Class=ENUSCC>&nbsp;
+<SYNC Start=965133><P Class=ENUSCC>- 대피?<br>- 벅스?
+<SYNC Start=966289><P Class=ENUSCC>&nbsp;
+<SYNC Start=967664><P Class=ENUSCC>엄마!
+<SYNC Start=968189><P Class=ENUSCC>&nbsp;
+<SYNC Start=968986><P Class=ENUSCC>이제서야 눈물을 보이는 거냐?
+<SYNC Start=972396><P Class=ENUSCC>&nbsp;
+<SYNC Start=985169><P Class=ENUSCC>내 말이, 아파!
+<SYNC Start=986537><P Class=ENUSCC>&nbsp;
+<SYNC Start=993437><P Class=ENUSCC>혹시 자네도 그거 생각하고 있나?
+<SYNC Start=994932><P Class=ENUSCC>&nbsp;
+<SYNC Start=998008><P Class=ENUSCC>역시 그랬었군!
+<SYNC Start=999465><P Class=ENUSCC>&nbsp;
+<SYNC Start=1016706><P Class=ENUSCC>접시 깨지는 것 보게!
+<SYNC Start=1017861><P Class=ENUSCC>&nbsp;
+<SYNC Start=1017928><P Class=ENUSCC>나는 역시 못됐어!
+<SYNC Start=1018808><P Class=ENUSCC>&nbsp;
+<SYNC Start=1021131><P Class=ENUSCC>아무래도 너는 수탉이 맞는 것 같다<br>인석아
+<SYNC Start=1024500><P Class=ENUSCC>&nbsp;
+<SYNC Start=1024568><P Class=ENUSCC>계속 그 말이 듣고 싶었어요
+<SYNC Start=1027592><P Class=ENUSCC>&nbsp;
+<SYNC Start=1035594><P Class=ENUSCC>NO!
+<SYNC Start=1037620><P Class=ENUSCC>&nbsp;
+<SYNC Start=1041546><P Class=ENUSCC>버마의 거북이!
+<SYNC Start=1043260><P Class=ENUSCC>&nbsp;
+<SYNC Start=1043485><P Class=ENUSCC>드디어 찾았어요!
+<SYNC Start=1045438><P Class=ENUSCC>&nbsp;
+<SYNC Start=1045604><P Class=ENUSCC>아름답군
+<SYNC Start=1047023><P Class=ENUSCC>&nbsp;
+<SYNC Start=1047189><P Class=ENUSCC>내 말이, 정말 아름다워
+<SYNC Start=1049522><P Class=ENUSCC>&nbsp;
+<SYNC Start=1049827><P Class=ENUSCC>내꺼야!
+<SYNC Start=1050725><P Class=ENUSCC>&nbsp;
+<SYNC Start=1051896><P Class=ENUSCC>나 지금 너무 행복해!
+<SYNC Start=1053361><P Class=ENUSCC>지금까지 이렇게까지<br>기뻤던 적이 없었어!
+<SYNC Start=1055659><P Class=ENUSCC>&nbsp;
+<SYNC Start=1056114><P Class=ENUSCC>너무 기뻐서 난 지금..
+<SYNC Start=1057311><P Class=ENUSCC>&nbsp;
+<SYNC Start=1059337><P Class=ENUSCC>이거 참 흥미롭네.
+<SYNC Start=1061705><P Class=ENUSCC>&nbsp;
+<SYNC Start=1063483><P Class=ENUSCC>아름다워
+<SYNC Start=1064642><P Class=ENUSCC>&nbsp;
+<SYNC Start=1064708><P Class=ENUSCC>내 말이, 내 말이,<br>정말 아름다워.
+<SYNC Start=1067821><P Class=ENUSCC>&nbsp;
+<SYNC Start=1070114><P Class=ENUSCC>내꺼야!
+<SYNC Start=1071179><P Class=ENUSCC>&nbsp;
+<SYNC Start=1071615><P Class=ENUSCC>난 이걸 가진 게 너무 기쁜 나머지<br>지금 폭발할 것 같아!
+<SYNC Start=1076929><P Class=ENUSCC>&nbsp;
+<SYNC Start=1079356><P Class=ENUSCC>그러니까 중요한건..
+<SYNC Start=1080970><P Class=ENUSCC>&nbsp;
+<SYNC Start=1082059><P Class=ENUSCC>중요한 건 보물이 아니라<br>탐구하는 자세야
+<SYNC Start=1085728><P Class=ENUSCC>&nbsp;
+<SYNC Start=1085796><P Class=ENUSCC>그게 바로 이 영화의 교훈이야
+<SYNC Start=1089020><P Class=ENUSCC>&nbsp;
+<SYNC Start=1089300><P Class=ENUSCC>내 말이, 내 말이!
+<SYNC Start=1092196><P Class=ENUSCC>&nbsp;
+<SYNC Start=1095023><P Class=ENUSCC>감독:포그혼 레그혼
+<SYNC Start=1095511><P Class=ENUSCC>원작:포그혼 레그혼
+<SYNC Start=1096511><P Class=ENUSCC>&nbsp;
+<SYNC Start=1096514><P Class=ENUSCC>제작:포그혼 레그혼
+<SYNC Start=1097110><P Class=ENUSCC>캐스팅:포그혼 레그혼
+<SYNC Start=1098031><P Class=ENUSCC>출연
+<SYNC Start=1098698><P Class=ENUSCC>포그혼 레그혼 역:대피 덕
+<SYNC Start=1099453><P Class=ENUSCC>&nbsp;
+<SYNC Start=1099458><P Class=ENUSCC>요세미티 샘 역:대피 덕
+<SYNC Start=1100047><P Class=ENUSCC>&nbsp;
+<SYNC Start=1100077><P Class=ENUSCC>요세미티 샘 역:대피 덕<br>- 브라보, 브라보!
+<SYNC Start=1100476><P Class=ENUSCC>게스트<br>엉덩이 박사 역:대피 덕<br>- 브라보, 브라보!
+<SYNC Start=1101114><P Class=ENUSCC>장소협조:피자리바<br>- 브라보, 브라보!
+<SYNC Start=1101843><P Class=ENUSCC>&nbsp;
+<SYNC Start=1102119><P Class=ENUSCC>후속편이 나온다면 좋을텐데
+<SYNC Start=1103812><P Class=ENUSCC>&nbsp;
+<SYNC Start=1104281><P Class=ENUSCC>뭐야 이게?
+<SYNC Start=1105456><P Class=ENUSCC>&nbsp;
+<SYNC Start=1105683><P Class=ENUSCC>그냥 박수 쳐
+<SYNC Start=1106826><P Class=ENUSCC>&nbsp;
+<SYNC Start=1111956><P Class=ENUSCC>표를 6장 밖에 못 팔았어요
+<SYNC Start=1114154><P Class=ENUSCC>&nbsp;
+<SYNC Start=1114224><P Class=ENUSCC>영화를 만들지 못했으면<br>그 6장 조차도 팔지 못했어
+<SYNC Start=1117627><P Class=ENUSCC>&nbsp;
+<SYNC Start=1117787><P Class=ENUSCC>나는 이게 굉장히<br>자랑스러워!
+<SYNC Start=1119732><P Class=ENUSCC>&nbsp;
+<SYNC Start=1120551><P Class=ENUSCC>솔직히 말하는데<br>나 표 안 사고 들어온 거에요
+<SYNC Start=1122428><P Class=ENUSCC>&nbsp;
+<SYNC Start=1127237><P Class=ENUSCC>인석이 참 재미있는 놈일세
+<SYNC Start=1129326><P Class=ENUSCC>&nbsp;
+<SYNC Start=1131049><P Class=ENUSCC>로드 러너와<br>와일리 E. 코요테
+<SYNC Start=1132787><P Class=ENUSCC>&nbsp;
+<SYNC Start=1133421><P Class=ENUSCC>조용히 치열하게
+<SYNC Start=1135047><P Class=ENUSCC>&nbsp;
+<SYNC Start=1144862><P Class=ENUSCC>닌자의 자세
+<SYNC Start=1145862><P Class=ENUSCC>&nbsp;
+<SYNC Start=1278690><P Class=ENUSCC>끝
+<SYNC Start=1279600><P Class=ENUSCC>&nbsp;
+<SYNC Start=1284217><P Class=ENUSCC>그 영화는 여행의<br>위대함을 깨닫게 해줬다네
+<SYNC Start=1286562><P Class=ENUSCC>&nbsp;
+<SYNC Start=1286630><P Class=ENUSCC>경험의 귀중함도 배울 수 있었다네
+<SYNC Start=1290099><P Class=ENUSCC>&nbsp;
+<SYNC Start=1290167><P Class=ENUSCC>대체 뭐가 이해가 안된다는 건가?
+<SYNC Start=1291559><P Class=ENUSCC>&nbsp;
+<SYNC Start=1291725><P Class=ENUSCC>첫번째로,
+<SYNC Start=1292902><P Class=ENUSCC>&nbsp;
+<SYNC Start=1292970><P Class=ENUSCC>어째서 오리가 수탉을 연기하는건데?
+<SYNC Start=1294637><P Class=ENUSCC>&nbsp;
+<SYNC Start=1294705><P Class=ENUSCC>그리고 왜 그 오리가<br>나를 연기하는건데?
+<SYNC Start=1296472><P Class=ENUSCC>&nbsp;
+<SYNC Start=1296540><P Class=ENUSCC>말이 안돼!
+<SYNC Start=1298518><P Class=ENUSCC>&nbsp;
+<SYNC Start=1298732><P Class=ENUSCC>그리고 나만 아까 그렇게<br>싸우고도 얻은게 없잖아
+<SYNC Start=1301813><P Class=ENUSCC>&nbsp;
+<SYNC Start=1332491><P Class=ENUSCC>이걸로, 내 말이,<br>이걸로, 내 말이..
+<SYNC Start=1334091><P Class=ENUSCC>&nbsp;
+<SYNC Start=1335758><P Class=ENUSCC>캐롤,대사가 뭐였지?
+<SYNC Start=1336899><P Class=ENUSCC>&nbsp;
+</BODY>
+</SAMI>

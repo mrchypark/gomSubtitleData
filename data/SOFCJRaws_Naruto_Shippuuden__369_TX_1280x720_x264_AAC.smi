@@ -1,0 +1,540 @@
+﻿<SAMI>
+
+<HEAD>
+<TITLE>자막</TITLE>
+
+<SAMIParam>
+  Metrics {time:ms;}
+  Spec {MSFT:1.0;}
+</SAMIParam>
+
+<STYLE TYPE="text/css">
+<!--
+  P { font-family: Arial; font-weight: normal; color: white; background-color: black; text-align: center; }
+  .ENUSCC { name: English; lang: en-US ; SAMIType: CC ; }
+-->
+</STYLE>
+
+</HEAD>
+
+<BODY>
+
+<-- Open play menu, choose Captions and Subtiles, On if available -->
+<-- Open tools menu, Security, Show local captions when present -->
+
+<SYNC Start=7365><P Class=ENUSCC><font color="#e1c955">꿈만같았다</font>
+<SYNC Start=9299><P Class=ENUSCC><font color="#e1c955">우치하와 센쥬는 손을 잡은거다</font>
+<SYNC Start=11851><P Class=ENUSCC>&nbsp;
+<SYNC Start=12551><P Class=ENUSCC><font color="#e1c955">더는 많은 희생이 나올 필요도 없어</font>
+<SYNC Start=15221><P Class=ENUSCC><font color="#e1c955">많은 아이들이 죽을 필요도 없어</font>
+<SYNC Start=18021><P Class=ENUSCC>&nbsp;
+<SYNC Start=20810><P Class=ENUSCC><font color="#e1c955">그리고 우리들은</font>
+<SYNC Start=22395><P Class=ENUSCC><font color="#e1c955">시작부터 마을을 만들기 시작했다</font>
+<SYNC Start=24895><P Class=ENUSCC>&nbsp;
+<SYNC Start=28184><P Class=ENUSCC><font color="#e1c955">그 후 불의 나라와 손을 잡고</font>
+<SYNC Start=30703><P Class=ENUSCC><font color="#e1c955">나라와 마을이<br>동등한 입장으로 조직이 되어있는</font>
+<SYNC Start=33323><P Class=ENUSCC><font color="#e1c955">평화로운 나라 만들기를 시작했다</font>
+<SYNC Start=36323><P Class=ENUSCC>&nbsp;
+<SYNC Start=39079><P Class=ENUSCC><font color="#e1c955">어쨌든 꿈만같았다</font>
+<SYNC Start=41079><P Class=ENUSCC>&nbsp;
+<SYNC Start=51743><P Class=ENUSCC><font color="#ff4646">Looddy<br>나루토 자막카페：：</font>
+<SYNC Start=52037><P Class=ENUSCC><font color="#ff9146">Looddy<br>나루토 자막카페：：</font>
+<SYNC Start=52644><P Class=ENUSCC><font color="#daff46">Looddy<br>나루토 자막카페：：</font>
+<SYNC Start=53127><P Class=ENUSCC><font color="#46ffd1">Looddy<br>나루토 자막카페：：</font>
+<SYNC Start=53647><P Class=ENUSCC><font color="#464aff">Looddy<br>나루토 자막카페：：</font>
+<SYNC Start=54327><P Class=ENUSCC><font color="#464646"><font color="#f1ff4d">c</font>afe.naver.com/narutosmi</font>
+<SYNC Start=54583><P Class=ENUSCC><font color="#464646">c<font color="#f1ff4d">a</font>fe.naver.com/narutosmi</font>
+<SYNC Start=54809><P Class=ENUSCC><font color="#464646">ca<font color="#f1ff4d">f</font>e.naver.com/narutosmi</font>
+<SYNC Start=55111><P Class=ENUSCC><font color="#464646">caf<font color="#f1ff4d">e</font>.naver.com/narutosmi</font>
+<SYNC Start=55369><P Class=ENUSCC><font color="#464646">cafe<font color="#f1ff4d">.</font>naver.com/narutosmi</font>
+<SYNC Start=55783><P Class=ENUSCC><font color="#464646">cafe.<font color="#f1ff4d">n</font>aver.com/narutosmi</font>
+<SYNC Start=55984><P Class=ENUSCC><font color="#464646">cafe.n<font color="#f1ff4d">a</font>ver.com/narutosmi</font>
+<SYNC Start=56192><P Class=ENUSCC><font color="#464646">cafe.na<font color="#f1ff4d">v</font>er.com/narutosmi</font>
+<SYNC Start=56493><P Class=ENUSCC><font color="#464646">cafe.nav<font color="#f1ff4d">e</font>r.com/narutosmi</font>
+<SYNC Start=56772><P Class=ENUSCC><font color="#464646">cafe.nave<font color="#f1ff4d">r</font>.com/narutosmi</font>
+<SYNC Start=57140><P Class=ENUSCC><font color="#464646">cafe.naver<font color="#f1ff4d">.</font>com/narutosmi</font>
+<SYNC Start=57366><P Class=ENUSCC><font color="#464646">cafe.naver.<font color="#f1ff4d">c</font>om/narutosmi</font>
+<SYNC Start=57676><P Class=ENUSCC><font color="#464646">cafe.naver.c<font color="#f1ff4d">o</font>m/narutosmi</font>
+<SYNC Start=57983><P Class=ENUSCC><font color="#464646">cafe.naver.co<font color="#f1ff4d">m</font>/narutosmi</font>
+<SYNC Start=58279><P Class=ENUSCC><font color="#464646">cafe.naver.com<font color="#f1ff4d">/</font>narutosmi</font>
+<SYNC Start=58570><P Class=ENUSCC><font color="#464646">cafe.naver.com/<font color="#f1ff4d">n</font>arutosmi</font>
+<SYNC Start=58857><P Class=ENUSCC><font color="#464646">cafe.naver.com/n<font color="#f1ff4d">a</font>rutosmi</font>
+<SYNC Start=59090><P Class=ENUSCC><font color="#464646">cafe.naver.com/na<font color="#f1ff4d">r</font>utosmi</font>
+<SYNC Start=59401><P Class=ENUSCC><font color="#464646">cafe.naver.com/nar<font color="#f1ff4d">u</font>tosmi</font>
+<SYNC Start=59668><P Class=ENUSCC><font color="#464646">cafe.naver.com/naru<font color="#f1ff4d">t</font>osmi</font>
+<SYNC Start=60159><P Class=ENUSCC><font color="#464646">cafe.naver.com/narut<font color="#f1ff4d">o</font>smi</font>
+<SYNC Start=60385><P Class=ENUSCC><font color="#464646">cafe.naver.com/naruto<font color="#f1ff4d">s</font>mi</font>
+<SYNC Start=60712><P Class=ENUSCC><font color="#464646">cafe.naver.com/narutos<font color="#f1ff4d">m</font>i</font>
+<SYNC Start=61086><P Class=ENUSCC><font color="#464646">cafe.naver.com/narutosm</font><font color="#f1ff4d">i</font>
+<SYNC Start=61402><P Class=ENUSCC><font color="#f1ff4d">『cafe.naver.com/narutosmi』</font>
+<SYNC Start=62054><P Class=ENUSCC><font color=#FFC0CB>明かりがあれば影ができると言った<br><font color=#90EE90>빛이 있으면 그림자가 생긴다고 했지</font>
+<SYNC Start=67300><P Class=ENUSCC><font color=#FFC0CB>あの日の君の聲が 忘れられずに<br><font color=#90EE90>그날의 네 목소리가 잊혀지지 않은 채</font>
+<SYNC Start=72620><P Class=ENUSCC><font color=#FFC0CB>强くありたいと願い<br><font color=#90EE90>더 강해지고 싶다고 기도해</font>
+<SYNC Start=77534><P Class=ENUSCC><font color=#FFC0CB>蠟燭を消した指<br><font color=#90EE90>양초를 꺼버린 손가락</font>
+<SYNC Start=82550><P Class=ENUSCC><font color=#FFC0CB>火の熱さに命を覺えて<br><font color=#90EE90>불의 뜨거움에 생명을 배우며</font>
+<SYNC Start=88616><P Class=ENUSCC><font color=#FFC0CB>僕のコアが彈ける<br><font color=#90EE90>나의 심장이 터지네</font>
+<SYNC Start=94226><P Class=ENUSCC><font color=#FFC0CB>紅蓮の愛が心を燒いて<br><font color=#90EE90>홍련의 사랑이 마음을 태우고</font>
+<SYNC Start=99251><P Class=ENUSCC><font color=#FFC0CB>風に迷えば淚が落ちる<br><font color=#90EE90>바람에 헤매이면 눈물이 떨어져</font>
+<SYNC Start=104460><P Class=ENUSCC><font color=#FFC0CB>傷つきながら未來信じて<br><font color=#90EE90>상처를 당하면서 미래를 믿으며</font>
+<SYNC Start=109494><P Class=ENUSCC><font color=#FFC0CB>また先へ その先へ<br><font color=#90EE90>다시 앞으로 그 앞으로</font>
+<SYNC Start=114722><P Class=ENUSCC><font color=#FFC0CB>瓦礫の空は僕らの絆<br><font color=#90EE90>희뿌연하늘은 우리들의 유대</font>
+<SYNC Start=119805><P Class=ENUSCC><font color=#FFC0CB>襲うまやかし蹴散らしてやる<br><font color=#90EE90>속이려고 한다면 걷어차주겠어</font>
+<SYNC Start=124923><P Class=ENUSCC><font color=#FFC0CB>戰いの果てに何もなくても<br><font color=#90EE90>싸움의 끝에 아무것도 없다해도</font>
+<SYNC Start=130124><P Class=ENUSCC><font color=#FFC0CB>また先へ その先へ行こう<br><font color=#90EE90>다시 앞으로 그 앞으로 가자</font>
+<SYNC Start=138579><P Class=ENUSCC>&nbsp;
+<SYNC Start=141440><P Class=ENUSCC><font color=#7b68ee>안녕하세요 고독저격님과 뉴웨스트님의 뒤를 이어<br><font color=#f0e68c>http://cafe.naver.com/narutosmi</font>
+<SYNC Start=142759><P Class=ENUSCC><font color=#7b68ee>자막을 만들게 되었습니다<br><font color=#f0e68c>http://cafe.naver.com/narutosmi</font>
+<SYNC Start=144217><P Class=ENUSCC><font color=#6495ed>재미있게 보세요^^<br><font color=#f0e68c>http://cafe.naver.com/narutosmi</font>
+<SYNC Start=147798><P Class=ENUSCC><font color=red>※무단 배포 및 동의 없이 사용 금지※</font><br><font color=orange>★출처를 꼭 남겨주시기 바랍니다★
+<SYNC Start=150297><P Class=ENUSCC>&nbsp;
+<SYNC Start=151881><P Class=ENUSCC><font color=#BDB76B>《진정한 꿈》
+<SYNC Start=154225><P Class=ENUSCC>&nbsp;
+<SYNC Start=246895><P Class=ENUSCC>기억나? 어린 시절<br>여기서 말했던 것들..
+<SYNC Start=249948><P Class=ENUSCC>그래
+<SYNC Start=251934><P Class=ENUSCC>&nbsp;
+<SYNC Start=252884><P Class=ENUSCC><font color="#808080">여기에 우리들의 마을을 만들자!</font>
+<SYNC Start=255656><P Class=ENUSCC><font color="#808080">뭐?</font>
+<SYNC Start=256309><P Class=ENUSCC><font color="#808080">그 마을은 어린아이가<br>죽지 않아도 되게 하자!</font>
+<SYNC Start=260361><P Class=ENUSCC>&nbsp;
+<SYNC Start=260580><P Class=ENUSCC><font color="#808080">어린 아이가 강하게<br>잘 클 수 있게 훈련하는</font>
+<SYNC Start=264059><P Class=ENUSCC><font color="#808080">학교를 만드는 거야!</font>
+<SYNC Start=264872><P Class=ENUSCC>&nbsp;
+<SYNC Start=265549><P Class=ENUSCC><font color="#808080">개인의 능력이나 힘에 맞게<br>임무를 결정하는거야</font>
+<SYNC Start=268860><P Class=ENUSCC>&nbsp;
+<SYNC Start=269630><P Class=ENUSCC><font color="#808080">그렇게 해서 의뢰 레벨을 잘 골라줄<br>상관을 두는거야</font>
+<SYNC Start=273896><P Class=ENUSCC>&nbsp;
+<SYNC Start=274633><P Class=ENUSCC><font color="#808080">아이를 거친 전장에 보내지 않아도 될<br>좋은 마을이야</font>
+<SYNC Start=278265><P Class=ENUSCC>&nbsp;
+<SYNC Start=279421><P Class=ENUSCC><font color="#808080">그런 바보같은 소리 하는 거<br>너뿐이다</font>
+<SYNC Start=282706><P Class=ENUSCC>&nbsp;
+<SYNC Start=283141><P Class=ENUSCC><font color="#808080">넌 어떻길래?</font>
+<SYNC Start=284891><P Class=ENUSCC>&nbsp;
+<SYNC Start=285660><P Class=ENUSCC><font color="#808080">나쁘진 않는데?</font>
+<SYNC Start=287163><P Class=ENUSCC>&nbsp;
+<SYNC Start=287363><P Class=ENUSCC><font color="#808080">그럼 정한거다</font>
+<SYNC Start=288809><P Class=ENUSCC><font color="#808080">그래..</font>
+<SYNC Start=289973><P Class=ENUSCC><font color="#808080">그 마을을 만든다면<br>이번에야말로 동생을...</font>
+<SYNC Start=293668><P Class=ENUSCC><font color="#808080">한눈에 내려다보이는<br>이곳에서 확실하게 지킬거야</font>
+<SYNC Start=297655><P Class=ENUSCC>&nbsp;
+<SYNC Start=309225><P Class=ENUSCC>그건 그저 꿈같은 이야기라고만 생각했어
+<SYNC Start=311612><P Class=ENUSCC>&nbsp;
+<SYNC Start=313171><P Class=ENUSCC>잡으려 했다면
+<SYNC Start=314559><P Class=ENUSCC>그러지 못할 것도 아니였을 텐데
+<SYNC Start=316666><P Class=ENUSCC>난...
+<SYNC Start=317519><P Class=ENUSCC>&nbsp;
+<SYNC Start=318192><P Class=ENUSCC>이제부터 꿈이 현실이 될거야
+<SYNC Start=320189><P Class=ENUSCC>&nbsp;
+<SYNC Start=321046><P Class=ENUSCC>불(火)의 나라를 지키는<br>그림자(影)같은 닌자의 우두머리
+<SYNC Start=323744><P Class=ENUSCC>이름하여 호카게(火影)
+<SYNC Start=325104><P Class=ENUSCC>&nbsp;
+<SYNC Start=325488><P Class=ENUSCC>어때?
+<SYNC Start=326400><P Class=ENUSCC>&nbsp;
+<SYNC Start=326551><P Class=ENUSCC>뭐야 그거
+<SYNC Start=327716><P Class=ENUSCC>&nbsp;
+<SYNC Start=327884><P Class=ENUSCC>불의 나라로부터 마을의 대표를<br>정하자는 요청이 있었어
+<SYNC Start=331580><P Class=ENUSCC>&nbsp;
+<SYNC Start=332290><P Class=ENUSCC>네가 우두머리가 되면 좋겠다 생각해
+<SYNC Start=335083><P Class=ENUSCC>호카게를..
+<SYNC Start=336193><P Class=ENUSCC>&nbsp;
+<SYNC Start=337582><P Class=ENUSCC>더는 네게 형제는 없겠지만
+<SYNC Start=339534><P Class=ENUSCC>이 마을의 닌자들은
+<SYNC Start=341098><P Class=ENUSCC>&nbsp;
+<SYNC Start=341348><P Class=ENUSCC>모두 네 형제라 여기겼으면 해
+<SYNC Start=344239><P Class=ENUSCC>확실하게 모두를 지켰으면 해
+<SYNC Start=347339><P Class=ENUSCC>&nbsp;
+<SYNC Start=350145><P Class=ENUSCC>우치하의 형제들 조차도<br>지키지 못했던 이런 나를
+<SYNC Start=353445><P Class=ENUSCC>&nbsp;
+<SYNC Start=361706><P Class=ENUSCC><font color="#808080">카와라마..</font>
+<SYNC Start=364309><P Class=ENUSCC><font color="#808080">이타마!</font>
+<SYNC Start=365784><P Class=ENUSCC>&nbsp;
+<SYNC Start=366783><P Class=ENUSCC><font color="#808080">이타마..</font>
+<SYNC Start=367777><P Class=ENUSCC>&nbsp;
+<SYNC Start=382687><P Class=ENUSCC><font color="#808080">뭐.. 뭐야?</font>
+<SYNC Start=384127><P Class=ENUSCC>&nbsp;
+<SYNC Start=387555><P Class=ENUSCC><font color="#808080">동생이... 죽었어</font>
+<SYNC Start=390452><P Class=ENUSCC>&nbsp;
+<SYNC Start=394049><P Class=ENUSCC><font color="#808080">여기에 오는 건<br>강을 보고 있자니</font>
+<SYNC Start=397843><P Class=ENUSCC><font color="#808080">마음 속의 응어리가 씻겨내려가는<br>기분이라서야</font>
+<SYNC Start=402314><P Class=ENUSCC>&nbsp;
+<SYNC Start=403367><P Class=ENUSCC><font color="#808080">그랬구나</font>
+<SYNC Start=404728><P Class=ENUSCC>&nbsp;
+<SYNC Start=406251><P Class=ENUSCC><font color="#808080">마다라였나?</font>
+<SYNC Start=408272><P Class=ENUSCC>&nbsp;
+<SYNC Start=409185><P Class=ENUSCC><font color="#808080">너도 그렇지 않나 싶은데</font>
+<SYNC Start=411159><P Class=ENUSCC>&nbsp;
+<SYNC Start=414409><P Class=ENUSCC><font color="#808080">너 형제같은 거 있어?</font>
+<SYNC Start=417078><P Class=ENUSCC><font color="#808080">난 다섯형제..</font>
+<SYNC Start=419531><P Class=ENUSCC><font color="#808080">난 다섯형제.. 였지</font>
+<SYNC Start=420993><P Class=ENUSCC>&nbsp;
+<SYNC Start=432000><P Class=ENUSCC><font color="#808080">있잖아.. 이제 형제는 없어?</font>
+<SYNC Start=435130><P Class=ENUSCC>&nbsp;
+<SYNC Start=435530><P Class=ENUSCC><font color="#808080">아니 한명 동생이 남았어</font>
+<SYNC Start=439531><P Class=ENUSCC>&nbsp;
+<SYNC Start=441613><P Class=ENUSCC><font color="#808080">그 동생만큼은<br>무슨 일이 있어도 내가 지킬거야</font>
+<SYNC Start=445478><P Class=ENUSCC>&nbsp;
+<SYNC Start=447362><P Class=ENUSCC><font color="#808080">네 형제는</font>
+<SYNC Start=448787><P Class=ENUSCC>&nbsp;
+<SYNC Start=449089><P Class=ENUSCC><font color="#808080">나도 한명 남았어</font>
+<SYNC Start=451174><P Class=ENUSCC><font color="#808080">나도 동생은 반드시 지킬 생각이야</font>
+<SYNC Start=454359><P Class=ENUSCC>&nbsp;
+<SYNC Start=459837><P Class=ENUSCC><font color="#808080">비뢰신베기!!</font><br>(飛雷神斬り)
+<SYNC Start=461541><P Class=ENUSCC>&nbsp;
+<SYNC Start=465538><P Class=ENUSCC><font color="#808080">이즈나!</font>
+<SYNC Start=466395><P Class=ENUSCC>&nbsp;
+<SYNC Start=476888><P Class=ENUSCC>우울해질 틈도 없다고
+<SYNC Start=479574><P Class=ENUSCC>&nbsp;
+<SYNC Start=480330><P Class=ENUSCC>우치하와 센쥬는 물론이고
+<SYNC Start=482777><P Class=ENUSCC>사루토비 일족에 시무라 일족도<br>동료가 될 것 같으니까 말이야
+<SYNC Start=486577><P Class=ENUSCC>&nbsp;
+<SYNC Start=487850><P Class=ENUSCC>거짓말이지.. 진짜야 그거?
+<SYNC Start=491292><P Class=ENUSCC>그 외에도 더 많이 올거야
+<SYNC Start=493096><P Class=ENUSCC>이 마을은 점점 커질거라고!
+<SYNC Start=495707><P Class=ENUSCC>슬슬 마을의 이름도 정해야겠지?
+<SYNC Start=498394><P Class=ENUSCC>뭐 좋은 거 없어?
+<SYNC Start=500768><P Class=ENUSCC>&nbsp;
+<SYNC Start=511622><P Class=ENUSCC>나뭇잎<font color="#585858">(에 숨은)</font>마을..은 어때?
+<SYNC Start=515622><P Class=ENUSCC>&nbsp;
+<SYNC Start=517307><P Class=ENUSCC>단순하네
+<SYNC Start=518418><P Class=ENUSCC>&nbsp;
+<SYNC Start=518883><P Class=ENUSCC>숨은 뜻 도 없어
+<SYNC Start=520177><P Class=ENUSCC>그냥 본대로잖아
+<SYNC Start=521654><P Class=ENUSCC>호카게와 뭔 차이야, 진짜!?
+<SYNC Start=523708><P Class=ENUSCC>그보다 아직도<br>쉽게 음울해지는 건 못 고친거냐?
+<SYNC Start=526944><P Class=ENUSCC>&nbsp;
+<SYNC Start=528902><P Class=ENUSCC>긴 시간이 걸렸지만
+<SYNC Start=530342><P Class=ENUSCC>우리들은 예전처럼 돌아온 느낌이였지
+<SYNC Start=533533><P Class=ENUSCC>&nbsp;
+<SYNC Start=535630><P Class=ENUSCC>그런데 그 호카게란 건<br>마을에 계속 있으면서
+<SYNC Start=539384><P Class=ENUSCC>모두를 지키는 역할같은 거잖아
+<SYNC Start=541903><P Class=ENUSCC>그것도 그렇지만<br>그런 의미만이 아니야
+<SYNC Start=545857><P Class=ENUSCC>이제부터 마을 만들기가<br>본격화가 되가면서
+<SYNC Start=549077><P Class=ENUSCC>호카게도 바빠지겠지
+<SYNC Start=551062><P Class=ENUSCC>&nbsp;
+<SYNC Start=551748><P Class=ENUSCC>그래서 네 큰 바위 얼굴을<br>이 발밑의 바위 위에 새길거야
+<SYNC Start=556149><P Class=ENUSCC>&nbsp;
+<SYNC Start=557320><P Class=ENUSCC>이 마을을 지키는 상징이야
+<SYNC Start=559764><P Class=ENUSCC>&nbsp;
+<SYNC Start=562039><P Class=ENUSCC>농담이지?
+<SYNC Start=563389><P Class=ENUSCC>&nbsp;
+<SYNC Start=564075><P Class=ENUSCC>얼굴이 험하니까<br>조금 손은 봐야겠지만
+<SYNC Start=568062><P Class=ENUSCC>네 한심한 급 음울한 성격보다는<br>훨 낫거든
+<SYNC Start=571401><P Class=ENUSCC>&nbsp;
+<SYNC Start=572778><P Class=ENUSCC>그렇게 한심해?
+<SYNC Start=574753><P Class=ENUSCC>&nbsp;
+<SYNC Start=576522><P Class=ENUSCC>그래, 과할정도로 한심해
+<SYNC Start=579729><P Class=ENUSCC>&nbsp;
+<SYNC Start=580224><P Class=ENUSCC>그러냐?
+<SYNC Start=581307><P Class=ENUSCC>&nbsp;
+<SYNC Start=583761><P Class=ENUSCC>여기 있었네
+<SYNC Start=585220><P Class=ENUSCC>이런 곳에서 뭘 노닥거리고 있어?
+<SYNC Start=588130><P Class=ENUSCC>&nbsp;
+<SYNC Start=588416><P Class=ENUSCC>불의 나라에 영주들이<br>회담에 올 때라고!
+<SYNC Start=591676><P Class=ENUSCC>&nbsp;
+<SYNC Start=591986><P Class=ENUSCC>토비라마인가
+<SYNC Start=593200><P Class=ENUSCC>&nbsp;
+<SYNC Start=604415><P Class=ENUSCC>호카게라고?
+<SYNC Start=605726><P Class=ENUSCC>&nbsp;
+<SYNC Start=606599><P Class=ENUSCC>멋대로 뭐하자는 거야?
+<SYNC Start=608268><P Class=ENUSCC>&nbsp;
+<SYNC Start=608786><P Class=ENUSCC>마다라를 우두머리의 후보로<br>추천하는 것까지는 좋아
+<SYNC Start=612134><P Class=ENUSCC>&nbsp;
+<SYNC Start=612408><P Class=ENUSCC>하지만 결정은 불의 나라와<br>마을의 민심을 듣고
+<SYNC Start=615910><P Class=ENUSCC>&nbsp;
+<SYNC Start=616113><P Class=ENUSCC>윗사람들과 상담해서 결정하는거야
+<SYNC Start=618022><P Class=ENUSCC>&nbsp;
+<SYNC Start=618193><P Class=ENUSCC>더는 아버지 때와는 달라
+<SYNC Start=619903><P Class=ENUSCC>&nbsp;
+<SYNC Start=620631><P Class=ENUSCC>허나..
+<SYNC Start=621313><P Class=ENUSCC>&nbsp;
+<SYNC Start=621525><P Class=ENUSCC>그리고 우치하 마다라가
+<SYNC Start=623439><P Class=ENUSCC>우두머리로 선택되는 일은 일단 없어
+<SYNC Start=625870><P Class=ENUSCC>모두 잘 알고 있잖아
+<SYNC Start=627289><P Class=ENUSCC>&nbsp;
+<SYNC Start=627903><P Class=ENUSCC>마을을 만든 주역은 형이란 걸 말이야
+<SYNC Start=630400><P Class=ENUSCC>&nbsp;
+<SYNC Start=631192><P Class=ENUSCC>그건 우치하 일족마저<br>하고 있는 소리야
+<SYNC Start=633985><P Class=ENUSCC>&nbsp;
+<SYNC Start=634745><P Class=ENUSCC>거기다 형은<br>우치하의 소문을 모르는 거야?
+<SYNC Start=638780><P Class=ENUSCC>&nbsp;
+<SYNC Start=639233><P Class=ENUSCC>녀석들의 동력은 증오가<br>깊으면 깊을수록 강해져
+<SYNC Start=643927><P Class=ENUSCC>&nbsp;
+<SYNC Start=644272><P Class=ENUSCC>사륜안이 그랬어
+<SYNC Start=646256><P Class=ENUSCC>&nbsp;
+<SYNC Start=646997><P Class=ENUSCC>뭘 어떻게 해올지 모를 녀석들이야
+<SYNC Start=649664><P Class=ENUSCC>앞으로 마을에 있어-
+<SYNC Start=651346><P Class=ENUSCC>그런 언행은 하지 마라, 토비라마
+<SYNC Start=653512><P Class=ENUSCC>&nbsp;
+<SYNC Start=669363><P Class=ENUSCC>여기 누군가 있던 것 같은데
+<SYNC Start=671777><P Class=ENUSCC>&nbsp;
+<SYNC Start=672416><P Class=ENUSCC>토비라마, 너는 알고 있었지?
+<SYNC Start=674955><P Class=ENUSCC>&nbsp;
+<SYNC Start=675419><P Class=ENUSCC>아니, 지금은<br>차크라를 짜고 있진 않았어
+<SYNC Start=677854><P Class=ENUSCC>말 돌리지마, 형
+<SYNC Start=679940><P Class=ENUSCC>&nbsp;
+<SYNC Start=689567><P Class=ENUSCC>이제부터는 민주적으로<br>운영을 해나갈거야
+<SYNC Start=692501><P Class=ENUSCC>이의 있어?
+<SYNC Start=693942><P Class=ENUSCC>&nbsp;
+<SYNC Start=694989><P Class=ENUSCC>아니, 그거면 됐어
+<SYNC Start=696632><P Class=ENUSCC>&nbsp;
+<SYNC Start=701095><P Class=ENUSCC><font color="#e1c955">그리고 난 초대 호카게가 되었다</font>
+<SYNC Start=705395><P Class=ENUSCC>&nbsp;
+<SYNC Start=731508><P Class=ENUSCC>난 초대 호카게가 되었다
+<SYNC Start=733728><P Class=ENUSCC>&nbsp;
+<SYNC Start=742537><P Class=ENUSCC>전란의 시대
+<SYNC Start=743721><P Class=ENUSCC>&nbsp;
+<SYNC Start=743974><P Class=ENUSCC>닌자와 닌자가 목숨을 겨루는<br>일족간의 싸움에서
+<SYNC Start=748010><P Class=ENUSCC>우치하와 센쥬가 손을 잡아<br>완성된 닌자의 이상향
+<SYNC Start=752588><P Class=ENUSCC>&nbsp;
+<SYNC Start=753386><P Class=ENUSCC>평화를 추구하며 만들어낸<br>닌자 마을
+<SYNC Start=756077><P Class=ENUSCC>&nbsp;
+<SYNC Start=756340><P Class=ENUSCC>그게 나뭇잎 마을이다
+<SYNC Start=759524><P Class=ENUSCC>&nbsp;
+<SYNC Start=761240><P Class=ENUSCC>바로 그 초대 호카게가 나는 되었지
+<SYNC Start=764177><P Class=ENUSCC>&nbsp;
+<SYNC Start=769208><P Class=ENUSCC>이건 우치하에 대대로<br>전해내려오는 석판
+<SYNC Start=771825><P Class=ENUSCC>&nbsp;
+<SYNC Start=772795><P Class=ENUSCC>다른 일족에게 보여준 적은<br>한번도 없어
+<SYNC Start=775044><P Class=ENUSCC>&nbsp;
+<SYNC Start=775371><P Class=ENUSCC>해독하기 위해서는 동력이 필요한<br>특별한 문장이지
+<SYNC Start=780376><P Class=ENUSCC>&nbsp;
+<SYNC Start=781324><P Class=ENUSCC>지금 내가 해독할 수 있는 데까지는<br>이리 적혀있어
+<SYNC Start=784315><P Class=ENUSCC>&nbsp;
+<SYNC Start=785381><P Class=ENUSCC><font color="#8080ff">한 신이 안정을 꿈꾸고</font>
+<SYNC Start=787717><P Class=ENUSCC><font color="#8080ff">음과 양으로 분극된<br>상반하는 두가지를 함께 사용하여</font>
+<SYNC Start=792171><P Class=ENUSCC><font color="#8080ff">삼라만상을 얻는다</font>
+<SYNC Start=793760><P Class=ENUSCC>&nbsp;
+<SYNC Start=795654><P Class=ENUSCC>이것은 모든 것을<br>아우르는 도리다
+<SYNC Start=798056><P Class=ENUSCC>&nbsp;
+<SYNC Start=798696><P Class=ENUSCC>즉 상반되는 두 힘이 협력하는 것으로
+<SYNC Start=803155><P Class=ENUSCC>진정한 행복이 있을 거라 말하고 있다
+<SYNC Start=805997><P Class=ENUSCC>&nbsp;
+<SYNC Start=806302><P Class=ENUSCC>하지만 다른 방식의 해석도 있지
+<SYNC Start=809414><P Class=ENUSCC>&nbsp;
+<SYNC Start=813493><P Class=ENUSCC>하시라마, 내가 아무 것도<br>모를 줄 알아?
+<SYNC Start=816546><P Class=ENUSCC>&nbsp;
+<SYNC Start=817273><P Class=ENUSCC>토비라마에 대한 건 나한테 맡겨줘
+<SYNC Start=819515><P Class=ENUSCC>너 없이는 하지 않을거야
+<SYNC Start=821489><P Class=ENUSCC>&nbsp;
+<SYNC Start=822057><P Class=ENUSCC>호카게의 오른팔로서<br>형제로서 함께 협력해줘
+<SYNC Start=825905><P Class=ENUSCC>&nbsp;
+<SYNC Start=826939><P Class=ENUSCC>언젠가 백성들도<br>네 좋은 점을 알게될거야
+<SYNC Start=829953><P Class=ENUSCC>&nbsp;
+<SYNC Start=830510><P Class=ENUSCC>그때 2대호카게로써
+<SYNC Start=832178><P Class=ENUSCC>너 다음엔
+<SYNC Start=833602><P Class=ENUSCC>&nbsp;
+<SYNC Start=833825><P Class=ENUSCC>아마 그 토비라마란 녀석이 <br>호카게가 되겠지
+<SYNC Start=836149><P Class=ENUSCC>&nbsp;
+<SYNC Start=837390><P Class=ENUSCC>그렇게 되면  우치하는<br>언젠가 사라지겠지
+<SYNC Start=840002><P Class=ENUSCC>&nbsp;
+<SYNC Start=840599><P Class=ENUSCC>그걸 알기에 마을을 떠나자고<br>우치하 일족에게 말을 해봤지만
+<SYNC Start=844557><P Class=ENUSCC>그 누구도 나를 따라올 사람은<br>없는 것 같다
+<SYNC Start=848293><P Class=ENUSCC>&nbsp;
+<SYNC Start=849378><P Class=ENUSCC>마다라
+<SYNC Start=850429><P Class=ENUSCC>&nbsp;
+<SYNC Start=851514><P Class=ENUSCC>동생도 지키질 못했어
+<SYNC Start=853603><P Class=ENUSCC>&nbsp;
+<SYNC Start=854318><P Class=ENUSCC>동생 대신에<br>일족을 지키겠다는 약속도
+<SYNC Start=857445><P Class=ENUSCC>지켜질 것 같지가 않다
+<SYNC Start=858671><P Class=ENUSCC>&nbsp;
+<SYNC Start=859722><P Class=ENUSCC>지키고 싶었던 같은 일족조차도<br>신용받지도 못 해
+<SYNC Start=862366><P Class=ENUSCC>&nbsp;
+<SYNC Start=863231><P Class=ENUSCC>그렇지 않아.
+<SYNC Start=864456><P Class=ENUSCC>모두 이제 곧...
+<SYNC Start=865525><P Class=ENUSCC>그 때, 너한테 동생을 죽이라고<br>단정지을 걸 그랬어
+<SYNC Start=870164><P Class=ENUSCC>&nbsp;
+<SYNC Start=871584><P Class=ENUSCC>너는 날 형제라 말했지
+<SYNC Start=873775><P Class=ENUSCC>하지만 마을을 위해서<br>어느쪽을 잘라낼거냐?
+<SYNC Start=877709><P Class=ENUSCC>&nbsp;
+<SYNC Start=881908><P Class=ENUSCC>난 너에 대한 거 잘 알고 있으니까
+<SYNC Start=885037><P Class=ENUSCC>&nbsp;
+<SYNC Start=885364><P Class=ENUSCC>이 이상은 무리야
+<SYNC Start=886868><P Class=ENUSCC>&nbsp;
+<SYNC Start=887984><P Class=ENUSCC>난 마을을 나가겠어
+<SYNC Start=890092><P Class=ENUSCC>&nbsp;
+<SYNC Start=891354><P Class=ENUSCC>난 다른 길을 찾아냈어
+<SYNC Start=893487><P Class=ENUSCC>&nbsp;
+<SYNC Start=894440><P Class=ENUSCC>속내를 다 드러내고나서야 보였어
+<SYNC Start=896651><P Class=ENUSCC>&nbsp;
+<SYNC Start=897376><P Class=ENUSCC>협력이란 말하자면<br>조용한 싸움일 뿐이야
+<SYNC Start=901363><P Class=ENUSCC>그렇지 않아!
+<SYNC Start=902964><P Class=ENUSCC>내가 그렇게 하진 않을거야
+<SYNC Start=904383><P Class=ENUSCC>&nbsp;
+<SYNC Start=905264><P Class=ENUSCC>'현실을 어떻게 받아들이냐'야,<br>하시라마
+<SYNC Start=907353><P Class=ENUSCC>&nbsp;
+<SYNC Start=908936><P Class=ENUSCC>하지만 비굴하게 구는 건 그만두자
+<SYNC Start=910999><P Class=ENUSCC>&nbsp;
+<SYNC Start=911563><P Class=ENUSCC>이 세상은 그저<br>여흥일 뿐이라고 보는게
+<SYNC Start=914141><P Class=ENUSCC>아직은 건전하겠지
+<SYNC Start=915241><P Class=ENUSCC>&nbsp;
+<SYNC Start=915378><P Class=ENUSCC>내 말을 듣고있는거야?
+<SYNC Start=917106><P Class=ENUSCC>&nbsp;
+<SYNC Start=917399><P Class=ENUSCC>마다라!
+<SYNC Start=917899><P Class=ENUSCC>&nbsp;
+<SYNC Start=918681><P Class=ENUSCC>나와 대등하게<br>싸울 수 있는 건 너밖에 없어
+<SYNC Start=921406><P Class=ENUSCC>&nbsp;
+<SYNC Start=924002><P Class=ENUSCC>진정한 꿈의 길에 갈때까지
+<SYNC Start=926496><P Class=ENUSCC>&nbsp;
+<SYNC Start=927594><P Class=ENUSCC>너와의 싸움을 즐기마
+<SYNC Start=930246><P Class=ENUSCC>&nbsp;
+<SYNC Start=938201><P Class=ENUSCC>진정한 꿈이란 게 뭐야?
+<SYNC Start=940405><P Class=ENUSCC>&nbsp;
+<SYNC Start=940673><P Class=ENUSCC>우리가 꿈꿨던 건 이 마을에 있잖아?!
+<SYNC Start=944367><P Class=ENUSCC>&nbsp;
+<SYNC Start=944657><P Class=ENUSCC>너는 보이지 않는거야
+<SYNC Start=947070><P Class=ENUSCC>이 다음이
+<SYNC Start=949232><P Class=ENUSCC>&nbsp;
+<SYNC Start=949412><P Class=ENUSCC>다음 꿈이
+<SYNC Start=951519><P Class=ENUSCC>&nbsp;
+<SYNC Start=955935><P Class=ENUSCC>그렇다면 그 다음의 꿈이란 걸 가르쳐줘
+<SYNC Start=959022><P Class=ENUSCC>&nbsp;
+<SYNC Start=960449><P Class=ENUSCC>이 마을의 꿈과 연결된다면
+<SYNC Start=962611><P Class=ENUSCC>인도자로써 네 힘이 필요해
+<SYNC Start=965027><P Class=ENUSCC>스승으로서도
+<SYNC Start=966615><P Class=ENUSCC>&nbsp;
+<SYNC Start=967253><P Class=ENUSCC>그리고 친구로서도
+<SYNC Start=970269><P Class=ENUSCC>&nbsp;
+<SYNC Start=972860><P Class=ENUSCC>연결되는 것 따윈 없어
+<SYNC Start=974900><P Class=ENUSCC>&nbsp;
+<SYNC Start=975337><P Class=ENUSCC>그리고 너는 절대 닿을 수 없어
+<SYNC Start=977792><P Class=ENUSCC>&nbsp;
+<SYNC Start=978760><P Class=ENUSCC>내 뒤를 따라가려 해도 소용없어
+<SYNC Start=981043><P Class=ENUSCC>너라면 알고 있잖아?
+<SYNC Start=983407><P Class=ENUSCC>&nbsp;
+<SYNC Start=983946><P Class=ENUSCC>내 뒤를 따르는 녀석따윈<br>없다는 걸
+<SYNC Start=986895><P Class=ENUSCC>&nbsp;
+<SYNC Start=990920><P Class=ENUSCC><font color="#e1c955">그렇게 말하곤 마다라는 마을을 나갔다</font>
+<SYNC Start=994520><P Class=ENUSCC>&nbsp;
+<SYNC Start=1010489><P Class=ENUSCC><font color="#e1c955">둘과 함께 다달은 곳</font>
+<SYNC Start=1012549><P Class=ENUSCC>&nbsp;
+<SYNC Start=1013225><P Class=ENUSCC><font color="#e1c955">마다라와 내가 원한 마을에</font>
+<SYNC Start=1015540><P Class=ENUSCC><font color="#e1c955">마다라는 사라졌다</font>
+<SYNC Start=1017234><P Class=ENUSCC>&nbsp;
+<SYNC Start=1020336><P Class=ENUSCC><font color="#e1c955">허나 세계에선 과거 대립한 라이벌</font>
+<SYNC Start=1023502><P Class=ENUSCC><font color="#e1c955">우치하와 센쥬가 손을 잡아 만들어낸</font>
+<SYNC Start=1026539><P Class=ENUSCC><font color="#e1c955">인족연합체(忍族連合体)인<br>마을시스템을</font>
+<SYNC Start=1029465><P Class=ENUSCC><font color="#e1c955">모두 높게 평가하고 본받았지</font>
+<SYNC Start=1032393><P Class=ENUSCC>&nbsp;
+<SYNC Start=1034330><P Class=ENUSCC><font color="#e1c955">불의 나라에서 시작한<br>나뭇잎마을과</font>
+<SYNC Start=1037350><P Class=ENUSCC><font color="#f58383">[불의 나라]</font><br><font color="#e1c955">마을을 통치하는 우두머리라는 시스템이</font>
+<SYNC Start=1040031><P Class=ENUSCC><font color="#f58383">[불의 나라]</font><br><font color="#e1c955">대국에 전달되었지</font>
+<SYNC Start=1042554><P Class=ENUSCC>&nbsp;
+<SYNC Start=1043697><P Class=ENUSCC><font color="#859cfa">[번개의 나라]</font><br><font color="#e1c955">번개의 나라엔 구름 마을을 시작으로</font>
+<SYNC Start=1046299><P Class=ENUSCC><font color="#859cfa">[번개의 나라]</font><br><font color="#e1c955">우두머리를 라이카게라 칭하고</font>
+<SYNC Start=1048343><P Class=ENUSCC>&nbsp;
+<SYNC Start=1049211><P Class=ENUSCC><font color="#fba884">[흙의 나라]</font><br><font color="#e1c955">흙의 나라엔 바위 마을을 시작으로</font>
+<SYNC Start=1051949><P Class=ENUSCC><font color="#fba884">[흙의 나라]</font><br><font color="#e1c955">우두머리를 츠치카게라 칭하고</font>
+<SYNC Start=1053776><P Class=ENUSCC>&nbsp;
+<SYNC Start=1054333><P Class=ENUSCC><font color="#7dcffb">[물의 나라]</font><br><font color="#e1c955">물의 나라엔 안개 마을을 시작으로</font>
+<SYNC Start=1057256><P Class=ENUSCC><font color="#7dcffb">[물의 나라]</font><br><font color="#e1c955">우두머리를 미즈카게라 칭하고</font>
+<SYNC Start=1059456><P Class=ENUSCC>&nbsp;
+<SYNC Start=1059805><P Class=ENUSCC><font color="#f9d880">[바람의 나라]</font><br><font color="#e1c955">그리고 바람의 나라엔</font>
+<SYNC Start=1062208><P Class=ENUSCC><font color="#f9d880">[바람의 나라]</font><br><font color="#e1c955">모래 마을을 시작으로</font>
+<SYNC Start=1063841><P Class=ENUSCC><font color="#f9d880">[바람의 나라]</font><br><font color="#e1c955">우두머리를 카제카게라 칭했다</font>
+<SYNC Start=1065856><P Class=ENUSCC>&nbsp;
+<SYNC Start=1066512><P Class=ENUSCC><font color="#e1c955">대국만이 아니라 소국도<br>이 시스템을 뒤따라갔지</font>
+<SYNC Start=1071562><P Class=ENUSCC><font color="#e1c955">마다라와 내 꿈이 이뤄진거다</font>
+<SYNC Start=1074204><P Class=ENUSCC>&nbsp;
+<SYNC Start=1078708><P Class=ENUSCC><font color="#e1c955">닌자의 아이들도 싸울 필요도 없이</font>
+<SYNC Start=1082050><P Class=ENUSCC><font color="#e1c955">배우고 노는 것을 알아가며</font>
+<SYNC Start=1084980><P Class=ENUSCC>&nbsp;
+<SYNC Start=1085489><P Class=ENUSCC><font color="#e1c955">술의 맛을 알 때까지<br>살 수 있게 되겠지</font>
+<SYNC Start=1088713><P Class=ENUSCC>&nbsp;
+<SYNC Start=1091461><P Class=ENUSCC><font color="#e1c955">허나 마다라는<br>과거의 꿈을 깨트리려는 것처럼</font>
+<SYNC Start=1095114><P Class=ENUSCC>&nbsp;
+<SYNC Start=1095441><P Class=ENUSCC><font color="#e1c955">나뭇잎 마을을 습격했다</font>
+<SYNC Start=1098013><P Class=ENUSCC>&nbsp;
+<SYNC Start=1099280><P Class=ENUSCC>지금까지의 것을 우리들의 노력을
+<SYNC Start=1102164><P Class=ENUSCC>허사로 만들 셈인가, 마다라?
+<SYNC Start=1104111><P Class=ENUSCC>&nbsp;
+<SYNC Start=1104267><P Class=ENUSCC>나와 네가 싸운다 한들<br>아무것도 낳지 못해
+<SYNC Start=1107136><P Class=ENUSCC>이 싸움은 마을과 닌자를<br>아프게 할 뿐이야
+<SYNC Start=1111524><P Class=ENUSCC>&nbsp;
+<SYNC Start=1111752><P Class=ENUSCC>우리들의 형제를..<br>동료를 모욕되게 할 뿐이야!
+<SYNC Start=1115553><P Class=ENUSCC>&nbsp;
+<SYNC Start=1116497><P Class=ENUSCC>네가 나를...
+<SYNC Start=1118831><P Class=ENUSCC>난 널 죽이고 싶지 않다
+<SYNC Start=1121333><P Class=ENUSCC>그건 날 언제든지<br>죽일 수 있다는 건가?
+<SYNC Start=1124641><P Class=ENUSCC>틀려, 우리들은 친구라고..
+<SYNC Start=1127356><P Class=ENUSCC>나는 이미 도달했다!
+<SYNC Start=1130543><P Class=ENUSCC>&nbsp;
+<SYNC Start=1134144><P Class=ENUSCC>하는 수 없지
+<SYNC Start=1135505><P Class=ENUSCC>&nbsp;
+<SYNC Start=1136599><P Class=ENUSCC>선법, 목둔 진수천수<br>(仙法, 木遁 真数千手)！
+<SYNC Start=1142199><P Class=ENUSCC>&nbsp;
+<SYNC Start=1144490><P Class=ENUSCC>간다, 마다라
+<SYNC Start=1145943><P Class=ENUSCC>&nbsp;
+<SYNC Start=1146069><P Class=ENUSCC>와라, 하시라마
+<SYNC Start=1147715><P Class=ENUSCC>&nbsp;
+<SYNC Start=1152048><P Class=ENUSCC>정상화불!<br>(頂上化仏)
+<SYNC Start=1154296><P Class=ENUSCC>&nbsp;
+<SYNC Start=1201564><P Class=ENUSCC>스사노오를 벗겨낸건가
+<SYNC Start=1203875><P Class=ENUSCC>&nbsp;
+<SYNC Start=1225897><P Class=ENUSCC>간다
+<SYNC Start=1226783><P Class=ENUSCC>&nbsp;
+<SYNC Start=1231945><P Class=ENUSCC>곽암 입전수수<br>(廓庵入廛垂手)!
+<SYNC Start=1234542><P Class=ENUSCC>&nbsp;
+<SYNC Start=1266061><P Class=ENUSCC>마다라!
+<SYNC Start=1268097><P Class=ENUSCC>하시라마!
+<SYNC Start=1270397><P Class=ENUSCC>&nbsp;
+<SYNC Start=1275936><P Class=ENUSCC><font color="#6266ff">こうして今も変わらず</font><br><font color="#9bdcff">이렇게 지금도 변함없이</font>
+<SYNC Start=1278154><P Class=ENUSCC><font color="#6266ff">どんな強く波にも逆らう</font><br><font color="#9bdcff">아무리 강한 파도라도 거슬러</font>
+<SYNC Start=1280654><P Class=ENUSCC>&nbsp;
+<SYNC Start=1280754><P Class=ENUSCC><font color="#6266ff">そこには仲間, 遥か彼方</font><br><font color="#9bdcff">아주 먼 그곳에는 동료</font>
+<SYNC Start=1283134><P Class=ENUSCC><font color="#6266ff">出会っだ全がオレの宝</font><br><font color="#9bdcff">만났던 모든 것이 내 보물이야</font>
+<SYNC Start=1285833><P Class=ENUSCC><font color="#6266ff">この空を羽ばたいてく</font><br><font color="#9bdcff">이 하늘을 날아올라</font>
+<SYNC Start=1288191><P Class=ENUSCC><font color="#6266ff">私から信じるあなたにエール</font><br><font color="#9bdcff">내가 믿는 당신에게 외쳐</font>
+<SYNC Start=1290896><P Class=ENUSCC>&nbsp;
+<SYNC Start=1291175><P Class=ENUSCC><font color="#6266ff">時には笑い泣いて</font><br><font color="#9bdcff">가끔은 웃고 울지만</font>
+<SYNC Start=1293140><P Class=ENUSCC>&nbsp;
+<SYNC Start=1293346><P Class=ENUSCC><font color="#6266ff">どんな踏まれようと花は咲いてる</font><br><font color="#9bdcff">아무리 밟혀도 꽃은 피어나</font>
+<SYNC Start=1296455><P Class=ENUSCC>&nbsp;
+<SYNC Start=1299353><P Class=ENUSCC><font color="#6266ff">たって, 決めだから。</font><br><font color="#9bdcff">그야 정했으니까</font>
+<SYNC Start=1301519><P Class=ENUSCC><font color="#6266ff">どんなに踏まれても咲いてた花</font><br><font color="#9bdcff">아무리 밟혀도 피어났던 꽃</font>
+<SYNC Start=1303560><P Class=ENUSCC>&nbsp;
+<SYNC Start=1304277><P Class=ENUSCC><font color="#6266ff">...のようにもっと高く</font><br><font color="#9bdcff">...처럼 더 높게</font>
+<SYNC Start=1306742><P Class=ENUSCC><font color="#6266ff">それが何よりも力放つ</font><br><font color="#9bdcff">그게 없을 때보다 더 힘을 발하지</font>
+<SYNC Start=1309323><P Class=ENUSCC><font color="#6266ff">あいつの分まで強く生きて</font><br><font color="#9bdcff">그 녀석의 몫까지 강하게 살고</font>
+<SYNC Start=1311860><P Class=ENUSCC><font color="#6266ff">誰にも負けない 強い意志で</font><br><font color="#9bdcff">그 누구에게도 지지 않을 강한 의지로</font>
+<SYNC Start=1314966><P Class=ENUSCC><font color="#6266ff">進め きっと進める</font><br><font color="#9bdcff">나아갈 거야 분명 나아갈 수 있을 거야</font>
+<SYNC Start=1317189><P Class=ENUSCC><font color="#6266ff">誰もみたことない世界を作れる</font><br><font color="#9bdcff">그 누구도 본 적 없는 세상을 만들어</font>
+<SYNC Start=1319708><P Class=ENUSCC><font color="#6266ff">怖くない そばにいる限り</font><br><font color="#9bdcff">곁에 있는 한 두렵지 않아</font>
+<SYNC Start=1322386><P Class=ENUSCC><font color="#6266ff">周りには仲間やファミリー</font><br><font color="#9bdcff">주변은 동료야 Family</font>
+<SYNC Start=1324894><P Class=ENUSCC><font color="#6266ff">その力が道しるべになる</font><br><font color="#9bdcff">그 힘이 길잡이가 될 거야</font>
+<SYNC Start=1327509><P Class=ENUSCC><font color="#6266ff">みんなから漏らったこの手にLove</font><br><font color="#9bdcff">모두에게 받은 이 손에 Love</font>
+<SYNC Start=1330252><P Class=ENUSCC><font color="#6266ff">この街に吹く風に乗る</font><br><font color="#9bdcff">이 마을에 부는 바람에 타봐</font>
+<SYNC Start=1332838><P Class=ENUSCC><font color="#6266ff">ゴールはまだほど遠く</font><br><font color="#9bdcff">골은 아직 한참 멀었어</font>
+<SYNC Start=1335313><P Class=ENUSCC><font color="#6266ff">ても知ってる まだやれんだって</font><br><font color="#9bdcff">하지만 알고 있어. 아직 할 수 있다는 거</font>
+<SYNC Start=1337696><P Class=ENUSCC><font color="#6266ff">たから叫ぶ この音枯れるまで</font><br><font color="#9bdcff">그러니 외치겠어 이 목소리가 쉴 때까지</font>
+<SYNC Start=1339879><P Class=ENUSCC><font color="#8337ff">この世界は視えぬものばかりで</font><br><font color="#f4bbff">이 세계는 보이지 않는 것뿐이라서</font>
+<SYNC Start=1344512><P Class=ENUSCC><font color="#8337ff">怖いから自分自身を傷付けた</font><br><font color="#f4bbff">두려워서 자기 자신을 괴롭혔어</font>
+<SYNC Start=1350176><P Class=ENUSCC><font color="#8337ff">切り裂いた闇の先に見えたもの</font><br><font color="#f4bbff">어둠을 가른 끝에 보였던 건</font>
+<SYNC Start=1355001><P Class=ENUSCC><font color="#8337ff">真っ直ぐに見据えたままで</font><br><font color="#f4bbff">곧았던 길 그대로라서</font>
+<SYNC Start=1359502><P Class=ENUSCC>&nbsp;
+<SYNC Start=1359848><P Class=ENUSCC><font color="#8337ff">離さない</font><br><font color="#f4bbff">놓칠 수 없어</font>
+<SYNC Start=1364432><P Class=ENUSCC>&nbsp;
+<SYNC Start=1367878><P Class=ENUSCC><font color="#808080">이 상황을 만들어낸 닌자는 나다</font>
+<SYNC Start=1371018><P Class=ENUSCC><font color="#808080">그리고 닌자란 목표를 향해<br>참고 견디는 자라 생각한다</font>
+<SYNC Start=1375958><P Class=ENUSCC>&nbsp;
+<SYNC Start=1376623><P Class=ENUSCC><font color="#808080">참고 견디는 자..</font>
+<SYNC Start=1378082><P Class=ENUSCC>&nbsp;
+<SYNC Start=1378773><P Class=ENUSCC><font color="#808080">자, 사스케</font>
+<SYNC Start=1380191><P Class=ENUSCC>&nbsp;
+<SYNC Start=1380414><P Class=ENUSCC><font color="#808080">어떻게 할거니?</font>
+<SYNC Start=1380958><P Class=ENUSCC>&nbsp;
+<SYNC Start=1381788><P Class=ENUSCC><font color="#808080">마을을 부술건가<br>아니면...</font>
+<SYNC Start=1384415><P Class=ENUSCC>&nbsp;
+<SYNC Start=1386068><P Class=ENUSCC><font color="#808080">다음화 나루토 질풍전</font>
+<SYNC Start=1388320><P Class=ENUSCC>&nbsp;
+<SYNC Start=1389272><P Class=ENUSCC><font color="#808080">사스케의 대답</font>
+<SYNC Start=1391728><P Class=ENUSCC><font color="#808080">난...</font>
+<SYNC Start=1393728><P Class=ENUSCC>&nbsp;
+<SYNC Start=1395090><P Class=ENUSCC><font color=gold>『Looddy』</font>
+<SYNC Start=1396331><P Class=ENUSCC>&nbsp;
+<SYNC Start=1396552><P Class=ENUSCC><font color=gold>『루디』</font>
+<SYNC Start=1397754><P Class=ENUSCC><font color=gold>☆Looddy☆<br>나루토 자막카페::<br>【cafe.naver.com/narutosmi】</font>
+<SYNC Start=1399175><P Class=ENUSCC>&nbsp;
+<SYNC Start=1399405><P Class=ENUSCC><font color=#FAEB78>나루토 자막 카페 입니다^^<br><Font Color=cornsilk>http://cafe.naver.com/narutosmi</font>
+<SYNC Start=1401902><P Class=ENUSCC><font color=red>※무단 배포 및 동의 없이 사용 금지※</font><br><font color=orange>★출처를 꼭 남겨주시기 바랍니다★
+<SYNC Start=1405084><P Class=ENUSCC>&nbsp;
+</BODY>
+</SAMI>

@@ -1,0 +1,851 @@
+<SAMI>
+<HEAD>
+<TITLE>Netshow 3.0 - Close Captioning Sample</TITLE>
+<STYLE TYPE="text/css">
+<!--
+P { margin-left:8pt; margin-right:8pt; margin-bottom:2pt;
+    margin-top:2pt; font-size:12pt; text-align:left;
+    font-family:arial, sans-serif; font-weight:normal; color:white;
+    }
+.KRCC { Name:Korean; lang:kr-KR; SAMIType:CC; }
+#STDPrn { Name:Standard Print; }
+#LargePrn { Name:Large Print; font-size:20pt; }
+#SmallPrn { Name:Small Print; font-size:10pt; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<SYNC Start=300><P Class=KRCC>
+<font color=red>The Fighting 1st Opening Theme<br>
+<font color=lightgreen>Under Star<br>
+<font color=#FFFF99>Song by Shocking Lemon
+<SYNC Start=3646><P Class=KRCC>
+<font color=FFFF80>
+<ruby>流星<rt>りゅうせい</ruby>の&nbsp;<ruby>愛<rt>あい</ruby>が&nbsp;<ruby>君<rt>きみ</ruby>に<br><font color=9DFFFF>
+유성의 사랑이 너에게
+<SYNC Start=7115><P Class=KRCC>&nbsp;
+<SYNC Start=9034><P Class=KRCC>
+<font color=FFFF80>
+<ruby>一瞬<rt>いっしゅん</ruby>の&nbsp;<ruby>光<rt>ひかり</ruby>&nbsp;<ruby>送<rt>おく</ruby>ってる… Yeah<br><font color=9DFFFF>
+한순간의 빛을 보내고 있어… Yeah
+<SYNC Start=14007><P Class=KRCC>&nbsp;
+<SYNC Start=14452><P Class=KRCC>
+<font color=FFFF80>
+<ruby>永遠<rt>えいえん</ruby>の&nbsp;<ruby>夢<rt>ゆめ</ruby>を&nbsp;<ruby>見<rt>み</ruby>て…<br><font color=9DFFFF>
+영원한 꿈을 봐…
+<SYNC Start=17870><P Class=KRCC>&nbsp;
+<SYNC Start=19054><P Class=KRCC>
+<font color=FFFF80>
+Rolling go<br><font color=9DFFFF>
+Rolling go
+<SYNC Start=22598><P Class=KRCC>&nbsp;
+<SYNC Start=25262><P Class=KRCC>
+<font color=FFFF80>
+<ruby>何<rt>なに</ruby>も&nbsp;<ruby>考<rt>かんが</ruby>えずに<br><font color=9DFFFF>
+아무것도 생각하지 않고 단지
+<SYNC Start=30129><P Class=KRCC>&nbsp;
+<SYNC Start=30679><P Class=KRCC>
+<font color=FFFF80>
+<ruby>今<rt>いま</ruby>を&nbsp;<ruby>生<rt>い</ruby>きる だけの<br><font color=9DFFFF>
+지금을 살아가는 것만이
+<SYNC Start=35427><P Class=KRCC>&nbsp;
+<SYNC Start=36101><P Class=KRCC>
+<font color=FFFF80>
+<ruby>僕<rt>ぼく</ruby>を&nbsp;<ruby>支<rt>ささ</ruby>えて いる…Street song<br><font color=9DFFFF>
+나를 지탱해주고 있어…Street song
+<SYNC Start=42931><P Class=KRCC>&nbsp;
+<SYNC Start=46901><P Class=KRCC>
+<font color=FFFF80>
+I want to dive lost mind…<br><font color=9DFFFF>
+I want to dive lost mind…
+<SYNC Start=49626><P Class=KRCC>
+<font color=FFFF80>
+I want to dive lost mind…<br><font color=9DFFFF>
+I want to dive lost mind…
+<SYNC Start=52284><P Class=KRCC>
+<font color=FFFF80>
+I want feeling, I want feeling いつも<br><font color=9DFFFF>
+I want feeling, I want feeling 언제나
+<SYNC Start=57713><P Class=KRCC>
+<font color=FFFF80>
+I want to dive lost mind…<br><font color=9DFFFF>
+I want to dive lost mind…
+<SYNC Start=60329><P Class=KRCC>
+<font color=FFFF80>
+I want to dive lost mind…<br><font color=9DFFFF>
+I want to dive lost mind…
+<SYNC Start=63049><P Class=KRCC>
+<font color=FFFF80>
+why, why, why, why, I want to dive! feeling over<br><font color=9DFFFF>
+why, why, why, why, I want to dive! feeling over
+<SYNC Start=68470><P Class=KRCC>
+<font color=FFFF80>
+<ruby>流星<rt>りゅうせい</ruby>の&nbsp;<ruby>愛<rt>あい</ruby>が&nbsp;<ruby>君<rt>きみ</ruby>に<br><font color=9DFFFF>
+유성의 사랑이 너에게
+<SYNC Start=71882><P Class=KRCC>&nbsp;
+<SYNC Start=73897><P Class=KRCC>
+<font color=FFFF80>
+<ruby>一瞬<rt>いっしゅん</ruby>の&nbsp;<ruby>光<rt>ひかり</ruby>&nbsp;<ruby>送<rt>おく</ruby>ってる… Yeah<br><font color=9DFFFF>
+한순간의 빛을 보내고 있어… Yeah
+<SYNC Start=78846><P Class=KRCC>&nbsp;
+<SYNC Start=79284><P Class=KRCC>
+<font color=FFFF80>
+<ruby>永遠<rt>えいえん</ruby>の&nbsp;<ruby>夢<rt>ゆめ</ruby>を&nbsp;<ruby>見<rt>み</ruby>て…<br><font color=9DFFFF>
+영원한 꿈을 봐…
+<SYNC Start=82681><P Class=KRCC>&nbsp;
+<SYNC Start=83796><P Class=KRCC>
+<font color=FFFF80>
+Rolling go<br><font color=9DFFFF>
+Rolling go
+<SYNC Start=87430><P Class=KRCC>&nbsp;
+<SYNC Start=95074><P Class=KRCC>
+바보 녀석, 거북이다. 거북이!<BR>가드를 올려!
+<SYNC Start=98953><P Class=KRCC>&nbsp;
+<SYNC Start=99710><P Class=KRCC>
+아! 거북이다!
+<SYNC Start=101669><P Class=KRCC>&nbsp;
+<SYNC Start=111811><P Class=KRCC>
+아..아! 저 바보 녀석이..<BR>일보! 일어나, 일어나!
+<SYNC Start=116650><P Class=KRCC>&nbsp;
+<SYNC Start=117095><P Class=KRCC>
+흥! 저 정도인가?
+<SYNC Start=118732><P Class=KRCC>&nbsp;
+<SYNC Start=119197><P Class=KRCC>
+뭐.. 뭐야?
+<SYNC Start=120348><P Class=KRCC>&nbsp;
+<SYNC Start=120847><P Class=KRCC>
+보디를 맞아서..
+<SYNC Start=122811><P Class=KRCC>&nbsp;
+<SYNC Start=126275><P Class=KRCC>
+그 다음은 모르겠어..
+<SYNC Start=129064><P Class=KRCC>&nbsp;
+<SYNC Start=129942><P Class=KRCC>
+<font face="고딕" color=red>Round 3<BR><Font Color=yellow>『 기쁨의 눈물 』
+<SYNC Start=135657><P Class=KRCC>&nbsp;
+<SYNC Start=141506><P Class=KRCC>
+.. 4.. 5.. 응?
+<SYNC Start=145376><P Class=KRCC>&nbsp;
+<SYNC Start=158022><P Class=KRCC>
+오~! 조금은 근성이 있군!
+<SYNC Start=160977><P Class=KRCC>
+다카무라군이 데려올 정도는 되나요?
+<SYNC Start=164058><P Class=KRCC>
+왜, 가드를 내린 거야?
+<SYNC Start=166153><P Class=KRCC>
+보디를 맞게 되어서 어쩔 수 없이..
+<SYNC Start=168896><P Class=KRCC>
+카운트 8 이다!<BR>/ 이렇게 양손을 올려!
+<SYNC Start=172191><P Class=KRCC>
+어~이! 왜, 링을 쓰고 있는 거야?
+<SYNC Start=175316><P Class=KRCC>
+우리들이 스파링하기로 되 있잖아?
+<SYNC Start=178088><P Class=KRCC>
+몰라! 다카무라씨가 뭔가,<BR>이상한 녀석을 데려왔나 봐.
+<SYNC Start=182200><P Class=KRCC>
+이상한 녀석?
+<SYNC Start=183669><P Class=KRCC>
+다카무라씨 이상으로 이상한 녀석은<BR>이 근방에 없을 텐데..
+<SYNC Start=186759><P Class=KRCC>
+그거 말 되는군.
+<SYNC Start=188335><P Class=KRCC>
+알겠어? 잊지 말라고, 거북이다.
+<SYNC Start=190542><P Class=KRCC>
+어쨌든, 이번 라운드가 끝날 때까지<BR>쭉 가드를 올리고 버티는 거다.
+<SYNC Start=194338><P Class=KRCC>
+네!<BR>/ 파이트!
+<SYNC Start=195758><P Class=KRCC>
+무슨 일이 있어도 내리지마! 알겠어?<BR>/ 네!
+<SYNC Start=198805><P Class=KRCC>&nbsp;
+<SYNC Start=211277><P Class=KRCC>
+그래! 그대로 가드를 내리지마!
+<SYNC Start=213617><P Class=KRCC>
+뭡니까? 저거.<BR>/ 초보자?
+<SYNC Start=216753><P Class=KRCC>
+뭘, 흥분하고 그럽니까?
+<SYNC Start=218961><P Class=KRCC>
+우리들의 스파링 예정이었다고요.
+<SYNC Start=221284><P Class=KRCC>
+시끄러워! 이 몸이 전세 냈다!<BR>/ 크.. 열받아!
+<SYNC Start=225762><P Class=KRCC>
+관장님이 시킨 것 같아요.<BR>/ 응? 그래?
+<SYNC Start=229419><P Class=KRCC>&nbsp;
+<SYNC Start=230884><P Class=KRCC>
+' 다카무라씨가 시킨 대로하는 건가? '
+<SYNC Start=233508><P Class=KRCC>
+' 무르군, 물러! '
+<SYNC Start=235132><P Class=KRCC>&nbsp;
+<SYNC Start=239669><P Class=KRCC>
+아..! 바보녀석이..
+<SYNC Start=241389><P Class=KRCC>&nbsp;
+<SYNC Start=245065><P Class=KRCC>
+말 그대로 뻗었군!
+<SYNC Start=247346><P Class=KRCC>
+과연, 복싱을 알고있어!<BR>/ 그럼, 시작할까?
+<SYNC Start=251687><P Class=KRCC>
+바 ~ 보!
+<SYNC Start=253233><P Class=KRCC>
+가드 내리지 말라고 했잖아?
+<SYNC Start=256490><P Class=KRCC>&nbsp;
+<SYNC Start=256950><P Class=KRCC>
+하.. 하지만..
+<SYNC Start=260121><P Class=KRCC>
+전혀, 틀리..다.구..
+<SYNC Start=264242><P Class=KRCC>
+흥! 끝인가?
+<SYNC Start=266261><P Class=KRCC>&nbsp;
+<SYNC Start=267538><P Class=KRCC>
+바보녀석! 복서가 되지 못해도 괜찮아?
+<SYNC Start=271830><P Class=KRCC>
+아니면, 너의 결심은<BR>그 정도 밖에 안 되는 거야?
+<SYNC Start=276012><P Class=KRCC>
+나뭇잎 10장 잡을 때의 기합은 어디 갔어?
+<SYNC Start=280183><P Class=KRCC>&nbsp;
+<SYNC Start=288978><P Class=KRCC>
+그래! 나는..
+<SYNC Start=292688><P Class=KRCC>
+복서가.. 될 거야!
+<SYNC Start=296814><P Class=KRCC>&nbsp;
+<SYNC Start=300734><P Class=KRCC>
+어이! 또, 일어났어!<BR>/ 응! 맞는데는 강한 녀석이구만..
+<SYNC Start=305759><P Class=KRCC>
+좋~아! 잘 일어났다!
+<SYNC Start=307667><P Class=KRCC>
+이대로 끝내버리게 되면,<BR>꿈은 이룰 수 없어!
+<SYNC Start=310958><P Class=KRCC>
+어쨌든, 거북이다.
+<SYNC Start=312462><P Class=KRCC>
+1 라운드 끝날 때까지 버티는 거다.
+<SYNC Start=314627><P Class=KRCC>
+흥! 파이트!
+<SYNC Start=317098><P Class=KRCC>
+칫.. 다음으로 3번째,<BR>이걸로 끝이다!
+<SYNC Start=321382><P Class=KRCC>&nbsp;
+<SYNC Start=323192><P Class=KRCC>
+바보! 꽉 잡혀서는..
+<SYNC Start=326228><P Class=KRCC>&nbsp;
+<SYNC Start=327177><P Class=KRCC>
+으.헤.헤! 굉장한 연타<BR>/ 도망가! 다리를 쓰라고, 다리를..
+<SYNC Start=333647><P Class=KRCC>
+다..다리?
+<SYNC Start=335898><P Class=KRCC>&nbsp;
+<SYNC Start=338325><P Class=KRCC>
+그건, 뭐야? 좀 더<BR>스마트하게는 못하는 거야?
+<SYNC Start=341237><P Class=KRCC>
+하지만..
+<SYNC Start=342970><P Class=KRCC>&nbsp;
+<SYNC Start=347796><P Class=KRCC>
+' 가드를 내리게 될 때가 끝이다. '
+<SYNC Start=350090><P Class=KRCC>
+' 절대 안 내린다! 힘낼 꺼야 '
+<SYNC Start=353049><P Class=KRCC>
+아..아! 이번은 끈질기네요<BR>가드를 내리지 말라고
+<SYNC Start=357040><P Class=KRCC>
+' 1 라운드 종료까지 앞으로 1분.. '
+<SYNC Start=359090><P Class=KRCC>
+' 미야타는 방심한 나머지 오른손을 쓰지 않고 있어 '
+<SYNC Start=362213><P Class=KRCC>
+' 왼손 밖에 나오지 않는 지금이라면<BR>어떻게든 버틸 수 있어! '
+<SYNC Start=365093><P Class=KRCC>
+하지만, 저렇게 연타하는데<BR>쓰러트리지 못하는 건가?
+<SYNC Start=368071><P Class=KRCC>
+미야타도 의외로 펀치력 없구만..
+<SYNC Start=370643><P Class=KRCC>&nbsp;
+<SYNC Start=371106><P Class=KRCC>
+칫!<BR>/ 위험해!
+<SYNC Start=374822><P Class=KRCC>&nbsp;
+<SYNC Start=378910><P Class=KRCC>
+끝났다!
+<SYNC Start=380439><P Class=KRCC>&nbsp;
+<SYNC Start=387746><P Class=KRCC>
+뭐야?<BR>/ 거짓말..?
+<SYNC Start=389992><P Class=KRCC>
+다행이다!<BR>/ 뭐야?
+<SYNC Start=392925><P Class=KRCC>&nbsp;
+<SYNC Start=396808><P Class=KRCC>
+미야타의 라이트를 맞고도<BR>서서 버티고 있어!
+<SYNC Start=399511><P Class=KRCC>&nbsp;
+<SYNC Start=399882><P Class=KRCC>
+제길!
+<SYNC Start=401345><P Class=KRCC>&nbsp;
+<SYNC Start=413312><P Class=KRCC>
+사.. 살았다!
+<SYNC Start=415807><P Class=KRCC>&nbsp;
+<SYNC Start=416224><P Class=KRCC>
+뭐라, 뭐라 해도 1라운드를 견뎌냈어!
+<SYNC Start=419070><P Class=KRCC>
+초보자가..?<BR>믿을 수 없어!
+<SYNC Start=422234><P Class=KRCC>&nbsp;
+<SYNC Start=423527><P Class=KRCC>
+잘 버텼다! 이 녀석!
+<SYNC Start=425737><P Class=KRCC>&nbsp;
+<SYNC Start=426278><P Class=KRCC>
+굉장해요.. 보셨어요..?
+<SYNC Start=428828><P Class=KRCC>
+보디를 정확히.. 노리고 있어요.
+<SYNC Start=432331><P Class=KRCC>
+굉장하다! 같은 나이 인데..
+<SYNC Start=435370><P Class=KRCC>
+그런 것도 할 수 있다니..<BR>/ 그런 건, 기본이라구..!
+<SYNC Start=439208><P Class=KRCC>
+그것보다, 너.. <BR>왜, 그렇게 맵집이 좋은 거야?
+<SYNC Start=442427><P Class=KRCC>
+설마, 매일 이지메 당하고 있으니까,<BR>아무리 맞아도 괜찮다는 건 아니겠지?
+<SYNC Start=447755><P Class=KRCC>
+그런 걸 까나?!<BR>그래도 연습용 글러브라도 아프네요.
+<SYNC Start=452883><P Class=KRCC>
+아직도, 머리 속이 빙빙 돌아요.
+<SYNC Start=455263><P Class=KRCC>
+그런 것 치고, 말은 잘 하잖아?
+<SYNC Start=457394><P Class=KRCC>
+그.. 그렇습니다! 대발견 입니다.
+<SYNC Start=460607><P Class=KRCC>
+아프지만, 아프지 않구나..!<BR>/ 아? 뭐야, 그게..?
+<SYNC Start=465732><P Class=KRCC>
+뭐라고 할까, 이지메 당할 때는
+<SYNC Start=468706><P Class=KRCC>
+몸이 아프다기 보다는, 자기가 한심해서
+<SYNC Start=471538><P Class=KRCC>
+더할 나위 없이 괴로웠지만..
+<SYNC Start=475619><P Class=KRCC>
+뭐랄까, 지금은 아무리 맞아도<BR>' 힘내자!' 라고 일어설 수 있어요
+<SYNC Start=481836><P Class=KRCC>
+' 머리라도 잘 못 맞았나? '
+<SYNC Start=483671><P Class=KRCC>&nbsp;
+<SYNC Start=484311><P Class=KRCC>
+어때, 발은 쓸 수 있어?
+<SYNC Start=486211><P Class=KRCC>
+제대로 움직이냐고?<BR>/ 네! 어떻게든..
+<SYNC Start=489757><P Class=KRCC>
+좋~아! 2 라운드부터는 이쪽도 공격한다.
+<SYNC Start=493222><P Class=KRCC>
+하지만, 저.. 제가 먼저 누굴 때려 본적이 없어서
+<SYNC Start=497238><P Class=KRCC>
+어떻게 해야 할지..?
+<SYNC Start=498517><P Class=KRCC>
+바보녀석! 가르쳐 줬었잖아?!<BR>/ 응? 아.. 잽!!
+<SYNC Start=503245><P Class=KRCC>
+그래! 알겠어? 허둥지둥 움직여도<BR>미야타는 붙잡을 수 없어.
+<SYNC Start=507700><P Class=KRCC>
+발을 끌며, 천천히 접근 하는 거다.<BR>/ 네!
+<SYNC Start=510373><P Class=KRCC>
+자기의 사정거리는 알고 있지?<BR>/ 네?
+<SYNC Start=512879><P Class=KRCC>
+나뭇잎을 잡던 그 거리다.<BR>/ 네!
+<SYNC Start=515328><P Class=KRCC>
+가능할 것 같으면, 라이트도 써!
+<SYNC Start=517498><P Class=KRCC>
+미야타, 뭘 하고 있어?<BR>2 라운드가 돼 버렸잖아!
+<SYNC Start=521042><P Class=KRCC>
+적당히 봐 주는 거야?<BR>/ 너무, 초보자에게 얕보이지 마!
+<SYNC Start=524463><P Class=KRCC>
+상대는 한발도 펀치 안 뻗으니까,<BR>샌드백이랑 똑같잖아.
+<SYNC Start=528797><P Class=KRCC>
+알고있어요. <BR>' 귀찮게 됐군.. '
+<SYNC Start=533394><P Class=KRCC>
+' 하지만, 다카무라씨가 세컨드다.<BR>뭘 꾸미고 있을지..? '
+<SYNC Start=537928><P Class=KRCC>&nbsp;
+<SYNC Start=545027><P Class=KRCC>
+오~! 파이팅 포즈를 취한 건가?
+<SYNC Start=548627><P Class=KRCC>&nbsp;
+<SYNC Start=549361><P Class=KRCC>
+겨드랑이는 붙이고 주먹은 눈높이로..
+<SYNC Start=553745><P Class=KRCC>
+뭐야? 중얼중얼 거리기는..
+<SYNC Start=556956><P Class=KRCC>
+헤~에! 바뀌었잖아!<BR>/ 허풍이야, 허풍!
+<SYNC Start=561159><P Class=KRCC>
+' 어떨까..? '
+<SYNC Start=563591><P Class=KRCC>&nbsp;
+<SYNC Start=565009><P Class=KRCC>
+아직 이 거리로는 나뭇잎을 잡을 수 없어!
+<SYNC Start=567551><P Class=KRCC>&nbsp;
+<SYNC Start=569634><P Class=KRCC>
+아직 이다, 아직..!
+<SYNC Start=571681><P Class=KRCC>&nbsp;
+<SYNC Start=572439><P Class=KRCC>
+조금만, 더..
+<SYNC Start=574049><P Class=KRCC>
+' 뭘 하려는지, 시험해 볼까! '
+<SYNC Start=576724><P Class=KRCC>
+들어왔다!
+<SYNC Start=578448><P Class=KRCC>&nbsp;
+<SYNC Start=581974><P Class=KRCC>
+오! 잽을 날렸다!<BR>/ 대단한 잽이다..?
+<SYNC Start=584949><P Class=KRCC>&nbsp;
+<SYNC Start=587152><P Class=KRCC>
+빨라..!<BR>초보자가 아닌 건가..?
+<SYNC Start=589355><P Class=KRCC>
+제법인데, 초보자군!<BR>/ 꽤, 빠르다고..
+<SYNC Start=593156><P Class=KRCC>
+' 좋은 잽을 갖고 있잖아!<BR>하지만, 그 이상은.. '
+<SYNC Start=597499><P Class=KRCC>&nbsp;
+<SYNC Start=598425><P Class=KRCC>
+어?<BR>/ 지금이다, 라이트!<BR>/ 네!
+<SYNC Start=602421><P Class=KRCC>&nbsp;
+<SYNC Start=605992><P Class=KRCC>
+뭐야? 잽은 그냥 허풍인가?
+<SYNC Start=609884><P Class=KRCC>&nbsp;
+<SYNC Start=610386><P Class=KRCC>
+지금 것은 도대체 뭐야?<BR>제대로 스트레이트도 가르쳐 줬잖아.
+<SYNC Start=614062><P Class=KRCC>
+에?!<BR>/ 잊어먹었어?
+<SYNC Start=616719><P Class=KRCC>
+처음으로 여기서 샌드백 쳤을 때<BR>일을 기억해 봐!
+<SYNC Start=620236><P Class=KRCC>
+아?
+<SYNC Start=621779><P Class=KRCC>&nbsp;
+<SYNC Start=625935><P Class=KRCC>
+에~또, 중요한 건,<BR>파고드는 것과 허리의 회전이었지..
+<SYNC Start=630941><P Class=KRCC>&nbsp;
+<SYNC Start=630987><P Class=KRCC>
+겨드랑이를 붙이고,
+<SYNC Start=632370><P Class=KRCC>
+나뭇잎을 잡던 거리와..<BR>/ 또, 시작했다!
+<SYNC Start=636154><P Class=KRCC>&nbsp;
+<SYNC Start=637876><P Class=KRCC>
+' 굉장한 잽 이라는 건 인정하지만,<BR>맞아 줄 수는 없다고.. '
+<SYNC Start=642125><P Class=KRCC>
+미야타 녀석 잘 하는군!<BR>/ 다카무라씨도 놀라는 건가?
+<SYNC Start=646391><P Class=KRCC>
+미야타의 테크닉은<BR>노 라이센스의 수준이 아니니까..
+<SYNC Start=649504><P Class=KRCC>
+자기보다 잘 하니까,<BR>열받는 건지도..
+<SYNC Start=653107><P Class=KRCC>&nbsp;
+<SYNC Start=654177><P Class=KRCC>
+기세가 흐트러졌다.<BR>하지만, 여기서는 참아야 한다
+<SYNC Start=658215><P Class=KRCC>&nbsp;
+<SYNC Start=660650><P Class=KRCC>
+' 팔..이 무거..워! '
+<SYNC Start=662974><P Class=KRCC>
+' 슬슬 팔이 저려올 거다. '<BR>/ ' 죽을 만큼 무..거워! '
+<SYNC Start=668997><P Class=KRCC>
+' 조~금만 더! '<BR>/ 하... 하.. 하. 하.하!
+<SYNC Start=673816><P Class=KRCC>
+그~럼!<BR>/ 죽을 만큼 무겁지만..
+<SYNC Start=677243><P Class=KRCC>
+그만둘 수는 없단 말이다.
+<SYNC Start=680192><P Class=KRCC>&nbsp;
+<SYNC Start=685535><P Class=KRCC>
+지금이다!
+<SYNC Start=686919><P Class=KRCC>&nbsp;
+<SYNC Start=687121><P Class=KRCC>
+다리, 허리, 팔..<BR>/ 뭐야?!
+<SYNC Start=693682><P Class=KRCC>
+가드를..<BR>/ 날려버렸다!?
+<SYNC Start=696014><P Class=KRCC>
+Lucky ! 가~라!
+<SYNC Start=699258><P Class=KRCC>
+한발 더!
+<SYNC Start=701020><P Class=KRCC>&nbsp;
+<SYNC Start=702636><P Class=KRCC>
+<font face="고딕" color=#FFCCFF>【 <font face="고딕" color=#FF99FF>T<font face="고딕" color=#FF66FF>h<font face="고딕" color=#FF33FF>e <font face="고딕" color=#FF00FF>F<font face="고딕" color=#FFCCCC>i<font face="고딕" color=#FF99CC>g<font face="고딕" color=#FF66CC>h<font face="고딕" color=#FF33CC>t<font face="고딕" color=#FF00FF>i<font face="고딕" color=#FFCC99>n<font face="고딕" color=#FF9999>g <font face="고딕" color=#000000>☆ <font face="고딕" color=#FF6699>R<font face="고딕" color=#FF3399>o<font face="고딕" color=#FF0099>u<font face="고딕" color=#FFCC66>n<font face="고딕" color=#FF9966>d <font face="고딕" color=#FF6666>0<font face="고딕" color=#FF3366>3<font face="고딕" color=#FF0066> 】
+<BR><Font Color=lightgreen>Caption by <font face="고딕" color=black>『 無名氏 』
+<SYNC Start=707388><P Class=KRCC>&nbsp;
+<SYNC Start=712196><P Class=KRCC>
+가드를..<BR>/ Lucky!
+<SYNC Start=714951><P Class=KRCC>
+가~라!<BR>/ 한 발 더!
+<SYNC Start=718283><P Class=KRCC>&nbsp;
+<SYNC Start=732000><P Class=KRCC>
+아깝다!<BR>/ 지금 것이 들어갔다면..
+<SYNC Start=734390><P Class=KRCC>
+펀치력은 있어 보이네..<BR>/ 저 녀석 꽤 하잖아?!
+<SYNC Start=737128><P Class=KRCC>
+아까웠어!<BR>/ 레프트도 라이트도 꽤 좋던데..
+<SYNC Start=742521><P Class=KRCC>
+가.. 감사합니다!<BR>/ 우쭐하지마!
+<SYNC Start=746095><P Class=KRCC>
+지금까지 내가 예기한 거 전 부 말해봐!
+<SYNC Start=748431><P Class=KRCC>
+에.. 에 또, 레프트 잽과 가드와 발끌기,<BR>그리고, 라이트 스트레이트!
+<SYNC Start=754985><P Class=KRCC>
+좋~아! 다음 라운드에는 전부 쓰는 거다!
+<SYNC Start=758318><P Class=KRCC>
+가드를 올리고 접근해서,<BR>레프트에서 라이트다!
+<SYNC Start=761830><P Class=KRCC>
+알겠어?<BR>/ 네!
+<SYNC Start=764157><P Class=KRCC>
+레프트에서 라이트..
+<SYNC Start=766411><P Class=KRCC>
+어찌저찌 됐든,<BR>3 라운드까지 올 줄이야?
+<SYNC Start=769288><P Class=KRCC>
+초보자군의 라이트가 맞을까,<BR>아니면 미야타의 테크닉이 더 앞일까..?
+<SYNC Start=773876><P Class=KRCC>
+의외로 눈을 땔 수 없는 전개가 되겠군!
+<SYNC Start=777180><P Class=KRCC>
+' 그렇게 간단한 문제가 아니야,<BR>일견 우세한 듯 보이지만.. '
+<SYNC Start=781430><P Class=KRCC>
+' 일보의 펀치는 아직 한 발도 안 맞았어! '
+<SYNC Start=784017><P Class=KRCC>&nbsp;
+<SYNC Start=784979><P Class=KRCC>
+' 2 라운드 종료 직전의 라이트 스트레이트가<BR>천재일우의 찬스 였다. '
+<SYNC Start=789603><P Class=KRCC>
+' 그걸 들켰다는 건 크다. '
+<SYNC Start=792567><P Class=KRCC>
+' 미야타는 두 번 다시 그런 실수는 안 할거다. '
+<SYNC Start=795106><P Class=KRCC>
+' 오히려, 녀석에게 신경을 쓰게 만들었다. '
+<SYNC Start=798026><P Class=KRCC>
+' 다음의 라운드는 전력으로 올 거다. '
+<SYNC Start=801155><P Class=KRCC>
+초보자 녀석에게 라이트가<BR>있다는 것은 재미있지만..
+<SYNC Start=804490><P Class=KRCC>
+아무래도 미야타, 의외로 파워부족처럼 보이고..
+<SYNC Start=807618><P Class=KRCC>
+어쩌면, 녀석의 라이트에 겁먹고 있다거나..
+<SYNC Start=810751><P Class=KRCC>
+' 모르고 있군! '
+<SYNC Start=812373><P Class=KRCC>
+' 힘으로 밀어부치는게 복싱이라고<BR>생각한다면, 큰 착각이다. '
+<SYNC Start=816373><P Class=KRCC>
+' 중요한 것은, 타이밍과.. '
+<SYNC Start=817969><P Class=KRCC>
+' 인간의 위크 포인트를 확실히<BR>공략할 수 있는 기술이다. '
+<SYNC Start=821970><P Class=KRCC>&nbsp;
+<SYNC Start=824805><P Class=KRCC>
+가드를 올리고, 레프트에서 라이트..
+<SYNC Start=828052><P Class=KRCC>&nbsp;
+<SYNC Start=829234><P Class=KRCC>
+레프트! 라이트!!<BR>/ 뭐야! / 오~!
+<SYNC Start=832811><P Class=KRCC>
+레프트, 라이트. 레프트, 라이트.<BR>/ 이번에는 원-투 까지..?
+<SYNC Start=836233><P Class=KRCC>
+놀라게 해 주는군!
+<SYNC Start=837785><P Class=KRCC>&nbsp;
+<SYNC Start=840164><P Class=KRCC>
+헤~ 제법이잖아?<BR>초보자라고는 생각할 수 없겠는 걸..
+<SYNC Start=843068><P Class=KRCC>
+대단하신, 미야타도 방어뿐이다.
+<SYNC Start=845539><P Class=KRCC>&nbsp;
+<SYNC Start=845997><P Class=KRCC>
+' 녀석, 의외로 얌전하잖아.<BR>뭔가, 노리고 있는 건가? '
+<SYNC Start=850299><P Class=KRCC>
+' 확실히 굉장한 파워다.<BR>하지만, 기억해 두는 게 좋아. 복싱에는.. '
+<SYNC Start=855716><P Class=KRCC>&nbsp;
+<SYNC Start=858255><P Class=KRCC>
+' 이렇게 싸우는 방법도 있는 건다! '
+<SYNC Start=861347><P Class=KRCC>&nbsp;
+<SYNC Start=873767><P Class=KRCC>
+' 그런가? 턱을 노리고 있던 건가? '
+<SYNC Start=876226><P Class=KRCC>&nbsp;
+<SYNC Start=877410><P Class=KRCC>
+턱을 얻어맞으면
+<SYNC Start=879150><P Class=KRCC>
+두개골의 뇌가 좌우로 흔들려<BR>/ 어~래!
+<SYNC Start=881827><P Class=KRCC>
+일시적인 기능장애가 일어난다.<BR>/ 왜, 이러지! 이거..
+<SYNC Start=885242><P Class=KRCC>
+하지만, 정확하게 노린 대로 치다니..
+<SYNC Start=888615><P Class=KRCC>
+결정됐군요!<BR>/ ' 당했다! 과연이군.. '
+<SYNC Start=893294><P Class=KRCC>&nbsp;
+<SYNC Start=895834><P Class=KRCC>
+' 의식은 확실히 있지만,<BR>몸이 마음대로 따라 주지 않는다. '
+<SYNC Start=899215><P Class=KRCC>
+' 설 수 없을 것이다. '<BR>응?
+<SYNC Start=902668><P Class=KRCC>
+응?
+<SYNC Start=905048><P Class=KRCC>&nbsp;
+<SYNC Start=906464><P Class=KRCC>
+어~엉!<BR>/ 말을 들어!!
+<SYNC Start=909559><P Class=KRCC>&nbsp;
+<SYNC Start=912640><P Class=KRCC>
+어 ~ 어! 정말이야?
+<SYNC Start=915442><P Class=KRCC>&nbsp;
+<SYNC Start=917773><P Class=KRCC>
+일어섰다!<BR>/ 거짓말이지..?
+<SYNC Start=920816><P Class=KRCC>
+그런걸 맞고 어떻게 초보자가<BR>일어설 수 있는거야?
+<SYNC Start=924404><P Class=KRCC>&nbsp;
+<SYNC Start=929253><P Class=KRCC>
+' 어떻게 설 수 있는거야? '
+<SYNC Start=931698><P Class=KRCC>
+레프트, 라이트.. 레프트, 라이트..
+<SYNC Start=936005><P Class=KRCC>&nbsp;
+<SYNC Start=938250><P Class=KRCC>
+일~보!
+<SYNC Start=939835><P Class=KRCC>&nbsp;
+<SYNC Start=943291><P Class=KRCC>
+' 이번에야말로..! '<BR>응?!
+<SYNC Start=946679><P Class=KRCC>&nbsp;
+<SYNC Start=949050><P Class=KRCC>
+일보! 일어나!!
+<SYNC Start=951721><P Class=KRCC>&nbsp;
+<SYNC Start=954396><P Class=KRCC>
+어~어, 또 일어났어!!
+<SYNC Start=957517><P Class=KRCC>
+' 바보 같은..! '
+<SYNC Start=959017><P Class=KRCC>
+끝낼 것 같냐?
+<SYNC Start=961069><P Class=KRCC>&nbsp;
+<SYNC Start=961861><P Class=KRCC>
+보.. 복서가 되기로..<BR>결심했다!!
+<SYNC Start=966043><P Class=KRCC>
+앞으로 한 번 더 다운 당하면 끝이다.
+<SYNC Start=967987><P Class=KRCC>
+얼마 안 남았다. 힘내라, 일보!<BR>/ 네!
+<SYNC Start=971194><P Class=KRCC>&nbsp;
+<SYNC Start=974995><P Class=KRCC>
+굉장해..!<BR>/ 저 상태로 펀치를 날리다니..
+<SYNC Start=978972><P Class=KRCC>&nbsp;
+<SYNC Start=986969><P Class=KRCC>
+아..아! 방법이 없어,<BR>얼굴의 형태가 바뀌어 버렸다!
+<SYNC Start=991136><P Class=KRCC>
+어.. 어떻게, 저 녀석, <BR>저런 상태로 팔이 나가는 거야?
+<SYNC Start=995017><P Class=KRCC>
+보통은 펀치를 낼 수 없잖아..!
+<SYNC Start=997307><P Class=KRCC>
+' 녀석을 지탱하고 있는 건<BR>복서가 되겠다는 일념뿐이다. '
+<SYNC Start=1000770><P Class=KRCC>
+' 그런, 마음가짐으로 녀석은<BR>미야타의 펀치를 견디고 있는 거다. '
+<SYNC Start=1004575><P Class=KRCC>&nbsp;
+<SYNC Start=1007036><P Class=KRCC>
+쓰러지지 않아! <BR>쓰러지지 않는다!!
+<SYNC Start=1011039><P Class=KRCC>
+다시 태어날 거다, 복서가.. 될 거다!
+<SYNC Start=1014826><P Class=KRCC>
+어떻게 된 꼬마냐..?
+<SYNC Start=1016755><P Class=KRCC>
+경련을 일으키는 다리를 팔로 누르면서 버티고 있다.
+<SYNC Start=1020456><P Class=KRCC>
+' 어째서야?<BR>어째서 쓰러지지 않는 거야? '
+<SYNC Start=1023956><P Class=KRCC>
+' 이건 굴욕이라고.. '
+<SYNC Start=1025849><P Class=KRCC>
+' 지금까지 배워왔던 복싱을<BR>전부다 부정당한 기분이다. '
+<SYNC Start=1030224><P Class=KRCC>&nbsp;
+<SYNC Start=1031885><P Class=KRCC>
+레프트, 라이트..
+<SYNC Start=1033760><P Class=KRCC>&nbsp;
+<SYNC Start=1035439><P Class=KRCC>
+' 쓰러져.. 쓰러지라구..! '
+<SYNC Start=1038446><P Class=KRCC>&nbsp;
+<SYNC Start=1047437><P Class=KRCC>
+' 됐다! '
+<SYNC Start=1049194><P Class=KRCC>&nbsp;
+<SYNC Start=1056748><P Class=KRCC>
+이 녀석! 쓰러져.. 쓰러지라구!!
+<SYNC Start=1060880><P Class=KRCC>&nbsp;
+<SYNC Start=1064880><P Class=KRCC>
+레..프트, 라..이트..
+<SYNC Start=1067216><P Class=KRCC>
+레..프트! 라이트!
+<SYNC Start=1071181><P Class=KRCC>
+적당히 하라구!<BR>/ 위험하다, 일보!
+<SYNC Start=1074516><P Class=KRCC>
+가지마! 카운터다!!<BR><font face="고딕" color=#FFFF99>☞ Counter Blow : 상대의 힘을 이용한 받아치기.
+<SYNC Start=1077011><P Class=KRCC>&nbsp;
+<SYNC Start=1088904><P Class=KRCC>
+보.. 복서가.. 되는 거다!
+<SYNC Start=1093698><P Class=KRCC>&nbsp;
+<SYNC Start=1100335><P Class=KRCC>
+어..어이! 일보!
+<SYNC Start=1102507><P Class=KRCC>&nbsp;
+<SYNC Start=1103869><P Class=KRCC>
+어이, 일보! 일보!!
+<SYNC Start=1106289><P Class=KRCC>&nbsp;
+<SYNC Start=1111086><P Class=KRCC>
+에..에, 기절해 버렸군!
+<SYNC Start=1114545><P Class=KRCC>&nbsp;
+<SYNC Start=1119509><P Class=KRCC>
+누가, 양동이에 물 좀 떠와!<BR>/ 네..네! / 나도 갈게!
+<SYNC Start=1123862><P Class=KRCC>
+어이, 할아범! 봤어?<BR>어래? 할아범!
+<SYNC Start=1128118><P Class=KRCC>&nbsp;
+<SYNC Start=1129564><P Class=KRCC>
+좋은 근성하고 있지 않습니까? 그 애!
+<SYNC Start=1132445><P Class=KRCC>
+흐..흥! 지금 시대에<BR>촌스럽게 근성복서라니..
+<SYNC Start=1136672><P Class=KRCC>&nbsp;
+<SYNC Start=1138671><P Class=KRCC>
+하지만.. 몸은 화살받이를 걸친 것 같더군..
+<SYNC Start=1143918><P Class=KRCC>
+옛날의 복서는 쓰러져도, 쓰러져도..<BR>다시 일어났다.
+<SYNC Start=1148375><P Class=KRCC>
+그 때문에 우리들은 꿈을 볼 수 있었다.
+<SYNC Start=1152385><P Class=KRCC>
+어이! 할아범! 이런 곳에 숨어있었군.
+<SYNC Start=1155677><P Class=KRCC>
+너, 끝까지 봤겠지?
+<SYNC Start=1157673><P Class=KRCC>
+저 녀석에게 소질이 없다고..?
+<SYNC Start=1160154><P Class=KRCC>
+옹이구멍은 누구야?<BR>내눈이냐? 아니면, 네 눈이야?
+<SYNC Start=1163728><P Class=KRCC>&nbsp;
+<SYNC Start=1164557><P Class=KRCC>
+저~정말로! 네 녀석은 당치도 않은 녀석을 데려왔군,
+<SYNC Start=1168687><P Class=KRCC>
+기껏 스파링에서 저렇게<BR>지는 녀석은 그리 흔치는 않지.
+<SYNC Start=1175907><P Class=KRCC>
+내일부터 매일 나오라고 해!<BR>녀석을 복서로 만들어 주지.
+<SYNC Start=1180817><P Class=KRCC>&nbsp;
+<SYNC Start=1184298><P Class=KRCC>
+하지만, 미야타도 너무했는걸<BR>설마, 카운터까지 쓸 줄이야..
+<SYNC Start=1189501><P Class=KRCC>
+좀, 약한 애 괴롭히는 게<BR>지나친 거 아니야?
+<SYNC Start=1192393><P Class=KRCC>&nbsp;
+<SYNC Start=1194041><P Class=KRCC>
+' 약한 애 괴롭히기라고..? '
+<SYNC Start=1196738><P Class=KRCC>
+' 녀석의 글러브도 16 온스 였다. '
+<SYNC Start=1199682><P Class=KRCC>
+' 그런데도, 블록한 팔이 이 상태다. '
+<SYNC Start=1202482><P Class=KRCC>&nbsp;
+<SYNC Start=1204145><P Class=KRCC>
+' 복싱이라는 녀석,<BR>상당히 재미있는 것 같군! '
+<SYNC Start=1209450><P Class=KRCC>&nbsp;
+<SYNC Start=1213575><P Class=KRCC>
+어이! 눈 좀 뜨이나?
+<SYNC Start=1215205><P Class=KRCC>&nbsp;
+<SYNC Start=1220781><P Class=KRCC>
+아..! 맞다.. 져버렸구나..!
+<SYNC Start=1226413><P Class=KRCC>
+결국, 한 발도 맞히지 못하고 져버렸다.
+<SYNC Start=1230755><P Class=KRCC>&nbsp;
+<SYNC Start=1231451><P Class=KRCC>
+이야! 좋은 근성하고 있던데..
+<SYNC Start=1233764><P Class=KRCC>&nbsp;
+<SYNC Start=1234681><P Class=KRCC>
+나이스 파이트!<BR>/ 너, 굉장하더라! / 힘내라구!
+<SYNC Start=1238472><P Class=KRCC>
+내일부터 나오는 거지?<BR>나는 기무라라고 한다. 부탁해!
+<SYNC Start=1242931><P Class=KRCC>
+아오키다. 펀치는 괜찮았으나<BR>문제는 디펜스더군
+<SYNC Start=1247646><P Class=KRCC>
+내일부터 이 몸이 확실히 가르쳐 주지!
+<SYNC Start=1251189><P Class=KRCC>
+네 놈에게 타인의 디펜스를 말 할 자격은 없다.<BR>/ 아.. 아파!
+<SYNC Start=1256064><P Class=KRCC>
+모처럼의 신입이라 기대하며 말했건만..<BR>/ 에.. 에! 신입?
+<SYNC Start=1261990><P Class=KRCC>
+관장이.. 합격이래!
+<SYNC Start=1264752><P Class=KRCC>
+내일부터 나오라고..<BR>/ 에?
+<SYNC Start=1266962><P Class=KRCC>
+잘됐잖아, 이 녀석!
+<SYNC Start=1268866><P Class=KRCC>
+어! 모두 다시 한번 소개한다.<BR>신입은 마쿠노우치 일보다.
+<SYNC Start=1272832><P Class=KRCC>
+하..합격! 이..입문!
+<SYNC Start=1276832><P Class=KRCC>&nbsp;
+<SYNC Start=1278430><P Class=KRCC>
+어이! 인사해!<BR>/ 네..네!
+<SYNC Start=1281889><P Class=KRCC>
+처음 뵙겠습니다. 마쿠노우치 일보 입니다!
+<SYNC Start=1287649><P Class=KRCC>
+오늘부터 입문.. 입문하게 됐습..
+<SYNC Start=1292812><P Class=KRCC>
+입문.. 입문하게.. 됐습니다!
+<SYNC Start=1300031><P Class=KRCC>&nbsp;
+<SYNC Start=1303074><P Class=KRCC>
+잘.. 부탁.. 합니다!
+<SYNC Start=1308251><P Class=KRCC>&nbsp;
+<SYNC Start=1342528><P Class=KRCC>
+<font color=9DFFFF>
+<ruby>終<rt>お</ruby>わってしまう
+<br><Font Color=#FFB6C1>끝나버린
+<SYNC Start=1347996><P Class=KRCC>
+<font color=9DFFFF>
+<ruby>今日<rt>きょう</ruby>を&nbsp;<ruby>思<rt>おも</ruby>って
+<br><Font Color=#FFB6C1>오늘을 생각하곤
+<SYNC Start=1352364><P Class=KRCC>
+<font color=9DFFFF>
+<ruby>何<rt>なに</ruby>か できることを
+<br><Font Color=#FFB6C1>무언가 할 수 있는 일을
+<SYNC Start=1357012><P Class=KRCC>
+<font color=9DFFFF>
+<ruby>探<rt>さが</ruby>すけれど
+<br><Font Color=#FFB6C1>찾아보지만
+<SYNC Start=1360060><P Class=KRCC>
+<font color=9DFFFF>
+<ruby>何<rt>なん</ruby>だか ちょっと
+<br><Font Color=#FFB6C1>뭔가 조금
+<SYNC Start=1362790><P Class=KRCC>
+<font color=9DFFFF>
+<ruby>考<rt>かんが</ruby>えすぎたな
+<br><Font Color=#FFB6C1>
+지나친 생각이겠지
+<SYNC Start=1368654><P Class=KRCC>
+<font color=9DFFFF>
+<ruby>大丈夫<rt>だいじょうぶ</ruby>だって
+<br><Font Color=#FFB6C1>
+'괜찮아'라고
+<SYNC Start=1371472><P Class=KRCC>
+<font color=9DFFFF>
+<ruby>思<rt>おも</ruby>えれば それが
+<br><Font Color=#FFB6C1>
+생각하면 그게
+<SYNC Start=1375780><P Class=KRCC>
+<font color=9DFFFF>
+<ruby>第一步<rt>だいいっぽ</ruby>になる
+<br><Font Color=#FFB6C1>
+첫걸음이 될 거야
+<SYNC Start=1381799><P Class=KRCC>
+<font color=9DFFFF>
+<ruby>紙飛行機<rt>かみひこうき</ruby>が
+<br><Font Color=#FFB6C1>
+종이 비행기가
+<SYNC Start=1384075><P Class=KRCC>
+<font color=9DFFFF>
+<ruby>飛<rt>と</ruby>んで<ruby>行<rt>ゆ</ruby>くよ
+<br><Font Color=#FFB6C1>
+날아가네
+<SYNC Start=1386206><P Class=KRCC>
+<font color=9DFFFF>
+<ruby>明日<rt>あした</ruby>に どうか
+<br><Font Color=#FFB6C1>
+내일에 부디
+<SYNC Start=1388361><P Class=KRCC>
+<font color=9DFFFF>
+<ruby>間<rt>ま</ruby>に<ruby>合<rt>あ</ruby>うように
+<br><Font Color=#FFB6C1>
+늦지 않도록
+<SYNC Start=1390578><P Class=KRCC>
+<font color=9DFFFF>
+ずっと, ずっと, ずっと, ずっと
+<br><Font Color=#FFB6C1>
+쭉, 쭉, 쭉, 쭉
+<SYNC Start=1394878><P Class=KRCC>
+<font color=9DFFFF>
+<ruby>信<rt>しん</ruby>じつづけてる
+<br><Font Color=#FFB6C1>
+계속 믿어갈거야
+<SYNC Start=1398432><P Class=KRCC>
+<font color=9DFFFF>
+だから ずっと, ずっと, ずっと, ずっと
+<br><Font Color=#FFB6C1>
+그러니까 쭉, 쭉, 쭉, 쭉
+<SYNC Start=1403670><P Class=KRCC>
+<font color=9DFFFF>
+<ruby>飛<rt>と</ruby>んで<ruby>行<rt>ゆ</ruby>けるよ
+<br><Font Color=#FFB6C1>
+날아 갈 수 있어
+<SYNC Start=1409515><P Class=KRCC>&nbsp;
+<SYNC Start=1409715><P Class=KRCC>
+<font color=red>The Fighting 1st Ending Theme
+<BR><font color=lightgreen>夕空の紙飛行機(저녁하늘의 종이 비행기)
+<BR><font color=#FFFF99>Song by モリナオヤ
+<SYNC Start=1411715><P Class=KRCC>&nbsp;
+<SYNC Start=1414063><P Class=KRCC>
+스텝 원!<BR><font color=YELLOW>「 Step-One 」
+<SYNC Start=1415638><P Class=KRCC>
+파고들었다고 생각하면 물러나고,
+<SYNC Start=1417694><P Class=KRCC>
+라이트라고 생각하면 레프트가 날아온다.
+<SYNC Start=1420360><P Class=KRCC>
+링위에서 자유자재로 움직이는 발!
+<SYNC Start=1424445><P Class=KRCC>
+아웃복서의 무기.
+<SYNC Start=1426287><P Class=KRCC>&nbsp;
+<SYNC Start=1427242><P Class=KRCC>
+잘 지켜보는 거다. 꼭 보일 거야!
+<SYNC Start=1430607><P Class=KRCC>
+미야타군의 그림자!
+<SYNC Start=1432116><P Class=KRCC>&nbsp;
+<SYNC Start=1433451><P Class=KRCC>
+다음회 섀도우 복싱!
+<SYNC Start=1441042><P Class=KRCC>
+<font face="고딕" color=red>Round 4<BR><Font Color=yellow>『 섀도우 복싱 』
+<SYNC Start=1441912><P Class=KRCC>&nbsp;
+</BODY>
+</SAMI>

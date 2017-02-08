@@ -1,0 +1,615 @@
+<SAMI>
+
+<HEAD>
+<TITLE>I'm Home EP01 720p x265 HEVC-ER</TITLE>
+
+<SAMIParam>
+  Metrics {time:ms;}
+  Spec {MSFT:1.0;}
+</SAMIParam>
+
+<STYLE TYPE="text/css">
+<!--
+P { margin-left:8pt; margin-right:8pt; margin-bottom:2pt;
+    margin-top:2pt; font-size:14pt; text-align:center;
+    font-family:굴림, Arial; font-weight:normal; color:white;
+    background-color:black; }
+.KRCC { Name:한국어; lang:ko-KR; SAMIType:CC; }
+#STDPrn { Name:Standard Print; }
+#LargePrn { Name:Large Print; font-size:20pt; }
+#SmallPrn { Name:Small Print; font-size:10pt; }
+-->
+</STYLE>
+
+</HEAD>
+
+<BODY>
+
+<-- Open play menu, choose Captions and Subtiles, On if available -->
+<-- Open tools menu, Security, Show local captions when present -->
+
+<SYNC Start=16039><P Class=KRCC>다녀왔어. 라고 말하고 싶었다.<br>조금이라도 빨리
+<SYNC Start=21839><P Class=KRCC>다녀왔어 라고 전하고 싶었다<br>그래서 난 그때 서둘렀던것이다.
+<SYNC Start=30340><P Class=KRCC>&nbsp;
+<SYNC Start=33009><P Class=KRCC>하지만
+<SYNC Start=36998><P Class=KRCC>&nbsp;
+<SYNC Start=66877><P Class=KRCC>그 사고가 나를 바꿨다
+<SYNC Start=73875><P Class=KRCC>40대 남성 후두부에서 출혈 의식이 없습니다
+<SYNC Start=76647><P Class=KRCC>- 바이탈은?<br>- 혈압 60 / 30 심박 113
+<SYNC Start=79157><P Class=KRCC>&nbsp;
+<SYNC Start=79616><P Class=KRCC>하나 둘 셋
+<SYNC Start=83613><P Class=KRCC>&nbsp;
+<SYNC Start=88637><P Class=KRCC>심정지에서는 회복했지만, 그래도 위험한 상황이에요
+<SYNC Start=96146><P Class=KRCC>어쨋든 의식을 되찾을 때 까지는<br>어떤 사태가 일어난지 확실히 말씀드릴 수가 없네요
+<SYNC Start=103970><P Class=KRCC>&nbsp;
+<SYNC Start=105100><P Class=KRCC>3개월 후
+<SYNC Start=108343><P Class=KRCC>&nbsp;
+<SYNC Start=117698><P Class=KRCC>이에지상, 아시겠어요?
+<SYNC Start=120568><P Class=KRCC>- 선생님 불러와요<br>- 네
+<SYNC Start=123080><P Class=KRCC>이에지상, 아시겠어요?
+<SYNC Start=126039><P Class=KRCC>이에지상..
+<SYNC Start=127858><P Class=KRCC>그리고 난 3개월의 재활훈련 덕에 나는 사회복귀를 했다.
+<SYNC Start=143417><P Class=KRCC>- 이에지상!<br>- 어이, 이에지!
+<SYNC Start=146508><P Class=KRCC>이에지! 다 나은건가?
+<SYNC Start=149969><P Class=KRCC>&nbsp;
+<SYNC Start=160309><P Class=KRCC>저기... 저는 여기서 일을 했던건가요?
+<SYNC Start=169300><P Class=KRCC>나는 아무것도 기억하지 못하였다.
+<SYNC Start=173665><P Class=KRCC>고차뇌기능장애네요.
+<SYNC Start=176614><P Class=KRCC>뇌라는게 지금도 인간의 장기에서는 블랙박스라서요.
+<SYNC Start=182330><P Class=KRCC>- 어떻게하면 나을 수 있는가는 솔직히 모르겠네요<br>- 네..
+<SYNC Start=186872><P Class=KRCC>이에지상의 경우는 부분적으로 기억장애가 있는 것같아요.
+<SYNC Start=191341><P Class=KRCC>특히, 과거 5~6년간의 기억이 폭 빠졌네요
+<SYNC Start=197273><P Class=KRCC>5~6년간의 기억이요?
+<SYNC Start=202004><P Class=KRCC>- 응? 뭐하세요?<br>- 메모에요
+<SYNC Start=207264><P Class=KRCC>신경을.. 쓰지 않으면 바로 잊어버려서요.
+<SYNC Start=211762><P Class=KRCC>재활훈련 할때부터 계속 이렇게 적고 있어요.<br>이거에요
+<SYNC Start=222649><P Class=KRCC>어, 여기 지워져 있네요<br>[확실히 ~를 마음속 깊이 사랑하고 있다]
+<SYNC Start=227025><P Class=KRCC>네. 제가 지운건가, 다른 사람이 지운건가 그것 조차 기억나지 않지만요
+<SYNC Start=233443><P Class=KRCC>아, 그리고 10개의 열쇠 왜인지 모르게 가지고 있었어요
+<SYNC Start=243236><P Class=KRCC>&nbsp;
+<SYNC Start=252718><P Class=KRCC>이에지상
+<SYNC Start=256598><P Class=KRCC>&nbsp;
+<SYNC Start=258015><P Class=KRCC>들었습니다. 유감입니다. 하지만, 바로 돌아와주세요.
+<SYNC Start=268048><P Class=KRCC>&nbsp;
+<SYNC Start=271505><P Class=KRCC>아 죄송해요
+<SYNC Start=274023><P Class=KRCC>지금은 아니에요.
+<SYNC Start=277337><P Class=KRCC>아 그런가요? 그럼 가겠습니다 죄송합니다
+<SYNC Start=281725><P Class=KRCC>&nbsp;
+<SYNC Start=282634><P Class=KRCC>- 끝났네요 저사람.<br>- 응
+<SYNC Start=286521><P Class=KRCC>&nbsp;
+<SYNC Start=296750><P Class=KRCC>나는 전에 있던 일선인 제1영업부와는 멀리 떨어진<br>제13영업부라는 끝자락의 끝자락
+<SYNC Start=306843><P Class=KRCC>창문으로 떨어질것만 같은 부서로 이동을 하게 되어
+<SYNC Start=310641><P Class=KRCC>&nbsp;
+<SYNC Start=320546><P Class=KRCC>이에지! 바리에이션의 하는 방법도 모르는거야?<br>이런 쓸모없는 애가 들어와버리셨네~
+<SYNC Start=330097><P Class=KRCC>불쌍하네 그거...
+<SYNC Start=333622><P Class=KRCC>- 부장님!<br>- 어, 미안해!
+<SYNC Start=339014><P Class=KRCC>&nbsp;
+<SYNC Start=342611><P Class=KRCC>- 뭔가 엄청난 엘리트 였었나봐요<br>- 사고를 당해가지고..
+<SYNC Start=346209><P Class=KRCC>아.. 그래서?
+<SYNC Start=348408><P Class=KRCC>아!! 그러니까 틀리다구!! 아 됐어.
+<SYNC Start=353892><P Class=KRCC>뭐야 너희들, 일해! 진짜
+<SYNC Start=359166><P Class=KRCC>아, 부장은 괜찮아요
+<SYNC Start=361221><P Class=KRCC>&nbsp;
+<SYNC Start=367062><P Class=KRCC>- 아직 계셨나요?<br>- 아 응, 일이 늦으니까...
+<SYNC Start=372994><P Class=KRCC>수고하시네요...
+<SYNC Start=377341><P Class=KRCC>정말 잊어버린단 말이야 여러 중요한 것들을..<br>제대로 할 수 있으려나
+<SYNC Start=384014><P Class=KRCC>괜찮아요 이 부서는 그냥 버리는 카드같은 곳이니까요.
+<SYNC Start=389875><P Class=KRCC>그래도 이에지상같은 고물차 정도는 아직 쓸 수 있어요
+<SYNC Start=394938><P Class=KRCC>너.. 엄청난 독설가네...
+<SYNC Start=398331><P Class=KRCC>&nbsp;
+<SYNC Start=403372><P Class=KRCC>하지만, 나는 혼자가 아니니깐 나에겐 가족이 있어
+<SYNC Start=409463><P Class=KRCC>- 가족?<br>- 어. 그게 나의 자랑.
+<SYNC Start=416748><P Class=KRCC>그런거다. 여러가지 일이 있고, 여러가지를 잊어버렸어도
+<SYNC Start=423569><P Class=KRCC>나에겐 가족이 있다.
+<SYNC Start=428943><P Class=KRCC>사랑하는 아내와, 아이가 있다. 그것만은 확실했다
+<SYNC Start=436144><P Class=KRCC>그리고 그건, 지금의 나에게 있어 무엇보다 소중한 것이었다.
+<SYNC Start=442888><P Class=KRCC>&nbsp;
+<SYNC Start=465737><P Class=KRCC>아 어서와
+<SYNC Start=467940><P Class=KRCC>오늘 생각보다 일이 빨리 끝나서 말이야, 밥은 다 되어있어!
+<SYNC Start=473492><P Class=KRCC>저 잠깐, 뭐하는거야! 놔!<br>뭐하는거야!
+<SYNC Start=479144><P Class=KRCC>아, 브래지어에는 다리미질 안해도 되는거였지, 미안 깜박했어
+<SYNC Start=485751><P Class=KRCC>다녀왔어
+<SYNC Start=487069><P Class=KRCC>아 카오루, 지금 스바루한테 혼나버렸어
+<SYNC Start=491163><P Class=KRCC>- 당신...<br>- 기억못하는거야?
+<SYNC Start=496222><P Class=KRCC>응 정말 미안, 깜박했어 제대로 적을테니까
+<SYNC Start=501304><P Class=KRCC>음...브래지어에.. 다림질은 안해도 된다구
+<SYNC Start=511036><P Class=KRCC>- 정말 기억하지 못하는거야?<br>- 뭐가? 그러니까 깜박한거라니까
+<SYNC Start=516959><P Class=KRCC>- 그게 아니라<br>- 이혼했잖아! 엄마하곤
+<SYNC Start=524198><P Class=KRCC>깜박한 정도가 아니잖아...
+<SYNC Start=527167><P Class=KRCC>&nbsp;
+<SYNC Start=531335><P Class=KRCC>정말 기억 못하는구나...
+<SYNC Start=534408><P Class=KRCC>&nbsp;
+<SYNC Start=538110><P Class=KRCC>아, 그렇다 미안해 저질러버렸네
+<SYNC Start=542081><P Class=KRCC>&nbsp;
+<SYNC Start=543482><P Class=KRCC>아 그럼, 열쇠 되돌려 놓을께
+<SYNC Start=549456><P Class=KRCC>&nbsp;
+<SYNC Start=556875><P Class=KRCC>그렇다. 나는 가족이 있다.
+<SYNC Start=561954><P Class=KRCC>하지만 지금은 그 전의 가족이고
+<SYNC Start=566079><P Class=KRCC>나는 다른 결혼을 해, 새로운 집이 있고
+<SYNC Start=572265><P Class=KRCC>하지만.. 기억을 잊은 뒤로 거기엔 하나의 문제가 있다..
+<SYNC Start=580697><P Class=KRCC>&nbsp;
+<SYNC Start=593674><P Class=KRCC>으흥~ 다음은 무슨 그림 그리고 있어?
+<SYNC Start=597343><P Class=KRCC>이거 빨간건 뭐야?
+<SYNC Start=600224><P Class=KRCC>응? 로켓 엔진!
+<SYNC Start=603475><P Class=KRCC>&nbsp;
+<SYNC Start=604024><P Class=KRCC>- 다녀왔어!<br>- 어서오세요
+<SYNC Start=611142><P Class=KRCC>하...늦어!
+<SYNC Start=613774><P Class=KRCC>집에 오는길 해매버려서 말이야...
+<SYNC Start=616833><P Class=KRCC>- 요시오, 아빠한텐 뭐라고 해야지?<br>- 다녀오셨어요
+<SYNC Start=623035><P Class=KRCC>지금의 가족은, 나의 아내의 아이의 얼굴은...
+<SYNC Start=629637><P Class=KRCC>나에겐.... 가면으로 밖에 보이지 않았던 것이다
+<SYNC Start=636414><P Class=KRCC>&nbsp;
+<SYNC Start=636621><P Class=KRCC>SUBTITLE BY CHIEN<br>FOR THEQOO.NET
+<SYNC Start=640303><P Class=KRCC>오역 / 의역 많습니다.<br>참고용으로만 봐주세요
+<SYNC Start=644124><P Class=KRCC>アイムホ-ム
+<SYNC Start=647360><P Class=KRCC>KEY 1
+<SYNC Start=650913><P Class=KRCC>&nbsp;
+<SYNC Start=657519><P Class=KRCC>음.. GOOD JOB
+<SYNC Start=660014><P Class=KRCC>구운 연어에 갈은 무를 곁들여서
+<SYNC Start=664829><P Class=KRCC>육수넣은 계란말이에, 무말랭이. 시금치깨무침에, 니쿠쟈가!
+<SYNC Start=670832><P Class=KRCC>- 좋은 아침~<br>- 좋은...
+<SYNC Start=675391><P Class=KRCC>오~하
+<SYNC Start=677653><P Class=KRCC>오~하.. 라니 구식이네, 나도
+<SYNC Start=680882><P Class=KRCC>&nbsp;
+<SYNC Start=684659><P Class=KRCC>엄마! 이거 안입혀져!
+<SYNC Start=687975><P Class=KRCC>그쪽이 아니잖아 얼굴이 여기구 손이 여기!
+<SYNC Start=695969><P Class=KRCC>아침에 일어나면 뭐라고 해야하지?
+<SYNC Start=699675><P Class=KRCC>아빠가 기달리잖아? 엄청난 얼굴 하고
+<SYNC Start=703248><P Class=KRCC>- 아니, 요시오 오하~ 라는데 모를려나 먹자<br>- 먹을까? 자 앉어
+<SYNC Start=711677><P Class=KRCC>긴장해서 너무 많이 만들어 버렸네
+<SYNC Start=714022><P Class=KRCC>&nbsp;
+<SYNC Start=718652><P Class=KRCC>에.. 이거.. 요시오 일본음식 기본적으로<br>아직 잘 못먹는단말이야 특히 아침에는
+<SYNC Start=725052><P Class=KRCC>그냥 빵만이라도 먹게 하자고 방금 했었는데!
+<SYNC Start=728321><P Class=KRCC>깜박했어, 깜박<br>요시오, 미안해 바로 빵 구울테니까
+<SYNC Start=735467><P Class=KRCC>&nbsp;
+<SYNC Start=735916><P Class=KRCC>요시오. 아빠 많이 다치셨잖아. 그래서 어쩔수없어. 착각하신거뿐이야
+<SYNC Start=743436><P Class=KRCC>이런걸로 울지마! 하지만 말야 아빠 착각하셔서 사과하셨어<br>이럴땐 어떻게 하는거였지?
+<SYNC Start=753025><P Class=KRCC>아 그러면 안돼잖아~ 사과한 사람한테는 "괜찮아" 라고 용서해주는 거잖아?
+<SYNC Start=759419><P Class=KRCC>괘..괜찮아 시간도 없구
+<SYNC Start=761437><P Class=KRCC>안돼! 제대로 "괜찮아" 라고 말하지 않으면
+<SYNC Start=764813><P Class=KRCC>다음부턴 제대로 말하는거야?<br>자 방에 돌아가서 옷입자
+<SYNC Start=770348><P Class=KRCC>&nbsp;
+<SYNC Start=789966><P Class=KRCC>- 무슨일 있어<br>- 응? 아니아니...
+<SYNC Start=794941><P Class=KRCC>아 이거 치울께 눈 앞에 있으면 싫지?
+<SYNC Start=801372><P Class=KRCC>&nbsp;
+<SYNC Start=812349><P Class=KRCC>응? 아 이쪽인가
+<SYNC Start=818417><P Class=KRCC>요시오 뭔가 묻어있네
+<SYNC Start=823988><P Class=KRCC>&nbsp;
+<SYNC Start=837743><P Class=KRCC>- 잠깐, 뭐하는거야<br>- 아 아니...
+<SYNC Start=843165><P Class=KRCC>- 아까 일 마음 속에 묻어두고 있지 말구<br>- 아니야! 아니라구!
+<SYNC Start=848200><P Class=KRCC>미안 요시오, 미안!
+<SYNC Start=851334><P Class=KRCC>&nbsp;
+<SYNC Start=853331><P Class=KRCC>좋은 아침, 어라, 집이 이 근처 였던가
+<SYNC Start=861515><P Class=KRCC>신기하네 이런 시간에. 전에는 6시는 나갔었으면서
+<SYNC Start=865147><P Class=KRCC>아 지금 부서 바뀌어서 기본 9-5시니까.
+<SYNC Start=867261><P Class=KRCC>- 좌천?<br>- 확실히 말하지마, 그렇긴 하지만
+<SYNC Start=872745><P Class=KRCC>그럼 부활동 끝나면 바로 들어와 6시. 통금시간이야.
+<SYNC Start=876981><P Class=KRCC>- 그쪽도 바로 들어가. 착각해서 들어오지 말고<br>- 열쇠 돌려줬잖아
+<SYNC Start=882571><P Class=KRCC>&nbsp;
+<SYNC Start=899710><P Class=KRCC>- 혹시, 엄마하고 막 좋지 않은거야?<br>- 별로
+<SYNC Start=907121><P Class=KRCC>- 괜찮다면 상담 해줄 수 있는데<br>- 뭐?
+<SYNC Start=910268><P Class=KRCC>몇년동안 내버려뒀으면서 잘도 말하네
+<SYNC Start=912968><P Class=KRCC>내버려뒀다구..
+<SYNC Start=916007><P Class=KRCC>- 그런가...<br>- 뭐 별로 상관없지만 말이야. 친아빠도 아니고
+<SYNC Start=921727><P Class=KRCC>에, 그런거야?
+<SYNC Start=924143><P Class=KRCC>&nbsp;
+<SYNC Start=927172><P Class=KRCC>- 아내분과 아드님의 얼굴이 가면으로 보인다구요?<br>- 네
+<SYNC Start=933450><P Class=KRCC>뇌의 고차뇌기능장애 중에는 사람의 얼굴을 못 알아보는 그런 경우가 있습니다
+<SYNC Start=940310><P Class=KRCC>한편으론, 얼굴은 알지만 감정은 모르게 되는 경우도 있어요
+<SYNC Start=946833><P Class=KRCC>그러니까 이런 경우에요 이쪽, 저기 이쪽...
+<SYNC Start=952664><P Class=KRCC>이 사람은 애인이다. 라고 머리론 알고 있어도 아무런 감정도 느껴지지 않는다 라는 거에요.
+<SYNC Start=961131><P Class=KRCC>그러면, 인간은 어떻게 생각한다고 생각하세요?
+<SYNC Start=963710><P Class=KRCC>글쎄요...
+<SYNC Start=965712><P Class=KRCC>이 사람은 애인의 얼굴을 한 우주인이다! 라고 생각한다고 해요 재밌죠?
+<SYNC Start=974931><P Class=KRCC>웃을수가 없네요
+<SYNC Start=977796><P Class=KRCC>&nbsp;
+<SYNC Start=979681><P Class=KRCC>이에지상의 경우는 사진상으론 안정되어있고 재활훈련도 회복이 인정되고있어요
+<SYNC Start=988314><P Class=KRCC>- 있다면.. 뭔가 심리적인 문제일까하고.<br>- 심리적?
+<SYNC Start=994545><P Class=KRCC>네. 아내분의 얼굴이 가면으로 보일만한 심리적인 원인.
+<SYNC Start=1001482><P Class=KRCC>뭔가 양심의 가책을 받는 일이라던가?
+<SYNC Start=1004983><P Class=KRCC>- 뭐 걸리는거 없으세요?<br>- 기억이 나지 않아서.. 죄송해요
+<SYNC Start=1010344><P Class=KRCC>&nbsp;
+<SYNC Start=1018915><P Class=KRCC>2005년 노자와 카오루와 결혼.
+<SYNC Start=1023473><P Class=KRCC>스바루가 중1이니까 13살.
+<SYNC Start=1028611><P Class=KRCC>스바루는 카오루가 데려온 아이고 카오루는 스바루가 3살일때 나랑 결혼.
+<SYNC Start=1037870><P Class=KRCC>&nbsp;
+<SYNC Start=1043641><P Class=KRCC>- 아 발견했다 그거 넘겨 그거 퇴직서지?<br>- 아니에요
+<SYNC Start=1048439><P Class=KRCC>- 아니지 않잖아 퇴직서지?<br>- 아니에요, 이거 다른거에요
+<SYNC Start=1052082><P Class=KRCC>- 아니 지금 너가 퇴직하면은 내 퇴직금이 달라진다구<br>- 네?
+<SYNC Start=1056651><P Class=KRCC>왜냐면 그렇잖아. 감독불주의로 내가 곤란해진다구
+<SYNC Start=1061152><P Class=KRCC>- 이건 달라요. 이건 제 호적등본이에요<br>- 뭐?
+<SYNC Start=1065509><P Class=KRCC>그런가 가정이 옥신각신하는건가
+<SYNC Start=1067958><P Class=KRCC>옥신각신 안해요. 아까 여러가지 설명해드렸잖아요
+<SYNC Start=1071129><P Class=KRCC>여러가지.. 가정이란건 말이야 옥신각신하기 위해 있는거라구
+<SYNC Start=1076603><P Class=KRCC>괜찮아~ No, Problem.
+<SYNC Start=1081287><P Class=KRCC>&nbsp;
+<SYNC Start=1083781><P Class=KRCC>- 부장집도 옥신각신거리세요?<br>- Of course.
+<SYNC Start=1087555><P Class=KRCC>뭐 나 말이야 사장후보였었다구 이 회사.
+<SYNC Start=1092839><P Class=KRCC>그런 인간이 이런 터무니없는 소리를 들어야 하는거냐구
+<SYNC Start=1096210><P Class=KRCC>- 사장후보셨나요?<br>- 아 몰랐어? 못들었어?
+<SYNC Start=1100385><P Class=KRCC>- 아.. 뭐.. 실각이라고 하는걸 해버렸어<br>- 뭐 때문이에요?
+<SYNC Start=1107787><P Class=KRCC>이거야 이거.
+<SYNC Start=1111891><P Class=KRCC>사실은 여기 창업한 사장의 딸하고 결혼식 당일에 이게 뛰어들어가지고
+<SYNC Start=1120937><P Class=KRCC>아수라장이었어 엄청난 아수라장
+<SYNC Start=1125441><P Class=KRCC>그런데 다른사람들 어디 갔을까요 안왔네요
+<SYNC Start=1132460><P Class=KRCC>- 식당에는 안와요<br>- 어째서?
+<SYNC Start=1134534><P Class=KRCC>창피 당하는거니깐요
+<SYNC Start=1136501><P Class=KRCC>우리는 말이야, 13영업부라고는 하지만<br>말한다면 해고자의 방같은거니깐말이야
+<SYNC Start=1142939><P Class=KRCC>일이란게 있어도 없는거 같은거지
+<SYNC Start=1147577><P Class=KRCC>뭐, 저는 파견이라서 관계 없지만요
+<SYNC Start=1150361><P Class=KRCC>- 뭐, 저도 인생 버렸으니까 관계 없지만요<br>- 그러신가요...
+<SYNC Start=1156303><P Class=KRCC>&nbsp;
+<SYNC Start=1161755><P Class=KRCC>어라? 폐원?
+<SYNC Start=1167271><P Class=KRCC>아, 저기 요시오군의 아버지세요?
+<SYNC Start=1170619><P Class=KRCC>그렇습니다
+<SYNC Start=1173153><P Class=KRCC>언제까지 울꺼야 요시오, 울지마 남자잖아!
+<SYNC Start=1177527><P Class=KRCC>정말 죄송합니다<br>데려오는 시간을 6시라고 착각해버려서..
+<SYNC Start=1183399><P Class=KRCC>힘들었어요 30분 이상 계속 울었을려나
+<SYNC Start=1188805><P Class=KRCC>축구클럽 코치가 걱정되서 남아줘서 살았어요
+<SYNC Start=1196509><P Class=KRCC>- 아.. 저기 실례지만 정말 이에지상인가요?<br>- 네.
+<SYNC Start=1203287><P Class=KRCC>보호자 통행증도 안 가지고 계신것 같구요.
+<SYNC Start=1207158><P Class=KRCC>- 그러고보니 뵌적 없는 얼굴이시네요<br>- 아, 설마요
+<SYNC Start=1212552><P Class=KRCC>그것보다 아까부터 요시오군에게 아빠야? 라고 불어봐도 대답해주지 않아서요
+<SYNC Start=1218154><P Class=KRCC>요시오군, 아빠지?
+<SYNC Start=1222033><P Class=KRCC>아빠가 온거잖아? 응?
+<SYNC Start=1227792><P Class=KRCC>저, 지금 요시오 화난 얼굴인가요?
+<SYNC Start=1232776><P Class=KRCC>보시고도 모르시나요?
+<SYNC Start=1238117><P Class=KRCC>&nbsp;
+<SYNC Start=1242712><P Class=KRCC>SUBTITLE BY CHIEN<br>이 자막은, SMAP을 사랑하는 맙덬이 만들었습니다♥
+<SYNC Start=1260733><P Class=KRCC>&nbsp;
+<SYNC Start=1261067><P Class=KRCC>요시오 정말 미안해
+<SYNC Start=1263243><P Class=KRCC>괜찮아 일부러 그런것도 아니고
+<SYNC Start=1265018><P Class=KRCC>자 디저트 만들었으니까 먹어, 딸기 좋아하잖아
+<SYNC Start=1268435><P Class=KRCC>- 완전 싫어해!<br>- 그래?
+<SYNC Start=1271776><P Class=KRCC>잘먹었습니다.
+<SYNC Start=1276233><P Class=KRCC>- 오늘 학습지 2장이야~<br>- 학습지? 저 나이에 벌써 그런거 하는거야?
+<SYNC Start=1281943><P Class=KRCC>- 수험 보라고 했던것도 잊어버린거야?<br>- 그래?
+<SYNC Start=1287465><P Class=KRCC>잘먹었습니다
+<SYNC Start=1291704><P Class=KRCC>아, 있잖아 요시오 예전부터 저런 느낌이었나?
+<SYNC Start=1298585><P Class=KRCC>- 오히려 어리둥절해하는거 아니야?<br>- 왜?
+<SYNC Start=1302285><P Class=KRCC>- 엄청 엄했던 당신이 갑자기 부드러운 목소리로 말하니까<br>- 내가 엄했다...
+<SYNC Start=1311125><P Class=KRCC>&nbsp;
+<SYNC Start=1321206><P Class=KRCC>- 목욕 다 하면 목욕물 다 빼놔<br>- 응
+<SYNC Start=1328449><P Class=KRCC>메...메구미..있잖아
+<SYNC Start=1333445><P Class=KRCC>- 왜? 등 밀어줄까?<br>- 응? 그건 그게...
+<SYNC Start=1340232><P Class=KRCC>왜그래? 예전엔 자주 같이 들어갔었잖아
+<SYNC Start=1345158><P Class=KRCC>응? 아...그게.. 오늘은 저기.. 그냥 샤워만 할까하고
+<SYNC Start=1355480><P Class=KRCC>그거 의미 있는걸까?
+<SYNC Start=1357517><P Class=KRCC>뭐야 이제와서 의미없다고 하는거야?
+<SYNC Start=1362074><P Class=KRCC>아니..아...그게 아니라... 성분적으로 그게 좀 더 좋은게 있잖아... 히알루론산이라던지...
+<SYNC Start=1376534><P Class=KRCC>왜 메구미랑 같이 있게 되었는가
+<SYNC Start=1381298><P Class=KRCC>요시오에게는 어떻게 대해왔는가
+<SYNC Start=1385694><P Class=KRCC>중요한건 아무것도 기억해 내지 못했다
+<SYNC Start=1391934><P Class=KRCC>&nbsp;
+<SYNC Start=1418570><P Class=KRCC>기억해내지 못하는건 같았지만, 전의 결혼 생활에는 어딘가 따스함이 느껴졌다.
+<SYNC Start=1427693><P Class=KRCC>확실한 애정의 흔적이 거기엔 있었다.
+<SYNC Start=1432391><P Class=KRCC>나는 이 둘을 버린것일까
+<SYNC Start=1438521><P Class=KRCC>&nbsp;
+<SYNC Start=1457086><P Class=KRCC>자식... 가족... 그런거 정말 필요한거야?
+<SYNC Start=1470652><P Class=KRCC>왜 그런 꿈을 꾸었는지 몰랐었다.
+<SYNC Start=1476232><P Class=KRCC>&nbsp;
+<SYNC Start=1485846><P Class=KRCC>가라오케대회~<br>자 어느게 올까 어느것이 올까나?
+<SYNC Start=1492677><P Class=KRCC>&nbsp;
+<SYNC Start=1500095><P Class=KRCC>타세요
+<SYNC Start=1502596><P Class=KRCC>&nbsp;
+<SYNC Start=1512093><P Class=KRCC>- 잘 지내시는 것 같네요<br>- 뭐, 조금조금씩
+<SYNC Start=1517711><P Class=KRCC>- 어라? 와타누키상 아직도 회사에 계셨어요?<br>- 훨씬 전에 그만두셨을거라고 생각했어요
+<SYNC Start=1523698><P Class=KRCC>실적 못 올리셔서 회사 쉬는 날만 잔뜩!
+<SYNC Start=1526564><P Class=KRCC>쓸 수 있는게 못되서 좌천되셨죠?
+<SYNC Start=1532130><P Class=KRCC>오 다왔네 가자~ 환영회
+<SYNC Start=1536826><P Class=KRCC>- 이 시간부터 환영회에요?<br>- 좋겠네요 한가한 부서는
+<SYNC Start=1540027><P Class=KRCC>가죠, 와타누키상
+<SYNC Start=1544415><P Class=KRCC>괜찮으세요?
+<SYNC Start=1547127><P Class=KRCC>괜찮아, 괜찮아요
+<SYNC Start=1550722><P Class=KRCC>&nbsp;
+<SYNC Start=1554278><P Class=KRCC>- 이에지상 가라오케 이 안쪽 빌딩 5층이에요!<br>- 잠시만요!
+<SYNC Start=1561853><P Class=KRCC>위험해
+<SYNC Start=1563803><P Class=KRCC>환영회인데 왜 내가 봐야하는지 모르겠단말이야
+<SYNC Start=1569694><P Class=KRCC>&nbsp;
+<SYNC Start=1572917><P Class=KRCC>당신.. 아내 이뻐?
+<SYNC Start=1576128><P Class=KRCC>&nbsp;
+<SYNC Start=1580053><P Class=KRCC>미묘...일지도
+<SYNC Start=1582805><P Class=KRCC>&nbsp;
+<SYNC Start=1587679><P Class=KRCC>그렇다면 별로 안이쁘구나
+<SYNC Start=1591990><P Class=KRCC>&nbsp;
+<SYNC Start=1602253><P Class=KRCC>- 하지만 말야 건강하지?<br>- 네...
+<SYNC Start=1608272><P Class=KRCC>우리 아내말이야, 심장이 나빠가지고 말이야
+<SYNC Start=1617449><P Class=KRCC>그래서 말이야 최대한 내가 집에 있어야만 한단말이지
+<SYNC Start=1623870><P Class=KRCC>옛날엔 이렇게 보여도 척척 잘해냈었는데 말이야
+<SYNC Start=1630001><P Class=KRCC>지금은 회사에 매달려있는 별볼일 없는 회사원이야
+<SYNC Start=1636356><P Class=KRCC>&nbsp;
+<SYNC Start=1653575><P Class=KRCC>- 에? 월드컵 끝났어? 남아공 월드컵<br>- 브라질 월드컵도 벌써 끝났어요
+<SYNC Start=1662487><P Class=KRCC>- 에? 그게 뭐야 브라질 대회??<br>- 브라질 대회...
+<SYNC Start=1666104><P Class=KRCC>이에지군! 너의 환영회니까 너가 흥을 내야지! 정말
+<SYNC Start=1674938><P Class=KRCC>- 여기요<br>- 이런거 특기가 아니라서요
+<SYNC Start=1677719><P Class=KRCC>뭐라고 하는거야 신곡같은거 잘 알고있지?
+<SYNC Start=1682801><P Class=KRCC>&nbsp;
+<SYNC Start=1694712><P Class=KRCC>자 이에지군, 긴장하고 있어?
+<SYNC Start=1698600><P Class=KRCC>- 춤춰본 적이 없어서<br>- 춤추는 곡이야?
+<SYNC Start=1701853><P Class=KRCC>- 아, 산다이메 j soul brothers 라던지<br>- 뭐야 그거, 라쿠고가?
+<SYNC Start=1707415><P Class=KRCC>&nbsp;
+<SYNC Start=1711880><P Class=KRCC>설마?!
+<SYNC Start=1712962><P Class=KRCC>&nbsp;
+<SYNC Start=1726407><P Class=KRCC>- 확실히 5년 전...<br>- 춤 잘 추네 이에지짱!
+<SYNC Start=1730405><P Class=KRCC>&nbsp;
+<SYNC Start=1753434><P Class=KRCC>어라? 이에지짱~
+<SYNC Start=1760206><P Class=KRCC>어찌된거야 뭔가 사고로 다쳤었다며 괜찮아?
+<SYNC Start=1767352><P Class=KRCC>말좀 해봐~ 왜이리 서먹서먹해~
+<SYNC Start=1772613><P Class=KRCC>마침 좋을 때였어, 가자!
+<SYNC Start=1776772><P Class=KRCC>괜찮아, 괜찮으니까 가자 가자!
+<SYNC Start=1782940><P Class=KRCC>- 저기, 회사 동료가..!<br>- 안전벨트를 안하면 안돼! 안전을 위해~
+<SYNC Start=1787673><P Class=KRCC>- 긴자의 야키메빌딩으로 가줘!<br>- 저기 잠깐..!
+<SYNC Start=1794836><P Class=KRCC>뭘 말하는거야 이에지짱한테 동료같은게 있을리가 없잖아 그런거
+<SYNC Start=1800127><P Class=KRCC>있을리 없다고 뭐 그건 괜찮지만 말이야 그치?
+<SYNC Start=1805278><P Class=KRCC>동료같은거 있을리가 없단말이야~ 혼자니까 거기서 마신거지?
+<SYNC Start=1810632><P Class=KRCC>&nbsp;
+<SYNC Start=1815565><P Class=KRCC>스바루?
+<SYNC Start=1817763><P Class=KRCC>&nbsp;
+<SYNC Start=1821744><P Class=KRCC>오랫만이야~ 이에지짱!
+<SYNC Start=1828179><P Class=KRCC>괜찮아? 다쳤다면서?
+<SYNC Start=1831146><P Class=KRCC>- 아 네, 뭐.. 근데 잘 기억을 못해서요<br>- 어라, 기억상실?
+<SYNC Start=1838862><P Class=KRCC>- 그럼 말이야, 나랑 그런 거 한거 기억 안나?<br>- 에?
+<SYNC Start=1842946><P Class=KRCC>엄청났단말이야
+<SYNC Start=1846267><P Class=KRCC>이런거라던지 저런거라던지
+<SYNC Start=1853672><P Class=KRCC>랄까나? 거짓말이야 이에지짱은 일중독자였으니까<br>접대의 자리에선 분할 정도로 그런거 없었어
+<SYNC Start=1861516><P Class=KRCC>일중독자? 제가?
+<SYNC Start=1863502><P Class=KRCC>어쨋든말이야 또 벌게 해줘 알았지? 응? 응?
+<SYNC Start=1869995><P Class=KRCC>&nbsp;
+<SYNC Start=1876459><P Class=KRCC>나는 전의 부서에선 대체 뭘 했던거지
+<SYNC Start=1883466><P Class=KRCC>- 이에지짱~ 또 여자 울리는 얼굴 하고 있네!<br>- 무슨말하는거에요
+<SYNC Start=1888319><P Class=KRCC>- 봐봐 좋은 남자지?<br>- 좋은남자!
+<SYNC Start=1891854><P Class=KRCC>엄청 좋은 남자지? 하지만 나쁜 남자!
+<SYNC Start=1895734><P Class=KRCC>접대 전에 자기 여자를 찜해놓는다고!
+<SYNC Start=1899476><P Class=KRCC>얄미워서 어떻게 할줄을 모르겠어 정말
+<SYNC Start=1903083><P Class=KRCC>- 어느 입에서, 정말 어느 입에서!!<br>- 아파요 아파요!!
+<SYNC Start=1911185><P Class=KRCC>자 맡겨도 되? 미안해 에프터라서
+<SYNC Start=1914963><P Class=KRCC>저기 죄송해요 저 분 누구에요?
+<SYNC Start=1919999><P Class=KRCC>기억하지 못하는거야?<br>쿠모이부동산의 타케다전무야. 잘부탁해~
+<SYNC Start=1932223><P Class=KRCC>&nbsp;
+<SYNC Start=1947584><P Class=KRCC>아직 일어나지 않은게 좋아요 물 드실래요?
+<SYNC Start=1962507><P Class=KRCC>계속 같이 있어준거야?
+<SYNC Start=1964991><P Class=KRCC>취한 사람 가만히 둘 수는 없잖아요.<br>움직일수 있다면 말해주세요 여기 있을테니깐요
+<SYNC Start=1971520><P Class=KRCC>- 어떻게 된 일이야 이에지짱?<br>- 네?
+<SYNC Start=1975253><P Class=KRCC>- 전에 전혀 그러지 않았잖아<br>- 그런가요?
+<SYNC Start=1979830><P Class=KRCC>오늘도 말이야 나랑 어울려 준다는게..전혀 그렇게 생각못해서..
+<SYNC Start=1988139><P Class=KRCC>그거 무슨 의미에요?
+<SYNC Start=1991971><P Class=KRCC>귀밝은 이에지짱이라면, 벌써 알고있잖아? 내가 사장레이스에서 진거.
+<SYNC Start=2000018><P Class=KRCC>다음 이사회의에서 아마 이거야.
+<SYNC Start=2006016><P Class=KRCC>이에지짱은 패배자한테 눈길도 주지 않았잖아
+<SYNC Start=2010281><P Class=KRCC>뭐.. 그래서 일을 잘했던거겠지만
+<SYNC Start=2018521><P Class=KRCC>아... 이에지짱에는 신세를 졌네
+<SYNC Start=2022851><P Class=KRCC>- 여기라면 500억 정도 더 필요하겠네요 좀 더 일려나<br>- 그렇게 많은 돈 지금부터 괜찮아?
+<SYNC Start=2029721><P Class=KRCC>벌써 손 다 써놨어요
+<SYNC Start=2033660><P Class=KRCC>마지막으로 큰일 같이 하고 싶었는데 말이야~
+<SYNC Start=2046195><P Class=KRCC>- 저기.. 타케다상. 저요 한번 죽었어요<br>- 응?
+<SYNC Start=2058669><P Class=KRCC>- 여기 맞아서 살아있는게 기적일 정도에요<br>아 그래?
+<SYNC Start=2064840><P Class=KRCC>덕분에 여러가지 전부 잊어먹어서. 정말 지금 아~~무것도 못해요
+<SYNC Start=2078124><P Class=KRCC>- 뭐 지금은 사무의 어린애한테 혼나고 있어요.<br>- 그래..
+<SYNC Start=2089012><P Class=KRCC>&nbsp;
+<SYNC Start=2102258><P Class=KRCC>- 한잔 마실까요?<br>- 과음이네
+<SYNC Start=2111581><P Class=KRCC>&nbsp;
+<SYNC Start=2132284><P Class=KRCC>좋은아침~ 유치원 데려다 주고 올께~
+<SYNC Start=2134772><P Class=KRCC>아, 내일 잊어먹지 않았지?
+<SYNC Start=2139820><P Class=KRCC>내일..? 아아아... 물론 기억하고 있어
+<SYNC Start=2143630><P Class=KRCC>기대하고 있으니까 요시오! 잘부탁해!
+<SYNC Start=2148015><P Class=KRCC>&nbsp;
+<SYNC Start=2152750><P Class=KRCC>내일?
+<SYNC Start=2154324><P Class=KRCC>&nbsp;
+<SYNC Start=2158399><P Class=KRCC>요시오... 2010년 4월 19일 출생<br>생일인가!!!
+<SYNC Start=2166553><P Class=KRCC>&nbsp;
+<SYNC Start=2184553><P Class=KRCC>요리의 순서만은 기억하고 있다.
+<SYNC Start=2187977><P Class=KRCC>이딴것만 완벽하게 기억하고 있다니
+<SYNC Start=2193728><P Class=KRCC>나는 가족의 무엇을 정말 알고있는걸까
+<SYNC Start=2209594><P Class=KRCC>메구미와 요시오의 사이에 나의 흔적은 있는 것인가
+<SYNC Start=2216262><P Class=KRCC>카오루와 스바루에게도 나의 흔적은 있었던 것인가.
+<SYNC Start=2225679><P Class=KRCC>카오루
+<SYNC Start=2229064><P Class=KRCC>- 여보세요<br>- 번호 안바꿨구나
+<SYNC Start=2233314><P Class=KRCC>- 응 무슨일이야?<br>- 미안 지금 괜찮아? 스바루에 대해서 뭔가 알고있는거 없어?
+<SYNC Start=2244302><P Class=KRCC>미안 이런시간에
+<SYNC Start=2245332><P Class=KRCC>아니야 돌아오지 않았다는게 몇시부터 안돌아온거야?
+<SYNC Start=2248349><P Class=KRCC>- 오늘 저녁부터 아무것도 말안하고 나가고.. 스바루 요즘 전혀 대화하려고 하지 않아<br>- 그런가...
+<SYNC Start=2256707><P Class=KRCC>- 중년의 남자랑 같이 걷고 있었다는걸 본 동급생이 있어서 혹시 당신인가 하고<br>- 아니야 나는 같이 안걸었어
+<SYNC Start=2265233><P Class=KRCC>아 하지만, 나도 봤어 스바루가 밤의 거리에서 혼자 걷고있던거
+<SYNC Start=2273084><P Class=KRCC>옷장안에 둔 5만엔이 없어졌단말이지, 요즘 불량인 애들하고 노는거 같아서
+<SYNC Start=2282272><P Class=KRCC>아, 번호 알려줘 스바루 핸드폰 가지고 있지?
+<SYNC Start=2290535><P Class=KRCC>&nbsp;
+<SYNC Start=2297840><P Class=KRCC>- 얼른 돌아와!! 어.. 돌아왔어?<br>- 응 잠깐 나갔다왔어
+<SYNC Start=2305897><P Class=KRCC>- 먼저 먹었어<br>- 응 괜찮아 신경쓰지 않아도 되
+<SYNC Start=2309556><P Class=KRCC>가라아게 맛있었어
+<SYNC Start=2314628><P Class=KRCC>요시오 감기 걸리니까 멈춰!
+<SYNC Start=2320823><P Class=KRCC>&nbsp;
+<SYNC Start=2325864><P Class=KRCC>방금 돌아왔어<br>방에 박혀서 아무말도 안해
+<SYNC Start=2330710><P Class=KRCC>하지만 어쨋든 오늘은 고마워
+<SYNC Start=2335022><P Class=KRCC>&nbsp;
+<SYNC Start=2335413><P Class=KRCC>드디어 잠들었어
+<SYNC Start=2341006><P Class=KRCC>&nbsp;
+<SYNC Start=2343351><P Class=KRCC>내일, 선물 같이 사러가는거 엄청 기대하고 있어
+<SYNC Start=2349051><P Class=KRCC>나한텐 아무런 말 해주지 않았지만 말이야
+<SYNC Start=2350897><P Class=KRCC>반년 가까이 입원했었잖아? 그 전에도 전혀 놀아주지 않았고<br>그러다보니 다가가는 방법을 모르는게 아닐까나
+<SYNC Start=2359105><P Class=KRCC>그런걸까나
+<SYNC Start=2361170><P Class=KRCC>사실은 당신 엄청 좋아해. 요시오.
+<SYNC Start=2369007><P Class=KRCC>&nbsp;
+<SYNC Start=2411273><P Class=KRCC>우리는 이 비지니스에 잘 알고 있는 어느 관계자에게 물어봤다.
+<SYNC Start=2415628><P Class=KRCC>어, 여고생은 돈이 된다구요. 가출해도 지금은 인터넷카페는 심야에는 안되고
+<SYNC Start=2427056><P Class=KRCC>조례로 단속도 심해져가지고 갈 곳이 없죠.
+<SYNC Start=2432800><P Class=KRCC>그러니까말이야, 녀석들이 잡는거죠
+<SYNC Start=2437021><P Class=KRCC>그래서 아는 업자에게 파는거죠
+<SYNC Start=2441707><P Class=KRCC>하, 예전엔 잘 했었죠
+<SYNC Start=2446552><P Class=KRCC>&nbsp;
+<SYNC Start=2454944><P Class=KRCC>- 뭐야?<br>- 여보세요 어디갔었던거야
+<SYNC Start=2461562><P Class=KRCC>- 하? 왜 갑자기 아빠같은 말을 하는거야<br>- 왜냐면 아버지잖아!
+<SYNC Start=2468851><P Class=KRCC>아무것도 기억하지 못하는 주제에 잘도 말하네
+<SYNC Start=2472979><P Class=KRCC>&nbsp;
+<SYNC Start=2485058><P Class=KRCC>- 아, 끝나버렸네 갈까<br>- 에 한번더!
+<SYNC Start=2488894><P Class=KRCC>괜찮은데 장난감가게가서 생일선물 사는거 아니었어?
+<SYNC Start=2494850><P Class=KRCC>그럼, 저 주스 있는데 앉아있을테니까 마지막 한번 더야.
+<SYNC Start=2501801><P Class=KRCC>&nbsp;
+<SYNC Start=2509748><P Class=KRCC>나는 저 아이가 귀여운것일까
+<SYNC Start=2515329><P Class=KRCC>&nbsp;
+<SYNC Start=2519899><P Class=KRCC>스바루
+<SYNC Start=2523504><P Class=KRCC>&nbsp;
+<SYNC Start=2529466><P Class=KRCC>요시오!<br>아빠 다시 여기로 올테니까 여기서 절대로 떠나면 안돼
+<SYNC Start=2535267><P Class=KRCC>- 알겠지?<br>- 응!
+<SYNC Start=2538323><P Class=KRCC>&nbsp;
+<SYNC Start=2570442><P Class=KRCC>스바루!
+<SYNC Start=2572391><P Class=KRCC>&nbsp;
+<SYNC Start=2578305><P Class=KRCC>부재중 서비스에 연결합니다...<br>스바루!
+<SYNC Start=2581495><P Class=KRCC>&nbsp;
+<SYNC Start=2600500><P Class=KRCC>얼른!
+<SYNC Start=2602253><P Class=KRCC>&nbsp;
+<SYNC Start=2608756><P Class=KRCC>스바루...
+<SYNC Start=2610839><P Class=KRCC>수고했네<br>또 연락해와 알았지
+<SYNC Start=2617333><P Class=KRCC>스바루!
+<SYNC Start=2620169><P Class=KRCC>어이,뭐야, 아저씨, 누구야 당신
+<SYNC Start=2626149><P Class=KRCC>- 내 딸이다<br>- 딸? 뻥치시네
+<SYNC Start=2630806><P Class=KRCC>- 쟤랑 하고 싶은거 뿐이잖아<br>- 아빠라고!
+<SYNC Start=2636829><P Class=KRCC>아빠란말이야!!!
+<SYNC Start=2640929><P Class=KRCC>&nbsp;
+<SYNC Start=2644036><P Class=KRCC>어 알았어, 진정해 어?
+<SYNC Start=2649435><P Class=KRCC>그러면 너 쟤에 대해 뭘 알고 있냐고<br>말해봐
+<SYNC Start=2659026><P Class=KRCC>알고있어<br>전부 기억하고 있어
+<SYNC Start=2666394><P Class=KRCC>어렸을 때 나를 잡고 놓아주지 않았던 손의 감촉
+<SYNC Start=2672407><P Class=KRCC>나를 봐라봐 주었던 얼굴의 각도
+<SYNC Start=2675556><P Class=KRCC>기뻐했을때의 포즈
+<SYNC Start=2679211><P Class=KRCC>당근을 엄청 싫어하고 시금치를 엄청 좋아했던거
+<SYNC Start=2685021><P Class=KRCC>5살 생일때, 촛불 마지막이 꺼지지 않아서 울었던거!
+<SYNC Start=2693781><P Class=KRCC>&nbsp;
+<SYNC Start=2696538><P Class=KRCC>전부, 전부 기억하고 있어!
+<SYNC Start=2701160><P Class=KRCC>사정이 있어 떨어졌지만.... 스바루는 내 딸이라고!
+<SYNC Start=2710217><P Class=KRCC>그러니까.. 그러니까...<br>부탁해!
+<SYNC Start=2720072><P Class=KRCC>스바루를...<br>딸을 나에게 돌려줘 부탁해!
+<SYNC Start=2729038><P Class=KRCC>뭐라고 하는지 모르겠네
+<SYNC Start=2733148><P Class=KRCC>&nbsp;
+<SYNC Start=2737651><P Class=KRCC>- 아빠!!!<br>- 조용히해
+<SYNC Start=2743712><P Class=KRCC>너희들 뭐야!
+<SYNC Start=2746599><P Class=KRCC>&nbsp;
+<SYNC Start=2756286><P Class=KRCC>여기 앉으세요
+<SYNC Start=2761710><P Class=KRCC>그러니까 저런 애들은 집 나간 여자애들을 잡아서<br>언더ok. 즉 미성년 ok란 가게에 있어서
+<SYNC Start=2770937><P Class=KRCC>거기에 애를 알선해서 돈을 받는거죠
+<SYNC Start=2773975><P Class=KRCC>그래서 당신의 딸, 의 친구가 잡혀 전화번호를 알려줬다. 잠깐 가출 했을때.
+<SYNC Start=2783843><P Class=KRCC>그랬더니 끈질기게 연락이 오고, 집의 주소도 알려졌고
+<SYNC Start=2790600><P Class=KRCC>무서워서 따님에게 상담을 했습니다.
+<SYNC Start=2793317><P Class=KRCC>따님을 내버려둘 수 없고, 친구의 핸드폰을 맡아줬고,
+<SYNC Start=2797344><P Class=KRCC>친구를 대신에 남자에게 전화해서 돈 5만원을 가지고 만나러 갔습니다.
+<SYNC Start=2804635><P Class=KRCC>거기에, 우연으로 저희가 잠복하고 있던거죠
+<SYNC Start=2807917><P Class=KRCC>저 자식, 은퇴했다고 하면서 TV에 나오더니
+<SYNC Start=2813202><P Class=KRCC>체포되서 다행이에요
+<SYNC Start=2816326><P Class=KRCC>&nbsp;
+<SYNC Start=2827908><P Class=KRCC>어째서 이런 위험한 일을 한거야
+<SYNC Start=2831261><P Class=KRCC>&nbsp;
+<SYNC Start=2837063><P Class=KRCC>친구만은 소중히하라고, 그렇게 말한건 그쪽이잖아
+<SYNC Start=2845882><P Class=KRCC>나는 전혀 소중하게 하지 않았다고... 그건 지금도 후회하고 있다고
+<SYNC Start=2857331><P Class=KRCC>&nbsp;
+<SYNC Start=2860670><P Class=KRCC>나의 흔적은 이런 곳에 있었다.
+<SYNC Start=2866844><P Class=KRCC>&nbsp;
+<SYNC Start=2870036><P Class=KRCC>엄마한테 부재중이 산더미야.
+<SYNC Start=2874972><P Class=KRCC>&nbsp;
+<SYNC Start=2902618><P Class=KRCC>요시오 미안해!<br>정말 미안해
+<SYNC Start=2916278><P Class=KRCC>- 이봐요! 뭐하는거에요 우리 애한테<br>- 죄송해요 사람을 잘못봤어요
+<SYNC Start=2923058><P Class=KRCC>요시오
+<SYNC Start=2927482><P Class=KRCC>요시오!!
+<SYNC Start=2931050><P Class=KRCC>죄송해요 여기 남자애 있지 않았나요?<br>5살이고 키는 이정도구요 오늘 생일이었는데요
+<SYNC Start=2936792><P Class=KRCC>얼굴은 뭐라고 해야하나...
+<SYNC Start=2940942><P Class=KRCC>- 죄송한데 무슨 관계 신가요?<br>- 제 아들입니다
+<SYNC Start=2944616><P Class=KRCC>그런데 아드님 정말 대단했어요. 울면서 그 장소를 떠나지 않았어요
+<SYNC Start=2950916><P Class=KRCC>아빠가 절대로 데리러 온다고.
+<SYNC Start=2957802><P Class=KRCC>들어가세요
+<SYNC Start=2964203><P Class=KRCC>&nbsp;
+<SYNC Start=2969998><P Class=KRCC>요시오 미안해
+<SYNC Start=2977783><P Class=KRCC>봐봐 아빠 사과하고 있잖아
+<SYNC Start=2982923><P Class=KRCC>&nbsp;
+<SYNC Start=2983446><P Class=KRCC>요시오
+<SYNC Start=2986243><P Class=KRCC>&nbsp;
+<SYNC Start=2989435><P Class=KRCC>요시오
+<SYNC Start=2991626><P Class=KRCC>&nbsp;
+<SYNC Start=2992284><P Class=KRCC>아빠... 또 미아가 된거야?
+<SYNC Start=3000102><P Class=KRCC>응 맞아 미아가 되셨어!<br>어른이라도 미아가 된단다?
+<SYNC Start=3007841><P Class=KRCC>있잖아, 사과하는 사람한테 어떻게 하는거였지?
+<SYNC Start=3016368><P Class=KRCC>- 용서해주는거야<br>- 맞아, 착하다 요시오
+<SYNC Start=3025209><P Class=KRCC>&nbsp;
+<SYNC Start=3033965><P Class=KRCC>제대로 따듯하게 하고 자
+<SYNC Start=3036248><P Class=KRCC>- 네! 안녕히 주무세요<br>- 잘자!
+<SYNC Start=3044775><P Class=KRCC>&nbsp;
+<SYNC Start=3058387><P Class=KRCC>좋은 아침~
+<SYNC Start=3061272><P Class=KRCC>&nbsp;
+<SYNC Start=3068398><P Class=KRCC>[출근합니다]
+<SYNC Start=3071776><P Class=KRCC>&nbsp;
+<SYNC Start=3072774><P Class=KRCC>좋은 아침~<br>먹을까?
+<SYNC Start=3079620><P Class=KRCC>우와! 오무라이스다! 맛있겠다!
+<SYNC Start=3086015><P Class=KRCC>요시오가 제일 좋아하는거...
+<SYNC Start=3088479><P Class=KRCC>- 아빠 드디어 하나 기억하신 모양이네<br>- 앗싸!
+<SYNC Start=3093669><P Class=KRCC>[요시오가 좋아하는것. 폭신폭신한 계란의 오무라이스]<br>하나 하나 기억해내자
+<SYNC Start=3098971><P Class=KRCC>그리고, 내가 잊고 있던 가족과 마주 보자.
+<SYNC Start=3103117><P Class=KRCC>그게, 지금 내게 분명 가장 소중한것일꺼야
+<SYNC Start=3109617><P Class=KRCC>&nbsp;
+<SYNC Start=3114373><P Class=KRCC>잠깐, 알려줬으면하는데
+<SYNC Start=3117268><P Class=KRCC>- 어째서 일부러 그쪽에서 우리한테 오는거야<br>- 죄송합니다 모르겠습니다
+<SYNC Start=3123312><P Class=KRCC>이거야, 타케다 전무! 오늘은 무슨일이신가요?
+<SYNC Start=3128413><P Class=KRCC>- 그거 다 쓰면 서무의 할머니한테 도장받아와 얼른해<br>- 네
+<SYNC Start=3134239><P Class=KRCC>&nbsp;
+<SYNC Start=3148462><P Class=KRCC>저번엔 감사했습니다
+<SYNC Start=3150714><P Class=KRCC>부탁이 있어서 내 마지막 큰 일인데..
+<SYNC Start=3159209><P Class=KRCC>- 얼른해, 이에지! 할아멈 밥먹으러 가겠다<br>- 네!
+<SYNC Start=3161906><P Class=KRCC>죄송해요 지금 다른 일이 있어서요<br>혹시.. 혹시 괜찮으시다면 동료한테 이 일 맡겨도 되나요?
+<SYNC Start=3176339><P Class=KRCC>와타누키상, 잠깐 이야기 들어주셔도 되나요
+<SYNC Start=3184609><P Class=KRCC>척척 잘하는 사람이라서 괜찮아요.<br>그럼 다녀오겠습니다!
+<SYNC Start=3190495><P Class=KRCC>잠깐, 이에지짱! 이에지짱!
+<SYNC Start=3197255><P Class=KRCC>뭔가...
+<SYNC Start=3201435><P Class=KRCC>호..혹시...
+<SYNC Start=3205085><P Class=KRCC>에 뭐라고?
+<SYNC Start=3209094><P Class=KRCC>- 알겠습니다<br>- 무슨일이야
+<SYNC Start=3212959><P Class=KRCC>- 쿠모이부동산이 2000억의 증시를 한다고 합니다<br>- 좋아, 무조건 일 따오는거다
+<SYNC Start=3218882><P Class=KRCC>그게... 벌써 결정되었답니다
+<SYNC Start=3222642><P Class=KRCC>뭐라고? 내가 제대로 주시하라고 했었잖아<br>어디야, 무라토시증권인가
+<SYNC Start=3227241><P Class=KRCC>우리입니다<br>우리.. 제 13영업부입니다
+<SYNC Start=3232968><P Class=KRCC>- 거짓말이죠?<br>- 담당은... 와타누키랍니다
+<SYNC Start=3238667><P Class=KRCC>&nbsp;
+<SYNC Start=3251962><P Class=KRCC>와타누키!! 상... 어떻게 한거야? 어떻게 된거야?
+<SYNC Start=3256943><P Class=KRCC>지금부터 결산하러 가지 않으면 안되서요
+<SYNC Start=3260989><P Class=KRCC>비어있는 시간 없어서... 좋겠다~ 한가한 부서는
+<SYNC Start=3270025><P Class=KRCC>&nbsp;
+<SYNC Start=3283151><P Class=KRCC>이에지군!
+<SYNC Start=3285075><P Class=KRCC>&nbsp;
+<SYNC Start=3291798><P Class=KRCC>- 고마워<br>- 아아... 저 잡혔던거 뿐이라서요
+<SYNC Start=3301016><P Class=KRCC>&nbsp;
+<SYNC Start=3318488><P Class=KRCC>아.. 잠깐만 전화
+<SYNC Start=3321830><P Class=KRCC>&nbsp;
+<SYNC Start=3329081><P Class=KRCC>요코? 나인데 응.
+<SYNC Start=3336776><P Class=KRCC>오늘 좀 말이야 좋은 일 있어서
+<SYNC Start=3341757><P Class=KRCC>&nbsp;
+<SYNC Start=3346300><P Class=KRCC>이에지상이죠? 이번 건.
+<SYNC Start=3351876><P Class=KRCC>- 관계없어<br>- 관계가 없다... 어떤 의미 인가요?
+<SYNC Start=3360978><P Class=KRCC>&nbsp;
+<SYNC Start=3366015><P Class=KRCC>좀 더 소중한게 있어 지금의 나한테는
+<SYNC Start=3375564><P Class=KRCC>&nbsp;
+<SYNC Start=3380749><P Class=KRCC>그러니까 이 빌딩은 무슨 일이 있어도 따야만 한다고 하잖아!<br>다시한번 제대로 생각해
+<SYNC Start=3386516><P Class=KRCC>NOT FOR JUST TYOKO. BUT ALL JAPAN.
+<SYNC Start=3393241><P Class=KRCC>&nbsp;
+<SYNC Start=3401780><P Class=KRCC>네. 괜찮아요 제대로 감시하고 있습니다
+<SYNC Start=3413507><P Class=KRCC>&nbsp;
+<SYNC Start=3444411><P Class=KRCC>아직, 뭐 하나 확실한건 없었다. 하지만 집에 가는 길은 제대로 기억하고 있었다.
+<SYNC Start=3453356><P Class=KRCC>세타가야행의 버스를 타, 8번째 정류장.
+<SYNC Start=3457472><P Class=KRCC>횡단보도를 건너 언덕길을 올라 앞으로 쭉가 사거리에 있는 4층의 맨션 401호.
+<SYNC Start=3470490><P Class=KRCC>그렇다. 이곳만큼은 내가 확실히 있을 장소인거다.
+<SYNC Start=3478887><P Class=KRCC>&nbsp;
+<SYNC Start=3483103><P Class=KRCC>- 요시오 벌써 잠들었어?<br>- 응
+<SYNC Start=3488451><P Class=KRCC>&nbsp;
+<SYNC Start=3500854><P Class=KRCC>- 있잖아<br>- 응?
+<SYNC Start=3505946><P Class=KRCC>나.. 사랑해?
+<SYNC Start=3509813><P Class=KRCC>&nbsp;
+<SYNC Start=3513804><P Class=KRCC>- 뭐야 갑자기<br>- 대답해! 나를 사랑해서 결혼한거야?
+<SYNC Start=3520412><P Class=KRCC>언제나 제대로 대답해주지 않았어
+<SYNC Start=3522933><P Class=KRCC>응..? 왜 그런걸...
+<SYNC Start=3530692><P Class=KRCC>아.. 그러면
+<SYNC Start=3535742><P Class=KRCC>&nbsp;
+<SYNC Start=3538276><P Class=KRCC>이거<br>[확실히 ~를 마음속 깊이 사랑하고 있다]
+<SYNC Start=3541286><P Class=KRCC>나는 재활훈련할 때의 기억도 끊겨져 있으니까
+<SYNC Start=3545932><P Class=KRCC>하지만, 잊어버리면 안되니까 이걸 적은 걸꺼야
+<SYNC Start=3551028><P Class=KRCC>- 이건 너일꺼야, 이건 너야. 거짓은 없어<br>- 거짓말
+<SYNC Start=3564415><P Class=KRCC>&nbsp;
+<SYNC Start=3565022><P Class=KRCC>아니, 나는 메구미랑 요시오를 세계에서 가장 소중하다고 생각하고 있어
+<SYNC Start=3572856><P Class=KRCC>그럼 묻겠는데
+<SYNC Start=3578667><P Class=KRCC>당신, 요시오가 정말 당신의 아들이라고 생각하고 있어?
+<SYNC Start=3588982><P Class=KRCC>그 때의 아내의 표정은 나에겐 도무지 알 수 없었다.
+</BODY>
+</SAMI>

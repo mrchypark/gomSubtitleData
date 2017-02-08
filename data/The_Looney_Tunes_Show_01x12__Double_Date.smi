@@ -1,0 +1,647 @@
+﻿<SAMI>
+
+<HEAD>
+<TITLE>The Looney Tunes Show 01x12 - Double Date</TITLE>
+
+<SAMIParam>
+  Metrics {time:ms;}
+  Spec {MSFT:1.0;}
+</SAMIParam>
+
+<STYLE TYPE="text/css">
+<!--
+  P { font-family: Arial; font-weight: normal; color: white; background-color: black; text-align: center; }
+  .ENUSCC { name: English; lang: en-US ; SAMIType: CC ; }
+-->
+</STYLE>
+
+</HEAD>
+
+<BODY>
+
+<-- Open play menu, choose Captions and Subtiles, On if available -->
+<-- Open tools menu, Security, Show local captions when present -->
+
+<SYNC Start="34148"><P Class="ENUSCC">어떻게 오셨어요?</P></SYNC>
+<SYNC Start="35584"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="36386"><P Class="ENUSCC">대피 덕인데요<br />명함 받으러 왔어요</P></SYNC>
+<SYNC Start="38798"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="43791"><P Class="ENUSCC">마법사 일 잘 되가요?</P></SYNC>
+<SYNC Start="45742"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="45758"><P Class="ENUSCC">잘 되가요<br />마법쓰고,주문 외우고..</P></SYNC>
+<SYNC Start="48729"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="49138"><P Class="ENUSCC">215달러 25센트입니다</P></SYNC>
+<SYNC Start="51208"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="51224"><P Class="ENUSCC">상당히 비싸네요</P></SYNC>
+<SYNC Start="52921"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="53684"><P Class="ENUSCC">가격이여,내려가라!</P></SYNC>
+<SYNC Start="56763"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="82943"><P Class="ENUSCC"><font color="#ffff00">자막:태즈</font></P></SYNC>
+<SYNC Start="83943"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="91480"><P Class="ENUSCC">아,유리그릇에 꼭 명함 넣어주세요</P></SYNC>
+<SYNC Start="94018"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="94020"><P Class="ENUSCC">무료 커플 저녁식사에<br />당첨될 수도 있습니다</P></SYNC>
+<SYNC Start="96068"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="99988"><P Class="ENUSCC">이쪽 입니다</P></SYNC>
+<SYNC Start="101004"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="114695"><P Class="ENUSCC">- 두 사람 자리 부탁해요<br />- 좋아요</P></SYNC>
+<SYNC Start="116885"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="116886"><P Class="ENUSCC">나도 금 색깔 바지 부탁하고 싶은데<br />댁한테 부탁하고 싶진 않네요</P></SYNC>
+<SYNC Start="119960"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="138615"><P Class="ENUSCC">받아</P></SYNC>
+<SYNC Start="139508"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="139533"><P Class="ENUSCC">- 나 지금 바빠<br />- 나도 바빠</P></SYNC>
+<SYNC Start="142258"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="153574"><P Class="ENUSCC">이젠 내가 모든 걸 맡아서 해야돼?</P></SYNC>
+<SYNC Start="155868"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="156934"><P Class="ENUSCC">왜요?</P></SYNC>
+<SYNC Start="157587"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="158751"><P Class="ENUSCC">제가 대피 덕인데요</P></SYNC>
+<SYNC Start="160577"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="162084"><P Class="ENUSCC">네?제가 이겼어요?<br />무료 커플 저녁식사에요?</P></SYNC>
+<SYNC Start="166256"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="166284"><P Class="ENUSCC">7가지 코스에 춤까지요?</P></SYNC>
+<SYNC Start="169069"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="169720"><P Class="ENUSCC">리무진도요?<br />세상에 이럴수가!</P></SYNC>
+<SYNC Start="172599"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="173524"><P Class="ENUSCC">마법사일 어떠냐고요?</P></SYNC>
+<SYNC Start="174591"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="174607"><P Class="ENUSCC">잘 되가요<br />마법쓰고,주문 외우고..</P></SYNC>
+<SYNC Start="177702"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="178623"><P Class="ENUSCC">금요일 밤에 봐요</P></SYNC>
+<SYNC Start="179761"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="180310"><P Class="ENUSCC">너 금요일에 뭐해?</P></SYNC>
+<SYNC Start="181310"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="181567"><P Class="ENUSCC">아무것도 안해</P></SYNC>
+<SYNC Start="182824"><P Class="ENUSCC">그럼 너랑 가야겠다</P></SYNC>
+<SYNC Start="183824"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="184186"><P Class="ENUSCC">금요일 밤에 우린 멋지게 차려입고</P></SYNC>
+<SYNC Start="187319"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="187358"><P Class="ENUSCC">리무진을 타고 낭만적인<br />저녁식사를 하는거야</P></SYNC>
+<SYNC Start="190881"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="190922"><P Class="ENUSCC">대피,그건 데이트라고 하는 거야</P></SYNC>
+<SYNC Start="194088"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="194108"><P Class="ENUSCC">난 너랑 데이트 못 해</P></SYNC>
+<SYNC Start="196369"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="196377"><P Class="ENUSCC">맞다,그건 미처 생각 못 했네</P></SYNC>
+<SYNC Start="199726"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="202748"><P Class="ENUSCC">포키,금요일 밤에 데이트 할래?</P></SYNC>
+<SYNC Start="205617"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="205625"><P Class="ENUSCC">무,물론이지!</P></SYNC>
+<SYNC Start="206982"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="206990"><P Class="ENUSCC">아니야,멍청아!<br />여자한테 물어봐야지</P></SYNC>
+<SYNC Start="209291"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="209307"><P Class="ENUSCC">기대된다!전화 해줘서 기뻐</P></SYNC>
+<SYNC Start="211830"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="213084"><P Class="ENUSCC">여자한테?<br />그치만 난 여자하곤 인연이 없는데?</P></SYNC>
+<SYNC Start="216210"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="217353"><P Class="ENUSCC">가재를 시켜야겠어요</P></SYNC>
+<SYNC Start="219409"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="219440"><P Class="ENUSCC">샐러드 하나랑 빵 주세요</P></SYNC>
+<SYNC Start="221863"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="223387"><P Class="ENUSCC">혹시 내가 예쁘다고 생각해요?</P></SYNC>
+<SYNC Start="224847"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="224863"><P Class="ENUSCC">여자는 외모로 판단되서는 안돼요</P></SYNC>
+<SYNC Start="227061"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="228739"><P Class="ENUSCC">굳이 판단한다면<br />10점 만점에 4.5점 정도?</P></SYNC>
+<SYNC Start="231396"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="232980"><P Class="ENUSCC">데이트하니까 너무 좋네요</P></SYNC>
+<SYNC Start="235325"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="235341"><P Class="ENUSCC">얼굴에 뭐 묻었어요</P></SYNC>
+<SYNC Start="237420"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="240784"><P Class="ENUSCC">잠깐만,묻은 게 아니었네요</P></SYNC>
+<SYNC Start="243284"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="245096"><P Class="ENUSCC">도대체 여자는 모르겠어</P></SYNC>
+<SYNC Start="247111"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="247127"><P Class="ENUSCC">그러면 여자랑 대화해서 그 사람의<br />의견을 들어보면 되잖아</P></SYNC>
+<SYNC Start="250334"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="250349"><P Class="ENUSCC">그거 좋은 생각이네!</P></SYNC>
+<SYNC Start="251746"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="251747"><P Class="ENUSCC">- 네 여자친구 롤라는 어때?<br />- 롤라는 여자친구 아니야</P></SYNC>
+<SYNC Start="255119"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="255120"><P Class="ENUSCC">- 미친 애야<br />- 모든 여자들은 다 미쳐있어</P></SYNC>
+<SYNC Start="257881"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="257898"><P Class="ENUSCC">걔한테 걸어<br />낚아</P></SYNC>
+<SYNC Start="259611"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="259651"><P Class="ENUSCC">싫어,걔한텐 걸기 싫어</P></SYNC>
+<SYNC Start="261232"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="261248"><P Class="ENUSCC">- 그러지 말고 낚아<br />- 안 낚을거야</P></SYNC>
+<SYNC Start="264224"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="264240"><P Class="ENUSCC">- 애초에 누가 낚는다는 말을 써?<br />- 내가 써</P></SYNC>
+<SYNC Start="266755"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="266772"><P Class="ENUSCC">내가 낚으라고 했으니까<br />낚아</P></SYNC>
+<SYNC Start="268581"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="268597"><P Class="ENUSCC">부탁이야,한 번뿐이잖아<br />제발!</P></SYNC>
+<SYNC Start="271957"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="271973"><P Class="ENUSCC">낚아</P></SYNC>
+<SYNC Start="274386"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="280414"><P Class="ENUSCC">- 안녕,벅스!<br />- 나인거 어떻게 알았어?</P></SYNC>
+<SYNC Start="282488"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="282496"><P Class="ENUSCC">아,난 전화오면 항상 이렇게 대답해</P></SYNC>
+<SYNC Start="284217"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="284241"><P Class="ENUSCC">혹시 너일 수도 있으니까</P></SYNC>
+<SYNC Start="286016"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="286017"><P Class="ENUSCC">미안해!</P></SYNC>
+<SYNC Start="287090"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="287098"><P Class="ENUSCC">아니야,괜찮아<br />그런데 이상한 대답이네</P></SYNC>
+<SYNC Start="289669"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="289677"><P Class="ENUSCC">아니,너한테 말한거 아니야<br />지금 오일트럭 들이받을 뻔 했거든</P></SYNC>
+<SYNC Start="292956"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="292962"><P Class="ENUSCC">그럼 조금 이따가<br />전화할까?</P></SYNC>
+<SYNC Start="295475"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="295483"><P Class="ENUSCC">아니야,지금이 좋아<br />지금이 딱 좋아</P></SYNC>
+<SYNC Start="298609"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="298641"><P Class="ENUSCC">지금이 좋으면서 딱 좋은거지</P></SYNC>
+<SYNC Start="302032"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="303494"><P Class="ENUSCC">말해봐</P></SYNC>
+<SYNC Start="304137"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="304379"><P Class="ENUSCC">내 친구 대피가 데이트<br />조언을 구하려고 하는데..</P></SYNC>
+<SYNC Start="306663"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="306672"><P Class="ENUSCC">네가 그걸 도와줬으면 좋겠어</P></SYNC>
+<SYNC Start="308331"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="308339"><P Class="ENUSCC">- 대체 왜 그래?<br />- 뭐,하기 싫으면..</P></SYNC>
+<SYNC Start="310714"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="310730"><P Class="ENUSCC">아니,너 말고<br />지금 오일트럭을 들이받을 뻔 했어</P></SYNC>
+<SYNC Start="314009"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="314018"><P Class="ENUSCC">- 그래서 대피를 도와달라고?<br />- 그래</P></SYNC>
+<SYNC Start="315950"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="315958"><P Class="ENUSCC">- 그럼 내가 누구 도와주는거네?<br />- 그래</P></SYNC>
+<SYNC Start="319284"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="319292"><P Class="ENUSCC">- 혹시 친절한 사람 좋아해?<br />- 그래</P></SYNC>
+<SYNC Start="321420"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="321436"><P Class="ENUSCC">그러니까 내가 대피를 도와주면<br />넌 날 좋아하게 되는거네?</P></SYNC>
+<SYNC Start="324560"><P Class="ENUSCC">어..아마도..</P></SYNC>
+<SYNC Start="326312"><P Class="ENUSCC">- 그럼 할게!<br />- 좋았어,고마워</P></SYNC>
+<SYNC Start="328685"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="328687"><P Class="ENUSCC">이런..</P></SYNC>
+<SYNC Start="329653"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="329661"><P Class="ENUSCC">왜 그래,하고 싶지 않아?</P></SYNC>
+<SYNC Start="331200"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="331208"><P Class="ENUSCC">아니,이번에는 오일트럭하고 부딪혔어</P></SYNC>
+<SYNC Start="333018"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="333026"><P Class="ENUSCC">끊어야겠다,안녕!</P></SYNC>
+<SYNC Start="334551"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="345726"><P Class="ENUSCC">데이트를 성사시키기 위해서는<br />먼저 여자를 이해해야 할 필요가 있어</P></SYNC>
+<SYNC Start="351706"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="351714"><P Class="ENUSCC">그래서 내가 모든 여자들이<br />데이트에서 듣고싶은 말 목록을 적어왔어</P></SYNC>
+<SYNC Start="355747"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="355763"><P Class="ENUSCC">이걸 여자한테 말해주면<br />분명 어떤 여자든지 즉시 너한테 반하게 될 거야</P></SYNC>
+<SYNC Start="361689"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="362807"><P Class="ENUSCC">- 정말?<br />- 일단 읽어봐</P></SYNC>
+<SYNC Start="364616"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="365326"><P Class="ENUSCC">당신은 무척이나 아름답습니다</P></SYNC>
+<SYNC Start="367343"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="367351"><P Class="ENUSCC">당신은 우아함,여성스러움 그 자체이며<br />저에게 있어 최고의 친구입니다</P></SYNC>
+<SYNC Start="371708"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="371725"><P Class="ENUSCC">- 이건 좋네<br />- 그치?</P></SYNC>
+<SYNC Start="374315"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="374334"><P Class="ENUSCC">저에게 있어 최고의 친구입니다<br />아니,저에게 필요한 친구는 당신 뿐입니다</P></SYNC>
+<SYNC Start="378196"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="378219"><P Class="ENUSCC">그래서 말하는데</P></SYNC>
+<SYNC Start="379640"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="379656"><P Class="ENUSCC">우리 둘 다 모두 친구를 없애버리고<br />우리 서로가 유일한 친구가 됩시다</P></SYNC>
+<SYNC Start="383191"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="383199"><P Class="ENUSCC">그리고 우리를 받아주지 않는<br />가족과도 인연을 끊읍시다</P></SYNC>
+<SYNC Start="387539"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="387552"><P Class="ENUSCC">그리고 서로가 같이<br />일할 수 있는 직장에서 일합시다</P></SYNC>
+<SYNC Start="390214"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="390230"><P Class="ENUSCC">왜냐하면 제가 알기로는<br />우리가 친구와 가족들을 버려야만</P></SYNC>
+<SYNC Start="394409"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="394425"><P Class="ENUSCC">우리의 완벽한 관계가<br />보장받을 수 있기 때문입니다</P></SYNC>
+<SYNC Start="400522"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="401293"><P Class="ENUSCC">이런 거에 정말 여자가 넘어와?</P></SYNC>
+<SYNC Start="403554"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="405858"><P Class="ENUSCC">- 너 괜찮아?<br />- 괜찮아</P></SYNC>
+<SYNC Start="407707"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="407721"><P Class="ENUSCC">그냥 네가 이렇게 잘생긴 줄 몰랐어</P></SYNC>
+<SYNC Start="411792"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="411808"><P Class="ENUSCC">- 고마워<br />- 너 정말 부리가 크구나</P></SYNC>
+<SYNC Start="414515"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="414521"><P Class="ENUSCC">그거 고마워</P></SYNC>
+<SYNC Start="416632"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="416640"><P Class="ENUSCC">그래서..오늘 데이트에는<br />누구랑 갈 지 정했어?</P></SYNC>
+<SYNC Start="420517"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="423464"><P Class="ENUSCC">- 이미 정했어<br />- 내가 아는 사람이야?</P></SYNC>
+<SYNC Start="426784"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="426809"><P Class="ENUSCC">아마도,혹시 복사점에서<br />일하는 티나라는 애 알아?</P></SYNC>
+<SYNC Start="429856"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="429869"><P Class="ENUSCC">나보다 부리가 커</P></SYNC>
+<SYNC Start="431956"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="433051"><P Class="ENUSCC">- 아무튼 도와줘서 고마워<br />- 언제 한 번 전화 줘!</P></SYNC>
+<SYNC Start="435872"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="439239"><P Class="ENUSCC">너 재밌다!</P></SYNC>
+<SYNC Start="439869"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="454804"><P Class="ENUSCC">네?</P></SYNC>
+<SYNC Start="456015"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="456030"><P Class="ENUSCC">안녕하세요,혹시 나 기억해요?</P></SYNC>
+<SYNC Start="459172"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="459195"><P Class="ENUSCC">마법사님이잖아요</P></SYNC>
+<SYNC Start="460447"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="460463"><P Class="ENUSCC">- 기억하고 있네요!<br />- 어떻게 잊겠어요?</P></SYNC>
+<SYNC Start="463474"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="463496"><P Class="ENUSCC">수표가 거절됐는데</P></SYNC>
+<SYNC Start="464805"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="465094"><P Class="ENUSCC">잔고 없음</P></SYNC>
+<SYNC Start="466094"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="466365"><P Class="ENUSCC">뭐라고요?당장 내<br />금융 어드바이저한테 따져야겠네요</P></SYNC>
+<SYNC Start="470203"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="470226"><P Class="ENUSCC">오늘은 이걸로 지불할게요</P></SYNC>
+<SYNC Start="472980"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="475763"><P Class="ENUSCC">그런데 티나,묻고 싶은 게 있는데..<br />혹시..오늘 밤에 아무 일정이 없다면..</P></SYNC>
+<SYNC Start="480518"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="480521"><P Class="ENUSCC">당신은 못생기지 않았으니까<br />일정이 있겠지만 그래도 혹시라도 아니라면..</P></SYNC>
+<SYNC Start="484117"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="484123"><P Class="ENUSCC">혹시..가능하면..<br />강요하는 건 아닌데..</P></SYNC>
+<SYNC Start="487030"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="487036"><P Class="ENUSCC">그냥 궁금해서 묻는데<br />혹시 나랑 어디 갈래요?</P></SYNC>
+<SYNC Start="490488"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="490527"><P Class="ENUSCC">아님 말고요</P></SYNC>
+<SYNC Start="492218"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="493035"><P Class="ENUSCC">네,좋죠</P></SYNC>
+<SYNC Start="494249"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="494265"><P Class="ENUSCC">뭐,안될 줄은 알았어요</P></SYNC>
+<SYNC Start="496804"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="496844"><P Class="ENUSCC">가는 거 좋다고 말했어요</P></SYNC>
+<SYNC Start="500137"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="500169"><P Class="ENUSCC">- 정말요?<br />- 그럼요!재밌겠는데요?</P></SYNC>
+<SYNC Start="502415"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="502422"><P Class="ENUSCC">좋아요!<br />그럼 8시에 여기 올게요!</P></SYNC>
+<SYNC Start="504843"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="506215"><P Class="ENUSCC">그 돈은 쓰지 마요<br />체포당하니까</P></SYNC>
+<SYNC Start="508802"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="513730"><P Class="ENUSCC">데이트에 가려면 향기가 좋아야지<br />한번 더 뿌리자</P></SYNC>
+<SYNC Start="517245"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="526072"><P Class="ENUSCC">만일을 대비해서</P></SYNC>
+<SYNC Start="526815"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="528760"><P Class="ENUSCC">안녕,대피</P></SYNC>
+<SYNC Start="530926"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="534195"><P Class="ENUSCC">롤라!<br />여기서 뭐 하는 거야?</P></SYNC>
+<SYNC Start="535980"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="535987"><P Class="ENUSCC">- 그 애랑 데이트 하기로 했어?<br />- 그래,맞아</P></SYNC>
+<SYNC Start="538066"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="538088"><P Class="ENUSCC">그래서 그 애랑 데이트 하려고?<br />누군지도 모르는데?</P></SYNC>
+<SYNC Start="541303"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="541310"><P Class="ENUSCC">무슨 문제 일으킬지도 모르잖아<br />위험할 지도 모르고,혹시 알아?</P></SYNC>
+<SYNC Start="543875"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="543890"><P Class="ENUSCC">세상엔 나처럼 안정적인<br />여자가 없어</P></SYNC>
+<SYNC Start="545887"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="550001"><P Class="ENUSCC">- 아니,티나는 달라!<br />- 걔 이름이 티나야?</P></SYNC>
+<SYNC Start="553159"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="553191"><P Class="ENUSCC">그건 분명 진짜 이름이 아니야<br />볼스위크라던가 캐트라그처럼 지어낸 이름이라고</P></SYNC>
+<SYNC Start="557005"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="557019"><P Class="ENUSCC">진짜 이름이야</P></SYNC>
+<SYNC Start="559757"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="559794"><P Class="ENUSCC">걔 진짜 사기꾼이구나</P></SYNC>
+<SYNC Start="562365"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="562409"><P Class="ENUSCC">이제 슬슬 나가줄래?</P></SYNC>
+<SYNC Start="564893"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="564935"><P Class="ENUSCC">좋아,하지만 넌 커다란 실수를 하고 있어</P></SYNC>
+<SYNC Start="567958"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="570881"><P Class="ENUSCC">티나는 미쳤어!<br />미친 애라고!</P></SYNC>
+<SYNC Start="573602"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="573603"><P Class="ENUSCC">미쳤어!이름도 가짜로 쓰잖아!<br />아마도 스토커일 거야!</P></SYNC>
+<SYNC Start="577285"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="581669"><P Class="ENUSCC">사다리는 여기 놨다가<br />나중에 가져갈게</P></SYNC>
+<SYNC Start="584954"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="588095"><P Class="ENUSCC">대피를 뺏겨선 안돼<br />데이트를 막아야 해</P></SYNC>
+<SYNC Start="591074"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="592789"><P Class="ENUSCC">그리고 이제 그럴 기회가 왔어<br />혼잣말 하는 거 이상한 건가?</P></SYNC>
+<SYNC Start="596630"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="596654"><P Class="ENUSCC">아니,안 이상해<br />혹시 나 머리 잘라야 하나?</P></SYNC>
+<SYNC Start="598352"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="598368"><P Class="ENUSCC">글쎄?앞머리는 기르는 게<br />좋을 것 같아</P></SYNC>
+<SYNC Start="599722"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="599746"><P Class="ENUSCC">그것 참 좋은 생각이네!</P></SYNC>
+<SYNC Start="601825"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="601840"><P Class="ENUSCC">- 안녕,롤라<br />- 안녕,벅스!</P></SYNC>
+<SYNC Start="603617"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="603641"><P Class="ENUSCC">- 대피랑 얘기하니까 어땠어?<br />- 좋았어!</P></SYNC>
+<SYNC Start="606093"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="606094"><P Class="ENUSCC">정말 좋았어,너무 좋았어<br />정말이지 최고였어</P></SYNC>
+<SYNC Start="609320"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="609334"><P Class="ENUSCC">아무튼 도와줘서 고마워<br />나중에 한번 보자</P></SYNC>
+<SYNC Start="612475"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="612476"><P Class="ENUSCC">그냥 오늘 밤에<br />저녁먹는 건 어때?</P></SYNC>
+<SYNC Start="614365"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="614398"><P Class="ENUSCC">글쎄,잘 모르겠어</P></SYNC>
+<SYNC Start="616442"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="616474"><P Class="ENUSCC">같이 먹자</P></SYNC>
+<SYNC Start="617470"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="618761"><P Class="ENUSCC">저녁 한번 먹는 건데 어때?<br />비싼 곳 아니어도 괜찮아</P></SYNC>
+<SYNC Start="621531"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="621546"><P Class="ENUSCC">알았어</P></SYNC>
+<SYNC Start="623149"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="623169"><P Class="ENUSCC">좋아<br />우리가 갈 곳이 있어</P></SYNC>
+<SYNC Start="626192"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="626203"><P Class="ENUSCC">아주 캐주얼한 곳이야</P></SYNC>
+<SYNC Start="628615"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="628770"><P Class="ENUSCC">이게 캐주얼하다고?</P></SYNC>
+<SYNC Start="631309"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="631339"><P Class="ENUSCC">- 누가 캐주얼하다고 했는데?<br />- 네가 그랬잖아</P></SYNC>
+<SYNC Start="634578"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="634627"><P Class="ENUSCC">아,그렇지!</P></SYNC>
+<SYNC Start="637273"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="637289"><P Class="ENUSCC">난 비싼 고급식당이라고 말한 거였어<br />가끔 단어가 헷갈려</P></SYNC>
+<SYNC Start="641558"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="641600"><P Class="ENUSCC">난 트럭을 비누거품이라고<br />할 때가 있거든</P></SYNC>
+<SYNC Start="644719"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="644736"><P Class="ENUSCC">보트 같은 경우는<br />젤리라고 말하기도 하고</P></SYNC>
+<SYNC Start="648418"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="658970"><P Class="ENUSCC">갑자기 왜 그래?</P></SYNC>
+<SYNC Start="660494"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="660510"><P Class="ENUSCC">어떨 때 나는 테이블로 같이<br />가자는 뜻으로 키스하기도 해</P></SYNC>
+<SYNC Start="663327"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="675502"><P Class="ENUSCC">- 저기,맥?<br />- 왜 그러나,친구?</P></SYNC>
+<SYNC Start="677112"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="677127"><P Class="ENUSCC">그 크림을 나에게 갖다주지 않겠나?</P></SYNC>
+<SYNC Start="679388"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="679404"><P Class="ENUSCC">- 그거야 영광일세!<br />- 그거 고맙네!</P></SYNC>
+<SYNC Start="681537"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="681538"><P Class="ENUSCC">아닐세,자네가 고마워해줘서 고맙네!</P></SYNC>
+<SYNC Start="683365"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="683373"><P Class="ENUSCC">- 자네가 고마워하니 천만에라고 말하겠네<br />- 다시 한번 고맙네!</P></SYNC>
+<SYNC Start="686182"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="687367"><P Class="ENUSCC">예의를 지키고<br />착한 일을 하자</P></SYNC>
+<SYNC Start="691333"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="691357"><P Class="ENUSCC">어떤 사람에게라도</P></SYNC>
+<SYNC Start="694256"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="694280"><P Class="ENUSCC">이모가 나에게<br />생일카드를 보내셨다네</P></SYNC>
+<SYNC Start="696016"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="696024"><P Class="ENUSCC">그때 나는 너무나 기뻐서</P></SYNC>
+<SYNC Start="697803"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="697807"><P Class="ENUSCC">이모께 선물을 보냈다네</P></SYNC>
+<SYNC Start="699664"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="699674"><P Class="ENUSCC">머핀을 바구니에 한 가득 담아서</P></SYNC>
+<SYNC Start="701497"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="701518"><P Class="ENUSCC">난 은행에 갔었는데 은행원이<br />나에게 웃어줬다네</P></SYNC>
+<SYNC Start="704795"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="704811"><P Class="ENUSCC">정말 멋진 미소였지</P></SYNC>
+<SYNC Start="706684"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="706691"><P Class="ENUSCC">그래서 나는 그녀에게<br />내 돈을 전부 주었다네</P></SYNC>
+<SYNC Start="708653"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="708660"><P Class="ENUSCC">예의를 갖추고<br />착한 일을 하자</P></SYNC>
+<SYNC Start="712544"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="712560"><P Class="ENUSCC">누구에게라도</P></SYNC>
+<SYNC Start="714972"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="715879"><P Class="ENUSCC">할머니 길 건너는 거 도와줄 때는</P></SYNC>
+<SYNC Start="719298"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="719314"><P Class="ENUSCC">시간을 내서 발을 주물러 드리자</P></SYNC>
+<SYNC Start="722909"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="722928"><P Class="ENUSCC">Be, B-E, P-O-L-I-T-E</P></SYNC>
+<SYNC Start="726485"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="726491"><P Class="ENUSCC">Be, B-E, P-O-L-I-T-E</P></SYNC>
+<SYNC Start="729662"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="729669"><P Class="ENUSCC">"부탁합니다"</P></SYNC>
+<SYNC Start="730681"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="730825"><P Class="ENUSCC">"감사합니다"</P></SYNC>
+<SYNC Start="731606"><P Class="ENUSCC">기침하는 걸 들으면 "몸 조심 하세요"</P></SYNC>
+<SYNC Start="733429"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="733440"><P Class="ENUSCC">문을 열어주고 의자를 당겨주자</P></SYNC>
+<SYNC Start="735236"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="735253"><P Class="ENUSCC">사람을 계단에서 밀치면 안돼</P></SYNC>
+<SYNC Start="737111"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="737119"><P Class="ENUSCC">목요일 밤에 저녁을 먹었는데</P></SYNC>
+<SYNC Start="738743"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="738744"><P Class="ENUSCC">웨이터가 우리 접시를 알맞게 갖다줬다네</P></SYNC>
+<SYNC Start="740597"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="740613"><P Class="ENUSCC">우리는 너무 고마워서<br />스웨터를 하나 만들어 줬다네</P></SYNC>
+<SYNC Start="744073"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="744079"><P Class="ENUSCC">우리 차에 가스가 다 떨어져서<br />견인차 운전수가 기름을 채워줬다네</P></SYNC>
+<SYNC Start="747630"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="747631"><P Class="ENUSCC">정말 빠르게 가스를 채워주었지</P></SYNC>
+<SYNC Start="749337"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="749353"><P Class="ENUSCC">그래서 그를 브로드웨이에 데려다 주었다네</P></SYNC>
+<SYNC Start="751289"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="751297"><P Class="ENUSCC">예의를 갖추고<br />착한 일을 하자</P></SYNC>
+<SYNC Start="755240"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="755256"><P Class="ENUSCC">어떤 사람에게라도</P></SYNC>
+<SYNC Start="758677"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="758724"><P Class="ENUSCC">누군가가 레이저 빔을 쏠 때</P></SYNC>
+<SYNC Start="761755"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="761777"><P Class="ENUSCC">소리 지르면 다른 사람한테<br />피해를 준다는 걸 기억해</P></SYNC>
+<SYNC Start="765519"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="765535"><P Class="ENUSCC">예의를 갖추지 않으면 발포하겠어</P></SYNC>
+<SYNC Start="768913"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="784725"><P Class="ENUSCC">좋은 식당이네</P></SYNC>
+<SYNC Start="786304"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="786320"><P Class="ENUSCC">알았으니까 저쪽으로<br />좀 비켜줄래?</P></SYNC>
+<SYNC Start="788255"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="788256"><P Class="ENUSCC">고마워,긴급상황을 대비해서<br />출구들이 제대로 있는지 확인하고 싶어</P></SYNC>
+<SYNC Start="793207"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="801651"><P Class="ENUSCC">숙성 쇠고기?<br />이건 어디서 가져오는 거지?</P></SYNC>
+<SYNC Start="804824"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="804841"><P Class="ENUSCC">혹시 은퇴한 소들이<br />모인 단체에서 가져오는 건가?</P></SYNC>
+<SYNC Start="806879"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="809662"><P Class="ENUSCC">저기,롤라?</P></SYNC>
+<SYNC Start="811400"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="811418"><P Class="ENUSCC">뭐?맞아<br />나도 그렇게 생각해</P></SYNC>
+<SYNC Start="815806"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="815832"><P Class="ENUSCC">뭐라고 말했는진 몰라도</P></SYNC>
+<SYNC Start="817675"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="822016"><P Class="ENUSCC">이것봐,천으로 만든 냅킨이야!<br />좋은데?</P></SYNC>
+<SYNC Start="825531"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="833540"><P Class="ENUSCC">당신은 무척이나 아름답습니다</P></SYNC>
+<SYNC Start="837042"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="840380"><P Class="ENUSCC">당신은 우아함,여성스러움 그 자체이며</P></SYNC>
+<SYNC Start="844991"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="845017"><P Class="ENUSCC">- 저에게 있어 최고의 친구입니다<br />- 내가 최고의 친구라고?</P></SYNC>
+<SYNC Start="848295"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="848296"><P Class="ENUSCC">- 만난 지 얼마 안됐잖아<br />- 잠깐만 기다려봐</P></SYNC>
+<SYNC Start="851205"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="851206"><P Class="ENUSCC">당신과 함께 있으면<br />모든 나날이 발렌타인 데이입니다</P></SYNC>
+<SYNC Start="854975"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="856363"><P Class="ENUSCC">진짜 발렌타인 데이만 빼고요<br />그 날은 수퍼 발렌타인 데이라고 부릅시다</P></SYNC>
+<SYNC Start="861767"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="861775"><P Class="ENUSCC">- 혹시 뭐 읽는거야?<br />- 아니,그러니까.</P></SYNC>
+<SYNC Start="864568"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="865812"><P Class="ENUSCC">모든 여자들이 듣고 싶어 하는 말?<br />어떤 여자가 이런 말을 듣고 싶어하는데?</P></SYNC>
+<SYNC Start="869248"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="869512"><P Class="ENUSCC">롤라!</P></SYNC>
+<SYNC Start="871083"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="871084"><P Class="ENUSCC">롤라!</P></SYNC>
+<SYNC Start="872888"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="873664"><P Class="ENUSCC">전채요리 먹을 거냐고 물어봤잖아</P></SYNC>
+<SYNC Start="876014"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="876030"><P Class="ENUSCC">무,물론이지<br />하고 싶은대로 해,대피</P></SYNC>
+<SYNC Start="878125"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="878809"><P Class="ENUSCC">- 난 벅스야<br />- 뭐?</P></SYNC>
+<SYNC Start="881507"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="881539"><P Class="ENUSCC">- 나는 벅스야<br />-그래서 뭐?메달이라도 달라고?</P></SYNC>
+<SYNC Start="884999"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="885055"><P Class="ENUSCC">넌 어른이야<br />이런 거 읽을 필요 없어</P></SYNC>
+<SYNC Start="887788"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="887828"><P Class="ENUSCC">그냥 서로에 대해서 얘기하자<br />너에 대해서 얘기해줄래?</P></SYNC>
+<SYNC Start="891716"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="891754"><P Class="ENUSCC">알았어,그럼<br />뭘 알고 싶은데?</P></SYNC>
+<SYNC Start="895064"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="895079"><P Class="ENUSCC">난 부자야,엄청난 부자지<br />하지만 좋은 사람이야</P></SYNC>
+<SYNC Start="897868"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="897884"><P Class="ENUSCC">난 가난한 사람들을 도와<br />고아라던가 고래라던가</P></SYNC>
+<SYNC Start="900360"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="900368"><P Class="ENUSCC">그리고..</P></SYNC>
+<SYNC Start="901273"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="901645"><P Class="ENUSCC">저기,혹시 사실대로 말하기 싫으면<br />내가 맞춰볼까?</P></SYNC>
+<SYNC Start="906023"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="906077"><P Class="ENUSCC">넌 겁 많은 이상한 녀석이고<br />거짓말을 잘 하지</P></SYNC>
+<SYNC Start="909410"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="909418"><P Class="ENUSCC">게다가 매일 밤 잘때마다 울고</P></SYNC>
+<SYNC Start="912176"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="912279"><P Class="ENUSCC">우와,너 대단하다<br />그럼 데이트는 여기서 끝내자</P></SYNC>
+<SYNC Start="915843"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="915914"><P Class="ENUSCC">야,이리 와!<br />긴장 풀어,아직 안 끝났어</P></SYNC>
+<SYNC Start="919909"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="919925"><P Class="ENUSCC">그치만 지금 네가 나에 <br />대한 끔찍한 것들을 말했잖아!</P></SYNC>
+<SYNC Start="923020"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="923059"><P Class="ENUSCC">넌 구제할 길 없는 버려진 빌딩같아</P></SYNC>
+<SYNC Start="926590"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="926600"><P Class="ENUSCC">창문은 깨졌고,쥐가 돌아다니고<br />그야말로 시궁창이지</P></SYNC>
+<SYNC Start="931934"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="932273"><P Class="ENUSCC">하지만 누군가가 그 안에 들어와서 <br />수리하고 청소하면</P></SYNC>
+<SYNC Start="936369"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="936377"><P Class="ENUSCC">어쩌면 그 지저분한 빌딩은 <br />지저분하지 않은 것으로 바뀔 수도 있겠지</P></SYNC>
+<SYNC Start="942049"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="942509"><P Class="ENUSCC">- 네가 그 누군가야?<br />- 운 좋은 줄 알아</P></SYNC>
+<SYNC Start="945207"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="945231"><P Class="ENUSCC">난 계획 세우는 거 좋아해</P></SYNC>
+<SYNC Start="946826"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="946856"><P Class="ENUSCC">- 그래서 내가 그 지저분한 빌딩이야?<br />- 그렇지</P></SYNC>
+<SYNC Start="950230"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="950260"><P Class="ENUSCC">지금까지 난 그런 칭찬을 <br />들어본 적이 없어!</P></SYNC>
+<SYNC Start="954982"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="955031"><P Class="ENUSCC">아 라 카트?<br />이건 어때?</P></SYNC>
+<SYNC Start="957078"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="957118"><P Class="ENUSCC">네가 카트 모는 거 <br />좋아한다면 말이야</P></SYNC>
+<SYNC Start="959143"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="962322"><P Class="ENUSCC">롤라,뭐라도 좀 말해봐</P></SYNC>
+<SYNC Start="964866"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="964882"><P Class="ENUSCC">마음에 안 들어</P></SYNC>
+<SYNC Start="967699"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="967741"><P Class="ENUSCC">알았어,그럼 잠깐 실례할게</P></SYNC>
+<SYNC Start="970878"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="974282"><P Class="ENUSCC">대체 어떻게 된 거지?<br />아깐 키스를 하더니 이젠 무시해?</P></SYNC>
+<SYNC Start="977463"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="977465"><P Class="ENUSCC">은퇴한 소들이 모인 단체 <br />농담한 것도 재미 없다는거야?</P></SYNC>
+<SYNC Start="981518"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="981534"><P Class="ENUSCC">좋아,이제 진정하자<br />데이트는 끝나지 않았어</P></SYNC>
+<SYNC Start="985232"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="985272"><P Class="ENUSCC">아직 주문도 안 했어<br />디저트 나올 때까지 기다리자</P></SYNC>
+<SYNC Start="987984"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="987998"><P Class="ENUSCC">디저트 농담도 <br />있으니까 괜찮아</P></SYNC>
+<SYNC Start="990164"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="990201"><P Class="ENUSCC">초콜릿 무스?<br />이젠 초콜릿으로 무스를 바르나봐?</P></SYNC>
+<SYNC Start="993746"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="995942"><P Class="ENUSCC">중요한 건 데이트 <br />아직 안 끝났다는 거에요</P></SYNC>
+<SYNC Start="997886"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1012483"><P Class="ENUSCC">돼지같은 소리낸다!</P></SYNC>
+<SYNC Start="1013383.8055"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1019410"><P Class="ENUSCC">안녕하세요,저는 케트러그라고 합니다<br />오늘 서브를 담당했습니다</P></SYNC>
+<SYNC Start="1022869.3912"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1022879"><P Class="ENUSCC">롤라,여기서 일했었어?</P></SYNC>
+<SYNC Start="1025291"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1025307"><P Class="ENUSCC">네,저는 여기서 평생 일했습니다<br />태어났을 때부터</P></SYNC>
+<SYNC Start="1027529"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1027560"><P Class="ENUSCC">- 뭐 갖다드릴까요?<br />- 다른 사람한테 이미 주문했어요</P></SYNC>
+<SYNC Start="1030155"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1031301"><P Class="ENUSCC">우와!</P></SYNC>
+<SYNC Start="1032262"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1035076"><P Class="ENUSCC">저거 내가 좋아하는 노랜데!</P></SYNC>
+<SYNC Start="1036236"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1036247"><P Class="ENUSCC">- 같이 춤 출래?<br />- 물론이지!</P></SYNC>
+<SYNC Start="1038580"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1044123"><P Class="ENUSCC">그래서 말이지,롤라..</P></SYNC>
+<SYNC Start="1046098"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1046130"><P Class="ENUSCC">내가 당근깎이를 발명했어</P></SYNC>
+<SYNC Start="1048472"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1048496"><P Class="ENUSCC">너무 거만해</P></SYNC>
+<SYNC Start="1049421"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1049546"><P Class="ENUSCC">요즘에 나온 영화 뭐 봤어?</P></SYNC>
+<SYNC Start="1051116"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1051124"><P Class="ENUSCC">이건 너무 재미없고..</P></SYNC>
+<SYNC Start="1052604"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1053282"><P Class="ENUSCC">너 귀가 참 예쁘다</P></SYNC>
+<SYNC Start="1054670"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1056451"><P Class="ENUSCC">완벽해!</P></SYNC>
+<SYNC Start="1056896"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1061084"><P Class="ENUSCC">저 붉은 드레스를 입은 여자는 누구일까?</P></SYNC>
+<SYNC Start="1063250"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1063266"><P Class="ENUSCC">저 여자는 누구일까?<br />저 여자는 미쳤어</P></SYNC>
+<SYNC Start="1065673"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1065698"><P Class="ENUSCC">여자들은 겉보기와 달라</P></SYNC>
+<SYNC Start="1067626"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1067644"><P Class="ENUSCC">그의 꿈 속에서는 한 여자만이 있지</P></SYNC>
+<SYNC Start="1070160"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1070161"><P Class="ENUSCC">저 가짜 이름을 쓰는 여자는 누굴까?</P></SYNC>
+<SYNC Start="1072169"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1072178"><P Class="ENUSCC">저 가짜 이름 쓰는 여자는 누구냐고</P></SYNC>
+<SYNC Start="1074359"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1074369"><P Class="ENUSCC">저 가짜 이름 쓰는 여자한테서 떨어져!</P></SYNC>
+<SYNC Start="1076607"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1076630"><P Class="ENUSCC">그리고 너를 정말로 신경 써줘서<br />네 침실 까지 간 여자랑 사귀는 게 좋아</P></SYNC>
+<SYNC Start="1084675"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1084715"><P Class="ENUSCC">- 지금 뭐 하는거야?<br />- 내 남자친구 되찾는 거야</P></SYNC>
+<SYNC Start="1087572"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1087596"><P Class="ENUSCC">저 가짜 이름 쓰는..</P></SYNC>
+<SYNC Start="1089238"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1089277"><P Class="ENUSCC">무슨 남자친구?</P></SYNC>
+<SYNC Start="1091245"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1091285"><P Class="ENUSCC">대피</P></SYNC>
+<SYNC Start="1092991"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1093023"><P Class="ENUSCC">대피는 네 남자친구가 아니야!<br />내가 네 남자친구야!</P></SYNC>
+<SYNC Start="1097411"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1097451"><P Class="ENUSCC">다시 한번 말해줄래?</P></SYNC>
+<SYNC Start="1098773"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1099030"><P Class="ENUSCC">괜찮아,이미 여기 있으니까</P></SYNC>
+<SYNC Start="1100970"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1100971"><P Class="ENUSCC">내가 네 남자친구야!</P></SYNC>
+<SYNC Start="1102335"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1102351"><P Class="ENUSCC">우와..</P></SYNC>
+<SYNC Start="1103502"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1104504"><P Class="ENUSCC">내가 네 남자친구야!</P></SYNC>
+<SYNC Start="1106154"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1107084"><P Class="ENUSCC">내가 네 남자친구야!</P></SYNC>
+<SYNC Start="1108393"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1108409"><P Class="ENUSCC">- 벅스 여기서 뭐 해?<br />- 우리 데이트해</P></SYNC>
+<SYNC Start="1111693"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1111718"><P Class="ENUSCC">얜 내 남자친구고<br />난 얘 여자친구야</P></SYNC>
+<SYNC Start="1113721"><P Class="ENUSCC">우린 남자친구 여자친구!</P></SYNC>
+<SYNC Start="1114721"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1115311"><P Class="ENUSCC">난 네가 여기 종업원인줄 알았어</P></SYNC>
+<SYNC Start="1117533"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1118919"><P Class="ENUSCC">우와</P></SYNC>
+<SYNC Start="1119727"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1119773"><P Class="ENUSCC">좋은 애네<br />모처럼 만났으니까 뭐 하지 않을래?</P></SYNC>
+<SYNC Start="1122242"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1122250"><P Class="ENUSCC">더블 데이트가 좋겠다! <br />내일 타이 요리 먹으러 갈래?</P></SYNC>
+<SYNC Start="1124623"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1124972"><P Class="ENUSCC">타이 좋지!</P></SYNC>
+<SYNC Start="1125972"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1131062"><P Class="ENUSCC">대체 어떻게 된 거지?</P></SYNC>
+<SYNC Start="1133173"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1278343"><P Class="ENUSCC">마법사랑 데이트하다니<br />오늘은 정말 최고였어!</P></SYNC>
+<SYNC Start="1281936"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1281984"><P Class="ENUSCC">사실대로 말하지면<br />난 마법사가 아니야</P></SYNC>
+<SYNC Start="1286380"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1292263"><P Class="ENUSCC">와,왔구나!</P></SYNC>
+<SYNC Start="1295247"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1295298"><P Class="ENUSCC">도,도대체 나,나타나질 않아서 걱정했었어</P></SYNC>
+<SYNC Start="1298112"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1298113"><P Class="ENUSCC">- 그게 무슨 말이야?<br />- 오,오늘 밤 같이 저,저녁 먹기로 했잖아</P></SYNC>
+<SYNC Start="1301951"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1302675"><P Class="ENUSCC">내가 네가 먹을 걸 먹었나봐,포키</P></SYNC>
+<SYNC Start="1306190"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1306204"><P Class="ENUSCC">내 이름 어,어떻게 알았어?</P></SYNC>
+<SYNC Start="1307807"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1307831"><P Class="ENUSCC">그냥 너 생긴게<br />이름이 포키같았어</P></SYNC>
+<SYNC Start="1310251"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1310291"><P Class="ENUSCC">혹시 나한테 주는거야?</P></SYNC>
+<SYNC Start="1312076"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1319165"><P Class="ENUSCC">여,여자친구나 사귀어야겠다</P></SYNC>
+<SYNC Start="1321185"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1350569"><P Class="ENUSCC">오늘은..뭐였더라?</P></SYNC>
+<SYNC Start="1351634.9982"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1352103"><P Class="ENUSCC">여기까지라니 뭐가?</P></SYNC>
+<SYNC Start="1353103"><P Class="ENUSCC">&nbsp;</P></SYNC>
+<SYNC Start="1353777"><P Class="ENUSCC">미쳤나봐</P></SYNC>
+<SYNC Start="1354727.7396"><P Class="ENUSCC">&nbsp;</P></SYNC>
+</BODY>
+</SAMI>

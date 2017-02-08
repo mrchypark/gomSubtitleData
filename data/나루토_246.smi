@@ -1,0 +1,1335 @@
+<SAMI>
+<HEAD>
+<TITLE>Hanbange 3.0 - (C) Breadu Soft 2003</TITLE>
+<STYLE TYPE="text/css">
+<!--
+P { margin-left:8pt; margin-right:8pt; margin-bottom:2pt;
+    margin-top:2pt; font-size:14pt; text-align:center;
+    font-family:굴림, Arial; font-weight:normal; color:white;
+    background-color:black; }
+.KRCC { Name:한국어; lang:ko-KR; SAMIType:CC; }
+#STDPrn { Name:Standard Print; }
+#LargePrn { Name:Large Print; font-size:20pt; }
+#SmallPrn { Name:Small Print; font-size:10pt; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<SYNC Start=1500><P Class=KRCC>
+<FONT COLOR="#3142A4">나
+<FONT COLOR="#3649B6">루
+<FONT COLOR="#394EC1">토&nbsp;
+<FONT COLOR="#4A5ECA">질
+<FONT COLOR="#5C6DCF">풍
+<FONT COLOR="#6878D2">전&nbsp;
+<FONT COLOR="#7C8AD8">cap
+<FONT COLOR="#8C98DD">tion&nbsp;
+<FONT COLOR="#A0AAE2">by
+<FONT COLOR="#AFB8E7">은
+<FONT COLOR="#C2C9ED">색
+<FONT COLOR="#D6DBF3">악
+<FONT COLOR="#EDEFFA">령
+<SYNC Start=1600><P Class=KRCC>
+<FONT COLOR="#3649B6">나
+<FONT COLOR="#3142A4">루
+<FONT COLOR="#3649B6">토&nbsp;
+<FONT COLOR="#394EC1">질
+<FONT COLOR="#4A5ECA">풍
+<FONT COLOR="#5C6DCF">전&nbsp;
+<FONT COLOR="#6878D2">cap
+<FONT COLOR="#7C8AD8">tion&nbsp;
+<FONT COLOR="#8C98DD">by
+<FONT COLOR="#A0AAE2">은
+<FONT COLOR="#AFB8E7">색
+<FONT COLOR="#C2C9ED">악
+<FONT COLOR="#D6DBF3">령
+<SYNC Start=1700><P Class=KRCC>
+<FONT COLOR="#394EC1">나
+<FONT COLOR="#3649B6">루
+<FONT COLOR="#3142A4">토&nbsp;
+<FONT COLOR="#3649B6">질
+<FONT COLOR="#394EC1">풍
+<FONT COLOR="#4A5ECA">전&nbsp;
+<FONT COLOR="#5C6DCF">cap
+<FONT COLOR="#6878D2">tion&nbsp;
+<FONT COLOR="#7C8AD8">by
+<FONT COLOR="#8C98DD">은
+<FONT COLOR="#A0AAE2">색
+<FONT COLOR="#AFB8E7">악
+<FONT COLOR="#C2C9ED">령
+<SYNC Start=1800><P Class=KRCC>
+<FONT COLOR="#4A5ECA">나
+<FONT COLOR="#394EC1">루
+<FONT COLOR="#3649B6">토&nbsp;
+<FONT COLOR="#3142A4">질
+<FONT COLOR="#3649B6">풍
+<FONT COLOR="#394EC1">전&nbsp;
+<FONT COLOR="#4A5ECA">cap
+<FONT COLOR="#5C6DCF">tion&nbsp;
+<FONT COLOR="#6878D2">by
+<FONT COLOR="#7C8AD8">은
+<FONT COLOR="#8C98DD">색
+<FONT COLOR="#A0AAE2">악
+<FONT COLOR="#AFB8E7">령
+<SYNC Start=1900><P Class=KRCC>
+<FONT COLOR="#5C6DCF">나
+<FONT COLOR="#4A5ECA">루
+<FONT COLOR="#394EC1">토&nbsp;
+<FONT COLOR="#3649B6">질
+<FONT COLOR="#3142A4">풍
+<FONT COLOR="#3649B6">전&nbsp;
+<FONT COLOR="#394EC1">cap
+<FONT COLOR="#4A5ECA">tion&nbsp;
+<FONT COLOR="#5C6DCF">by
+<FONT COLOR="#6878D2">은
+<FONT COLOR="#7C8AD8">색
+<FONT COLOR="#8C98DD">악
+<FONT COLOR="#A0AAE2">령
+<SYNC Start=2000><P Class=KRCC>
+<FONT COLOR="#6878D2">나
+<FONT COLOR="#5C6DCF">루
+<FONT COLOR="#4A5ECA">토&nbsp;
+<FONT COLOR="#394EC1">질
+<FONT COLOR="#3649B6">풍
+<FONT COLOR="#3142A4">전&nbsp;
+<FONT COLOR="#3649B6">cap
+<FONT COLOR="#394EC1">tion&nbsp;
+<FONT COLOR="#4A5ECA">by
+<FONT COLOR="#5C6DCF">은
+<FONT COLOR="#6878D2">색
+<FONT COLOR="#7C8AD8">악
+<FONT COLOR="#8C98DD">령
+<SYNC Start=2100><P Class=KRCC>
+<FONT COLOR="#7C8AD8">나
+<FONT COLOR="#6878D2">루
+<FONT COLOR="#5C6DCF">토&nbsp;
+<FONT COLOR="#4A5ECA">질
+<FONT COLOR="#394EC1">풍
+<FONT COLOR="#3649B6">전&nbsp;
+<FONT COLOR="#3142A4">cap
+<FONT COLOR="#3649B6">tion&nbsp;
+<FONT COLOR="#394EC1">by
+<FONT COLOR="#4A5ECA">은
+<FONT COLOR="#5C6DCF">색
+<FONT COLOR="#6878D2">악
+<FONT COLOR="#7C8AD8">령
+<SYNC Start=2200><P Class=KRCC>
+<FONT COLOR="#8C98DD">나
+<FONT COLOR="#7C8AD8">루
+<FONT COLOR="#6878D2">토&nbsp;
+<FONT COLOR="#5C6DCF">질
+<FONT COLOR="#4A5ECA">풍
+<FONT COLOR="#394EC1">전&nbsp;
+<FONT COLOR="#3649B6">cap
+<FONT COLOR="#3142A4">tion&nbsp;
+<FONT COLOR="#3649B6">by
+<FONT COLOR="#394EC1">은
+<FONT COLOR="#4A5ECA">색
+<FONT COLOR="#5C6DCF">악
+<FONT COLOR="#6878D2">령
+<SYNC Start=2300><P Class=KRCC>
+<FONT COLOR="#A0AAE2">나
+<FONT COLOR="#8C98DD">루
+<FONT COLOR="#7C8AD8">토&nbsp;
+<FONT COLOR="#6878D2">질
+<FONT COLOR="#5C6DCF">풍
+<FONT COLOR="#4A5ECA">전&nbsp;
+<FONT COLOR="#394EC1">cap
+<FONT COLOR="#3649B6">tion&nbsp;
+<FONT COLOR="#3142A4">by
+<FONT COLOR="#3649B6">은
+<FONT COLOR="#394EC1">색
+<FONT COLOR="#4A5ECA">악
+<FONT COLOR="#5C6DCF">령
+<SYNC Start=2400><P Class=KRCC>
+<FONT COLOR="#AFB8E7">나
+<FONT COLOR="#A0AAE2">루
+<FONT COLOR="#8C98DD">토&nbsp;
+<FONT COLOR="#7C8AD8">질
+<FONT COLOR="#6878D2">풍
+<FONT COLOR="#5C6DCF">전&nbsp;
+<FONT COLOR="#4A5ECA">cap
+<FONT COLOR="#394EC1">tion&nbsp;
+<FONT COLOR="#3649B6">by
+<FONT COLOR="#3142A4">은
+<FONT COLOR="#3649B6">색
+<FONT COLOR="#394EC1">악
+<FONT COLOR="#4A5ECA">령
+<SYNC Start=2500><P Class=KRCC>
+<FONT COLOR="#C2C9ED">나
+<FONT COLOR="#AFB8E7">루
+<FONT COLOR="#A0AAE2">토&nbsp;
+<FONT COLOR="#8C98DD">질
+<FONT COLOR="#7C8AD8">풍
+<FONT COLOR="#6878D2">전&nbsp;
+<FONT COLOR="#5C6DCF">cap
+<FONT COLOR="#4A5ECA">tion&nbsp;
+<FONT COLOR="#394EC1">by
+<FONT COLOR="#3649B6">은
+<FONT COLOR="#3142A4">색
+<FONT COLOR="#3649B6">악
+<FONT COLOR="#394EC1">령
+<SYNC Start=2600><P Class=KRCC>
+<FONT COLOR="#D6DBF3">나
+<FONT COLOR="#C2C9ED">루
+<FONT COLOR="#AFB8E7">토&nbsp;
+<FONT COLOR="#A0AAE2">질
+<FONT COLOR="#8C98DD">풍
+<FONT COLOR="#7C8AD8">전&nbsp;
+<FONT COLOR="#6878D2">cap
+<FONT COLOR="#5C6DCF">tion&nbsp;
+<FONT COLOR="#4A5ECA">by
+<FONT COLOR="#394EC1">은
+<FONT COLOR="#3649B6">색
+<FONT COLOR="#3142A4">악
+<FONT COLOR="#3649B6">령
+<SYNC Start=2700><P Class=KRCC>
+<FONT COLOR="#EDEFFA">나
+<FONT COLOR="#D6DBF3">루
+<FONT COLOR="#C2C9ED">토&nbsp;
+<FONT COLOR="#AFB8E7">질
+<FONT COLOR="#A0AAE2">풍
+<FONT COLOR="#8C98DD">전&nbsp;
+<FONT COLOR="#7C8AD8">cap
+<FONT COLOR="#6878D2">tion&nbsp;
+<FONT COLOR="#5C6DCF">by
+<FONT COLOR="#4A5ECA">은
+<FONT COLOR="#394EC1">색
+<FONT COLOR="#3649B6">악
+<FONT COLOR="#3142A4">령
+<SYNC Start=2800><P Class=KRCC>
+<FONT COLOR="#D6DBF3">나
+<FONT COLOR="#EDEFFA">루
+<FONT COLOR="#D6DBF3">토&nbsp;
+<FONT COLOR="#C2C9ED">질
+<FONT COLOR="#AFB8E7">풍
+<FONT COLOR="#A0AAE2">전&nbsp;
+<FONT COLOR="#8C98DD">cap
+<FONT COLOR="#7C8AD8">tion&nbsp;
+<FONT COLOR="#6878D2">by
+<FONT COLOR="#5C6DCF">은
+<FONT COLOR="#4A5ECA">색
+<FONT COLOR="#394EC1">악
+<FONT COLOR="#3649B6">령
+<SYNC Start=2900><P Class=KRCC>
+<FONT COLOR="#C2C9ED">나
+<FONT COLOR="#D6DBF3">루
+<FONT COLOR="#EDEFFA">토&nbsp;
+<FONT COLOR="#D6DBF3">질
+<FONT COLOR="#C2C9ED">풍
+<FONT COLOR="#AFB8E7">전&nbsp;
+<FONT COLOR="#A0AAE2">cap
+<FONT COLOR="#8C98DD">tion&nbsp;
+<FONT COLOR="#7C8AD8">by
+<FONT COLOR="#6878D2">은
+<FONT COLOR="#5C6DCF">색
+<FONT COLOR="#4A5ECA">악
+<FONT COLOR="#394EC1">령
+<SYNC Start=3000><P Class=KRCC>
+<FONT COLOR="#AFB8E7">나
+<FONT COLOR="#C2C9ED">루
+<FONT COLOR="#D6DBF3">토&nbsp;
+<FONT COLOR="#EDEFFA">질
+<FONT COLOR="#D6DBF3">풍
+<FONT COLOR="#C2C9ED">전&nbsp;
+<FONT COLOR="#AFB8E7">cap
+<FONT COLOR="#A0AAE2">tion&nbsp;
+<FONT COLOR="#8C98DD">by
+<FONT COLOR="#7C8AD8">은
+<FONT COLOR="#6878D2">색
+<FONT COLOR="#5C6DCF">악
+<FONT COLOR="#4A5ECA">령
+<SYNC Start=3100><P Class=KRCC>
+<FONT COLOR="#A0AAE2">나
+<FONT COLOR="#AFB8E7">루
+<FONT COLOR="#C2C9ED">토&nbsp;
+<FONT COLOR="#D6DBF3">질
+<FONT COLOR="#EDEFFA">풍
+<FONT COLOR="#D6DBF3">전&nbsp;
+<FONT COLOR="#C2C9ED">cap
+<FONT COLOR="#AFB8E7">tion&nbsp;
+<FONT COLOR="#A0AAE2">by
+<FONT COLOR="#8C98DD">은
+<FONT COLOR="#7C8AD8">색
+<FONT COLOR="#6878D2">악
+<FONT COLOR="#5C6DCF">령
+<SYNC Start=3200><P Class=KRCC>
+<FONT COLOR="#8C98DD">나
+<FONT COLOR="#A0AAE2">루
+<FONT COLOR="#AFB8E7">토&nbsp;
+<FONT COLOR="#C2C9ED">질
+<FONT COLOR="#D6DBF3">풍
+<FONT COLOR="#EDEFFA">전&nbsp;
+<FONT COLOR="#D6DBF3">cap
+<FONT COLOR="#C2C9ED">tion&nbsp;
+<FONT COLOR="#AFB8E7">by
+<FONT COLOR="#A0AAE2">은
+<FONT COLOR="#8C98DD">색
+<FONT COLOR="#7C8AD8">악
+<FONT COLOR="#6878D2">령
+<SYNC Start=3300><P Class=KRCC>
+<FONT COLOR="#7C8AD8">나
+<FONT COLOR="#8C98DD">루
+<FONT COLOR="#A0AAE2">토&nbsp;
+<FONT COLOR="#AFB8E7">질
+<FONT COLOR="#C2C9ED">풍
+<FONT COLOR="#D6DBF3">전&nbsp;
+<FONT COLOR="#EDEFFA">cap
+<FONT COLOR="#D6DBF3">tion&nbsp;
+<FONT COLOR="#C2C9ED">by
+<FONT COLOR="#AFB8E7">은
+<FONT COLOR="#A0AAE2">색
+<FONT COLOR="#8C98DD">악
+<FONT COLOR="#7C8AD8">령
+<SYNC Start=3400><P Class=KRCC>
+<FONT COLOR="#6878D2">나
+<FONT COLOR="#7C8AD8">루
+<FONT COLOR="#8C98DD">토&nbsp;
+<FONT COLOR="#A0AAE2">질
+<FONT COLOR="#AFB8E7">풍
+<FONT COLOR="#C2C9ED">전&nbsp;
+<FONT COLOR="#D6DBF3">cap
+<FONT COLOR="#EDEFFA">tion&nbsp;
+<FONT COLOR="#D6DBF3">by
+<FONT COLOR="#C2C9ED">은
+<FONT COLOR="#AFB8E7">색
+<FONT COLOR="#A0AAE2">악
+<FONT COLOR="#8C98DD">령
+<SYNC Start=3500><P Class=KRCC>
+<FONT COLOR="#5C6DCF">나
+<FONT COLOR="#6878D2">루
+<FONT COLOR="#7C8AD8">토&nbsp;
+<FONT COLOR="#8C98DD">질
+<FONT COLOR="#A0AAE2">풍
+<FONT COLOR="#AFB8E7">전&nbsp;
+<FONT COLOR="#C2C9ED">cap
+<FONT COLOR="#D6DBF3">tion&nbsp;
+<FONT COLOR="#EDEFFA">by
+<FONT COLOR="#D6DBF3">은
+<FONT COLOR="#C2C9ED">색
+<FONT COLOR="#AFB8E7">악
+<FONT COLOR="#A0AAE2">령
+<SYNC Start=3600><P Class=KRCC>
+<FONT COLOR="#4A5ECA">나
+<FONT COLOR="#5C6DCF">루
+<FONT COLOR="#6878D2">토&nbsp;
+<FONT COLOR="#7C8AD8">질
+<FONT COLOR="#8C98DD">풍
+<FONT COLOR="#A0AAE2">전&nbsp;
+<FONT COLOR="#AFB8E7">cap
+<FONT COLOR="#C2C9ED">tion&nbsp;
+<FONT COLOR="#D6DBF3">by
+<FONT COLOR="#EDEFFA">은
+<FONT COLOR="#D6DBF3">색
+<FONT COLOR="#C2C9ED">악
+<FONT COLOR="#AFB8E7">령
+<SYNC Start=3700><P Class=KRCC>
+<FONT COLOR="#394EC1">나
+<FONT COLOR="#4A5ECA">루
+<FONT COLOR="#5C6DCF">토&nbsp;
+<FONT COLOR="#6878D2">질
+<FONT COLOR="#7C8AD8">풍
+<FONT COLOR="#8C98DD">전&nbsp;
+<FONT COLOR="#A0AAE2">cap
+<FONT COLOR="#AFB8E7">tion&nbsp;
+<FONT COLOR="#C2C9ED">by
+<FONT COLOR="#D6DBF3">은
+<FONT COLOR="#EDEFFA">색
+<FONT COLOR="#D6DBF3">악
+<FONT COLOR="#C2C9ED">령
+<SYNC Start=3800><P Class=KRCC>
+<FONT COLOR="#3649B6">나
+<FONT COLOR="#394EC1">루
+<FONT COLOR="#4A5ECA">토&nbsp;
+<FONT COLOR="#5C6DCF">질
+<FONT COLOR="#6878D2">풍
+<FONT COLOR="#7C8AD8">전&nbsp;
+<FONT COLOR="#8C98DD">cap
+<FONT COLOR="#A0AAE2">tion&nbsp;
+<FONT COLOR="#AFB8E7">by
+<FONT COLOR="#C2C9ED">은
+<FONT COLOR="#D6DBF3">색
+<FONT COLOR="#EDEFFA">악
+<FONT COLOR="#D6DBF3">령
+<SYNC Start=3850><P Class=KRCC>
+<FONT COLOR="#3142A4">나
+<FONT COLOR="#3649B6">루
+<FONT COLOR="#394EC1">토&nbsp;
+<FONT COLOR="#4A5ECA">질
+<FONT COLOR="#5C6DCF">풍
+<FONT COLOR="#6878D2">전&nbsp;
+<FONT COLOR="#7C8AD8">cap
+<FONT COLOR="#8C98DD">tion&nbsp;
+<FONT COLOR="#A0AAE2">by
+<FONT COLOR="#AFB8E7">은
+<FONT COLOR="#C2C9ED">색
+<FONT COLOR="#D6DBF3">악
+<FONT COLOR="#EDEFFA">령
+<SYNC Start=3900><P Class=KRCC>
+<FONT COLOR="#3649B6">나
+<FONT COLOR="#3142A4">루
+<FONT COLOR="#3649B6">토&nbsp;
+<FONT COLOR="#394EC1">질
+<FONT COLOR="#4A5ECA">풍
+<FONT COLOR="#5C6DCF">전&nbsp;
+<FONT COLOR="#6878D2">cap
+<FONT COLOR="#7C8AD8">tion&nbsp;
+<FONT COLOR="#8C98DD">by
+<FONT COLOR="#A0AAE2">은
+<FONT COLOR="#AFB8E7">색
+<FONT COLOR="#C2C9ED">악
+<FONT COLOR="#D6DBF3">령
+<SYNC Start=3950><P Class=KRCC>
+<FONT COLOR="#394EC1">나
+<FONT COLOR="#3649B6">루
+<FONT COLOR="#3142A4">토&nbsp;
+<FONT COLOR="#3649B6">질
+<FONT COLOR="#394EC1">풍
+<FONT COLOR="#4A5ECA">전&nbsp;
+<FONT COLOR="#5C6DCF">cap
+<FONT COLOR="#6878D2">tion&nbsp;
+<FONT COLOR="#7C8AD8">by
+<FONT COLOR="#8C98DD">은
+<FONT COLOR="#A0AAE2">색
+<FONT COLOR="#AFB8E7">악
+<FONT COLOR="#C2C9ED">령
+<SYNC Start=4000><P Class=KRCC>
+<FONT COLOR="#4A5ECA">나
+<FONT COLOR="#394EC1">루
+<FONT COLOR="#3649B6">토&nbsp;
+<FONT COLOR="#3142A4">질
+<FONT COLOR="#3649B6">풍
+<FONT COLOR="#394EC1">전&nbsp;
+<FONT COLOR="#4A5ECA">cap
+<FONT COLOR="#5C6DCF">tion&nbsp;
+<FONT COLOR="#6878D2">by
+<FONT COLOR="#7C8AD8">은
+<FONT COLOR="#8C98DD">색
+<FONT COLOR="#A0AAE2">악
+<FONT COLOR="#AFB8E7">령
+<SYNC Start=4050><P Class=KRCC>
+<FONT COLOR="#5C6DCF">나
+<FONT COLOR="#4A5ECA">루
+<FONT COLOR="#394EC1">토&nbsp;
+<FONT COLOR="#3649B6">질
+<FONT COLOR="#3142A4">풍
+<FONT COLOR="#3649B6">전&nbsp;
+<FONT COLOR="#394EC1">cap
+<FONT COLOR="#4A5ECA">tion&nbsp;
+<FONT COLOR="#5C6DCF">by
+<FONT COLOR="#6878D2">은
+<FONT COLOR="#7C8AD8">색
+<FONT COLOR="#8C98DD">악
+<FONT COLOR="#A0AAE2">령
+<SYNC Start=4100><P Class=KRCC>
+<FONT COLOR="#6878D2">나
+<FONT COLOR="#5C6DCF">루
+<FONT COLOR="#4A5ECA">토&nbsp;
+<FONT COLOR="#394EC1">질
+<FONT COLOR="#3649B6">풍
+<FONT COLOR="#3142A4">전&nbsp;
+<FONT COLOR="#3649B6">cap
+<FONT COLOR="#394EC1">tion&nbsp;
+<FONT COLOR="#4A5ECA">by
+<FONT COLOR="#5C6DCF">은
+<FONT COLOR="#6878D2">색
+<FONT COLOR="#7C8AD8">악
+<FONT COLOR="#8C98DD">령
+<SYNC Start=4150><P Class=KRCC>
+<FONT COLOR="#7C8AD8">나
+<FONT COLOR="#6878D2">루
+<FONT COLOR="#5C6DCF">토&nbsp;
+<FONT COLOR="#4A5ECA">질
+<FONT COLOR="#394EC1">풍
+<FONT COLOR="#3649B6">전&nbsp;
+<FONT COLOR="#3142A4">cap
+<FONT COLOR="#3649B6">tion&nbsp;
+<FONT COLOR="#394EC1">by
+<FONT COLOR="#4A5ECA">은
+<FONT COLOR="#5C6DCF">색
+<FONT COLOR="#6878D2">악
+<FONT COLOR="#7C8AD8">령
+<SYNC Start=4200><P Class=KRCC>
+<FONT COLOR="#8C98DD">나
+<FONT COLOR="#7C8AD8">루
+<FONT COLOR="#6878D2">토&nbsp;
+<FONT COLOR="#5C6DCF">질
+<FONT COLOR="#4A5ECA">풍
+<FONT COLOR="#394EC1">전&nbsp;
+<FONT COLOR="#3649B6">cap
+<FONT COLOR="#3142A4">tion&nbsp;
+<FONT COLOR="#3649B6">by
+<FONT COLOR="#394EC1">은
+<FONT COLOR="#4A5ECA">색
+<FONT COLOR="#5C6DCF">악
+<FONT COLOR="#6878D2">령
+<SYNC Start=4250><P Class=KRCC>
+<FONT COLOR="#A0AAE2">나
+<FONT COLOR="#8C98DD">루
+<FONT COLOR="#7C8AD8">토&nbsp;
+<FONT COLOR="#6878D2">질
+<FONT COLOR="#5C6DCF">풍
+<FONT COLOR="#4A5ECA">전&nbsp;
+<FONT COLOR="#394EC1">cap
+<FONT COLOR="#3649B6">tion&nbsp;
+<FONT COLOR="#3142A4">by
+<FONT COLOR="#3649B6">은
+<FONT COLOR="#394EC1">색
+<FONT COLOR="#4A5ECA">악
+<FONT COLOR="#5C6DCF">령
+<SYNC Start=4300><P Class=KRCC>
+<FONT COLOR="#AFB8E7">나
+<FONT COLOR="#A0AAE2">루
+<FONT COLOR="#8C98DD">토&nbsp;
+<FONT COLOR="#7C8AD8">질
+<FONT COLOR="#6878D2">풍
+<FONT COLOR="#5C6DCF">전&nbsp;
+<FONT COLOR="#4A5ECA">cap
+<FONT COLOR="#394EC1">tion&nbsp;
+<FONT COLOR="#3649B6">by
+<FONT COLOR="#3142A4">은
+<FONT COLOR="#3649B6">색
+<FONT COLOR="#394EC1">악
+<FONT COLOR="#4A5ECA">령
+<SYNC Start=4350><P Class=KRCC>
+<FONT COLOR="#C2C9ED">나
+<FONT COLOR="#AFB8E7">루
+<FONT COLOR="#A0AAE2">토&nbsp;
+<FONT COLOR="#8C98DD">질
+<FONT COLOR="#7C8AD8">풍
+<FONT COLOR="#6878D2">전&nbsp;
+<FONT COLOR="#5C6DCF">cap
+<FONT COLOR="#4A5ECA">tion&nbsp;
+<FONT COLOR="#394EC1">by
+<FONT COLOR="#3649B6">은
+<FONT COLOR="#3142A4">색
+<FONT COLOR="#3649B6">악
+<FONT COLOR="#394EC1">령
+<SYNC Start=4400><P Class=KRCC>
+<FONT COLOR="#D6DBF3">나
+<FONT COLOR="#C2C9ED">루
+<FONT COLOR="#AFB8E7">토&nbsp;
+<FONT COLOR="#A0AAE2">질
+<FONT COLOR="#8C98DD">풍
+<FONT COLOR="#7C8AD8">전&nbsp;
+<FONT COLOR="#6878D2">cap
+<FONT COLOR="#5C6DCF">tion&nbsp;
+<FONT COLOR="#4A5ECA">by
+<FONT COLOR="#394EC1">은
+<FONT COLOR="#3649B6">색
+<FONT COLOR="#3142A4">악
+<FONT COLOR="#3649B6">령
+<SYNC Start=4450><P Class=KRCC>
+<FONT COLOR="#EDEFFA">나
+<FONT COLOR="#D6DBF3">루
+<FONT COLOR="#C2C9ED">토&nbsp;
+<FONT COLOR="#AFB8E7">질
+<FONT COLOR="#A0AAE2">풍
+<FONT COLOR="#8C98DD">전&nbsp;
+<FONT COLOR="#7C8AD8">cap
+<FONT COLOR="#6878D2">tion&nbsp;
+<FONT COLOR="#5C6DCF">by
+<FONT COLOR="#4A5ECA">은
+<FONT COLOR="#394EC1">색
+<FONT COLOR="#3649B6">악
+<FONT COLOR="#3142A4">령
+<SYNC Start=4500><P Class=KRCC>
+<FONT COLOR="#D6DBF3">나
+<FONT COLOR="#EDEFFA">루
+<FONT COLOR="#D6DBF3">토&nbsp;
+<FONT COLOR="#C2C9ED">질
+<FONT COLOR="#AFB8E7">풍
+<FONT COLOR="#A0AAE2">전&nbsp;
+<FONT COLOR="#8C98DD">cap
+<FONT COLOR="#7C8AD8">tion&nbsp;
+<FONT COLOR="#6878D2">by
+<FONT COLOR="#5C6DCF">은
+<FONT COLOR="#4A5ECA">색
+<FONT COLOR="#394EC1">악
+<FONT COLOR="#3649B6">령
+<SYNC Start=4550><P Class=KRCC>
+<FONT COLOR="#C2C9ED">나
+<FONT COLOR="#D6DBF3">루
+<FONT COLOR="#EDEFFA">토&nbsp;
+<FONT COLOR="#D6DBF3">질
+<FONT COLOR="#C2C9ED">풍
+<FONT COLOR="#AFB8E7">전&nbsp;
+<FONT COLOR="#A0AAE2">cap
+<FONT COLOR="#8C98DD">tion&nbsp;
+<FONT COLOR="#7C8AD8">by
+<FONT COLOR="#6878D2">은
+<FONT COLOR="#5C6DCF">색
+<FONT COLOR="#4A5ECA">악
+<FONT COLOR="#394EC1">령
+<SYNC Start=4600><P Class=KRCC>
+<FONT COLOR="#AFB8E7">나
+<FONT COLOR="#C2C9ED">루
+<FONT COLOR="#D6DBF3">토&nbsp;
+<FONT COLOR="#EDEFFA">질
+<FONT COLOR="#D6DBF3">풍
+<FONT COLOR="#C2C9ED">전&nbsp;
+<FONT COLOR="#AFB8E7">cap
+<FONT COLOR="#A0AAE2">tion&nbsp;
+<FONT COLOR="#8C98DD">by
+<FONT COLOR="#7C8AD8">은
+<FONT COLOR="#6878D2">색
+<FONT COLOR="#5C6DCF">악
+<FONT COLOR="#4A5ECA">령
+<SYNC Start=4650><P Class=KRCC>
+<FONT COLOR="#A0AAE2">나
+<FONT COLOR="#AFB8E7">루
+<FONT COLOR="#C2C9ED">토&nbsp;
+<FONT COLOR="#D6DBF3">질
+<FONT COLOR="#EDEFFA">풍
+<FONT COLOR="#D6DBF3">전&nbsp;
+<FONT COLOR="#C2C9ED">cap
+<FONT COLOR="#AFB8E7">tion&nbsp;
+<FONT COLOR="#A0AAE2">by
+<FONT COLOR="#8C98DD">은
+<FONT COLOR="#7C8AD8">색
+<FONT COLOR="#6878D2">악
+<FONT COLOR="#5C6DCF">령
+<SYNC Start=4700><P Class=KRCC>
+<FONT COLOR="#8C98DD">나
+<FONT COLOR="#A0AAE2">루
+<FONT COLOR="#AFB8E7">토&nbsp;
+<FONT COLOR="#C2C9ED">질
+<FONT COLOR="#D6DBF3">풍
+<FONT COLOR="#EDEFFA">전&nbsp;
+<FONT COLOR="#D6DBF3">cap
+<FONT COLOR="#C2C9ED">tion&nbsp;
+<FONT COLOR="#AFB8E7">by
+<FONT COLOR="#A0AAE2">은
+<FONT COLOR="#8C98DD">색
+<FONT COLOR="#7C8AD8">악
+<FONT COLOR="#6878D2">령
+<SYNC Start=4800><P Class=KRCC>
+<FONT COLOR="#7C8AD8">나
+<FONT COLOR="#8C98DD">루
+<FONT COLOR="#A0AAE2">토&nbsp;
+<FONT COLOR="#AFB8E7">질
+<FONT COLOR="#C2C9ED">풍
+<FONT COLOR="#D6DBF3">전&nbsp;
+<FONT COLOR="#EDEFFA">cap
+<FONT COLOR="#D6DBF3">tion&nbsp;
+<FONT COLOR="#C2C9ED">by
+<FONT COLOR="#AFB8E7">은
+<FONT COLOR="#A0AAE2">색
+<FONT COLOR="#8C98DD">악
+<FONT COLOR="#7C8AD8">령
+<SYNC Start=4900><P Class=KRCC>
+<FONT COLOR="#6878D2">나
+<FONT COLOR="#7C8AD8">루
+<FONT COLOR="#8C98DD">토&nbsp;
+<FONT COLOR="#A0AAE2">질
+<FONT COLOR="#AFB8E7">풍
+<FONT COLOR="#C2C9ED">전&nbsp;
+<FONT COLOR="#D6DBF3">cap
+<FONT COLOR="#EDEFFA">tion&nbsp;
+<FONT COLOR="#D6DBF3">by
+<FONT COLOR="#C2C9ED">은
+<FONT COLOR="#AFB8E7">색
+<FONT COLOR="#A0AAE2">악
+<FONT COLOR="#8C98DD">령
+<SYNC Start=5000><P Class=KRCC>
+<FONT COLOR="#5C6DCF">나
+<FONT COLOR="#6878D2">루
+<FONT COLOR="#7C8AD8">토&nbsp;
+<FONT COLOR="#8C98DD">질
+<FONT COLOR="#A0AAE2">풍
+<FONT COLOR="#AFB8E7">전&nbsp;
+<FONT COLOR="#C2C9ED">cap
+<FONT COLOR="#D6DBF3">tion&nbsp;
+<FONT COLOR="#EDEFFA">by
+<FONT COLOR="#D6DBF3">은
+<FONT COLOR="#C2C9ED">색
+<FONT COLOR="#AFB8E7">악
+<FONT COLOR="#A0AAE2">령
+<SYNC Start=5100><P Class=KRCC>
+<FONT COLOR="#4A5ECA">나
+<FONT COLOR="#5C6DCF">루
+<FONT COLOR="#6878D2">토&nbsp;
+<FONT COLOR="#7C8AD8">질
+<FONT COLOR="#8C98DD">풍
+<FONT COLOR="#A0AAE2">전&nbsp;
+<FONT COLOR="#AFB8E7">cap
+<FONT COLOR="#C2C9ED">tion&nbsp;
+<FONT COLOR="#D6DBF3">by
+<FONT COLOR="#EDEFFA">은
+<FONT COLOR="#D6DBF3">색
+<FONT COLOR="#C2C9ED">악
+<FONT COLOR="#AFB8E7">령
+<SYNC Start=5200><P Class=KRCC>
+<FONT COLOR="#394EC1">나
+<FONT COLOR="#4A5ECA">루
+<FONT COLOR="#5C6DCF">토&nbsp;
+<FONT COLOR="#6878D2">질
+<FONT COLOR="#7C8AD8">풍
+<FONT COLOR="#8C98DD">전&nbsp;
+<FONT COLOR="#A0AAE2">cap
+<FONT COLOR="#AFB8E7">tion&nbsp;
+<FONT COLOR="#C2C9ED">by
+<FONT COLOR="#D6DBF3">은
+<FONT COLOR="#EDEFFA">색
+<FONT COLOR="#D6DBF3">악
+<FONT COLOR="#C2C9ED">령
+<SYNC Start=5300><P Class=KRCC>
+<FONT COLOR="#3649B6">나
+<FONT COLOR="#394EC1">루
+<FONT COLOR="#4A5ECA">토&nbsp;
+<FONT COLOR="#5C6DCF">질
+<FONT COLOR="#6878D2">풍
+<FONT COLOR="#7C8AD8">전&nbsp;
+<FONT COLOR="#8C98DD">cap
+<FONT COLOR="#A0AAE2">tion&nbsp;
+<FONT COLOR="#AFB8E7">by
+<FONT COLOR="#C2C9ED">은
+<FONT COLOR="#D6DBF3">색
+<FONT COLOR="#EDEFFA">악
+<FONT COLOR="#D6DBF3">령
+<SYNC Start=5600><P Class=KRCC>
+<FONT COLOR="#7C8AD8">제<FONT COLOR="#8C98DD"> 246<FONT COLOR="#A0AAE2"> 화<br>
+<FONT COLOR="#3649B6">나
+<FONT COLOR="#394EC1">루
+<FONT COLOR="#4A5ECA">토&nbsp;
+<FONT COLOR="#5C6DCF">질
+<FONT COLOR="#6878D2">풍
+<FONT COLOR="#7C8AD8">전&nbsp;
+<FONT COLOR="#8C98DD">cap
+<FONT COLOR="#A0AAE2">tion&nbsp;
+<FONT COLOR="#AFB8E7">by
+<FONT COLOR="#C2C9ED">은
+<FONT COLOR="#D6DBF3">색
+<FONT COLOR="#EDEFFA">악
+<FONT COLOR="#D6DBF3">령
+<SYNC Start=8400><P Class=KRCC>&nbsp;
+<SYNC Start=9400><P Class=KRCC>
+<font color=silver>맥시안 pmp 월드 만세~
+<SYNC Start=11400><P Class=KRCC>
+<font color=silver>김상영군 안녕~
+<SYNC Start=14400><P Class=KRCC>&nbsp;
+<SYNC Start=34500><P Class=KRCC>
+<font color=silver>이래선 접근할수가 없어
+<SYNC Start=36820><P Class=KRCC>&nbsp;
+<SYNC Start=45400><P Class=KRCC>
+<font color=silver>터무니없는 위력의 불이군
+<SYNC Start=49500><P Class=KRCC>&nbsp;
+<SYNC Start=54000><P Class=KRCC>
+앞으로 1분30초
+<SYNC Start=55470><P Class=KRCC>
+음..
+<SYNC Start=56088><P Class=KRCC>&nbsp;
+<SYNC Start=57000><P Class=KRCC>
+죽어라! 할망구
+<SYNC Start=58757><P Class=KRCC>&nbsp;
+<SYNC Start=69500><P Class=KRCC>
+이거라도 먹어라!
+<SYNC Start=71400><P Class=KRCC>&nbsp;
+<SYNC Start=72700><P Class=KRCC>
+어설프군!
+<SYNC Start=73800><P Class=KRCC>&nbsp;
+<SYNC Start=81100><P Class=KRCC>
+역시 그렇군..
+<SYNC Start=82530><P Class=KRCC>&nbsp;
+<SYNC Start=82700><P Class=KRCC>
+그 전투의 도중에 챠크라 실을 붙인건가?
+<SYNC Start=86497><P Class=KRCC>&nbsp;
+<SYNC Start=102000><P Class=KRCC>
+하지만 같은 방법이 통할것 같나?
+<SYNC Start=105351><P Class=KRCC>&nbsp;
+<SYNC Start=106300><P Class=KRCC>
+유감이군..
+<SYNC Start=108162><P Class=KRCC>&nbsp;
+<SYNC Start=115500><P Class=KRCC>
+<font color=silver>시간이..
+<SYNC Start=116936><P Class=KRCC>&nbsp;
+<SYNC Start=117062><P Class=KRCC>
+<font color=lightblue>자막 제작<br></font>
+판도라 tv/<font color=black>은색악령<br></font>
+http://www.pandora.tv/<font color=black>1409734
+<SYNC Start=117562><P Class=KRCC>
+<font color=lightblue>자막 제작<br></font>
+판도라 tv/<font color=gold>은</font><font color=black>색악령<br></font>
+http://www.pandora.tv/<font color=deepskyblue>1<font color=black>409734
+<SYNC Start=118062><P Class=KRCC>
+<font color=lightblue>자막 제작<br></font>
+판도라 tv/<font color=gold>은</font><font color=black>색악령<br></font>
+http://www.pandora.tv/<font color=deepskyblue>14<font color=black>09734
+<SYNC Start=118562><P Class=KRCC>
+<font color=lightblue>자막 제작<br></font>
+판도라 tv/<font color=gold>은색</font><font color=black>악령<br></font>
+http://www.pandora.tv/<font color=deepskyblue>140<font color=black>9734
+<SYNC Start=119062><P Class=KRCC>
+<font color=lightblue>자막 제작<br></font>
+판도라 tv/<font color=gold>은색</font><font color=black>악령<br></font>
+http://www.pandora.tv/<font color=deepskyblue>1409<font color=black>734
+<SYNC Start=119502><P Class=KRCC>
+<font color=lightblue>자막 제작<br></font>
+판도라 tv/<font color=gold>은색악</font><font color=black>령<br></font>
+http://www.pandora.tv/<font color=deepskyblue>14097<font color=black>34
+<SYNC Start=120062><P Class=KRCC>
+<font color=lightblue>자막 제작<br></font>
+판도라 tv/<font color=gold>은색악</font><font color=black>령<br></font>
+http://www.pandora.tv/<font color=deepskyblue>140973<font color=black>4
+<SYNC Start=120562><P Class=KRCC>
+<font color=lightblue>자막 제작<br></font>
+판도라 tv/<font color=gold>은색악령<br></font>
+http://www.pandora.tv/<font color=deepskyblue>1409734
+<SYNC Start=122062><P Class=KRCC>
+<font color=lightblue>자막 제작<br></font>
+판도라 tv/<font color=gold>은색악령<br></font>
+<font color=deepskyblue>http://www.pandora.tv/1409734
+<SYNC Start=125068><P Class=KRCC>&nbsp;
+<SYNC Start=126094><P Class=KRCC>
+<FONT COLOR=CORAL>멀리서 들려오는 목소리를 길잡이로<br>
+<FONT COLOR=SILVER>하나하나 일어서는 동료들
+<SYNC Start=128652><P Class=KRCC>
+<FONT COLOR=SILVER>멀리서 들려오는 목소리를 길잡이로<br>
+<FONT COLOR=CORAL>하나하나 일어서는 동료들
+<SYNC Start=131075><P Class=KRCC>
+<FONT COLOR=CORAL>반복되는 일상들을<br>
+<FONT COLOR=SILVER>뒤집을 준비는 됐나?
+<SYNC Start=133446><P Class=KRCC>
+<FONT COLOR=SILVER>반복되는 일상들을<br>
+<FONT COLOR=CORAL>뒤집을 준비는 됐나?
+<SYNC Start=134878><P Class=KRCC>
+<FONT COLOR=SILVER>반복되는 일상들을<br>
+<FONT COLOR=SILVER>뒤집을 준비는 됐나?<br>
+<FONT COLOR=DEEPSKYBLUE>-ARE YOU READY?
+<SYNC Start=136054><P Class=KRCC>
+<FONT COLOR=LIGHTGREEN>전신을 흔드는 진동으로
+<SYNC Start=137760><P Class=KRCC>
+<FONT COLOR=LIGHTGREEN>세차게 밟아서
+<SYNC Start=140008><P Class=KRCC>
+<FONT COLOR=LIGHTGREEN>발을 굴려!
+<SYNC Start=140731><P Class=KRCC>
+<FONT COLOR=LIGHTGREEN>끝없이 밀어붙여서
+<SYNC Start=141711><P Class=KRCC>&nbsp;
+<SYNC Start=141999><P Class=KRCC>
+<FONT COLOR=LIGHTGREEN>나를 불러!
+<SYNC Start=142597><P Class=KRCC>
+<FONT COLOR=LIGHTGREEN>변치않고 흔들리지 않는 이야기
+<SYNC Start=144709><P Class=KRCC>
+<FONT COLOR=CORAL>COME ON !
+<SYNC Start=145406><P Class=KRCC>
+<FONT COLOR=CORAL>EVERYBODY STAND UP!
+<SYNC Start=146685><P Class=KRCC>
+<FONT COLOR=PINK>출발하자 오늘은 최고의 시간이다
+<SYNC Start=149000><P Class=KRCC>
+<FONT COLOR=PINK>눈으로 쫓지 못하는 속도의 사냥꾼
+<SYNC Start=151300><P Class=KRCC>
+<FONT COLOR=PINK>모두가 사로잡혔다, 돌아와~
+<SYNC Start=154000><P Class=KRCC>
+<FONT COLOR=CORAL>COME ON~ EVERYBODY HANDS UP
+<SYNC Start=156100><P Class=KRCC>
+<FONT COLOR=LIGHTBLUE>기다렸던 영웅이~COME BACK!
+<SYNC Start=158200><P Class=KRCC>
+<FONT COLOR=LIGHTBLUE>머리 위로 손 올려서
+<SYNC Start=160186><P Class=KRCC>
+카운트 다운!
+<SYNC Start=160832><P Class=KRCC>&nbsp;
+<SYNC Start=160892><P Class=KRCC>
+간다!
+<SYNC Start=161187><P Class=KRCC>
+간다! <FONT COLOR=DEEPSKYBLUE>3
+<SYNC Start=161792><P Class=KRCC>
+간다! <FONT COLOR=DEEPSKYBLUE>3 <FONT COLOR=LIGHTGREEN>2
+<SYNC Start=162100><P Class=KRCC>
+간다! <FONT COLOR=DEEPSKYBLUE>3 <FONT COLOR=LIGHTGREEN>2 <FONT COLOR=CORAL>1
+<SYNC Start=162590><P Class=KRCC>
+간다! <FONT COLOR=DEEPSKYBLUE>3</FONT> <FONT COLOR=LIGHTGREEN>2</FONT> <FONT COLOR=CORAL>1 </FONT>MAKE SOME NOISE!
+<SYNC Start=163595><P Class=KRCC>
+<FONT COLOR=SILVER>MAKE SOME NOISE
+<SYNC Start=166873><P Class=KRCC>&nbsp;
+<SYNC Start=167599><P Class=KRCC>
+<FONT COLOR=CORAL>HEY YO~ 위험정도는 각오했겠지?<br>
+<FONT COLOR=SILVER>몇번 넘어지든 일어서서 잡는거야!
+<SYNC Start=170442><P Class=KRCC>
+<FONT COLOR=SILVER>HEY YO~ 위험정도는 각오했겠지?<br>
+<FONT COLOR=CORAL>몇번 넘어지든 일어서서 잡는거야!
+<SYNC Start=172500><P Class=KRCC>
+<FONT COLOR=CORAL>서로가 통하는건 잠시 잠깐의 연결<br>
+<FONT COLOR=SILVER>얽힌 감정, 조금씩 맺히는 결실
+<SYNC Start=174812><P Class=KRCC>
+<FONT COLOR=SILVER>서로가 통하는건 잠시 잠깐의 연결<br>
+<FONT COLOR=CORAL>얽힌 감정에 조금씩 맺히는 결실
+<SYNC Start=177340><P Class=KRCC>
+<FONT COLOR=DEEPSKYBLUE>터져나온 환성이 용기가 되어<br>
+<FONT COLOR=SILVER>일어서면 지금보다 아픔도 있겠지
+<SYNC Start=179630><P Class=KRCC>
+<FONT COLOR=SILVER>터져나온 환성이 용기가 되어<br>
+<FONT COLOR=DEEPSKYBLUE>일어서면 지금보다 아픔도 있겠지
+<SYNC Start=182020><P Class=KRCC>
+<FONT COLOR=DEEPSKYBLUE>그래도 마지막엔 반드시 웃을거야<br>
+<FONT COLOR=SILVER>모든걸 정화시키는 승리의 환성
+<SYNC Start=184229><P Class=KRCC>
+<FONT COLOR=SILVER>그래도 마지막엔 반드시 웃을거야<br>
+<FONT COLOR=DEEPSKYBLUE>모든걸 정화시키는 승리의 환성
+<SYNC Start=186723><P Class=KRCC>
+<FONT COLOR=CORAL>EVERYBODY STAND UP!
+<SYNC Start=188432><P Class=KRCC>
+<FONT COLOR=PINK>출발하자 오늘은 최고의 시간이다
+<SYNC Start=190706><P Class=KRCC>
+<FONT COLOR=PINK>눈으로 쫓지 못하는 속도의 사냥꾼
+<SYNC Start=193173><P Class=KRCC>
+<FONT COLOR=PINK>모두가 사로잡혔다, 돌아와
+<SYNC Start=195488><P Class=KRCC>
+<FONT COLOR=CORAL>COME ON~ EVERYBODY HANDS UP
+<SYNC Start=197711><P Class=KRCC>
+<FONT COLOR=LIGHTBLUE>기다렸던 영웅이~COME BACK!
+<SYNC Start=200040><P Class=KRCC>
+<FONT COLOR=LIGHTBLUE>머리 위로 손 올려서
+<SYNC Start=201537><P Class=KRCC>
+카운트 다운!
+<SYNC Start=202313><P Class=KRCC>
+간다!
+<SYNC Start=202811><P Class=KRCC>
+간다! <FONT COLOR=DEEPSKYBLUE>3
+<SYNC Start=203251><P Class=KRCC>
+간다! <FONT COLOR=DEEPSKYBLUE>3 <FONT COLOR=LIGHTGREEN>2
+<SYNC Start=203663><P Class=KRCC>
+간다! <FONT COLOR=DEEPSKYBLUE>3 <FONT COLOR=LIGHTGREEN>2 <FONT COLOR=CORAL>1
+<SYNC Start=203894><P Class=KRCC>
+간다! <FONT COLOR=DEEPSKYBLUE>3</FONT> <FONT COLOR=LIGHTGREEN>2</FONT> <FONT COLOR=CORAL>1 </FONT>MAKE SOME NOISE!
+<SYNC Start=204558><P Class=KRCC>
+<FONT COLOR=SILVER>MAKE SOME NOISE
+<SYNC Start=205956><P Class=KRCC>&nbsp;
+<SYNC Start=207700><P Class=KRCC>
+<font color=lightgreen>10기(機) VS 100기(機)
+<SYNC Start=212121><P Class=KRCC>&nbsp;
+<SYNC Start=216500><P Class=KRCC>
+어떻게 된거냐?
+<SYNC Start=217500><P Class=KRCC>
+덤비지 않는거냐?
+<SYNC Start=218905><P Class=KRCC>&nbsp;
+<SYNC Start=225100><P Class=KRCC>
+<font color=silver>해독효과는 앞으로 1분...!
+<SYNC Start=227532><P Class=KRCC>&nbsp;
+<SYNC Start=229000><P Class=KRCC>
+그렇다면..
+<SYNC Start=230018><P Class=KRCC>&nbsp;
+<SYNC Start=234451><P Class=KRCC>
+이건..
+<SYNC Start=235283><P Class=KRCC>
+사쿠라, 피하거라
+<SYNC Start=237131><P Class=KRCC>&nbsp;
+<SYNC Start=273100><P Class=KRCC>
+언제까지 도망만 다닐 셈이냐?
+<SYNC Start=275841><P Class=KRCC>&nbsp;
+<SYNC Start=281100><P Class=KRCC>
+<font color=silver>앞으로.. 20초!
+<SYNC Start=283027><P Class=KRCC>&nbsp;
+<SYNC Start=284410><P Class=KRCC>
+그럴셈이라면..
+<SYNC Start=286007><P Class=KRCC>&nbsp;
+<SYNC Start=304100><P Class=KRCC>
+<font color=silver>앞으로 15초..
+<SYNC Start=305700><P Class=KRCC>&nbsp;
+<SYNC Start=310700><P Class=KRCC>
+괜찮으냐? 사쿠라!
+<SYNC Start=312784><P Class=KRCC>&nbsp;
+<SYNC Start=312900><P Class=KRCC>
+죽어라!!
+<SYNC Start=314125><P Class=KRCC>&nbsp;
+<SYNC Start=318445><P Class=KRCC>
+치요 할머님!
+<SYNC Start=319597><P Class=KRCC>&nbsp;
+<SYNC Start=328500><P Class=KRCC>
+<font color=silver>해독약 덕분에 살았어
+<SYNC Start=330500><P Class=KRCC>
+<font color=silver>앞으로 상처의 아픔이 전해진다면..!
+<SYNC Start=333198><P Class=KRCC>&nbsp;
+<SYNC Start=340742><P Class=KRCC>
+<font color=silver>쓸데없는 노력이다
+<SYNC Start=342355><P Class=KRCC>&nbsp;
+<SYNC Start=347196><P Class=KRCC>
+<font color=silver>앞으로 5초
+<SYNC Start=348400><P Class=KRCC>&nbsp;
+<SYNC Start=350700><P Class=KRCC>
+<font color=silver>4초
+<SYNC Start=351801><P Class=KRCC>&nbsp;
+<SYNC Start=353000><P Class=KRCC>
+이게!!
+<SYNC Start=354298><P Class=KRCC>&nbsp;
+<SYNC Start=360100><P Class=KRCC>
+<font color=silver>사쿠라인가?!
+<SYNC Start=361419><P Class=KRCC>&nbsp;
+<SYNC Start=365500><P Class=KRCC>
+<font color=silver>3초
+<SYNC Start=366042><P Class=KRCC>&nbsp;
+<SYNC Start=369100><P Class=KRCC>
+<font color=silver>2
+<SYNC Start=369639><P Class=KRCC>&nbsp;
+<SYNC Start=397700><P Class=KRCC>
+<font color=silver>겨우... 해독약의<br>
+지속시간 안에 해치웠어
+<SYNC Start=401497><P Class=KRCC>&nbsp;
+<SYNC Start=410000><P Class=KRCC>
+해냈어요!
+<SYNC Start=411254><P Class=KRCC>
+치요 할머님..
+<SYNC Start=413257><P Class=KRCC>&nbsp;
+<SYNC Start=413400><P Class=KRCC>
+해냈다구요!
+<SYNC Start=415183><P Class=KRCC>&nbsp;
+<SYNC Start=415800><P Class=KRCC>
+사쿠라.. 너..
+<SYNC Start=419421><P Class=KRCC>&nbsp;
+<SYNC Start=431700><P Class=KRCC>
+<font color=silver>저 애송이..
+<SYNC Start=433200><P Class=KRCC>
+<font color=silver>갑자기 얌전해졌지만..
+<SYNC Start=435300><P Class=KRCC>&nbsp;
+<SYNC Start=435700><P Class=KRCC>
+<font color=silver>뭔가 속셈이 있는건가?
+<SYNC Start=437417><P Class=KRCC>&nbsp;
+<SYNC Start=445100><P Class=KRCC>
+카카시 선생님
+<SYNC Start=446472><P Class=KRCC>
+아직인가요?
+<SYNC Start=447562><P Class=KRCC>&nbsp;
+<SYNC Start=448000><P Class=KRCC>
+재촉하지 말라니까
+<SYNC Start=449818><P Class=KRCC>&nbsp;
+<SYNC Start=451000><P Class=KRCC>
+나는 너만큼 챠크라를<br>
+가지고 있지는 않으니까
+<SYNC Start=454153><P Class=KRCC>
+시간이 걸린다구!
+<SYNC Start=457665><P Class=KRCC>&nbsp;
+<SYNC Start=516300><P Class=KRCC>
+뭘한거지?
+<SYNC Start=518556><P Class=KRCC>&nbsp;
+<SYNC Start=522400><P Class=KRCC>
+그걸 몰랐군..
+<SYNC Start=524772><P Class=KRCC>&nbsp;
+<SYNC Start=536200><P Class=KRCC>
+노는건 여기까지다
+<SYNC Start=538481><P Class=KRCC>&nbsp;
+<SYNC Start=544000><P Class=KRCC>
+이것은 내가 금지시킨 주술...
+<SYNC Start=546981><P Class=KRCC>&nbsp;
+<SYNC Start=549406><P Class=KRCC>
+두번 다시는 않쓰겠다고<br>
+생각했었지만..
+<SYNC Start=552761><P Class=KRCC>&nbsp;
+<SYNC Start=554000><P Class=KRCC>
+아무래도 여기까진가보군..
+<SYNC Start=556257><P Class=KRCC>&nbsp;
+<SYNC Start=558526><P Class=KRCC>
+이걸로 막을 내리겠다
+<SYNC Start=560877><P Class=KRCC>&nbsp;
+<SYNC Start=588200><P Class=KRCC>
+꼭두각시 술사는..
+<SYNC Start=589769><P Class=KRCC>
+조종하는 꼭두각시의 숫자로 그 자의<br>
+능력을 파악할 수 있다고 했는데..
+<SYNC Start=595100><P Class=KRCC>
+역시 할망구답군
+<SYNC Start=596847><P Class=KRCC>&nbsp;
+<SYNC Start=597500><P Class=KRCC>
+엄청난 숫자!
+<SYNC Start=599388><P Class=KRCC>&nbsp;
+<SYNC Start=600190><P Class=KRCC>
+10기?
+<SYNC Start=601282><P Class=KRCC>&nbsp;
+<SYNC Start=601500><P Class=KRCC>
+치요 할망구의 특기<br>
+손가락의 숫자
+<SYNC Start=604520><P Class=KRCC>&nbsp;
+<SYNC Start=605041><P Class=KRCC>
+소문으로는 들었지만..
+<SYNC Start=607087><P Class=KRCC>&nbsp;
+<SYNC Start=608200><P Class=KRCC>
+이것이 성(城) 한채를 단독으로<br>
+함락시킨 꼭두각시..
+<SYNC Start=612637><P Class=KRCC>&nbsp;
+<SYNC Start=613000><P Class=KRCC>
+백 비 술
+<SYNC Start=614000><P Class=KRCC>
+십 기 근 송 집
+<SYNC Start=616137><P Class=KRCC>&nbsp;
+<SYNC Start=617000><P Class=KRCC>
+꼭두각시 술법의 초대 조연자
+<SYNC Start=619492><P Class=KRCC>
+몬자에몬이 집결시킨<br>
+대단한 컬랙션이지
+<SYNC Start=624339><P Class=KRCC>&nbsp;
+<SYNC Start=626000><P Class=KRCC>
+그렇지만..!
+<SYNC Start=627574><P Class=KRCC>&nbsp;
+<SYNC Start=653532><P Class=KRCC>
+나는 이것으로<br>
+일국(一國)을 멸망시켰다
+<SYNC Start=657766><P Class=KRCC>&nbsp;
+<SYNC Start=672400><P Class=KRCC>
+<font color=silver>이 녀석..<br>
+저렇게까지..
+<SYNC Start=675691><P Class=KRCC>&nbsp;
+<SYNC Start=677800><P Class=KRCC>
+질릴정도로 한심하군
+<SYNC Start=680564><P Class=KRCC>
+계집애와 늙은이 따위로<br>
+언제까지 상대를 하는건지..
+<SYNC Start=684610><P Class=KRCC>&nbsp;
+<SYNC Start=686700><P Class=KRCC>
+마지막 꼭두각시까지<br>
+보여주게 될줄이야..
+<SYNC Start=691060><P Class=KRCC>&nbsp;
+<SYNC Start=699000><P Class=KRCC>
+적비(赤碑) 100기(機)의 공연
+<SYNC Start=702000><P Class=KRCC>
+똑똑히 보여주지
+<SYNC Start=703976><P Class=KRCC>&nbsp;
+<SYNC Start=712000><P Class=KRCC>
+사쿠라
+<SYNC Start=713643><P Class=KRCC>
+너는 이미 해독효과가 끝났다
+<SYNC Start=717182><P Class=KRCC>
+끼어들지 말거라
+<SYNC Start=718808><P Class=KRCC>&nbsp;
+<SYNC Start=725907><P Class=KRCC>
+이미 알고계시겠죠?
+<SYNC Start=727754><P Class=KRCC>&nbsp;
+<SYNC Start=728500><P Class=KRCC>
+저의 성격...
+<SYNC Start=730983><P Class=KRCC>&nbsp;
+<SYNC Start=740457><P Class=KRCC>
+그랬었지
+<SYNC Start=742000><P Class=KRCC>
+성격도 츠나데를 닮았었지..
+<SYNC Start=745681><P Class=KRCC>&nbsp;
+<SYNC Start=749821><P Class=KRCC>
+그럼 이걸로 종결을 짓는거다
+<SYNC Start=753700><P Class=KRCC>&nbsp;
+<SYNC Start=753800><P Class=KRCC>
+각오는 했겠지?
+<SYNC Start=755626><P Class=KRCC>&nbsp;
+<SYNC Start=755858><P Class=KRCC>
+네!
+<SYNC Start=756353><P Class=KRCC>&nbsp;
+<SYNC Start=759700><P Class=KRCC>
+온다!
+<SYNC Start=761087><P Class=KRCC>&nbsp;
+<SYNC Start=834300><P Class=KRCC>
+삼 보 흡 궤!!
+<SYNC Start=836815><P Class=KRCC>&nbsp;
+<SYNC Start=855700><P Class=KRCC>
+<font color=silver>역시 숫자의 차이가..
+<SYNC Start=857547><P Class=KRCC>
+<font color=silver>확실히 숫자를 줄일려면<br>
+어떻게든 일 대 일로..
+<SYNC Start=861906><P Class=KRCC>&nbsp;
+<SYNC Start=873000><P Class=KRCC>
+<font color=silver>좋았어!
+<SYNC Start=874097><P Class=KRCC>&nbsp;
+<SYNC Start=885700><P Class=KRCC>
+<font color=silver>숫자가 너무 많아..
+<SYNC Start=887713><P Class=KRCC>&nbsp;
+<SYNC Start=924400><P Class=KRCC>
+괜찮으냐? 사쿠라!
+<SYNC Start=926241><P Class=KRCC>&nbsp;
+<SYNC Start=926362><P Class=KRCC>
+괜찮아요
+<SYNC Start=927638><P Class=KRCC>&nbsp;
+<SYNC Start=927700><P Class=KRCC>
+신경을 흩트리지 말거라
+<SYNC Start=929100><P Class=KRCC>
+네!
+<SYNC Start=929830><P Class=KRCC>&nbsp;
+<SYNC Start=931000><P Class=KRCC>
+<FONT COLOR=SILVER>사소리의 꼭두각시는<br>
+확실히 줄고있다..
+<SYNC Start=934800><P Class=KRCC>
+<FONT COLOR=SILVER>하지만 녀석도 꼭두각시들에 대한<br>
+집중력이 그만큼 올라있을거다
+<SYNC Start=940887><P Class=KRCC>&nbsp;
+<SYNC Start=941100><P Class=KRCC>
+<FONT COLOR=SILVER>그렇지만 해독약은 앞으로 한개
+<SYNC Start=944518><P Class=KRCC>
+<FONT COLOR=SILVER>나나 사쿠라 어느 한쪽이라도 상처를<br>
+입으면 상당히 어려워진다
+<SYNC Start=950000><P Class=KRCC>&nbsp;
+<SYNC Start=954800><P Class=KRCC>
+치요 할머님!
+<SYNC Start=956003><P Class=KRCC>&nbsp;
+<SYNC Start=956020><P Class=KRCC>
+아뿔사!
+<SYNC Start=957436><P Class=KRCC>&nbsp;
+<SYNC Start=966443><P Class=KRCC>
+괜찮으세요? 치요 할머님!
+<SYNC Start=968308><P Class=KRCC>&nbsp;
+<SYNC Start=969000><P Class=KRCC>
+내 걱정은 해봤자다
+<SYNC Start=971454><P Class=KRCC>&nbsp;
+<SYNC Start=971600><P Class=KRCC>
+그보다 지금은 사소리를 노려라!
+<SYNC Start=974248><P Class=KRCC>&nbsp;
+<SYNC Start=975000><P Class=KRCC>
+다른 꼭두각시들은<br>
+내가 맡겠다
+<SYNC Start=977624><P Class=KRCC>&nbsp;
+<SYNC Start=978000><P Class=KRCC>
+네!
+<SYNC Start=979685><P Class=KRCC>&nbsp;
+<SYNC Start=1000100><P Class=KRCC>
+사쿠라! 그걸 써라!
+<SYNC Start=1002485><P Class=KRCC>&nbsp;
+<SYNC Start=1054000><P Class=KRCC>
+여기다!!
+<SYNC Start=1055053><P Class=KRCC>&nbsp;
+<SYNC Start=1118300><P Class=KRCC>
+해냈어..
+<SYNC Start=1119253><P Class=KRCC>&nbsp;
+<SYNC Start=1125200><P Class=KRCC>
+움직이지 못할거다
+<SYNC Start=1126700><P Class=KRCC>
+그 봉인은 챠크라를<br>
+완전히 차단시키는 것이다
+<SYNC Start=1131684><P Class=KRCC>
+더는 챠크라 실을<br>
+사용할 수 없다
+<SYNC Start=1134079><P Class=KRCC>&nbsp;
+<SYNC Start=1135200><P Class=KRCC>
+끝났구나, 사소리여..
+<SYNC Start=1137819><P Class=KRCC>&nbsp;
+<SYNC Start=1139400><P Class=KRCC>
+치요 할머님!
+<SYNC Start=1139856><P Class=KRCC>&nbsp;
+<SYNC Start=1140500><P Class=KRCC>
+어서 해독약을...!
+<SYNC Start=1142171><P Class=KRCC>&nbsp;
+<SYNC Start=1197700><P Class=KRCC>
+<font color=lightblue>자막 제작<br></font>
+판도라 tv/<font color=black>은색악령<br></font>
+http://www.pandora.tv/<font color=black>1409734
+<SYNC Start=1198200><P Class=KRCC>
+<font color=lightblue>자막 제작<br></font>
+판도라 tv/<font color=gold>은</font><font color=black>색악령<br></font>
+http://www.pandora.tv/<font color=deepskyblue>1<font color=black>409734
+<SYNC Start=1198700><P Class=KRCC>
+<font color=lightblue>자막 제작<br></font>
+판도라 tv/<font color=gold>은</font><font color=black>색악령<br></font>
+http://www.pandora.tv/<font color=deepskyblue>14<font color=black>09734
+<SYNC Start=1199200><P Class=KRCC>
+<font color=lightblue>자막 제작<br></font>
+판도라 tv/<font color=gold>은색</font><font color=black>악령<br></font>
+http://www.pandora.tv/<font color=deepskyblue>140<font color=black>9734
+<SYNC Start=1199700><P Class=KRCC>
+<font color=lightblue>자막 제작<br></font>
+판도라 tv/<font color=gold>은색</font><font color=black>악령<br></font>
+http://www.pandora.tv/<font color=deepskyblue>1409<font color=black>734
+<SYNC Start=1200200><P Class=KRCC>
+<font color=lightblue>자막 제작<br></font>
+판도라 tv/<font color=gold>은색악</font><font color=black>령<br></font>
+http://www.pandora.tv/<font color=deepskyblue>14097<font color=black>34
+<SYNC Start=1200700><P Class=KRCC>
+<font color=lightblue>자막 제작<br></font>
+판도라 tv/<font color=gold>은색악</font><font color=black>령<br></font>
+http://www.pandora.tv/<font color=deepskyblue>140973<font color=black>4
+<SYNC Start=1201200><P Class=KRCC>
+<font color=lightblue>자막 제작<br></font>
+판도라 tv/<font color=gold>은색악령<br></font>
+http://www.pandora.tv/<font color=deepskyblue>1409734
+<SYNC Start=1202700><P Class=KRCC>
+<font color=lightblue>자막 제작<br></font>
+판도라 tv/<font color=gold>은색악령<br></font>
+<font color=deepskyblue>http://www.pandora.tv/1409734
+<SYNC Start=1205500><P Class=KRCC>&nbsp;
+<SYNC Start=1206000><P Class=KRCC>
+미흡하고 허접한 제 자막<br>
+이용해주셔서 감사합니다.(__)
+<SYNC Start=1210000><P Class=KRCC>&nbsp;
+<SYNC Start=1212500><P Class=KRCC>
+<font color=silver>극장판 나루토 질풍전<br></font>
+ 예고
+<SYNC Start=1217500><P Class=KRCC>
+
+<SYNC Start=1297137><P Class=KRCC>
+<font color=silver>다음회 나루토 질풍전은
+<SYNC Start=1298387><P Class=KRCC>
+<font color=silver>이룰 수 없는 꿈
+<SYNC Start=1300427><P Class=KRCC>
+<font color=lightgreen>이룰 수 없는 꿈<br>
+<font color=silver>독에 당해 생명을 건 마지막 수단
+<SYNC Start=1303170><P Class=KRCC>
+<font color=lightgreen>이룰 수 없는 꿈<br>
+<font color=silver>치요 할머니의 소원을 담은<br>
+환상의 주술이 발동한다!
+<SYNC Start=1307321><P Class=KRCC>
+<font color=lightgreen>이룰 수 없는 꿈
+<SYNC Start=1308500><P Class=KRCC>&nbsp;
+
+<SYNC Start=1312000><P Class=KRCC>
+<font color=deepskyblue>세계는 파멸해...
+<SYNC Start=1313700><P Class=KRCC>
+<font color=deepskyblue>내가 지킨다!
+<SYNC Start=1315301><P Class=KRCC>&nbsp;
+<SYNC Start=1318500><P Class=KRCC>
+<font color=deepskyblue>절대로 죽지않아!!
+<SYNC Start=1320539><P Class=KRCC>&nbsp;
+<SYNC Start=1321000><P Class=KRCC>
+<font color=deepskyblue>나루토!!!
+<SYNC Start=1322917><P Class=KRCC>
+<font color=coral>극장판<br>
+나루토<br>
+질풍전
+<SYNC Start=1324000><P Class=KRCC>
+절찬리 상영중
+<SYNC Start=1325706><P Class=KRCC>&nbsp;
+<SYNC Start=1326595><P Class=KRCC>
+여닌자 조사
+<SYNC Start=1328920><P Class=KRCC>&nbsp;
+<SYNC Start=1329500><P Class=KRCC>
+이번 임무는 여닌자의 조사였지
+<SYNC Start=1332626><P Class=KRCC>&nbsp;
+<SYNC Start=1332785><P Class=KRCC>
+각자 맡은 여닌자를 보고 하도록
+<SYNC Start=1335358><P Class=KRCC>
+넵~
+<SYNC Start=1336545><P Class=KRCC>
+그럼 저 부터..
+<SYNC Start=1337610><P Class=KRCC>
+저는 열혈 가이반의 홍일점
+<SYNC Start=1340700><P Class=KRCC>
+온갖 무기들을 소환하는 텐텐
+<SYNC Start=1344010><P Class=KRCC>
+거친들판에 핀 한송이 꽃이랄까?
+<SYNC Start=1347772><P Class=KRCC>&nbsp;
+<SYNC Start=1348719><P Class=KRCC>
+내 담당은 환술의<br>
+엑스퍼트 쿠레나이다
+<SYNC Start=1351637><P Class=KRCC>&nbsp;
+<SYNC Start=1352919><P Class=KRCC>
+헤에~ 쿠레나이 선생님도<br>
+나뭇잎 조사대상에 드는군요
+<SYNC Start=1357027><P Class=KRCC>&nbsp;
+<SYNC Start=1357900><P Class=KRCC>
+마지막은 내 차례군
+<SYNC Start=1359915><P Class=KRCC>
+잠깐만 너는 에로 변신술이잖아!
+<SYNC Start=1362451><P Class=KRCC>&nbsp;
+<SYNC Start=1363500><P Class=KRCC>
+좀처럼 보기힘든 쭉쭉빵빵 이잖아
+<SYNC Start=1366500><P Class=KRCC>
+거기에 파워업한 신형 에로 변신술 간다!
+<SYNC Start=1370082><P Class=KRCC>&nbsp;
+<SYNC Start=1370186><P Class=KRCC>
+오옷!
+<SYNC Start=1370979><P Class=KRCC>&nbsp;
+<SYNC Start=1371500><P Class=KRCC>
+작작좀해!
+<SYNC Start=1373416><P Class=KRCC>&nbsp;
+<SYNC Start=1379100><P Class=KRCC>
+이거 신기록이로군..
+<SYNC Start=1381335><P Class=KRCC>&nbsp;
+<SYNC Start=1381500><P Class=KRCC>
+자막요청<BR>
+<FONT COLOR=SILVER>http://blog.naver.com/wjdtnsdnjs9
+<SYNC Start=1382500><P Class=KRCC>
+<FONT COLOR=DEEPSKYBLUE>신기록!!<BR></FONT>
+자막요청<BR>
+<FONT COLOR=SILVER>http://blog.naver.com/wjdtnsdnjs9
+<SYNC Start=1385000><P Class=KRCC>
+</BODY>
+</SAMI>

@@ -1,0 +1,3215 @@
+﻿<SAMI>
+            <HEAD>
+            <TITLE>Uzys SMI Merge Tool</TITLE>
+            <STYLE TYPE="text/css">
+            <!--
+            P { margin-left:2pt; margin-right:2pt; margin-bottom:1pt;
+                font-size:20pt; text-align:center; font-weight:bold;
+                color:white; }
+            .KRCC { Name:한국어; lang:ko-KR; SAMIType:CC; }
+            .ENCC { Name:English; lang:en-US; SAMIType:CC; }
+            -->
+            </STYLE>
+            </HEAD>
+            <BODY>
+<SYNC Start=5439><P Class=KRCC>
+<i>Previously on "Vikings":</i>
+<SYNC Start=6773><P Class=KRCC>&nbsp;
+<SYNC Start=6840><P Class=KRCC>
+<br><i>마침내, 다시한번 서쪽으로 갈때가 왔습니다.</i>
+<SYNC Start=8908><P Class=KRCC>&nbsp;
+<SYNC Start=8976><P Class=KRCC>
+<br><i>호릭왕과 보르그 족장이 우리와 함께할 것입니다.</i>
+<SYNC Start=11377><P Class=KRCC>&nbsp;
+<SYNC Start=11445><P Class=KRCC>
+<br>신부님 안녕?
+<SYNC Start=13045><P Class=KRCC>&nbsp;
+<SYNC Start=13046><P Class=KRCC>
+<br>_
+<SYNC Start=14420><P Class=KRCC>&nbsp;
+<SYNC Start=14454><P Class=KRCC>
+<br>영국이 그리웠나?
+<SYNC Start=15448><P Class=KRCC>&nbsp;
+<SYNC Start=15515><P Class=KRCC>
+<br>- 가끔은.<br>- 그럼 같이 가자.
+<SYNC Start=17383><P Class=KRCC>&nbsp;
+<SYNC Start=17451><P Class=KRCC>
+<br>우린 별의별 신들의 도움이 다 필요하거든,
+<SYNC Start=18684><P Class=KRCC>&nbsp;
+<SYNC Start=18751><P Class=KRCC>
+<br><i>너네 신도 포함해서 말이야.</i>
+<SYNC Start=20719><P Class=KRCC>&nbsp;
+<SYNC Start=20787><P Class=KRCC>
+<br>동생한테 가서 이야기좀 해봐요.<br>(롤로는 라그나동생이 아니라 형이예요!!)
+<SYNC Start=22088><P Class=KRCC>&nbsp;
+<SYNC Start=22155><P Class=KRCC>
+<br>다시한번 존중받을 기회를 줘.
+<SYNC Start=24990><P Class=KRCC>&nbsp;
+<SYNC Start=25058><P Class=KRCC>
+<br>내가 왜 너를 다시 믿어야 되지?
+<SYNC Start=26992><P Class=KRCC>&nbsp;
+<SYNC Start=27060><P Class=KRCC>
+<br>이렇게 예언하죠.<br>뱀모양이 그려진 
+<SYNC Start=29394><P Class=KRCC>&nbsp;
+<SYNC Start=29462><P Class=KRCC>
+<br>아이가 태어날 꺼예요.
+<SYNC Start=31529><P Class=KRCC>&nbsp;
+<SYNC Start=31598><P Class=KRCC>
+<br>보르그 족장과는 같이 가고 싶지 않네.
+<SYNC Start=33899><P Class=KRCC>&nbsp;
+<SYNC Start=33967><P Class=KRCC>
+<br>조약으로 맺어진것 아닌가?
+<SYNC Start=35734><P Class=KRCC>&nbsp;
+<SYNC Start=35802><P Class=KRCC>
+<br>착하신 동생을 버려.
+<SYNC Start=37535><P Class=KRCC>&nbsp;
+<SYNC Start=37604><P Class=KRCC>
+<br>으악
+<SYNC Start=39471><P Class=KRCC>&nbsp;
+<SYNC Start=40673><P Class=KRCC>
+<br>북쪽인들이 웨섹스에 상륙했습니다.</i>
+<SYNC Start=42708><P Class=KRCC>&nbsp;
+<SYNC Start=42775><P Class=KRCC>
+<br><i>그리고 우리의 군대를 물리쳤습니다.</i>
+<SYNC Start=44542><P Class=KRCC>&nbsp;
+<SYNC Start=44662><P Class=KRCC>
+<br>_
+<SYNC Start=46692><P Class=KRCC>&nbsp;
+<SYNC Start=46723><P Class=KRCC>
+<br>에츄베르트왕? 들어본적 있나?
+<SYNC Start=48913><P Class=KRCC>&nbsp;
+<SYNC Start=48981><P Class=KRCC>
+<br>딱 자네 같다고 들었지.
+<SYNC Start=50415><P Class=KRCC>&nbsp;
+<SYNC Start=50483><P Class=KRCC>
+<br>♪
+<SYNC Start=55853><P Class=KRCC>&nbsp;
+<SYNC Start=55921><P Class=KRCC>
+<br>♪ More, give me more ♪
+<SYNC Start=58123><P Class=KRCC>&nbsp;
+<SYNC Start=58190><P Class=KRCC>
+<br>♪ give me more ♪
+<SYNC Start=61258><P Class=KRCC>&nbsp;
+<SYNC Start=61326><P Class=KRCC>
+<br>♪ if I had a heart I could love you ♪
+<SYNC Start=67031><P Class=KRCC>&nbsp;
+<SYNC Start=67099><P Class=KRCC>
+<br>♪ if I had a voice I would sing ♪
+<SYNC Start=70868><P Class=KRCC>&nbsp;
+<SYNC Start=72771><P Class=KRCC>
+<br>♪ after the night when I wake up ♪
+<SYNC Start=78041><P Class=KRCC>&nbsp;
+<SYNC Start=78109><P Class=KRCC>
+<br>♪ I'll see what tomorrow brings ♪
+<SYNC Start=83880><P Class=KRCC>&nbsp;
+<SYNC Start=83948><P Class=KRCC>
+<br>♪ I... I... I... ♪
+<SYNC Start=89753><P Class=KRCC>&nbsp;
+<SYNC Start=89820><P Class=KRCC>
+<br>♪ If I had a voice I would sing ♪
+<SYNC Start=93390><P Class=KRCC>&nbsp;
+<SYNC Start=95458><P Class=KRCC>
+<br>- 기미갤 Chickholic자막<br>배포자유, 번역오류는 rhoads83@naver.com<br>으로 보내주시면 수정하겠습니다 -
+<SYNC Start=100063><P Class=KRCC>&nbsp;
+<SYNC Start=115546><P Class=KRCC>
+<br>저긴 뭐하는데지?
+<SYNC Start=117713><P Class=KRCC>&nbsp;
+<SYNC Start=117781><P Class=KRCC>
+<br>기독교 교회야, 대사원이라고
+<SYNC Start=120949><P Class=KRCC>&nbsp;
+<SYNC Start=121017><P Class=KRCC>
+<br>그중에서 좀 큰거지. <br>아마 여긴 윈체스터 겠네.
+<SYNC Start=123819><P Class=KRCC>&nbsp;
+<SYNC Start=123887><P Class=KRCC>
+<br>중요한덴가?
+<SYNC Start=125988><P Class=KRCC>&nbsp;
+<SYNC Start=126056><P Class=KRCC>
+<br>윈체스터라면 성 비리노가 뭍인곳이지.
+<SYNC Start=129725><P Class=KRCC>&nbsp;
+<SYNC Start=129793><P Class=KRCC>
+<br>굉장한 성지야.
+<SYNC Start=131760><P Class=KRCC>&nbsp;
+<SYNC Start=131828><P Class=KRCC>
+<br>보물이 있을까?
+<SYNC Start=133929><P Class=KRCC>&nbsp;
+<SYNC Start=135110><P Class=KRCC>
+<br>그럼, 아주 많을껄.
+<SYNC Start=137950><P Class=KRCC>&nbsp;
+<SYNC Start=137967><P Class=KRCC>
+<br>흠!<br> 
+<SYNC Start=139802><P Class=KRCC>&nbsp;
+<SYNC Start=152081><P Class=KRCC>
+<br><i>북부인들이 웨섹스에 온건</i>
+<SYNC Start=153215><P Class=KRCC>&nbsp;
+<SYNC Start=153282><P Class=KRCC>
+<br>딱히 놀랄일도 아니야.
+<SYNC Start=156184><P Class=KRCC>&nbsp;
+<SYNC Start=156252><P Class=KRCC>
+<br>노섬브리아가 습격당했단 이야기를<br>들었을때,
+<SYNC Start=158587><P Class=KRCC>&nbsp;
+<SYNC Start=158654><P Class=KRCC>
+<br>그 놈들이 이리로 오는건
+<SYNC Start=161127><P Class=KRCC>&nbsp;
+<SYNC Start=161160><P Class=KRCC>
+<br>시간문제라고 봤거든.
+<SYNC Start=163124><P Class=KRCC>&nbsp;
+<SYNC Start=167029><P Class=KRCC>
+<br>내가 샤를마뉴황제 밑에 있을때,
+<SYNC Start=170297><P Class=KRCC>&nbsp;
+<SYNC Start=170365><P Class=KRCC>
+<br>북부인들은 이미 제국을 공격해서
+<SYNC Start=172934><P Class=KRCC>&nbsp;
+<SYNC Start=173001><P Class=KRCC>
+<br>소굴을 늘려가고 있었거든
+<SYNC Start=175502><P Class=KRCC>&nbsp;
+<SYNC Start=175570><P Class=KRCC>
+<br>남부갈리아에 있는 <br>항구마을에서열린
+<SYNC Start=178572><P Class=KRCC>&nbsp;
+<SYNC Start=178640><P Class=KRCC>
+<br>샤를마뉴 황제의 파티였지
+<SYNC Start=180574><P Class=KRCC>&nbsp;
+<SYNC Start=180642><P Class=KRCC>
+<br>저녁먹을 때쯤에
+<SYNC Start=183176><P Class=KRCC>&nbsp;
+<SYNC Start=183245><P Class=KRCC>
+<br>해적함대가 항구를 공격했어
+<SYNC Start=186113><P Class=KRCC>&nbsp;
+<SYNC Start=186180><P Class=KRCC>
+<br>처음엔 어떤놈들인지 몰랐지만
+<SYNC Start=189283><P Class=KRCC>&nbsp;
+<SYNC Start=189351><P Class=KRCC>
+<br>배 모양이라던가
+<SYNC Start=190817><P Class=KRCC>&nbsp;
+<SYNC Start=190885><P Class=KRCC>
+<br>물살을 가르는 속도를 보고,
+<SYNC Start=192319><P Class=KRCC>&nbsp;
+<SYNC Start=192387><P Class=KRCC>
+<br>황제는 북부인들인것을 알아챘어.
+<SYNC Start=196623><P Class=KRCC>&nbsp;
+<SYNC Start=200228><P Class=KRCC>
+<br>번개같이 공격하고....
+<SYNC Start=202229><P Class=KRCC>&nbsp;
+<SYNC Start=206700><P Class=KRCC>
+<br>내빼버렸지....
+<SYNC Start=208201><P Class=KRCC>&nbsp;
+<SYNC Start=208269><P Class=KRCC>
+<br>황제는 부하들에게 추격을 명령했지만
+<SYNC Start=210270><P Class=KRCC>&nbsp;
+<SYNC Start=210337><P Class=KRCC>
+<br>순식간에 배타고 사라졌어.
+<SYNC Start=214006><P Class=KRCC>&nbsp;
+<SYNC Start=216377><P Class=KRCC>
+<br>이젠 내가 이 깡패이자 이교도놈들을<br>처리할때가 온거로구만
+<SYNC Start=223849><P Class=KRCC>&nbsp;
+<SYNC Start=226119><P Class=KRCC>
+<br>놈들을 처리해야되..
+<SYNC Start=229021><P Class=KRCC>&nbsp;
+<SYNC Start=230190><P Class=KRCC>
+<br>반드시.
+<SYNC Start=232524><P Class=KRCC>&nbsp;
+<SYNC Start=234795><P Class=KRCC>
+<br>애설울프?
+<SYNC Start=236195><P Class=KRCC>&nbsp;
+<SYNC Start=237764><P Class=KRCC>
+<br>네, 아버님.
+<SYNC Start=238964><P Class=KRCC>&nbsp;
+<SYNC Start=239032><P Class=KRCC>
+<br>너에게 가신들과 함께
+<SYNC Start=240099><P Class=KRCC>&nbsp;
+<SYNC Start=240167><P Class=KRCC>
+<br>군대를 양성할 것을 맡기겠다.
+<SYNC Start=242301><P Class=KRCC>&nbsp;
+<SYNC Start=242368><P Class=KRCC>
+<br>그와중에 스파이를 보내서
+<SYNC Start=245069><P Class=KRCC>&nbsp;
+<SYNC Start=245137><P Class=KRCC>
+<br>그놈들의 규모를 파악하고
+<SYNC Start=247205><P Class=KRCC>&nbsp;
+<SYNC Start=247273><P Class=KRCC>
+<br>목적이 무었인지 확인해 보도록.
+<SYNC Start=249274><P Class=KRCC>&nbsp;
+<SYNC Start=249342><P Class=KRCC>
+<br>북부인들은 배에서 멀리떨어지는<br>모험을 좋아할리 없어
+<SYNC Start=252043><P Class=KRCC>&nbsp;
+<SYNC Start=252111><P Class=KRCC>
+<br>그리고 가급적 전투는 <br>피하고 싶어할꺼야.
+<SYNC Start=256047><P Class=KRCC>&nbsp;
+<SYNC Start=256115><P Class=KRCC>
+<br>겁내지 말되, 조심하도록
+<SYNC Start=260051><P Class=KRCC>&nbsp;
+<SYNC Start=290479><P Class=KRCC>
+<br>라그리타
+<SYNC Start=292850><P Class=KRCC>&nbsp;
+<SYNC Start=298890><P Class=KRCC>
+<br>왜 내가 당신을 쫓아다녀야 되지?
+<SYNC Start=301624><P Class=KRCC>&nbsp;
+<SYNC Start=301692><P Class=KRCC>
+<br>넌 내 마누라라고.
+<SYNC Start=304027><P Class=KRCC>&nbsp;
+<SYNC Start=304095><P Class=KRCC>
+<br>우린 붙어있어야 하는건 당연한거고
+<SYNC Start=305262><P Class=KRCC>&nbsp;
+<SYNC Start=305330><P Class=KRCC>
+<br>중요한 손님이 있을땐 더더욱 그렇다고
+<SYNC Start=307831><P Class=KRCC>&nbsp;
+<SYNC Start=307899><P Class=KRCC>
+<br>난 내 아들이 모욕당하는꼴을<br>보고 있기 싫습니다.
+<SYNC Start=310367><P Class=KRCC>&nbsp;
+<SYNC Start=310434><P Class=KRCC>
+<br>네 아들은 자기 분수를 알아야되.
+<SYNC Start=312402><P Class=KRCC>&nbsp;
+<SYNC Start=312470><P Class=KRCC>
+<br>그 놈은 계속 반항적으로 군다고
+<SYNC Start=313903><P Class=KRCC>&nbsp;
+<SYNC Start=313971><P Class=KRCC>
+<br>내가 얼마나 사랑하고<br>있는지도 모르고말이야.
+<SYNC Start=317640><P Class=KRCC>&nbsp;
+<SYNC Start=319910><P Class=KRCC>
+<br>당신은 내 아들을 사랑하지 않아요.
+<SYNC Start=322345><P Class=KRCC>&nbsp;
+<SYNC Start=322413><P Class=KRCC>
+<br>어느 누구도 사랑하지 않죠, 시그바르드.
+<SYNC Start=324848><P Class=KRCC>&nbsp;
+<SYNC Start=325916><P Class=KRCC>
+<br>어떻게 하는지도 모르죠.
+<SYNC Start=327649><P Class=KRCC>&nbsp;
+<SYNC Start=327717><P Class=KRCC>
+<br>악!
+<SYNC Start=330219><P Class=KRCC>&nbsp;
+<SYNC Start=336093><P Class=KRCC>
+<br>용서하게 라그리타,<br>난 자제력이 없는 남자야.
+<SYNC Start=339395><P Class=KRCC>&nbsp;
+<SYNC Start=347036><P Class=KRCC>
+<br>자신을 통제하는게 어려운거 알어.
+<SYNC Start=350839><P Class=KRCC>&nbsp;
+<SYNC Start=350907><P Class=KRCC>
+<br>하지만 내 방식대로 당신을 사랑하고 원해
+<SYNC Start=354810><P Class=KRCC>&nbsp;
+<SYNC Start=354878><P Class=KRCC>
+<br>그리고 당신 아들과 뭔가 타협점을 찾는다면
+<SYNC Start=358346><P Class=KRCC>&nbsp;
+<SYNC Start=358414><P Class=KRCC>
+<br>그녀석의 장래도 보장해 줄 수있지.
+<SYNC Start=361283><P Class=KRCC>&nbsp;
+<SYNC Start=411933><P Class=KRCC>
+<br>비상!! 북부인들이 온다!!
+<SYNC Start=413967><P Class=KRCC>&nbsp;
+<SYNC Start=414034><P Class=KRCC>
+<br>보이나?
+<SYNC Start=415502><P Class=KRCC>&nbsp;
+<SYNC Start=415570><P Class=KRCC>
+<br>- 빨리!<br>- 안으로!! 어서!!
+<SYNC Start=416903><P Class=KRCC>&nbsp;
+<SYNC Start=430884><P Class=KRCC>
+<br>으앗!
+<SYNC Start=432986><P Class=KRCC>&nbsp;
+<SYNC Start=439960><P Class=KRCC>
+<br><i>- Soldier 1: 준비됐나?!<br>- Soldier 2: 발검!</i>
+<SYNC Start=442327><P Class=KRCC>&nbsp;
+<SYNC Start=445999><P Class=KRCC>
+<br><i>물건을 챙겨.</i>
+<SYNC Start=447733><P Class=KRCC>&nbsp;
+<SYNC Start=486005><P Class=KRCC>
+<br>으아! 억!
+<SYNC Start=487939><P Class=KRCC>&nbsp;
+<SYNC Start=488007><P Class=KRCC>
+<br>으아아아아!!
+<SYNC Start=489407><P Class=KRCC>&nbsp;
+<SYNC Start=489474><P Class=KRCC>
+<br>으아!
+<SYNC Start=491142><P Class=KRCC>&nbsp;
+<SYNC Start=523340><P Class=KRCC>
+<br>앗!!
+<SYNC Start=524941><P Class=KRCC>&nbsp;
+<SYNC Start=528946><P Class=KRCC>
+<br>으아아아아!
+<SYNC Start=531381><P Class=KRCC>&nbsp;
+<SYNC Start=531449><P Class=KRCC>
+<br>억! 억!
+<SYNC Start=533349><P Class=KRCC>&nbsp;
+<SYNC Start=534685><P Class=KRCC>
+<br>앗!
+<SYNC Start=535952><P Class=KRCC>&nbsp;
+<SYNC Start=536019><P Class=KRCC>
+<br>악!
+<SYNC Start=538054><P Class=KRCC>&nbsp;
+<SYNC Start=557073><P Class=KRCC>
+<br>함정일지 몰라!
+<SYNC Start=559074><P Class=KRCC>&nbsp;
+<SYNC Start=560143><P Class=KRCC>
+<br>쉴드월!
+<SYNC Start=562244><P Class=KRCC>&nbsp;
+<SYNC Start=591278><P Class=KRCC>
+<br>열어.
+<SYNC Start=592711><P Class=KRCC>&nbsp;
+<SYNC Start=607898><P Class=KRCC>
+<br>어디로 가버렸지?
+<SYNC Start=611591><P Class=KRCC>&nbsp;
+<SYNC Start=611711><P Class=KRCC>
+<br>보물이 있어야되는데.
+<SYNC Start=614332><P Class=KRCC>&nbsp;
+<SYNC Start=614873><P Class=KRCC>
+<br>얘가 보물이 있을꺼랬어.
+<SYNC Start=618103><P Class=KRCC>&nbsp;
+<SYNC Start=618402><P Class=KRCC>
+<br>왜 항상 얘말을 듣지?
+<SYNC Start=621939><P Class=KRCC>&nbsp;
+<SYNC Start=623851><P Class=KRCC>
+<br>어디있어?
+<SYNC Start=626443><P Class=KRCC>&nbsp;
+<SYNC Start=627101><P Class=KRCC>
+<br>저기.
+<SYNC Start=629947><P Class=KRCC>&nbsp;
+<SYNC Start=636454><P Class=KRCC>
+<br>이거? 이건 보물이 아니야!
+<SYNC Start=638804><P Class=KRCC>&nbsp;
+<SYNC Start=638924><P Class=KRCC>
+<br>빈 나무 태이블일 뿐이라고.
+<SYNC Start=641458><P Class=KRCC>&nbsp;
+<SYNC Start=644188><P Class=KRCC>
+<br>아닙니다, 호릭님(King Horic인데<br>단순하게 가겠습니다).
+<SYNC Start=647397><P Class=KRCC>&nbsp;
+<SYNC Start=647465><P Class=KRCC>
+<br>지금 서계신<br>여기가 보물이예요 .
+<SYNC Start=651135><P Class=KRCC>&nbsp;
+<SYNC Start=653704><P Class=KRCC>
+<br>뭐?
+<SYNC Start=656473><P Class=KRCC>&nbsp;
+<SYNC Start=663851><P Class=KRCC>
+<br>그렇군!!!
+<SYNC Start=667035><P Class=KRCC>&nbsp;
+<SYNC Start=668813><P Class=KRCC>
+<br>보물이다!
+<SYNC Start=670419><P Class=KRCC>&nbsp;
+<SYNC Start=672583><P Class=KRCC>
+<br>어떻게 알았지?
+<SYNC Start=674503><P Class=KRCC>&nbsp;
+<SYNC Start=674623><P Class=KRCC>
+<br>기독교인들의 습관이야.
+<SYNC Start=676492><P Class=KRCC>&nbsp;
+<SYNC Start=676560><P Class=KRCC>
+<br>위인들의 뼈를 제단아래 뭍거든.
+<SYNC Start=679529><P Class=KRCC>&nbsp;
+<SYNC Start=679596><P Class=KRCC>
+<br>라그나!
+<SYNC Start=681166><P Class=KRCC>&nbsp;
+<SYNC Start=685169><P Class=KRCC>
+<br>나도 좀 보자
+<SYNC Start=687236><P Class=KRCC>&nbsp;
+<SYNC Start=691960><P Class=KRCC>
+<br>이건 누구야?
+<SYNC Start=695010><P Class=KRCC>&nbsp;
+<SYNC Start=695078><P Class=KRCC>
+<br>아마 성 비리노일꺼야.
+<SYNC Start=696478><P Class=KRCC>&nbsp;
+<SYNC Start=698114><P Class=KRCC>
+<br>성(Saint)가 뭔지 알려줘봐
+<SYNC Start=701717><P Class=KRCC>&nbsp;
+<SYNC Start=701785><P Class=KRCC>
+<br>성은.. 특히 성스러운 삶을 살고,
+<SYNC Start=705287><P Class=KRCC>&nbsp;
+<SYNC Start=705354><P Class=KRCC>
+<br>기적을 보였거나,
+<SYNC Start=707489><P Class=KRCC>&nbsp;
+<SYNC Start=707557><P Class=KRCC>
+<br>신념에의해 죽을 뭐 그런사람들이야.
+<SYNC Start=711159><P Class=KRCC>&nbsp;
+<SYNC Start=711227><P Class=KRCC>
+<br><i>호릭왕: 금이다</i><br> 
+<SYNC Start=712994><P Class=KRCC>&nbsp;
+<SYNC Start=713062><P Class=KRCC>
+<br>근데 죽으면 무슨 소용이야?
+<SYNC Start=717065><P Class=KRCC>&nbsp;
+<SYNC Start=719101><P Class=KRCC>
+<br>기독교인들은 그 뼈들이
+<SYNC Start=720335><P Class=KRCC>&nbsp;
+<SYNC Start=720403><P Class=KRCC>
+<br>여전히 축복해준다고 믿어.
+<SYNC Start=723271><P Class=KRCC>&nbsp;
+<SYNC Start=723339><P Class=KRCC>
+<br>기적을 일으킨다거나.
+<SYNC Start=725239><P Class=KRCC>&nbsp;
+<SYNC Start=727073><P Class=KRCC>
+<br>기적은 또 뭐야?
+<SYNC Start=730578><P Class=KRCC>&nbsp;
+<SYNC Start=730645><P Class=KRCC>
+<br>일어날 수 없는 일이랄까?
+<SYNC Start=735649><P Class=KRCC>&nbsp;
+<SYNC Start=750167><P Class=KRCC>
+<br>잠깐!
+<SYNC Start=752666><P Class=KRCC>&nbsp;
+<SYNC Start=812640><P Class=KRCC>
+<br>안되 멈춰!
+<SYNC Start=814541><P Class=KRCC>&nbsp;
+<SYNC Start=814609><P Class=KRCC>
+<br>으앗!
+<SYNC Start=817144><P Class=KRCC>&nbsp;
+<SYNC Start=836745><P Class=KRCC>
+<br>주여 저들을 용서하소서..
+<SYNC Start=840666><P Class=KRCC>&nbsp;
+<SYNC Start=840733><P Class=KRCC>
+<br>그들이 하는일을 스스로 알게 하소서
+<SYNC Start=843902><P Class=KRCC>&nbsp;
+<SYNC Start=844022><P Class=KRCC>
+<br>숨어!
+<SYNC Start=845618><P Class=KRCC>&nbsp;
+<SYNC Start=845738><P Class=KRCC>
+<br>어떻게 우리말을 알지?
+<SYNC Start=848974><P Class=KRCC>&nbsp;
+<SYNC Start=849042><P Class=KRCC>
+<br>그딴게 중요한게 아니야 숨으라고!
+<SYNC Start=851877><P Class=KRCC>&nbsp;
+<SYNC Start=851944><P Class=KRCC>
+<br>- 숨지않으면 죽는다고!<br>- 동포로군!
+<SYNC Start=854719><P Class=KRCC>&nbsp;
+<SYNC Start=856683><P Class=KRCC>
+<br>한때는.
+<SYNC Start=858116><P Class=KRCC>&nbsp;
+<SYNC Start=858184><P Class=KRCC>
+<br>그럼 이리말하지
+<SYNC Start=860052><P Class=KRCC>&nbsp;
+<SYNC Start=860119><P Class=KRCC>
+<br>언젠가 넌 잡힐꺼야.
+<SYNC Start=862220><P Class=KRCC>&nbsp;
+<SYNC Start=862288><P Class=KRCC>
+<br><i>넌 잡혀서 심자가에 못박힐꺼다. </i>
+<SYNC Start=864455><P Class=KRCC>&nbsp;
+<SYNC Start=864523><P Class=KRCC>
+<br>신에 눈에 가장 더럽고 혐오스러운<br>변절자로
+<SYNC Start=867159><P Class=KRCC>&nbsp;
+<SYNC Start=867226><P Class=KRCC>
+<br>낙인찍히게 될 것이다.
+<SYNC Start=869074><P Class=KRCC>&nbsp;
+<SYNC Start=870880><P Class=KRCC>
+<br>오!
+<SYNC Start=872502><P Class=KRCC>&nbsp;
+<SYNC Start=892927><P Class=KRCC>
+<br>- 데려가봐야 겠군!
+<SYNC Start=895552><P Class=KRCC>&nbsp;
+<SYNC Start=917375><P Class=KRCC>
+<br>좀 높은 신부인가봐
+<SYNC Start=920198><P Class=KRCC>&nbsp;
+<SYNC Start=921437><P Class=KRCC>
+<br>우리 신한테 설교해봐.
+<SYNC Start=924208><P Class=KRCC>&nbsp;
+<SYNC Start=927970><P Class=KRCC>
+<br>신은 하나밖에 없다며?<br>내가보기엔 넌 그냥 늙은 바보 거짓말쟁이야.
+<SYNC Start=930407><P Class=KRCC>&nbsp;
+<SYNC Start=930527><P Class=KRCC>
+<br>신들은 널 싫어하지.. 근데 난 더 싫어해.
+<SYNC Start=933107><P Class=KRCC>&nbsp;
+<SYNC Start=933896><P Class=KRCC>
+<br>_
+<SYNC Start=938190><P Class=KRCC>&nbsp;
+<SYNC Start=939503><P Class=KRCC>
+<br>Bishop Swithern: Salve,<br>nobilis, et pretiose...
+<SYNC Start=943496><P Class=KRCC>&nbsp;
+<SYNC Start=943616><P Class=KRCC>
+<br>얍!
+<SYNC Start=945274><P Class=KRCC>&nbsp;
+<SYNC Start=950581><P Class=KRCC>
+<br>묶어! 같이좀 놀아주자!
+<SYNC Start=953961><P Class=KRCC>&nbsp;
+<SYNC Start=968364><P Class=KRCC>
+<br>어쩔샘이야?
+<SYNC Start=970398><P Class=KRCC>&nbsp;
+<SYNC Start=970518><P Class=KRCC>
+<br>기다려보면 알겠지?!
+<SYNC Start=973067><P Class=KRCC>&nbsp;
+<SYNC Start=981544><P Class=KRCC>
+<br>주여....
+<SYNC Start=982744><P Class=KRCC>&nbsp;
+<SYNC Start=986115><P Class=KRCC>
+<br>Rescipe ergo in me oculis<br>misercordiae tuae...
+<SYNC Start=990322><P Class=KRCC>&nbsp;
+<SYNC Start=1041586><P Class=KRCC>
+<br><i>여기봐!</i>
+<SYNC Start=1043736><P Class=KRCC>&nbsp;
+<SYNC Start=1045836><P Class=KRCC>
+<br>Warrior 4: (In Old Norse) 이것보라구!
+<SYNC Start=1048210><P Class=KRCC>&nbsp;
+<SYNC Start=1084677><P Class=KRCC>
+<br><i>- 죽이면 안되 플로키 </i>
+<SYNC Start=1086678><P Class=KRCC>&nbsp;
+<SYNC Start=1086746><P Class=KRCC>
+<br>윽!
+<SYNC Start=1088112><P Class=KRCC>&nbsp;
+<SYNC Start=1093618><P Class=KRCC>
+<br>아직도 이야기를해? 늙은 염소가 터프하네.
+<SYNC Start=1096620><P Class=KRCC>&nbsp;
+<SYNC Start=1097286><P Class=KRCC>
+<br>엘렌두르 조용히 시켜, 주둥이를 맞춰버려.
+<SYNC Start=1101025><P Class=KRCC>&nbsp;
+<SYNC Start=1107466><P Class=KRCC>
+<br>- 뭐야?<br>- 저리 비켜.
+<SYNC Start=1110267><P Class=KRCC>&nbsp;
+<SYNC Start=1126739><P Class=KRCC>
+<br>(Inhales sharply)
+<SYNC Start=1129386><P Class=KRCC>&nbsp;
+<SYNC Start=1130588><P Class=KRCC>
+<br>Deus tippi benidicas.
+<SYNC Start=1133221><P Class=KRCC>&nbsp;
+<SYNC Start=1133341><P Class=KRCC>
+<br>고통없이 구원받으시길.
+<SYNC Start=1137948><P Class=KRCC>&nbsp;
+<SYNC Start=1176899><P Class=KRCC>
+<br>어머니 왜 어머니한테 그따위로하게<br>놔두는 거예요?
+<SYNC Start=1180235><P Class=KRCC>&nbsp;
+<SYNC Start=1180303><P Class=KRCC>
+<br>무슨말이니?
+<SYNC Start=1181603><P Class=KRCC>&nbsp;
+<SYNC Start=1181671><P Class=KRCC>
+<br>당신남편 시그바르드 백작, 아까 봤어요!
+<SYNC Start=1185075><P Class=KRCC>&nbsp;
+<SYNC Start=1185909><P Class=KRCC>
+<br>비욘, 제발.
+<SYNC Start=1187508><P Class=KRCC>&nbsp;
+<SYNC Start=1187576><P Class=KRCC>
+<br>제발 뭐요?
+<SYNC Start=1189844><P Class=KRCC>&nbsp;
+<SYNC Start=1189912><P Class=KRCC>
+<br>전에도 때렸나요?
+<SYNC Start=1191879><P Class=KRCC>&nbsp;
+<SYNC Start=1193549><P Class=KRCC>
+<br>다시 때리게 놔둘꺼예요?
+<SYNC Start=1194715><P Class=KRCC>&nbsp;
+<SYNC Start=1194783><P Class=KRCC>
+<br>다신 그런일 없을꺼야.
+<SYNC Start=1197000><P Class=KRCC>&nbsp;
+<SYNC Start=1197848><P Class=KRCC>
+<br>만약 그런다면 난 저놈을 죽일꺼예요.
+<SYNC Start=1200588><P Class=KRCC>&nbsp;
+<SYNC Start=1200656><P Class=KRCC>
+<br>그런일 없을꺼라고.
+<SYNC Start=1202890><P Class=KRCC>&nbsp;
+<SYNC Start=1205084><P Class=KRCC>
+<br>라그나가 뭐라고 할까요?
+<SYNC Start=1207795><P Class=KRCC>&nbsp;
+<SYNC Start=1210466><P Class=KRCC>
+<br>이게 니 아빠랑 무슨 상관인데?
+<SYNC Start=1212199><P Class=KRCC>&nbsp;
+<SYNC Start=1212267><P Class=KRCC>
+<br>아무것도 아니야!
+<SYNC Start=1213798><P Class=KRCC>&nbsp;
+<SYNC Start=1214603><P Class=KRCC>
+<br>가끔 아빠 생각을해요.
+<SYNC Start=1216971><P Class=KRCC>&nbsp;
+<SYNC Start=1217038><P Class=KRCC>
+<br>그리운데, 어쩔수 없네요.
+<SYNC Start=1219606><P Class=KRCC>&nbsp;
+<SYNC Start=1220908><P Class=KRCC>
+<br>당연하지. 넌 니아빠 아들이니깐.
+<SYNC Start=1223844><P Class=KRCC>&nbsp;
+<SYNC Start=1224879><P Class=KRCC>
+<br>자긍심을 가지거라.
+<SYNC Start=1227381><P Class=KRCC>&nbsp;
+<SYNC Start=1227449><P Class=KRCC>
+<br>엄마도 아빠의 아내로 있었어야 했어요!
+<SYNC Start=1230150><P Class=KRCC>&nbsp;
+<SYNC Start=1274961><P Class=KRCC>
+<br>또 아들이예요?
+<SYNC Start=1276762><P Class=KRCC>&nbsp;
+<SYNC Start=1276830><P Class=KRCC>
+<br>네.
+<SYNC Start=1278363><P Class=KRCC>&nbsp;
+<SYNC Start=1279733><P Class=KRCC>
+<br>이름이 뭐죠?
+<SYNC Start=1281640><P Class=KRCC>&nbsp;
+<SYNC Start=1281951><P Class=KRCC>
+<br>시구르드, 우리 아버지에게서 땄어요.
+<SYNC Start=1285119><P Class=KRCC>&nbsp;
+<SYNC Start=1298515><P Class=KRCC>
+<br>뱀을 눈에 품은 시구르드.
+<SYNC Start=1301036><P Class=KRCC>&nbsp;
+<SYNC Start=1310548><P Class=KRCC>
+<br>페하
+<SYNC Start=1312210><P Class=KRCC>&nbsp;
+<SYNC Start=1312277><P Class=KRCC>
+<br><i>윈체스터가 공격당한것 아십니까?</i>
+<SYNC Start=1315279><P Class=KRCC>&nbsp;
+<SYNC Start=1316548><P Class=KRCC>
+<br>물론.
+<SYNC Start=1318316><P Class=KRCC>&nbsp;
+<SYNC Start=1319518><P Class=KRCC>
+<br>슬픈 일이지.
+<SYNC Start=1320649><P Class=KRCC>&nbsp;
+<SYNC Start=1320666><P Class=KRCC>
+<br><i>내 부하주교가 순교했습니다,</i>
+<SYNC Start=1323119><P Class=KRCC>&nbsp;
+<SYNC Start=1323128><P Class=KRCC>
+<br>스위든 주교요, 훌륭한 기독교인이죠.
+<SYNC Start=1327220><P Class=KRCC>&nbsp;
+<SYNC Start=1327559><P Class=KRCC>
+<br>신계 기도하지.
+<SYNC Start=1329594><P Class=KRCC>&nbsp;
+<SYNC Start=1330695><P Class=KRCC>
+<br>매우 중요한 곳이니만큼
+<SYNC Start=1333749><P Class=KRCC>&nbsp;
+<SYNC Start=1333800><P Class=KRCC>
+<br>우리 형제자매들을 지키기 위해서
+<SYNC Start=1336567><P Class=KRCC>&nbsp;
+<SYNC Start=1336635><P Class=KRCC>
+<br>더 주의를 기울여야 한다고<br>말씀드렸지요.
+<SYNC Start=1338936><P Class=KRCC>&nbsp;
+<SYNC Start=1340305><P Class=KRCC>
+<br>그런가?
+<SYNC Start=1341739><P Class=KRCC>&nbsp;
+<SYNC Start=1344943><P Class=KRCC>
+<br><i>내 왕국은 매우커.</i>
+<SYNC Start=1346844><P Class=KRCC>&nbsp;
+<SYNC Start=1346911><P Class=KRCC>
+<br>중요한 곳은 많고.
+<SYNC Start=1349747><P Class=KRCC>&nbsp;
+<SYNC Start=1349814><P Class=KRCC>
+<br>전부 지킬 수 있을까? 아니야.
+<SYNC Start=1353483><P Class=KRCC>&nbsp;
+<SYNC Start=1353551><P Class=KRCC>
+<br>그 이교도들을 <br>발견하기를 바라지 않았던가?
+<SYNC Start=1357587><P Class=KRCC>&nbsp;
+<SYNC Start=1357655><P Class=KRCC>
+<br>그랬지.
+<SYNC Start=1360023><P Class=KRCC>&nbsp;
+<SYNC Start=1360090><P Class=KRCC>
+<br>그리고 그놈들이 어디있는지를 알게되었지.
+<SYNC Start=1362025><P Class=KRCC>&nbsp;
+<SYNC Start=1362092><P Class=KRCC>
+<br>그럼....
+<SYNC Start=1363490><P Class=KRCC>&nbsp;
+<SYNC Start=1363776><P Class=KRCC>
+<br>스위든 주교는 헛되지 않은 희생을 했군요.
+<SYNC Start=1367641><P Class=KRCC>&nbsp;
+<SYNC Start=1368832><P Class=KRCC>
+<br>신의 백성으로요,
+<SYNC Start=1370331><P Class=KRCC>&nbsp;
+<SYNC Start=1370365><P Class=KRCC>
+<br>그는 기꺼이 순교할 기회를<br>받아들였을꺼야.
+<SYNC Start=1373537><P Class=KRCC>&nbsp;
+<SYNC Start=1375438><P Class=KRCC>
+<br>그렇지 않은가?
+<SYNC Start=1376773><P Class=KRCC>&nbsp;
+<SYNC Start=1376840><P Class=KRCC>
+<br>그럼요
+<SYNC Start=1378289><P Class=KRCC>&nbsp;
+<SYNC Start=1378516><P Class=KRCC>
+<br>모든 성직자들은 자신의 운명에 의해
+<SYNC Start=1380677><P Class=KRCC>&nbsp;
+<SYNC Start=1380744><P Class=KRCC>
+<br>순교하여 주예수그리스도에게
+<SYNC Start=1382511><P Class=KRCC>&nbsp;
+<SYNC Start=1382579><P Class=KRCC>
+<br>봉사할 수 있기를 바라마지않죠.
+<SYNC Start=1384747><P Class=KRCC>&nbsp;
+<SYNC Start=1387484><P Class=KRCC>
+<br>좋아.
+<SYNC Start=1388742><P Class=KRCC>&nbsp;
+<SYNC Start=1389078><P Class=KRCC>
+<br>그러한 귀중한 기회를 
+<SYNC Start=1391565><P Class=KRCC>&nbsp;
+<SYNC Start=1391821><P Class=KRCC>
+<br>마련해주도록 하지
+<SYNC Start=1394994><P Class=KRCC>&nbsp;
+<SYNC Start=1396129><P Class=KRCC>
+<br>대주교,
+<SYNC Start=1398561><P Class=KRCC>&nbsp;
+<SYNC Start=1401264><P Class=KRCC>
+<br>아마 금방일꺼야.
+<SYNC Start=1404833><P Class=KRCC>&nbsp;
+<SYNC Start=1435997><P Class=KRCC>
+<br>널 위해 뭔가를 준비했어 에설스턴
+<SYNC Start=1438733><P Class=KRCC>&nbsp;
+<SYNC Start=1445607><P Class=KRCC>
+<br><i>이거 필요없어?</i>
+<SYNC Start=1447384><P Class=KRCC>&nbsp;
+<SYNC Start=1448123><P Class=KRCC>
+<br>이런게 신을 떠올리게 하나?
+<SYNC Start=1451795><P Class=KRCC>&nbsp;
+<SYNC Start=1452680><P Class=KRCC>
+<br>또 말하게 하는군
+<SYNC Start=1456283><P Class=KRCC>&nbsp;
+<SYNC Start=1456351><P Class=KRCC>
+<br>내 신은 오딘이야, 모두의 아버지.
+<SYNC Start=1458318><P Class=KRCC>&nbsp;
+<SYNC Start=1458386><P Class=KRCC>
+<br>니가 그말 한거 알어.
+<SYNC Start=1461020><P Class=KRCC>&nbsp;
+<SYNC Start=1461088><P Class=KRCC>
+<br>그냥.. 믿지 못하겠는거야.
+<SYNC Start=1464658><P Class=KRCC>&nbsp;
+<SYNC Start=1466127><P Class=KRCC>
+<br>이거 보여? 라그나가 줬어.
+<SYNC Start=1469696><P Class=KRCC>&nbsp;
+<SYNC Start=1469764><P Class=KRCC>
+<br>개목걸이 했다고 개가 되는건 아니지.
+<SYNC Start=1473366><P Class=KRCC>&nbsp;
+<SYNC Start=1474635><P Class=KRCC>
+<br>오.
+<SYNC Start=1476569><P Class=KRCC>&nbsp;
+<SYNC Start=1479706><P Class=KRCC>
+<br><i>또 줄게 있어.</i>
+<SYNC Start=1482776><P Class=KRCC>&nbsp;
+<SYNC Start=1485880><P Class=KRCC>
+<br>성자님의 손이지, 그치.
+<SYNC Start=1489982><P Class=KRCC>&nbsp;
+<SYNC Start=1494257><P Class=KRCC>
+<br>그러니깐
+<SYNC Start=1496264><P Class=KRCC>&nbsp;
+<SYNC Start=1497041><P Class=KRCC>
+<br>어떻게 잉글랜드를 발견했죠?
+<SYNC Start=1499583><P Class=KRCC>&nbsp;
+<SYNC Start=1501211><P Class=KRCC>
+<br>부와 즐거움의 땅이지.
+<SYNC Start=1506064><P Class=KRCC>&nbsp;
+<SYNC Start=1506132><P Class=KRCC>
+<br>맞아요, 여긴 부유하죠.
+<SYNC Start=1509888><P Class=KRCC>&nbsp;
+<SYNC Start=1511104><P Class=KRCC>
+<br>하지만, 이게 진짜 보물이죠!
+<SYNC Start=1514973><P Class=KRCC>&nbsp;
+<SYNC Start=1517944><P Class=KRCC>
+<br>흙? 이런게 뭐?
+<SYNC Start=1520578><P Class=KRCC>&nbsp;
+<SYNC Start=1520646><P Class=KRCC>
+<br>가는데 마다 경작하고 있어요.
+<SYNC Start=1522514><P Class=KRCC>&nbsp;
+<SYNC Start=1522581><P Class=KRCC>
+<br>식량이 자라는거예요.
+<SYNC Start=1524849><P Class=KRCC>&nbsp;
+<SYNC Start=1524917><P Class=KRCC>
+<br>나도 내 아버지도 농부예요,
+<SYNC Start=1527852><P Class=KRCC>&nbsp;
+<SYNC Start=1527920><P Class=KRCC>
+<br>이게 내가 이해하는거예요.
+<SYNC Start=1531122><P Class=KRCC>&nbsp;
+<SYNC Start=1531190><P Class=KRCC>
+<br>가난한 우리 나라랑 비교해봐요<br>농사짓기도 힘들고,
+<SYNC Start=1534659><P Class=KRCC>&nbsp;
+<SYNC Start=1534727><P Class=KRCC>
+<br>살기도 힘들고..
+<SYNC Start=1536728><P Class=KRCC>&nbsp;
+<SYNC Start=1536796><P Class=KRCC>
+<br>근데 여긴 쉬워요.
+<SYNC Start=1539997><P Class=KRCC>&nbsp;
+<SYNC Start=1541166><P Class=KRCC>
+<br>우리가 여기 살면 모두를 먹여살릴수 있어요.
+<SYNC Start=1544401><P Class=KRCC>&nbsp;
+<SYNC Start=1544469><P Class=KRCC>
+<br>굶주릴 것도 없구요.
+<SYNC Start=1546537><P Class=KRCC>&nbsp;
+<SYNC Start=1546604><P Class=KRCC>
+<br>좋은 생각이야<br>하지만 질문이 있어:
+<SYNC Start=1550007><P Class=KRCC>&nbsp;
+<SYNC Start=1550075><P Class=KRCC>
+<br>색슨족이 곱게 우리랑 같이 살도록
+<SYNC Start=1551976><P Class=KRCC>&nbsp;
+<SYNC Start=1552044><P Class=KRCC>
+<br>초대해줄까? 응?
+<SYNC Start=1554411><P Class=KRCC>&nbsp;
+<SYNC Start=1596052><P Class=KRCC>
+<br>두번째로 결혼하게 되었군요.
+<SYNC Start=1599489><P Class=KRCC>&nbsp;
+<SYNC Start=1599556><P Class=KRCC>
+<br>아시다 시피,
+<SYNC Start=1600590><P Class=KRCC>&nbsp;
+<SYNC Start=1600657><P Class=KRCC>
+<br>내 첫번째 결혼은 한시간도 못갔죠,
+<SYNC Start=1602692><P Class=KRCC>&nbsp;
+<SYNC Start=1602760><P Class=KRCC>
+<br>내 형이 술에 독을 탔거든요.
+<SYNC Start=1607562><P Class=KRCC>&nbsp;
+<SYNC Start=1607630><P Class=KRCC>
+<br>그런일은 당연히 없어야죠
+<SYNC Start=1609164><P Class=KRCC>&nbsp;
+<SYNC Start=1609232><P Class=KRCC>
+<br>자, 와인 퍼마십시다.
+<SYNC Start=1611100><P Class=KRCC>&nbsp;
+<SYNC Start=1620743><P Class=KRCC>
+<br>자, 누가 처음으로 축배를 들까요?
+<SYNC Start=1624112><P Class=KRCC>&nbsp;
+<SYNC Start=1627750><P Class=KRCC>
+<br>저요.
+<SYNC Start=1630151><P Class=KRCC>&nbsp;
+<SYNC Start=1638160><P Class=KRCC>
+<br>아니야, 아니야, 두번은 싫어.
+<SYNC Start=1640761><P Class=KRCC>&nbsp;
+<SYNC Start=1640829><P Class=KRCC>
+<br>제가 먹어 보죠.
+<SYNC Start=1643164><P Class=KRCC>&nbsp;
+<SYNC Start=1655577><P Class=KRCC>
+<br>괜찮은거 같네요.
+<SYNC Start=1657845><P Class=KRCC>&nbsp;
+<SYNC Start=1663718><P Class=KRCC>
+<br>중요하게 드릴 말씀이 또 있습니다.
+<SYNC Start=1666153><P Class=KRCC>&nbsp;
+<SYNC Start=1666220><P Class=KRCC>
+<br>좋은날을 망치고 싶진 않지만
+<SYNC Start=1667721><P Class=KRCC>&nbsp;
+<SYNC Start=1667789><P Class=KRCC>
+<br>여러분 모두 저와
+<SYNC Start=1670858><P Class=KRCC>&nbsp;
+<SYNC Start=1670926><P Class=KRCC>
+<br>호릭왕 그리고 라그나 사이에 맺은<br>협약이 깨졌단 말씀을 드려야 겠네요.
+<SYNC Start=1674627><P Class=KRCC>&nbsp;
+<SYNC Start=1674695><P Class=KRCC>
+<br>그들은 나와 여러분들을 빼고<br>습격을 갔어요.
+<SYNC Start=1677230><P Class=KRCC>&nbsp;
+<SYNC Start=1677298><P Class=KRCC>
+<br>이건 나를 모욕하는것 뿐만 아니라
+<SYNC Start=1679032><P Class=KRCC>&nbsp;
+<SYNC Start=1679100><P Class=KRCC>
+<br>여러분 모를 모욕하는 거예요.
+<SYNC Start=1680500><P Class=KRCC>&nbsp;
+<SYNC Start=1680568><P Class=KRCC>
+<br>내 부인과
+<SYNC Start=1682802><P Class=KRCC>&nbsp;
+<SYNC Start=1682870><P Class=KRCC>
+<br>부인의 가족까지도요
+<SYNC Start=1685672><P Class=KRCC>&nbsp;
+<SYNC Start=1687942><P Class=KRCC>
+<br>이런 모욕을 두고볼수가 없군요.
+<SYNC Start=1690577><P Class=KRCC>&nbsp;
+<SYNC Start=1690644><P Class=KRCC>
+<br>뭐, 호릭왕을 비방좀 하자면
+<SYNC Start=1693613><P Class=KRCC>&nbsp;
+<SYNC Start=1693681><P Class=KRCC>
+<br><i>더불어서,</i>
+<SYNC Start=1694981><P Class=KRCC>&nbsp;
+<SYNC Start=1695048><P Class=KRCC>
+<br><i>라그나 백작의 땅에 벌어지는 일좀<br>포함해서요.</i>
+<SYNC Start=1698685><P Class=KRCC>&nbsp;
+<SYNC Start=1698752><P Class=KRCC>
+<br>그는 마누라와 주정뱅이 형을
+<SYNC Start=1701120><P Class=KRCC>&nbsp;
+<SYNC Start=1701188><P Class=KRCC>
+<br>살피기를 포기했어요.
+<SYNC Start=1704923><P Class=KRCC>&nbsp;
+<SYNC Start=1707094><P Class=KRCC>
+<br>나와 내 가족을 모욕한 이를
+<SYNC Start=1708594><P Class=KRCC>&nbsp;
+<SYNC Start=1708661><P Class=KRCC>
+<br>벌하기 위해서,
+<SYNC Start=1711697><P Class=KRCC>&nbsp;
+<SYNC Start=1711764><P Class=KRCC>
+<br>라그나 로그브록에 대한 복수를
+<SYNC Start=1713732><P Class=KRCC>&nbsp;
+<SYNC Start=1713800><P Class=KRCC>
+<br>선포합니다.
+<SYNC Start=1715934><P Class=KRCC>&nbsp;
+<SYNC Start=1716970><P Class=KRCC>
+<br>모든신들에 의해,
+<SYNC Start=1718871><P Class=KRCC>&nbsp;
+<SYNC Start=1718938><P Class=KRCC>
+<br>난 놈의 모든 땅을 점령하고
+<SYNC Start=1723675><P Class=KRCC>&nbsp;
+<SYNC Start=1723743><P Class=KRCC>
+<br>그형놈의 배반을 내 도끼로
+<SYNC Start=1725844><P Class=KRCC>&nbsp;
+<SYNC Start=1725912><P Class=KRCC>
+<br>되갚아 줄것을 맹세합니다.
+<SYNC Start=1727145><P Class=KRCC>&nbsp;
+<SYNC Start=1761914><P Class=KRCC>
+<br>우리말 할수 있는 사람 있나?
+<SYNC Start=1765116><P Class=KRCC>&nbsp;
+<SYNC Start=1768588><P Class=KRCC>
+<br>나.
+<SYNC Start=1770521><P Class=KRCC>&nbsp;
+<SYNC Start=1772058><P Class=KRCC>
+<br>난 웨섹스의 왕이신 에츄베르트왕의 사자로,
+<SYNC Start=1774993><P Class=KRCC>&nbsp;
+<SYNC Start=1775061><P Class=KRCC>
+<br>이곳에 왔네
+<SYNC Start=1776594><P Class=KRCC>&nbsp;
+<SYNC Start=1776662><P Class=KRCC>
+<br>왕께선 윈체스터의 교회를
+<SYNC Start=1779931><P Class=KRCC>&nbsp;
+<SYNC Start=1779999><P Class=KRCC>
+<br>공격한것을 유감스럽게 생각하시네.</i>
+<SYNC Start=1782033><P Class=KRCC>&nbsp;
+<SYNC Start=1782101><P Class=KRCC>
+<br>그리고 그 이상으로 그분의 왕국에
+<SYNC Start=1784302><P Class=KRCC>&nbsp;
+<SYNC Start=1784369><P Class=KRCC>
+<br>너희들이 얼마나 있다갈 것인가 궁금해 하시네.
+<SYNC Start=1788239><P Class=KRCC>&nbsp;
+<SYNC Start=1791142><P Class=KRCC>
+<br>뭐, 이런건 말이죠
+<SYNC Start=1794945><P Class=KRCC>&nbsp;
+<SYNC Start=1796948><P Class=KRCC>
+<br>이런건?
+<SYNC Start=1799684><P Class=KRCC>&nbsp;
+<SYNC Start=1799751><P Class=KRCC>
+<br>그분께서 가라 하시거나
+<SYNC Start=1803220><P Class=KRCC>&nbsp;
+<SYNC Start=1804322><P Class=KRCC>
+<br>머물라 하시라느냐에 달린문제죠.
+<SYNC Start=1809193><P Class=KRCC>&nbsp;
+<SYNC Start=1811429><P Class=KRCC>
+<br>머문다고?
+<SYNC Start=1813496><P Class=KRCC>&nbsp;
+<SYNC Start=1813564><P Class=KRCC>
+<br>그럼요, 우리는 왕이랑 <br>사이좋게 지내고 싶다구요.
+<SYNC Start=1818468><P Class=KRCC>&nbsp;
+<SYNC Start=1820037><P Class=KRCC>
+<br>평화롭게?
+<SYNC Start=1821504><P Class=KRCC>&nbsp;
+<SYNC Start=1826677><P Class=KRCC>
+<br>그럼 당신네들은 더이상 안죽여도 되구요.
+<SYNC Start=1830547><P Class=KRCC>&nbsp;
+<SYNC Start=1830615><P Class=KRCC>
+<br>왕에게 메세지를 전하지.
+<SYNC Start=1835118><P Class=KRCC>&nbsp;
+<SYNC Start=1840590><P Class=KRCC>
+<br>잠깐!
+<SYNC Start=1842424><P Class=KRCC>&nbsp;
+<SYNC Start=1883332><P Class=KRCC>
+<br>배안고프니 비욘?
+<SYNC Start=1884965><P Class=KRCC>&nbsp;
+<SYNC Start=1886368><P Class=KRCC>
+<br>안고파요.
+<SYNC Start=1887468><P Class=KRCC>&nbsp;
+<SYNC Start=1887536><P Class=KRCC>
+<br>왜?
+<SYNC Start=1889003><P Class=KRCC>&nbsp;
+<SYNC Start=1889070><P Class=KRCC>
+<br>그냥요.
+<SYNC Start=1891238><P Class=KRCC>&nbsp;
+<SYNC Start=1891307><P Class=KRCC>
+<br>불행하니?
+<SYNC Start=1893474><P Class=KRCC>&nbsp;
+<SYNC Start=1898314><P Class=KRCC>
+<br>어떻게하면 니가 행복할까.
+<SYNC Start=1900581><P Class=KRCC>&nbsp;
+<SYNC Start=1902350><P Class=KRCC>
+<br>대충 아무대나 처들어가서
+<SYNC Start=1904551><P Class=KRCC>&nbsp;
+<SYNC Start=1904619><P Class=KRCC>
+<br>넌 싸움실력좀 보여주거나
+<SYNC Start=1907454><P Class=KRCC>&nbsp;
+<SYNC Start=1907522><P Class=KRCC>
+<br>뭐 다죽여 버리거나?
+<SYNC Start=1909790><P Class=KRCC>&nbsp;
+<SYNC Start=1909858><P Class=KRCC>
+<br>니가 진정한 라그나 로스브록의<br>아들임을 보이는거지!</i>
+<SYNC Start=1913493><P Class=KRCC>&nbsp;
+<SYNC Start=1916631><P Class=KRCC>
+<br>아니야,
+<SYNC Start=1918365><P Class=KRCC>&nbsp;
+<SYNC Start=1918433><P Class=KRCC>
+<br>난 니가 침통해 하는걸 보고 싶지 않아.
+<SYNC Start=1920701><P Class=KRCC>&nbsp;
+<SYNC Start=1921769><P Class=KRCC>
+<br>그러니 말해보렴 어떻게 해줄까?
+<SYNC Start=1925439><P Class=KRCC>&nbsp;
+<SYNC Start=1928443><P Class=KRCC>
+<br>산에 있는 오두막에 살게 해주실수 있죠.
+<SYNC Start=1931478><P Class=KRCC>&nbsp;
+<SYNC Start=1931546><P Class=KRCC>
+<br>혼자서? 산중에?
+<SYNC Start=1934147><P Class=KRCC>&nbsp;
+<SYNC Start=1934215><P Class=KRCC>
+<br>네, 스스로를 시험해보고 싶어요.
+<SYNC Start=1937050><P Class=KRCC>&nbsp;
+<SYNC Start=1938185><P Class=KRCC>
+<br><i>모든것에서 떨어져가지구요. 하인들</i>
+<SYNC Start=1941420><P Class=KRCC>&nbsp;
+<SYNC Start=1941488><P Class=KRCC>
+<br><i>우릴 위해 모든걸 해주는 사람들...</i>
+<SYNC Start=1944790><P Class=KRCC>&nbsp;
+<SYNC Start=1944859><P Class=KRCC>
+<br>삶에 꼭 필요한게 뭔지 알고 싶어요.
+<SYNC Start=1948127><P Class=KRCC>&nbsp;
+<SYNC Start=1948195><P Class=KRCC>
+<br>가장 중요한게 무엇인지요.
+<SYNC Start=1950696><P Class=KRCC>&nbsp;
+<SYNC Start=1954334><P Class=KRCC>
+<br>보내주시겠어요?
+<SYNC Start=1956301><P Class=KRCC>&nbsp;
+<SYNC Start=1958171><P Class=KRCC>
+<br>안되, 당연히 안되지.
+<SYNC Start=1961306><P Class=KRCC>&nbsp;
+<SYNC Start=1961375><P Class=KRCC>
+<br>난 여기 백작이야.
+<SYNC Start=1964276><P Class=KRCC>&nbsp;
+<SYNC Start=1964344><P Class=KRCC>
+<br>의붓아들이 산에있는 되지우리 같은데서<br>굶거나 얼어죽기라도 하면
+<SYNC Start=1967479><P Class=KRCC>&nbsp;
+<SYNC Start=1967546><P Class=KRCC>
+<br>사람들이 어떻게 생각하겠니?
+<SYNC Start=1970682><P Class=KRCC>&nbsp;
+<SYNC Start=1970750><P Class=KRCC>
+<br>Sigvard and men: (Laugh)
+<SYNC Start=1973618><P Class=KRCC>&nbsp;
+<SYNC Start=1973686><P Class=KRCC>
+<br>이해해줄수 있겠지? 얘야?
+<SYNC Start=1976288><P Class=KRCC>&nbsp;
+<SYNC Start=1976356><P Class=KRCC>
+<br>어떤 경우에도,
+<SYNC Start=1978123><P Class=KRCC>&nbsp;
+<SYNC Start=1978191><P Class=KRCC>
+<br>라그리타에게 맹새컨데
+<SYNC Start=1980058><P Class=KRCC>&nbsp;
+<SYNC Start=1980126><P Class=KRCC>
+<br>난 너를 책임질거다. 그렇고 말고
+<SYNC Start=1984295><P Class=KRCC>&nbsp;
+<SYNC Start=2005217><P Class=KRCC>
+<br>롤로
+<SYNC Start=2007518><P Class=KRCC>&nbsp;
+<SYNC Start=2008887><P Class=KRCC>
+<br>롤로 일어나요
+<SYNC Start=2010054><P Class=KRCC>&nbsp;
+<SYNC Start=2010122><P Class=KRCC>
+<br>뭐, 뭐야..
+<SYNC Start=2013324><P Class=KRCC>&nbsp;
+<SYNC Start=2013392><P Class=KRCC>
+<br>배들이 오고있어요.
+<SYNC Start=2016260><P Class=KRCC>&nbsp;
+<SYNC Start=2020231><P Class=KRCC>
+<br>누구죠?
+<SYNC Start=2022365><P Class=KRCC>&nbsp;
+<SYNC Start=2022434><P Class=KRCC>
+<br>누군지 알거 같군
+<SYNC Start=2024401><P Class=KRCC>&nbsp;
+<SYNC Start=2024469><P Class=KRCC>
+<br>마을로 돌아가.
+<SYNC Start=2026537><P Class=KRCC>&nbsp;
+<SYNC Start=2026604><P Class=KRCC>
+<br>누구든 무기를 들고 싸울수<br>있는 사람들을 모아봐.
+<SYNC Start=2030206><P Class=KRCC>&nbsp;
+<SYNC Start=2031876><P Class=KRCC>
+<br>적습이야.
+<SYNC Start=2034077><P Class=KRCC>&nbsp;
+<SYNC Start=2044721><P Class=KRCC>
+<br>롤로, 무슨일이예요, 어떻게 된거예요?
+<SYNC Start=2046957><P Class=KRCC>&nbsp;
+<SYNC Start=2047024><P Class=KRCC>
+<br>보르그 족장이야. 우릴 공격하러 오고있어.
+<SYNC Start=2050593><P Class=KRCC>&nbsp;
+<SYNC Start=2050661><P Class=KRCC>
+<br>보르그?
+<SYNC Start=2051894><P Class=KRCC>&nbsp;
+<SYNC Start=2051962><P Class=KRCC>
+<br>확실해, 그야
+<SYNC Start=2054564><P Class=KRCC>&nbsp;
+<SYNC Start=2054631><P Class=KRCC>
+<br>라그나와 호릭이 그와의 협약을 깼어.
+<SYNC Start=2058233><P Class=KRCC>&nbsp;
+<SYNC Start=2058301><P Class=KRCC>
+<br>그걸 복수하러 오는거지.
+<SYNC Start=2060837><P Class=KRCC>&nbsp;
+<SYNC Start=2060904><P Class=KRCC>
+<br>우린 어떻게 해야되죠?
+<SYNC Start=2062772><P Class=KRCC>&nbsp;
+<SYNC Start=2064708><P Class=KRCC>
+<br>뭘해야될거 같아?
+<SYNC Start=2067176><P Class=KRCC>&nbsp;
+<SYNC Start=2067243><P Class=KRCC>
+<br>싸우러 간다.
+<SYNC Start=2069178><P Class=KRCC>&nbsp;
+<SYNC Start=2070413><P Class=KRCC>
+<br>이리와! 가자!
+<SYNC Start=2073248><P Class=KRCC>&nbsp;
+<SYNC Start=2078488><P Class=KRCC>
+<br>토르핀! 올라프! 안면씩 맡아.
+<SYNC Start=2081423><P Class=KRCC>&nbsp;
+<SYNC Start=2083726><P Class=KRCC>
+<br>바리케이트 만드는걸 도와.
+<SYNC Start=2085861><P Class=KRCC>&nbsp;
+<SYNC Start=2089665><P Class=KRCC>
+<br>라그나가 정예부대를 대려갔어.
+<SYNC Start=2091700><P Class=KRCC>&nbsp;
+<SYNC Start=2093736><P Class=KRCC>
+<br>남은이들을 봐...
+<SYNC Start=2095737><P Class=KRCC>&nbsp;
+<SYNC Start=2099674><P Class=KRCC>
+<br>당신 뭐하는거야?
+<SYNC Start=2100674><P Class=KRCC>&nbsp;
+<SYNC Start=2100742><P Class=KRCC>
+<br>뭐하는거 같아요?
+<SYNC Start=2102576><P Class=KRCC>&nbsp;
+<SYNC Start=2102644><P Class=KRCC>
+<br>아니야 당신은 방패처녀가 아니라고.
+<SYNC Start=2105246><P Class=KRCC>&nbsp;
+<SYNC Start=2105314><P Class=KRCC>
+<br>- 당신은...<br>- 라그리타가 아니라구요?
+<SYNC Start=2107215><P Class=KRCC>&nbsp;
+<SYNC Start=2108783><P Class=KRCC>
+<br>시기 그레이트홀로 가줘.
+<SYNC Start=2112320><P Class=KRCC>&nbsp;
+<SYNC Start=2112388><P Class=KRCC>
+<br>아스루그랑 그녀의 아이들을 찾아봐
+<SYNC Start=2113754><P Class=KRCC>&nbsp;
+<SYNC Start=2113822><P Class=KRCC>
+<br>그리고 산으로 도망가.
+<SYNC Start=2114889><P Class=KRCC>&nbsp;
+<SYNC Start=2114956><P Class=KRCC>
+<br>- 그리구요?<br>- 기다려.
+<SYNC Start=2117691><P Class=KRCC>&nbsp;
+<SYNC Start=2117759><P Class=KRCC>
+<br>뭘기다려요?
+<SYNC Start=2119727><P Class=KRCC>&nbsp;
+<SYNC Start=2121963><P Class=KRCC>
+<br>신들이 우리를 위해 결정한일을.
+<SYNC Start=2125265><P Class=KRCC>&nbsp;
+<SYNC Start=2126467><P Class=KRCC>
+<br>이제 가!
+<SYNC Start=2128602><P Class=KRCC>&nbsp;
+<SYNC Start=2128670><P Class=KRCC>
+<br><i>Man: 저리로 굴려!</i>
+<SYNC Start=2130070><P Class=KRCC>&nbsp;
+<SYNC Start=2159872><P Class=KRCC>
+<br>이쪽이 산으로 가는 길이예요.
+<SYNC Start=2162474><P Class=KRCC>&nbsp;
+<SYNC Start=2162542><P Class=KRCC>
+<br>어서가 히비설크.
+<SYNC Start=2164243><P Class=KRCC>&nbsp;
+<SYNC Start=2164311><P Class=KRCC>
+<br>달려 빨리!
+<SYNC Start=2166078><P Class=KRCC>&nbsp;
+<SYNC Start=2174219><P Class=KRCC>
+<br>돛을 내려라!
+<SYNC Start=2176020><P Class=KRCC>&nbsp;
+<SYNC Start=2181828><P Class=KRCC>
+<br>저어! 저어!
+<SYNC Start=2183595><P Class=KRCC>&nbsp;
+<SYNC Start=2191337><P Class=KRCC>
+<br>단단히 붙어있어!
+<SYNC Start=2193237><P Class=KRCC>&nbsp;
+<SYNC Start=2193305><P Class=KRCC>
+<br>쉽게 오지 못하게해!
+<SYNC Start=2194973><P Class=KRCC>&nbsp;
+<SYNC Start=2196141><P Class=KRCC>
+<br>불을 붙여라!
+<SYNC Start=2199110><P Class=KRCC>&nbsp;
+<SYNC Start=2237915><P Class=KRCC>
+<br>노들어!
+<SYNC Start=2240016><P Class=KRCC>&nbsp;
+<SYNC Start=2243286><P Class=KRCC>
+<br>자리를 지켜라
+<SYNC Start=2245722><P Class=KRCC>&nbsp;
+<SYNC Start=2255298><P Class=KRCC>
+<br>뛰어 내려라!
+<SYNC Start=2256499><P Class=KRCC>&nbsp;
+<SYNC Start=2258968><P Class=KRCC>
+<br>가랏!
+<SYNC Start=2260169><P Class=KRCC>&nbsp;
+<SYNC Start=2297206><P Class=KRCC>
+<br>Ungh! Oof! Agh!
+<SYNC Start=2299074><P Class=KRCC>&nbsp;
+<SYNC Start=2299141><P Class=KRCC>
+<br>빨리!<br>방패!
+<SYNC Start=2302643><P Class=KRCC>&nbsp;
+<SYNC Start=2318060><P Class=KRCC>
+<br>롤로!</i>
+<SYNC Start=2319893><P Class=KRCC>&nbsp;
+<SYNC Start=2337311><P Class=KRCC>
+<br>후퇴하라!
+<SYNC Start=2339178><P Class=KRCC>&nbsp;
+<SYNC Start=2373013><P Class=KRCC>
+<br>후퇴하라!
+<SYNC Start=2374680><P Class=KRCC>&nbsp;
+<SYNC Start=2374748><P Class=KRCC>
+<br>시장으로.
+<SYNC Start=2376782><P Class=KRCC>&nbsp;
+<SYNC Start=2379400><P Class=KRCC>
+<br>빨리!
+<SYNC Start=2382220><P Class=KRCC>&nbsp;
+<SYNC Start=2384124><P Class=KRCC>
+<br>그래 도망가라 빨리 롤로 도망가!
+<SYNC Start=2386991><P Class=KRCC>&nbsp;
+<SYNC Start=2387059><P Class=KRCC>
+<br>언제나 처럼 잘 도망가는군.
+<SYNC Start=2388960><P Class=KRCC>&nbsp;
+<SYNC Start=2417755><P Class=KRCC>
+<br>으아아!
+<SYNC Start=2419056><P Class=KRCC>&nbsp;
+<SYNC Start=2422294><P Class=KRCC>
+<br>쏴!
+<SYNC Start=2423760><P Class=KRCC>&nbsp;
+<SYNC Start=2426398><P Class=KRCC>
+<br>으아아!
+<SYNC Start=2428499><P Class=KRCC>&nbsp;
+<SYNC Start=2428567><P Class=KRCC>
+<br>쏴!<br>- (Arrows whoosh)
+<SYNC Start=2431802><P Class=KRCC>&nbsp;
+<SYNC Start=2434165><P Class=KRCC>
+<br>쉴드월!!
+<SYNC Start=2437808><P Class=KRCC>&nbsp;
+<SYNC Start=2447018><P Class=KRCC>
+<br>- Boy: 이쪽이야.
+<SYNC Start=2449052><P Class=KRCC>&nbsp;
+<SYNC Start=2452679><P Class=KRCC>
+<br>넌 이길수 없다 롤로!
+<SYNC Start=2455491><P Class=KRCC>&nbsp;
+<SYNC Start=2456166><P Class=KRCC>
+<br>신이 자네를 살게할거라는데</i>
+<SYNC Start=2458494><P Class=KRCC>&nbsp;
+<SYNC Start=2458562><P Class=KRCC>
+<br>의심이 없어 보이는군 롤로.
+<SYNC Start=2461097><P Class=KRCC>&nbsp;
+<SYNC Start=2469472><P Class=KRCC>
+<br>자네의 첫번째 임무는 라그나의 자식들을<br>구하는거야.
+<SYNC Start=2473527><P Class=KRCC>&nbsp;
+<SYNC Start=2473647><P Class=KRCC>
+<br>항복해라!
+<SYNC Start=2476078><P Class=KRCC>&nbsp;
+<SYNC Start=2478048><P Class=KRCC>
+<br>가라 롤로!
+<SYNC Start=2481316><P Class=KRCC>&nbsp;
+<SYNC Start=2482006><P Class=KRCC>
+<br>내가 신에게 자네가 한일을 말할테니.
+<SYNC Start=2485487><P Class=KRCC>&nbsp;
+<SYNC Start=2505880><P Class=KRCC>
+<br>이제 항복할텐가?
+<SYNC Start=2509277><P Class=KRCC>&nbsp;
+<SYNC Start=2616548><P Class=KRCC>
+<br>- synced and corrected by chamallow -<br>- www.addic7ed.com -
+<SYNC Start=2622548><P Class=KRCC>&nbsp;
+
+<SYNC Start=5439><P Class=ENCC>
+<i>Previously on "Vikings":</i>
+<SYNC Start=6773><P Class=ENCC>&nbsp;
+<SYNC Start=6840><P Class=ENCC>
+<br><i>Ragnar: We shall finally go west again.</i>
+<SYNC Start=8908><P Class=ENCC>&nbsp;
+<SYNC Start=8976><P Class=ENCC>
+<br><i>King Horik and Jarl Borg shall join us.</i>
+<SYNC Start=11377><P Class=ENCC>&nbsp;
+<SYNC Start=11445><P Class=ENCC>
+<br>Hello, priest.
+<SYNC Start=13045><P Class=ENCC>&nbsp;
+<SYNC Start=13046><P Class=ENCC>
+<br>_
+<SYNC Start=14420><P Class=ENCC>&nbsp;
+<SYNC Start=14454><P Class=ENCC>
+<br>Ragnar: Do you ever miss England?
+<SYNC Start=15448><P Class=ENCC>&nbsp;
+<SYNC Start=15515><P Class=ENCC>
+<br>- Athelstan: Sometimes.<br>Ragnar: Come with me.
+<SYNC Start=17383><P Class=ENCC>&nbsp;
+<SYNC Start=17451><P Class=ENCC>
+<br>We will need the help of all the gods,
+<SYNC Start=18684><P Class=ENCC>&nbsp;
+<SYNC Start=18751><P Class=ENCC>
+<br><i>including yours.</i>
+<SYNC Start=20719><P Class=ENCC>&nbsp;
+<SYNC Start=20787><P Class=ENCC>
+<br>Siggy: Go and speak with your brother.
+<SYNC Start=22088><P Class=ENCC>&nbsp;
+<SYNC Start=22155><P Class=ENCC>
+<br>I ask only for the opportunity<br>to regain your respect.
+<SYNC Start=24990><P Class=ENCC>&nbsp;
+<SYNC Start=25058><P Class=ENCC>
+<br>Why should I ever trust you again?
+<SYNC Start=26992><P Class=ENCC>&nbsp;
+<SYNC Start=27060><P Class=ENCC>
+<br>Aslaug: I make this prophecy:<br>Your son will be born
+<SYNC Start=29394><P Class=ENCC>&nbsp;
+<SYNC Start=29462><P Class=ENCC>
+<br>with the image of the serpent in his eye.
+<SYNC Start=31529><P Class=ENCC>&nbsp;
+<SYNC Start=31598><P Class=ENCC>
+<br>I do not wish Jarl Borg to raid with us.
+<SYNC Start=33899><P Class=ENCC>&nbsp;
+<SYNC Start=33967><P Class=ENCC>
+<br>I thought we had an agreement?
+<SYNC Start=35734><P Class=ENCC>&nbsp;
+<SYNC Start=35802><P Class=ENCC>
+<br>Jarl Borg: Abandon your brother for good.
+<SYNC Start=37535><P Class=ENCC>&nbsp;
+<SYNC Start=37604><P Class=ENCC>
+<br>Oh! (Grunts in pain)
+<SYNC Start=39471><P Class=ENCC>&nbsp;
+<SYNC Start=40673><P Class=ENCC>
+<br><i>Messenger: The Northmen<br>have come ashore in Wessex.</i>
+<SYNC Start=42708><P Class=ENCC>&nbsp;
+<SYNC Start=42775><P Class=ENCC>
+<br><i>They've defeated a large force of our men.</i>
+<SYNC Start=44542><P Class=ENCC>&nbsp;
+<SYNC Start=44662><P Class=ENCC>
+<br>_
+<SYNC Start=46692><P Class=ENCC>&nbsp;
+<SYNC Start=46723><P Class=ENCC>
+<br>What have you heard about King Ecbert?
+<SYNC Start=48913><P Class=ENCC>&nbsp;
+<SYNC Start=48981><P Class=ENCC>
+<br>That he's just like you.
+<SYNC Start=50415><P Class=ENCC>&nbsp;
+<SYNC Start=50483><P Class=ENCC>
+<br>♪
+<SYNC Start=55853><P Class=ENCC>&nbsp;
+<SYNC Start=55921><P Class=ENCC>
+<br>♪ More, give me more ♪
+<SYNC Start=58123><P Class=ENCC>&nbsp;
+<SYNC Start=58190><P Class=ENCC>
+<br>♪ give me more ♪
+<SYNC Start=61258><P Class=ENCC>&nbsp;
+<SYNC Start=61326><P Class=ENCC>
+<br>♪ if I had a heart I could love you ♪
+<SYNC Start=67031><P Class=ENCC>&nbsp;
+<SYNC Start=67099><P Class=ENCC>
+<br>♪ if I had a voice I would sing ♪
+<SYNC Start=70868><P Class=ENCC>&nbsp;
+<SYNC Start=72771><P Class=ENCC>
+<br>♪ after the night when I wake up ♪
+<SYNC Start=78041><P Class=ENCC>&nbsp;
+<SYNC Start=78109><P Class=ENCC>
+<br>♪ I'll see what tomorrow brings ♪
+<SYNC Start=83880><P Class=ENCC>&nbsp;
+<SYNC Start=83948><P Class=ENCC>
+<br>♪ I... I... I... ♪
+<SYNC Start=89753><P Class=ENCC>&nbsp;
+<SYNC Start=89820><P Class=ENCC>
+<br>♪ If I had a voice I would sing ♪
+<SYNC Start=93390><P Class=ENCC>&nbsp;
+<SYNC Start=95458><P Class=ENCC>
+<br>- synced and corrected by chamallow -<br>- www.addic7ed.com -
+<SYNC Start=100063><P Class=ENCC>&nbsp;
+<SYNC Start=101598><P Class=ENCC>
+<br>- (Birds chirping)<br>- _
+<SYNC Start=103900><P Class=ENCC>&nbsp;
+<SYNC Start=105670><P Class=ENCC>
+<br>(Foliage crunching<br>underfoot, morning doves cry)
+<SYNC Start=110073><P Class=ENCC>&nbsp;
+<SYNC Start=115546><P Class=ENCC>
+<br>Ragnar: What is that place?
+<SYNC Start=117713><P Class=ENCC>&nbsp;
+<SYNC Start=117781><P Class=ENCC>
+<br>Athelstan: It's a<br>Christian church, a minster.
+<SYNC Start=120949><P Class=ENCC>&nbsp;
+<SYNC Start=121017><P Class=ENCC>
+<br>A large one. It may be Winchester.
+<SYNC Start=123819><P Class=ENCC>&nbsp;
+<SYNC Start=123887><P Class=ENCC>
+<br>Is it important?
+<SYNC Start=125988><P Class=ENCC>&nbsp;
+<SYNC Start=126056><P Class=ENCC>
+<br>If it is Winchester, Saint<br>Birinus is buried there.
+<SYNC Start=129725><P Class=ENCC>&nbsp;
+<SYNC Start=129793><P Class=ENCC>
+<br>It's a place of great pilgrimage.
+<SYNC Start=131760><P Class=ENCC>&nbsp;
+<SYNC Start=131828><P Class=ENCC>
+<br>And will there be treasure there?
+<SYNC Start=133929><P Class=ENCC>&nbsp;
+<SYNC Start=135110><P Class=ENCC>
+<br>(Chortles) Yes. A lot of treasure.
+<SYNC Start=137950><P Class=ENCC>&nbsp;
+<SYNC Start=137967><P Class=ENCC>
+<br>Floki: (Happy) Hmm!
+<SYNC Start=139802><P Class=ENCC>&nbsp;
+<SYNC Start=141771><P Class=ENCC>
+<br>(Grasses crunch underfoot)
+<SYNC Start=145039><P Class=ENCC>&nbsp;
+<SYNC Start=152081><P Class=ENCC>
+<br><i>King Ecbert: There's no surprise to me</i>
+<SYNC Start=153215><P Class=ENCC>&nbsp;
+<SYNC Start=153282><P Class=ENCC>
+<br>that these Northmen have arrived in Wessex.
+<SYNC Start=156184><P Class=ENCC>&nbsp;
+<SYNC Start=156252><P Class=ENCC>
+<br>After I heard about their<br>raids into Northumbria,
+<SYNC Start=158587><P Class=ENCC>&nbsp;
+<SYNC Start=158654><P Class=ENCC>
+<br>I realized it was only a matter of time
+<SYNC Start=161127><P Class=ENCC>&nbsp;
+<SYNC Start=161160><P Class=ENCC>
+<br>before they came ashore here.
+<SYNC Start=163124><P Class=ENCC>&nbsp;
+<SYNC Start=167029><P Class=ENCC>
+<br>When I lived at the court<br>of the Emperor Charlemagne,
+<SYNC Start=170297><P Class=ENCC>&nbsp;
+<SYNC Start=170365><P Class=ENCC>
+<br><i>these Northmen had already<br>emerged from their lairs</i>
+<SYNC Start=172934><P Class=ENCC>&nbsp;
+<SYNC Start=173001><P Class=ENCC>
+<br><i>to attack parts of his empire.</i>
+<SYNC Start=175502><P Class=ENCC>&nbsp;
+<SYNC Start=175570><P Class=ENCC>
+<br>I was with Charlemagne's<br>party at a harbor town
+<SYNC Start=178572><P Class=ENCC>&nbsp;
+<SYNC Start=178640><P Class=ENCC>
+<br><i>in Southern Gaul.</i>
+<SYNC Start=180574><P Class=ENCC>&nbsp;
+<SYNC Start=180642><P Class=ENCC>
+<br><i>And as we sat eating supper</i>
+<SYNC Start=183176><P Class=ENCC>&nbsp;
+<SYNC Start=183245><P Class=ENCC>
+<br><i>a fleet of pirates attacked the harbor.</i>
+<SYNC Start=186113><P Class=ENCC>&nbsp;
+<SYNC Start=186180><P Class=ENCC>
+<br><i>There was some confusion<br>about their identity,</i>
+<SYNC Start=189283><P Class=ENCC>&nbsp;
+<SYNC Start=189351><P Class=ENCC>
+<br>but from the build of their ships
+<SYNC Start=190817><P Class=ENCC>&nbsp;
+<SYNC Start=190885><P Class=ENCC>
+<br>and their speed through the water,
+<SYNC Start=192319><P Class=ENCC>&nbsp;
+<SYNC Start=192387><P Class=ENCC>
+<br>the Emperor recognized<br>them at once as Northmen.
+<SYNC Start=196623><P Class=ENCC>&nbsp;
+<SYNC Start=200228><P Class=ENCC>
+<br>After a lightning attack...
+<SYNC Start=202229><P Class=ENCC>&nbsp;
+<SYNC Start=203297><P Class=ENCC>
+<br>(Sharp exhale)
+<SYNC Start=204898><P Class=ENCC>&nbsp;
+<SYNC Start=206700><P Class=ENCC>
+<br><i>They made their escape.</i>
+<SYNC Start=208201><P Class=ENCC>&nbsp;
+<SYNC Start=208269><P Class=ENCC>
+<br><i>The Emperor's men took up the chase,</i>
+<SYNC Start=210270><P Class=ENCC>&nbsp;
+<SYNC Start=210337><P Class=ENCC>
+<br><i>but they were soon out-sailed.</i>
+<SYNC Start=214006><P Class=ENCC>&nbsp;
+<SYNC Start=216377><P Class=ENCC>
+<br><i>And now it is our turn to<br>deal with these ruffians,</i>
+<SYNC Start=221514><P Class=ENCC>&nbsp;
+<SYNC Start=221582><P Class=ENCC>
+<br>these pagans.
+<SYNC Start=223849><P Class=ENCC>&nbsp;
+<SYNC Start=226119><P Class=ENCC>
+<br><i>But deal with them we shall... </i>
+<SYNC Start=229021><P Class=ENCC>&nbsp;
+<SYNC Start=230190><P Class=ENCC>
+<br>And must.
+<SYNC Start=232524><P Class=ENCC>&nbsp;
+<SYNC Start=234795><P Class=ENCC>
+<br>Aethelwulf?
+<SYNC Start=236195><P Class=ENCC>&nbsp;
+<SYNC Start=237764><P Class=ENCC>
+<br>Yes, Father.
+<SYNC Start=238964><P Class=ENCC>&nbsp;
+<SYNC Start=239032><P Class=ENCC>
+<br><i>King Ecbert: I put it in your hands</i>
+<SYNC Start=240099><P Class=ENCC>&nbsp;
+<SYNC Start=240167><P Class=ENCC>
+<br>to work with our<br>Ealdormen to raise an army.
+<SYNC Start=242301><P Class=ENCC>&nbsp;
+<SYNC Start=242368><P Class=ENCC>
+<br>In the meantime, we shall<br>send spies and others
+<SYNC Start=245069><P Class=ENCC>&nbsp;
+<SYNC Start=245137><P Class=ENCC>
+<br>to observe the size of the raiding party,
+<SYNC Start=247205><P Class=ENCC>&nbsp;
+<SYNC Start=247273><P Class=ENCC>
+<br><i>and their intentions.</i>
+<SYNC Start=249274><P Class=ENCC>&nbsp;
+<SYNC Start=249342><P Class=ENCC>
+<br>These Northmen never like to<br>venture far from their ships
+<SYNC Start=252043><P Class=ENCC>&nbsp;
+<SYNC Start=252111><P Class=ENCC>
+<br>and they prefer not to be<br>drawn into pitched battle.
+<SYNC Start=256047><P Class=ENCC>&nbsp;
+<SYNC Start=256115><P Class=ENCC>
+<br><i>Let us not be afraid, but rather watchful.</i>
+<SYNC Start=260051><P Class=ENCC>&nbsp;
+<SYNC Start=267126><P Class=ENCC>
+<br>(Retreating footsteps)
+<SYNC Start=269227><P Class=ENCC>&nbsp;
+<SYNC Start=275801><P Class=ENCC>
+<br><i>(Bird cries out)</i>
+<SYNC Start=278902><P Class=ENCC>&nbsp;
+<SYNC Start=290479><P Class=ENCC>
+<br><i>Sigvard: Lagertha!</i>
+<SYNC Start=292850><P Class=ENCC>&nbsp;
+<SYNC Start=297822><P Class=ENCC>
+<br>(Sheep bleat)
+<SYNC Start=298822><P Class=ENCC>&nbsp;
+<SYNC Start=298890><P Class=ENCC>
+<br>Why must I follow you up the fields?
+<SYNC Start=301624><P Class=ENCC>&nbsp;
+<SYNC Start=301692><P Class=ENCC>
+<br>You're my wife.
+<SYNC Start=304027><P Class=ENCC>&nbsp;
+<SYNC Start=304095><P Class=ENCC>
+<br><i>You should be at my side,</i>
+<SYNC Start=305262><P Class=ENCC>&nbsp;
+<SYNC Start=305330><P Class=ENCC>
+<br><i>especially when we have important guests.</i>
+<SYNC Start=307831><P Class=ENCC>&nbsp;
+<SYNC Start=307899><P Class=ENCC>
+<br>I will not stay to hear my son insulted.
+<SYNC Start=310367><P Class=ENCC>&nbsp;
+<SYNC Start=310434><P Class=ENCC>
+<br><i>Sigvard: Your son should know his place.</i>
+<SYNC Start=312402><P Class=ENCC>&nbsp;
+<SYNC Start=312470><P Class=ENCC>
+<br>He continues to be resentful.
+<SYNC Start=313903><P Class=ENCC>&nbsp;
+<SYNC Start=313971><P Class=ENCC>
+<br>He refuses to accept or<br>acknowledge my love for him.
+<SYNC Start=317640><P Class=ENCC>&nbsp;
+<SYNC Start=319910><P Class=ENCC>
+<br>Lagertha: You don't love my son.
+<SYNC Start=322345><P Class=ENCC>&nbsp;
+<SYNC Start=322413><P Class=ENCC>
+<br>You don't love anyone, Sigvard.
+<SYNC Start=324848><P Class=ENCC>&nbsp;
+<SYNC Start=325916><P Class=ENCC>
+<br>You don't know how to.
+<SYNC Start=327649><P Class=ENCC>&nbsp;
+<SYNC Start=327717><P Class=ENCC>
+<br>(Hard slap) Aghhh!
+<SYNC Start=330219><P Class=ENCC>&nbsp;
+<SYNC Start=336093><P Class=ENCC>
+<br>Sigvard: Forgive me, Lagertha.<br>I'm an intemperate man.
+<SYNC Start=339395><P Class=ENCC>&nbsp;
+<SYNC Start=347036><P Class=ENCC>
+<br>I find it difficult to control myself.
+<SYNC Start=350839><P Class=ENCC>&nbsp;
+<SYNC Start=350907><P Class=ENCC>
+<br>But I have loved and<br>desired you after my fashion
+<SYNC Start=354810><P Class=ENCC>&nbsp;
+<SYNC Start=354878><P Class=ENCC>
+<br>and if your son will only meet me halfway,
+<SYNC Start=358346><P Class=ENCC>&nbsp;
+<SYNC Start=358414><P Class=ENCC>
+<br>I will make sure he has a good future.
+<SYNC Start=361283><P Class=ENCC>&nbsp;
+<SYNC Start=372861><P Class=ENCC>
+<br>(Foliage rustles in the wind, birds chirp)
+<SYNC Start=375897><P Class=ENCC>&nbsp;
+<SYNC Start=378834><P Class=ENCC>
+<br>(Foliage rustles underfoot)
+<SYNC Start=380768><P Class=ENCC>&nbsp;
+<SYNC Start=381804><P Class=ENCC>
+<br>(Birds chirping)
+<SYNC Start=383771><P Class=ENCC>&nbsp;
+<SYNC Start=388209><P Class=ENCC>
+<br>(Unsheathes sword)
+<SYNC Start=390277><P Class=ENCC>&nbsp;
+<SYNC Start=391413><P Class=ENCC>
+<br>(Townsfolk chatter, sheep bleat)
+<SYNC Start=395449><P Class=ENCC>&nbsp;
+<SYNC Start=406761><P Class=ENCC>
+<br>(Panicked gasps)
+<SYNC Start=408728><P Class=ENCC>&nbsp;
+<SYNC Start=409997><P Class=ENCC>
+<br>(Bell clangs)
+<SYNC Start=411865><P Class=ENCC>&nbsp;
+<SYNC Start=411933><P Class=ENCC>
+<br>Soldier 1: The alarm! Northmen coming!
+<SYNC Start=413967><P Class=ENCC>&nbsp;
+<SYNC Start=414034><P Class=ENCC>
+<br><i>Soldier 2: Do you see them?</i>
+<SYNC Start=415502><P Class=ENCC>&nbsp;
+<SYNC Start=415570><P Class=ENCC>
+<br>- Soldier 1: Quickly!<br>- Soldier 2: Inside, now!
+<SYNC Start=416903><P Class=ENCC>&nbsp;
+<SYNC Start=416971><P Class=ENCC>
+<br><i>- Soldier 3: Altogether!<br>- Soldier 4: Gab inne!</i>
+<SYNC Start=419238><P Class=ENCC>&nbsp;
+<SYNC Start=421476><P Class=ENCC>
+<br>(Panicked yelling and screaming)
+<SYNC Start=424310><P Class=ENCC>&nbsp;
+<SYNC Start=424378><P Class=ENCC>
+<br><i>- Soldier 5: Inside! Gab inne!<br>- (Unsheathes sword)</i>
+<SYNC Start=427981><P Class=ENCC>&nbsp;
+<SYNC Start=428048><P Class=ENCC>
+<br>(Panicked chatter)
+<SYNC Start=429815><P Class=ENCC>&nbsp;
+<SYNC Start=430884><P Class=ENCC>
+<br>Ungh! Oof!
+<SYNC Start=432986><P Class=ENCC>&nbsp;
+<SYNC Start=434621><P Class=ENCC>
+<br>- Monk: Come!<br>- Man 1: Stay together!
+<SYNC Start=437857><P Class=ENCC>&nbsp;
+<SYNC Start=439960><P Class=ENCC>
+<br><i>- Soldier 1: Are you ready?!<br>- Soldier 2: Weapons!</i>
+<SYNC Start=442327><P Class=ENCC>&nbsp;
+<SYNC Start=442395><P Class=ENCC>
+<br>(Doors thud shut)
+<SYNC Start=444396><P Class=ENCC>&nbsp;
+<SYNC Start=445999><P Class=ENCC>
+<br><i>Man: The stuff is packed.</i>
+<SYNC Start=447733><P Class=ENCC>&nbsp;
+<SYNC Start=450336><P Class=ENCC>
+<br><i>(Bell clangs)</i>
+<SYNC Start=451737><P Class=ENCC>&nbsp;
+<SYNC Start=453006><P Class=ENCC>
+<br><i>(Sheep bleat)</i>
+<SYNC Start=455307><P Class=ENCC>&nbsp;
+<SYNC Start=455375><P Class=ENCC>
+<br>(Foliage rustles underfoot)
+<SYNC Start=457742><P Class=ENCC>&nbsp;
+<SYNC Start=461014><P Class=ENCC>
+<br><i>(Bleating)</i>
+<SYNC Start=463081><P Class=ENCC>&nbsp;
+<SYNC Start=468287><P Class=ENCC>
+<br>Saxons: (Attack screams fill the air)
+<SYNC Start=470989><P Class=ENCC>&nbsp;
+<SYNC Start=471057><P Class=ENCC>
+<br>Vikings: (Battle cries)
+<SYNC Start=473525><P Class=ENCC>&nbsp;
+<SYNC Start=474627><P Class=ENCC>
+<br>(Weapons clank, fighting grunts)
+<SYNC Start=476460><P Class=ENCC>&nbsp;
+<SYNC Start=476529><P Class=ENCC>
+<br>(Throwing grunt)
+<SYNC Start=477996><P Class=ENCC>&nbsp;
+<SYNC Start=479197><P Class=ENCC>
+<br>(Weapons clank, fighting grunts)
+<SYNC Start=482099><P Class=ENCC>&nbsp;
+<SYNC Start=482167><P Class=ENCC>
+<br>(Sword slices) Ughhh!
+<SYNC Start=483835><P Class=ENCC>&nbsp;
+<SYNC Start=483903><P Class=ENCC>
+<br>(Weapons clank, fighting grunts)
+<SYNC Start=485937><P Class=ENCC>&nbsp;
+<SYNC Start=486005><P Class=ENCC>
+<br>Agh! Ugh!
+<SYNC Start=487939><P Class=ENCC>&nbsp;
+<SYNC Start=488007><P Class=ENCC>
+<br>Athelstan: Aggghhhhh!
+<SYNC Start=489407><P Class=ENCC>&nbsp;
+<SYNC Start=489474><P Class=ENCC>
+<br>Ungh! Oof!
+<SYNC Start=491142><P Class=ENCC>&nbsp;
+<SYNC Start=491209><P Class=ENCC>
+<br>(Weapons clank, fighting grunts)
+<SYNC Start=493177><P Class=ENCC>&nbsp;
+<SYNC Start=493245><P Class=ENCC>
+<br>(Sword slices, screams of pain)
+<SYNC Start=495312><P Class=ENCC>&nbsp;
+<SYNC Start=497416><P Class=ENCC>
+<br>(Weapons clank, fighting grunts)
+<SYNC Start=499483><P Class=ENCC>&nbsp;
+<SYNC Start=501453><P Class=ENCC>
+<br>(Fighting grunts)
+<SYNC Start=503954><P Class=ENCC>&nbsp;
+<SYNC Start=505457><P Class=ENCC>
+<br>(Fighting grunts)
+<SYNC Start=508124><P Class=ENCC>&nbsp;
+<SYNC Start=511495><P Class=ENCC>
+<br>(Weapons clank, fighting grunts)
+<SYNC Start=514565><P Class=ENCC>&nbsp;
+<SYNC Start=517969><P Class=ENCC>
+<br>Aggghhhhhhhh!
+<SYNC Start=520103><P Class=ENCC>&nbsp;
+<SYNC Start=520171><P Class=ENCC>
+<br>Soldier: (Frightened yelps)
+<SYNC Start=522205><P Class=ENCC>&nbsp;
+<SYNC Start=523340><P Class=ENCC>
+<br>(Sword stabs) Agh!
+<SYNC Start=524941><P Class=ENCC>&nbsp;
+<SYNC Start=525008><P Class=ENCC>
+<br>(Fighting grunts)
+<SYNC Start=527143><P Class=ENCC>&nbsp;
+<SYNC Start=528946><P Class=ENCC>
+<br>Agghhhhh!
+<SYNC Start=531381><P Class=ENCC>&nbsp;
+<SYNC Start=531449><P Class=ENCC>
+<br>(Arrow whooshes) Ungh! Agh!
+<SYNC Start=533349><P Class=ENCC>&nbsp;
+<SYNC Start=534685><P Class=ENCC>
+<br>(Arrow whooshes) Agghhh!
+<SYNC Start=535952><P Class=ENCC>&nbsp;
+<SYNC Start=536019><P Class=ENCC>
+<br>(Horse whinnies) Ungh!
+<SYNC Start=538054><P Class=ENCC>&nbsp;
+<SYNC Start=538122><P Class=ENCC>
+<br>(Shields clack, weapons<br>clank as they regroup)
+<SYNC Start=541156><P Class=ENCC>&nbsp;
+<SYNC Start=541224><P Class=ENCC>
+<br>(Warriors converse quietly)
+<SYNC Start=543325><P Class=ENCC>&nbsp;
+<SYNC Start=549332><P Class=ENCC>
+<br>(Sheep bleat)
+<SYNC Start=551433><P Class=ENCC>&nbsp;
+<SYNC Start=553269><P Class=ENCC>
+<br>(Quiets down)
+<SYNC Start=555370><P Class=ENCC>&nbsp;
+<SYNC Start=557073><P Class=ENCC>
+<br>Torstein: Could be a trap!
+<SYNC Start=559074><P Class=ENCC>&nbsp;
+<SYNC Start=560143><P Class=ENCC>
+<br>Shield-wall!
+<SYNC Start=562244><P Class=ENCC>&nbsp;
+<SYNC Start=563613><P Class=ENCC>
+<br>(Shields clatter into place)
+<SYNC Start=566281><P Class=ENCC>&nbsp;
+<SYNC Start=583532><P Class=ENCC>
+<br>(Doors creak open)
+<SYNC Start=585867><P Class=ENCC>&nbsp;
+<SYNC Start=587374><P Class=ENCC>
+<br>(Geese honk in alarm, rooster crows)
+<SYNC Start=589341><P Class=ENCC>&nbsp;
+<SYNC Start=591278><P Class=ENCC>
+<br>Open.
+<SYNC Start=592711><P Class=ENCC>&nbsp;
+<SYNC Start=592779><P Class=ENCC>
+<br>(Shields clatter)
+<SYNC Start=594913><P Class=ENCC>&nbsp;
+<SYNC Start=603355><P Class=ENCC>
+<br>(Footsteps scuff)
+<SYNC Start=606491><P Class=ENCC>&nbsp;
+<SYNC Start=607898><P Class=ENCC>
+<br>King Horik: Where have they all gone?
+<SYNC Start=611591><P Class=ENCC>&nbsp;
+<SYNC Start=611711><P Class=ENCC>
+<br>Floki: There should be treasure.
+<SYNC Start=614332><P Class=ENCC>&nbsp;
+<SYNC Start=614873><P Class=ENCC>
+<br>He said there would be treasure.
+<SYNC Start=618103><P Class=ENCC>&nbsp;
+<SYNC Start=618402><P Class=ENCC>
+<br>Why do you always listen to him?
+<SYNC Start=621939><P Class=ENCC>&nbsp;
+<SYNC Start=623851><P Class=ENCC>
+<br>Where is it?
+<SYNC Start=626443><P Class=ENCC>&nbsp;
+<SYNC Start=627101><P Class=ENCC>
+<br>Athelstan: It's over there.
+<SYNC Start=629947><P Class=ENCC>&nbsp;
+<SYNC Start=636454><P Class=ENCC>
+<br>King Horik: This?! This is not treasure!
+<SYNC Start=638804><P Class=ENCC>&nbsp;
+<SYNC Start=638924><P Class=ENCC>
+<br>This is an empty wooden table.
+<SYNC Start=641458><P Class=ENCC>&nbsp;
+<SYNC Start=644188><P Class=ENCC>
+<br>You are mistaken, King Horik.
+<SYNC Start=647397><P Class=ENCC>&nbsp;
+<SYNC Start=647465><P Class=ENCC>
+<br>The treasure is here.<br>You're standing on it.
+<SYNC Start=651135><P Class=ENCC>&nbsp;
+<SYNC Start=651202><P Class=ENCC>
+<br>(Knocks twice)
+<SYNC Start=653637><P Class=ENCC>&nbsp;
+<SYNC Start=653704><P Class=ENCC>
+<br><i>Vikings: (Confused murmurs) What?</i>
+<SYNC Start=656473><P Class=ENCC>&nbsp;
+<SYNC Start=656541><P Class=ENCC>
+<br>(Grunts of effort)
+<SYNC Start=658842><P Class=ENCC>&nbsp;
+<SYNC Start=659173><P Class=ENCC>
+<br>(Floorboards crack, shouts of excitement)
+<SYNC Start=662278><P Class=ENCC>&nbsp;
+<SYNC Start=663851><P Class=ENCC>
+<br>Horik: (Laughs delightedly) You were right!
+<SYNC Start=667035><P Class=ENCC>&nbsp;
+<SYNC Start=667155><P Class=ENCC>
+<br>(Laughing, coins clink)
+<SYNC Start=668693><P Class=ENCC>&nbsp;
+<SYNC Start=668813><P Class=ENCC>
+<br>Treasure!
+<SYNC Start=670419><P Class=ENCC>&nbsp;
+<SYNC Start=670487><P Class=ENCC>
+<br>(Warriors grunt, chest thuds heavily)
+<SYNC Start=672463><P Class=ENCC>&nbsp;
+<SYNC Start=672583><P Class=ENCC>
+<br>Ragnar: How did you know?
+<SYNC Start=674503><P Class=ENCC>&nbsp;
+<SYNC Start=674623><P Class=ENCC>
+<br>Athelstan: It is a Christian habit
+<SYNC Start=676492><P Class=ENCC>&nbsp;
+<SYNC Start=676560><P Class=ENCC>
+<br><i>to bury the bones of the<br>revered dead beneath the alter.</i>
+<SYNC Start=679529><P Class=ENCC>&nbsp;
+<SYNC Start=679596><P Class=ENCC>
+<br>Ragnar!
+<SYNC Start=681166><P Class=ENCC>&nbsp;
+<SYNC Start=683066><P Class=ENCC>
+<br>(Warriors laugh and chatter excitedly)
+<SYNC Start=685100><P Class=ENCC>&nbsp;
+<SYNC Start=685169><P Class=ENCC>
+<br><i>King Horik: Let me see that!</i>
+<SYNC Start=687236><P Class=ENCC>&nbsp;
+<SYNC Start=688572><P Class=ENCC>
+<br>(Warriors laugh excitedly, objects clatter)
+<SYNC Start=691840><P Class=ENCC>&nbsp;
+<SYNC Start=691960><P Class=ENCC>
+<br>Ragnar: Who was this?
+<SYNC Start=695010><P Class=ENCC>&nbsp;
+<SYNC Start=695078><P Class=ENCC>
+<br>Athelstan: It must be Saint Birinus.
+<SYNC Start=696478><P Class=ENCC>&nbsp;
+<SYNC Start=696546><P Class=ENCC>
+<br><i>King Horik: Here! There's more!</i>
+<SYNC Start=698047><P Class=ENCC>&nbsp;
+<SYNC Start=698114><P Class=ENCC>
+<br>Ragnar: You keep talking to<br>me like I know what a Saint is.
+<SYNC Start=701717><P Class=ENCC>&nbsp;
+<SYNC Start=701785><P Class=ENCC>
+<br>Athelstan: A Saint is a man who<br>has lived a particularly holy life,
+<SYNC Start=705287><P Class=ENCC>&nbsp;
+<SYNC Start=705354><P Class=ENCC>
+<br>performed some miracle,
+<SYNC Start=707489><P Class=ENCC>&nbsp;
+<SYNC Start=707557><P Class=ENCC>
+<br>or been martyred killed for their beliefs.
+<SYNC Start=711159><P Class=ENCC>&nbsp;
+<SYNC Start=711227><P Class=ENCC>
+<br><i>King Horik: It's all gold!</i>
+<SYNC Start=712994><P Class=ENCC>&nbsp;
+<SYNC Start=713062><P Class=ENCC>
+<br>But I am dead. What use can I be?
+<SYNC Start=717065><P Class=ENCC>&nbsp;
+<SYNC Start=717132><P Class=ENCC>
+<br>(Chuckles)
+<SYNC Start=719033><P Class=ENCC>&nbsp;
+<SYNC Start=719101><P Class=ENCC>
+<br>Christians believe that the bones
+<SYNC Start=720335><P Class=ENCC>&nbsp;
+<SYNC Start=720403><P Class=ENCC>
+<br>can still exert benediction.
+<SYNC Start=723271><P Class=ENCC>&nbsp;
+<SYNC Start=723339><P Class=ENCC>
+<br>Can perform miracles.
+<SYNC Start=725239><P Class=ENCC>&nbsp;
+<SYNC Start=727073><P Class=ENCC>
+<br>What is a miracle?
+<SYNC Start=730578><P Class=ENCC>&nbsp;
+<SYNC Start=730645><P Class=ENCC>
+<br>Miracles are things...<br>which are impossible to do.
+<SYNC Start=735649><P Class=ENCC>&nbsp;
+<SYNC Start=737512><P Class=ENCC>
+<br><i>King Horik: Take it all!</i>
+<SYNC Start=740054><P Class=ENCC>&nbsp;
+<SYNC Start=741256><P Class=ENCC>
+<br><i>Warrior 1: It's heavy!</i>
+<SYNC Start=743224><P Class=ENCC>&nbsp;
+<SYNC Start=750167><P Class=ENCC>
+<br>Torstein: Wait!
+<SYNC Start=752666><P Class=ENCC>&nbsp;
+<SYNC Start=754168><P Class=ENCC>
+<br>(Scuffing dirt away)
+<SYNC Start=757270><P Class=ENCC>&nbsp;
+<SYNC Start=761459><P Class=ENCC>
+<br>(Trapdoor creaks open,<br>villagers gasp in fear)
+<SYNC Start=765445><P Class=ENCC>&nbsp;
+<SYNC Start=765360><P Class=ENCC>
+<br><i>Man: What do they want?</i>
+<SYNC Start=767462><P Class=ENCC>&nbsp;
+<SYNC Start=767529><P Class=ENCC>
+<br><i>Women: (Scream in fear)</i>
+<SYNC Start=769798><P Class=ENCC>&nbsp;
+<SYNC Start=776905><P Class=ENCC>
+<br>(Hand brushes against paper)
+<SYNC Start=779340><P Class=ENCC>&nbsp;
+<SYNC Start=793021><P Class=ENCC>
+<br>(Axe thuds lightly)
+<SYNC Start=795288><P Class=ENCC>&nbsp;
+<SYNC Start=797391><P Class=ENCC>
+<br>(Stifled panicked breaths)
+<SYNC Start=799793><P Class=ENCC>&nbsp;
+<SYNC Start=806167><P Class=ENCC>
+<br>(Ink pot rattles)
+<SYNC Start=808135><P Class=ENCC>&nbsp;
+<SYNC Start=812640><P Class=ENCC>
+<br>Monk: No! Stop!
+<SYNC Start=814541><P Class=ENCC>&nbsp;
+<SYNC Start=814609><P Class=ENCC>
+<br>(Axe strikes) Ungh!
+<SYNC Start=817144><P Class=ENCC>&nbsp;
+<SYNC Start=817211><P Class=ENCC>
+<br>(Gasps for breath)
+<SYNC Start=819312><P Class=ENCC>&nbsp;
+<SYNC Start=823450><P Class=ENCC>
+<br>(Gasps weakly, slumps heavily)
+<SYNC Start=826485><P Class=ENCC>&nbsp;
+<SYNC Start=833894><P Class=ENCC>
+<br><i>(Approaching footsteps)</i>
+<SYNC Start=835828><P Class=ENCC>&nbsp;
+<SYNC Start=836745><P Class=ENCC>
+<br><i>Bishop Swithern: (In Anglo<br>Saxon) Dear Lord, forgive them,</i>
+<SYNC Start=840666><P Class=ENCC>&nbsp;
+<SYNC Start=840733><P Class=ENCC>
+<br><i>for they know not what they do.</i>
+<SYNC Start=843902><P Class=ENCC>&nbsp;
+<SYNC Start=844022><P Class=ENCC>
+<br>_
+<SYNC Start=845618><P Class=ENCC>&nbsp;
+<SYNC Start=845738><P Class=ENCC>
+<br>Bishop Swithern: You<br>speak our language?! How?
+<SYNC Start=848974><P Class=ENCC>&nbsp;
+<SYNC Start=849042><P Class=ENCC>
+<br>It doesn't matter. Just do as I say. Hide!
+<SYNC Start=851877><P Class=ENCC>&nbsp;
+<SYNC Start=851944><P Class=ENCC>
+<br>- Hide or they will kill you.<br>- You are one of us!
+<SYNC Start=854719><P Class=ENCC>&nbsp;
+<SYNC Start=856683><P Class=ENCC>
+<br>Once.
+<SYNC Start=858116><P Class=ENCC>&nbsp;
+<SYNC Start=858184><P Class=ENCC>
+<br><i>Bishop Swithern: Then I will tell you this:</i>
+<SYNC Start=860052><P Class=ENCC>&nbsp;
+<SYNC Start=860119><P Class=ENCC>
+<br>One day, you will be caught.
+<SYNC Start=862220><P Class=ENCC>&nbsp;
+<SYNC Start=862288><P Class=ENCC>
+<br><i>We will catch you and crucify you... </i>
+<SYNC Start=864455><P Class=ENCC>&nbsp;
+<SYNC Start=864523><P Class=ENCC>
+<br><i>for an apostate is the lowest<br>and the vilest of all creatures</i>
+<SYNC Start=867159><P Class=ENCC>&nbsp;
+<SYNC Start=867226><P Class=ENCC>
+<br><i>in the eyes of God!</i>
+<SYNC Start=869074><P Class=ENCC>&nbsp;
+<SYNC Start=870880><P Class=ENCC>
+<br>Floki: Oh!
+<SYNC Start=872502><P Class=ENCC>&nbsp;
+<SYNC Start=892927><P Class=ENCC>
+<br>(Speaking Old Norse)
+<SYNC Start=895552><P Class=ENCC>&nbsp;
+<SYNC Start=908299><P Class=ENCC>
+<br>(Women scream in terror, warriors laugh)
+<SYNC Start=910985><P Class=ENCC>&nbsp;
+<SYNC Start=912403><P Class=ENCC>
+<br><i>(Treasure clatters, women scream in terror)</i>
+<SYNC Start=915372><P Class=ENCC>&nbsp;
+<SYNC Start=917375><P Class=ENCC>
+<br>(Speaking Old Norse)
+<SYNC Start=920198><P Class=ENCC>&nbsp;
+<SYNC Start=921437><P Class=ENCC>
+<br>King Horik: (Speaking Old Norse)
+<SYNC Start=924208><P Class=ENCC>&nbsp;
+<SYNC Start=927970><P Class=ENCC>
+<br>_
+<SYNC Start=930407><P Class=ENCC>&nbsp;
+<SYNC Start=930527><P Class=ENCC>
+<br>_
+<SYNC Start=933107><P Class=ENCC>&nbsp;
+<SYNC Start=933896><P Class=ENCC>
+<br>_
+<SYNC Start=938190><P Class=ENCC>&nbsp;
+<SYNC Start=939503><P Class=ENCC>
+<br>Bishop Swithern: Salve,<br>nobilis, et pretiose...
+<SYNC Start=943496><P Class=ENCC>&nbsp;
+<SYNC Start=943616><P Class=ENCC>
+<br>(Hard punch) Ungh!
+<SYNC Start=945274><P Class=ENCC>&nbsp;
+<SYNC Start=945342><P Class=ENCC>
+<br>Floki and Vikings: (Laughing)
+<SYNC Start=947835><P Class=ENCC>&nbsp;
+<SYNC Start=950581><P Class=ENCC>
+<br>(Speaking Old Norse)
+<SYNC Start=953961><P Class=ENCC>&nbsp;
+<SYNC Start=953983><P Class=ENCC>
+<br>Warriors: (Cheering)
+<SYNC Start=956085><P Class=ENCC>&nbsp;
+<SYNC Start=962692><P Class=ENCC>
+<br>(Bishop grunts)
+<SYNC Start=964093><P Class=ENCC>&nbsp;
+<SYNC Start=966129><P Class=ENCC>
+<br>(Warriors chatter excitedly)
+<SYNC Start=968296><P Class=ENCC>&nbsp;
+<SYNC Start=968364><P Class=ENCC>
+<br>Athelstan: What will happen to him?
+<SYNC Start=970398><P Class=ENCC>&nbsp;
+<SYNC Start=970518><P Class=ENCC>
+<br>Floki: You just wait and see, priest!
+<SYNC Start=973067><P Class=ENCC>&nbsp;
+<SYNC Start=974835><P Class=ENCC>
+<br>(Laughter)
+<SYNC Start=977138><P Class=ENCC>&nbsp;
+<SYNC Start=979242><P Class=ENCC>
+<br>(Cheering) Warrior: Woo-hoo!
+<SYNC Start=981476><P Class=ENCC>&nbsp;
+<SYNC Start=981544><P Class=ENCC>
+<br>Bishop Swithern: (Prays in Latin) Domine...
+<SYNC Start=982744><P Class=ENCC>&nbsp;
+<SYNC Start=982811><P Class=ENCC>
+<br>(Arrow whooshes, bishop<br>groans, Vikings cheer)
+<SYNC Start=986047><P Class=ENCC>&nbsp;
+<SYNC Start=986115><P Class=ENCC>
+<br>Rescipe ergo in me oculis<br>misercordiae tuae...
+<SYNC Start=990322><P Class=ENCC>&nbsp;
+<SYNC Start=993355><P Class=ENCC>
+<br>(Objects clatter)
+<SYNC Start=996490><P Class=ENCC>&nbsp;
+<SYNC Start=1013675><P Class=ENCC>
+<br>(Door creaks open)
+<SYNC Start=1015476><P Class=ENCC>&nbsp;
+<SYNC Start=1015543><P Class=ENCC>
+<br><i>(Celebratory cheering)</i>
+<SYNC Start=1018612><P Class=ENCC>&nbsp;
+<SYNC Start=1023684><P Class=ENCC>
+<br><i>Warrior: (Shouting in Old Norse)</i>
+<SYNC Start=1025532><P Class=ENCC>&nbsp;
+<SYNC Start=1030524><P Class=ENCC>
+<br>(Grains scatter)
+<SYNC Start=1032659><P Class=ENCC>&nbsp;
+<SYNC Start=1035362><P Class=ENCC>
+<br><i>Warrior 2: Give it to me!</i>
+<SYNC Start=1037563><P Class=ENCC>&nbsp;
+<SYNC Start=1038546><P Class=ENCC>
+<br>Warrior 3: (In Old Norse) Treasure!
+<SYNC Start=1041466><P Class=ENCC>&nbsp;
+<SYNC Start=1041586><P Class=ENCC>
+<br><i>Here!</i>
+<SYNC Start=1043736><P Class=ENCC>&nbsp;
+<SYNC Start=1045836><P Class=ENCC>
+<br>Warrior 4: (In Old Norse) Look! Look!
+<SYNC Start=1048210><P Class=ENCC>&nbsp;
+<SYNC Start=1048441><P Class=ENCC>
+<br><i>(Raucous laughter)</i>
+<SYNC Start=1050976><P Class=ENCC>&nbsp;
+<SYNC Start=1053180><P Class=ENCC>
+<br><i>(Objects clatter, warriors chatter)</i>
+<SYNC Start=1056148><P Class=ENCC>&nbsp;
+<SYNC Start=1058318><P Class=ENCC>
+<br><i>- Warrior 1: Help me!<br>- Warrior 2: Here!</i>
+<SYNC Start=1060319><P Class=ENCC>&nbsp;
+<SYNC Start=1062222><P Class=ENCC>
+<br>(Objects clatter)
+<SYNC Start=1064356><P Class=ENCC>&nbsp;
+<SYNC Start=1069629><P Class=ENCC>
+<br>(Arrow whooshes, bishop groans in pain)
+<SYNC Start=1071129><P Class=ENCC>&nbsp;
+<SYNC Start=1071197><P Class=ENCC>
+<br><i>Vikings: (Cheering) Woo!</i>
+<SYNC Start=1074232><P Class=ENCC>&nbsp;
+<SYNC Start=1075635><P Class=ENCC>
+<br>(Boisterous laughter)
+<SYNC Start=1076868><P Class=ENCC>&nbsp;
+<SYNC Start=1076936><P Class=ENCC>
+<br><i>Bishop Swithern: (Weakly)<br>Domini, creatura tue,</i>
+<SYNC Start=1081740><P Class=ENCC>&nbsp;
+<SYNC Start=1081808><P Class=ENCC>
+<br><i>qua tuo sanguine redemisti... </i>
+<SYNC Start=1084609><P Class=ENCC>&nbsp;
+<SYNC Start=1084677><P Class=ENCC>
+<br><i>- Warrior: Don't kill him, Floki.<br>- Bishop Swithern: Penitent... </i>
+<SYNC Start=1086678><P Class=ENCC>&nbsp;
+<SYNC Start=1086746><P Class=ENCC>
+<br>(Arrow whooshes) Ungh!
+<SYNC Start=1088112><P Class=ENCC>&nbsp;
+<SYNC Start=1088180><P Class=ENCC>
+<br>Vikings: (Cheer loudly)
+<SYNC Start=1090081><P Class=ENCC>&nbsp;
+<SYNC Start=1091217><P Class=ENCC>
+<br>Bishop Swithern: Penitent me.
+<SYNC Start=1093551><P Class=ENCC>&nbsp;
+<SYNC Start=1093618><P Class=ENCC>
+<br>Floki: Is he still talking? Tough old goat.
+<SYNC Start=1096620><P Class=ENCC>&nbsp;
+<SYNC Start=1097286><P Class=ENCC>
+<br>King Horik: Erlendur, quiet<br>him. Right in his mouth.
+<SYNC Start=1101025><P Class=ENCC>&nbsp;
+<SYNC Start=1107466><P Class=ENCC>
+<br>- Warrior: What's he doing?<br>- Warrior 2: Out of the way.
+<SYNC Start=1110267><P Class=ENCC>&nbsp;
+<SYNC Start=1110335><P Class=ENCC>
+<br>(Axe clatters)
+<SYNC Start=1111569><P Class=ENCC>&nbsp;
+<SYNC Start=1112704><P Class=ENCC>
+<br><i>Bishop Swithern: (Weak, mumbled praying)</i>
+<SYNC Start=1117044><P Class=ENCC>&nbsp;
+<SYNC Start=1126739><P Class=ENCC>
+<br>(Inhales sharply)
+<SYNC Start=1129386><P Class=ENCC>&nbsp;
+<SYNC Start=1130588><P Class=ENCC>
+<br>Deus tippi benidicas.
+<SYNC Start=1133221><P Class=ENCC>&nbsp;
+<SYNC Start=1133341><P Class=ENCC>
+<br>Suffer no more, but trust in thy salvation.
+<SYNC Start=1137948><P Class=ENCC>&nbsp;
+<SYNC Start=1138068><P Class=ENCC>
+<br>(Bishop gasps, blade scrapes)
+<SYNC Start=1140162><P Class=ENCC>&nbsp;
+<SYNC Start=1141766><P Class=ENCC>
+<br>(Sighs)
+<SYNC Start=1143700><P Class=ENCC>&nbsp;
+<SYNC Start=1146303><P Class=ENCC>
+<br>(Boisterous chatter resumes)
+<SYNC Start=1149406><P Class=ENCC>&nbsp;
+<SYNC Start=1155879><P Class=ENCC>
+<br>(Knife clinks)
+<SYNC Start=1157579><P Class=ENCC>&nbsp;
+<SYNC Start=1161351><P Class=ENCC>
+<br><i>(Chatter and laughter fills great hall)</i>
+<SYNC Start=1165321><P Class=ENCC>&nbsp;
+<SYNC Start=1176899><P Class=ENCC>
+<br>Bjorn: Mother, why would you<br>allow him to do that to you?
+<SYNC Start=1180235><P Class=ENCC>&nbsp;
+<SYNC Start=1180303><P Class=ENCC>
+<br>What are you talking about?
+<SYNC Start=1181603><P Class=ENCC>&nbsp;
+<SYNC Start=1181671><P Class=ENCC>
+<br>Your husband, Earl Sigvard,<br>I saw him!
+<SYNC Start=1185075><P Class=ENCC>&nbsp;
+<SYNC Start=1185909><P Class=ENCC>
+<br>(Warningly) Bjorn, please.
+<SYNC Start=1187508><P Class=ENCC>&nbsp;
+<SYNC Start=1187576><P Class=ENCC>
+<br>Please what?
+<SYNC Start=1189844><P Class=ENCC>&nbsp;
+<SYNC Start=1189912><P Class=ENCC>
+<br>Has he hit you before?
+<SYNC Start=1191879><P Class=ENCC>&nbsp;
+<SYNC Start=1193549><P Class=ENCC>
+<br>Will you let him hit you again?
+<SYNC Start=1194715><P Class=ENCC>&nbsp;
+<SYNC Start=1194783><P Class=ENCC>
+<br>It will never happen again.
+<SYNC Start=1197000><P Class=ENCC>&nbsp;
+<SYNC Start=1197848><P Class=ENCC>
+<br>If it does, I'll kill him.
+<SYNC Start=1200588><P Class=ENCC>&nbsp;
+<SYNC Start=1200656><P Class=ENCC>
+<br>I said it won't.
+<SYNC Start=1202890><P Class=ENCC>&nbsp;
+<SYNC Start=1205084><P Class=ENCC>
+<br>What would Ragnar say?
+<SYNC Start=1207795><P Class=ENCC>&nbsp;
+<SYNC Start=1210466><P Class=ENCC>
+<br>What has it to do with your father?
+<SYNC Start=1212199><P Class=ENCC>&nbsp;
+<SYNC Start=1212267><P Class=ENCC>
+<br>Nothing!
+<SYNC Start=1213798><P Class=ENCC>&nbsp;
+<SYNC Start=1214603><P Class=ENCC>
+<br>Sometimes I think of him.
+<SYNC Start=1216971><P Class=ENCC>&nbsp;
+<SYNC Start=1217038><P Class=ENCC>
+<br>I miss him. I can't help it.
+<SYNC Start=1219606><P Class=ENCC>&nbsp;
+<SYNC Start=1219674><P Class=ENCC>
+<br><i>Sigvard: Skol! (Laughing)</i>
+<SYNC Start=1220841><P Class=ENCC>&nbsp;
+<SYNC Start=1220908><P Class=ENCC>
+<br>Of course not. You're his son.
+<SYNC Start=1223844><P Class=ENCC>&nbsp;
+<SYNC Start=1224879><P Class=ENCC>
+<br>You must always be proud.
+<SYNC Start=1227381><P Class=ENCC>&nbsp;
+<SYNC Start=1227449><P Class=ENCC>
+<br>As should you for being his wife!
+<SYNC Start=1230150><P Class=ENCC>&nbsp;
+<SYNC Start=1231319><P Class=ENCC>
+<br><i>Sigvard and men: (Laugh and chatter)</i>
+<SYNC Start=1235322><P Class=ENCC>&nbsp;
+<SYNC Start=1237925><P Class=ENCC>
+<br>(Laughter, low hum of chatter)
+<SYNC Start=1240226><P Class=ENCC>&nbsp;
+<SYNC Start=1241295><P Class=ENCC>
+<br>(Sighs heavily)
+<SYNC Start=1243229><P Class=ENCC>&nbsp;
+<SYNC Start=1245067><P Class=ENCC>
+<br>(Townsfolk chatter,<br>children shout playfully)
+<SYNC Start=1248502><P Class=ENCC>&nbsp;
+<SYNC Start=1248569><P Class=ENCC>
+<br>(Sheep bleat)
+<SYNC Start=1250670><P Class=ENCC>&nbsp;
+<SYNC Start=1253007><P Class=ENCC>
+<br>(Hurried footsteps)
+<SYNC Start=1255241><P Class=ENCC>&nbsp;
+<SYNC Start=1260981><P Class=ENCC>
+<br>(Exhales)
+<SYNC Start=1262615><P Class=ENCC>&nbsp;
+<SYNC Start=1267621><P Class=ENCC>
+<br>(Water splashes)
+<SYNC Start=1269588><P Class=ENCC>&nbsp;
+<SYNC Start=1272726><P Class=ENCC>
+<br>(Baby coos softly)
+<SYNC Start=1274894><P Class=ENCC>&nbsp;
+<SYNC Start=1274961><P Class=ENCC>
+<br>Siggy: Another son?
+<SYNC Start=1276762><P Class=ENCC>&nbsp;
+<SYNC Start=1276830><P Class=ENCC>
+<br>Aslaug: Yes.
+<SYNC Start=1278363><P Class=ENCC>&nbsp;
+<SYNC Start=1279733><P Class=ENCC>
+<br>What is his name?
+<SYNC Start=1281640><P Class=ENCC>&nbsp;
+<SYNC Start=1281951><P Class=ENCC>
+<br>Sigurd, after my father.
+<SYNC Start=1285119><P Class=ENCC>&nbsp;
+<SYNC Start=1286305><P Class=ENCC>
+<br>(Sigurd coos softly)
+<SYNC Start=1289408><P Class=ENCC>&nbsp;
+<SYNC Start=1298515><P Class=ENCC>
+<br>Sigurd snake-in-the-eye.
+<SYNC Start=1301036><P Class=ENCC>&nbsp;
+<SYNC Start=1308036><P Class=ENCC>
+<br><i>Soldier: (Shouts) Guard the gate!</i>
+<SYNC Start=1310061><P Class=ENCC>&nbsp;
+<SYNC Start=1310548><P Class=ENCC>
+<br><i>Lord Eadric: Your Majesty,</i>
+<SYNC Start=1312210><P Class=ENCC>&nbsp;
+<SYNC Start=1312277><P Class=ENCC>
+<br><i>you have heard of the attack on Winchester?</i>
+<SYNC Start=1315279><P Class=ENCC>&nbsp;
+<SYNC Start=1316548><P Class=ENCC>
+<br>Of course.
+<SYNC Start=1318316><P Class=ENCC>&nbsp;
+<SYNC Start=1319518><P Class=ENCC>
+<br>I grieve.
+<SYNC Start=1320649><P Class=ENCC>&nbsp;
+<SYNC Start=1320666><P Class=ENCC>
+<br><i>Bishop Edmund: The martyrdom<br>of my fellow bishop,</i>
+<SYNC Start=1323119><P Class=ENCC>&nbsp;
+<SYNC Start=1323128><P Class=ENCC>
+<br>Bishop Swithern, a fine Christian.
+<SYNC Start=1327220><P Class=ENCC>&nbsp;
+<SYNC Start=1327559><P Class=ENCC>
+<br>King Ecbert: Praise be to God.
+<SYNC Start=1329594><P Class=ENCC>&nbsp;
+<SYNC Start=1330695><P Class=ENCC>
+<br>Lord Eadric: There are those<br>who ask why we did not do more
+<SYNC Start=1333749><P Class=ENCC>&nbsp;
+<SYNC Start=1333800><P Class=ENCC>
+<br>to protect our brothers and sisters
+<SYNC Start=1336567><P Class=ENCC>&nbsp;
+<SYNC Start=1336635><P Class=ENCC>
+<br>at such an important site.
+<SYNC Start=1338936><P Class=ENCC>&nbsp;
+<SYNC Start=1340305><P Class=ENCC>
+<br>Are there?
+<SYNC Start=1341739><P Class=ENCC>&nbsp;
+<SYNC Start=1344943><P Class=ENCC>
+<br><i>My kingdom is very large.</i>
+<SYNC Start=1346844><P Class=ENCC>&nbsp;
+<SYNC Start=1346911><P Class=ENCC>
+<br>There are many important sites.
+<SYNC Start=1349747><P Class=ENCC>&nbsp;
+<SYNC Start=1349814><P Class=ENCC>
+<br>Could I protect all of them? No.
+<SYNC Start=1353483><P Class=ENCC>&nbsp;
+<SYNC Start=1353551><P Class=ENCC>
+<br>Did I want to discover where<br>the pagans would strike?
+<SYNC Start=1357587><P Class=ENCC>&nbsp;
+<SYNC Start=1357655><P Class=ENCC>
+<br>Yes.
+<SYNC Start=1360023><P Class=ENCC>&nbsp;
+<SYNC Start=1360090><P Class=ENCC>
+<br>For now I know where they are.
+<SYNC Start=1362025><P Class=ENCC>&nbsp;
+<SYNC Start=1362092><P Class=ENCC>
+<br>Bishop Edmund: So...
+<SYNC Start=1363490><P Class=ENCC>&nbsp;
+<SYNC Start=1363776><P Class=ENCC>
+<br>Bishop Swithern was a necessary sacrifice.
+<SYNC Start=1367641><P Class=ENCC>&nbsp;
+<SYNC Start=1368832><P Class=ENCC>
+<br>As a man of God,
+<SYNC Start=1370331><P Class=ENCC>&nbsp;
+<SYNC Start=1370365><P Class=ENCC>
+<br>I assumed he welcomed the<br>opportunity for martyrdom.
+<SYNC Start=1373537><P Class=ENCC>&nbsp;
+<SYNC Start=1375438><P Class=ENCC>
+<br>Or do you disagree?
+<SYNC Start=1376773><P Class=ENCC>&nbsp;
+<SYNC Start=1376840><P Class=ENCC>
+<br><i>Bishop Edmund: Oh no, sire.</i>
+<SYNC Start=1378289><P Class=ENCC>&nbsp;
+<SYNC Start=1378516><P Class=ENCC>
+<br>All of the cloth would welcome martyrdom
+<SYNC Start=1380677><P Class=ENCC>&nbsp;
+<SYNC Start=1380744><P Class=ENCC>
+<br>in the cause of our faith,
+<SYNC Start=1382511><P Class=ENCC>&nbsp;
+<SYNC Start=1382579><P Class=ENCC>
+<br>service of our Lord Jesus Christ.
+<SYNC Start=1384747><P Class=ENCC>&nbsp;
+<SYNC Start=1387484><P Class=ENCC>
+<br>Good.
+<SYNC Start=1388742><P Class=ENCC>&nbsp;
+<SYNC Start=1389078><P Class=ENCC>
+<br>Because I'm going to offer you
+<SYNC Start=1391565><P Class=ENCC>&nbsp;
+<SYNC Start=1391821><P Class=ENCC>
+<br>precisely that same opportunity,
+<SYNC Start=1394994><P Class=ENCC>&nbsp;
+<SYNC Start=1396129><P Class=ENCC>
+<br>my Lord Bishop,
+<SYNC Start=1398561><P Class=ENCC>&nbsp;
+<SYNC Start=1401264><P Class=ENCC>
+<br>and, I trust, very soon.
+<SYNC Start=1404833><P Class=ENCC>&nbsp;
+<SYNC Start=1414376><P Class=ENCC>
+<br>(Nervous sigh)
+<SYNC Start=1415844><P Class=ENCC>&nbsp;
+<SYNC Start=1418014><P Class=ENCC>
+<br>Lord Eadric: (Sighs heavily)
+<SYNC Start=1419314><P Class=ENCC>&nbsp;
+<SYNC Start=1419381><P Class=ENCC>
+<br>(Water churns and splashes)
+<SYNC Start=1421249><P Class=ENCC>&nbsp;
+<SYNC Start=1422318><P Class=ENCC>
+<br>(Hammering)
+<SYNC Start=1424419><P Class=ENCC>&nbsp;
+<SYNC Start=1431993><P Class=ENCC>
+<br><i>Warrior: Look at these, nice and strong.</i>
+<SYNC Start=1434629><P Class=ENCC>&nbsp;
+<SYNC Start=1434697><P Class=ENCC>
+<br><i>Tight enough?</i>
+<SYNC Start=1435930><P Class=ENCC>&nbsp;
+<SYNC Start=1435997><P Class=ENCC>
+<br>I have something for you, Athelstan.
+<SYNC Start=1438733><P Class=ENCC>&nbsp;
+<SYNC Start=1445607><P Class=ENCC>
+<br><i>Don't you want it?</i>
+<SYNC Start=1447384><P Class=ENCC>&nbsp;
+<SYNC Start=1448123><P Class=ENCC>
+<br>Are these not the images of your God?
+<SYNC Start=1451795><P Class=ENCC>&nbsp;
+<SYNC Start=1452680><P Class=ENCC>
+<br>I told you before, and<br>I will tell you again:
+<SYNC Start=1456283><P Class=ENCC>&nbsp;
+<SYNC Start=1456351><P Class=ENCC>
+<br>My God is Odin, the all father.
+<SYNC Start=1458318><P Class=ENCC>&nbsp;
+<SYNC Start=1458386><P Class=ENCC>
+<br>I know you told me.
+<SYNC Start=1461020><P Class=ENCC>&nbsp;
+<SYNC Start=1461088><P Class=ENCC>
+<br>Only... I don't believe you.
+<SYNC Start=1464658><P Class=ENCC>&nbsp;
+<SYNC Start=1466127><P Class=ENCC>
+<br>And this? Ragnar gave me this.
+<SYNC Start=1469696><P Class=ENCC>&nbsp;
+<SYNC Start=1469764><P Class=ENCC>
+<br>Wearing a dog-turd doesn't make you a dog.
+<SYNC Start=1473366><P Class=ENCC>&nbsp;
+<SYNC Start=1474635><P Class=ENCC>
+<br>Oh.
+<SYNC Start=1476569><P Class=ENCC>&nbsp;
+<SYNC Start=1479706><P Class=ENCC>
+<br><i>I have something else for you.</i>
+<SYNC Start=1482776><P Class=ENCC>&nbsp;
+<SYNC Start=1485880><P Class=ENCC>
+<br>The hand of your holy man, I believe.
+<SYNC Start=1489982><P Class=ENCC>&nbsp;
+<SYNC Start=1491752><P Class=ENCC>
+<br>(Giggles)
+<SYNC Start=1493452><P Class=ENCC>&nbsp;
+<SYNC Start=1494257><P Class=ENCC>
+<br>Ragnar: So tell me,
+<SYNC Start=1496264><P Class=ENCC>&nbsp;
+<SYNC Start=1497041><P Class=ENCC>
+<br>how do you find England?
+<SYNC Start=1499583><P Class=ENCC>&nbsp;
+<SYNC Start=1501211><P Class=ENCC>
+<br>Horik: It is a pleasant<br>land, rich with treasure.
+<SYNC Start=1506064><P Class=ENCC>&nbsp;
+<SYNC Start=1506132><P Class=ENCC>
+<br>You are right. This land is rich.
+<SYNC Start=1509888><P Class=ENCC>&nbsp;
+<SYNC Start=1511104><P Class=ENCC>
+<br>But here... here is the real treasure!
+<SYNC Start=1514973><P Class=ENCC>&nbsp;
+<SYNC Start=1515041><P Class=ENCC>
+<br>(Inhales deeply)
+<SYNC Start=1516675><P Class=ENCC>&nbsp;
+<SYNC Start=1517944><P Class=ENCC>
+<br>Earth? Have you not seen?
+<SYNC Start=1520578><P Class=ENCC>&nbsp;
+<SYNC Start=1520646><P Class=ENCC>
+<br>Everywhere we go, there are crops.
+<SYNC Start=1522514><P Class=ENCC>&nbsp;
+<SYNC Start=1522581><P Class=ENCC>
+<br>There is food growing.
+<SYNC Start=1524849><P Class=ENCC>&nbsp;
+<SYNC Start=1524917><P Class=ENCC>
+<br>I am a farmer and the son of a farmer,
+<SYNC Start=1527852><P Class=ENCC>&nbsp;
+<SYNC Start=1527920><P Class=ENCC>
+<br>and this is what I understand.
+<SYNC Start=1531122><P Class=ENCC>&nbsp;
+<SYNC Start=1531190><P Class=ENCC>
+<br>Compared to our poor countries,<br>where it is hard to farm,
+<SYNC Start=1534659><P Class=ENCC>&nbsp;
+<SYNC Start=1534727><P Class=ENCC>
+<br>hard to live.
+<SYNC Start=1536728><P Class=ENCC>&nbsp;
+<SYNC Start=1536796><P Class=ENCC>
+<br>Here, it is easy.
+<SYNC Start=1539997><P Class=ENCC>&nbsp;
+<SYNC Start=1541166><P Class=ENCC>
+<br>If we lived here, we could feed everybody.
+<SYNC Start=1544401><P Class=ENCC>&nbsp;
+<SYNC Start=1544469><P Class=ENCC>
+<br>There would be no hunger.
+<SYNC Start=1546537><P Class=ENCC>&nbsp;
+<SYNC Start=1546604><P Class=ENCC>
+<br>I like your thinking,<br>but here is my question:
+<SYNC Start=1550007><P Class=ENCC>&nbsp;
+<SYNC Start=1550075><P Class=ENCC>
+<br>Will the Saxons simply invite us
+<SYNC Start=1551976><P Class=ENCC>&nbsp;
+<SYNC Start=1552044><P Class=ENCC>
+<br>to live among them, hmm?
+<SYNC Start=1554411><P Class=ENCC>&nbsp;
+<SYNC Start=1556080><P Class=ENCC>
+<br><i>(Loud cheering and applause)</i>
+<SYNC Start=1559149><P Class=ENCC>&nbsp;
+<SYNC Start=1561586><P Class=ENCC>
+<br>(Music and applause fill the great hall)
+<SYNC Start=1563754><P Class=ENCC>&nbsp;
+<SYNC Start=1563822><P Class=ENCC>
+<br>- Man: Jarl Borg!<br>- Man 2: To your new bride!
+<SYNC Start=1565556><P Class=ENCC>&nbsp;
+<SYNC Start=1565623><P Class=ENCC>
+<br>(Applause)
+<SYNC Start=1567157><P Class=ENCC>&nbsp;
+<SYNC Start=1568526><P Class=ENCC>
+<br>Man 3: A fine choice this day!
+<SYNC Start=1570627><P Class=ENCC>&nbsp;
+<SYNC Start=1570695><P Class=ENCC>
+<br>Jarl Borg: Thank you!
+<SYNC Start=1572028><P Class=ENCC>&nbsp;
+<SYNC Start=1572096><P Class=ENCC>
+<br>(Loud cheering and applause)
+<SYNC Start=1575398><P Class=ENCC>&nbsp;
+<SYNC Start=1579837><P Class=ENCC>
+<br><i>Man 4: A fine choice, my lord!</i>
+<SYNC Start=1581872><P Class=ENCC>&nbsp;
+<SYNC Start=1581939><P Class=ENCC>
+<br><i>(Excited buzz of chatter and applause)</i>
+<SYNC Start=1584941><P Class=ENCC>&nbsp;
+<SYNC Start=1588079><P Class=ENCC>
+<br>(Quiets down)
+<SYNC Start=1590179><P Class=ENCC>&nbsp;
+<SYNC Start=1596052><P Class=ENCC>
+<br>So I am married for the second time.
+<SYNC Start=1599489><P Class=ENCC>&nbsp;
+<SYNC Start=1599556><P Class=ENCC>
+<br>As most of you know,
+<SYNC Start=1600590><P Class=ENCC>&nbsp;
+<SYNC Start=1600657><P Class=ENCC>
+<br>my first marriage lasted less than an hour,
+<SYNC Start=1602692><P Class=ENCC>&nbsp;
+<SYNC Start=1602760><P Class=ENCC>
+<br>because my own brother<br>poisoned the drinks that day.
+<SYNC Start=1607562><P Class=ENCC>&nbsp;
+<SYNC Start=1607630><P Class=ENCC>
+<br>Of course, the same thing<br>can never happen twice,
+<SYNC Start=1609164><P Class=ENCC>&nbsp;
+<SYNC Start=1609232><P Class=ENCC>
+<br>so let the wine be poured.
+<SYNC Start=1611100><P Class=ENCC>&nbsp;
+<SYNC Start=1611167><P Class=ENCC>
+<br>Men and women: (Cheering) Yeah! Here, here!
+<SYNC Start=1612868><P Class=ENCC>&nbsp;
+<SYNC Start=1612936><P Class=ENCC>
+<br>(Applause, cheering, banging on tables)
+<SYNC Start=1614970><P Class=ENCC>&nbsp;
+<SYNC Start=1620743><P Class=ENCC>
+<br>Now who will be the first<br>to drink in celebration?
+<SYNC Start=1624112><P Class=ENCC>&nbsp;
+<SYNC Start=1627750><P Class=ENCC>
+<br>I will.
+<SYNC Start=1630151><P Class=ENCC>&nbsp;
+<SYNC Start=1638160><P Class=ENCC>
+<br>No! No, I could not bear<br>it. Not a second time.
+<SYNC Start=1640761><P Class=ENCC>&nbsp;
+<SYNC Start=1640829><P Class=ENCC>
+<br>Let me taste the wine.
+<SYNC Start=1643164><P Class=ENCC>&nbsp;
+<SYNC Start=1644967><P Class=ENCC>
+<br>(Gulping)
+<SYNC Start=1647101><P Class=ENCC>&nbsp;
+<SYNC Start=1647803><P Class=ENCC>
+<br>(Uneasy silence)
+<SYNC Start=1650638><P Class=ENCC>&nbsp;
+<SYNC Start=1655577><P Class=ENCC>
+<br>It's quite all right.
+<SYNC Start=1657845><P Class=ENCC>&nbsp;
+<SYNC Start=1657913><P Class=ENCC>
+<br>Skol!
+<SYNC Start=1659547><P Class=ENCC>&nbsp;
+<SYNC Start=1659614><P Class=ENCC>
+<br>(Applause, cheering, banging on tables)
+<SYNC Start=1661649><P Class=ENCC>&nbsp;
+<SYNC Start=1663718><P Class=ENCC>
+<br>Jarl Borg: I have something<br>else important to say.
+<SYNC Start=1666153><P Class=ENCC>&nbsp;
+<SYNC Start=1666220><P Class=ENCC>
+<br>I don't wish to dampen the celebrations
+<SYNC Start=1667721><P Class=ENCC>&nbsp;
+<SYNC Start=1667789><P Class=ENCC>
+<br>but you all know that the<br>agreement between myself,
+<SYNC Start=1670858><P Class=ENCC>&nbsp;
+<SYNC Start=1670926><P Class=ENCC>
+<br>King Horik, and Ragnar<br>Lothbrok has been broken.
+<SYNC Start=1674627><P Class=ENCC>&nbsp;
+<SYNC Start=1674695><P Class=ENCC>
+<br>They have gone raiding<br>west without me, without us,
+<SYNC Start=1677230><P Class=ENCC>&nbsp;
+<SYNC Start=1677298><P Class=ENCC>
+<br>which is an insult not only to myself,
+<SYNC Start=1679032><P Class=ENCC>&nbsp;
+<SYNC Start=1679100><P Class=ENCC>
+<br>but to all of you,
+<SYNC Start=1680500><P Class=ENCC>&nbsp;
+<SYNC Start=1680568><P Class=ENCC>
+<br><i>and now also to my wife,</i>
+<SYNC Start=1682802><P Class=ENCC>&nbsp;
+<SYNC Start=1682870><P Class=ENCC>
+<br>and to my wife's family.
+<SYNC Start=1685672><P Class=ENCC>&nbsp;
+<SYNC Start=1685739><P Class=ENCC>
+<br>(Murmurs of agreement)
+<SYNC Start=1687874><P Class=ENCC>&nbsp;
+<SYNC Start=1687942><P Class=ENCC>
+<br>I have to do something about this insult.
+<SYNC Start=1690577><P Class=ENCC>&nbsp;
+<SYNC Start=1690644><P Class=ENCC>
+<br>Frankly, I blame King Horik<br>more for what has happened,
+<SYNC Start=1693613><P Class=ENCC>&nbsp;
+<SYNC Start=1693681><P Class=ENCC>
+<br><i>but at the same time,</i>
+<SYNC Start=1694981><P Class=ENCC>&nbsp;
+<SYNC Start=1695048><P Class=ENCC>
+<br><i>consider what is happening<br>to Earl Ragnar's lands.</i>
+<SYNC Start=1698685><P Class=ENCC>&nbsp;
+<SYNC Start=1698752><P Class=ENCC>
+<br>He has abandoned them
+<SYNC Start=1701120><P Class=ENCC>&nbsp;
+<SYNC Start=1701188><P Class=ENCC>
+<br>to the care of his wife<br>and his drunken brother.
+<SYNC Start=1704923><P Class=ENCC>&nbsp;
+<SYNC Start=1704992><P Class=ENCC>
+<br>(Laughter)
+<SYNC Start=1707026><P Class=ENCC>&nbsp;
+<SYNC Start=1707094><P Class=ENCC>
+<br>In order to punish those
+<SYNC Start=1708594><P Class=ENCC>&nbsp;
+<SYNC Start=1708661><P Class=ENCC>
+<br>who have insulted me and my family,
+<SYNC Start=1711697><P Class=ENCC>&nbsp;
+<SYNC Start=1711764><P Class=ENCC>
+<br>I declare today that I will seek vengeance
+<SYNC Start=1713732><P Class=ENCC>&nbsp;
+<SYNC Start=1713800><P Class=ENCC>
+<br>against Ragnar Lothbrok.
+<SYNC Start=1715934><P Class=ENCC>&nbsp;
+<SYNC Start=1716970><P Class=ENCC>
+<br>By all our gods,
+<SYNC Start=1718871><P Class=ENCC>&nbsp;
+<SYNC Start=1718938><P Class=ENCC>
+<br>I swear that we will seize all his lands
+<SYNC Start=1723675><P Class=ENCC>&nbsp;
+<SYNC Start=1723743><P Class=ENCC>
+<br>and that I will repay<br>his brother's treachery
+<SYNC Start=1725844><P Class=ENCC>&nbsp;
+<SYNC Start=1725912><P Class=ENCC>
+<br>with the axe.
+<SYNC Start=1727145><P Class=ENCC>&nbsp;
+<SYNC Start=1727213><P Class=ENCC>
+<br><i>All: (Cheer in agreement)</i>
+<SYNC Start=1729147><P Class=ENCC>&nbsp;
+<SYNC Start=1730284><P Class=ENCC>
+<br>(Birds chirping)
+<SYNC Start=1732485><P Class=ENCC>&nbsp;
+<SYNC Start=1735189><P Class=ENCC>
+<br>(Foliage rustles underfoot)
+<SYNC Start=1737289><P Class=ENCC>&nbsp;
+<SYNC Start=1741261><P Class=ENCC>
+<br>(Hooves plod, horses snort softly)
+<SYNC Start=1743763><P Class=ENCC>&nbsp;
+<SYNC Start=1751138><P Class=ENCC>
+<br>(Horses snort and whinny)
+<SYNC Start=1754273><P Class=ENCC>&nbsp;
+<SYNC Start=1761914><P Class=ENCC>
+<br>Bishop Edmund: Who can speak to us?
+<SYNC Start=1765116><P Class=ENCC>&nbsp;
+<SYNC Start=1768588><P Class=ENCC>
+<br>I can.
+<SYNC Start=1770521><P Class=ENCC>&nbsp;
+<SYNC Start=1772058><P Class=ENCC>
+<br>I have been sent here by Ecbert,
+<SYNC Start=1774993><P Class=ENCC>&nbsp;
+<SYNC Start=1775061><P Class=ENCC>
+<br>King of Wessex.
+<SYNC Start=1776594><P Class=ENCC>&nbsp;
+<SYNC Start=1776662><P Class=ENCC>
+<br><i>The king regrets your attack</i>
+<SYNC Start=1779931><P Class=ENCC>&nbsp;
+<SYNC Start=1779999><P Class=ENCC>
+<br><i>on the holy church at Winchester.</i>
+<SYNC Start=1782033><P Class=ENCC>&nbsp;
+<SYNC Start=1782101><P Class=ENCC>
+<br><i>He wonders how much longer</i>
+<SYNC Start=1784302><P Class=ENCC>&nbsp;
+<SYNC Start=1784369><P Class=ENCC>
+<br><i>you intend to remain in his kingdom?</i>
+<SYNC Start=1788239><P Class=ENCC>&nbsp;
+<SYNC Start=1788307><P Class=ENCC>
+<br>(Nervously clears throat)
+<SYNC Start=1791075><P Class=ENCC>&nbsp;
+<SYNC Start=1791142><P Class=ENCC>
+<br>Ragnar: Well, that depends.
+<SYNC Start=1794945><P Class=ENCC>&nbsp;
+<SYNC Start=1796948><P Class=ENCC>
+<br>Bishop Edmund: Upon what?
+<SYNC Start=1799684><P Class=ENCC>&nbsp;
+<SYNC Start=1799751><P Class=ENCC>
+<br>Ragnar: Upon what he'll<br>offer us to leave...
+<SYNC Start=1803220><P Class=ENCC>&nbsp;
+<SYNC Start=1804322><P Class=ENCC>
+<br>or what he'll offer us to stay.
+<SYNC Start=1809193><P Class=ENCC>&nbsp;
+<SYNC Start=1811429><P Class=ENCC>
+<br>Stay?
+<SYNC Start=1813496><P Class=ENCC>&nbsp;
+<SYNC Start=1813564><P Class=ENCC>
+<br>Ragnar: Yes, we want to<br>make peace with the king.
+<SYNC Start=1818468><P Class=ENCC>&nbsp;
+<SYNC Start=1820037><P Class=ENCC>
+<br>Peace.
+<SYNC Start=1821504><P Class=ENCC>&nbsp;
+<SYNC Start=1825075><P Class=ENCC>
+<br>(Tries to clear throat)
+<SYNC Start=1826610><P Class=ENCC>&nbsp;
+<SYNC Start=1826677><P Class=ENCC>
+<br>So we don't have to kill any more of you.
+<SYNC Start=1830547><P Class=ENCC>&nbsp;
+<SYNC Start=1830615><P Class=ENCC>
+<br>I will relay your message to the king.
+<SYNC Start=1835118><P Class=ENCC>&nbsp;
+<SYNC Start=1836620><P Class=ENCC>
+<br><i>(Floki giggles)</i>
+<SYNC Start=1838855><P Class=ENCC>&nbsp;
+<SYNC Start=1838922><P Class=ENCC>
+<br>(Claps twice)
+<SYNC Start=1840522><P Class=ENCC>&nbsp;
+<SYNC Start=1840590><P Class=ENCC>
+<br>King Horik: (In Old Norse) Wait!
+<SYNC Start=1842424><P Class=ENCC>&nbsp;
+<SYNC Start=1846230><P Class=ENCC>
+<br>(Hard slash) Ughhh!
+<SYNC Start=1848330><P Class=ENCC>&nbsp;
+<SYNC Start=1850533><P Class=ENCC>
+<br>(Giggles)
+<SYNC Start=1852033><P Class=ENCC>&nbsp;
+<SYNC Start=1852101><P Class=ENCC>
+<br>(Slashing blows, grunts of effort)
+<SYNC Start=1855070><P Class=ENCC>&nbsp;
+<SYNC Start=1857073><P Class=ENCC>
+<br>Bishop Edmund: (Struggling grunts)
+<SYNC Start=1859107><P Class=ENCC>&nbsp;
+<SYNC Start=1861210><P Class=ENCC>
+<br><i>Vikings: (Laughing)</i>
+<SYNC Start=1863912><P Class=ENCC>&nbsp;
+<SYNC Start=1863980><P Class=ENCC>
+<br>Floki: (Giggles)
+<SYNC Start=1866047><P Class=ENCC>&nbsp;
+<SYNC Start=1867984><P Class=ENCC>
+<br>Bishop Edmund: (Collapses) Agh!
+<SYNC Start=1869084><P Class=ENCC>&nbsp;
+<SYNC Start=1869152><P Class=ENCC>
+<br>Vikings: (Laughing)
+<SYNC Start=1871219><P Class=ENCC>&nbsp;
+<SYNC Start=1878360><P Class=ENCC>
+<br>(Horse whinnies, hooves thunder)
+<SYNC Start=1880996><P Class=ENCC>&nbsp;
+<SYNC Start=1883332><P Class=ENCC>
+<br>Sigvard: Not hungry, Bjorn?
+<SYNC Start=1884965><P Class=ENCC>&nbsp;
+<SYNC Start=1886368><P Class=ENCC>
+<br>No.
+<SYNC Start=1887468><P Class=ENCC>&nbsp;
+<SYNC Start=1887536><P Class=ENCC>
+<br>Sigvard: Any reason?
+<SYNC Start=1889003><P Class=ENCC>&nbsp;
+<SYNC Start=1889070><P Class=ENCC>
+<br>No reason.
+<SYNC Start=1891238><P Class=ENCC>&nbsp;
+<SYNC Start=1891307><P Class=ENCC>
+<br>Sigvard: Are you unhappy?
+<SYNC Start=1893474><P Class=ENCC>&nbsp;
+<SYNC Start=1898314><P Class=ENCC>
+<br><i>What can I do to make you happy?</i>
+<SYNC Start=1900581><P Class=ENCC>&nbsp;
+<SYNC Start=1902350><P Class=ENCC>
+<br>Shall I raid one of my<br>unsuspecting neighbours,
+<SYNC Start=1904551><P Class=ENCC>&nbsp;
+<SYNC Start=1904619><P Class=ENCC>
+<br>so you can show off your fighting skills,
+<SYNC Start=1907454><P Class=ENCC>&nbsp;
+<SYNC Start=1907522><P Class=ENCC>
+<br>and maybe slaughter them all?
+<SYNC Start=1909790><P Class=ENCC>&nbsp;
+<SYNC Start=1909858><P Class=ENCC>
+<br><i>Show that you are truly<br>the son of Ragnar Lothbrok?!</i>
+<SYNC Start=1913493><P Class=ENCC>&nbsp;
+<SYNC Start=1913561><P Class=ENCC>
+<br><i>Sigvard and men: (Laugh)</i>
+<SYNC Start=1915495><P Class=ENCC>&nbsp;
+<SYNC Start=1916631><P Class=ENCC>
+<br><i>Sigvard: No, believe me,</i>
+<SYNC Start=1918365><P Class=ENCC>&nbsp;
+<SYNC Start=1918433><P Class=ENCC>
+<br>I do not like to see you so solemn.
+<SYNC Start=1920701><P Class=ENCC>&nbsp;
+<SYNC Start=1921769><P Class=ENCC>
+<br>So tell me, what can I do?
+<SYNC Start=1925439><P Class=ENCC>&nbsp;
+<SYNC Start=1928443><P Class=ENCC>
+<br>Bjorn: You can let me go live<br>in a cabin in the mountains.
+<SYNC Start=1931478><P Class=ENCC>&nbsp;
+<SYNC Start=1931546><P Class=ENCC>
+<br>Sigvard: By yourself? In the mountains?
+<SYNC Start=1934147><P Class=ENCC>&nbsp;
+<SYNC Start=1934215><P Class=ENCC>
+<br>Bjorn: Yes. I'd like to test myself.
+<SYNC Start=1937050><P Class=ENCC>&nbsp;
+<SYNC Start=1938185><P Class=ENCC>
+<br><i>Get away from all this. All these servants!</i>
+<SYNC Start=1941420><P Class=ENCC>&nbsp;
+<SYNC Start=1941488><P Class=ENCC>
+<br><i>All these people doing everything for us.</i>
+<SYNC Start=1944790><P Class=ENCC>&nbsp;
+<SYNC Start=1944859><P Class=ENCC>
+<br>I want to know what is essential to life.
+<SYNC Start=1948127><P Class=ENCC>&nbsp;
+<SYNC Start=1948195><P Class=ENCC>
+<br>What is really important.
+<SYNC Start=1950696><P Class=ENCC>&nbsp;
+<SYNC Start=1954334><P Class=ENCC>
+<br><i>Will you let me?</i>
+<SYNC Start=1956301><P Class=ENCC>&nbsp;
+<SYNC Start=1958171><P Class=ENCC>
+<br>No, of course not.
+<SYNC Start=1961306><P Class=ENCC>&nbsp;
+<SYNC Start=1961375><P Class=ENCC>
+<br>I am the Earl here.
+<SYNC Start=1964276><P Class=ENCC>&nbsp;
+<SYNC Start=1964344><P Class=ENCC>
+<br>What would folk think if<br>I let my beloved stepson
+<SYNC Start=1967479><P Class=ENCC>&nbsp;
+<SYNC Start=1967546><P Class=ENCC>
+<br>starve or freeze to death<br>in some mountain pigsty?
+<SYNC Start=1970682><P Class=ENCC>&nbsp;
+<SYNC Start=1970750><P Class=ENCC>
+<br>Sigvard and men: (Laugh)
+<SYNC Start=1973618><P Class=ENCC>&nbsp;
+<SYNC Start=1973686><P Class=ENCC>
+<br><i>Sigvard: You understand<br>that, don't you, my boy?</i>
+<SYNC Start=1976288><P Class=ENCC>&nbsp;
+<SYNC Start=1976356><P Class=ENCC>
+<br>In any case,
+<SYNC Start=1978123><P Class=ENCC>&nbsp;
+<SYNC Start=1978191><P Class=ENCC>
+<br>I have solemnly sworn to Lagertha
+<SYNC Start=1980058><P Class=ENCC>&nbsp;
+<SYNC Start=1980126><P Class=ENCC>
+<br>that I shall take care of you, and I will.
+<SYNC Start=1984295><P Class=ENCC>&nbsp;
+<SYNC Start=1985431><P Class=ENCC>
+<br>(Fire crackles in the silence)
+<SYNC Start=1987732><P Class=ENCC>&nbsp;
+<SYNC Start=1991069><P Class=ENCC>
+<br>(Waterfall gushes)
+<SYNC Start=1993004><P Class=ENCC>&nbsp;
+<SYNC Start=1995040><P Class=ENCC>
+<br>(Waves lap at the shore)
+<SYNC Start=1997509><P Class=ENCC>&nbsp;
+<SYNC Start=2000578><P Class=ENCC>
+<br>(Water churns)
+<SYNC Start=2002513><P Class=ENCC>&nbsp;
+<SYNC Start=2005217><P Class=ENCC>
+<br><i>Siggy: Rollo! (Sighs)</i>
+<SYNC Start=2007518><P Class=ENCC>&nbsp;
+<SYNC Start=2008887><P Class=ENCC>
+<br>Siggy: Rollo, wake up!
+<SYNC Start=2010054><P Class=ENCC>&nbsp;
+<SYNC Start=2010122><P Class=ENCC>
+<br>Rollo: (Exasperated) What? What is it?
+<SYNC Start=2013324><P Class=ENCC>&nbsp;
+<SYNC Start=2013392><P Class=ENCC>
+<br>- Siggy: There are boats!<br>- Rollo: (Sighs)
+<SYNC Start=2016260><P Class=ENCC>&nbsp;
+<SYNC Start=2020231><P Class=ENCC>
+<br><i>Siggy: Who are they?</i>
+<SYNC Start=2022365><P Class=ENCC>&nbsp;
+<SYNC Start=2022434><P Class=ENCC>
+<br>Rollo: I think I can guess.
+<SYNC Start=2024401><P Class=ENCC>&nbsp;
+<SYNC Start=2024469><P Class=ENCC>
+<br>Go back to the town.
+<SYNC Start=2026537><P Class=ENCC>&nbsp;
+<SYNC Start=2026604><P Class=ENCC>
+<br>Find anyone who can fight,
+<SYNC Start=2028305><P Class=ENCC>&nbsp;
+<SYNC Start=2028372><P Class=ENCC>
+<br>anyone who can hold a weapon.
+<SYNC Start=2030206><P Class=ENCC>&nbsp;
+<SYNC Start=2031876><P Class=ENCC>
+<br>We're under attack.
+<SYNC Start=2034077><P Class=ENCC>&nbsp;
+<SYNC Start=2037881><P Class=ENCC>
+<br>(Water churns)
+<SYNC Start=2041184><P Class=ENCC>&nbsp;
+<SYNC Start=2044721><P Class=ENCC>
+<br>Aslaug: Rollo, what is<br>it? What is happening?
+<SYNC Start=2046957><P Class=ENCC>&nbsp;
+<SYNC Start=2047024><P Class=ENCC>
+<br>Rollo: Jarl Borg! He has<br>come back to attack us.
+<SYNC Start=2050593><P Class=ENCC>&nbsp;
+<SYNC Start=2050661><P Class=ENCC>
+<br>Aslaug: Jarl Borg?
+<SYNC Start=2051894><P Class=ENCC>&nbsp;
+<SYNC Start=2051962><P Class=ENCC>
+<br>Rollo: (Panting) I'm sure it is him.
+<SYNC Start=2054564><P Class=ENCC>&nbsp;
+<SYNC Start=2054631><P Class=ENCC>
+<br>Ragnar and King Horik broke<br>their agreement with him.
+<SYNC Start=2058233><P Class=ENCC>&nbsp;
+<SYNC Start=2058301><P Class=ENCC>
+<br>He has returned to gain his revenge.
+<SYNC Start=2060837><P Class=ENCC>&nbsp;
+<SYNC Start=2060904><P Class=ENCC>
+<br>What are we going to do?
+<SYNC Start=2062772><P Class=ENCC>&nbsp;
+<SYNC Start=2064708><P Class=ENCC>
+<br>(Panting) What do you<br>think we're going to do?
+<SYNC Start=2067176><P Class=ENCC>&nbsp;
+<SYNC Start=2067243><P Class=ENCC>
+<br>We're going to fight.
+<SYNC Start=2069178><P Class=ENCC>&nbsp;
+<SYNC Start=2070413><P Class=ENCC>
+<br>Aslaug: Come. Go! Go!
+<SYNC Start=2073248><P Class=ENCC>&nbsp;
+<SYNC Start=2073316><P Class=ENCC>
+<br>(Panicked chatter)
+<SYNC Start=2076418><P Class=ENCC>&nbsp;
+<SYNC Start=2078488><P Class=ENCC>
+<br>Rollo: Torfin! Olaf!<br>One of you on each flank.
+<SYNC Start=2081423><P Class=ENCC>&nbsp;
+<SYNC Start=2083726><P Class=ENCC>
+<br>Help with the barricades.
+<SYNC Start=2085861><P Class=ENCC>&nbsp;
+<SYNC Start=2089665><P Class=ENCC>
+<br>Ragnar has taken all of<br>the best fighting men.
+<SYNC Start=2091700><P Class=ENCC>&nbsp;
+<SYNC Start=2093736><P Class=ENCC>
+<br><i>Look what we have left!</i>
+<SYNC Start=2095737><P Class=ENCC>&nbsp;
+<SYNC Start=2099674><P Class=ENCC>
+<br>What are you doing?
+<SYNC Start=2100674><P Class=ENCC>&nbsp;
+<SYNC Start=2100742><P Class=ENCC>
+<br>What does it look like?
+<SYNC Start=2102576><P Class=ENCC>&nbsp;
+<SYNC Start=2102644><P Class=ENCC>
+<br>Not you. You are not a shield-maiden.
+<SYNC Start=2105246><P Class=ENCC>&nbsp;
+<SYNC Start=2105314><P Class=ENCC>
+<br>- You're not...<br>- Lagertha?
+<SYNC Start=2107215><P Class=ENCC>&nbsp;
+<SYNC Start=2108783><P Class=ENCC>
+<br>Siggy, I need you to go<br>back to the great hall.
+<SYNC Start=2112320><P Class=ENCC>&nbsp;
+<SYNC Start=2112388><P Class=ENCC>
+<br>Find Princess Aslaug and her children
+<SYNC Start=2113754><P Class=ENCC>&nbsp;
+<SYNC Start=2113822><P Class=ENCC>
+<br>and take them up into the mountains.
+<SYNC Start=2114889><P Class=ENCC>&nbsp;
+<SYNC Start=2114956><P Class=ENCC>
+<br>- And then what?<br>- Wait.
+<SYNC Start=2117691><P Class=ENCC>&nbsp;
+<SYNC Start=2117759><P Class=ENCC>
+<br>For what?
+<SYNC Start=2119727><P Class=ENCC>&nbsp;
+<SYNC Start=2121963><P Class=ENCC>
+<br>For whatever the gods have<br>decided is about to happen.
+<SYNC Start=2125265><P Class=ENCC>&nbsp;
+<SYNC Start=2126467><P Class=ENCC>
+<br>Now go!
+<SYNC Start=2128602><P Class=ENCC>&nbsp;
+<SYNC Start=2128670><P Class=ENCC>
+<br><i>Man: Roll them in there!</i>
+<SYNC Start=2130070><P Class=ENCC>&nbsp;
+<SYNC Start=2130138><P Class=ENCC>
+<br><i>Woman: Fasten them on as quick as you can!</i>
+<SYNC Start=2132205><P Class=ENCC>&nbsp;
+<SYNC Start=2138379><P Class=ENCC>
+<br>(Running footfalls)
+<SYNC Start=2140313><P Class=ENCC>&nbsp;
+<SYNC Start=2143317><P Class=ENCC>
+<br>(Barrels clatter)
+<SYNC Start=2145285><P Class=ENCC>&nbsp;
+<SYNC Start=2150390><P Class=ENCC>
+<br>(Water churns)
+<SYNC Start=2152825><P Class=ENCC>&nbsp;
+<SYNC Start=2159872><P Class=ENCC>
+<br>Siggy: This way! To the mountains.
+<SYNC Start=2162474><P Class=ENCC>&nbsp;
+<SYNC Start=2162542><P Class=ENCC>
+<br>Hurry! Go, Hvitserk.
+<SYNC Start=2164243><P Class=ENCC>&nbsp;
+<SYNC Start=2164311><P Class=ENCC>
+<br>Aslaug: Run! Quickly!
+<SYNC Start=2166078><P Class=ENCC>&nbsp;
+<SYNC Start=2167680><P Class=ENCC>
+<br>(Oars splash through water)
+<SYNC Start=2171115><P Class=ENCC>&nbsp;
+<SYNC Start=2174219><P Class=ENCC>
+<br>Sail down!
+<SYNC Start=2176020><P Class=ENCC>&nbsp;
+<SYNC Start=2176088><P Class=ENCC>
+<br>(Horn bellows)
+<SYNC Start=2178189><P Class=ENCC>&nbsp;
+<SYNC Start=2181828><P Class=ENCC>
+<br>Row! Row!
+<SYNC Start=2183595><P Class=ENCC>&nbsp;
+<SYNC Start=2183663><P Class=ENCC>
+<br>(Horn bellows)
+<SYNC Start=2186097><P Class=ENCC>&nbsp;
+<SYNC Start=2191337><P Class=ENCC>
+<br>Rollo: Stay strong!
+<SYNC Start=2193237><P Class=ENCC>&nbsp;
+<SYNC Start=2193305><P Class=ENCC>
+<br>Don't make it easy for them!
+<SYNC Start=2194973><P Class=ENCC>&nbsp;
+<SYNC Start=2196141><P Class=ENCC>
+<br>Light the fires!
+<SYNC Start=2199110><P Class=ENCC>&nbsp;
+<SYNC Start=2200745><P Class=ENCC>
+<br>(Water churns)
+<SYNC Start=2203848><P Class=ENCC>&nbsp;
+<SYNC Start=2208086><P Class=ENCC>
+<br>(Water churns)
+<SYNC Start=2210120><P Class=ENCC>&nbsp;
+<SYNC Start=2220365><P Class=ENCC>
+<br>(Intimidating battle cries, clank shields)
+<SYNC Start=2223800><P Class=ENCC>&nbsp;
+<SYNC Start=2225203><P Class=ENCC>
+<br>(Pounding spears and axes)
+<SYNC Start=2226769><P Class=ENCC>&nbsp;
+<SYNC Start=2226837><P Class=ENCC>
+<br><i>(Intimidating shouts) Man: Archers!</i>
+<SYNC Start=2228805><P Class=ENCC>&nbsp;
+<SYNC Start=2231309><P Class=ENCC>
+<br>- Warrior: Come on!<br>- (Pounding spears and axes)
+<SYNC Start=2233143><P Class=ENCC>&nbsp;
+<SYNC Start=2235913><P Class=ENCC>
+<br>(Pounding spears and axes)
+<SYNC Start=2237847><P Class=ENCC>&nbsp;
+<SYNC Start=2237915><P Class=ENCC>
+<br>Oars!
+<SYNC Start=2240016><P Class=ENCC>&nbsp;
+<SYNC Start=2243286><P Class=ENCC>
+<br>Rollo: Hold your places!
+<SYNC Start=2245722><P Class=ENCC>&nbsp;
+<SYNC Start=2251194><P Class=ENCC>
+<br>(Ships creak)
+<SYNC Start=2253496><P Class=ENCC>&nbsp;
+<SYNC Start=2255298><P Class=ENCC>
+<br><i>Jarl Borg: Jump ship!</i>
+<SYNC Start=2256499><P Class=ENCC>&nbsp;
+<SYNC Start=2256566><P Class=ENCC>
+<br>(Loud battle cry, warrior splashes)
+<SYNC Start=2258901><P Class=ENCC>&nbsp;
+<SYNC Start=2258968><P Class=ENCC>
+<br>Jarl Borg: Go!
+<SYNC Start=2260169><P Class=ENCC>&nbsp;
+<SYNC Start=2260237><P Class=ENCC>
+<br>(Battle cries, splashing)
+<SYNC Start=2262038><P Class=ENCC>&nbsp;
+<SYNC Start=2262105><P Class=ENCC>
+<br>(Arrows whoosh, striking)
+<SYNC Start=2264673><P Class=ENCC>&nbsp;
+<SYNC Start=2265608><P Class=ENCC>
+<br>(Arrows whoosh, striking)
+<SYNC Start=2267510><P Class=ENCC>&nbsp;
+<SYNC Start=2269145><P Class=ENCC>
+<br>(Attack cries, weapons clank)
+<SYNC Start=2270579><P Class=ENCC>&nbsp;
+<SYNC Start=2271648><P Class=ENCC>
+<br>Agghhhh! (Splash)
+<SYNC Start=2273181><P Class=ENCC>&nbsp;
+<SYNC Start=2275952><P Class=ENCC>
+<br>(Water splashing)
+<SYNC Start=2278086><P Class=ENCC>&nbsp;
+<SYNC Start=2279155><P Class=ENCC>
+<br>(Flames roar)
+<SYNC Start=2281156><P Class=ENCC>&nbsp;
+<SYNC Start=2282191><P Class=ENCC>
+<br>(Fighting grunts)
+<SYNC Start=2284159><P Class=ENCC>&nbsp;
+<SYNC Start=2286062><P Class=ENCC>
+<br>Aghhh! (Splash)
+<SYNC Start=2287995><P Class=ENCC>&nbsp;
+<SYNC Start=2288064><P Class=ENCC>
+<br>(Heavy blows, fighting grunts)
+<SYNC Start=2289597><P Class=ENCC>&nbsp;
+<SYNC Start=2289665><P Class=ENCC>
+<br>Agghhhh! (Splash)
+<SYNC Start=2291832><P Class=ENCC>&nbsp;
+<SYNC Start=2291900><P Class=ENCC>
+<br>(Fighting grunts, pained cries)
+<SYNC Start=2294302><P Class=ENCC>&nbsp;
+<SYNC Start=2295404><P Class=ENCC>
+<br>- Jarl bork: Ungh!<br>- Man: Aggghhhh!
+<SYNC Start=2297138><P Class=ENCC>&nbsp;
+<SYNC Start=2297206><P Class=ENCC>
+<br>Ungh! Oof! Agh!
+<SYNC Start=2299074><P Class=ENCC>&nbsp;
+<SYNC Start=2299141><P Class=ENCC>
+<br>- Woman: As fast as you can!<br>- Girl: Shields!
+<SYNC Start=2302643><P Class=ENCC>&nbsp;
+<SYNC Start=2302711><P Class=ENCC>
+<br>(Fighting grunts, pained cries)
+<SYNC Start=2304278><P Class=ENCC>&nbsp;
+<SYNC Start=2304345><P Class=ENCC>
+<br>Aghhhh! Ungh!
+<SYNC Start=2306714><P Class=ENCC>&nbsp;
+<SYNC Start=2308650><P Class=ENCC>
+<br>(Fighting grunts, pained cries)
+<SYNC Start=2311185><P Class=ENCC>&nbsp;
+<SYNC Start=2312621><P Class=ENCC>
+<br>(Flames roar)
+<SYNC Start=2314555><P Class=ENCC>&nbsp;
+<SYNC Start=2316157><P Class=ENCC>
+<br>(Fighting grunts, pained cries)
+<SYNC Start=2317992><P Class=ENCC>&nbsp;
+<SYNC Start=2318060><P Class=ENCC>
+<br><i>Boy: Rollo!</i>
+<SYNC Start=2319893><P Class=ENCC>&nbsp;
+<SYNC Start=2322130><P Class=ENCC>
+<br>(Fighting grunts)
+<SYNC Start=2325265><P Class=ENCC>&nbsp;
+<SYNC Start=2326934><P Class=ENCC>
+<br>(Axe blows, pained cries)
+<SYNC Start=2329970><P Class=ENCC>&nbsp;
+<SYNC Start=2331606><P Class=ENCC>
+<br>(Fighting grunts)
+<SYNC Start=2333740><P Class=ENCC>&nbsp;
+<SYNC Start=2337311><P Class=ENCC>
+<br>Rollo: Fall back!
+<SYNC Start=2339178><P Class=ENCC>&nbsp;
+<SYNC Start=2340982><P Class=ENCC>
+<br>♪
+<SYNC Start=2355828><P Class=ENCC>&nbsp;
+<SYNC Start=2355895><P Class=ENCC>
+<br>♪
+<SYNC Start=2368941><P Class=ENCC>&nbsp;
+<SYNC Start=2369009><P Class=ENCC>
+<br>(Battle cry)
+<SYNC Start=2370776><P Class=ENCC>&nbsp;
+<SYNC Start=2373013><P Class=ENCC>
+<br>Fall back!
+<SYNC Start=2374680><P Class=ENCC>&nbsp;
+<SYNC Start=2374748><P Class=ENCC>
+<br>Back to the market place.
+<SYNC Start=2376782><P Class=ENCC>&nbsp;
+<SYNC Start=2376850><P Class=ENCC>
+<br>(Running footsteps)
+<SYNC Start=2378951><P Class=ENCC>&nbsp;
+<SYNC Start=2379400><P Class=ENCC>
+<br><i>Move!</i>
+<SYNC Start=2382220><P Class=ENCC>&nbsp;
+<SYNC Start=2384124><P Class=ENCC>
+<br>Jarl Borg: (Shouting)<br>That's right, Rollo, run!
+<SYNC Start=2386991><P Class=ENCC>&nbsp;
+<SYNC Start=2387059><P Class=ENCC>
+<br>(Quietly) Run like you always do.
+<SYNC Start=2388960><P Class=ENCC>&nbsp;
+<SYNC Start=2390196><P Class=ENCC>
+<br>(Attack cries)
+<SYNC Start=2393298><P Class=ENCC>&nbsp;
+<SYNC Start=2398937><P Class=ENCC>
+<br>(Panicked screaming and shouting)
+<SYNC Start=2401973><P Class=ENCC>&nbsp;
+<SYNC Start=2417755><P Class=ENCC>
+<br>Agghhhh!
+<SYNC Start=2419056><P Class=ENCC>&nbsp;
+<SYNC Start=2419123><P Class=ENCC>
+<br>Yah!
+<SYNC Start=2420724><P Class=ENCC>&nbsp;
+<SYNC Start=2422294><P Class=ENCC>
+<br>Rollo: Loose!
+<SYNC Start=2423760><P Class=ENCC>&nbsp;
+<SYNC Start=2423828><P Class=ENCC>
+<br>(Arrows whoosh, striking)
+<SYNC Start=2426330><P Class=ENCC>&nbsp;
+<SYNC Start=2426398><P Class=ENCC>
+<br>Agghhh!
+<SYNC Start=2428499><P Class=ENCC>&nbsp;
+<SYNC Start=2428567><P Class=ENCC>
+<br>- Rollo: Loose!<br>- (Arrows whoosh)
+<SYNC Start=2431802><P Class=ENCC>&nbsp;
+<SYNC Start=2434165><P Class=ENCC>
+<br>- Jarl Borg: Shield-wall!<br>- (Arrows clatter)
+<SYNC Start=2437808><P Class=ENCC>&nbsp;
+<SYNC Start=2438876><P Class=ENCC>
+<br>(Quieting down)
+<SYNC Start=2440977><P Class=ENCC>&nbsp;
+<SYNC Start=2447018><P Class=ENCC>
+<br>- (Repositioning chatter)<br>- Boy: This way.
+<SYNC Start=2449052><P Class=ENCC>&nbsp;
+<SYNC Start=2452679><P Class=ENCC>
+<br>Jarl Borg: You can't win, Rollo!
+<SYNC Start=2455491><P Class=ENCC>&nbsp;
+<SYNC Start=2456166><P Class=ENCC>
+<br><i>Old warrior: There is no<br>disgrace in the eyes of the gods</i>
+<SYNC Start=2458494><P Class=ENCC>&nbsp;
+<SYNC Start=2458562><P Class=ENCC>
+<br>to save yourself for another day, Rollo.
+<SYNC Start=2461097><P Class=ENCC>&nbsp;
+<SYNC Start=2464535><P Class=ENCC>
+<br>(Arrows whoosh, striking)
+<SYNC Start=2466703><P Class=ENCC>&nbsp;
+<SYNC Start=2466770><P Class=ENCC>
+<br>(Pained cries)
+<SYNC Start=2469404><P Class=ENCC>&nbsp;
+<SYNC Start=2469472><P Class=ENCC>
+<br>Old warrior: Your first duty is<br>to try and save the sons of Ragnar.
+<SYNC Start=2473527><P Class=ENCC>&nbsp;
+<SYNC Start=2473647><P Class=ENCC>
+<br>Jarl Borg: Surrender!
+<SYNC Start=2476078><P Class=ENCC>&nbsp;
+<SYNC Start=2478048><P Class=ENCC>
+<br>Old warrior: Rollo, go!
+<SYNC Start=2481316><P Class=ENCC>&nbsp;
+<SYNC Start=2482006><P Class=ENCC>
+<br>I will tell the gods what you have done.
+<SYNC Start=2485487><P Class=ENCC>&nbsp;
+<SYNC Start=2489959><P Class=ENCC>
+<br>(Running footsteps)
+<SYNC Start=2493061><P Class=ENCC>&nbsp;
+<SYNC Start=2496132><P Class=ENCC>
+<br>(Preparatory breaths)
+<SYNC Start=2498400><P Class=ENCC>&nbsp;
+<SYNC Start=2505880><P Class=ENCC>
+<br>Jarl Borg: Now, do you surrender?
+<SYNC Start=2509277><P Class=ENCC>&nbsp;
+<SYNC Start=2515017><P Class=ENCC>
+<br>(Footsteps crunch in the dirt)
+<SYNC Start=2518085><P Class=ENCC>&nbsp;
+<SYNC Start=2535069><P Class=ENCC>
+<br>(Battle cry, axe slicing)
+<SYNC Start=2537104><P Class=ENCC>&nbsp;
+<SYNC Start=2538472><P Class=ENCC>
+<br>(Battle cries)
+<SYNC Start=2540540><P Class=ENCC>&nbsp;
+<SYNC Start=2540608><P Class=ENCC>
+<br>(Weapons clank, fighting grunts)
+<SYNC Start=2543277><P Class=ENCC>&nbsp;
+<SYNC Start=2546906><P Class=ENCC>
+<br>♪
+<SYNC Start=2557957><P Class=ENCC>&nbsp;
+<SYNC Start=2558025><P Class=ENCC>
+<br>♪
+<SYNC Start=2567570><P Class=ENCC>&nbsp;
+<SYNC Start=2574208><P Class=ENCC>
+<br>(Footsteps crunch)
+<SYNC Start=2576309><P Class=ENCC>&nbsp;
+<SYNC Start=2578145><P Class=ENCC>
+<br>(Wind howls)
+<SYNC Start=2581247><P Class=ENCC>&nbsp;
+<SYNC Start=2583883><P Class=ENCC>
+<br>(Fire crackles)
+<SYNC Start=2586352><P Class=ENCC>&nbsp;
+<SYNC Start=2586419><P Class=ENCC>
+<br>(Footsteps scuff)
+<SYNC Start=2588554><P Class=ENCC>&nbsp;
+<SYNC Start=2605304><P Class=ENCC>
+<br>(Chuckles)
+<SYNC Start=2607239><P Class=ENCC>&nbsp;
+<SYNC Start=2612578><P Class=ENCC>
+<br>(Laughs victoriously)
+<SYNC Start=2616547><P Class=ENCC>&nbsp;
+<SYNC Start=2616548><P Class=ENCC>
+<br>- synced and corrected by chamallow -<br>- www.addic7ed.com -
+<SYNC Start=2622548><P Class=ENCC>&nbsp;
+
+</BODY></SAMI>

@@ -1,0 +1,4578 @@
+<SAMI>
+<HEAD>
+<TITLE>Hanbange 3.0 - (C) Breadu Soft 2008</TITLE>
+<STYLE TYPE="text/css">
+<!--
+P { margin-left:2pt; margin-right:2pt; margin-bottom:1pt;
+    margin-top:1pt; font-size:20pt; text-align:center;
+    font-family:Arial, Sans-serif; font-weight:bold; color:white;
+    }
+.KRCC { Name:ÇÑ±¹¾î; lang:ko-KR; SAMIType:CC; }
+.ENCC { Name:English; lang:en-US; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<SYNC Start=5469><P Class=KRCC>
+¸í¿Õ¼ºÀº Çà¼ºÀÌ ¾Æ´Ï¶ó°í
+<SYNC Start=8597><P Class=KRCC>
+¾ğÁ¦ºÎÅÍ?
+<SYNC Start=10338><P Class=KRCC>
+IAU°¡ ±×·¸´Ù°í ÇßÀ» ¶§ºÎÅÍ
+<SYNC Start=12375><P Class=KRCC>
+´©±¸?
+<SYNC Start=14408><P Class=KRCC>
+±ÔÄ¢ ¸¸µå´Â Ã¥»ó¹°¸²ÇÏ´Â »ç¶÷µéÀÌ ¸ğÀÎ °÷ÀÌ¾ß
+<SYNC Start=16385><P Class=KRCC>
+³ª´Â ±×·± ±ÔÄ¢¿¡ ±¸¾ÖµÇÁö ¾ÊÀ» °Å¾ß
+<SYNC Start=18386><P Class=KRCC>
+°è¼Ó "Çà¼º"ÀÌ¶ó°í ºÎ¸¦ °Å¶ó°í
+<SYNC Start=20322><P Class=KRCC>
+Ã¥»ó¹°¸²ÇÏ´Ï ¸»ÀÎµ¥, ´©°¡ ³Ê¸¦ ¿­½ÉÈ÷ º¸°í ÀÖ³×
+<SYNC Start=24798><P Class=KRCC>
+Àú »ç¶÷Àº IAU°¡ ¹ºÁö ¾Æ´Â°¡ ¾Ë¾ÆºÁ
+<SYNC Start=26860><P Class=KRCC>&nbsp;
+<SYNC Start=41210><P Class=KRCC>
+Àç¹Ì Á» º¸°í ½ÍÀ¸¼¼¿ä?
+<SYNC Start=43581><P Class=KRCC>
+±×°Å ÁÁÁö
+<SYNC Start=46011><P Class=KRCC>&nbsp;
+<SYNC Start=59532><P Class=KRCC>
+´Ê¾úÀİ¾Æ¿ä!
+<SYNC Start=62275><P Class=KRCC>&nbsp;
+<SYNC Start=62277><P Class=KRCC>
+´õ ÀÌ»ó ÇÏ±â Àü¿¡ Àú¸¦<br>
+º¸È£ÇØÁÖ½Ç ¼ö ÀÖ´ÂÁö ¾Ë¾Æ¾ß°Ú¾î¿ä
+<SYNC Start=67312><P Class=KRCC>
+Á¦ °¡Á·µµ¿ä
+<SYNC Start=69081><P Class=KRCC>
+´ç½ÅÀº ÀÌÁ¦ ¾ÈÀüÇØ¿ä
+<SYNC Start=70449><P Class=KRCC>
+´ç½Å °¡Á·µµ º¸È£ÇÒ °Ì´Ï´Ù
+<SYNC Start=73321><P Class=KRCC>
+ÀÌ »ç¶÷µéÀ» ¸ô¶ó¼­ ÇÏ´Â ¼Ò¸®¿¹¿ä!
+<SYNC Start=74721><P Class=KRCC>
+¾îµğ±îÁö ÇÒ ¼ö ÀÖ´ÂÁö ¸ô¶ó¼­ ÇÏ´Â ¼Ò¸®¶ó°í¿ä
+<SYNC Start=76689><P Class=KRCC>
+¿À, ¾Ë°í ¸»°í¿ä
+<SYNC Start=78696><P Class=KRCC>
+±×·¡¼­ Á¦°¡ ¿Â °Ì´Ï´Ù
+<SYNC Start=81294><P Class=KRCC>&nbsp;
+<SYNC Start=81296><P Class=KRCC>
+Àú¸¦ ¹ÏÀ¸¼¼¿ä. ÀÌÁ¦ ¾ÈÀüÇÕ´Ï´Ù
+<SYNC Start=85997><P Class=KRCC>&nbsp;
+<SYNC Start=99900><P Class=KRCC>
+<font color=#00FF00>¢Ü NCIS 12x19 ¢Ü</font><BR><font color=#00FFFF>Patience</font>
+<SYNC Start=103381><P Class=KRCC>
+<font color=#00FFFF>
+¸¶Å© ÇÏ¸ó<br>(Á¦¾²·Î ±é½º ¿ª)</FONT>
+<SYNC Start=106327><P Class=KRCC>
+<font color=#00FFFF>
+¸¶ÀÌÅ© ¿ş´ú¸®<br>(¾ÈÅä´Ï "Åä´Ï" µğ³ëÁ¶ ¿ª)</FONT>
+<SYNC Start=109056><P Class=KRCC>
+<font color=#00FFFF>
+Æú¸® Æä·¿<br>(¾Öºñ ½´Åä ¿ª)</FONT>
+<SYNC Start=111205><P Class=KRCC>
+<font color=#00FFFF>
+¼Ç ¸Ó·¹ÀÌ<br>(Æ¼¸ğ½Ã ¸Æ±â ¿ª)</FONT>
+<SYNC Start=113990><P Class=KRCC>
+<font color=#00FFFF>
+ºê¶óÀÌ¾ğ µğ¿¡Ã¾<br>(ÆÈ¸Ó ¿ª)</FONT>
+<SYNC Start=116133><P Class=KRCC>
+<font color=#00FFFF>
+¿¡¹Ğ¸® À§Ä¿¼¤<br>(ºñ¼ó ¿ª)</FONT>
+<SYNC Start=118271><P Class=KRCC>
+<font color=#00FFFF>
+·ÎÅ° Ä³·Ñ<br>(¸®¿Â ¹ê½º ¿ª)</FONT>
+<SYNC Start=121396><P Class=KRCC>
+<font color=#00FFFF>
+µ¥ÀÌºñµå ¸ÆÄ®·³<br>(µµ³Îµå "´õÅ°" ¸È·¯µå ¿ª)</FONT>
+<SYNC Start=123308><P Class=KRCC>&nbsp;
+<SYNC Start=143257><P Class=KRCC>
+º¸½º, ¿©ÀÚµéÀÌ ¸»ÇÏ±â¸¦ ÃÑ°İÀ» °¡ÇÑ<br>
+»ç¶÷Àº °ËÀº»ö SUV¿¡ Å¸°í ÀÖ¾ú´Ù³×¿ä
+<SYNC Start=147827><P Class=KRCC>
+- ¿îÀüÀÚ°¡ ´©±ºÁö´Â ºÃ´ë?<br>
+- ºÃ´Ù°í ÇØµµ ¸»ÇÏÁö ¾ÊÀ¸·Á ÇØ¿ä
+<SYNC Start=150635><P Class=KRCC>
+°Ì¸ÔÀº °Í °°¾Æ¿ä
+<SYNC Start=152369><P Class=KRCC>&nbsp;
+<SYNC Start=152371><P Class=KRCC>
+¿©±â ÀÖ¾î¿ä. ÀÜµ·Àº °¡Áö¼¼¿ä
+<SYNC Start=154940><P Class=KRCC>
+´©±º°¡ º» »ç¶÷ÀÌ ÀÖÀ» °Å¾ß, ¸Æ±â<br>
+µğ³ëÁ¶ µ¥¸®°í ÁÖº¯À» Å½»öÇØºÁ
+<SYNC Start=159412><P Class=KRCC>
+À½, º¸½º. µğ³ëÁ¶´Â ¿À´Ã Ãâ±Ù<br>
+¾È Çß´Ù´Â °Å ±â¾ïÇÏ¼¼¿ä?
+<SYNC Start=161316><P Class=KRCC>
+ÀÌ°Ô ¹ş¾î³µ´Ù°í »ı°¢ÇÏ´Â ¼ø°£ ´Ù½Ã ºÒ·Á¿ÔÁö
+<SYNC Start=164686><P Class=KRCC>
+¿ì-¾ß!
+<SYNC Start=166452><P Class=KRCC>&nbsp;
+<SYNC Start=166454><P Class=KRCC>
+- Ä£±¸µéÀÌ¶û ¾ÖÆ²·£Æ½ ½ÃÆ¼·Î °£ ÁÙ ¾Ë¾Ò´Âµ¥¿ä<br>
+- ¹¹, ºñÇà±â´Â 2½Ã¿¡ ¶ß´Ï±î
+<SYNC Start=169989><P Class=KRCC>
+º¸½º°¡ ±× Àü±îÁö´Â Á» µµ¿Í´Ş¶ó°í ÇØ¼­
+<SYNC Start=171822><P Class=KRCC>
+³Ê È¥ÀÚ¼­ °¨´çÇÒ ¼ö ¾ø´Ù°í »ı°¢ÇÏ´Â ¸ğ¾çÀÌ¾ß
+<br>³» ÀçÅ¶ °¡Áö°í ¿Ã°Ô
+<SYNC Start=175429><P Class=KRCC>&nbsp;
+<SYNC Start=175431><P Class=KRCC>
+¿À, ¸¶Ä¡ º¸½º°¡ ±×·¸°Ô ¸»ÇÑ °ÍÃ³·³ Ç¥ÇöÇÏ³×¿ä
+<SYNC Start=177894><P Class=KRCC>
+Àá±ñ, Á¤¸» º¸½º°¡ ±×·¸°Ô ¸»Çß¾î¿ä? / °í¸¿³×
+<SYNC Start=180429><P Class=KRCC>
+¸ÅÃâÀÌ ÀÎ·ùÀÇ °¡Àå ¿À·¡µÈ Á÷¾÷ÀÏ »Ó ¾Æ´Ï¶ó<br>
+µ¿¹°µµ ¸ÅÃáÀ» ÇÑ´Ù´Â Áõ°Å°¡ ÀÖ´Ù³×
+<SYNC Start=187267><P Class=KRCC>
+¿¹¸¦ µé¾î, ³²±Ø Æë±ÏÀº...<br>
+<SYNC Start=189874><P Class=KRCC>
+½ºÆ¿·¹Åä ÈúÀº ¾óÀ½¿¡¼­´Â Áã¾àÀÌ°Ú³×¿ä
+<SYNC Start=192774><P Class=KRCC>&nbsp;
+<SYNC Start=194575><P Class=KRCC>
+³ó´ãÀÌ¾ú¾î¿ä / ¾Æ´ÏÁö, ³ó´ãÀ» ´øÁö·Á°í ½ÃµµÇÑ °ÅÁö
+<SYNC Start=197909><P Class=KRCC>&nbsp;
+<SYNC Start=197911><P Class=KRCC>
+ÁÁÀº ¾ÆÄ§ÀÌ³×, ¿¤·¹³ë¾î!<br>
+¿À´Ã ¿µ±¤ÀÇ ÁÖÀÎ°øÀº ´©±¸ÀÎ°¡?
+<SYNC Start=202846><P Class=KRCC>&nbsp;
+<SYNC Start=202848><P Class=KRCC>
+¾È³çÇÏ¼¼¿ä, ´õÅ° ¹Ú»ç´Ô
+<SYNC Start=204413><P Class=KRCC>&nbsp;
+<SYNC Start=205715><P Class=KRCC>
+ÇöÀç ¾Æ´Â °Ç ¿©ÀÚ ÇÇÇØÀÚ ÀÌ¸§ÀÌ ·Ñ¸®Å¸ÀÌ°í
+<SYNC Start=210251><P Class=KRCC>
+³²ÀÚ ÇÇÇØÀÚ´Â º´Àå ´ë´Ï¾ó ÇÏºñ¶ó´Â °Å¿¹¿ä
+<SYNC Start=214260><P Class=KRCC>
+»ó°ü¿¡°Ô Åëº¸ÇÏµµ·Ï ÇØ / ¾Ë°Ú½À´Ï´Ù
+<SYNC Start=217526><P Class=KRCC>
+ÃÑ°İÀº ¿©¼º¿¡°Ô ÁıÁßµÈ °ÍÀ¸·Î º¸ÀÌ³×
+<SYNC Start=221399><P Class=KRCC>
+¸Æ±â ¿ä¿ø°ú ÀÌ¾ß±â¸¦ ³¡³¾ ÁîÀ½¿¡´Â<br>
+Á¤È®ÇÑ °á°ú¸¦ ¸»ÇØÁÙ ¼ö ÀÖÀ» °É¼¼
+<SYNC Start=227776><P Class=KRCC>
+¹¹¶ó°í? / ¸Æ±â ¿ä¿øÀÌ µÚ¿¡ ¼­ ÀÖ¾î¿ä
+<SYNC Start=232076><P Class=KRCC>&nbsp;
+<SYNC Start=234415><P Class=KRCC>
+Àú±â¿ä, º¸½º / ¿Ö ±×·¡?
+<SYNC Start=238287><P Class=KRCC>
+¾î, ±×³É »ı°¢³ª¼­ ÇÏ´Â ¸»ÀÎµ¥
+<SYNC Start=239719><P Class=KRCC>
+±×°Ô, Åä´Ï ¼±¹è°¡ ÇÑ ÁÖ ½¬´Â °É<br>
+Á¤¸» ÁÁ¾ÆÇßÀİ¾Æ¿ä. ºñ¼ó°ú Á¦°¡ ¹®Á¦¸¦...
+<SYNC Start=243727><P Class=KRCC>
+¹®Á¦°¡ »ı°å¾î¿ä / Àß...?
+<SYNC Start=246526><P Class=KRCC>
+¹«½¼? / ¹®Á¦°¡ ¹¹¾ß?
+<SYNC Start=248395><P Class=KRCC>&nbsp;
+<SYNC Start=248397><P Class=KRCC>
+ÇØ±º ¸íºÎ¸¦ Á¶È¸ÇØºÃ´Âµ¥ ´ë´Ï¾ó ÇÏºñ<br>
+º´ÀåÀº ±â·Ï¿¡¼­ Ã£À» ¼ö ¾ø¾ú¾î¿ä
+<SYNC Start=256802><P Class=KRCC>
+´©°¡ ÀÌ »ç¶÷¿¡°Ô ÀÌ¾ß±â¸¦ ÇØ Áà¾ß°Ú±º
+<SYNC Start=258801><P Class=KRCC>&nbsp;
+<SYNC Start=260908><P Class=KRCC>
+¾Öºñ°¡ ½ÅºĞÁõÀ» Á¡°ËÇØ ºÃ¾î¿ä
+<SYNC Start=263404><P Class=KRCC>
+ÀÌ°Ô À§Á¶¶ó¸é, Á¤¸» Àß µÈ °Ì´Ï´Ù
+<SYNC Start=265508><P Class=KRCC>
+Áö¹®À¸·Îµµ °á°ú°¡ ¾ø°í¿ä
+<SYNC Start=267582><P Class=KRCC>
+Â÷·®Àº ÁøÂ¥¿¡¿ä. ±¹¹æºÎ º¸À¯ Â÷·®¿¡ µî·ÏµÇ¾î ÀÖ¾î¿ä
+<SYNC Start=271013><P Class=KRCC>&nbsp;
+<SYNC Start=271015><P Class=KRCC>
+´©°¡ °¡Áö°í ³ª°¬Áö? / ±â·Ï¿¡´Â<br>
+¾ÆÁ÷ Â÷°íÁö¿¡ ÀÖ´Â °É·Î µÇ¾î ÀÖ¾î¿ä
+<SYNC Start=275121><P Class=KRCC>
+°æºñ¼Ò¿¡ ÀÖ´Â ÃâÂ÷ ±â·ÏÀ» º¼ ¼ö ÀÖÀ» °Å¿¡¿ä
+<SYNC Start=277226><P Class=KRCC>
+Á¦°¡ ±×°Ç ÇØ°áÇÒ ¼ö ÀÖ¾î¿ä
+<SYNC Start=279635><P Class=KRCC>
+±×·¯´Ï±î ¹Ù·Î ¿©±â¼­, Áö±İ<br>
+±â·Ï¿¡ Á¢±ÙÇÒ ¼ö ÀÖ¾î¿ä
+<SYNC Start=282369><P Class=KRCC>&nbsp;
+<SYNC Start=284066><P Class=KRCC>
+¹Ù·Î ÇÏ°Ú½À´Ï´Ù
+<SYNC Start=285506><P Class=KRCC>
+¿©ÀÚ´Â?
+<SYNC Start=287075><P Class=KRCC>
+·Ñ¸®Å¸ ÄÚ¸£Å×Áî, 21¼¼
+<SYNC Start=289874><P Class=KRCC>
+Äİ·Òºñ¾Æ Ãâ½ÅÀÌÁö¸¸ 18¼¼<br>
+¶§ ¹Ì±¹À¸·Î ÀÌ¹Î¿Ô½À´Ï´Ù
+<SYNC Start=292778><P Class=KRCC>
+ÀÌ¹Î°ü¼¼¼ö»çÃ»(ICE)¿¡ µû¸£¸é<br>
+¾îÁ¦ ¹ã Äİ·Òºñ¾Æ¿¡¼­ µ¹¾Æ¿Ô½À´Ï´Ù
+<SYNC Start=294947><P Class=KRCC>
+ÀÌÆ²µ¿¾È Äİ·Òºñ¾Æ¿¡ ÀÖ¾úÁÒ
+<SYNC Start=296819><P Class=KRCC>
+ÀÌÆ²¸¸¿¡ ´Ù³à¿À±â´Â ¸Õ °Å¸®ÀÎµ¥¿ä
+<SYNC Start=298883><P Class=KRCC>
+- Àü°ú°¡ ÀÖ³ª?<br>
+- ¸ÅÃáÀ¸·Î µÎ ¹ø ±¸¼ÓµÆ¾î¿ä
+<SYNC Start=302491><P Class=KRCC>
+µ¿¾÷ÀÚ Áß ÇÑ »ç¶÷ ¸»·Î´Â Æ÷ÁÖ¿Í »çÀÌ°¡ Æ²¾îÁ³´Ù°í ÇØ¿ä
+<SYNC Start=304154><P Class=KRCC>
+¸¸¾à Áö³­ ¿©¼¸ ´Ş µ¿¾È °í´ëÇØ<br>
+¿Ô´ø ¿©ÇàÀ» ¶°³¯ ºñÇà±â¸¦ Å» ÇÊ¿ä°¡ ¾ø´Ù¸é
+<SYNC Start=305993><P Class=KRCC>
+- °Å±â¸¦ °¡Àå ¸ÕÀú Ã£¾ÆºÁ¾ß...<br>
+- »¡¸® °¡ ºÁ
+<SYNC Start=310057><P Class=KRCC>
+°©´Ï´Ù, ¶°³ª¿ä!
+<SYNC Start=311393><P Class=KRCC>
+Àç¹Õ°Ô º¸³»¿ä! / ¹º°¡ Ã£¾Ò¾î¿ä
+<SYNC Start=313465><P Class=KRCC>
+¾Æ¸¶ ±²ÀåÈ÷ Èï¹Ì·Î¿î °Å°ÚÁö!<br>
+¹®ÀÚÇØ Áà, ¸Æ±â. ¹üÀÎÀÌ ´©±ºÁö ¾Ë·ÁÁà
+<SYNC Start=317403><P Class=KRCC>
+±¹¹æºÎ Â÷·® ±â·Ï¿¡¼­ ÀÚµ¿Â÷<br>
+Â¡¹ß ¿ä±¸¼­¸¦ Ã£¾Ò¾î¿ä
+<SYNC Start=320603><P Class=KRCC>
+Á¢±Ù ±ÇÇÑÀº ¾øÁö¸¸ ¾îÂ·µç ¿­¾î ºÃ´Âµ¥
+<SYNC Start=323411><P Class=KRCC>
+ÀÌ Â÷´Â ¾î¶² ÀÛÀü¿¡¼­ Â¡¹ßÇß³Ä ÇÏ¸é...
+<SYNC Start=326011><P Class=KRCC>
+"·º½º... Å»¸®¿À³ª½º(Lex Talionis)"?
+<SYNC Start=329011><P Class=KRCC>&nbsp;
+<SYNC Start=342164><P Class=KRCC>
+¹«½¼ ÀÏÀÌÁÒ? / ÀüÇô ¸ğ¸£°Ú¾î
+<SYNC Start=345165><P Class=KRCC>
+°¡¼­ ¾Ë¾Æº¸ÀÚ°í
+<SYNC Start=346637><P Class=KRCC>
+"·º½º Å»¸®¿À´Ï½º"°¡ ¹ºÁö ¾Æ¼¼¿ä?
+<SYNC Start=348836><P Class=KRCC>
+¹«½¼ ±¸ÀıÀÎÁö´Â ¾Ë¾Æ. ¶óÆ¾¾îÁö
+<SYNC Start=350068><P Class=KRCC>
+¶æÀº, º¹¼öÀÇ ¹ı. ´«¿¡´Â ´«<br>
+±×·± ¶æÀÌ¾ß
+<SYNC Start=354472><P Class=KRCC>
+±×·± ÀÌ¸§ÀÇ ÀÛÀüÀº ¾Ë°í ÀÖ¾î¿ä? / ¾Æ´Ï
+<SYNC Start=358705><P Class=KRCC>&nbsp;
+<SYNC Start=373556><P Class=KRCC>
+Á¢±ÙÀÌ °ÅºÎµÆ¾î
+<SYNC Start=375586><P Class=KRCC>
+´ëÃ¼ ¹«½¼ ÀÏÀÌÁÒ? / ¸ğ¸£°Ú¾î
+<SYNC Start=379286><P Class=KRCC>&nbsp;
+<SYNC Start=391363><P Class=KRCC>
+±é½º ¿ä¿ø, ¹«½¼ ¸»¾¸ÀÌ½ÅÁö ¸ğ¸£°Ú±º¿ä
+<SYNC Start=393636><P Class=KRCC>
+"·º½º Å»¸®¿À´Ï½º" ÀÛÀü¿¡ ¹èÁ¤µÈ<br>
+Â÷·®¿¡ Åº Ã¤ »ç¸ÁÇÑ º´ÀåÀ» ¹ß°ßÇß½À´Ï´Ù
+<SYNC Start=398008><P Class=KRCC>
+ÀÌ°Ç ÀúÈñ ÀÛÀüÀÔ´Ï´Ù / ¾î¶»°Ô ÀúÈñ<br>
+¿ä¿øÀÌ ¸ğ¸£´Â ÀÛÀüÈ°µ¿ÀÌ ÀÖ´Â °Ì´Ï±î?
+<SYNC Start=402981><P Class=KRCC>&nbsp;
+<SYNC Start=402983><P Class=KRCC>
+¹ê½º ±¹Àå´Ô, ÇöÀå¿¡¼­ "·º½º Å»¸®¿À´Ï½º"<br>
+È°µ¿ÀÌ ÀÌ·ïÁ³´Ù¸é Àúµµ ¸ğ¸£´Â ÀÏÀÔ´Ï´Ù
+<SYNC Start=407547><P Class=KRCC>
+µå¹® ÀÏµµ ¾Æ´ÏÁÒ. ÀÌ°Ô ¸Å¿ì<br>
+°³º°È­µÈ ÀÛÀüÀÌ¶ó´Â °Ç ¾Æ½Ç °Ì´Ï´Ù
+<SYNC Start=412088><P Class=KRCC>&nbsp;
+<SYNC Start=412090><P Class=KRCC>
+¾ÆÁ÷ Ã¥ÀÓÀÚÀÌ½Å °Ì´Ï±î?
+<SYNC Start=413985><P Class=KRCC>
+ºÒ¸¸ÀÌ½Å °Ç ÀÌÇØÇÕ´Ï´Ù. ÀÌ ÀÛÀü¿¡<br>
+¿À·§µ¿¾È Âü°¡ÇØ ¿À¼ÌÀ¸´Ï±î¿ä
+<SYNC Start=417720><P Class=KRCC>
+±×·¯´Ï ÁıÁßÇÏµµ·Ï ÇÏÁÒ. º´ÀåÀÌ ¾îµğ ¼Ò¼ÓÀÌ¾ú³ª¿ä?
+<SYNC Start=421465><P Class=KRCC>
+¾ÆÁ÷ ¾Ë¾Æº¸°í ÀÖ½À´Ï´Ù / ÇØ±º ½ÅºĞÁõÀº<BR>
+ÀÖÁö¸¸ ¾îµğ¿¡µµ ±â·ÏÀº ¾ø´õ±º¿ä
+<SYNC Start=425200><P Class=KRCC>
+- À§ÀåÀÏ Áöµµ ¸ğ¸£ÁÒ<br>
+- À¯ÃâÀÌ ÀÖ´Â °É±î¿ä?
+<SYNC Start=428904><P Class=KRCC>
+¸¸¾à À¯ÃâÀÌ ÀÖ°í ¿ì¸®°¡ ¸ñÇ¥¸¦<br>
+ÃßÀûÇÏ°í ÀÖ´Ù´Â °É ¾Ë¸é ´õ ±íÀÌ ¼ûÀ» °Ì´Ï´Ù
+<SYNC Start=433242><P Class=KRCC>
+±×·¯¸é ¼ö½Ê³â ¸¸ÀÇ °¡Àå ÁÁÀº ±âÈ¸¸¦ ³õÄ¡´Â °Ì´Ï´Ù
+<SYNC Start=435947><P Class=KRCC>
+¾Ë°Ú½À´Ï´Ù. Á¶»ç¸¦ °è¼ÓÇØÁÖ¼¼¿ä<br>
+ÀÌ ÂÊ¿¡¼­µµ ÇÒ ¼ö ÀÖ´Â ÀÏÀ» Ã£¾Æº¸°Ú½À´Ï´Ù
+<SYNC Start=439779><P Class=KRCC>&nbsp;
+<SYNC Start=439781><P Class=KRCC>
+ÇØ±º Á¤º¸ºÎÀÇ Ä«¸£¼ÑÅ© ¿¬°áÇØ Áà<br>
+±¹¹«ºÎÀÇ ¿¡µå¸ÕÁî ´ë»çµµ
+<SYNC Start=445857><P Class=KRCC>&nbsp;
+<SYNC Start=445859><P Class=KRCC>
+±é½º ¿ä¿ø, ³ª¸ÓÁö ÆÀÀ» µ¥·Á¿Ã ¶§°¡ µÈ °Í °°³×¿ä
+<SYNC Start=450483><P Class=KRCC>&nbsp;
+<SYNC Start=454888><P Class=KRCC>
+Áö±İ º¸°í ÀÖ´Â ¿µ»óÀÌ ¾îµğÁÒ?
+<SYNC Start=456684><P Class=KRCC>
+¸ŞÆ®·ÎÆú¸®Åº ±¹Á¦ °øÇ×, 1979³â
+<SYNC Start=461656><P Class=KRCC>
+´©±º°¡ Ãâ¹ß ÅÍ¹Ì³Î¿¡¼­ ÆøÅºÀ» ÅÍÆ®·ÈÁö
+<SYNC Start=463952><P Class=KRCC>
+±â¾ï³ª³×¿ä. ´ç½Ã¿¡ ¸î ½Ê³â¸¸¿¡<br>
+¹Ì±¹ ¿µÅä¿¡¼­ °¡Àå Å« °ø°İ Áß ÇÏ³ª¿´ÁÒ
+<SYNC Start=468654><P Class=KRCC>
+100¸í °¡±î¿î »ç¶÷ÀÌ ´ÙÄ¡°Å³ª Á×¾úÁö
+<SYNC Start=470790><P Class=KRCC>
+´©°¡ Çß³ª¿ä?
+<SYNC Start=471893><P Class=KRCC>
+¾Æ¹«µµ ¸ô¶ó
+<SYNC Start=473795><P Class=KRCC>
+¹ÌÁ¦ »ç°ÇÀÌ µÇ°í °ø°İÀº ÀÏ¹İÀÎ¿¡°Ô ÀØÇûÁö
+<SYNC Start=477100><P Class=KRCC>
+- ÇÏÁö¸¸.. ¿ì¸®´Â ÀÏ¹İÀÎÀÌ ¾Æ´Ï¾ß<br>
+- ±×¸®°í ¹ÌÇÕÁß±¹Àº ÀØÁö ¾ÊÀ¸´Ï±î
+<SYNC Start=483470><P Class=KRCC>&nbsp;
+<SYNC Start=483472><P Class=KRCC>
+´Ü¼­¸¦ Ã£À¸¼Ì±º¿ä. 40¿©³âÀÌ Áö³­<br>µÚ¿¡ ´Ü¼­¸¦ Ã£À¸½Å °Å±º¿ä
+<SYNC Start=489548><P Class=KRCC>
+2³â Àü, Äİ·Òºñ¾ÆÀÇ NCIS ¿ä¿øÀÌ<br>
+79³â¿¡ »ç¿ëÇÑ °Í°ú ³î¶ö ¸¸Å­ À¯»çÇÑ
+<SYNC Start=495761><P Class=KRCC>
+»ç¿ëÇÏÁö ¾ÊÀº ÆøÅºÀ» ¹ß°ßÇß¾î
+<SYNC Start=500262><P Class=KRCC>&nbsp;
+<SYNC Start=500264><P Class=KRCC>
+³»ºÎ ºÎÇ°ÀÇ Á¢ÃË DNSÀ» Á¶»çÇÑ °á°ú<br>
+µÎ ÆøÅº ¸ğµÎ °°Àº »ç¶÷ÀÌ ¸¸µé¾ú´Ù´Â °É È®ÀÎÇßÁö
+<SYNC Start=505839><P Class=KRCC>&nbsp;
+<SYNC Start=507303><P Class=KRCC>
+Åä´Ï, ¾îÂ°¼­ ÀÌ·± °É Àú´Â ¸ğ¸£°í ÀÖ¾ú´ø °ÅÁÒ?
+<SYNC Start=510309><P Class=KRCC>
+Å¸ÀÌ½¼ Á¦µ¶Àº Á¤º¸¸¦ ±â¹Ğ·Î ºĞ·ùÇÏ°í<br>
+ÆøÅº Á¦Á¶ÀÚ¸¦ ÃßÀûÇÏ´Â ºñ¹Ğ ÀÛÀüÀ» ¸¸µé¾úÁö
+<SYNC Start=515905><P Class=KRCC>
+ÀÛÀü¸íÀ» "·º½º Å»¸®¿À´Ï½º"·Î Çß±º¿ä
+<SYNC Start=519207><P Class=KRCC>
+±é½º ¿ä¿øÀº Äİ·Òºñ¾ÆÀÇ °æÇè ¶§¹®¿¡ ÁöÈÖ¸¦ ¸Ã¾ÒÁö
+<SYNC Start=523042><P Class=KRCC>&nbsp;
+<SYNC Start=523044><P Class=KRCC>
+Åä´Ï´Â Âü¿©½ÃÅ°°í Àú´Â »« °Å±º¿ä
+<SYNC Start=526181><P Class=KRCC>
+Àúµµ¿ä
+<SYNC Start=528085><P Class=KRCC>
+½ÇÀº ±× ¶§´Â µé¾î¿À±â ÀüÀÌ¾î¼­ Áö¹Ù°¡ ÀÖ¾úÁö
+<SYNC Start=530717><P Class=KRCC>
+ÀÌ·±, Áö¹Ùµµ ¾Ë°í ÀÖ¾ú´Ù´Â °Å¿¹¿ä?
+<SYNC Start=532822><P Class=KRCC>
+¸Æ±â ¿ä¿ø, ÀÌ ºê¸®ÇÎÀÇ ÁÖÁ¦´Â<br>
+ÀÚ³×ÀÇ ÀÚÁ¸½ÉÀÌ ¾Æ´Ò¼¼
+<SYNC Start=536327><P Class=KRCC>
+±×·¯¸é ¹«½¼ ÁÖÁ¦ÀÎ°¡¿ä?
+<SYNC Start=541031><P Class=KRCC>
+Åä¸¶½º ¿Ã¶õµµ, 62¼¼
+<SYNC Start=544870><P Class=KRCC>
+Àü Äİ·Òºñ¾Æ ¹İ±º ¼Ò¼ÓÀ¸·Î Áö±İÀº<br>
+°¡Àå Å« ¸¶¾à°Å·¡»ó Áß ÇÏ³ªÁö
+<SYNC Start=550137><P Class=KRCC>&nbsp;
+<SYNC Start=550139><P Class=KRCC>
+6°³¿ù Àü ¿ëÀÇÀÚ¸¦ ¿Ã¶õµµ·Î Á¼ÇûÁö
+<SYNC Start=552769><P Class=KRCC>
+¾î¶»°Ô¿ä? / ±ä ÀÌ¾ß±â¾ß, ºñ¼ó
+<SYNC Start=555337><P Class=KRCC>
+ÀĞ¾î ºÁ
+<SYNC Start=556406><P Class=KRCC>&nbsp;
+<SYNC Start=556408><P Class=KRCC>
+Áö³­ 6°³¿ù °£, ¿Ã¶õµµ°¡ ¹üÀÎÀÎÁö<br>
+È®ÀÎÇÏ±â À§ÇØ DNA »ùÇÃÀ» ¾òÀ¸·Á ½ÃµµÇß¾î
+<SYNC Start=561308><P Class=KRCC>
+Ã£±â ½¬¿î ³²ÀÚ´Â ¾Æ´Ï´Ï±î<br>
+¼º°ú´Â ¾ø´Â Ã¤¿´Áö
+<SYNC Start=564106><P Class=KRCC>
+Áö±İ±îÁö´Â¿ä? / ±×°É ¾Ë¾Æ³»¾ß ÇÏ³×
+<SYNC Start=567145><P Class=KRCC>
+º´ÀåÀÌ ¹» ÇÏ°í ÀÖ¾ú´ÂÁö´Â ¸ô¶óµµ<br>
+°í´ëÇÏ´ø µ¹ÆÄ±¸°¡ ÀÖÀ»Áöµµ ¸ğ¸£´Ï±î
+<SYNC Start=572381><P Class=KRCC>&nbsp;
+<SYNC Start=574116><P Class=KRCC>
+¾Æ¹«µµ ¾ø³ª?
+<SYNC Start=576649><P Class=KRCC>&nbsp;
+<SYNC Start=578251><P Class=KRCC>
+¾Öºñ?
+<SYNC Start=581014><P Class=KRCC>&nbsp;
+<SYNC Start=581016><P Class=KRCC>
+Ã£Àº °Ô ÀÖ´Ù¸é¼­
+<SYNC Start=583212><P Class=KRCC>&nbsp;
+<SYNC Start=585453><P Class=KRCC>
+¿Ö? ¹«½¼ ÀÏ ÀÖ¾î?
+<SYNC Start=587346><P Class=KRCC>&nbsp;
+<SYNC Start=588156><P Class=KRCC>
+ÀüÇô¿ä. Åä´Ï°¡ ¼³¸íÇØ Áá¾î¿ä
+<SYNC Start=594325><P Class=KRCC>
+Äİ·Òºñ¾Æ¿¡ ÀÖ´ø ÆøÅº°ú °øÇ× Æø¹ß ¹ÌÁ¦»ç°ÇÀÇ<br>
+DNA°¡ ÀÏÄ¡Çß´Ù´Â ³î¶ó¿î ¼Ò½ÄÀ» µé¾ú¾î¿ä
+<SYNC Start=601701><P Class=KRCC>
+Á¤¸».. ³î¶ó¿î ÀÏÀÌ¿¡¿ä!
+<SYNC Start=604372><P Class=KRCC>
+±×·¡¼­? / Á¤¸» ³î¶ö µû¸§ÀÌ¿¡¿ä
+<SYNC Start=607970><P Class=KRCC>
+±é½º¸¦ À§ÇØ DNA¸¦ µ¹·ÁÁÙ »ç¶÷ÀÌ ÀÖ´Ù´Â °ÅÀİ¾Æ¿ä
+<SYNC Start=611071><P Class=KRCC>
+°ü·Ã Àåºñ°¡ °¡µæÇÑ ½ÇÇè½ÇÀÇ ´©±º°¡¿ä
+<SYNC Start=614471><P Class=KRCC>
+±×·± »ç¶÷À» ¾È´Ù´Â °Ç Á¤¸» ¸ÚÁø ÀÏÀÏ °Å¿¡¿ä
+<SYNC Start=619017><P Class=KRCC>
+- ¾Öºñ, ±×·± °Ô ¾Æ´Ï¾ß<br>
+- Àú¸¦ ¼Ó¿´¾î¿ä, ±é½º
+<SYNC Start=623013><P Class=KRCC>
+¾Öºñ, DNA´Â ³»°¡ ¹èÁ¤¹Ş¾ÒÀ» ¶§<br>
+µ¿³²ºÎ ÇöÀå »ç¹«½Ç¿¡ º¸°üµÇ¾î ÀÖ¾ú¾î
+<SYNC Start=628144><P Class=KRCC>&nbsp;
+<SYNC Start=628146><P Class=KRCC>
+ÀÚ³×¿¡°Ô °¡Á®´Ù ÁÖ·Á¸é ³Ê¹« ¸¹Àº ¼ÕÀ» °ÅÃÆÀ» °Å¾ß
+<SYNC Start=632855><P Class=KRCC>
+ÁÁ¾Æ¿ä, ÀÌÇØÇÒ ¼ö ÀÖ¾î¿ä
+<SYNC Start=634917><P Class=KRCC>
+ÀÌ»óÇÏÁö¸¸...
+<SYNC Start=636681><P Class=KRCC>
+- ±× ´ë½Å ¹» ÇØ µå¸®¸é µÉ±î¿ä?<br>
+- ¹» ¾Ë¾Æ³Â³ª ¸»ÇØºÁ
+<SYNC Start=640255><P Class=KRCC>
+Áö³ª°£ ÀÏ·Î ÇÏÁÒ
+<SYNC Start=641719><P Class=KRCC>
+¾Æ´Ï¸é Á¦°¡ ³¡³µ´Ù°í ÇÒ ¶§±îÁö¿ä<br>
+´ëÃæ, 30ÃÊ Á¤µµ °Å¸± ÅÙµ¥¿ä
+<SYNC Start=645857><P Class=KRCC>
+ÁÁ¾Æ¿ä, ¹üÀÎ¿¡ ´ëÇÑ ´Ü¼­¸¦ Àâ¾Ò¾î¿ä
+<SYNC Start=647761><P Class=KRCC>
+Â÷¿¡¼­ ¾Æ¸§´Ù¿î ÀÎ°£¼ºÀÇ »óÂ¡ÀÎ<br>
+»ç¶÷ÀÇ Áö¹®À» Ã£¾Ò¾î¿ä
+<SYNC Start=651968><P Class=KRCC>&nbsp;
+<SYNC Start=651970><P Class=KRCC>
+¿¡µğ "Ä®¶óº»" ·ÎÀÚ¸®¿À
+<SYNC Start=655172><P Class=KRCC>
+Á¦°¡ "Æ÷ÁÖ"¶ó´Â ¸»À» ¸»À» ÇÑ<br>
+°Íº¸´Ù ´õ ¸¹ÀÌ ±× ÇøÀÇ·Î ÀâÇû¾î¿ä
+<SYNC Start=658811><P Class=KRCC>&nbsp;
+<SYNC Start=658813><P Class=KRCC>
+Æ÷ÁÖ, Æ÷ÁÖ, Æ÷ÁÖ, Æ÷ÁÖ, Æ÷ÁÖ
+<SYNC Start=660045><P Class=KRCC>
+ÀÌÁ¦ ¶È°°³×¿ä
+<SYNC Start=661708><P Class=KRCC>
+ÇÇÇØÀÚ°¡ Æ÷ÁÖ¿ÍÀÇ °ü°è°¡ Æ²¾îÁ³´Ù°í ÇÏ´øµ¥
+<SYNC Start=664086><P Class=KRCC>
+±×·¸´Ù¸é ¹Ù·Î ÀÌ »ç¶÷ÀÌ<br>
+±×³àÀÇ Æ÷ÁÖÀÏ °Í °°³×¿ä
+<SYNC Start=666782><P Class=KRCC>
+±×¸®°í ½ÃÃ¼°¡ »ı±ä °Å·Î ºÁ¼­<br>
+±× »ç¶÷ÀÌ ÀÌ±ä °Í °°³×¿ä
+<SYNC Start=670247><P Class=KRCC>&nbsp;
+<SYNC Start=670885><P Class=KRCC>
+ÀÌ»óÇÏ³×. ºñ¼ó¿¡°Ô¼­ ¸Ş½ÅÀú°¡ ¿Ô¾î¿ä
+<SYNC Start=673553><P Class=KRCC>&nbsp;
+<SYNC Start=673608><P Class=KRCC>
+¹¹¶ó´Âµ¥? / Á¦µ¶´ÔÀÌ Áï½Ã ºË°í ½Í¾î ÇÏ½Å´ë¿ä
+<SYNC Start=677573><P Class=KRCC>&nbsp;
+<SYNC Start=680679><P Class=KRCC>
+ÀÌ¹Ì ¿Ã¶ó°¡°í °è¼¼¿ä
+<SYNC Start=683076><P Class=KRCC>&nbsp;
+<SYNC Start=687414><P Class=KRCC>
+¾òÀº Á¤º¸°¡ ¹º°¡¿ä?
+<SYNC Start=689350><P Class=KRCC>
+º´ÀåÀÇ ½Å¿øÀÌÁÒ. Äİ·Òºñ¾Æ ´ë»çµµ ¿¬°áÇß¾î¿ä
+<SYNC Start=692959><P Class=KRCC>
+´ë»ç´Ôµµ »õ Á¤º¸°¡ ÀÖ´Ù°í ÇÏ³×¿ä
+<SYNC Start=694728><P Class=KRCC>
+¿¡µå¸ÕÁî ´ë»ç´Ô / ±é½º ¿ä¿ø<br>
+µåµğ¾î Á÷Á¢ ¸¸³ªºË°Ô µÇ¾î ±â»Ú³×¿ä
+<SYNC Start=699463><P Class=KRCC>&nbsp;
+<SYNC Start=699465><P Class=KRCC>
+±×·¡¼­, ÀÌ »ç¶÷ÀÌ ´©±¸ÁÒ?
+<SYNC Start=700835><P Class=KRCC>
+³²¼ºÀÇ ½ÇÁ¦ ÀÌ¸§Àº ·çÀÌ½º ÇÁ·¹½ºÅÏ ´ëÀ§ÀÔ´Ï´Ù
+<SYNC Start=703909><P Class=KRCC>
+¾Æ´Â ÀÌ¸§ÀÌ±º¿ä. Á¤º¸ Àü¹®°¡·Î<br>
+ÃÖ±Ù¿¡ ¹èÁ¤µÇ¾úÁÒ
+<SYNC Start=708848><P Class=KRCC>
+¾Æ¹«·¡µµ ´ëÀ§°¡ ·Ñ¸®Å¸¸¦ ÀÚ¿øÀ¸·Î ÀâÀº ¸ğ¾çÀÔ´Ï´Ù
+<SYNC Start=711722><P Class=KRCC>
+Ä£Ã´ÀÌ ¿Ã¶õµµÀÇ ¸Ó¸®¸¦ ÀÚ¸¥´Ù°í ÁÖÀåÇß°Åµç¿ä
+<SYNC Start=715625><P Class=KRCC>
+±×·± º¸°í´Â ÁÖ¸¶´Ù µÎ ¹øÀº ¿Ã¶ó¿ÀÁö¸¸<br>
+°á½ÇÀ» ¸ÎÁö´Â ¸øÇßÁÒ
+<SYNC Start=718896><P Class=KRCC>
+ÀÌ¹ø¿¡´Â ´Ş¶ú¾î¿ä
+<SYNC Start=720224><P Class=KRCC>
+ÇÁ·¹½ºÅÏÀÌ Á¦ÃâÇÏ·Á Çß´ø º¸°í¼­¿¡´Â<br>
+·Ñ¸®Å¸°¡ Äİ·Òºñ¾Æ¿¡¼­ ¸ğ¹ß »ùÇÃÀ»
+<SYNC Start=724429><P Class=KRCC>
+ÁÖ¿ö¼­ °¡Á® ¿Ô´Ù°í ÀûÇô ÀÖ½À´Ï´Ù
+<SYNC Start=726261><P Class=KRCC>
+»ìÇØ´çÇÏ´ø ³¯ ¹ã¿¡ ÁÖ±â·Î µÇ¾î ÀÖ¾úÁÒ
+<SYNC Start=729302><P Class=KRCC>
+¸¸¾à DNA°¡ °øÇ× ÆøÅº°ú ÀÏÄ¡ÇÑ´Ù¸é ¹üÀÎÀ» Ã£´Â °ÅÁÒ
+<SYNC Start=733773><P Class=KRCC>
+ÇöÀå¿¡¼­ ¸ğ¹ß »ùÇÃÀº Ã£Áö ¸øÇß½À´Ï´Ù
+<SYNC Start=736373><P Class=KRCC>
+ÇÁ·¹½ºÅÏÀÇ ±â·Ï¿¡ µû¸£¸é Ã¢³àÀÇ<br>
+Áö°© ºÀÀç¼± ¾È¿¡ ²ç¸Å µÎ¾ú´Ù³×¿ä
+<SYNC Start=741308><P Class=KRCC>
+Áö°©Àº Ã£Áö ¸øÇß½À´Ï´Ù
+<SYNC Start=742876><P Class=KRCC>
+º¸½º, ±×¿¡ ´ëÇÑ ´Ü¼­°¡ ÀÖ¾î¿ä<br>
+±æ °Ç³ÊÆíÀÇ »óÁ¡ ÁÖÀÎÀÌ ¿µ»óÀ» Âï¾ú¾î¿ä
+<SYNC Start=748021><P Class=KRCC>
+ÃÑ°İ Á÷ÈÄ¿¡¿ä / ÇÑ ¹ø º¸ÀÚ°í
+<SYNC Start=750924><P Class=KRCC>&nbsp;
+<SYNC Start=764445><P Class=KRCC>
+Æ÷ÁÖ°¡ DNA¸¦ °®°í ÀÖ
+<SYNC Start=766581><P Class=KRCC>&nbsp;
+<SYNC Start=766583><P Class=KRCC>
+´Ù½Ã °¡Á®¿À´Â µ¥ 12½Ã°£ ³²¾Ò½À´Ï´Ù
+<SYNC Start=768582><P Class=KRCC>
+º°ÀÌ ÀÚ¸®¸¦ Ã£¾Æ°¡°í ÀÖ½À´Ï´Ù, ±é½º ¿ä¿ø
+<SYNC Start=769750><P Class=KRCC>
+´ë»ç´Ô? / ÇÁ·¹½ºÅÏÀÇ Çàµ¿ÀÌ ÀÌ¾ß±ê°Å¸®¸¦ ºÒ·¯¿Ô¾î¿ä
+<SYNC Start=773786><P Class=KRCC>
+¿Ã¶õµµ°¡ °íÀ§ °£ºÎµé°ú ¸ğÀÓÀ» °®´Â´Ù´Â Á¤º¸°¡ µé¾î¿Ô½À´Ï´Ù
+<SYNC Start=778920><P Class=KRCC>&nbsp;
+<SYNC Start=778922><P Class=KRCC>
+- À§Ä¡µµ È®º¸Çß°í¿ä<br>
+- SEAL ÆÀÀ» º¸³»°Ú½À´Ï´Ù
+<SYNC Start=781655><P Class=KRCC>&nbsp;
+<SYNC Start=781657><P Class=KRCC>
+¿Ã¶õµµ°¡ ¹üÀÎÀÎÁö È®ÀÎÇØ¾ß ÇÕ´Ï´Ù<br>
+±âÈ¸¸¦ ÀâÀ» ¼ö ÀÖÀ» ¶§ ¸»ÀÌÁÒ
+<SYNC Start=786395><P Class=KRCC>
+Áö³­ 40³â °£ °¡Àå ÁÁÀº ±âÈ¸ÀÔ´Ï´Ù
+<SYNC Start=788164><P Class=KRCC>
+¾Ë°Ú½À´Ï´Ù
+<SYNC Start=790172><P Class=KRCC>
+ÀÌÁ¦ °ª¾ÆÁÙ ¶§°¡ µÈ °ÅÁÒ
+<SYNC Start=792538><P Class=KRCC>&nbsp;
+<SYNC Start=815746><P Class=KRCC>
+- ¿À, ±é½º ¿ä¿ø´ÔÀº ¾îµğ ÀÖ¾î?<br>
+- ÃÑ¾ÖÇÏ´Â ¿ä¿ø°ú MTAC¿¡ ÀÖÁö
+<SYNC Start=819545><P Class=KRCC>&nbsp;
+<SYNC Start=821714><P Class=KRCC>
+¹Ì¾ÈÇØ. ¹¹ ¸ÔÀ» ½Ã°£ÀÌ ¾ø¾î¼­
+<SYNC Start=823447><P Class=KRCC>&nbsp;
+<SYNC Start=823449><P Class=KRCC>
+µµ¿òÀÌ µÆ´Ù´Ï ´ÙÇàÀÌ³×
+<SYNC Start=825087><P Class=KRCC>&nbsp;
+<SYNC Start=825985><P Class=KRCC>
+À¯ÁËÆÇ°á ¹ŞÀº Æ÷ÁÖ ¿¡µğ<br>
+·ÎÀÚ¸®¿À¿¡ ´ëÇØ Áö¸í¼ö¹è¸¦ ³»¸®°í ½ÍÀºµ¥¿ä
+<SYNC Start=830489><P Class=KRCC>
+±æ°Å¸® ÀÌ¸§Àº Ä®¶óº»ÀÌ°í¿ä
+<SYNC Start=833094><P Class=KRCC>&nbsp;
+<SYNC Start=836264><P Class=KRCC>
+¾î.. Àú±â, ¾î¶»°Ô ÇØ¾ß?
+<SYNC Start=838566><P Class=KRCC>&nbsp;
+<SYNC Start=838568><P Class=KRCC>
+¾î¶»°Ô ÇÏ¸é ¿©±â..?
+<SYNC Start=840631><P Class=KRCC>&nbsp;
+<SYNC Start=840633><P Class=KRCC>
+ÃÊÀÎÁ¾°°Àº °Ô ÀÖ³ª?
+<SYNC Start=844439><P Class=KRCC>&nbsp;
+<SYNC Start=844441><P Class=KRCC>
+Àá½Ã¸¸¿ä, È¤½Ã...?
+<SYNC Start=846670><P Class=KRCC>&nbsp;
+<SYNC Start=846672><P Class=KRCC>
+Àú±â, Á¦°¡ Åõ¸íÀÎ°£ÀÎ °Íµµ ¾Æ´ÏÀİ¾Æ¿ä!
+<SYNC Start=848743><P Class=KRCC>&nbsp;
+<SYNC Start=848745><P Class=KRCC>
+ÁÁ¾Æ¿ä, Àú´Â Åõ¸íÀÎ°£ÀÌ ¾Æ´Ï¶ó°í¿ä!
+<SYNC Start=850312><P Class=KRCC>&nbsp;
+<SYNC Start=850314><P Class=KRCC>
+¹«½¼ ÀÏÀÌ¾ß, ÆÈ¸Ó?
+<SYNC Start=852146><P Class=KRCC>
+Ä«¸Ş¶ó°¡ ÀÖ±¸³ª / ¹«½¼ ÀÏÀÌ¾ß, ÆÈ¸Ó?
+<SYNC Start=855416><P Class=KRCC>
+¸È·¯µå ¹Ú»ç´ÔÀÌ ¼Ò½ÄÀÌ ÀÖ´ë¿ä, Å« °ÇÀ¸·Î¿ä!
+<SYNC Start=857646><P Class=KRCC>&nbsp;
+<SYNC Start=868792><P Class=KRCC>
+¸Æ±â°¡ Æ÷ÁÖ¿¡°Ô Áö¸í¼ö¹è¸¦ ³»·È¾î¿ä
+<SYNC Start=870698><P Class=KRCC>
+ÆÈ¸Ó°¡ ¹® ¾Õ¿¡ ÀÖ¾ú°í¿ä<br>
+´õÅ° ¹Ú»ç´ÔÀÌ ¹º°¡ Ã£¾Ò´ë¿ä
+<SYNC Start=873800><P Class=KRCC>&nbsp;
+<SYNC Start=873802><P Class=KRCC>
+È­¸é¿¡ ¶ç¿ö. ¹«½¼ ÀÏÀÌ¾ß, ´ö
+<SYNC Start=877472><P Class=KRCC>&nbsp;
+<SYNC Start=877474><P Class=KRCC>
+¿À, ¿øÇÏ¸é ÀÌ Â¥Áõ³ª´Â °É ¶ç¿ï ¼ö ÀÖ´Ù´Â °É ÀØ°í ÀÖ¾ú±º
+<SYNC Start=882348><P Class=KRCC>
+ÆÈ¸Ó ¸»·Î´Â ¹º°¡ Ã£¾Ò´Ù¸é¼­?
+<SYNC Start=883716><P Class=KRCC>
+°Ë»ç Áß¿¡ ¿©¼ºÀÇ µĞºÎ¿¡¼­ ÀÛÀº ¹®½ÅÀ» Ã£¾Ò³×
+<SYNC Start=889624><P Class=KRCC>
+¸¶Ä¡ ¾ø¾Ö·Á ÇÑ °Í °°Àº ÈçÀûÀÌ ÀÖ¾î¼­ Á» ÀÌ»óÇÏ°Ô »ı°¢ÇßÁö¸¸
+<SYNC Start=895463><P Class=KRCC>
+±×·¡¼­ Á¦°¡ Ã£¾ÆºÃ¾î¿ä. ·Ñ¸®Å¸ÀÇ Æ÷ÁÖ´Â<br>
+ÀÚ½ÅÀÇ ¿©ÀÚ¿¡°Ô´Â ÀÌ·± ³«ÀÎÀ» Âï´õ±º¿ä
+<SYNC Start=901473><P Class=KRCC>
+±×·¡¼­ ÀÌ ¹®½ÅÀ» ÃßÀûÇØ º¸´Ï...
+<SYNC Start=902969><P Class=KRCC>
+Åä´Ï¿¡°Ô ±é½º ¿ä¿ø´Ô²² ÇÒ ¸»ÀÌ ÀÖ´Ù°í ÀüÇß¾î¿ä
+<SYNC Start=904809><P Class=KRCC>
+±é½º ¿ä¿ø´ÔÀÌ Á÷Á¢ ÇÑ ¸»Àº ¾Æ´ÏÁö¸¸¿ä
+<SYNC Start=907344><P Class=KRCC>
+"¹¹ Ã£¾ÒÁö, ´ö?" ÇÏ°í ³ª¸é Á¦°¡ ¹ŞÀº °Ç...
+<SYNC Start=910414><P Class=KRCC>
+È­³­ ½Ã¼± »ÓÀÌÁÒ
+<SYNC Start=912614><P Class=KRCC>
+¾È³ç, ÆÈ¸Ó
+<SYNC Start=914516><P Class=KRCC>&nbsp;
+<SYNC Start=915446><P Class=KRCC>
+È­³­ ½Ã¼±
+<SYNC Start=918253><P Class=KRCC>
+Æ÷ÁÖ°¡ ¿©ÀÚµé¿¡°Ô ³«ÀÎÀ» Âï´Âµ¥<br>
+¹®½Å ±×¸²À» °¡Áö°í ÀÌ·± °É ½Ã¼úÇØ ÁÖ´Â
+<SYNC Start=921886><P Class=KRCC>
+À¥»çÀÌÆ®¸¦ Ã£¾Ò¾î¿ä
+<SYNC Start=925026><P Class=KRCC>
+Àß Çß¾î, ºñ¼ó / ¾îÂ¼¸é Ä®¶óº»ÀÌ<br>
+¾îµğ¼­ Áö³»´ÂÁö ´Ü¼­¸¦ Ã£À» ¼ö ÀÖ°Ú³×¿ä
+<SYNC Start=928801><P Class=KRCC>
+ÁÁ¾Æ, ¸Æ±â¶û °°ÀÌ °¡ º¸µµ·Ï ÇØ
+<SYNC Start=931735><P Class=KRCC>&nbsp;
+<SYNC Start=933633><P Class=KRCC>
+ÁÁ¾Æ, ¸Æ±â. ¿À´Â µ¿¾È ¸» ÇÑ¸¶µğµµ<br>
+¾É°í ÀÖ¾ú´Âµ¥ ÀÌ¾ß±â³ª µé¾î º¸ÀÚ°í
+<SYNC Start=938473><P Class=KRCC>
+±×·¯´Ï±î 2³â µ¿¾ÈÀÎ °ÅÁÒ? / ¾È µè°í ½Í¾îÁ³¾î
+<SYNC Start=940743><P Class=KRCC>
+ÀÌ ÀÛÀüÀ» Áö³­ 2³â °£ ÇØ ¿À¸é¼­ ¾Æ¹« ¸»µµ ÇÏÁö ¾Ê¾Ò±º¿ä
+<SYNC Start=944378><P Class=KRCC>
+±×°Ô ÀÌ°Ç, ¹¹¶ó°í ÇÏÁö...<br>
+±â¹Ğ ÀÛÀüÀÌ¾úÀ¸´Ï±î
+<SYNC Start=947775><P Class=KRCC>
+¿À, Á¦°¡ ±â¹Ğ ÀÛÀü ÀÚ·á¸¦ °¡Á®¿Í¼­<br>
+°øÀ¯ÇÑ ÀûÀÌ ¾ó¸¶³ª µÅ¿ä?
+<SYNC Start=951304><P Class=KRCC>&nbsp;
+<SYNC Start=951306><P Class=KRCC>
+47¹ø / ±×·¡¿ä. ±×°Ô...
+<SYNC Start=953609><P Class=KRCC>
+±×°Å ¾Ë¾Æ¿ä? ±× Á¤µµ µÉ °Å¿¡¿ä
+<SYNC Start=954841><P Class=KRCC>
+±×·¡µµ ±×°Ô ³» ÁÖÀåÀÇ ¿äÁ¡ÀÌ¿¡¿ä
+<SYNC Start=955912><P Class=KRCC>
+±×·¸´Ù ÇÔÀº? / ´õ ÀÌ»ó ½Å¿ëÇÒ ¼ö°¡ ¾ø´Ù´Â °ÅÁÒ
+<SYNC Start=958079><P Class=KRCC>
+±é½º°¡ ³ª´Â ³¢¿öÁÖ°í ³Ê´Â ¾È ³¢¿öÁØ µ¥ ºĞ³ëÇÏ´Â °ÅÀİ¾Æ
+<SYNC Start=962048><P Class=KRCC>
+±×·± °Å ¾Æ´Ï¿¡¿ä<br>
+ÀÌÀ¯°¡ ÀÖÀ» °Å¿¡¿ä
+<SYNC Start=967087><P Class=KRCC>
+¾Æ¸¶µµ Àß¸øµÈ °ÍÀÌ°ÚÁö¸¸¿ä
+<SYNC Start=970654><P Class=KRCC>&nbsp;
+<SYNC Start=972961><P Class=KRCC>
+¹®½Å ÀÛ¾÷Àå¿¡ µé¾î¿Ô´Ù´Â Ã¹ ½ÅÈ£±º
+<SYNC Start=975662><P Class=KRCC>
+°í¾çÀÌ ¿ÀÁÜ ³¿»õ°¡ ³ª´Â °Å¿ä?<br>±×·¡
+<SYNC Start=979162><P Class=KRCC>&nbsp;
+<SYNC Start=979932><P Class=KRCC>
+Àá½Ã¸¸¿ä! ÇÇ ³ª´Â »ç¶÷ÀÌ ÀÖ¾î¼­¿ä!
+<SYNC Start=981963><P Class=KRCC>
+±â´Ù¸±°Ô¿ä
+<SYNC Start=983395><P Class=KRCC>
+°£¿°µµ Áñ±æ ¼ö ÀÖÀ¸·Á¸é ÁÁÀ¸·Ã¸¸
+<SYNC Start=984835><P Class=KRCC>
+±×¸®°í, ÀÌ ÀÌ¾ß±â ³¡³­ °Å ¾Æ´Ï¿¡¿ä
+<SYNC Start=986131><P Class=KRCC>
+³²Àº ÀÌ¾ß±â´Â ¹ºµ¥?
+<SYNC Start=988571><P Class=KRCC>
+³»°¡ ¸ÕÀú µé¾î¿Ô°í, ÀÌÁ¦ ³Êµµ µé¾î¿ÔÀİ¾Æ
+<SYNC Start=991613><P Class=KRCC>
+¶Ç ´Ù¸¥ ºñ¹Ğ ÀÛÀüÀ» ÇÏ°í ÀÖÀ»Áö ¾î¶»°Ô ¾Ë¾Æ?
+<SYNC Start=994080><P Class=KRCC>
+¶Ç ´Ù¸¥ ºñ¹Ğ ÀÛÀüÀ» ÇÏ°í ÀÖÀ»Áö ¾î¶»°Ô ¾Ë¾Æ¿ä?
+<SYNC Start=997181><P Class=KRCC>&nbsp;
+<SYNC Start=998351><P Class=KRCC>
+´Ù¸¥ ºñ¹Ğ ÀÛÀü ÇÏ°í ÀÖ¾î?
+<SYNC Start=1000884><P Class=KRCC>&nbsp;
+<SYNC Start=1001789><P Class=KRCC>
+¸Æ±â! / ½Å°æ¾²ÀÌÁö ¾Ê³ª¿ä?
+<SYNC Start=1004021><P Class=KRCC>
+ÁÁ¾Æ, ÀÇ¹Ì°¡ ÀÖÀ»´ÂÁö´Â ¸ğ¸£°ÚÁö¸¸<br>
+³×°Ô °ÅÁş¸» ÇØ¼­ ±âºĞÀÌ ³ª»¦¾î
+<SYNC Start=1009491><P Class=KRCC>
+Áñ°å´ø °Í °°Àºµ¥¿ä / ¾à°£Àº
+<SYNC Start=1011827><P Class=KRCC>
+ÀüÃ¼ÀûÀ¸·Î´Â ±âºĞÀÌ ³ª»¦¾î
+<SYNC Start=1013564><P Class=KRCC>
+»ç°ú¸¦ ¹Ş¾ÆµéÀÌÁÒ
+<SYNC Start=1015794><P Class=KRCC>&nbsp;
+<SYNC Start=1018203><P Class=KRCC>
+µÎ ºĞ... µû·Î ½Ã°£À» º¸³»°Ô ÇØ µå¸±±î¿ä?
+<SYNC Start=1021431><P Class=KRCC>&nbsp;
+<SYNC Start=1024734><P Class=KRCC>
+¿¡µå¿öµå ·ÎÀÚ¸®¿À?
+<SYNC Start=1026371><P Class=KRCC>&nbsp;
+<SYNC Start=1026373><P Class=KRCC>
+¾Æ¹«µµ ³ª¸¦ ¿¡µå¿öµå¶ó°í ºÎ¸£Áö ¾Ê¾Æ<br>
+Ä®¶óº»ÀÌ¶ó°í
+<SYNC Start=1031970><P Class=KRCC>&nbsp;
+<SYNC Start=1031972><P Class=KRCC>
+¿ì¸®´Â "¾Æ¹«³ª"°¡ ¾Æ´Ï´Ï±î
+<SYNC Start=1034736><P Class=KRCC>&nbsp;
+<SYNC Start=1037472><P Class=KRCC>
+µåµğ¾î Â÷¿¡¼­ ³»·Á¼­ ´ÙÇàÀÌ³×¿ä¤¤<br>
+µÎ »ç¶÷ ³ë·¡ ÃëÇâÀº ÃÖ¾ÇÀÌ¾ú¾î¿ä
+<SYNC Start=1043412><P Class=KRCC>&nbsp;
+<SYNC Start=1045414><P Class=KRCC>
+Æ÷ÁÖ¸¦ Ã£¾Ò±º¿ä
+<SYNC Start=1047485><P Class=KRCC>
+¹ã¿¡´Â Æ÷ÁÖ. ³·¿¡´Â ¹®½Å ¿¹¼ú°¡
+<SYNC Start=1050053><P Class=KRCC>
+Áö°©Àº¿ä? / Æ®··Å©¿¡¼­ Ã£¾Ò¾î
+<SYNC Start=1052620><P Class=KRCC>
+ºÀÀç¼±¿¡ DNA Æ©ºê°¡ ÀÖ¾î<br>
+¾Öºñ¿¡°Ô °¡Á®´ÙÁà¾ßÁö
+<SYNC Start=1056886><P Class=KRCC>
+º¸½º¿¡°Ô ¸»ÇØ µÑ°Ô¿ä / ¾Ë°Ú¾î
+<SYNC Start=1059821><P Class=KRCC>
+»óÈ² º¸°í ¹Ù¶ø´Ï´Ù
+<SYNC Start=1060989><P Class=KRCC>
+Àåº´µéÀº ¹èÄ¡µÇ¾î ´ë±âÇÏ°í ÀÖ½À´Ï´Ù
+<SYNC Start=1063556><P Class=KRCC>
+°³½Ã ¸í·É¸¸ ±â´Ù¸®°í ÀÖ½À´Ï´Ù<br>
+¿©±â´Â Á» ±äÀåµÇ³×¿ä
+<SYNC Start=1065554><P Class=KRCC>
+¿ì¸® ¸ğµÎ ±×·¸½À´Ï´Ù, ÇÚÄÚ½º »ç·É°ü
+<SYNC Start=1067393><P Class=KRCC>
+¿À·¡ ±â´Ù¸®Áö ¾Ê¾Æµµ µÇ°Ú¾î¿ä<br>
+Åä´Ï¿Í ¸Æ±â°¡ Æ÷ÁÖ¸¦ Ã£¾Ò¾î¿ä
+<SYNC Start=1070465><P Class=KRCC>
+¸ñÇ¥¹°ÀÇ DNAÀ» Ã£¾Ò³ª?
+<SYNC Start=1071898><P Class=KRCC>
+Áö±İ ¹Ù·Î Åä´Ï°¡ ¾Öºñ¿¡°Ô »ùÇÃÀ» °¡Á®´ÙÁÖ°í ÀÖ¾î¿ä
+<SYNC Start=1074403><P Class=KRCC>
+¿Ã¶õµµ°¡ ¹üÀÎÀÎ Áö È®ÀÎÇÏ´Â µ¥ ¿À·¡ °É¸®Áö´Â ¾ÊÀ» °Ì´Ï´Ù
+<SYNC Start=1077467><P Class=KRCC>
+ÆÀ À§Ä¡´Â ¾ó¸¶³ª ¾ÈÀüÇÑ°¡¿ä?
+<SYNC Start=1079371><P Class=KRCC>
+Äİ·Òºñ¾Æ°¡ ³×ÀÌºñ ¾ÁÀÌ ÀÖ±â¿¡<br>
+°¡Àå ¾ÈÀüÇÑ °÷Àº ¾Æ´Õ´Ï´Ù¸¸, ÇØ³¾ °Ì´Ï´Ù
+<SYNC Start=1083779><P Class=KRCC>&nbsp;
+<SYNC Start=1083781><P Class=KRCC>
+¾Ë°Ú½À´Ï´Ù Æ÷ÁÖ´Â ¾îµğ ÀÖÁö?
+<SYNC Start=1086845><P Class=KRCC>
+¸Æ±â ¼±¹è°¡ ÃëÁ¶½Ç¿¡ µ¥·Á´Ù ³ù¾î¿ä
+<SYNC Start=1088211><P Class=KRCC>
+- ¿Ã¶õµµ¿Í ÀÏÇÑ´Ù°í »ı°¢ÇÏ´Â °Ç°¡¿ä?<br>
+- °¡¼­ ¾Ë¾ÆºÁ¾ßÁÒ
+<SYNC Start=1091713><P Class=KRCC>
+¸¸¾à ±×·¸´Ù¸é Çù»óµµ Çü·® °¨Çüµµ ¾ø¾î¾ß ÇÕ´Ï´Ù<br>
+ÁË°ªÀ» Ä¡¸£°Ô ÇØ Áà¾ßÁÒ
+<SYNC Start=1096151><P Class=KRCC>
+»ç¶÷µéÀÌ ¸ŞÆ®·ÎÆú¸®Åº °ø°İÀ» ÀØ¾úÀ» Áö ¸ğ¸£Áö¸¸<br>
+Àú´Â ¾Æ´Õ´Ï´Ù
+<SYNC Start=1100020><P Class=KRCC>&nbsp;
+<SYNC Start=1103222><P Class=KRCC>
+ÇÚÄÚ½º »ç·É°ü´ÔÀÌ ÀØÁö ¾Ê´Â´Ù°í¿ä?
+<SYNC Start=1106557><P Class=KRCC>
+±× ¶§¶ó¸é ¾ÆÁ÷ ¾î¸°¾ÆÀÌ¼ÌÀ» ÅÙµ¥¿ä
+<SYNC Start=1109330><P Class=KRCC>
+±×·¨Áö. »ç·É°üÀÌ ÀØÁö ¾ÊÀº °Ç<br>
+±× »ç°ÇÀ¸·Î ¾Æ¹öÁö ¾øÀÌ ÀÚ¶ú´Ù´Â °Å¾ß
+<SYNC Start=1115031><P Class=KRCC>&nbsp;
+<SYNC Start=1116832><P Class=KRCC>
+»ç·É°üÀÌ ÀÛÀüÀ» ÁöÈÖÇÒ È®·üÀÌ ¾ó¸¶³ª µÉ±î¿ä?
+<SYNC Start=1119670><P Class=KRCC>
+°¡´ÉÇÒ ¸¸Å­ ³ôÁö. ÀÌ ÀÛÀü ÁöÈÖ¿¡ ÀÚ¿øÇß¾î
+<SYNC Start=1124032><P Class=KRCC>&nbsp;
+<SYNC Start=1124034><P Class=KRCC>
+ÁË°ªÀ» Ä¡¸¦ ¶§°¡ µÇ¸é »ç·É°üÀÌ<br>
+¼öÇ¥¿¡ ¼­¸íÇÏ°í ½Í¾î ÇßÀ¸´Ï±î
+<SYNC Start=1127632><P Class=KRCC>
+³ªµµ ±×°¡ ¾î¶² ±âºĞÀÏ Áö ¾Ë°í
+<SYNC Start=1131534><P Class=KRCC>&nbsp;
+<SYNC Start=1143478><P Class=KRCC>
+¾É¾Æ
+<SYNC Start=1146412><P Class=KRCC>&nbsp;
+<SYNC Start=1147942><P Class=KRCC>
+¾ÉÁö ¾Ê°Ú´Ù¸é ³»°¡ ¾ÉÇô ÁÖÁö
+<SYNC Start=1150380><P Class=KRCC>&nbsp;
+<SYNC Start=1151646><P Class=KRCC>
+±×·±´Ù°í ¹«¼­¿öÇÒ °Í °°¾Æ
+<SYNC Start=1152853><P Class=KRCC>
+¼ÕÀÌ¶óµµ ´ë¸é...
+<SYNC Start=1158324><P Class=KRCC>
+°è¼Ó ÇØ ºÁ
+<SYNC Start=1160153><P Class=KRCC>&nbsp;
+<SYNC Start=1160155><P Class=KRCC>
+±â´Ù¸®Áö, ¸»À» ³¡±îÁö ÇØ ºÁ
+<SYNC Start=1162821><P Class=KRCC>&nbsp;
+<SYNC Start=1164359><P Class=KRCC>
+ÁÁ¾Æ
+<SYNC Start=1167092><P Class=KRCC>&nbsp;
+<SYNC Start=1167094><P Class=KRCC>
+¾É¾ÆÁÙ ¼ö¾ß ÀÖÁö. ±×·¸°Ô ¾ûµ¢ÀÌ¿¡ ÁıÂøÇÑ´Ù¸é¾ß
+<SYNC Start=1171195><P Class=KRCC>&nbsp;
+<SYNC Start=1174862><P Class=KRCC>
+- Åä¸¶½º ¿Ã¶õµµ¿Í ÀÏÇÑÁö´Â ¾ó¸¶³ª µÆÁö?<br>- ´©±¸?
+<SYNC Start=1178898><P Class=KRCC>&nbsp;
+<SYNC Start=1182707><P Class=KRCC>
+ÀÌ°É º¸¸é »ı°¢ÀÌ Á» ³ª³ª?
+<SYNC Start=1184674><P Class=KRCC>&nbsp;
+<SYNC Start=1184676><P Class=KRCC>
+¾Æ´Ï
+<SYNC Start=1186107><P Class=KRCC>&nbsp;
+<SYNC Start=1186109><P Class=KRCC>
+±×³à¸¦ Á×ÀÌ°í ¼ÒÁöÇ°À» µé°í °¬Àİ¾Æ
+<SYNC Start=1188644><P Class=KRCC>&nbsp;
+<SYNC Start=1188646><P Class=KRCC>
+¹º ¾àÀ» ÇÏ´ÂÁö´Â ¸ğ¸£°ÚÁö¸¸ ÀüÇô ¸ğ¸£°Ú´Âµ¥
+<SYNC Start=1191486><P Class=KRCC>&nbsp;
+<SYNC Start=1191488><P Class=KRCC>
+Áö°©¿¡ ÀÖ´ø DNA »ùÇÃÀ» °¡Á®°¬Àİ¾Æ. ¿ÖÁö?
+<SYNC Start=1198854><P Class=KRCC>&nbsp;
+<SYNC Start=1198856><P Class=KRCC>
+DNA, ÀÌ·±! DNA!<br>
+DNA¿¡ ´ëÇÑ °Ç ÀüÇô ¸ô¶ó
+<SYNC Start=1202463><P Class=KRCC>
+³»°¡ DNA °¡ ¹ºÁö ¾Ë »ç¶÷À¸·Î º¸¿©?
+<SYNC Start=1204367><P Class=KRCC>
+°¡¼®¹æ ¾ø´Â ¼ö°¨ÀÚ·Î º¸ÀÌ´Âµ¥
+<SYNC Start=1208129><P Class=KRCC>&nbsp;
+<SYNC Start=1209427><P Class=KRCC>
+³× Å¸ÀÌ¾î ÀÚ±¹À» ¹üÁË ÇöÀå¿¡¼­ ¹ß°ßÇß¾î
+<SYNC Start=1211665><P Class=KRCC>
+ÇÇÇØÀÚ¿¡°Ô¼­ ÇÇ¹¯Àº Áö¹®µµ ¹ß°ßÇß°í
+<SYNC Start=1214232><P Class=KRCC>
+ÁÁ¾Æ¿ä, Àá±ñ¸¸
+<SYNC Start=1215966><P Class=KRCC>&nbsp;
+<SYNC Start=1215968><P Class=KRCC>
+DNA! ¸»ÇØ ºÁ
+<SYNC Start=1217334><P Class=KRCC>&nbsp;
+<SYNC Start=1217336><P Class=KRCC>
+ÀÌºÁ¿ä, ¾Æ±î ¸»ÇßÀİ¾Æ¿ä<br>
+´ëÃ¼ ¹«½¼ ¸»ÀÎÁö...
+<SYNC Start=1220637><P Class=KRCC>&nbsp;
+<SYNC Start=1220639><P Class=KRCC>
+- ´©°¡ »ùÇÃÀ» °¡Á®¿Í´Ş¶ó°í ÇßÁö?<br>
+- ´ëÃ¼ ¹«½¼ ¸»ÀÎÁö ÀüÇô ¸ğ¸£°Ú¾î¿ä!
+<SYNC Start=1225740><P Class=KRCC>&nbsp;
+<SYNC Start=1230810><P Class=KRCC>
+ÁÁ¾Æ¿ä. ³­...
+<SYNC Start=1232480><P Class=KRCC>
+³­ ³·¿¡´Â ¹®½Å °¡°Ô¸¦ ÇØ¿ä<br>
+¹ã¿¡´Â ±×°Ô...
+<SYNC Start=1237075><P Class=KRCC>&nbsp;
+<SYNC Start=1237077><P Class=KRCC>
+¼Ò±Ô¸ğ·Î ÇÁ¸®·£½º ¿¡½ºÄÚÆ® ¼­ºñ½º¸¦ ÇÏÁÒ
+<SYNC Start=1239813><P Class=KRCC>
+Æ÷ÁÖÀİ¾Æ / ÁÁ¾Æ¿ä. Çö½ÇÀûÀ¸·Î ¸»ÇÏÀÚ¸é¿ä
+<SYNC Start=1242413><P Class=KRCC>
+¾îÂ·µç.. ·Ñ¸®Å¸´Â ³» ¿©ÀÚ Áß ÇÏ³ª¿´¾î¿ä
+<SYNC Start=1245758><P Class=KRCC>
+±×·¯´Ù Áö³­ ÁÖ¿¡ ÀÌÁ¦ ³ª°¡°Ú´Ù´Â °Å¿¡¿ä!
+<SYNC Start=1247693><P Class=KRCC>
+¸»µµ ¾È µÇ´Â ¼Ò¸®ÁÒ<br>
+Ä®¶óº» ¹Ø¿¡¼­ ±×¸¸µÑ ¼ö´Â ¾ø¾î¿ä
+<SYNC Start=1252554><P Class=KRCC>&nbsp;
+<SYNC Start=1252556><P Class=KRCC>
+±×·±µ¥ Áö³­ ¹ã¿¡ ±×³à°¡ Á¦ ±¸¿ª¿¡¼­<br>
+ÀÏÇÏ´Â °É ºÃ¾î¿ä
+<SYNC Start=1254531><P Class=KRCC>
+ÀÏÇÏ´Â ¿©ÀÚµé¿¡°Ô ¸Ş½ÃÁö¸¦ ÀüÇØ¾ß Çß¾î¿ä
+<SYNC Start=1258295><P Class=KRCC>
+±×·¡¼­ Á×¿´´Ù°í? / ¸í¼ºÀÌ ¾ø´Ù¸é<br>
+³²ÀÚ´Â ¾Æ¹« °Íµµ ¾Æ´Ï°Åµç¿ä
+<SYNC Start=1264998><P Class=KRCC>
+DNA´Â ¿Ö °¡Á®°¬Áö?
+<SYNC Start=1266668><P Class=KRCC>
+DNA¿ä? DNA´Â ¹º ¼Ò¸°Áö ÀüÇô ¸ğ¸£°Ú¾î¿ä!<br>
+¾Æ±îµµ ¸»ÇßÀİ¾Æ¿ä!
+<SYNC Start=1270738><P Class=KRCC>
+Áö°©Àº °¡Á®°¬Áö¸¸ ±×°Ô ´Ù¿¡¿ä!
+<SYNC Start=1272170><P Class=KRCC>
+±× ³¯ ±×³à°¡ ¹ø °Ç ³»°¡ °¡Á®¾ß ÇÏ´Ï±î¿ä!
+<SYNC Start=1275241><P Class=KRCC>
+ºĞ¹è´Â È®½ÇÇÏ°Ô ÇØ¾ß ÇÏ´Ï±î¿ä
+<SYNC Start=1278743><P Class=KRCC>
+¸»ÀÌ ÅëÇÒ °Í °°Àºµ¥ ¸»ÀÌÁÒ
+<SYNC Start=1281236><P Class=KRCC>&nbsp;
+<SYNC Start=1282374><P Class=KRCC>
+±ÔÄ¢ 22¹ø À§¹èÇØ¼­ ÁË¼ÛÇÏÁö¸¸<br>
+¿Ã·Ğµµ DNA¸¦ µ¹·È´Âµ¥ °á°ú°¡...
+<SYNC Start=1288608><P Class=KRCC>
+<font color=yellow>¿ì¸®°¡ Ã£´Â »ç¶÷ÀÌ¿¹¿ä!</font>
+<SYNC Start=1293384><P Class=KRCC>
+ÁØºñ ÅÂ¼¼ÀÎ°¡¿ä, »ç·É°ü?<br>
+°ğ ÁØºñµÉ °Ì´Ï´Ù
+<SYNC Start=1296951><P Class=KRCC>&nbsp;
+<SYNC Start=1300257><P Class=KRCC>
+¾îµğ ÀÖÁÒ? ¾Æ¹«µµ ¾È º¸ÀÌ´Âµ¥¿ä
+<SYNC Start=1302857><P Class=KRCC>
+¹èÄ¡µÇ¾î ÀÖ½À´Ï´Ù / ÇöÁöÀÎµé ¼Ò¹®Àº ¾î¶²°¡¿ä?
+<SYNC Start=1305730><P Class=KRCC>
+¾ø¾î
+<SYNC Start=1308362><P Class=KRCC>
+½À°İ ½ÃÀÛÇÑ´Ù. ½À°İÀ» ½ÃÀÛÇÑ´Ù
+<SYNC Start=1311936><P Class=KRCC>
+¾Ë°Ú´Ù. ÁøÀÔÇÏ°Ú´Ù
+<SYNC Start=1313568><P Class=KRCC>&nbsp;
+<SYNC Start=1313570><P Class=KRCC>
+Çï¸ä Ä«¸Ş¶ó·Î ¹Ù²ß´Ï´Ù
+<SYNC Start=1315402><P Class=KRCC>&nbsp;
+<SYNC Start=1318875><P Class=KRCC>
+ÈÄ¹®À¸·Î µé¾î°©´Ï´Ù
+<SYNC Start=1321175><P Class=KRCC>&nbsp;
+<SYNC Start=1323975><P Class=KRCC>
+ÀÌ»ó ¾øÀ½
+<SYNC Start=1326046><P Class=KRCC>&nbsp;
+<SYNC Start=1326912><P Class=KRCC>
+Èğ¾îÁ®, °è¼Ó »ìÆìºÁ
+<SYNC Start=1328415><P Class=KRCC>&nbsp;
+<SYNC Start=1330953><P Class=KRCC>
+ÀÌ»ó ¾øÀ½
+<SYNC Start=1332351><P Class=KRCC>&nbsp;
+<SYNC Start=1340865><P Class=KRCC>
+ÀÌ»ó ¾øÀ½
+<SYNC Start=1342398><P Class=KRCC>&nbsp;
+<SYNC Start=1344998><P Class=KRCC>
+»ç·É°ü´Ô, ¸ñÇ¥¹°ÀÌ ¾ø½À´Ï´Ù
+<SYNC Start=1348095><P Class=KRCC>&nbsp;
+<SYNC Start=1348159><P Class=KRCC>
+°Ç¹°Àº ºñ¾î ÀÌ½À´Ï´Ù
+<SYNC Start=1351060><P Class=KRCC>&nbsp;
+<SYNC Start=1366186><P Class=KRCC>
+Á¤º¸´Â Á¤È®ÇÑ °Å¿´½À´Ï´Ù
+<SYNC Start=1368954><P Class=KRCC>
+¿Ã¶õµµ°¡ 21½Ã¿¡ °íÀ§ °£ºÎ¿Í ÀÌ °Ç¹°¿¡¼­<br>
+¸ğÀÓÀ» °¡Áú °Å¶ó´Â °Å¿´ÁÒ
+<SYNC Start=1374520><P Class=KRCC>&nbsp;
+<SYNC Start=1374522><P Class=KRCC>
+¾Æ¹«·¡µµ Ãë¼ÒµÈ °Í °°±º¿ä
+<SYNC Start=1375759><P Class=KRCC>&nbsp;
+<SYNC Start=1375761><P Class=KRCC>
+¾î¶°¸é ½À°İ¿¡ ´ëÇØ ¾Ë¾ÒÀ» ¼öµµ ÀÖ½À´Ï´Ù
+<SYNC Start=1378158><P Class=KRCC>&nbsp;
+<SYNC Start=1378160><P Class=KRCC>
+Äİ·Òºñ¾Æ Á¤ºÎ¿¡ ÀÛÀüÀ» Åëº¸Çß½À´Ï±î?
+<SYNC Start=1381192><P Class=KRCC>&nbsp;
+<SYNC Start=1381194><P Class=KRCC>
+ºÎÀûÀıÇÑ ¸»ÀÔ´Ï´Ù¸¸, Á¤½ÅÀÌ ÀÖ´Ù¸é ±×·¨°Ú½À´Ï±î?
+<SYNC Start=1383867><P Class=KRCC>
+ÇÚÄÚ½º »ç·É°üÀÌ ¿¬°áÀ» ±â´Ù¸®°í ÀÖ½À´Ï´Ù
+<SYNC Start=1387237><P Class=KRCC>
+¿¬°áÇØ
+<SYNC Start=1388245><P Class=KRCC>
+¹ú½á ´ã´ç ¹İ´ëÂÊ¿¡¼­ ÀüÈ­°¡ °É·Á¿Í¼­´Â
+<SYNC Start=1391541><P Class=KRCC>
+¹Ì±¹ÀÌ Äİ·Òºñ¾Æ ¿µÅä¿¡¼­ ÀÛÀüÀ»<br>
+¼öÇà ÁßÀÎÁö ¹°¾îº¸°í ÀÖ½À´Ï´Ù
+<SYNC Start=1394647><P Class=KRCC>
+»ç·É°ü, »óÈ²Àº ¾î¶²°¡?
+<SYNC Start=1396584><P Class=KRCC>
+µ¨Å¸ Äõµå¶õµå À§Ä¡¸¦ °í¼öÇÏ°í ÀÖ½À´Ï´Ù
+<SYNC Start=1399591><P Class=KRCC>&nbsp;
+<SYNC Start=1399593><P Class=KRCC>
+ÇöÁö¹ÎÀÌ °ø°İÀ» ½ÃÀÛÇØ¼­<br>
+¿Ã¶õµµÀÇ °Ç¹°¿¡¼­ ³ª¿Í¾ß Çß½À´Ï´Ù
+<SYNC Start=1403426><P Class=KRCC>
+±×·¸´Ù¸é ÀÛÀüÀ» Ãë¼ÒÇÒ °ÍÀ» ÃßÃµÇÏ´Â °Ç°¡¿ä?
+<SYNC Start=1405865><P Class=KRCC>
+¾Æ´Õ´Ï´Ù. ±× Àå¼Ò´Â ±ŞÇÏ°Ô ºñ¿öÁ³¾î¿ä
+<SYNC Start=1407897><P Class=KRCC>
+¹Ù·Î ±ÙÃ³¿¡ ÀÖ´Â °Ì´Ï´Ù
+<SYNC Start=1409463><P Class=KRCC>&nbsp;
+<SYNC Start=1409465><P Class=KRCC>
+°Ç¹°¿¡¼­ ¾µ¸¸ÇÑ Á¤º¸´Â Ã£¾Ò³ª?
+<SYNC Start=1411800><P Class=KRCC>
+¹İÂë ºÎ¼­Áø ³ëÆ®ºÏÀ» Ã£¾Ò´Âµ¥<br>
+ÇÏµå µğ½ºÅ©´Â ºÙ¾î ÀÖ½À´Ï´Ù
+<SYNC Start=1415837><P Class=KRCC>
+- ¸ñÇ¥¸¦ ÃßÀûÇÒ ¸¸ÇÑ ´Ü¼­´Â ÀÖ³ª¿ä?<br>
+- ¸ğ¸¨´Ï´Ù. ¾ÏÈ£È­µÇ¾î ÀÖ¾î¼­¿ä
+<SYNC Start=1419739><P Class=KRCC>
+ÀúÈñ ±â¼úÀÚ°¡ Á¢±ÙÇÏ·Á ÇÏ°í ÀÖ½À´Ï´Ù
+<SYNC Start=1421442><P Class=KRCC>
+- »ç·É°ü´Ô, ¾Öºñ ½´Åä¿Í Á¦°¡ ´õ ¿îÀÌ ÀÖÀ»Áöµµ ¸ğ¸¨´Ï´Ù<br>
+- ½ÃµµÇØº¼ ¼ö ´Â ÀÖÁö¸¸ DC·Î ³ëÆ®ºÏÀ» º¸³»´Â µ¥´Â
+<SYNC Start=1426912><P Class=KRCC>
+12½Ã°£ÀÌ °É¸± ÅÙµ¥ ±×¸¸ÇÑ ½Ã°£Àº ¾ø½À´Ï´Ù
+<SYNC Start=1431383><P Class=KRCC>
+ÀúÈñ ÂÊ »ç¶÷ÀÌ ¸¸³ª·¯ °¡¸é µË´Ï´Ù
+<SYNC Start=1432750><P Class=KRCC>
+¹«½¼ ¸»¾¸ÀÌ½ÃÁÒ?
+<SYNC Start=1434348><P Class=KRCC>
+- »ç·É°üÀÇ Ç×¸ğ´Â °ÉÇÁ ¸¸¿¡ ÀÖ¾î<br>
+- ¾Öºñ¿¡°Ô ¸»ÇÏ·¯ °¡°Ú½À´Ï´Ù
+<SYNC Start=1439413><P Class=KRCC>&nbsp;
+<SYNC Start=1439415><P Class=KRCC>
+±× µ¿¾È Äİ·Òºñ¾Æ ¿µ»ç¿¡´Â ¹¹¶ó°í ¸»ÇÏÁÒ?
+<SYNC Start=1441949><P Class=KRCC>
+¿Ü±³°üÀÌ½Ã´Ï / ¿Ü±³ÀûÀÎ ¼ö»ç¸¦ ½á º¸¼¼¿ä
+<SYNC Start=1445618><P Class=KRCC>&nbsp;
+<SYNC Start=1453521><P Class=KRCC>
+Å¸ÀÌ¹ÖÀÌ ÁÁ³×
+<SYNC Start=1454721><P Class=KRCC>
+³»°¡ ¸ÕÀú ¸»ÇÒ°Ô
+<SYNC Start=1455889><P Class=KRCC>
+¾Öºñ ¸ÕÀú, ¸»ÇØ ºÁ
+<SYNC Start=1457024><P Class=KRCC>
+¿Ã¶õµµÀÇ ÃÖ±Ù DNA »ùÇÃ¿¡¼­<br>
+µÎ ¹øÂ° ÀÏÄ¡ÀÚ¸¦ Ã£¾Ò¾î¿ä
+<SYNC Start=1460727><P Class=KRCC>
+Ä£Á· °£ ÀÏÄ¡¿ä
+<SYNC Start=1462526><P Class=KRCC>
+´©±¸? / º¼Æ¼¸ğ¾î ¿Ü°¢¿¡ ÀÖ´Â<br>
+Á¶Ä«°¡ ÀÖ¾î
+<SYNC Start=1465426><P Class=KRCC>&nbsp;
+<SYNC Start=1465428><P Class=KRCC>
+¾îÂ¼¸é »ïÃÌ°ú ¿¬¶ôÇÏ´ÂÁöµµ ¸ğ¸£°Ú³×
+<SYNC Start=1467427><P Class=KRCC>
+¿Ã¶õµµ°¡ ¾îµğ ÀÖ´ÂÁö ¾Ë Áöµµ ¸ô¶ó
+<SYNC Start=1468627><P Class=KRCC>
+¾Û½º, Àß Çß¾î. ÀÌÁ¦ ÁüÀ» ½Îµµ·Ï ÇØ
+<SYNC Start=1470697><P Class=KRCC>
+¾îµô °¡´Âµ¥¿ä?
+<SYNC Start=1471799><P Class=KRCC>&nbsp;
+<SYNC Start=1471801><P Class=KRCC>
+¾Öºñ°¡ ¿Ã¶õµµÀÇ Ä£Ã´À» Ã£¾Ò´Ù´Âµ¥
+<SYNC Start=1473894><P Class=KRCC>&nbsp;
+<SYNC Start=1473896><P Class=KRCC>
+ÀÌ¹Ì µé¾ú¾î¿ä. Ä£Ã´ÀÇ ÀÌ¸§Àº<br>
+¼öÀÜ³ª ¼ÒÅä ¹Ú»ç¿¹¿ä
+<SYNC Start=1476599><P Class=KRCC>
+·ÎÁîµ¥ÀÏ¿¡¼­ °¡Á· Å×¶óÇÇ Ä¡·á¸¦ ÇÏ°í ÀÖÁÒ
+<SYNC Start=1478839><P Class=KRCC>
+- ¿©±â¿¡ ¾ó¸¶³ª ÀÖ¾úÁö?<br>
+- ¹Ì±¹¿¡¼­ ÅÂ¾î³µ¾î¿ä
+<SYNC Start=1482007><P Class=KRCC>
+DNA °ü°è·Î´Â ±×³àÀÇ ¾Æ¹öÁö¿Í<br>
+¿Ã¶õµµ´Â ÇüÁ¦ °ü°è¿´¾î¿ä
+<SYNC Start=1484743><P Class=KRCC>
+°ü°è¿´´Ù°í? / ¿¹. ±×³àÀÇ ¾Æ¹öÁö´Â<br>
+±×³à°¡ 7¼¼ ¶§ »ìÇØ´çÇß¾î¿ä
+<SYNC Start=1487374><P Class=KRCC>
+¿Ü°¡¿¡¼­ ÀÚ¶úÁÒ
+<SYNC Start=1488748><P Class=KRCC>
+»ïÃÌÀ» ¾Ë°í³ª ÀÖ´ÂÁöµµ È®½ÇÇÒ ¼ö ¾ø¾î¿ä
+<SYNC Start=1490515><P Class=KRCC>
+- Äİ·Òºñ¾Æ¿ÍÀÌ Á¢ÃËÀº ÀÖ³ª?<br>
+- À¯¹«¼± ÀüÈ­·Î´Â ¾ø¾î¿ä
+<SYNC Start=1494178><P Class=KRCC>
+ÀÌ¸ŞÀÏÀº? / Àû¾îµµ ÁÖ °èÁ¤Àº¿ä<br>
+ÀúÈñ°¡ ¸ğ¸£´Â ´Ù¸¥ °èÁ¤ÀÌ ÀÖÀ» ¼öµµ ÀÖÁö¸¸¿ä
+<SYNC Start=1497449><P Class=KRCC>
+È®½ÇÈ÷ ÇÏ·Á¸é Á÷Á¢ ÄÄÇ»ÅÍ¿¡ Á¢±ÙÇØ¾ß ÇØ¿ä
+<SYNC Start=1499615><P Class=KRCC>
+¿µÀåÀº ¹Ş¾ÒÁö¸¸ ¸ô·Á°¡¸é<br>
+¿Ã¶õµµ°¡ ¹ÌÇàÇÏ°í ÀÖÀ»Áöµµ ¸ô¶ó¿ä
+<SYNC Start=1502317><P Class=KRCC>
+Á¶»ç°¡ ¹ß°¢µÉÁöµµ ¸ğ¸£ÁÒ
+<SYNC Start=1504555><P Class=KRCC>
+¾î¶»°Ô ÇÒ±î¿ä? ¿À·§µ¿¾È ½É¹®ÇÒ ¼öµµ ¾ø°í<br>
+Àß¸øµÈ Á¤º¸¸¦ ¹ŞÀ» ¿ì·Áµµ ÀÖ¾î¿ä
+<SYNC Start=1510985><P Class=KRCC>
+ÀÌ°É·Î Á¢±ÙÇÏ¸é µÇ°Ú±º
+<SYNC Start=1512958><P Class=KRCC>&nbsp;
+<SYNC Start=1517290><P Class=KRCC>
+¿À, ºÎ¸ğ ¿ªÇÒÀ» ÇÏ°Ú±º
+<SYNC Start=1519654><P Class=KRCC>&nbsp;
+<SYNC Start=1521821><P Class=KRCC>
+º¸½º, Àß µé¸®¼¼¿ä? / ¼±¸íÇÏ³×
+<SYNC Start=1525154><P Class=KRCC>
+ÁÁ¾Æ¿ä. ±×·¡¼­, °èÈ¹ÀÌ ¹¹Áö ºñ¼ó?
+<SYNC Start=1527625><P Class=KRCC>
+µé¾î°¡¼­ ¾ÉÀº µÚ¿¡ È­Àå½Ç¿¡ °£´Ù°í ÇÏ°í
+<SYNC Start=1531852><P Class=KRCC>
+¼ÒÅä ¹Ú»çÀÇ PC¿¡ Á¢±ÙÇØ<br>
+¿©±â¿¡ ÇÏµå ³»¿ëÀ» º¹»çÇÏ´Â °ÅÁÒ
+<SYNC Start=1535452><P Class=KRCC>&nbsp;
+<SYNC Start=1535454><P Class=KRCC>
+¿Ïº®ÇØ
+<SYNC Start=1537385><P Class=KRCC>
+¾Æ³» ¸ÕÀú / °í¸¶¿ö, ÀÚ±â
+<SYNC Start=1540881><P Class=KRCC>&nbsp;
+<SYNC Start=1547717><P Class=KRCC>
+µé¾î¿À¼¼¿ä. ¿©±â µÚÂÊ¿¡ ÀÖ¾î¿ä
+<SYNC Start=1551615><P Class=KRCC>&nbsp;
+<SYNC Start=1557685><P Class=KRCC>
+¾î¼­ µé¾î¿À¼¼¿ä
+<SYNC Start=1560987><P Class=KRCC>&nbsp;
+<SYNC Start=1562325><P Class=KRCC>
+¾È³çÇÏ¼¼¿ä
+<SYNC Start=1564323><P Class=KRCC>&nbsp;
+<SYNC Start=1565661><P Class=KRCC>
+¿©±â°¡ ºÎ¸ğ ¼ö¾÷ÀÌ¶ó°í Çß´ø°¡?
+<SYNC Start=1568523><P Class=KRCC>
+ÁË¼ÛÇØ¿ä. À¥»çÀÌÆ®¿¡ Âø¿À°¡ ÀÖ¾î¼­¿ä
+<SYNC Start=1571667><P Class=KRCC>
+¿À´Ã ¹ãÀº Ä¿ÇÃ Ä£¹Ğ°¨ ¼ö¾÷ÀÌ¿¹¿ä
+<SYNC Start=1573865><P Class=KRCC>&nbsp;
+<SYNC Start=1575602><P Class=KRCC>
+ÀÌ°Å Èï¹Ì·Ó°Ú±º
+<SYNC Start=1577535><P Class=KRCC>&nbsp;
+<SYNC Start=1577537><P Class=KRCC>
+°ÅÁş¸» Çß¾î, ±×°Ô...<br>
+¼ÖÁ÷È÷ ¸»ÇÏ´Â °Ô ¹«¼­¿ö¼­
+<SYNC Start=1581272><P Class=KRCC>
+±×°Ô... ¼ÖÁ÷È÷ ¸»ÇÏ¸é °°ÀÌ ¾È ¿Ã °Í °°¾Æ¼­
+<SYNC Start=1584940><P Class=KRCC>&nbsp;
+<SYNC Start=1584942><P Class=KRCC>
+¾Ë°Ú¾î¿ä. ÇÏÁö¸¸ ¾Ë¾ÆµÎ¼Å¾ß ÇÒ °Ç<br>
+Ä£¹Ğ°¨ÀÇ Ã¹°ÉÀ½Àº ½Å·Ú¶ó´Â °Ì´Ï´Ù
+<SYNC Start=1591905><P Class=KRCC>&nbsp;
+<SYNC Start=1595344><P Class=KRCC>
+ÀÏ´Ü ¾ÉÀ¸¼¼¿ä
+<SYNC Start=1596845><P Class=KRCC>&nbsp;
+<SYNC Start=1596847><P Class=KRCC>
+¾Ë°Ú¾î¿ä. ÀÌ ¸ÚÁø ±ò°³ÀÇ ÃË°¨À» ¾Ë¾Æº¼±î
+<SYNC Start=1599512><P Class=KRCC>
+Æí¾ÈÇÏ³×
+<SYNC Start=1600878><P Class=KRCC>&nbsp;
+<SYNC Start=1603687><P Class=KRCC>
+- ¿Ö µÎ ºĞ ´Ù ¾ÉÁö ¾ÊÀ¸½Ã³ª¿ä<br>
+- Àú±â, È­Àå½Ç Á» °¥±î ÇØ¼­¿ä
+<SYNC Start=1607453><P Class=KRCC>&nbsp;
+<SYNC Start=1607455><P Class=KRCC>
+ÀÌ¹Ì ¿ÔÀ¸´Ï, ¿©±â °°ÀÌ ÀÖÀ¸¼¼¿ä
+<SYNC Start=1610853><P Class=KRCC>
+ÇÏÁö¸¸ / ¾ÉÀ¸¼¼¿ä<br>
+ºÎÅ¹ÇÒ°Ô
+<SYNC Start=1613829><P Class=KRCC>&nbsp;
+<SYNC Start=1614832><P Class=KRCC>
+ÁÁ¾Æ¿ä
+<SYNC Start=1617999><P Class=KRCC>&nbsp;
+<SYNC Start=1619201><P Class=KRCC>
+ÀÌÁ¦, ¼ÕÀ» ÀâÀ¸¼¼¿ä / ¿¹?
+<SYNC Start=1621799><P Class=KRCC>
+ÀÌ·±. Á¤¸»·Î ÃÖ±Ù¿¡ °¨±â°¡ ³ª¾Æ¼­...
+<SYNC Start=1624606><P Class=KRCC>
+- ¼Õ, ÀâÀ¸¼¼¿ä<br>
+- ¹ßÀ» Àâ´Â °Íº¸´Ù¾ß ³´Áö
+<SYNC Start=1630843><P Class=KRCC>
+ÀÌÁ¦ ¼­·ÎÀÇ ´«À» ¹Ù¶óº¸¼¼¿ä
+<SYNC Start=1632840><P Class=KRCC>&nbsp;
+<SYNC Start=1634272><P Class=KRCC>
+ÀÌ·±. ´õ º¸°í ÀÖÀ» ¼ö°¡ ¾ø±º
+<SYNC Start=1637604><P Class=KRCC>&nbsp;
+<SYNC Start=1642516><P Class=KRCC>
+- ÁÁ¾Æ¿ä. ±× ´ÙÀ½¿¡´Â¿ä?<br>
+- ¾Æ´¢, °è¼Ó ¹Ù¶óº¸°í °è¼¼¿ä
+<SYNC Start=1645913><P Class=KRCC>&nbsp;
+<SYNC Start=1648617><P Class=KRCC>
+ÀÌÁ¦´Â¿ä? / °è¼Ó ¹Ù¶óº¸¼¼¿ä
+<SYNC Start=1652551><P Class=KRCC>&nbsp;
+<SYNC Start=1655994><P Class=KRCC>
+»êÀç º¸»ó ¼­·ù°¡ ¿Ã¶ó¿À°Ú±º
+<SYNC Start=1659057><P Class=KRCC>&nbsp;
+<SYNC Start=1676694><P Class=KRCC>
+Å×ÀÏÈÄÅ© Âø·úÀº ÀÎ»ı¿¡¼­ °¡Àå<br>
+¸ÚÁø ÀÏÀÌ¶ó°í »ı°¢ÇØ
+<SYNC Start=1680895><P Class=KRCC>
+ÆÒ´Ù ²¸¾È±â´Â ÀÌ°É·Î ³¡ÀÌ³×
+<SYNC Start=1682894><P Class=KRCC>&nbsp;
+<SYNC Start=1682896><P Class=KRCC>
+¸Æ±â ¿ä¿ø, ½´Åä ¾ç<br>
+¿Í ÁÖ¼Å¼­ °¨»çÇÕ´Ï´Ù
+<SYNC Start=1685335><P Class=KRCC>
+- µû¶ó¿À¼¼¿ä. ½Ã°£ÀÌ ÃË¹ÚÇÕ´Ï´Ù<br>
+- ¿Ã·£µµ ³ëÆ®ºÏ ÂÊÀº ÁøÃ´ÀÌ ÀÖ³ª¿ä?
+<SYNC Start=1689503><P Class=KRCC>
+±¸µå ÇÏ»ç°¡ ¼³¸íÇØ ÁÙ °Ì´Ï´Ù
+<SYNC Start=1692308><P Class=KRCC>&nbsp;
+<SYNC Start=1695941><P Class=KRCC>
+¾È³çÇÏ¼¼¿ä. Àú´Â.. / ¸Æ±â ¿ä¿ø´ÔÀÌ½ÃÁÒ
+<SYNC Start=1699581><P Class=KRCC>
+¿À½Ã´À¶ó ½Ã°£¸¸ ³¶ºñÇÏ½Å °Ì´Ï´Ù<br>
+ÀÌ¹Ì ³ëÆ®ºÏ Á¢±Ù¿¡´Â ¼º°øÇßÀ¸´Ï
+<SYNC Start=1703414><P Class=KRCC>
+´Ù½Ã º»ºÎ·Î µ¹¾Æ°¡½Ã´Â...
+<SYNC Start=1708289><P Class=KRCC>
+¾Öºñ ½´Åä±º¿ä
+<SYNC Start=1711763><P Class=KRCC>
+±×ÂÊÀº... ±¸µå ÇÏ»ç±º¿ä
+<SYNC Start=1715204><P Class=KRCC>
+Á¦ ·ë¸ŞÀÌÆ® ÇüÁ¦ÀÇ ÀıÄ£°ú µ¥ÀÌÆ®ÇÏ¼ÌÁÒ<br>
+¾Æ¸¶ 11³â Àü¿¡¿ä
+<SYNC Start=1720799><P Class=KRCC>&nbsp;
+<SYNC Start=1721705><P Class=KRCC>
+- ¿Í. ±â¾ï·ÂÀÌ Á¤¸» ÁÁÀ¸½Ã³×¿ä<br>
+- ±â¾ï¿¡ ³²À» ¸¸ÇÑ ºĞÀÌ½Ã´Ï±î¿ä
+<SYNC Start=1725944><P Class=KRCC>
+À½.. ±×·¡¼­ ³ëÆ®ºÏ¿¡ Á¢±ÙÇÏ¼Ì´Ù°í¿ä
+<SYNC Start=1729679><P Class=KRCC>
+¿¹ / ±×·¡¼­...?
+<SYNC Start=1732550><P Class=KRCC>
+ÀÌ¹Ì ¾Ë°í ÀÖ¾ú´ø ¿Ã·£µµÀÇ<br>
+¸¸³²¿¡ ´ëÇÑ ±¸Ã¼ÀûÀÎ Á¤º¸¸¦ Ã£¾Ò½À´Ï´Ù
+<SYNC Start=1736613><P Class=KRCC>
+±×°Ô ´Ù¿¹¿ä / ÀúÈñ°¡ Á÷Á¢ »ìÆìºÁµµ µÉ±î¿ä?
+<SYNC Start=1740715><P Class=KRCC>
+¾Æ´Ï, Àá½Ã¸¸¿ä. 11³â ÀüÀÌ¶ó°í Çß³ª¿ä?
+<SYNC Start=1743858><P Class=KRCC>
+¾Æ´Ï / ¿¹
+<SYNC Start=1745122><P Class=KRCC>
+Á¦ ·ë¸ŞÀÌÆ® ÇüÁ¦ÀÇ ÀıÄ£ÀÌ<br>
+Ä¿ÇÇ¼ó "Buzzed"¿¡¼­ ¹Ù¸®½ºÅ¸·Î ÀÏÇßÀ» ¶§¿´ÁÒ
+<SYNC Start=1749856><P Class=KRCC>
+"Buzzed"¶ó. ¿ì¸®µµ Àß ¾Æ´Â °÷ÀÌ³×
+<SYNC Start=1753128><P Class=KRCC>
+°Å±â ÀÚÁÖ °¬¾úÀİ¾Æ, 11³â Àü¿¡
+<SYNC Start=1754758><P Class=KRCC>&nbsp;
+<SYNC Start=1757569><P Class=KRCC>
+- ±×·¡¼­ µÎ ºĞÀº...?<br>
+¾Æ´¢ / ¾Æ´¢
+<SYNC Start=1760802><P Class=KRCC>&nbsp;
+<SYNC Start=1761970><P Class=KRCC>
+±×°Ç ¹«½¼ ¶æÀÌ¾ß?
+<SYNC Start=1764178><P Class=KRCC>
+±×°Ô, ³Ê´Â ÇüÁ¦°°Àº Á¸Àç¿´°í..<br>
+³ªµµ ¾Ë¾Æ. ³ªµµ ³Ê¸¦ ÀÚ¸ÅÃ³·³ »ı°¢ÇßÁö¸¸
+<SYNC Start=1769012><P Class=KRCC>
+±×·¸°Ô Ç¥ÇöÇÏÁö´Â ¾Ê¾Ò¾î. Á¦¹ß
+<SYNC Start=1771052><P Class=KRCC>
+- ÀÌÁ¦ ¾î¶»°Ô µÈ ¿µ¹®ÀÌÁö ¾Ë°Ú³×¿ä<br>
+- ¹» ¾Ë°Ú´Ù´Â °Ç°¡?
+<SYNC Start=1775894><P Class=KRCC>
+¹Ù¸®½ºÅ¸ÇÑÅ× ¿©ÀÚ¸¦ »¯±ä °Å±º¿ä<br>
+¹Ù·Î ÄÚ ¾Õ¿¡¼­¿ä
+<SYNC Start=1780725><P Class=KRCC>&nbsp;
+<SYNC Start=1780727><P Class=KRCC>
+Àú±â, ±×³É ÀÏÀÌ³ª ÇÏ¸é ¾È µÉ±î¿ä?
+<SYNC Start=1784564><P Class=KRCC>
+±×°Ô... / ¾Öºñ, °ÆÁ¤ÇÏÁö ¸¶<br>
+ÀÌ¹Ì ¿¾³¯ ÀÏÀÎµ¥. ±¦Âú¾Æ
+<SYNC Start=1787867><P Class=KRCC>
+ÀÌºÁ¿ä. ¾Öºñ ½´Åä°¡ ÀÏÀ» ÇØ¾ß ÇÑ´Ù°í<br>
+ÇÏ´Ï ±×·¸°Ô ÇÏ´Â °Ô ¾î¶³±î¿ä?
+<SYNC Start=1794737><P Class=KRCC>
+ÁÁ¾Æ¿ä. ±×·± ÀÏÀ» ÀØ°í ½ÍÀ» ¶§´Â<br>
+ÀÏÇÏ´Â °Ô ÃÖ°í´Ï±î¿ä
+<SYNC Start=1799309><P Class=KRCC>
+¾Æ´Ï¸é ¼úÀ» ¸¶½Ã°Å³ª¿ä
+<SYNC Start=1800835><P Class=KRCC>&nbsp;
+<SYNC Start=1811284><P Class=KRCC>
+À§Àå ÀÛÀüÀº ¾î¶»°Ô µÆ³ª? / ³ëÄÚ¸àÆ®ÀÔ´Ï´Ù
+<SYNC Start=1815852><P Class=KRCC>
+»ş¿ö¶óµµ ÇØ¾ß°Ú¾î¿ä
+<SYNC Start=1817786><P Class=KRCC>&nbsp;
+<SYNC Start=1821860><P Class=KRCC>
+- ´©°¡ º¸½º¿¡°Ô ºê¸®ÇÎÇÏÁÒ?<br>
+- ³ª´Â ¾Æ´Ï¾ß. ½Ã°£À» Á» °¡Á®¾ß°Ú¾î
+<SYNC Start=1827196><P Class=KRCC>
+¹¹ ¶§¹®¿¡¿ä? / ³ªÇÑÅ× Ä£¹Ğ°¨ ¹®Á¦°¡ ÀÖ´ÂÁöµµ ¸ô¶ó
+<SYNC Start=1831972><P Class=KRCC>
+¿À´Ã ¹ãÀº ±×µé¿¡°Ô °í¸¶¿öÇØ¾ß°Ú³×¿ä
+<SYNC Start=1836306><P Class=KRCC>&nbsp;
+<SYNC Start=1839842><P Class=KRCC>
+- ¿Ã·£µµÀÇ ³ëÆ®ºÏ¿¡¼­ ¹º°¡ Ã£¾Ò³ª¿ä?<br>
+- ¸Æ±â ¿ä¿øÀÌ ÇÑ ½Ã°£Àº ´õ ÇÊ¿äÇÏ´ä´Ï´Ù
+<SYNC Start=1844614><P Class=KRCC>
+½Ã°£ÀÌ ºıºıÇØÁö°í ÀÖ¾î¿ä / Ä£Á·°ú<br>
+Á¢ÃËÇÑ ¿ä¿ø ÂÊÀº ¾î¶»°Ô µÆ³ª¿ä?
+<SYNC Start=1848919><P Class=KRCC>
+ºñ¼ó / µåµğ¾î È­Àå½Ç °¡´Â Çã¶ôÀ» ¹Ş¾Æ¼­..
+<SYNC Start=1852221><P Class=KRCC>&nbsp;
+<SYNC Start=1852223><P Class=KRCC>
+- ¿Ã¶õµµ¿Í ¿¬¶ôÀ» ÇÏ°í ÀÖ³ª?<br>
+- ¾Ë¾Æ³»´Â µ¥´Â ½Ã°£ÀÌ °É¸± °Å¿¹¿ä
+<SYNC Start=1855758><P Class=KRCC>
+º»ÀÎ¿¡°Ôµµ ¹®Á¦°¡ Á» ÀÖ¾î¼­¿ä<br>
+ÀüÀÚÀÚ·á¸¦ ½×¾ÆµÎ´Â ½À°üÀÌ ÀÖ³×¿ä
+<SYNC Start=1858925><P Class=KRCC>
+PC¿¡ Áö³­ 30³â°£ÀÇ ÀÚ·á°¡ ÀÖ¾î¿ä<br>
+ÀüºÎ µ¹¸®´Â µ¥ ¸î ÁÖ´Â °É¸± °Ì´Ï´Ù
+<SYNC Start=1862598><P Class=KRCC>
+±×¸¸ÇÑ ½Ã°£Àº ¾ø³×
+<SYNC Start=1863830><P Class=KRCC>
+¿Ã¶õµµ°¡ ³×ÀÌºñ SEALÀÌ ÀÚ±â<br>
+°Ç¹°¿¡ µé¾î°¬´Ù´Â °É °ğ ¾Ë°Ô µÉ °Ì´Ï´Ù
+<SYNC Start=1867166><P Class=KRCC>
+±×·¯¸é Àá¼ö¸¦ Å¸°í ´Ù½Ã´Â ¿Ã¶ó¿ÀÁö ¾Ê°ÚÁÒ
+<SYNC Start=1869670><P Class=KRCC>
+ÀÌ¹ø ±âÈ¸¿¡ ±×¸¦ Ã£Áö ¸øÇÏ¸é<br>
+¿µ¿øÈ÷ ³õÄ¡´Â °Ì´Ï´Ù
+<SYNC Start=1871902><P Class=KRCC>
+- ¿Ã¶õµµ¸¦ Ã£¾Ò½À´Ï´Ù<br>
+- ¾îµğ ÀÖ¾î?
+<SYNC Start=1875974><P Class=KRCC>
+½ºÄõµå ½Ç¿¡¿ä / ¾îµğ¶ó°í?<br>
+½ºÄõµå ½Ç¿¡ ÀÖ½À´Ï´Ù
+<SYNC Start=1882045><P Class=KRCC>&nbsp;
+<SYNC Start=1891761><P Class=KRCC>
+¾È³çÇÏ½Ã¿À<br>
+³»°¡ Åä¸¶½º ¿Ã¶õµµÀÔ´Ï´Ù
+<SYNC Start=1899630><P Class=KRCC>
+¹ÌÇÕÁß±¹¿¡ ¸Á¸íÀ» ½ÅÃ»ÇÏ°í ½Í½À´Ï´Ù
+<SYNC Start=1904099><P Class=KRCC>&nbsp;
+<SYNC Start=1923999><P Class=KRCC>
+±ÔÁ¤¿¡ µû¶ó ±¹¹«ºÎ¿¡ ¾Ë·È½À´Ï´Ù<br>
+±¹¹«ºÎ¿¡¼­´Â ±×´ë·Î ÀÎ¿ëÇÏÀÚ¸é
+<SYNC Start=1929809><P Class=KRCC>
+"´ëÃ¼ ¾î¶»°Ô ±¹°æÀ» ³Ñ¾ú´ÂÁö"<br>
+¾Ë°í ½Í¾îÇÏ´õ±º¿ä
+<SYNC Start=1931513><P Class=KRCC>
+Àü¹® ¸¶¾à ¹Ğ¼ö²ÛÀÌ´Ï±î<br>
+±¹°æ¼±¿¡¼­ ÁÙ ¼­°í ÀÖÁö´Â ¾Ê¾Ò°ÚÁö
+<SYNC Start=1934650><P Class=KRCC>
+¹«½¼ ¼Ó¼ÀÀÏ±î¿ä? / ¼Ó¼ÀÀÌ ¹¹°Ç°£¿¡<br>
+°­´ÜÀÌ ÀÖ´Ù´Â °Ç ÀÎÁ¤ÇØ¾ß°Ú¾î
+<SYNC Start=1941816><P Class=KRCC>
+ÀÌÁ¦ ¾î¶»°Ô ÇÏÁÒ? / ¿ì¸®¿¡°Ô ¿ÔÀ¸´Ï<br>
+ÀÌÀ¯¸¦ µé¾î ºÁ¾ßÁö
+<SYNC Start=1947527><P Class=KRCC>&nbsp;
+<SYNC Start=1963604><P Class=KRCC>
+- ±¹¹«ºÎ¿Í ÀÌ¾ß±â¸¦ ÇØ ºÃ´Ù°í »ı°¢ÇØµµ µÇ°Ú½À´Ï±î?<br>
+- ±×·¸°Ô ±â´ëÇÏÁö ¾Ê´Â °Ô ÁÁ¾Æ¿ä
+<SYNC Start=1970215><P Class=KRCC>
+¸Á¸íÀº ¿ø·¡ ±×·± »ç¶÷µé¿¡°Ô ÁÖ´Â °Ô..<br>
+±×°É ¹¹¶ó°í ÇÏÁÒ?
+<SYNC Start=1973784><P Class=KRCC>
+±×·¡¿ä, Å×·¯¸®½ºÆ®
+<SYNC Start=1977121><P Class=KRCC>
+- ³ª´Â ÀÚÀ¯¸¦ À§ÇÑ ÅõÀï°¡ÀÔ´Ï´Ù<br>
+- ´ç½ÅÀº »ìÀÎÀÚ°í ¸¶¾à °Å·¡»óÀÔ´Ï´Ù
+<SYNC Start=1982057><P Class=KRCC>
+¹Ì±¹ÀÌ Àß¸øµÈ ÂÊ¿¡ ¹«±â¸¦ °ø±ŞÇÏÁö ¾ÊÀ¸¸é<br>
+³» ¸ñÇ¥¸¦ À§ÇØ ¸¶¾àÀ» ÆÈ ÇÊ¿äµµ ¾ø¾ú°ÚÁÒ
+<SYNC Start=1989429><P Class=KRCC>
+- ¿À ±×·¡¿ä? ¸ñÇ¥°¡ ÀÖ´Â °Ì´Ï±î?<br>
+- Á¤ÀÇÁÒ
+<SYNC Start=1992932><P Class=KRCC>
+ºÎÆĞÇÑ Á¤ºÎ¸¦ ´ë½ÅÇØ¼­¿ä
+<SYNC Start=1995868><P Class=KRCC>
+Á¤ºÎ¿¡ ¹İ´ëÇß±â ¶§¹®¿¡<br>
+³ª¸¦ ¸î ½Ê³â °£ °¨±İÇØ µĞ °Ì´Ï´Ù
+<SYNC Start=2000337><P Class=KRCC>
+- ±×·¯¸é ÀÌÁ¦´Â ¿©±â¼­ ¸î ½Ê³â°£ °¨±İµÇ°Ú±º¿ä<br>
+- ³ª´Â °øÇ× °ø°İ°ú °ü·ÃÀÌ ¾ø½À´Ï´Ù
+<SYNC Start=2007396><P Class=KRCC>
+ÀüÇô¿ä / ±×°Å Èï¹Ì·Ó³×¿ä<br>
+DNA´Â ´Ù¸£°Ô ¸»ÇÏ°í ÀÖ´Âµ¥¿ä
+<SYNC Start=2016124><P Class=KRCC>&nbsp;
+<SYNC Start=2016126><P Class=KRCC>
+´ç½Å³×µéÀÌ °®°í ÀÖ´Â DNA´Â ³» °ÍÀÌ ¾Æ´Õ´Ï´Ù!<br>
+ÇÔÁ¤¿¡ ºüÁø °Å¶ó°í¿ä
+<SYNC Start=2024598><P Class=KRCC>&nbsp;
+<SYNC Start=2025897><P Class=KRCC>
+¸»ÇØ ºÁ¿ä
+<SYNC Start=2028000><P Class=KRCC>&nbsp;
+<SYNC Start=2028835><P Class=KRCC>
+¹Ì±¹ Á¤ºÎ¿¡¼­ ³» DNA »ùÇÃÀ» °¡Á®°¡°í<br>
+½Í¾îÇÑ´Ù´Â °É ¸î ´Ş ÀüºÎÅÍ ¾Ë°í ÀÖ¾ú½À´Ï´Ù
+<SYNC Start=2033878><P Class=KRCC>
+´Ù¸¸ ÀÌÀ¯¸¦ ¸ô¶úÁÒ. Àû¾îµµ ´ç½Å³×<br>
+Á¤º¸¿øÀÌ »ç»ìµÇ±â Àü±îÁö´Â¿ä
+<SYNC Start=2041317><P Class=KRCC>&nbsp;
+<SYNC Start=2042151><P Class=KRCC>
+±× ¿©ÀÚ... ¿©ÀÚÀÇ °¡Á·µéÀÌ º¸È£¸¦<br>
+¿äÃ»ÇÏ¸ç ³»°Ô Ã£¾Æ¿Ô½À´Ï´Ù
+<SYNC Start=2048590><P Class=KRCC>
+¸ğµç °É ¸»ÇØ ÁáÁÒ. ±× ¶§ ³»°¡<br>
+ÇÔÁ¤¿¡ ºüÁ³À½À» ±ú´Ş¾Ò½À´Ï´Ù
+<SYNC Start=2055428><P Class=KRCC>
+¸ŞÆ®·ÎÆú¸®Åº °øÇ× ÆøÅºÅ×·¯¿Í´Â ÀüÇô<br>
+°ü°è°¡ ¾ø¾î¿ä. ÀüÇô¿ä
+<SYNC Start=2060768><P Class=KRCC>&nbsp;
+<SYNC Start=2061801><P Class=KRCC>
+Èï¹Ì·Ó³×¿ä<br>
+±×°É Á÷Á¢ ¸»ÇÏ·Á°í ¿©±â±îÁö ¿Â °Ì´Ï±î?
+<SYNC Start=2067701><P Class=KRCC>&nbsp;
+<SYNC Start=2067703><P Class=KRCC>
+°¡Á·ÀÌ ÀÖ±â ¶§¹®¿¡ ¿©±â±îÁö ¿Â °Ì´Ï´Ù<br>
+´ç½Å³× Ä«¿ìº¸ÀÌµé ÀÏÇÏ´Â ¹æ½ÄÀº ÀÍÈ÷ ¾ËÁÒ
+<SYNC Start=2074014><P Class=KRCC>
+ÀÏ´Ü ½î°í Áú¹®Àº ±× ´ÙÀ½ÀÌÁö¿ä
+<SYNC Start=2081086><P Class=KRCC>
+³» ¾ÆÀÌµéÀº, ³»°¡ ¼¼¿î ¿Õ±¹º¸´Ù<br>
+ÈÎ¾À Áß¿äÇÕ´Ï´Ù
+<SYNC Start=2087988><P Class=KRCC>
+ÇĞ±³¿¡¼­ µ¹¾Æ¿À´Ù°¡ Å©·çÁî¹Ì»çÀÏ¿¡<br>
+¸Â´Â À§ÇèÀ» °¨¼öÇÏ°í ½ÍÁö´Â ¾Ê¾Ò½À´Ï´Ù
+<SYNC Start=2093561><P Class=KRCC>&nbsp;
+<SYNC Start=2094794><P Class=KRCC>
+³» ÀÚ½ÄµéÀÌ µå·ĞÀ» Ã£±â À§ÇØ ÇÏ´ÃÀ»<br>
+ÈÈ´Â ¹ı ´ë½Å ÀĞ´Â ¹ıÀ» ¹è¿üÀ¸¸é ÇÕ´Ï´Ù
+<SYNC Start=2101396><P Class=KRCC>&nbsp;
+<SYNC Start=2103301><P Class=KRCC>
+±×·¯´Ï..
+<SYNC Start=2105496><P Class=KRCC>&nbsp;
+<SYNC Start=2107727><P Class=KRCC>
+´ç½ÅµéÀÌ ÀÌ°å¾î¿ä
+<SYNC Start=2109660><P Class=KRCC>&nbsp;
+<SYNC Start=2111069><P Class=KRCC>
+- ÀÌ·± ½ÄÀ¸·Î ¸»ÀÌÁÒ<br>
+- ¾îÂ÷ÇÇ ÀÌÁ¦ ÀºÅğÇÏ·Á Çß¾î¿ä
+<SYNC Start=2117098><P Class=KRCC>
+´ç½ÅµéÀÌ ½À°İÇÏ·Á°í Çß´ø ¸ğÀÓ¿¡¼­ ¹ßÇ¥ÇÏ·Á°í Çß¾î¿ä
+<SYNC Start=2122042><P Class=KRCC>
+´ç½ÅÀÌ ³ª¸¦ ¹ÏÁö ¾Ê´Â °Íµµ º¸ÀÔ´Ï´Ù
+<SYNC Start=2124746><P Class=KRCC>
+ÁÁÀº Á¡Àº, ¹ÏÀ» ÇÊ¿ä°¡ ¾ø´Ù´Â °Ì´Ï´Ù
+<SYNC Start=2130077><P Class=KRCC>&nbsp;
+<SYNC Start=2131310><P Class=KRCC>
+Á÷Á¢ È®ÀÎÇØ ºÁ¿ä
+<SYNC Start=2133042><P Class=KRCC>&nbsp;
+<SYNC Start=2133916><P Class=KRCC>
+³ª´Â ±× ÆøÅºÀ» ¸¸µéÁö ¾Ê¾Ò½À´Ï´Ù
+<SYNC Start=2136080><P Class=KRCC>&nbsp;
+<SYNC Start=2137282><P Class=KRCC>
+´©±ºÁö´Â ¸ô¶óµµ ´ç½ÅÀÌ ¦i°í ÀÖ´Ù´Â °É<br>
+¾Ë¾ÆÃ¤°í´Â °®°í ³î°í ÀÖ´Â °Ì´Ï´Ù
+<SYNC Start=2145020><P Class=KRCC>&nbsp;
+<SYNC Start=2148788><P Class=KRCC>
+¸¶Ä¡ °¥´ëÃ³·³¿ä
+<SYNC Start=2151952><P Class=KRCC>&nbsp;
+<SYNC Start=2156757><P Class=KRCC>
+¼­¶ø¿¡¼­ ¾È³»¼­¸¦ Ã£¾Ò¾î¿ä<br>
+¾Öºñ°¡ ¸»ÇÑ ´ë·Î¿ä
+<SYNC Start=2161857><P Class=KRCC>
+¿©±â ¿Ã·£µµÀÇ DNA°¡ ÀÖÁö
+<SYNC Start=2163990><P Class=KRCC>&nbsp;
+<SYNC Start=2166023><P Class=KRCC>
+°øÇ× ÆøÅº¹ü°ú ÀÏÄ¡ÇÏ´ÂÁö ¸ÂÃç º¸ÀÚ°í
+<SYNC Start=2171966><P Class=KRCC>
+Ä³ÇÁ-ÆÄ¿ì°¡ ÇÊ¿äÇÑ °Å ¾Æ´Ñ°¡ ¸ğ¸£°Ú¾î¿ä<br>
+Àß ÇÏ½Ç ¼ö ÀÖ°Ú¾î¿ä?
+<SYNC Start=2174903><P Class=KRCC>
+¹°·ĞÀÌÁö
+<br>¾È³»¼­ Áà º¸°Ô, ÆÈ¸Ó ±º
+<SYNC Start=2178166><P Class=KRCC>&nbsp;
+<SYNC Start=2178168><P Class=KRCC>
+ÀÌ °ÇÀº Á¦°¡ ÁÖµµÀûÀ¸·Î ÇØ¾ß ÇÏÁö ¾ÊÀ»±î¿ä, ¹Ú»ç´Ô?
+<SYNC Start=2182943><P Class=KRCC>&nbsp;
+<SYNC Start=2182945><P Class=KRCC>
+ÁÖµµÀûÀ¸·Î? / ºÎ°Ë°ú´Â ´Ù¸£´Ï±î¿ä<br>
+·¦ ÈÆ·ÃÀº Á¦°¡ ´õ ´Ù¾çÇÏ°Ô Çß°í¿ä
+<SYNC Start=2188851><P Class=KRCC>
+- ¿À, ±×·±°¡<br>
+- ÀÌ·±, ½Î¿ìÁö ¸¶¼¼¿ä. ¿©·¯ºĞ
+<SYNC Start=2193722><P Class=KRCC>&nbsp;
+<SYNC Start=2193724><P Class=KRCC>
+¹ıÀÇÇĞ ¼ö¾÷À» ÃÖ°í ¼ºÀûÀ¸·Î Á¹¾÷Çß´Ù³×
+<SYNC Start=2197061><P Class=KRCC>
+- ¿¡µò¹ö·¯ ´ëÇĞ¿¡¼­ ¸»ÀÌÁö<br>
+- ¿¹. ÇÏÁö¸¸ ±×°Ç 192...
+<SYNC Start=2201934><P Class=KRCC>
+±×¸¸ ÇØ, Áüº¸ / ¸»ÀÌ ±×·¸´Ù´Â °Å¿¹¿ä
+<SYNC Start=2203838><P Class=KRCC>
+±×·¸´Ù¸é NCIS¿¡¼­ ¾ÕÀ¸·Î ºÎ°Ë½Ç<br>
+¹Ù´ÚÀÇ ³»ÀåÀ» °è¼Ó Ä¡¿ì°í ½Í´Ù´Â °Ç°¡?
+<SYNC Start=2212109><P Class=KRCC>
+±×°Ç Çù¹ÚÃ³·³ µé¸®´Âµ¥¿ä, ¹Ú»ç´Ô
+<SYNC Start=2214078><P Class=KRCC>
+±×·¸´Ù¸é ³» ¿µ¾î ½Ç·Âµµ ½Ã°£ÀÇ<br>
+Ç³ÆÄ¿¡µµ ¹«µ®ÁöÁö ¾ÊÀº ¸ğ¾çÀÌ±º
+<SYNC Start=2220994><P Class=KRCC>
+³» ÀĞ±â ´É·Âµµ ¸»ÀÌÁö
+<SYNC Start=2224160><P Class=KRCC>&nbsp;
+<SYNC Start=2226929><P Class=KRCC>
+³õ¾Æ Áà, ¿¤»ç
+<SYNC Start=2229599><P Class=KRCC>&nbsp;
+<SYNC Start=2234107><P Class=KRCC>
+ÇÏ½Ç ¸»¾¸ÀÌ ÀÖÀ¸½Ã´Ù°í¿ä, ¿µ»ç´Ô?<br>
+±×·¡¿ä. Äİ·Òºñ¾Æ Á¤ºÎ¿¡ ´øÁú º¯¸íµµ ´Ù ¶³¾îÁ³¾î¿ä
+<SYNC Start=2239045><P Class=KRCC>
+¹º°¡ ÀÖ´Ù´Â °É ´«Ä¡Ã«¾î¿ä
+<SYNC Start=2240678><P Class=KRCC>
+ÀÌÁ¦ ±×°Ç Áß¿äÄ¡ ¾Ê½À´Ï´Ù
+<SYNC Start=2242286><P Class=KRCC>
+NCIS°¡ ¸ñÇ¥¹°À» È®º¸Çß´Ù´Â ¼Ò½ÄÀ» µè°í<br>
+¿ä¿øµéÀº Å»Ãâ ÁöÁ¡À¸·Î Ã¶¼öÇÏ°í ÀÖ½À´Ï´Ù
+<SYNC Start=2246593><P Class=KRCC>
+È®º¸Çß´Ù°í¿ä? ¾ğÁ¦¿ä?
+<SYNC Start=2249424><P Class=KRCC>&nbsp;
+<SYNC Start=2249426><P Class=KRCC>
+ÄÁÆÛ·±½º ÁßÀÌ½Ç ¶§ ÀÚ¼öÇß½À´Ï´Ù<br>
+»óÈ²ÀÌ À¯µ¿ÀûÀÌ´Ï±î¿ä
+<SYNC Start=2252964><P Class=KRCC>
+- ÀÚ½ÅÀÌ ÇÔÁ¤¿¡ ºüÁ³´Ù°í ÁÖÀåÇß½À´Ï´Ù<br>
+- ÀÌÁ¦ ÁÖÀåÀÌ ¾Æ´Ï¿¹¿ä. Á¤¸» ÇÔÁ¤¿¡ ºüÁ³¾î¿ä
+<SYNC Start=2258076><P Class=KRCC>
+¿Ã·£µµ´Â ¹üÀÎÀÌ ¾Æ´Õ´Ï´Ù. DNA°¡<br>
+°øÇ× ÆøÅºÀÇ »ùÇÃ°ú ÀÏÄ¡ÇÏÁö ¾Ê½À´Ï´Ù
+<SYNC Start=2264914><P Class=KRCC>
+´©°¡ ´©¸íÀ» ¾º¿î °ÅÁÒ / È®½ÇÇÑ°¡¿ä?<br>
+ÇöÀç±îÁö´Â¿ä
+<SYNC Start=2268878><P Class=KRCC>
+±×·¯¸é ¾òÀº °Ô ¾ø±º¿ä<br>
+´Ù½Ã 40³â Àü ¿øÁ¡À¸·Î µ¹¾Æ°£ ¼ÀÀÌ³×¿ä
+<SYNC Start=2272580><P Class=KRCC>
+¾Æ´¢. ¼º°ú´Â ÀÖ½À´Ï´Ù. ¹üÀÎÀÌ<br>
+¾ÆÁ÷ »ì¾ÆÀÖ´Ù´Â °É ¾Ë¾ÒÁÒ
+<SYNC Start=2276052><P Class=KRCC>&nbsp;
+<SYNC Start=2276054><P Class=KRCC>
+12½Ã°£ Àü ¹üÀÎÀº ÀÚ½ÅÀÇ ¸Ó¸®¸¦ »Ì¾Æ<br>
+¿Ã¶õµµ¿¡°Ô ´©¸íÀ» ¾º¿ì·Á Çß½À´Ï´Ù
+<SYNC Start=2279789><P Class=KRCC>
+Äİ·Òºñ¾Æ Ãø¿¡¼­ ¿ì¸®°¡ ¼öÇàÇÑ<br>
+Ä§ÀÔÀ» ¾Ë°Ô µÈ´Ù¸é ±ºÀ» ÃÖ°í °æ°è ÅÂ¼¼·Î µ¹¸± °Ì´Ï´Ù
+<SYNC Start=2285129><P Class=KRCC>
+¸¸¾à ÆÀÀ» ´Ù½Ã ÅõÀÔÇØ¾ß ÇÑ´Ù¸é<br>
+»¡¸® °áÁ¤ÇØ¾ß ÇÕ´Ï´Ù
+<SYNC Start=2288468><P Class=KRCC>
+±×·¸´Ù¸é ¸Â´Â Àå¼Ò¿¡ ¿À½Å °Ì´Ï´Ù
+<SYNC Start=2290373><P Class=KRCC>
+¾Æ´Ï¸é.. Á¦°¡ ¸»ÀÌÁÒ
+<SYNC Start=2292373><P Class=KRCC>
+¾È³çÇÏ¼¼¿ä, ±é½º. ¹ê½º ±¹Àå´Ô<br>
+±×¸®°í ¹öÆ° Á¶ÀÛÇÏ½Ã´Â ¿©·¯ºĞ
+<SYNC Start=2296548><P Class=KRCC>
+- ¾Û½º, ¹» ¾Ë¾Æ³Â¾î?<br>
+- ±é½º, Å°°ª ·Î°Å¸¦ Ã£¾Ò¾î¿ä
+<SYNC Start=2299582><P Class=KRCC>
+¿Ã·£µµÀÇ ³ëÆ®ºÏ¿¡ ºÙ¾î ÀÖ´Â °É ¸Æ±â°¡ Ã£¾Ò¾î¿ä
+<SYNC Start=2302255><P Class=KRCC>
+´©±º°¡ Áö³­ ¸î ÁÖ°£ ±×¸¦ °¨½ÃÇÏ°í ÀÖ¾ú¾î¿ä
+<SYNC Start=2305120><P Class=KRCC>
+Àß Çß¾î, ÇÏÁö¸¸ ¿Ã·£µµ´Â ´õ ÀÌ»ó<br>
+¿ì¸® ÃßÀû ¸ñÇ¥°¡ ¾Æ´Ï¾ß
+<SYNC Start=2307391><P Class=KRCC>
+°¨Ã»±â ¹İ´ëÂÊ¿¡´Â ´©°¡ ÀÖÁö?
+<SYNC Start=2309630><P Class=KRCC>
+±¹¹«ºÎ IP ÁÖ¼Ò±îÁö ÃßÀûÇß¾î¿ä<br>
+¿¡µå¸ÕÁî ´ë»ç´Ô?
+<SYNC Start=2315595><P Class=KRCC>&nbsp;
+<SYNC Start=2316733><P Class=KRCC>
+¿Ã·£µµÀÇ ÄÄÇ»ÅÍ¿¡ ¸î ÁÖ ÀüºÎÅÍ<br>
+Á¢±ÙÇÏ¼ÌÀ¸¸é¼­ ÀúÈñ¿¡°Ô´Â ¸»¾¸ÇÏÁö ¾ÊÀ¸½Å °Ì´Ï±î?
+<SYNC Start=2321172><P Class=KRCC>
+¹¹¶ó°í ÇÏ¼ÌÁÒ? ¿¬°áÀÌ ²÷±â³×¿ä
+<SYNC Start=2323665><P Class=KRCC>&nbsp;
+<SYNC Start=2324908><P Class=KRCC>
+±¹¹«ºÎ ¿¬°áÇØ. ºñ»ó»óÈ²ÀÌ¶ó°í ¸»ÇÏ°í
+<SYNC Start=2327245><P Class=KRCC>
+ÃÖ´ëÇÑ »¡¸® ÀÌ¾ß±âÇØ¾ß ÇÑ´Ù°í ÀüÇØ
+<SYNC Start=2328477><P Class=KRCC>
+±¹¹«ºÎ º¸¾È±¹¿¡ ¿¬¶ôÇØ¼­ ¿¡µå¸ÕÁî<br>
+´ë»ç °ü·ÃÇÑ »óÈ²ÀÌ ¹ß»ıÇß´Ù°í ÀüÇØ
+<SYNC Start=2331279><P Class=KRCC>
+Çåº´ÀÌ ÁÖÂ÷Àå¿¡¼­ ±×³à¸¦ È®º¸Çß½À´Ï´Ù<br>
+±×¸®°í´Â ÀÚ¼öÇßÁÒ
+<SYNC Start=2334320><P Class=KRCC>
+- º¸½º¿Í ÀÌ¾ß±â¸¦ ³ª´©°í ½Í´Ù´Â±º¿ä<br>
+- ³ªµµ ±×·¸Áö
+<SYNC Start=2337857><P Class=KRCC>&nbsp;
+<SYNC Start=2346575><P Class=KRCC>
+- Çù»óÀ» ÇÏ°í ½Í½À´Ï´Ù<br>
+- ¹°·Ğ ±×·¸°ÚÁÒ
+<SYNC Start=2349577><P Class=KRCC>
+½Ã°£ º°·Î ¾ø½À´Ï´Ù. Àß ¾Æ½Ç ÅÙµ¥¿ä
+<SYNC Start=2351514><P Class=KRCC>
+- ´ëÃ¼ ¹«½¼ ÀÏÀÎÁö ¸»ÇØ º¸¼¼¿ä<br>
+- Çù»ó ¾øÀÌ´Â ¾È µË´Ï´Ù
+<SYNC Start=2355020><P Class=KRCC>
+Å×·¯¹üÀ» º¸È£ÇÏ°í °è½Å °Ì´Ï´Ù<br>
+¸»ÇÏ½Ã¸é, µµ¿ÍÁÙ ¹æ¹ıÀ» Ã£¾Æº¸ÁÒ
+<SYNC Start=2363330><P Class=KRCC>
+Çù»ó¾ÈÀ» Á¦½ÃÇÏÁö´Â ¾ÊÀ» Å×´Ï±î¿ä
+<SYNC Start=2365759><P Class=KRCC>&nbsp;
+<SYNC Start=2367465><P Class=KRCC>
+¿Ã·£µµÀÇ ³ëÆ®ºÏ¿¡ Á¢±ÙÇÒ ¹æ¹ıÀ» Áá½À´Ï´Ù<br>
+±×°¡ ÀÖ´Â Àå¼Ò¸¦ Á¦°øÇß°í¿ä
+<SYNC Start=2373031><P Class=KRCC>
+¿Ã·£µµ¿¡°Ô ´©¸í ¾º¿ì´Â °É µµ¿î °Ì´Ï´Ù<br>
+´©±¸ ¹Ø¿¡¼­ ÀÏÇÏ½Ã´Â °Ì´Ï±î?
+<SYNC Start=2377238><P Class=KRCC>
+´©±¸ ¹Ø¿¡¼­ ÀÏÇÏ´Â °Ç ¾Æ´Ï¿¹¿ä
+<SYNC Start=2381143><P Class=KRCC>
+Àû±ØÀûÀÎ Çù·ÂÀÚ°¡ ¾Æ´Õ´Ï´Ù<br>
+Çù¹ÚÀ» ¹ŞÀº °Å¶ó°í¿ä
+<SYNC Start=2386346><P Class=KRCC>
+´©±¸¿¡°Ô¿ä?
+<SYNC Start=2388385><P Class=KRCC>&nbsp;
+<SYNC Start=2390251><P Class=KRCC>
+35³â Àü, ±×´Â °ø»êÁÖÀÇ Çõ¸í ±×·ìÀ»<br>
+ÀÌ²ø´Ù ¼ö°¨µÇ¾úÁÒ
+<SYNC Start=2395262><P Class=KRCC>
+Ãâ¼ÒÇÏ°í ³ª¼­´Â ¸¶¾à °Å·¡¿¡ ¶Ù¾îµé¾úÁÒ
+<SYNC Start=2398165><P Class=KRCC>
+¸¸¾à ¿Ã·£µµ¿¡°Ô ´©¸íÀ» ¾º¿ì´Â °É µ½Áö<br>
+¾ÊÀ¸¸é ³» ÁÖÀ§ »ç¶÷À» ¸ğµÎ Á×ÀÌ°Ú´Ù°í Çß¾î¿ä
+<SYNC Start=2402163><P Class=KRCC>&nbsp;
+<SYNC Start=2402165><P Class=KRCC>
+¿Ö ±× ¶§ ÀúÈñ¿¡°Ô ¿ÀÁö ¾Ê¾Ò³ª¿ä?
+<SYNC Start=2404299><P Class=KRCC>&nbsp;
+<SYNC Start=2408740><P Class=KRCC>
+±× »ç¶÷ ¹Ø¿¡¼­ ÀÏÇÏ±â ¶§¹®ÀÌ±º¿ä
+<SYNC Start=2410737><P Class=KRCC>&nbsp;
+<SYNC Start=2410739><P Class=KRCC>
+¾Æ´¢ / ¹«½¼ ¾àÁ¡À» Àâ°í ÀÖ´Â °Ì´Ï±î?
+<SYNC Start=2415111><P Class=KRCC>&nbsp;
+<SYNC Start=2415912><P Class=KRCC>
+µ·À» ¹Ş¾Ò¾î¿ä. Äİ·Òºñ¾Æ¿¡ À¯¸®ÇÑ<br>
+¹Ì±¹ ¸¶¾à Á¤Ã¥À» Áö¿øÇØÁÖ´Â ´ë°¡·Î¿ä
+<SYNC Start=2420782><P Class=KRCC>
+µü ÇÑ ¹øÀÌ¿´ÁÒ. ±×°É·Î ³¡ÀÌ¾ú¾î¿ä
+<SYNC Start=2423643><P Class=KRCC>&nbsp;
+<SYNC Start=2425084><P Class=KRCC>
+ÇÏÁö¸¸...
+<SYNC Start=2427546><P Class=KRCC>
+±×°É·Î ´ç½ÅÀ» ºÎÇÏ»ï¾Ò±º¿ä / ±×·¡¿ä
+<SYNC Start=2431183><P Class=KRCC>&nbsp;
+<SYNC Start=2431185><P Class=KRCC>
+±× ÀÚ´Â ´ç½ÅÀÇ Á¶±¹À» °ø°İÇß½À´Ï´Ù<br>
+¾Ğ´Ï´Ù / ÀÌ¸§À» ¾Ë·ÁÁÖ½Ç °Ç°¡¿ä?
+<SYNC Start=2439793><P Class=KRCC>&nbsp;
+<SYNC Start=2449602><P Class=KRCC>
+°ø½Ä È®ÀÎÀº ³ª¿ÀÁö ¾Ê¾ÒÁö¸¸ ¹Ì ÇØ±ºÀÌ<br>
+¿À´Ã »õº® µå·Ğ ½À°İÀ¸·Î
+<SYNC Start=2456266><P Class=KRCC>
+Äİ·Òºñ¾Æ ¸¶¾à °Å¹° ¾Æ¸£¸¸µå ·ç³ªÀÇ<br>
+°Ç¹°À» °ø°İÇß´Ù°í ÇÕ´Ï´Ù
+<SYNC Start=2460091><P Class=KRCC>
+·ç¸Ó¿¡ µû¸£¸é ·ç³ª°¡ 1979³â ¸ŞÆ®·ÎÆú¸®Åº ±¹Á¦°øÇ×<br>
+ÆøÅº Å×·¯¿¡ ¿¬·ùµÇ¾ú´Ù´Â DNA Áõ°Å°¡ ÀÖ´Ù°í ÇÕ´Ï´Ù
+<SYNC Start=2467298><P Class=KRCC>
+ÀúÈñ¿¡°Ôµµ ¸»¾¸ÇØÁÖ½ÃÁö ¾ÊÀ» °Ç°¡¿ä?
+<SYNC Start=2469264><P Class=KRCC>&nbsp;
+<SYNC Start=2469266><P Class=KRCC>
+Àâ¾Ò³×
+<SYNC Start=2471295><P Class=KRCC>&nbsp;
+<SYNC Start=2475163><P Class=KRCC>
+¾îÂ¼¸é ¹Ù¸®½ºÅ¸¿Í ¸¸³ª´ø ¶§°¡ Á¶±İ °ãÃÆÀ»Áöµµ ¸ô¶ó
+<SYNC Start=2478603><P Class=KRCC>
+- ´ëÃ¼ ¾ó¸¶³ª °ãÃÆ´Ù´Â °Å¾ß?<br>
+- ¿¾³¯ ÀÏÀÌ¶ó°í ¸»ÇØ³õ°í¼­´Â
+<SYNC Start=2481676><P Class=KRCC>
+±×·¸Áö. ÇÏÁö¸¸ ³Ê¸¦ ¹ÏÀ» ¼ö ÀÖÀ»Áö´Â ¾Ë¾Æ¾ß°Ú¾î
+<SYNC Start=2484611><P Class=KRCC>
+³ª¸¦ ¸ø ¹Ï°Ú´Ù´Â ¸»Àº ÇÏÁöµµ ¸¶, ¸Æ±â
+<SYNC Start=2486477><P Class=KRCC>
+±¹Àå´Ô
+<SYNC Start=2488486><P Class=KRCC>
+±¹¹æºÎ¿¡ ºê¸®ÇÎÀ» ÇÏ·¯ °¡¾ß ÇÏÁö¸¸<br>
+°³ÀÎÀûÀ¸·Î µÎ ºĞ²² Á÷Á¢ °¨»ç¸¦ Ç¥ÇÏ°í ½Í¾ú½À´Ï´Ù
+<SYNC Start=2492555><P Class=KRCC>
+°¨»çÇÕ´Ï´Ù, »ç·É°ü
+<SYNC Start=2494628><P Class=KRCC>
+ºÎÇÏµéÀ» Àü¼±¿¡ Á÷Á¢ º¸³ÂÀ¸´Ï±î¿ä<br>
+¸¹Àº »ç¶÷µéÀÌ ÀØ¾î¹ö¸° °É À§ÇØ¼­¿ä
+<SYNC Start=2499235><P Class=KRCC>
+¿©·¯ºĞÀº ÀØÁö ¾ÊÀ¸¼ÌÁÒ
+<SYNC Start=2500804><P Class=KRCC>
+ÀúÈñ ¾î¸Ó´Ï, ÀÚ¸Åµé°ú Çüµµ¿ä<br>
+±×µéµµ °¨»çÀÇ ¶æÀ» ÀüÇß½À´Ï´Ù
+<SYNC Start=2504909><P Class=KRCC>
+±¹Àå´Ô, ´ëÅë·É´Ô ¿¬¶ôÀÌ¿¹¿ä<br>
+25ºĞ ÈÄ¿¡ ±âÀÚÈ¸°ß ¿¹Á¤ÀÌ¶ø´Ï´Ù
+<SYNC Start=2509309><P Class=KRCC>
+°¡ ºÁ¾ß °Ú±º¿ä. ´Ù¸¥ °¡Á·µé¿¡°Ôµµ<br>
+±×µéÀÌ ÀØÈ÷Áö ¾Ê¾ÒÀ½À» ¾Ë·ÁÁÙ ¶§°¡ µÇ°Ú³×¿ä
+<SYNC Start=2513516><P Class=KRCC>
+¿ì-¶ó
+<SYNC Start=2515048><P Class=KRCC>&nbsp;
+
+<SYNC Start=5469><P Class=ENCC>
+I'm telling you Pluto<br>ain't a planet.
+<SYNC Start=7346><P Class=ENCC>&nbsp;
+<SYNC Start=8597><P Class=ENCC>
+Since when?
+<SYNC Start=10336><P Class=ENCC>&nbsp;
+<SYNC Start=10338><P Class=ENCC>
+Since the IAU said so.
+<SYNC Start=12373><P Class=ENCC>&nbsp;
+<SYNC Start=12375><P Class=ENCC>
+The who?
+<SYNC Start=14406><P Class=ENCC>&nbsp;
+<SYNC Start=14408><P Class=ENCC>
+A bunch of pencil necks<br>who make the rules.
+<SYNC Start=16383><P Class=ENCC>&nbsp;
+<SYNC Start=16385><P Class=ENCC>
+They don't make<br>the rules for me.
+<SYNC Start=18384><P Class=ENCC>&nbsp;
+<SYNC Start=18386><P Class=ENCC>
+I'm going with â€œplanet.â€
+<SYNC Start=20320><P Class=ENCC>&nbsp;
+<SYNC Start=20322><P Class=ENCC>
+Speaking of pencil necks,
+<SYNC Start=22019><P Class=ENCC>&nbsp;
+<SYNC Start=22021><P Class=ENCC>
+somebody's got<br>an eyeball on you.
+<SYNC Start=24796><P Class=ENCC>&nbsp;
+<SYNC Start=24798><P Class=ENCC>
+See if he knows<br>what the IAU is.
+<SYNC Start=26860><P Class=ENCC>&nbsp;
+<SYNC Start=41210><P Class=ENCC>
+Looking for some fun?
+<SYNC Start=43579><P Class=ENCC>&nbsp;
+<SYNC Start=43581><P Class=ENCC>
+That works.
+<SYNC Start=46011><P Class=ENCC>&nbsp;
+<SYNC Start=59532><P Class=ENCC>
+You're late!
+<SYNC Start=62275><P Class=ENCC>&nbsp;
+<SYNC Start=62277><P Class=ENCC>
+But before we go anywhere,
+<SYNC Start=64403><P Class=ENCC>&nbsp;
+<SYNC Start=64405><P Class=ENCC>
+I need to know<br>you can protect me.
+<SYNC Start=67310><P Class=ENCC>&nbsp;
+<SYNC Start=67312><P Class=ENCC>
+And my family.
+<SYNC Start=69079><P Class=ENCC>&nbsp;
+<SYNC Start=69081><P Class=ENCC>
+You're safe now.
+<SYNC Start=70447><P Class=ENCC>&nbsp;
+<SYNC Start=70449><P Class=ENCC>
+I'll make sure your<br>family is, too.
+<SYNC Start=73319><P Class=ENCC>&nbsp;
+<SYNC Start=73321><P Class=ENCC>
+You don't know these people!
+<SYNC Start=74719><P Class=ENCC>&nbsp;
+<SYNC Start=74721><P Class=ENCC>
+You don't know<br>what they can do!
+<SYNC Start=76687><P Class=ENCC>&nbsp;
+<SYNC Start=76689><P Class=ENCC>
+Oh, yeah, we do.
+<SYNC Start=78694><P Class=ENCC>&nbsp;
+<SYNC Start=78696><P Class=ENCC>
+That's why I'm here.
+<SYNC Start=81294><P Class=ENCC>&nbsp;
+<SYNC Start=81296><P Class=ENCC>
+Trust me.
+<SYNC Start=83829><P Class=ENCC>&nbsp;
+<SYNC Start=83831><P Class=ENCC>
+You're safe.
+<SYNC Start=85997><P Class=ENCC>&nbsp;
+<SYNC Start=99900><P Class=ENCC>
+<font color=#00FF00>â™ª NCIS 12x19 â™ª</font><br><font color=#00FFFF>Patience</font><br>Original Air Date on March 31, 2015
+<SYNC Start=103900><P Class=ENCC>&nbsp;
+<SYNC Start=103924><P Class=ENCC>
+== sync, corrected by <font color=#00FF00>elderman</font> ==<br><font color=#00FFFF>@elder_man</font>
+<SYNC Start=110424><P Class=ENCC>&nbsp;
+<SYNC Start=110448><P Class=ENCC>
+â™ª  â™ª
+<SYNC Start=128241><P Class=ENCC>&nbsp;
+<SYNC Start=139687><P Class=ENCC>
+Great. Thank you.
+<SYNC Start=141551><P Class=ENCC>&nbsp;
+<SYNC Start=143257><P Class=ENCC>
+Well, boss, girls say<br>that, uh, the shooter
+<SYNC Start=146496><P Class=ENCC>&nbsp;
+<SYNC Start=146498><P Class=ENCC>
+was someone in a black SUV.
+<SYNC Start=147825><P Class=ENCC>&nbsp;
+<SYNC Start=147827><P Class=ENCC>
+They get a look<br>at the driver?
+<SYNC Start=149297><P Class=ENCC>&nbsp;
+<SYNC Start=149299><P Class=ENCC>
+If they did,<br>they're not saying.
+<SYNC Start=150633><P Class=ENCC>&nbsp;
+<SYNC Start=150635><P Class=ENCC>
+I think they're scared.
+<SYNC Start=152369><P Class=ENCC>&nbsp;
+<SYNC Start=152371><P Class=ENCC>
+Here you go.
+<SYNC Start=153465><P Class=ENCC>&nbsp;
+<SYNC Start=153467><P Class=ENCC>
+Keep the change.
+<SYNC Start=154938><P Class=ENCC>&nbsp;
+<SYNC Start=154940><P Class=ENCC>
+Somebody saw something, McGee.
+<SYNC Start=156402><P Class=ENCC>&nbsp;
+<SYNC Start=156404><P Class=ENCC>
+Take DiNozzo,<br>canvass the area.
+<SYNC Start=159410><P Class=ENCC>&nbsp;
+<SYNC Start=159412><P Class=ENCC>
+Uh, boss, DiNozzo isn't<br>here today, remember?
+<SYNC Start=161314><P Class=ENCC>&nbsp;
+<SYNC Start=161316><P Class=ENCC>
+Just when I thought I was out,<br>they pull me back in.
+<SYNC Start=164684><P Class=ENCC>&nbsp;
+<SYNC Start=164686><P Class=ENCC>
+Ooh-yah!
+<SYNC Start=166452><P Class=ENCC>&nbsp;
+<SYNC Start=166454><P Class=ENCC>
+Thought you were in<br>Atlantic City with your buddies.
+<SYNC Start=168452><P Class=ENCC>&nbsp;
+<SYNC Start=168454><P Class=ENCC>
+Well, my flight doesn't<br>leave until 2:00.
+<SYNC Start=169987><P Class=ENCC>&nbsp;
+<SYNC Start=169989><P Class=ENCC>
+Gibbs asked me to<br>help out till then.
+<SYNC Start=171820><P Class=ENCC>&nbsp;
+<SYNC Start=171822><P Class=ENCC>
+Clearly, he didn't think you<br>could handle it by yourself.
+<SYNC Start=173588><P Class=ENCC>&nbsp;
+<SYNC Start=173590><P Class=ENCC>
+Let me get my jacket.
+<SYNC Start=175429><P Class=ENCC>&nbsp;
+<SYNC Start=175431><P Class=ENCC>
+Oh, please.<br>Like he actually said that.
+<SYNC Start=177892><P Class=ENCC>&nbsp;
+<SYNC Start=177894><P Class=ENCC>
+Wait, did he actually say that?<br>Oh, thank you.
+<SYNC Start=180427><P Class=ENCC>&nbsp;
+<SYNC Start=180429><P Class=ENCC>
+Not only is prostitution<br>humanity's oldest profession,
+<SYNC Start=183931><P Class=ENCC>&nbsp;
+<SYNC Start=183933><P Class=ENCC>
+there is also evidence that<br>animals engage in it, too.
+<SYNC Start=187265><P Class=ENCC>&nbsp;
+<SYNC Start=187267><P Class=ENCC>
+For example, the<br>Antarctic penguin...
+<SYNC Start=189872><P Class=ENCC>&nbsp;
+<SYNC Start=189874><P Class=ENCC>
+Stilettos must be<br>murder on the ice.
+<SYNC Start=192774><P Class=ENCC>&nbsp;
+<SYNC Start=192776><P Class=ENCC>
+(laughs)
+<SYNC Start=194573><P Class=ENCC>&nbsp;
+<SYNC Start=194575><P Class=ENCC>
+That was a joke.
+<SYNC Start=195837><P Class=ENCC>&nbsp;
+<SYNC Start=195839><P Class=ENCC>
+No, that was an<br>attempt at a joke.
+<SYNC Start=197909><P Class=ENCC>&nbsp;
+<SYNC Start=197911><P Class=ENCC>
+Good morning, Eleanor!
+<SYNC Start=200309><P Class=ENCC>&nbsp;
+<SYNC Start=200311><P Class=ENCC>
+Uh, to whom do we have<br>the pleasure?
+<SYNC Start=202846><P Class=ENCC>&nbsp;
+<SYNC Start=202848><P Class=ENCC>
+Good morning, Ducky.
+<SYNC Start=204413><P Class=ENCC>&nbsp;
+<SYNC Start=204415><P Class=ENCC>
+Well...
+<SYNC Start=205713><P Class=ENCC>&nbsp;
+<SYNC Start=205715><P Class=ENCC>
+all we have
+<SYNC Start=207345><P Class=ENCC>&nbsp;
+<SYNC Start=207347><P Class=ENCC>
+is Lolita
+<SYNC Start=208544><P Class=ENCC>&nbsp;
+<SYNC Start=208546><P Class=ENCC>
+for the female victim.
+<SYNC Start=210249><P Class=ENCC>&nbsp;
+<SYNC Start=210251><P Class=ENCC>
+And the male is
+<SYNC Start=211585><P Class=ENCC>&nbsp;
+<SYNC Start=211587><P Class=ENCC>
+Petty Officer 2nd Class
+<SYNC Start=212858><P Class=ENCC>&nbsp;
+<SYNC Start=212860><P Class=ENCC>
+Daniel Harvey.
+<SYNC Start=214258><P Class=ENCC>&nbsp;
+<SYNC Start=214260><P Class=ENCC>
+Notify his commanding officer.
+<SYNC Start=216059><P Class=ENCC>&nbsp;
+<SYNC Start=216061><P Class=ENCC>
+On it.
+<SYNC Start=217524><P Class=ENCC>&nbsp;
+<SYNC Start=217526><P Class=ENCC>
+The gunfire appears<br>to have been
+<SYNC Start=219861><P Class=ENCC>&nbsp;
+<SYNC Start=219863><P Class=ENCC>
+concentrated on the female.
+<SYNC Start=221397><P Class=ENCC>&nbsp;
+<SYNC Start=221399><P Class=ENCC>
+But I'll have an accurate idea
+<SYNC Start=224933><P Class=ENCC>&nbsp;
+<SYNC Start=224935><P Class=ENCC>
+when you're done<br>with Agent McGee.
+<SYNC Start=227774><P Class=ENCC>&nbsp;
+<SYNC Start=227776><P Class=ENCC>
+Huh?
+<SYNC Start=230308><P Class=ENCC>&nbsp;
+<SYNC Start=230310><P Class=ENCC>
+He's lurking behind you.
+<SYNC Start=232076><P Class=ENCC>&nbsp;
+<SYNC Start=234415><P Class=ENCC>
+Hey, boss.
+<SYNC Start=236413><P Class=ENCC>&nbsp;
+<SYNC Start=236415><P Class=ENCC>
+What?
+<SYNC Start=238285><P Class=ENCC>&nbsp;
+<SYNC Start=238287><P Class=ENCC>
+Well, I was, uh,<br>I was just thinking,
+<SYNC Start=239717><P Class=ENCC>&nbsp;
+<SYNC Start=239719><P Class=ENCC>
+you know, Tony's really excited
+<SYNC Start=241789><P Class=ENCC>&nbsp;
+<SYNC Start=241791><P Class=ENCC>
+about having the week off.<br>Bishop and I can handle things
+<SYNC Start=243725><P Class=ENCC>&nbsp;
+<SYNC Start=243727><P Class=ENCC>
+just...<br>We have a problem.
+<SYNC Start=244821><P Class=ENCC>&nbsp;
+<SYNC Start=244823><P Class=ENCC>
+...fine?
+<SYNC Start=246524><P Class=ENCC>&nbsp;
+<SYNC Start=246526><P Class=ENCC>
+What's the problem?
+<SYNC Start=248395><P Class=ENCC>&nbsp;
+<SYNC Start=248397><P Class=ENCC>
+I checked the Navy Locator.
+<SYNC Start=249888><P Class=ENCC>&nbsp;
+<SYNC Start=249890><P Class=ENCC>
+There's no listing for<br>a Petty Officer Daniel Harvey
+<SYNC Start=252592><P Class=ENCC>&nbsp;
+<SYNC Start=252594><P Class=ENCC>
+anywhere in the Navy's record.
+<SYNC Start=254992><P Class=ENCC>&nbsp;
+<SYNC Start=256802><P Class=ENCC>
+Someone needs to tell him that.
+<SYNC Start=258801><P Class=ENCC>&nbsp;
+<SYNC Start=260908><P Class=ENCC>
+Abby examined the I.D.
+<SYNC Start=263402><P Class=ENCC>&nbsp;
+<SYNC Start=263404><P Class=ENCC>
+If it's a forgery,<br>it's a really good one.
+<SYNC Start=265506><P Class=ENCC>&nbsp;
+<SYNC Start=265508><P Class=ENCC>
+And no hits on his prints.
+<SYNC Start=267580><P Class=ENCC>&nbsp;
+<SYNC Start=267582><P Class=ENCC>
+Vehicle's legit--<br>it's registered
+<SYNC Start=268980><P Class=ENCC>&nbsp;
+<SYNC Start=268982><P Class=ENCC>
+to the Department<br>of Defense's motor pool.
+<SYNC Start=271013><P Class=ENCC>&nbsp;
+<SYNC Start=271015><P Class=ENCC>
+Who checked it out?<br>According to their records,
+<SYNC Start=272949><P Class=ENCC>&nbsp;
+<SYNC Start=272951><P Class=ENCC>
+it's still sitting<br>in the garage.
+<SYNC Start=275119><P Class=ENCC>&nbsp;
+<SYNC Start=275121><P Class=ENCC>
+There is an exit log at the<br>guard station we could look at.
+<SYNC Start=277224><P Class=ENCC>&nbsp;
+<SYNC Start=277226><P Class=ENCC>
+I can handle that.
+<SYNC Start=279633><P Class=ENCC>&nbsp;
+<SYNC Start=279635><P Class=ENCC>
+I mean, I can access that--
+<SYNC Start=280729><P Class=ENCC>&nbsp;
+<SYNC Start=280731><P Class=ENCC>
+right here, right now,<br>in the database.
+<SYNC Start=282369><P Class=ENCC>&nbsp;
+<SYNC Start=284066><P Class=ENCC>
+I'm gonna do that.
+<SYNC Start=285504><P Class=ENCC>&nbsp;
+<SYNC Start=285506><P Class=ENCC>
+The girl.
+<SYNC Start=287073><P Class=ENCC>&nbsp;
+<SYNC Start=287075><P Class=ENCC>
+Uh, Lolita Cortes, 21.
+<SYNC Start=289872><P Class=ENCC>&nbsp;
+<SYNC Start=289874><P Class=ENCC>
+Born in Colombia, but emigrated<br>to the U.S. when she was 18.
+<SYNC Start=292776><P Class=ENCC>&nbsp;
+<SYNC Start=292778><P Class=ENCC>
+ICE has her coming back from<br>a trip to Colombia last night.
+<SYNC Start=294945><P Class=ENCC>&nbsp;
+<SYNC Start=294947><P Class=ENCC>
+She was there for two days.
+<SYNC Start=296817><P Class=ENCC>&nbsp;
+<SYNC Start=296819><P Class=ENCC>
+That's a long trip<br>for just two days.
+<SYNC Start=298881><P Class=ENCC>&nbsp;
+<SYNC Start=298883><P Class=ENCC>
+Does she have a record?
+<SYNC Start=300417><P Class=ENCC>&nbsp;
+<SYNC Start=300419><P Class=ENCC>
+She was arrested twice<br>for prostitution.
+<SYNC Start=302489><P Class=ENCC>&nbsp;
+<SYNC Start=302491><P Class=ENCC>
+One of her coworkers said she<br>had a falling out with her pimp.
+<SYNC Start=304152><P Class=ENCC>&nbsp;
+<SYNC Start=304154><P Class=ENCC>
+If I didn't have a plane<br>to catch for a trip I'd been
+<SYNC Start=305991><P Class=ENCC>&nbsp;
+<SYNC Start=305993><P Class=ENCC>
+forward to for the last six<br>months, that's the first place
+<SYNC Start=308023><P Class=ENCC>&nbsp;
+<SYNC Start=308025><P Class=ENCC>
+I'd be looking-- hint, hint.<br>Go, go, go, go.
+<SYNC Start=310055><P Class=ENCC>&nbsp;
+<SYNC Start=310057><P Class=ENCC>
+Going, gone!
+<SYNC Start=311391><P Class=ENCC>&nbsp;
+<SYNC Start=311393><P Class=ENCC>
+Have fun!<br>Found something.
+<SYNC Start=313463><P Class=ENCC>&nbsp;
+<SYNC Start=313465><P Class=ENCC>
+And I'm sure it's gonna be<br>very compelling!
+<SYNC Start=315064><P Class=ENCC>&nbsp;
+<SYNC Start=315066><P Class=ENCC>
+Text me, McGee.<br>Let me know who the bad guy is.
+<SYNC Start=317401><P Class=ENCC>&nbsp;
+<SYNC Start=317403><P Class=ENCC>
+Found a requisition<br>for the car
+<SYNC Start=318905><P Class=ENCC>&nbsp;
+<SYNC Start=318907><P Class=ENCC>
+in a DoD motor pool database
+<SYNC Start=320601><P Class=ENCC>&nbsp;
+<SYNC Start=320603><P Class=ENCC>
+that I do not have access to,<br>but I accessed anyway.
+<SYNC Start=323409><P Class=ENCC>&nbsp;
+<SYNC Start=323411><P Class=ENCC>
+Uh, car was<br>requisitioned to an op
+<SYNC Start=326009><P Class=ENCC>&nbsp;
+<SYNC Start=326011><P Class=ENCC>
+called<i> Lex... Talionis?</i>
+<SYNC Start=329011><P Class=ENCC>&nbsp;
+<SYNC Start=340924><P Class=ENCC>
+Uh...
+<SYNC Start=342162><P Class=ENCC>&nbsp;
+<SYNC Start=342164><P Class=ENCC>
+what just happened?
+<SYNC Start=343732><P Class=ENCC>&nbsp;
+<SYNC Start=343734><P Class=ENCC>
+I have no idea.<br>Huh.
+<SYNC Start=345163><P Class=ENCC>&nbsp;
+<SYNC Start=345165><P Class=ENCC>
+Let's go find out.
+<SYNC Start=346635><P Class=ENCC>&nbsp;
+<SYNC Start=346637><P Class=ENCC>
+You know what<i> Lex Talionis</i> is?
+<SYNC Start=348834><P Class=ENCC>&nbsp;
+<SYNC Start=348836><P Class=ENCC>
+I know the phrase-- Latin.
+<SYNC Start=350066><P Class=ENCC>&nbsp;
+<SYNC Start=350068><P Class=ENCC>
+It means, uh,<br>law of retaliation;
+<SYNC Start=352904><P Class=ENCC>&nbsp;
+<SYNC Start=352906><P Class=ENCC>
+eye for an eye;<br>that kind of thing.
+<SYNC Start=354470><P Class=ENCC>&nbsp;
+<SYNC Start=354472><P Class=ENCC>
+Oh, you ever heard of<br>an op with that name?
+<SYNC Start=356500><P Class=ENCC>&nbsp;
+<SYNC Start=356502><P Class=ENCC>
+No.
+<SYNC Start=358705><P Class=ENCC>&nbsp;
+<SYNC Start=373556><P Class=ENCC>
+I'm locked out!
+<SYNC Start=375584><P Class=ENCC>&nbsp;
+<SYNC Start=375586><P Class=ENCC>
+What the hell's going on?
+<SYNC Start=377088><P Class=ENCC>&nbsp;
+<SYNC Start=377090><P Class=ENCC>
+I don't know.
+<SYNC Start=379286><P Class=ENCC>&nbsp;
+<SYNC Start=391363><P Class=ENCC>
+Agent Gibbs, I have no idea<br>what you're talking about.
+<SYNC Start=393634><P Class=ENCC>&nbsp;
+<SYNC Start=393636><P Class=ENCC>
+We got a dead petty<br>officer driving
+<SYNC Start=396076><P Class=ENCC>&nbsp;
+<SYNC Start=396078><P Class=ENCC>
+a vehicle assigned<br>to<i> Lex Talionis.</i>
+<SYNC Start=398006><P Class=ENCC>&nbsp;
+<SYNC Start=398008><P Class=ENCC>
+That's our op.
+<SYNC Start=399142><P Class=ENCC>&nbsp;
+<SYNC Start=399144><P Class=ENCC>
+Why is there<br>operational activity
+<SYNC Start=400878><P Class=ENCC>&nbsp;
+<SYNC Start=400880><P Class=ENCC>
+that my agents<br>aren't aware of?
+<SYNC Start=402981><P Class=ENCC>&nbsp;
+<SYNC Start=402983><P Class=ENCC>
+Director Vance, if there's<br><i>Lex Talionis</i> activity
+<SYNC Start=405050><P Class=ENCC>&nbsp;
+<SYNC Start=405052><P Class=ENCC>
+in the field, then I'm<br>not aware of it, either.
+<SYNC Start=407545><P Class=ENCC>&nbsp;
+<SYNC Start=407547><P Class=ENCC>
+Which isn't unusual.
+<SYNC Start=409752><P Class=ENCC>&nbsp;
+<SYNC Start=409754><P Class=ENCC>
+You do recall this is a highly<br>compartmentalized operation.
+<SYNC Start=412088><P Class=ENCC>&nbsp;
+<SYNC Start=412090><P Class=ENCC>
+Are you in charge or not?
+<SYNC Start=413983><P Class=ENCC>&nbsp;
+<SYNC Start=413985><P Class=ENCC>
+I understand your frustration.
+<SYNC Start=415855><P Class=ENCC>&nbsp;
+<SYNC Start=415857><P Class=ENCC>
+I know you've been working<br>on this for years.
+<SYNC Start=417718><P Class=ENCC>&nbsp;
+<SYNC Start=417720><P Class=ENCC>
+So let's focus.
+<SYNC Start=418990><P Class=ENCC>&nbsp;
+<SYNC Start=418992><P Class=ENCC>
+Where was the petty<br>officer assigned?
+<SYNC Start=421463><P Class=ENCC>&nbsp;
+<SYNC Start=421465><P Class=ENCC>
+We're still looking.<br>He had Navy I.D.
+<SYNC Start=423199><P Class=ENCC>&nbsp;
+<SYNC Start=423201><P Class=ENCC>
+But there's no record of<br>him in any Navy database.
+<SYNC Start=425198><P Class=ENCC>&nbsp;
+<SYNC Start=425200><P Class=ENCC>
+Might be a cover.
+<SYNC Start=426997><P Class=ENCC>&nbsp;
+<SYNC Start=426999><P Class=ENCC>
+Could we have<br>some kind of a leak?
+<SYNC Start=428902><P Class=ENCC>&nbsp;
+<SYNC Start=428904><P Class=ENCC>
+Well, if there is and the target<br>finds out we're after him,
+<SYNC Start=431471><P Class=ENCC>&nbsp;
+<SYNC Start=431473><P Class=ENCC>
+he'll go even<br>deeper underground.
+<SYNC Start=433240><P Class=ENCC>&nbsp;
+<SYNC Start=433242><P Class=ENCC>
+And we lose the best shot we've<br>had at finding him in years.
+<SYNC Start=435945><P Class=ENCC>&nbsp;
+<SYNC Start=435947><P Class=ENCC>
+Understood. Do your thing.
+<SYNC Start=437714><P Class=ENCC>&nbsp;
+<SYNC Start=437716><P Class=ENCC>
+I'll see what I can<br>find out on my end.
+<SYNC Start=439779><P Class=ENCC>&nbsp;
+<SYNC Start=439781><P Class=ENCC>
+Get me Carschenk<br>at Naval Intelligence.
+<SYNC Start=442618><P Class=ENCC>&nbsp;
+<SYNC Start=442620><P Class=ENCC>
+And Ambassador Edmunds at State.
+<SYNC Start=445857><P Class=ENCC>&nbsp;
+<SYNC Start=445859><P Class=ENCC>
+Agent Gibbs,<br>I think it's time to bring in
+<SYNC Start=448287><P Class=ENCC>&nbsp;
+<SYNC Start=448289><P Class=ENCC>
+the rest of your team.
+<SYNC Start=450483><P Class=ENCC>&nbsp;
+<SYNC Start=454888><P Class=ENCC>
+So what exactly<br>are we looking at?
+<SYNC Start=456682><P Class=ENCC>&nbsp;
+<SYNC Start=456684><P Class=ENCC>
+Metropolitan<br>International Airport.
+<SYNC Start=459984><P Class=ENCC>&nbsp;
+<SYNC Start=459986><P Class=ENCC>
+1979.
+<SYNC Start=461654><P Class=ENCC>&nbsp;
+<SYNC Start=461656><P Class=ENCC>
+Someone detonated a bomb<br>in the departure terminal.
+<SYNC Start=463950><P Class=ENCC>&nbsp;
+<SYNC Start=463952><P Class=ENCC>
+I know this.<br>At the time, it was
+<SYNC Start=466453><P Class=ENCC>&nbsp;
+<SYNC Start=466455><P Class=ENCC>
+one of the deadliest attacks<br>on American soil in decades.
+<SYNC Start=468652><P Class=ENCC>&nbsp;
+<SYNC Start=468654><P Class=ENCC>
+Almost a hundred people<br>injured or killed.
+<SYNC Start=470788><P Class=ENCC>&nbsp;
+<SYNC Start=470790><P Class=ENCC>
+Who did it?
+<SYNC Start=471891><P Class=ENCC>&nbsp;
+<SYNC Start=471893><P Class=ENCC>
+Nobody knows.
+<SYNC Start=473793><P Class=ENCC>&nbsp;
+<SYNC Start=473795><P Class=ENCC>
+VANCE: Case went cold<br>and the attack was
+<SYNC Start=475130><P Class=ENCC>&nbsp;
+<SYNC Start=475132><P Class=ENCC>
+all but forgotten by the public.
+<SYNC Start=477098><P Class=ENCC>&nbsp;
+<SYNC Start=477100><P Class=ENCC>
+But we... are not the public.
+<SYNC Start=479699><P Class=ENCC>&nbsp;
+<SYNC Start=479701><P Class=ENCC>
+And the United States of America<br>doesn't forget.
+<SYNC Start=483470><P Class=ENCC>&nbsp;
+<SYNC Start=483472><P Class=ENCC>
+You got a lead.
+<SYNC Start=486448><P Class=ENCC>&nbsp;
+<SYNC Start=486450><P Class=ENCC>
+After almost 40 years,<br>you got a lead.
+<SYNC Start=488378><P Class=ENCC>&nbsp;
+<SYNC Start=489548><P Class=ENCC>
+Two years ago,
+<SYNC Start=491523><P Class=ENCC>&nbsp;
+<SYNC Start=491525><P Class=ENCC>
+NCIS agents in Colombia
+<SYNC Start=493492><P Class=ENCC>&nbsp;
+<SYNC Start=493494><P Class=ENCC>
+recovered an unexploded bomb
+<SYNC Start=495759><P Class=ENCC>&nbsp;
+<SYNC Start=495761><P Class=ENCC>
+with a striking similarity
+<SYNC Start=497158><P Class=ENCC>&nbsp;
+<SYNC Start=497160><P Class=ENCC>
+to the one used<br>at Metropolitan Airport in '79.
+<SYNC Start=500262><P Class=ENCC>&nbsp;
+<SYNC Start=500264><P Class=ENCC>
+Touch DNA of the internal<br>components confirmed
+<SYNC Start=502870><P Class=ENCC>&nbsp;
+<SYNC Start=502872><P Class=ENCC>
+that both bombs were made<br>by the same bomb maker.
+<SYNC Start=505837><P Class=ENCC>&nbsp;
+<SYNC Start=505839><P Class=ENCC>
+Wow.
+<SYNC Start=507301><P Class=ENCC>&nbsp;
+<SYNC Start=507303><P Class=ENCC>
+Tony, how exactly
+<SYNC Start=508708><P Class=ENCC>&nbsp;
+<SYNC Start=508710><P Class=ENCC>
+do you know all this<br>and I don't?
+<SYNC Start=510307><P Class=ENCC>&nbsp;
+<SYNC Start=510309><P Class=ENCC>
+Admiral Tyson immediately<br>classified the Intel
+<SYNC Start=513170><P Class=ENCC>&nbsp;
+<SYNC Start=513172><P Class=ENCC>
+and created a secret op<br>to track down the bomb maker.
+<SYNC Start=515903><P Class=ENCC>&nbsp;
+<SYNC Start=515905><P Class=ENCC>
+And she named the operation<br><i>Lex Talionis.</i>
+<SYNC Start=519205><P Class=ENCC>&nbsp;
+<SYNC Start=519207><P Class=ENCC>
+Agent Gibbs was placed in charge
+<SYNC Start=521107><P Class=ENCC>&nbsp;
+<SYNC Start=521109><P Class=ENCC>
+because of his prior<br>experience in Colombia.
+<SYNC Start=523042><P Class=ENCC>&nbsp;
+<SYNC Start=523044><P Class=ENCC>
+And he brought Tony in,<br>and not me.
+<SYNC Start=526179><P Class=ENCC>&nbsp;
+<SYNC Start=526181><P Class=ENCC>
+Or me.
+<SYNC Start=528083><P Class=ENCC>&nbsp;
+<SYNC Start=528085><P Class=ENCC>
+Actually you weren't here yet,<br>Ziva was.
+<SYNC Start=530715><P Class=ENCC>&nbsp;
+<SYNC Start=530717><P Class=ENCC>
+Oh, come on, you're telling me<br>that Ziva knew, too?
+<SYNC Start=532820><P Class=ENCC>&nbsp;
+<SYNC Start=532822><P Class=ENCC>
+Agent McGee, your ego is not<br>the subject of this briefing.
+<SYNC Start=536325><P Class=ENCC>&nbsp;
+<SYNC Start=536327><P Class=ENCC>
+So, who is the subject?
+<SYNC Start=538662><P Class=ENCC>&nbsp;
+<SYNC Start=541031><P Class=ENCC>
+TomÃ¡s Orlando...
+<SYNC Start=542733><P Class=ENCC>&nbsp;
+<SYNC Start=542735><P Class=ENCC>
+62.
+<SYNC Start=544868><P Class=ENCC>&nbsp;
+<SYNC Start=544870><P Class=ENCC>
+He was formerly a<br>Colombian rebel, now he's
+<SYNC Start=547170><P Class=ENCC>&nbsp;
+<SYNC Start=547172><P Class=ENCC>
+one of the country's<br>biggest drug kingpins.
+<SYNC Start=550137><P Class=ENCC>&nbsp;
+<SYNC Start=550139><P Class=ENCC>
+We narrowed the<br>suspect pool down
+<SYNC Start=551303><P Class=ENCC>&nbsp;
+<SYNC Start=551305><P Class=ENCC>
+to Orlando about<br>six months ago.
+<SYNC Start=552767><P Class=ENCC>&nbsp;
+<SYNC Start=552769><P Class=ENCC>
+How?
+<SYNC Start=553839><P Class=ENCC>&nbsp;
+<SYNC Start=553841><P Class=ENCC>
+Well, it's a<br>long story, Bishop.
+<SYNC Start=555335><P Class=ENCC>&nbsp;
+<SYNC Start=555337><P Class=ENCC>
+Read up.
+<SYNC Start=556406><P Class=ENCC>&nbsp;
+<SYNC Start=556408><P Class=ENCC>
+For the past six months,
+<SYNC Start=557741><P Class=ENCC>&nbsp;
+<SYNC Start=557743><P Class=ENCC>
+we've tried to get a DNA sample
+<SYNC Start=559275><P Class=ENCC>&nbsp;
+<SYNC Start=559277><P Class=ENCC>
+from Orlando to confirm<br>that he's our guy.
+<SYNC Start=561306><P Class=ENCC>&nbsp;
+<SYNC Start=561308><P Class=ENCC>
+He's not an easy man to find.
+<SYNC Start=562441><P Class=ENCC>&nbsp;
+<SYNC Start=562443><P Class=ENCC>
+We've been dead in the water.
+<SYNC Start=564104><P Class=ENCC>&nbsp;
+<SYNC Start=564106><P Class=ENCC>
+Until today?
+<SYNC Start=565607><P Class=ENCC>&nbsp;
+<SYNC Start=565609><P Class=ENCC>
+That's what you need<br>to find out.
+<SYNC Start=567143><P Class=ENCC>&nbsp;
+<SYNC Start=567145><P Class=ENCC>
+Whatever's going on<br>with that petty officer,
+<SYNC Start=568775><P Class=ENCC>&nbsp;
+<SYNC Start=568777><P Class=ENCC>
+this just might be the break
+<SYNC Start=570742><P Class=ENCC>&nbsp;
+<SYNC Start=570744><P Class=ENCC>
+that we've been waiting for.
+<SYNC Start=572381><P Class=ENCC>&nbsp;
+<SYNC Start=574116><P Class=ENCC>
+Hello?
+<SYNC Start=576649><P Class=ENCC>&nbsp;
+<SYNC Start=578251><P Class=ENCC>
+Abby?
+<SYNC Start=581014><P Class=ENCC>&nbsp;
+<SYNC Start=581016><P Class=ENCC>
+Hear you got something.
+<SYNC Start=583212><P Class=ENCC>&nbsp;
+<SYNC Start=585453><P Class=ENCC>
+What? Something wrong?
+<SYNC Start=587346><P Class=ENCC>&nbsp;
+<SYNC Start=588156><P Class=ENCC>
+Not at all.
+<SYNC Start=591153><P Class=ENCC>&nbsp;
+<SYNC Start=591155><P Class=ENCC>
+Tony read me in.
+<SYNC Start=594323><P Class=ENCC>&nbsp;
+<SYNC Start=594325><P Class=ENCC>
+I heard the fantastic news<br>that you matched DNA
+<SYNC Start=597660><P Class=ENCC>&nbsp;
+<SYNC Start=597662><P Class=ENCC>
+from the cold case<br>airport bombing
+<SYNC Start=599699><P Class=ENCC>&nbsp;
+<SYNC Start=599701><P Class=ENCC>
+to a recent bomb in Colombia.
+<SYNC Start=601699><P Class=ENCC>&nbsp;
+<SYNC Start=601701><P Class=ENCC>
+That is... awesome!
+<SYNC Start=604370><P Class=ENCC>&nbsp;
+<SYNC Start=604372><P Class=ENCC>
+So?
+<SYNC Start=606304><P Class=ENCC>&nbsp;
+<SYNC Start=606306><P Class=ENCC>
+So I'm just thrilled.
+<SYNC Start=607968><P Class=ENCC>&nbsp;
+<SYNC Start=607970><P Class=ENCC>
+You got someone to run
+<SYNC Start=609399><P Class=ENCC>&nbsp;
+<SYNC Start=609401><P Class=ENCC>
+DNA for you.
+<SYNC Start=611069><P Class=ENCC>&nbsp;
+<SYNC Start=611071><P Class=ENCC>
+Someone with a lab full
+<SYNC Start=613069><P Class=ENCC>&nbsp;
+<SYNC Start=613071><P Class=ENCC>
+of DNA-running equipment.
+<SYNC Start=614469><P Class=ENCC>&nbsp;
+<SYNC Start=614471><P Class=ENCC>
+I mean, it must be so cool
+<SYNC Start=617007><P Class=ENCC>&nbsp;
+<SYNC Start=617009><P Class=ENCC>
+to know somebody like that.
+<SYNC Start=619015><P Class=ENCC>&nbsp;
+<SYNC Start=619017><P Class=ENCC>
+Abby, it's not like that.
+<SYNC Start=620846><P Class=ENCC>&nbsp;
+<SYNC Start=620848><P Class=ENCC>
+You cheated on me, Gibbs.
+<SYNC Start=623011><P Class=ENCC>&nbsp;
+<SYNC Start=623013><P Class=ENCC>
+Abby, the DNA was<br>in the southeast field office
+<SYNC Start=625882><P Class=ENCC>&nbsp;
+<SYNC Start=625884><P Class=ENCC>
+when I was assigned the op.
+<SYNC Start=628144><P Class=ENCC>&nbsp;
+<SYNC Start=628146><P Class=ENCC>
+It would've run through too many<br>hands to get up here to you.
+<SYNC Start=631950><P Class=ENCC>&nbsp;
+<SYNC Start=632855><P Class=ENCC>
+Okay, that makes sense.
+<SYNC Start=634915><P Class=ENCC>&nbsp;
+<SYNC Start=634917><P Class=ENCC>
+Awkward... (anxious laugh)
+<SYNC Start=636679><P Class=ENCC>&nbsp;
+<SYNC Start=636681><P Class=ENCC>
+What can I do<br>to make it up to you?
+<SYNC Start=638717><P Class=ENCC>&nbsp;
+<SYNC Start=638719><P Class=ENCC>
+Just show me what you got.
+<SYNC Start=640253><P Class=ENCC>&nbsp;
+<SYNC Start=640255><P Class=ENCC>
+Consider it done.
+<SYNC Start=641717><P Class=ENCC>&nbsp;
+<SYNC Start=641719><P Class=ENCC>
+Or consider it done<br>when I'm done,
+<SYNC Start=643286><P Class=ENCC>&nbsp;
+<SYNC Start=643288><P Class=ENCC>
+which should take me,<br>like, 30 seconds.
+<SYNC Start=645855><P Class=ENCC>&nbsp;
+<SYNC Start=645857><P Class=ENCC>
+Okay, I got a lead<br>on our killer.
+<SYNC Start=647759><P Class=ENCC>&nbsp;
+<SYNC Start=647761><P Class=ENCC>
+I found bloody fingerprints<br>in the car that belong to this
+<SYNC Start=650464><P Class=ENCC>&nbsp;
+<SYNC Start=650466><P Class=ENCC>
+fine specimen of humanity.
+<SYNC Start=651968><P Class=ENCC>&nbsp;
+<SYNC Start=651970><P Class=ENCC>
+Eddie â€œCollarboneâ€ Rosario.
+<SYNC Start=655170><P Class=ENCC>&nbsp;
+<SYNC Start=655172><P Class=ENCC>
+He's been busted<br>for pimping more times
+<SYNC Start=656738><P Class=ENCC>&nbsp;
+<SYNC Start=656740><P Class=ENCC>
+than I've said<br>the word â€œpimping.â€
+<SYNC Start=658811><P Class=ENCC>&nbsp;
+<SYNC Start=658813><P Class=ENCC>
+Pimping, pimping, pimping,<br>pimping, pimping.
+<SYNC Start=660043><P Class=ENCC>&nbsp;
+<SYNC Start=660045><P Class=ENCC>
+Now we're tied.
+<SYNC Start=661706><P Class=ENCC>&nbsp;
+<SYNC Start=661708><P Class=ENCC>
+Our victim said she had a<br>falling out with her pimp.
+<SYNC Start=664084><P Class=ENCC>&nbsp;
+<SYNC Start=664086><P Class=ENCC>
+Well, then I would assume
+<SYNC Start=665284><P Class=ENCC>&nbsp;
+<SYNC Start=665286><P Class=ENCC>
+that that is him.
+<SYNC Start=666780><P Class=ENCC>&nbsp;
+<SYNC Start=666782><P Class=ENCC>
+And judging by the dead bodies,
+<SYNC Start=668185><P Class=ENCC>&nbsp;
+<SYNC Start=668187><P Class=ENCC>
+I think he won the argument.
+<SYNC Start=670247><P Class=ENCC>&nbsp;
+<SYNC Start=670885><P Class=ENCC>
+Weird.
+<SYNC Start=671750><P Class=ENCC>&nbsp;
+<SYNC Start=671752><P Class=ENCC>
+Just got an IM from Bishop.
+<SYNC Start=673553><P Class=ENCC>&nbsp;
+<SYNC Start=673608><P Class=ENCC>
+Yeah, what's it say?
+<SYNC Start=675501><P Class=ENCC>&nbsp;
+<SYNC Start=675503><P Class=ENCC>
+The admiral needs<br>to see you right now.
+<SYNC Start=677573><P Class=ENCC>&nbsp;
+<SYNC Start=680679><P Class=ENCC>
+Yeah.<br>He's already on his way.
+<SYNC Start=683076><P Class=ENCC>&nbsp;
+<SYNC Start=687414><P Class=ENCC>
+Okay, what do we have?
+<SYNC Start=689348><P Class=ENCC>&nbsp;
+<SYNC Start=689350><P Class=ENCC>
+The identity<br>of our petty officer.
+<SYNC Start=691421><P Class=ENCC>&nbsp;
+<SYNC Start=691423><P Class=ENCC>
+I've brought in<br>our ambassador to Colombia.
+<SYNC Start=692957><P Class=ENCC>&nbsp;
+<SYNC Start=692959><P Class=ENCC>
+She has news, as well.
+<SYNC Start=694726><P Class=ENCC>&nbsp;
+<SYNC Start=694728><P Class=ENCC>
+Ambassador Edmunds.
+<SYNC Start=696358><P Class=ENCC>&nbsp;
+<SYNC Start=696360><P Class=ENCC>
+Agent Gibbs,<br>nice to finally meet you
+<SYNC Start=697958><P Class=ENCC>&nbsp;
+<SYNC Start=697960><P Class=ENCC>
+in person, as it were.
+<SYNC Start=699463><P Class=ENCC>&nbsp;
+<SYNC Start=699465><P Class=ENCC>
+So, who was he?
+<SYNC Start=700833><P Class=ENCC>&nbsp;
+<SYNC Start=700835><P Class=ENCC>
+TYSON: Well, our male<br>victim's real name
+<SYNC Start=702803><P Class=ENCC>&nbsp;
+<SYNC Start=702805><P Class=ENCC>
+was Lieutenant Louis Freston.
+<SYNC Start=703907><P Class=ENCC>&nbsp;
+<SYNC Start=703909><P Class=ENCC>
+GIBBS:<br>I know the name.
+<SYNC Start=705572><P Class=ENCC>&nbsp;
+<SYNC Start=705574><P Class=ENCC>
+Intelligence specialist.
+<SYNC Start=707309><P Class=ENCC>&nbsp;
+<SYNC Start=707311><P Class=ENCC>
+Recently assigned.
+<SYNC Start=708846><P Class=ENCC>&nbsp;
+<SYNC Start=708848><P Class=ENCC>
+Apparently he had cultivated<br>Lolita as an asset.
+<SYNC Start=711720><P Class=ENCC>&nbsp;
+<SYNC Start=711722><P Class=ENCC>
+She has relatives in Colombia<br>who claim to know
+<SYNC Start=713519><P Class=ENCC>&nbsp;
+<SYNC Start=713521><P Class=ENCC>
+where our target<br>got his hair cut.
+<SYNC Start=715623><P Class=ENCC>&nbsp;
+<SYNC Start=715625><P Class=ENCC>
+You know, we get a report<br>like this twice a week.
+<SYNC Start=717486><P Class=ENCC>&nbsp;
+<SYNC Start=717488><P Class=ENCC>
+It never pans out.
+<SYNC Start=718894><P Class=ENCC>&nbsp;
+<SYNC Start=718896><P Class=ENCC>
+This one did.
+<SYNC Start=720222><P Class=ENCC>&nbsp;
+<SYNC Start=720224><P Class=ENCC>
+The report Freston<br>was about to file
+<SYNC Start=722460><P Class=ENCC>&nbsp;
+<SYNC Start=722462><P Class=ENCC>
+says Lolita was<br>bringing him a hair sample
+<SYNC Start=724427><P Class=ENCC>&nbsp;
+<SYNC Start=724429><P Class=ENCC>
+she'd picked up from Colombia.
+<SYNC Start=726259><P Class=ENCC>&nbsp;
+<SYNC Start=726261><P Class=ENCC>
+She was going to give it to him<br>the night they were killed.
+<SYNC Start=729300><P Class=ENCC>&nbsp;
+<SYNC Start=729302><P Class=ENCC>
+And if his DNA matches<br>the DNA from the airport bomb,
+<SYNC Start=732267><P Class=ENCC>&nbsp;
+<SYNC Start=732269><P Class=ENCC>
+we got our guy.
+<SYNC Start=733771><P Class=ENCC>&nbsp;
+<SYNC Start=733773><P Class=ENCC>
+We didn't find a hair sample<br>at the crime scene.
+<SYNC Start=736371><P Class=ENCC>&nbsp;
+<SYNC Start=736373><P Class=ENCC>
+According to Freston's notes,
+<SYNC Start=737938><P Class=ENCC>&nbsp;
+<SYNC Start=737940><P Class=ENCC>
+it was sewn into the lining<br>of the prostitute's purse.
+<SYNC Start=741306><P Class=ENCC>&nbsp;
+<SYNC Start=741308><P Class=ENCC>
+We didn't find a purse.
+<SYNC Start=742874><P Class=ENCC>&nbsp;
+<SYNC Start=742876><P Class=ENCC>
+Actually, boss, I may<br>have a lead on that.
+<SYNC Start=745810><P Class=ENCC>&nbsp;
+<SYNC Start=745812><P Class=ENCC>
+A store owner across<br>the street shot video
+<SYNC Start=748019><P Class=ENCC>&nbsp;
+<SYNC Start=748021><P Class=ENCC>
+on his cell,<br>just after the shooting.
+<SYNC Start=749515><P Class=ENCC>&nbsp;
+<SYNC Start=749517><P Class=ENCC>
+Let's see it.
+<SYNC Start=750924><P Class=ENCC>&nbsp;
+<SYNC Start=764445><P Class=ENCC>
+Pimp has her DNA.
+<SYNC Start=766581><P Class=ENCC>&nbsp;
+<SYNC Start=766583><P Class=ENCC>
+And you have 12 hours<br>to get it back.
+<SYNC Start=768580><P Class=ENCC>&nbsp;
+<SYNC Start=768582><P Class=ENCC>
+The stars are aligning,<br>Agent Gibbs.
+<SYNC Start=769748><P Class=ENCC>&nbsp;
+<SYNC Start=769750><P Class=ENCC>
+Ambassador?
+<SYNC Start=771850><P Class=ENCC>&nbsp;
+<SYNC Start=771852><P Class=ENCC>
+EDMUNDS: Freston's play<br>kicked up some chatter.
+<SYNC Start=773784><P Class=ENCC>&nbsp;
+<SYNC Start=773786><P Class=ENCC>
+I just received Intel<br>on a meeting between Orlando
+<SYNC Start=777551><P Class=ENCC>&nbsp;
+<SYNC Start=777553><P Class=ENCC>
+and his top lieutenants.
+<SYNC Start=778920><P Class=ENCC>&nbsp;
+<SYNC Start=778922><P Class=ENCC>
+We have a location.
+<SYNC Start=780055><P Class=ENCC>&nbsp;
+<SYNC Start=780057><P Class=ENCC>
+I'm scrambling a SEAL team.
+<SYNC Start=781655><P Class=ENCC>&nbsp;
+<SYNC Start=781657><P Class=ENCC>
+You need to verify<br>Orlando is our guy.
+<SYNC Start=784391><P Class=ENCC>&nbsp;
+<SYNC Start=784393><P Class=ENCC>
+while we have a window<br>of opportunity.
+<SYNC Start=786393><P Class=ENCC>&nbsp;
+<SYNC Start=786395><P Class=ENCC>
+This is the best shot<br>we've had in 40 years.
+<SYNC Start=788162><P Class=ENCC>&nbsp;
+<SYNC Start=788164><P Class=ENCC>
+Understood.
+<SYNC Start=790170><P Class=ENCC>&nbsp;
+<SYNC Start=790172><P Class=ENCC>
+It's payback time.
+<SYNC Start=792538><P Class=ENCC>&nbsp;
+<SYNC Start=792540><P Class=ENCC>
+McGee?
+<SYNC Start=795370><P Class=ENCC>&nbsp;
+<SYNC Start=815746><P Class=ENCC>
+Oh, hey!<br>Where's Agent Gibbs?
+<SYNC Start=817408><P Class=ENCC>&nbsp;
+<SYNC Start=817410><P Class=ENCC>
+In MTAC with his favorite agent.
+<SYNC Start=819545><P Class=ENCC>&nbsp;
+<SYNC Start=821714><P Class=ENCC>
+I'm sorry. I didn't get<br>the chance to eat.
+<SYNC Start=823447><P Class=ENCC>&nbsp;
+<SYNC Start=823449><P Class=ENCC>
+Happy to help.
+<SYNC Start=825087><P Class=ENCC>&nbsp;
+<SYNC Start=825985><P Class=ENCC>
+McGEE:<br>Yeah, I need a BOLO out
+<SYNC Start=827383><P Class=ENCC>&nbsp;
+<SYNC Start=827385><P Class=ENCC>
+on a convicted pimp<br>named Eddie Rosario.
+<SYNC Start=830487><P Class=ENCC>&nbsp;
+<SYNC Start=830489><P Class=ENCC>
+Street name is Collarbone.
+<SYNC Start=833094><P Class=ENCC>&nbsp;
+<SYNC Start=836264><P Class=ENCC>
+Uh... excuse me,<br>how do I, uh...?
+<SYNC Start=838566><P Class=ENCC>&nbsp;
+<SYNC Start=838568><P Class=ENCC>
+Do you know how...?
+<SYNC Start=840631><P Class=ENCC>&nbsp;
+<SYNC Start=840633><P Class=ENCC>
+Is there a doorbell<br>or something?
+<SYNC Start=844439><P Class=ENCC>&nbsp;
+<SYNC Start=844441><P Class=ENCC>
+Excuse me, do you...?
+<SYNC Start=846670><P Class=ENCC>&nbsp;
+<SYNC Start=846672><P Class=ENCC>
+Okay, I'm not invisible, people!
+<SYNC Start=848743><P Class=ENCC>&nbsp;
+<SYNC Start=848745><P Class=ENCC>
+All right, I'm not invisible!
+<SYNC Start=850312><P Class=ENCC>&nbsp;
+<SYNC Start=850314><P Class=ENCC>
+TONY:<br>What do you want, Palmer?
+<SYNC Start=852144><P Class=ENCC>&nbsp;
+<SYNC Start=852146><P Class=ENCC>
+There is a camera.
+<SYNC Start=853576><P Class=ENCC>&nbsp;
+<SYNC Start=853578><P Class=ENCC>
+What do you want, Palmer?
+<SYNC Start=855414><P Class=ENCC>&nbsp;
+<SYNC Start=855416><P Class=ENCC>
+Dr. Mallard has news, big news!
+<SYNC Start=857646><P Class=ENCC>&nbsp;
+<SYNC Start=857648><P Class=ENCC>
+I...
+<SYNC Start=859918><P Class=ENCC>&nbsp;
+<SYNC Start=862351><P Class=ENCC>
+Uh...<br>(clears his throat)
+<SYNC Start=864621><P Class=ENCC>&nbsp;
+<SYNC Start=866360><P Class=ENCC>
+(door opens)
+<SYNC Start=868790><P Class=ENCC>&nbsp;
+<SYNC Start=868792><P Class=ENCC>
+McGee's got a BOLO<br>out on the pimp.
+<SYNC Start=870696><P Class=ENCC>&nbsp;
+<SYNC Start=870698><P Class=ENCC>
+That was Palmer<br>scratching at the door.
+<SYNC Start=872800><P Class=ENCC>&nbsp;
+<SYNC Start=872802><P Class=ENCC>
+Ducky's got something.
+<SYNC Start=873800><P Class=ENCC>&nbsp;
+<SYNC Start=873802><P Class=ENCC>
+Hey, put him up on the screen.
+<SYNC Start=875672><P Class=ENCC>&nbsp;
+<SYNC Start=875674><P Class=ENCC>
+Hello, Duck.
+<SYNC Start=877472><P Class=ENCC>&nbsp;
+<SYNC Start=877474><P Class=ENCC>
+Oh, I forgot you can<br>turn that damn thing on
+<SYNC Start=880345><P Class=ENCC>&nbsp;
+<SYNC Start=880347><P Class=ENCC>
+whenever you want, can't you?
+<SYNC Start=882346><P Class=ENCC>&nbsp;
+<SYNC Start=882348><P Class=ENCC>
+Palmer said you had something?
+<SYNC Start=883714><P Class=ENCC>&nbsp;
+<SYNC Start=883716><P Class=ENCC>
+Well, during my examination,<br>I found a small tattoo
+<SYNC Start=887222><P Class=ENCC>&nbsp;
+<SYNC Start=887224><P Class=ENCC>
+on the young lady's derriÃ¨re.
+<SYNC Start=889622><P Class=ENCC>&nbsp;
+<SYNC Start=889624><P Class=ENCC>
+It looked as if someone<br>had tried to scrape it off,
+<SYNC Start=892726><P Class=ENCC>&nbsp;
+<SYNC Start=892728><P Class=ENCC>
+which I thought was a bit odd.
+<SYNC Start=895461><P Class=ENCC>&nbsp;
+<SYNC Start=895463><P Class=ENCC>
+So, I ran it down.
+<SYNC Start=897495><P Class=ENCC>&nbsp;
+<SYNC Start=897497><P Class=ENCC>
+Turns out Lolita's pimp<br>brands his girls
+<SYNC Start=899967><P Class=ENCC>&nbsp;
+<SYNC Start=899969><P Class=ENCC>
+with that particular tattoo.
+<SYNC Start=901471><P Class=ENCC>&nbsp;
+<SYNC Start=901473><P Class=ENCC>
+So, I was able to<br>track the art to...
+<SYNC Start=902967><P Class=ENCC>&nbsp;
+<SYNC Start=902969><P Class=ENCC>
+I told Tony that you wanted<br>to speak to Agent Gibbs.
+<SYNC Start=904807><P Class=ENCC>&nbsp;
+<SYNC Start=904809><P Class=ENCC>
+Not that Gibbs<br>ever actually speaks.
+<SYNC Start=907342><P Class=ENCC>&nbsp;
+<SYNC Start=907344><P Class=ENCC>
+After â€œWhat do you got, Doc?â€
+<SYNC Start=908974><P Class=ENCC>&nbsp;
+<SYNC Start=908976><P Class=ENCC>
+all I ever get is...
+<SYNC Start=910412><P Class=ENCC>&nbsp;
+<SYNC Start=910414><P Class=ENCC>
+angry glare.
+<SYNC Start=912612><P Class=ENCC>&nbsp;
+<SYNC Start=912614><P Class=ENCC>
+Hey, Palmer.
+<SYNC Start=914516><P Class=ENCC>&nbsp;
+<SYNC Start=915446><P Class=ENCC>
+Angry glare.
+<SYNC Start=918251><P Class=ENCC>&nbsp;
+<SYNC Start=918253><P Class=ENCC>
+Uh, pimp brands his girls,<br>and I was able to track
+<SYNC Start=921884><P Class=ENCC>&nbsp;
+<SYNC Start=921886><P Class=ENCC>
+the tattoo art to the Web site<br>of the parlor that does it.
+<SYNC Start=925024><P Class=ENCC>&nbsp;
+<SYNC Start=925026><P Class=ENCC>
+Thanks, Bishop.<br>Yeah, may give us a lead
+<SYNC Start=927463><P Class=ENCC>&nbsp;
+<SYNC Start=927465><P Class=ENCC>
+on where Collarbone hangs out.
+<SYNC Start=928799><P Class=ENCC>&nbsp;
+<SYNC Start=928801><P Class=ENCC>
+All right, take, uh,<br>McGee with you, huh?
+<SYNC Start=931735><P Class=ENCC>&nbsp;
+<SYNC Start=933633><P Class=ENCC>
+(laughs)<br>All right, McGee.
+<SYNC Start=935902><P Class=ENCC>&nbsp;
+<SYNC Start=935904><P Class=ENCC>
+You've been pouting the whole<br>car ride-- let's hear it.
+<SYNC Start=938471><P Class=ENCC>&nbsp;
+<SYNC Start=938473><P Class=ENCC>
+So, two years, huh?<br>I don't want to hear it.
+<SYNC Start=940741><P Class=ENCC>&nbsp;
+<SYNC Start=940743><P Class=ENCC>
+You've been working on<br>this op for two years
+<SYNC Start=942674><P Class=ENCC>&nbsp;
+<SYNC Start=942676><P Class=ENCC>
+and never said anything.
+<SYNC Start=944376><P Class=ENCC>&nbsp;
+<SYNC Start=944378><P Class=ENCC>
+Well, it was, um...
+<SYNC Start=945839><P Class=ENCC>&nbsp;
+<SYNC Start=945841><P Class=ENCC>
+what do you call it?<br>Oh, yeah! Classified.
+<SYNC Start=947773><P Class=ENCC>&nbsp;
+<SYNC Start=947775><P Class=ENCC>
+Oh, come on, how many<br>times have I hacked
+<SYNC Start=949435><P Class=ENCC>&nbsp;
+<SYNC Start=949437><P Class=ENCC>
+classified data and<br>shared it with you?
+<SYNC Start=951304><P Class=ENCC>&nbsp;
+<SYNC Start=951306><P Class=ENCC>
+47 times.<br>Yeah, it's...
+<SYNC Start=953607><P Class=ENCC>&nbsp;
+<SYNC Start=953609><P Class=ENCC>
+You know what?<br>That's probably right.
+<SYNC Start=954839><P Class=ENCC>&nbsp;
+<SYNC Start=954841><P Class=ENCC>
+But you proved my point.
+<SYNC Start=955910><P Class=ENCC>&nbsp;
+<SYNC Start=955912><P Class=ENCC>
+Which is?<br>Can't trust you anymore.
+<SYNC Start=958077><P Class=ENCC>&nbsp;
+<SYNC Start=958079><P Class=ENCC>
+(sighs) You're just upset<br>'cause Gibbs read me in and not you.
+<SYNC Start=962046><P Class=ENCC>&nbsp;
+<SYNC Start=962048><P Class=ENCC>
+That's not it at all, all right?
+<SYNC Start=965884><P Class=ENCC>&nbsp;
+<SYNC Start=965886><P Class=ENCC>
+I'm sure he had his reasons.
+<SYNC Start=967085><P Class=ENCC>&nbsp;
+<SYNC Start=967087><P Class=ENCC>
+As misguided as<br>they probably were.
+<SYNC Start=970654><P Class=ENCC>&nbsp;
+<SYNC Start=972961><P Class=ENCC>
+Sign number one you've walked<br>into the wrong tattoo shop.
+<SYNC Start=975660><P Class=ENCC>&nbsp;
+<SYNC Start=975662><P Class=ENCC>
+Smells like cat pee?
+<SYNC Start=976859><P Class=ENCC>&nbsp;
+<SYNC Start=976861><P Class=ENCC>
+Yeah. (groans)
+<SYNC Start=979162><P Class=ENCC>&nbsp;
+<SYNC Start=979932><P Class=ENCC>
+MAN:<br>Just a sec! Got a bleeder!
+<SYNC Start=981961><P Class=ENCC>&nbsp;
+<SYNC Start=981963><P Class=ENCC>
+We'll wait.
+<SYNC Start=983393><P Class=ENCC>&nbsp;
+<SYNC Start=983395><P Class=ENCC>
+Hope he enjoys the hepatitis.
+<SYNC Start=984833><P Class=ENCC>&nbsp;
+<SYNC Start=984835><P Class=ENCC>
+Hey, we're not done<br>yet, by the way.
+<SYNC Start=986129><P Class=ENCC>&nbsp;
+<SYNC Start=986131><P Class=ENCC>
+Well, what is left?
+<SYNC Start=988569><P Class=ENCC>&nbsp;
+<SYNC Start=988571><P Class=ENCC>
+I was read in first.
+<SYNC Start=989874><P Class=ENCC>&nbsp;
+<SYNC Start=989876><P Class=ENCC>
+And now you have been read in.
+<SYNC Start=991611><P Class=ENCC>&nbsp;
+<SYNC Start=991613><P Class=ENCC>
+How do I know you're not<br>working on another secret op?
+<SYNC Start=994078><P Class=ENCC>&nbsp;
+<SYNC Start=994080><P Class=ENCC>
+How do I know you're not<br>working on another secret op?
+<SYNC Start=997181><P Class=ENCC>&nbsp;
+<SYNC Start=998351><P Class=ENCC>
+Are you working<br>on another secret op?
+<SYNC Start=1000884><P Class=ENCC>&nbsp;
+<SYNC Start=1001789><P Class=ENCC>
+McGee!<br>Hurts, doesn't it?
+<SYNC Start=1004019><P Class=ENCC>&nbsp;
+<SYNC Start=1004021><P Class=ENCC>
+TONY: All right,<br>for what it's worth,
+<SYNC Start=1006985><P Class=ENCC>&nbsp;
+<SYNC Start=1006987><P Class=ENCC>
+I felt bad lying to you.
+<SYNC Start=1009489><P Class=ENCC>&nbsp;
+<SYNC Start=1009491><P Class=ENCC>
+I think you enjoyed it.
+<SYNC Start=1010625><P Class=ENCC>&nbsp;
+<SYNC Start=1010627><P Class=ENCC>
+A little bit.
+<SYNC Start=1011825><P Class=ENCC>&nbsp;
+<SYNC Start=1011827><P Class=ENCC>
+But mostly I felt bad.
+<SYNC Start=1013562><P Class=ENCC>&nbsp;
+<SYNC Start=1013564><P Class=ENCC>
+Apology accepted.
+<SYNC Start=1015794><P Class=ENCC>&nbsp;
+<SYNC Start=1015796><P Class=ENCC>
+(clears his throat)
+<SYNC Start=1018201><P Class=ENCC>&nbsp;
+<SYNC Start=1018203><P Class=ENCC>
+You two...<br>maybe want to be alone?
+<SYNC Start=1021431><P Class=ENCC>&nbsp;
+<SYNC Start=1024734><P Class=ENCC>
+Edward Rosario?
+<SYNC Start=1026371><P Class=ENCC>&nbsp;
+<SYNC Start=1026373><P Class=ENCC>
+Nobody calls me Edward.
+<SYNC Start=1029340><P Class=ENCC>&nbsp;
+<SYNC Start=1029342><P Class=ENCC>
+It's Collarbone.
+<SYNC Start=1031970><P Class=ENCC>&nbsp;
+<SYNC Start=1031972><P Class=ENCC>
+We're not â€œnobody.â€
+<SYNC Start=1034736><P Class=ENCC>&nbsp;
+<SYNC Start=1035977><P Class=ENCC>
+(speaks Spanish)
+<SYNC Start=1037470><P Class=ENCC>&nbsp;
+<SYNC Start=1037472><P Class=ENCC>
+Yeah, thank God<br>I'm out of that car.
+<SYNC Start=1039005><P Class=ENCC>&nbsp;
+<SYNC Start=1039007><P Class=ENCC>
+You two have<br>the worst taste in music
+<SYNC Start=1040877><P Class=ENCC>&nbsp;
+<SYNC Start=1040879><P Class=ENCC>
+I've heard in my life.
+<SYNC Start=1043412><P Class=ENCC>&nbsp;
+<SYNC Start=1043414><P Class=ENCC>
+Ah!
+<SYNC Start=1045412><P Class=ENCC>&nbsp;
+<SYNC Start=1045414><P Class=ENCC>
+You found the pimp.
+<SYNC Start=1047483><P Class=ENCC>&nbsp;
+<SYNC Start=1047485><P Class=ENCC>
+Pimp by night.
+<SYNC Start=1048915><P Class=ENCC>&nbsp;
+<SYNC Start=1048917><P Class=ENCC>
+Tattoo artist by day.
+<SYNC Start=1050051><P Class=ENCC>&nbsp;
+<SYNC Start=1050053><P Class=ENCC>
+The purse?
+<SYNC Start=1051354><P Class=ENCC>&nbsp;
+<SYNC Start=1051356><P Class=ENCC>
+In his trunk.
+<SYNC Start=1052618><P Class=ENCC>&nbsp;
+<SYNC Start=1052620><P Class=ENCC>
+There was a DNA tube<br>sewn in to the lining.
+<SYNC Start=1054887><P Class=ENCC>&nbsp;
+<SYNC Start=1054889><P Class=ENCC>
+I'm running it<br>down to Abby now.
+<SYNC Start=1056884><P Class=ENCC>&nbsp;
+<SYNC Start=1056886><P Class=ENCC>
+I will brief Gibbs.<br>Okay.
+<SYNC Start=1059819><P Class=ENCC>&nbsp;
+<SYNC Start=1059821><P Class=ENCC>
+Commander, give me a sitrep.
+<SYNC Start=1060987><P Class=ENCC>&nbsp;
+<SYNC Start=1060989><P Class=ENCC>
+My men are deployed<br>and standing by.
+<SYNC Start=1063554><P Class=ENCC>&nbsp;
+<SYNC Start=1063556><P Class=ENCC>
+Just awaiting the go-order.<br>We're chomping at the bit here.
+<SYNC Start=1065552><P Class=ENCC>&nbsp;
+<SYNC Start=1065554><P Class=ENCC>
+We all are, Commander Hankos.
+<SYNC Start=1067391><P Class=ENCC>&nbsp;
+<SYNC Start=1067393><P Class=ENCC>
+Might not be much longer.
+<SYNC Start=1068855><P Class=ENCC>&nbsp;
+<SYNC Start=1068857><P Class=ENCC>
+Tony and McGee<br>found the pimp.
+<SYNC Start=1070463><P Class=ENCC>&nbsp;
+<SYNC Start=1070465><P Class=ENCC>
+They get our target's DNA?
+<SYNC Start=1071896><P Class=ENCC>&nbsp;
+<SYNC Start=1071898><P Class=ENCC>
+Tony's bringing the sample<br>to Abby, as we speak.
+<SYNC Start=1074401><P Class=ENCC>&nbsp;
+<SYNC Start=1074403><P Class=ENCC>
+Shouldn't take her long to<br>verify that Orlando is our guy.
+<SYNC Start=1077465><P Class=ENCC>&nbsp;
+<SYNC Start=1077467><P Class=ENCC>
+How secure is<br>your team's position?
+<SYNC Start=1079369><P Class=ENCC>&nbsp;
+<SYNC Start=1079371><P Class=ENCC>
+Colombia's not the safest place<br>for Navy SEALs
+<SYNC Start=1081570><P Class=ENCC>&nbsp;
+<SYNC Start=1081572><P Class=ENCC>
+to hang out in,<br>but they'll make do.
+<SYNC Start=1083779><P Class=ENCC>&nbsp;
+<SYNC Start=1083781><P Class=ENCC>
+Understood.
+<SYNC Start=1085315><P Class=ENCC>&nbsp;
+<SYNC Start=1085317><P Class=ENCC>
+Where's the pimp?
+<SYNC Start=1086843><P Class=ENCC>&nbsp;
+<SYNC Start=1086845><P Class=ENCC>
+McGee brought him<br>to interrogation.
+<SYNC Start=1088209><P Class=ENCC>&nbsp;
+<SYNC Start=1088211><P Class=ENCC>
+HANKOS: You think he's working<br>with Orlando?
+<SYNC Start=1090247><P Class=ENCC>&nbsp;
+<SYNC Start=1090249><P Class=ENCC>
+We're gonna find out.
+<SYNC Start=1091711><P Class=ENCC>&nbsp;
+<SYNC Start=1091713><P Class=ENCC>
+If he is, no deals,<br>no plea bargains.
+<SYNC Start=1094382><P Class=ENCC>&nbsp;
+<SYNC Start=1094384><P Class=ENCC>
+You make him pay.
+<SYNC Start=1096149><P Class=ENCC>&nbsp;
+<SYNC Start=1096151><P Class=ENCC>
+People may have forgotten<br>about the Metropolitan attack.
+<SYNC Start=1097885><P Class=ENCC>&nbsp;
+<SYNC Start=1097887><P Class=ENCC>
+I haven't.
+<SYNC Start=1100020><P Class=ENCC>&nbsp;
+<SYNC Start=1103222><P Class=ENCC>
+Commander Hankos<br>hasn't forgotten?
+<SYNC Start=1106555><P Class=ENCC>&nbsp;
+<SYNC Start=1106557><P Class=ENCC>
+He must've been, like, a baby<br>when the attack happened.
+<SYNC Start=1109328><P Class=ENCC>&nbsp;
+<SYNC Start=1109330><P Class=ENCC>
+He was.<br>What he hasn't forgotten
+<SYNC Start=1111424><P Class=ENCC>&nbsp;
+<SYNC Start=1111426><P Class=ENCC>
+was growing up without a father,<br>because of it.
+<SYNC Start=1115031><P Class=ENCC>&nbsp;
+<SYNC Start=1115033><P Class=ENCC>
+(sighs)
+<SYNC Start=1116830><P Class=ENCC>&nbsp;
+<SYNC Start=1116832><P Class=ENCC>
+What are the odds he'd be<br>the one commanding this mission?
+<SYNC Start=1119668><P Class=ENCC>&nbsp;
+<SYNC Start=1119670><P Class=ENCC>
+About as good as it gets.
+<SYNC Start=1121666><P Class=ENCC>&nbsp;
+<SYNC Start=1121668><P Class=ENCC>
+He asked to command<br>this mission.
+<SYNC Start=1124032><P Class=ENCC>&nbsp;
+<SYNC Start=1124034><P Class=ENCC>
+When it's time for payback,<br>he wants to be the one
+<SYNC Start=1126198><P Class=ENCC>&nbsp;
+<SYNC Start=1126200><P Class=ENCC>
+to write the check.
+<SYNC Start=1127630><P Class=ENCC>&nbsp;
+<SYNC Start=1127632><P Class=ENCC>
+And I know exactly how he feels.
+<SYNC Start=1131534><P Class=ENCC>&nbsp;
+<SYNC Start=1131536><P Class=ENCC>
+(sighs)
+<SYNC Start=1133709><P Class=ENCC>&nbsp;
+<SYNC Start=1143478><P Class=ENCC>
+Sit down.
+<SYNC Start=1146412><P Class=ENCC>&nbsp;
+<SYNC Start=1147942><P Class=ENCC>
+Sit down or I'll sit you down.
+<SYNC Start=1150380><P Class=ENCC>&nbsp;
+<SYNC Start=1150382><P Class=ENCC>
+(laughs)
+<SYNC Start=1151644><P Class=ENCC>&nbsp;
+<SYNC Start=1151646><P Class=ENCC>
+You don't scare me.
+<SYNC Start=1152851><P Class=ENCC>&nbsp;
+<SYNC Start=1152853><P Class=ENCC>
+You lay one hand on me,
+<SYNC Start=1155147><P Class=ENCC>&nbsp;
+<SYNC Start=1155149><P Class=ENCC>
+and... (chuckles)
+<SYNC Start=1158322><P Class=ENCC>&nbsp;
+<SYNC Start=1158324><P Class=ENCC>
+Go on.
+<SYNC Start=1160153><P Class=ENCC>&nbsp;
+<SYNC Start=1160155><P Class=ENCC>
+I'll wait. Finish.
+<SYNC Start=1162821><P Class=ENCC>&nbsp;
+<SYNC Start=1164359><P Class=ENCC>
+Fine.
+<SYNC Start=1167092><P Class=ENCC>&nbsp;
+<SYNC Start=1167094><P Class=ENCC>
+Sitting works, if you want<br>to be all anal about it.
+<SYNC Start=1171195><P Class=ENCC>&nbsp;
+<SYNC Start=1174862><P Class=ENCC>
+How long you been working<br>for TomÃ¡s Orlando?
+<SYNC Start=1177531><P Class=ENCC>&nbsp;
+<SYNC Start=1177533><P Class=ENCC>
+Who?
+<SYNC Start=1178898><P Class=ENCC>&nbsp;
+<SYNC Start=1182707><P Class=ENCC>
+That jog your memory?
+<SYNC Start=1184674><P Class=ENCC>&nbsp;
+<SYNC Start=1184676><P Class=ENCC>
+Nah.
+<SYNC Start=1186107><P Class=ENCC>&nbsp;
+<SYNC Start=1186109><P Class=ENCC>
+You killed her
+<SYNC Start=1187172><P Class=ENCC>&nbsp;
+<SYNC Start=1187174><P Class=ENCC>
+and you took something from her.
+<SYNC Start=1188644><P Class=ENCC>&nbsp;
+<SYNC Start=1188646><P Class=ENCC>
+I don't know what<br>you're smoking,
+<SYNC Start=1189812><P Class=ENCC>&nbsp;
+<SYNC Start=1189814><P Class=ENCC>
+but I'd like a hit.
+<SYNC Start=1191486><P Class=ENCC>&nbsp;
+<SYNC Start=1191488><P Class=ENCC>
+The DNA sample that<br>was in her purse.
+<SYNC Start=1194982><P Class=ENCC>&nbsp;
+<SYNC Start=1194984><P Class=ENCC>
+And you took it. Why?
+<SYNC Start=1198854><P Class=ENCC>&nbsp;
+<SYNC Start=1198856><P Class=ENCC>
+(laughs)<br>DNA, man! DNA!
+<SYNC Start=1200726><P Class=ENCC>&nbsp;
+<SYNC Start=1200728><P Class=ENCC>
+I don't know anything<br>about no-no DNA.
+<SYNC Start=1202461><P Class=ENCC>&nbsp;
+<SYNC Start=1202463><P Class=ENCC>
+Do I look like a DNA<br>kind of guy to you?
+<SYNC Start=1204365><P Class=ENCC>&nbsp;
+<SYNC Start=1204367><P Class=ENCC>
+You look like a life<br>without parole
+<SYNC Start=1205932><P Class=ENCC>&nbsp;
+<SYNC Start=1205934><P Class=ENCC>
+kind of guy.
+<SYNC Start=1208129><P Class=ENCC>&nbsp;
+<SYNC Start=1209427><P Class=ENCC>
+I got your vehicle's tire tracks<br>at the crime scene.
+<SYNC Start=1211663><P Class=ENCC>&nbsp;
+<SYNC Start=1211665><P Class=ENCC>
+Got your bloody prints<br>on the victim.
+<SYNC Start=1214230><P Class=ENCC>&nbsp;
+<SYNC Start=1214232><P Class=ENCC>
+Okay, wait a second here.
+<SYNC Start=1215966><P Class=ENCC>&nbsp;
+<SYNC Start=1215968><P Class=ENCC>
+DNA! Talk.
+<SYNC Start=1217334><P Class=ENCC>&nbsp;
+<SYNC Start=1217336><P Class=ENCC>
+Hey, look, I already told you.
+<SYNC Start=1219166><P Class=ENCC>&nbsp;
+<SYNC Start=1219168><P Class=ENCC>
+I don't know what you...
+<SYNC Start=1220637><P Class=ENCC>&nbsp;
+<SYNC Start=1220639><P Class=ENCC>
+Who told you to take<br>that sample?
+<SYNC Start=1222701><P Class=ENCC>&nbsp;
+<SYNC Start=1222703><P Class=ENCC>
+I don't know<br>what you're talking about!
+<SYNC Start=1225740><P Class=ENCC>&nbsp;
+<SYNC Start=1230810><P Class=ENCC>
+Okay, I...
+<SYNC Start=1232478><P Class=ENCC>&nbsp;
+<SYNC Start=1232480><P Class=ENCC>
+I manage a tattoo parlor<br>during the day, okay?
+<SYNC Start=1235171><P Class=ENCC>&nbsp;
+<SYNC Start=1235173><P Class=ENCC>
+But at night, I-I-I...
+<SYNC Start=1237075><P Class=ENCC>&nbsp;
+<SYNC Start=1237077><P Class=ENCC>
+I run this small<br>freelance escort service.
+<SYNC Start=1239811><P Class=ENCC>&nbsp;
+<SYNC Start=1239813><P Class=ENCC>
+You're a pimp.<br>Okay, semantics.
+<SYNC Start=1242411><P Class=ENCC>&nbsp;
+<SYNC Start=1242413><P Class=ENCC>
+Anyways...
+<SYNC Start=1244220><P Class=ENCC>&nbsp;
+<SYNC Start=1244222><P Class=ENCC>
+Lolita was one of my girls.
+<SYNC Start=1245756><P Class=ENCC>&nbsp;
+<SYNC Start=1245758><P Class=ENCC>
+Then, last week,<br>she tells me she's out!
+<SYNC Start=1247691><P Class=ENCC>&nbsp;
+<SYNC Start=1247693><P Class=ENCC>
+Nah. No.
+<SYNC Start=1249819><P Class=ENCC>&nbsp;
+<SYNC Start=1249821><P Class=ENCC>
+No one quits Collarbone, no.
+<SYNC Start=1252554><P Class=ENCC>&nbsp;
+<SYNC Start=1252556><P Class=ENCC>
+Then, last night,<br>I find out she's
+<SYNC Start=1254529><P Class=ENCC>&nbsp;
+<SYNC Start=1254531><P Class=ENCC>
+working my turf, I-I... I got to<br>send a message to my girls, man.
+<SYNC Start=1258293><P Class=ENCC>&nbsp;
+<SYNC Start=1258295><P Class=ENCC>
+So, you kill her?
+<SYNC Start=1259629><P Class=ENCC>&nbsp;
+<SYNC Start=1259631><P Class=ENCC>
+A man's got nothing...
+<SYNC Start=1262492><P Class=ENCC>&nbsp;
+<SYNC Start=1262494><P Class=ENCC>
+if he doesn't have<br>his reputation.
+<SYNC Start=1264996><P Class=ENCC>&nbsp;
+<SYNC Start=1264998><P Class=ENCC>
+Why'd you take the DNA?
+<SYNC Start=1266666><P Class=ENCC>&nbsp;
+<SYNC Start=1266668><P Class=ENCC>
+The DNA? I don't know<br>anything about no DNA, man!
+<SYNC Start=1268969><P Class=ENCC>&nbsp;
+<SYNC Start=1268971><P Class=ENCC>
+I told you!
+<SYNC Start=1270736><P Class=ENCC>&nbsp;
+<SYNC Start=1270738><P Class=ENCC>
+I took her purse and that's all!
+<SYNC Start=1272168><P Class=ENCC>&nbsp;
+<SYNC Start=1272170><P Class=ENCC>
+Because whatever bank<br>she made that night was mine!
+<SYNC Start=1275239><P Class=ENCC>&nbsp;
+<SYNC Start=1275241><P Class=ENCC>
+I mean, fair's fair, right?
+<SYNC Start=1278741><P Class=ENCC>&nbsp;
+<SYNC Start=1278743><P Class=ENCC>
+You seem reasonable.
+<SYNC Start=1281236><P Class=ENCC>&nbsp;
+<SYNC Start=1281238><P Class=ENCC>
+(door opens)
+<SYNC Start=1282372><P Class=ENCC>&nbsp;
+<SYNC Start=1282374><P Class=ENCC>
+Hi. Apologies to<br>Rule 22, Gibbs,
+<SYNC Start=1285643><P Class=ENCC>&nbsp;
+<SYNC Start=1285645><P Class=ENCC>
+but I finished running<br>Orlando's DNA and...
+<SYNC Start=1288608><P Class=ENCC>&nbsp;
+<SYNC Start=1293384><P Class=ENCC>
+Are your men<br>in position, Commander?
+<SYNC Start=1295047><P Class=ENCC>&nbsp;
+<SYNC Start=1295049><P Class=ENCC>
+They will be in half a mike.
+<SYNC Start=1296951><P Class=ENCC>&nbsp;
+<SYNC Start=1300257><P Class=ENCC>
+BISHOP:<br>Where are they?
+<SYNC Start=1301855><P Class=ENCC>&nbsp;
+<SYNC Start=1301857><P Class=ENCC>
+I don't see anyone.
+<SYNC Start=1302855><P Class=ENCC>&nbsp;
+<SYNC Start=1302857><P Class=ENCC>
+They're there.
+<SYNC Start=1304056><P Class=ENCC>&nbsp;
+<SYNC Start=1304058><P Class=ENCC>
+Any chatter from the locals?
+<SYNC Start=1305728><P Class=ENCC>&nbsp;
+<SYNC Start=1305730><P Class=ENCC>
+Nothing.
+<SYNC Start=1307160><P Class=ENCC>&nbsp;
+<SYNC Start=1308362><P Class=ENCC>
+We are a go for takedown.
+<SYNC Start=1310663><P Class=ENCC>&nbsp;
+<SYNC Start=1310665><P Class=ENCC>
+Takedown is a go.
+<SYNC Start=1311934><P Class=ENCC>&nbsp;
+<SYNC Start=1311936><P Class=ENCC>
+SQUAD LEADER:<br>Roger. Copy that. Move in.
+<SYNC Start=1313568><P Class=ENCC>&nbsp;
+<SYNC Start=1313570><P Class=ENCC>
+Switching to helmet cams.
+<SYNC Start=1315402><P Class=ENCC>&nbsp;
+<SYNC Start=1318875><P Class=ENCC>
+SQUAD LEADER:<br>Breaching the back entrance.
+<SYNC Start=1321175><P Class=ENCC>&nbsp;
+<SYNC Start=1323975><P Class=ENCC>
+Clear.
+<SYNC Start=1326046><P Class=ENCC>&nbsp;
+<SYNC Start=1326912><P Class=ENCC>
+Fan out. Loop around.
+<SYNC Start=1328415><P Class=ENCC>&nbsp;
+<SYNC Start=1330953><P Class=ENCC>
+Clear!
+<SYNC Start=1332351><P Class=ENCC>&nbsp;
+<SYNC Start=1340865><P Class=ENCC>
+Clear.
+<SYNC Start=1342398><P Class=ENCC>&nbsp;
+<SYNC Start=1344998><P Class=ENCC>
+Commander,<br>the target not present.
+<SYNC Start=1348095><P Class=ENCC>&nbsp;
+<SYNC Start=1348159><P Class=ENCC>
+The building has been vacated.
+<SYNC Start=1351060><P Class=ENCC>&nbsp;
+<SYNC Start=1366186><P Class=ENCC>
+The Intel our office received<br>was good.
+<SYNC Start=1368952><P Class=ENCC>&nbsp;
+<SYNC Start=1368954><P Class=ENCC>
+Orlando had a confirmed meeting
+<SYNC Start=1370921><P Class=ENCC>&nbsp;
+<SYNC Start=1370923><P Class=ENCC>
+with his top lieutenants<br>in the building at 2100 hours.
+<SYNC Start=1374520><P Class=ENCC>&nbsp;
+<SYNC Start=1374522><P Class=ENCC>
+It looks like he canceled.
+<SYNC Start=1375759><P Class=ENCC>&nbsp;
+<SYNC Start=1375761><P Class=ENCC>
+VANCE: He could have<br>found out about the assault.
+<SYNC Start=1378158><P Class=ENCC>&nbsp;
+<SYNC Start=1378160><P Class=ENCC>
+Did you alert<br>the government of Colombia
+<SYNC Start=1379591><P Class=ENCC>&nbsp;
+<SYNC Start=1379593><P Class=ENCC>
+that we were making a play?
+<SYNC Start=1381192><P Class=ENCC>&nbsp;
+<SYNC Start=1381194><P Class=ENCC>
+With all due respect,<br>are you out of your mind?
+<SYNC Start=1383865><P Class=ENCC>&nbsp;
+<SYNC Start=1383867><P Class=ENCC>
+Uh, boss, we've got<br>Commander Hankos on the line.
+<SYNC Start=1387235><P Class=ENCC>&nbsp;
+<SYNC Start=1387237><P Class=ENCC>
+Patch him in.
+<SYNC Start=1388243><P Class=ENCC>&nbsp;
+<SYNC Start=1388245><P Class=ENCC>
+EDMUNDS:<br>I'm already getting
+<SYNC Start=1389507><P Class=ENCC>&nbsp;
+<SYNC Start=1389509><P Class=ENCC>
+screaming phone calls<br>from my counterpart,
+<SYNC Start=1391539><P Class=ENCC>&nbsp;
+<SYNC Start=1391541><P Class=ENCC>
+wondering if the U.S.<br>is running an op
+<SYNC Start=1393516><P Class=ENCC>&nbsp;
+<SYNC Start=1393518><P Class=ENCC>
+on sovereign Colombian soil.
+<SYNC Start=1394645><P Class=ENCC>&nbsp;
+<SYNC Start=1394647><P Class=ENCC>
+Commander,<br>what's your status?
+<SYNC Start=1396582><P Class=ENCC>&nbsp;
+<SYNC Start=1396584><P Class=ENCC>
+HANKOS:<br>My men are holding position
+<SYNC Start=1398287><P Class=ENCC>&nbsp;
+<SYNC Start=1398289><P Class=ENCC>
+in the Delta Quadrant.
+<SYNC Start=1399591><P Class=ENCC>&nbsp;
+<SYNC Start=1399593><P Class=ENCC>
+They started taking fire<br>from some locals,
+<SYNC Start=1401360><P Class=ENCC>&nbsp;
+<SYNC Start=1401362><P Class=ENCC>
+so we had to pull back<br>from Orlando's compound.
+<SYNC Start=1403424><P Class=ENCC>&nbsp;
+<SYNC Start=1403426><P Class=ENCC>
+Is it your recommendation, then,<br>that we abort the mission?
+<SYNC Start=1405863><P Class=ENCC>&nbsp;
+<SYNC Start=1405865><P Class=ENCC>
+Hell, no. Place was<br>cleaned out in a hurry.
+<SYNC Start=1407895><P Class=ENCC>&nbsp;
+<SYNC Start=1407897><P Class=ENCC>
+We're right on his tail.
+<SYNC Start=1409463><P Class=ENCC>&nbsp;
+<SYNC Start=1409465><P Class=ENCC>
+You get any useful Intel<br>from the compound?
+<SYNC Start=1411798><P Class=ENCC>&nbsp;
+<SYNC Start=1411800><P Class=ENCC>
+We recovered a partially<br>destroyed laptop,
+<SYNC Start=1413596><P Class=ENCC>&nbsp;
+<SYNC Start=1413598><P Class=ENCC>
+but the hard drive's<br>still intact.
+<SYNC Start=1415835><P Class=ENCC>&nbsp;
+<SYNC Start=1415837><P Class=ENCC>
+Anything there we could use<br>to track the target?
+<SYNC Start=1417802><P Class=ENCC>&nbsp;
+<SYNC Start=1417804><P Class=ENCC>
+Unknown.<br>It was encrypted.
+<SYNC Start=1419737><P Class=ENCC>&nbsp;
+<SYNC Start=1419739><P Class=ENCC>
+My tech's still trying<br>to access it.
+<SYNC Start=1421440><P Class=ENCC>&nbsp;
+<SYNC Start=1421442><P Class=ENCC>
+Commander, Abby Sciuto and I<br>might have some better luck.
+<SYNC Start=1424903><P Class=ENCC>&nbsp;
+<SYNC Start=1424905><P Class=ENCC>
+You're welcome to try,<br>but it'll take
+<SYNC Start=1426910><P Class=ENCC>&nbsp;
+<SYNC Start=1426912><P Class=ENCC>
+at least 12 hours<br>to get that laptop to DC.
+<SYNC Start=1429309><P Class=ENCC>&nbsp;
+<SYNC Start=1429311><P Class=ENCC>
+My men don't have<br>that kind of time.
+<SYNC Start=1431381><P Class=ENCC>&nbsp;
+<SYNC Start=1431383><P Class=ENCC>
+Our people can meet.
+<SYNC Start=1432748><P Class=ENCC>&nbsp;
+<SYNC Start=1432750><P Class=ENCC>
+Meaning what?
+<SYNC Start=1434346><P Class=ENCC>&nbsp;
+<SYNC Start=1434348><P Class=ENCC>
+The commander's<br>aircraft carrier in the Gulf.
+<SYNC Start=1437374><P Class=ENCC>&nbsp;
+<SYNC Start=1437376><P Class=ENCC>
+I'll... run down<br>to tell Abby.
+<SYNC Start=1439413><P Class=ENCC>&nbsp;
+<SYNC Start=1439415><P Class=ENCC>
+In the meantime, what do I tell<br>the Colombian ambassador?
+<SYNC Start=1441947><P Class=ENCC>&nbsp;
+<SYNC Start=1441949><P Class=ENCC>
+You're a diplomat.
+<SYNC Start=1443747><P Class=ENCC>&nbsp;
+<SYNC Start=1443749><P Class=ENCC>
+Say something diplomatic.
+<SYNC Start=1445618><P Class=ENCC>&nbsp;
+<SYNC Start=1453521><P Class=ENCC>
+Nice timing.<br>Nice timing.
+<SYNC Start=1454719><P Class=ENCC>&nbsp;
+<SYNC Start=1454721><P Class=ENCC>
+Me first.<br>Me first.
+<SYNC Start=1455887><P Class=ENCC>&nbsp;
+<SYNC Start=1455889><P Class=ENCC>
+Abby first. Go.
+<SYNC Start=1457022><P Class=ENCC>&nbsp;
+<SYNC Start=1457024><P Class=ENCC>
+I got a second hit
+<SYNC Start=1458486><P Class=ENCC>&nbsp;
+<SYNC Start=1458488><P Class=ENCC>
+on the most recent<br>DNA sample from Orlando.
+<SYNC Start=1460725><P Class=ENCC>&nbsp;
+<SYNC Start=1460727><P Class=ENCC>
+It's a familial match.
+<SYNC Start=1462524><P Class=ENCC>&nbsp;
+<SYNC Start=1462526><P Class=ENCC>
+Who?
+<SYNC Start=1463755><P Class=ENCC>&nbsp;
+<SYNC Start=1463757><P Class=ENCC>
+He has a niece that lives<br>outside Baltimore.
+<SYNC Start=1465426><P Class=ENCC>&nbsp;
+<SYNC Start=1465428><P Class=ENCC>
+Well, she may be in<br>contact with the uncle.
+<SYNC Start=1467425><P Class=ENCC>&nbsp;
+<SYNC Start=1467427><P Class=ENCC>
+Maybe she knows<br>where he is.
+<SYNC Start=1468625><P Class=ENCC>&nbsp;
+<SYNC Start=1468627><P Class=ENCC>
+Abbs, good work.<br>Now go pack your bags.
+<SYNC Start=1470695><P Class=ENCC>&nbsp;
+<SYNC Start=1470697><P Class=ENCC>
+Where am I going?
+<SYNC Start=1471799><P Class=ENCC>&nbsp;
+<SYNC Start=1471801><P Class=ENCC>
+Hey. Abby found a relative.
+<SYNC Start=1473894><P Class=ENCC>&nbsp;
+<SYNC Start=1473896><P Class=ENCC>
+We heard.
+<SYNC Start=1475261><P Class=ENCC>&nbsp;
+<SYNC Start=1475263><P Class=ENCC>
+Relative's name<br>is Dr. Susanna Soto.
+<SYNC Start=1476597><P Class=ENCC>&nbsp;
+<SYNC Start=1476599><P Class=ENCC>
+Runs a family therapy practice<br>in Rosedale.
+<SYNC Start=1478837><P Class=ENCC>&nbsp;
+<SYNC Start=1478839><P Class=ENCC>
+How long she been here?
+<SYNC Start=1479973><P Class=ENCC>&nbsp;
+<SYNC Start=1479975><P Class=ENCC>
+She was born in the States.
+<SYNC Start=1482005><P Class=ENCC>&nbsp;
+<SYNC Start=1482007><P Class=ENCC>
+Going by DNA, her father<br>and Orlando were brothers.
+<SYNC Start=1484741><P Class=ENCC>&nbsp;
+<SYNC Start=1484743><P Class=ENCC>
+Were?
+<SYNC Start=1485336><P Class=ENCC>&nbsp;
+<SYNC Start=1485360><P Class=ENCC>
+Yeah, her parents were killed<br>when she was seven.
+<SYNC Start=1487360><P Class=ENCC>&nbsp;
+<SYNC Start=1487374><P Class=ENCC>
+Raised by her mother's family.
+<SYNC Start=1488746><P Class=ENCC>&nbsp;
+<SYNC Start=1488748><P Class=ENCC>
+We don't even know<br>if she knows her uncle.
+<SYNC Start=1490513><P Class=ENCC>&nbsp;
+<SYNC Start=1490515><P Class=ENCC>
+Any contact with anyone<br>in Colombia?
+<SYNC Start=1492209><P Class=ENCC>&nbsp;
+<SYNC Start=1492211><P Class=ENCC>
+Nothing on her cell<br>or landline.
+<SYNC Start=1494176><P Class=ENCC>&nbsp;
+<SYNC Start=1494178><P Class=ENCC>
+E-mail.<br>Not on her main account,
+<SYNC Start=1495616><P Class=ENCC>&nbsp;
+<SYNC Start=1495618><P Class=ENCC>
+but she could have others<br>we don't know about.
+<SYNC Start=1497447><P Class=ENCC>&nbsp;
+<SYNC Start=1497449><P Class=ENCC>
+We would need physical access<br>to her computer to be certain.
+<SYNC Start=1499613><P Class=ENCC>&nbsp;
+<SYNC Start=1499615><P Class=ENCC>
+TONY: We already got a warrant,<br>but if we go in heavy,
+<SYNC Start=1502315><P Class=ENCC>&nbsp;
+<SYNC Start=1502317><P Class=ENCC>
+the uncle could be watching--<br>might tip him off.
+<SYNC Start=1504553><P Class=ENCC>&nbsp;
+<SYNC Start=1504555><P Class=ENCC>
+What's the play? There's no time<br>for a lengthy interrogation,
+<SYNC Start=1506848><P Class=ENCC>&nbsp;
+<SYNC Start=1506850><P Class=ENCC>
+and we risk getting bad Intel<br>if we turn the screws.
+<SYNC Start=1510983><P Class=ENCC>&nbsp;
+<SYNC Start=1510985><P Class=ENCC>
+That's the play.
+<SYNC Start=1512958><P Class=ENCC>&nbsp;
+<SYNC Start=1517290><P Class=ENCC>
+Aw. We're gonna be parents.
+<SYNC Start=1519654><P Class=ENCC>&nbsp;
+<SYNC Start=1521821><P Class=ENCC>
+TONY:<br>Boss, you reading us?
+<SYNC Start=1524185><P Class=ENCC>&nbsp;
+<SYNC Start=1524187><P Class=ENCC>
+Loud and clear.
+<SYNC Start=1525152><P Class=ENCC>&nbsp;
+<SYNC Start=1525154><P Class=ENCC>
+All right.
+<SYNC Start=1526423><P Class=ENCC>&nbsp;
+<SYNC Start=1526425><P Class=ENCC>
+So, what's the plan, Bishop?
+<SYNC Start=1527623><P Class=ENCC>&nbsp;
+<SYNC Start=1527625><P Class=ENCC>
+BISHOP:<br>We go in, get settled.
+<SYNC Start=1529389><P Class=ENCC>&nbsp;
+<SYNC Start=1529391><P Class=ENCC>
+Then I excuse myself<br>to use the bathroom,
+<SYNC Start=1531850><P Class=ENCC>&nbsp;
+<SYNC Start=1531852><P Class=ENCC>
+I find Dr. Soto's PC
+<SYNC Start=1533488><P Class=ENCC>&nbsp;
+<SYNC Start=1533490><P Class=ENCC>
+and mirror her hard drive<br>onto this.
+<SYNC Start=1535452><P Class=ENCC>&nbsp;
+<SYNC Start=1535454><P Class=ENCC>
+Perfect.
+<SYNC Start=1537383><P Class=ENCC>&nbsp;
+<SYNC Start=1537385><P Class=ENCC>
+Wives first.
+<SYNC Start=1538813><P Class=ENCC>&nbsp;
+<SYNC Start=1538815><P Class=ENCC>
+Thanks, honey.
+<SYNC Start=1540881><P Class=ENCC>&nbsp;
+<SYNC Start=1547717><P Class=ENCC>
+SOTO:<br>Come on in.
+<SYNC Start=1549481><P Class=ENCC>&nbsp;
+<SYNC Start=1549483><P Class=ENCC>
+We're back here.
+<SYNC Start=1551615><P Class=ENCC>&nbsp;
+<SYNC Start=1557685><P Class=ENCC>
+Please come in.
+<SYNC Start=1559282><P Class=ENCC>&nbsp;
+<SYNC Start=1559284><P Class=ENCC>
+Join us.
+<SYNC Start=1560987><P Class=ENCC>&nbsp;
+<SYNC Start=1560989><P Class=ENCC>
+(chuckles softly)
+<SYNC Start=1562323><P Class=ENCC>&nbsp;
+<SYNC Start=1562325><P Class=ENCC>
+Oh. Hi.
+<SYNC Start=1564323><P Class=ENCC>&nbsp;
+<SYNC Start=1564325><P Class=ENCC>
+Uh... (chuckles)
+<SYNC Start=1565659><P Class=ENCC>&nbsp;
+<SYNC Start=1565661><P Class=ENCC>
+Um, is this<br>the parenting class?
+<SYNC Start=1568521><P Class=ENCC>&nbsp;
+<SYNC Start=1568523><P Class=ENCC>
+Oh, I'm sorry.
+<SYNC Start=1569657><P Class=ENCC>&nbsp;
+<SYNC Start=1569659><P Class=ENCC>
+There was a mix-up<br>on the Web site.
+<SYNC Start=1571665><P Class=ENCC>&nbsp;
+<SYNC Start=1571667><P Class=ENCC>
+Tonight is my<br>couples intimacy class.
+<SYNC Start=1573865><P Class=ENCC>&nbsp;
+<SYNC Start=1573867><P Class=ENCC>
+Oh.
+<SYNC Start=1575600><P Class=ENCC>&nbsp;
+<SYNC Start=1575602><P Class=ENCC>
+Well, this should<br>be interesting.
+<SYNC Start=1577535><P Class=ENCC>&nbsp;
+<SYNC Start=1577537><P Class=ENCC>
+TONY:<br>I lied. I was a...
+<SYNC Start=1579367><P Class=ENCC>&nbsp;
+<SYNC Start=1579369><P Class=ENCC>
+afraid to tell<br>you the truth.
+<SYNC Start=1581270><P Class=ENCC>&nbsp;
+<SYNC Start=1581272><P Class=ENCC>
+(chuckles) Because...
+<SYNC Start=1582870><P Class=ENCC>&nbsp;
+<SYNC Start=1582872><P Class=ENCC>
+I-I didn't think<br>you would come.
+<SYNC Start=1584940><P Class=ENCC>&nbsp;
+<SYNC Start=1584942><P Class=ENCC>
+SOTO:<br>Oh, I see.
+<SYNC Start=1586468><P Class=ENCC>&nbsp;
+<SYNC Start=1586470><P Class=ENCC>
+But you must<br>understand,
+<SYNC Start=1588371><P Class=ENCC>&nbsp;
+<SYNC Start=1588373><P Class=ENCC>
+the first ingredient<br>for intimacy is trust.
+<SYNC Start=1591905><P Class=ENCC>&nbsp;
+<SYNC Start=1595344><P Class=ENCC>
+SOTO:<br>Please sit down.
+<SYNC Start=1596845><P Class=ENCC>&nbsp;
+<SYNC Start=1596847><P Class=ENCC>
+TONY: All right, let's check out<br>these cool pillows.
+<SYNC Start=1599510><P Class=ENCC>&nbsp;
+<SYNC Start=1599512><P Class=ENCC>
+Comfy.
+<SYNC Start=1600878><P Class=ENCC>&nbsp;
+<SYNC Start=1600880><P Class=ENCC>
+(grunts, laughs)
+<SYNC Start=1602046><P Class=ENCC>&nbsp;
+<SYNC Start=1602048><P Class=ENCC>
+SOTO:<br>Uh...
+<SYNC Start=1603685><P Class=ENCC>&nbsp;
+<SYNC Start=1603687><P Class=ENCC>
+why don't you both sit down?
+<SYNC Start=1605781><P Class=ENCC>&nbsp;
+<SYNC Start=1605783><P Class=ENCC>
+Actually, I have to use<br>the restroom.
+<SYNC Start=1607453><P Class=ENCC>&nbsp;
+<SYNC Start=1607455><P Class=ENCC>
+Please.
+<SYNC Start=1608652><P Class=ENCC>&nbsp;
+<SYNC Start=1608654><P Class=ENCC>
+You're here, so be here.
+<SYNC Start=1610851><P Class=ENCC>&nbsp;
+<SYNC Start=1610853><P Class=ENCC>
+But I really...
+<SYNC Start=1611788><P Class=ENCC>&nbsp;
+<SYNC Start=1611790><P Class=ENCC>
+Sit.<br>Please.
+<SYNC Start=1613829><P Class=ENCC>&nbsp;
+<SYNC Start=1614832><P Class=ENCC>
+Okay.
+<SYNC Start=1616126><P Class=ENCC>&nbsp;
+<SYNC Start=1616128><P Class=ENCC>
+(quietly):<br>Thank you.
+<SYNC Start=1617999><P Class=ENCC>&nbsp;
+<SYNC Start=1619201><P Class=ENCC>
+Now, take his hands.<br>Huh?
+<SYNC Start=1621797><P Class=ENCC>&nbsp;
+<SYNC Start=1621799><P Class=ENCC>
+Oh, gosh. For real, I-I'm<br>actually getting over a cold.
+<SYNC Start=1624604><P Class=ENCC>&nbsp;
+<SYNC Start=1624606><P Class=ENCC>
+Hands-- out.
+<SYNC Start=1626835><P Class=ENCC>&nbsp;
+<SYNC Start=1626837><P Class=ENCC>
+Guess that's better<br>than my feet.
+<SYNC Start=1628770><P Class=ENCC>&nbsp;
+<SYNC Start=1628772><P Class=ENCC>
+(awkward laughter)
+<SYNC Start=1630841><P Class=ENCC>&nbsp;
+<SYNC Start=1630843><P Class=ENCC>
+Now, look into his eyes...
+<SYNC Start=1632840><P Class=ENCC>&nbsp;
+<SYNC Start=1632842><P Class=ENCC>
+(mouthing)
+<SYNC Start=1634270><P Class=ENCC>&nbsp;
+<SYNC Start=1634272><P Class=ENCC>
+Ah, geez.
+<SYNC Start=1635941><P Class=ENCC>&nbsp;
+<SYNC Start=1635943><P Class=ENCC>
+I can't watch this.
+<SYNC Start=1637604><P Class=ENCC>&nbsp;
+<SYNC Start=1642516><P Class=ENCC>
+Okay. Now what?
+<SYNC Start=1643714><P Class=ENCC>&nbsp;
+<SYNC Start=1643716><P Class=ENCC>
+No. Don't break eye contact.
+<SYNC Start=1645913><P Class=ENCC>&nbsp;
+<SYNC Start=1648617><P Class=ENCC>
+BISHOP:<br>So, now what?
+<SYNC Start=1650320><P Class=ENCC>&nbsp;
+<SYNC Start=1650322><P Class=ENCC>
+Just keep looking.
+<SYNC Start=1652551><P Class=ENCC>&nbsp;
+<SYNC Start=1655994><P Class=ENCC>
+He's going to file<br>for hazard pay.
+<SYNC Start=1659057><P Class=ENCC>&nbsp;
+<SYNC Start=1674821><P Class=ENCC>
+Whoa.
+<SYNC Start=1676692><P Class=ENCC>&nbsp;
+<SYNC Start=1676694><P Class=ENCC>
+Okay... tailhooking<br>is the coolest thing
+<SYNC Start=1679093><P Class=ENCC>&nbsp;
+<SYNC Start=1679095><P Class=ENCC>
+I have ever done<br>in my life.
+<SYNC Start=1680893><P Class=ENCC>&nbsp;
+<SYNC Start=1680895><P Class=ENCC>
+Well, so much<br>for hugging a panda.
+<SYNC Start=1682894><P Class=ENCC>&nbsp;
+<SYNC Start=1682896><P Class=ENCC>
+Agent McGee, Ms. Sciuto,<br>glad you could make it.
+<SYNC Start=1685333><P Class=ENCC>&nbsp;
+<SYNC Start=1685335><P Class=ENCC>
+Follow me.<br>We're tight on time.
+<SYNC Start=1686998><P Class=ENCC>&nbsp;
+<SYNC Start=1687000><P Class=ENCC>
+Any progress<br>accessing Orlando's laptop?
+<SYNC Start=1689501><P Class=ENCC>&nbsp;
+<SYNC Start=1689503><P Class=ENCC>
+I'll let Petty Officer<br>Goode fill you in.
+<SYNC Start=1692308><P Class=ENCC>&nbsp;
+<SYNC Start=1695941><P Class=ENCC>
+Hi. I'm...
+<SYNC Start=1697171><P Class=ENCC>&nbsp;
+<SYNC Start=1697173><P Class=ENCC>
+Yeah, yeah, yeah, Agent McGee.
+<SYNC Start=1699579><P Class=ENCC>&nbsp;
+<SYNC Start=1699581><P Class=ENCC>
+You wasted your time<br>coming here.
+<SYNC Start=1701074><P Class=ENCC>&nbsp;
+<SYNC Start=1701076><P Class=ENCC>
+I was able to access<br>the laptop on my own,
+<SYNC Start=1703412><P Class=ENCC>&nbsp;
+<SYNC Start=1703414><P Class=ENCC>
+so you might as well<br>get back on your...
+<SYNC Start=1706319><P Class=ENCC>&nbsp;
+<SYNC Start=1706321><P Class=ENCC>
+your, uh...
+<SYNC Start=1708287><P Class=ENCC>&nbsp;
+<SYNC Start=1708289><P Class=ENCC>
+You're Abby Sciuto.
+<SYNC Start=1710457><P Class=ENCC>&nbsp;
+<SYNC Start=1711763><P Class=ENCC>
+And you're...
+<SYNC Start=1713802><P Class=ENCC>&nbsp;
+<SYNC Start=1713804><P Class=ENCC>
+Petty Officer Goode.
+<SYNC Start=1715202><P Class=ENCC>&nbsp;
+<SYNC Start=1715204><P Class=ENCC>
+You dated my roommate's<br>brother's best friend,
+<SYNC Start=1718568><P Class=ENCC>&nbsp;
+<SYNC Start=1718570><P Class=ENCC>
+like, 11 years ago.
+<SYNC Start=1720799><P Class=ENCC>&nbsp;
+<SYNC Start=1721705><P Class=ENCC>
+Wow.<br>You have a really good memory.
+<SYNC Start=1724006><P Class=ENCC>&nbsp;
+<SYNC Start=1724008><P Class=ENCC>
+You're kind of memorable.
+<SYNC Start=1725942><P Class=ENCC>&nbsp;
+<SYNC Start=1725944><P Class=ENCC>
+ABBY:<br>Um...
+<SYNC Start=1727638><P Class=ENCC>&nbsp;
+<SYNC Start=1727640><P Class=ENCC>
+uh, so you accessed the laptop.
+<SYNC Start=1729677><P Class=ENCC>&nbsp;
+<SYNC Start=1729679><P Class=ENCC>
+Yeah.
+<SYNC Start=1731045><P Class=ENCC>&nbsp;
+<SYNC Start=1731047><P Class=ENCC>
+And...?
+<SYNC Start=1732548><P Class=ENCC>&nbsp;
+<SYNC Start=1732550><P Class=ENCC>
+Oh, and I found<br>the details to the meeting
+<SYNC Start=1734548><P Class=ENCC>&nbsp;
+<SYNC Start=1734550><P Class=ENCC>
+on Orlando's compound<br>that we already knew about.
+<SYNC Start=1736611><P Class=ENCC>&nbsp;
+<SYNC Start=1736613><P Class=ENCC>
+That was about it.
+<SYNC Start=1737946><P Class=ENCC>&nbsp;
+<SYNC Start=1737948><P Class=ENCC>
+Okay. Do you mind if we<br>take a look ourselves?
+<SYNC Start=1740713><P Class=ENCC>&nbsp;
+<SYNC Start=1740715><P Class=ENCC>
+Uh, hold on--<br>one second.
+<SYNC Start=1742288><P Class=ENCC>&nbsp;
+<SYNC Start=1742290><P Class=ENCC>
+Did you say 11 years ago?
+<SYNC Start=1743856><P Class=ENCC>&nbsp;
+<SYNC Start=1743858><P Class=ENCC>
+No.<br>Yeah.
+<SYNC Start=1745120><P Class=ENCC>&nbsp;
+<SYNC Start=1745122><P Class=ENCC>
+Uh, my roommate's<br>brother's best friend
+<SYNC Start=1747255><P Class=ENCC>&nbsp;
+<SYNC Start=1747257><P Class=ENCC>
+was a barista at this<br>coffeehouse called Buzzed.
+<SYNC Start=1749854><P Class=ENCC>&nbsp;
+<SYNC Start=1749856><P Class=ENCC>
+Oh, Buzzed.
+<SYNC Start=1751494><P Class=ENCC>&nbsp;
+<SYNC Start=1751496><P Class=ENCC>
+Hey, we know that well.
+<SYNC Start=1753126><P Class=ENCC>&nbsp;
+<SYNC Start=1753128><P Class=ENCC>
+I used to take you there<br>all the time, 11 years ago.
+<SYNC Start=1754758><P Class=ENCC>&nbsp;
+<SYNC Start=1754760><P Class=ENCC>
+Oh.
+<SYNC Start=1756126><P Class=ENCC>&nbsp;
+<SYNC Start=1756128><P Class=ENCC>
+(chuckling):<br>Oh.
+<SYNC Start=1757567><P Class=ENCC>&nbsp;
+<SYNC Start=1757569><P Class=ENCC>
+So, are the two of you...
+<SYNC Start=1759263><P Class=ENCC>&nbsp;
+<SYNC Start=1759265><P Class=ENCC>
+No.<br>No.
+<SYNC Start=1760800><P Class=ENCC>&nbsp;
+<SYNC Start=1760802><P Class=ENCC>
+ABBY:<br>Uh...
+<SYNC Start=1761968><P Class=ENCC>&nbsp;
+<SYNC Start=1761970><P Class=ENCC>
+(sighs)<br>(sighs) What was that?
+<SYNC Start=1764176><P Class=ENCC>&nbsp;
+<SYNC Start=1764178><P Class=ENCC>
+I mean, you know, you're...<br>you're like my brother and...
+<SYNC Start=1767482><P Class=ENCC>&nbsp;
+<SYNC Start=1767484><P Class=ENCC>
+Yeah, I know,<br>you're like my sister,
+<SYNC Start=1769010><P Class=ENCC>&nbsp;
+<SYNC Start=1769012><P Class=ENCC>
+but I wouldn't (sighs) you<br>like that. Come on.
+<SYNC Start=1771050><P Class=ENCC>&nbsp;
+<SYNC Start=1771052><P Class=ENCC>
+(chuckling):<br>Oh. Okay, now I get it.
+<SYNC Start=1774154><P Class=ENCC>&nbsp;
+<SYNC Start=1774156><P Class=ENCC>
+What do you get?
+<SYNC Start=1775892><P Class=ENCC>&nbsp;
+<SYNC Start=1775894><P Class=ENCC>
+You got dogged by the barista.
+<SYNC Start=1778093><P Class=ENCC>&nbsp;
+<SYNC Start=1778095><P Class=ENCC>
+Right under your nose.
+<SYNC Start=1780725><P Class=ENCC>&nbsp;
+<SYNC Start=1780727><P Class=ENCC>
+Uh, could we just please<br>get to work and...?
+<SYNC Start=1784562><P Class=ENCC>&nbsp;
+<SYNC Start=1784564><P Class=ENCC>
+I mean, it was...<br>Abby, don't worry about it.
+<SYNC Start=1786665><P Class=ENCC>&nbsp;
+<SYNC Start=1786667><P Class=ENCC>
+It's ancient history.<br>It's fine.
+<SYNC Start=1787865><P Class=ENCC>&nbsp;
+<SYNC Start=1787867><P Class=ENCC>
+Listen, you,
+<SYNC Start=1790537><P Class=ENCC>&nbsp;
+<SYNC Start=1790539><P Class=ENCC>
+our friend Abby Sciuto<br>here said that we need
+<SYNC Start=1792201><P Class=ENCC>&nbsp;
+<SYNC Start=1792203><P Class=ENCC>
+to get to work, so...<br>how about we do that?
+<SYNC Start=1794735><P Class=ENCC>&nbsp;
+<SYNC Start=1794737><P Class=ENCC>
+Yeah, uh...<br>if I let that one get away,
+<SYNC Start=1797333><P Class=ENCC>&nbsp;
+<SYNC Start=1797335><P Class=ENCC>
+I'd bury myself in my work, too.
+<SYNC Start=1799307><P Class=ENCC>&nbsp;
+<SYNC Start=1799309><P Class=ENCC>
+Or start drinking.
+<SYNC Start=1800835><P Class=ENCC>&nbsp;
+<SYNC Start=1800837><P Class=ENCC>
+(laughs) My lady.
+<SYNC Start=1803043><P Class=ENCC>&nbsp;
+<SYNC Start=1811284><P Class=ENCC>
+Oh. How did your<br>undercover op go?
+<SYNC Start=1814218><P Class=ENCC>&nbsp;
+<SYNC Start=1814220><P Class=ENCC>
+No comment.
+<SYNC Start=1815850><P Class=ENCC>&nbsp;
+<SYNC Start=1815852><P Class=ENCC>
+(sighs)<br>I need a shower.
+<SYNC Start=1817786><P Class=ENCC>&nbsp;
+<SYNC Start=1817788><P Class=ENCC>
+Oh... (chuckles)
+<SYNC Start=1820626><P Class=ENCC>&nbsp;
+<SYNC Start=1821860><P Class=ENCC>
+So, uh, who's briefing Gibbs?
+<SYNC Start=1824298><P Class=ENCC>&nbsp;
+<SYNC Start=1824300><P Class=ENCC>
+Not me.
+<SYNC Start=1825762><P Class=ENCC>&nbsp;
+<SYNC Start=1825764><P Class=ENCC>
+I need a moment.
+<SYNC Start=1827194><P Class=ENCC>&nbsp;
+<SYNC Start=1827196><P Class=ENCC>
+For what?
+<SYNC Start=1829234><P Class=ENCC>&nbsp;
+<SYNC Start=1830068><P Class=ENCC>
+I may have intimacy issues.
+<SYNC Start=1831970><P Class=ENCC>&nbsp;
+<SYNC Start=1831972><P Class=ENCC>
+Well, tonight,<br>I was thankful for them.
+<SYNC Start=1836306><P Class=ENCC>&nbsp;
+<SYNC Start=1839842><P Class=ENCC>
+Our people having any luck<br>with Orlando's laptop?
+<SYNC Start=1842175><P Class=ENCC>&nbsp;
+<SYNC Start=1842177><P Class=ENCC>
+Agent McGee said<br>they'll need another hour.
+<SYNC Start=1844612><P Class=ENCC>&nbsp;
+<SYNC Start=1844614><P Class=ENCC>
+It's getting tight.
+<SYNC Start=1845612><P Class=ENCC>&nbsp;
+<SYNC Start=1845614><P Class=ENCC>
+What about the agents
+<SYNC Start=1846877><P Class=ENCC>&nbsp;
+<SYNC Start=1846879><P Class=ENCC>
+who made contact with<br>the family member?
+<SYNC Start=1848917><P Class=ENCC>&nbsp;
+<SYNC Start=1848919><P Class=ENCC>
+Bishop.
+<SYNC Start=1850013><P Class=ENCC>&nbsp;
+<SYNC Start=1850015><P Class=ENCC>
+I finally got permission<br>to use the restroom...
+<SYNC Start=1852221><P Class=ENCC>&nbsp;
+<SYNC Start=1852223><P Class=ENCC>
+Is she talking to Orlando?
+<SYNC Start=1853789><P Class=ENCC>&nbsp;
+<SYNC Start=1853791><P Class=ENCC>
+It's going to take<br>some time to find out.
+<SYNC Start=1855756><P Class=ENCC>&nbsp;
+<SYNC Start=1855758><P Class=ENCC>
+She's got some issues<br>of her own.
+<SYNC Start=1857419><P Class=ENCC>&nbsp;
+<SYNC Start=1857421><P Class=ENCC>
+She's a cyber-hoarder.
+<SYNC Start=1858923><P Class=ENCC>&nbsp;
+<SYNC Start=1858925><P Class=ENCC>
+She's got three decades<br>of files on her PC.
+<SYNC Start=1860828><P Class=ENCC>&nbsp;
+<SYNC Start=1860830><P Class=ENCC>
+It could take weeks<br>to run it all down.
+<SYNC Start=1862596><P Class=ENCC>&nbsp;
+<SYNC Start=1862598><P Class=ENCC>
+We don't have weeks.
+<SYNC Start=1863828><P Class=ENCC>&nbsp;
+<SYNC Start=1863830><P Class=ENCC>
+Just a matter of time<br>before Orlando
+<SYNC Start=1865260><P Class=ENCC>&nbsp;
+<SYNC Start=1865262><P Class=ENCC>
+finds out Navy SEALs<br>were in his compound.
+<SYNC Start=1867164><P Class=ENCC>&nbsp;
+<SYNC Start=1867166><P Class=ENCC>
+Then he goes down and<br>never comes back up again.
+<SYNC Start=1869668><P Class=ENCC>&nbsp;
+<SYNC Start=1869670><P Class=ENCC>
+We either find this guy<br>this go-around
+<SYNC Start=1870900><P Class=ENCC>&nbsp;
+<SYNC Start=1870902><P Class=ENCC>
+or we could lose him forever.
+<SYNC Start=1871900><P Class=ENCC>&nbsp;
+<SYNC Start=1871902><P Class=ENCC>
+Found him.
+<SYNC Start=1874036><P Class=ENCC>&nbsp;
+<SYNC Start=1874942><P Class=ENCC>
+Where?
+<SYNC Start=1875972><P Class=ENCC>&nbsp;
+<SYNC Start=1875974><P Class=ENCC>
+Squad room.
+<SYNC Start=1877372><P Class=ENCC>&nbsp;
+<SYNC Start=1878742><P Class=ENCC>
+In the where?
+<SYNC Start=1880116><P Class=ENCC>&nbsp;
+<SYNC Start=1880118><P Class=ENCC>
+Squad room, ma'am.
+<SYNC Start=1882045><P Class=ENCC>&nbsp;
+<SYNC Start=1891761><P Class=ENCC>
+Hello.
+<SYNC Start=1893861><P Class=ENCC>&nbsp;
+<SYNC Start=1893863><P Class=ENCC>
+I am TomÃ¡s Orlando.
+<SYNC Start=1897500><P Class=ENCC>&nbsp;
+<SYNC Start=1899630><P Class=ENCC>
+I am seeking asylum from<br>the United States of America.
+<SYNC Start=1904099><P Class=ENCC>&nbsp;
+<SYNC Start=1919258><P Class=ENCC>
+(door opens)
+<SYNC Start=1921394><P Class=ENCC>&nbsp;
+<SYNC Start=1923999><P Class=ENCC>
+Per regulations, I notified<br>State of his asylum request.
+<SYNC Start=1927005><P Class=ENCC>&nbsp;
+<SYNC Start=1927007><P Class=ENCC>
+They wanted<br>to know, quote,
+<SYNC Start=1929807><P Class=ENCC>&nbsp;
+<SYNC Start=1929809><P Class=ENCC>
+â€œhow the hell<br>he got through customs.â€
+<SYNC Start=1931511><P Class=ENCC>&nbsp;
+<SYNC Start=1931513><P Class=ENCC>
+Well, he's a professional<br>drug smuggler.
+<SYNC Start=1933176><P Class=ENCC>&nbsp;
+<SYNC Start=1933178><P Class=ENCC>
+I doubt he<br>waited in line.
+<SYNC Start=1934648><P Class=ENCC>&nbsp;
+<SYNC Start=1934650><P Class=ENCC>
+What's he up to?
+<SYNC Start=1935776><P Class=ENCC>&nbsp;
+<SYNC Start=1935778><P Class=ENCC>
+Well, whatever it is,
+<SYNC Start=1938080><P Class=ENCC>&nbsp;
+<SYNC Start=1938082><P Class=ENCC>
+he's got a pair,<br>I'll give him that.
+<SYNC Start=1941814><P Class=ENCC>&nbsp;
+<SYNC Start=1941816><P Class=ENCC>
+So what's the play?
+<SYNC Start=1944055><P Class=ENCC>&nbsp;
+<SYNC Start=1944057><P Class=ENCC>
+He came to us.
+<SYNC Start=1945791><P Class=ENCC>&nbsp;
+<SYNC Start=1945793><P Class=ENCC>
+Let's go find out.
+<SYNC Start=1947527><P Class=ENCC>&nbsp;
+<SYNC Start=1963604><P Class=ENCC>
+May I assume you've spoken<br>to your State Department?
+<SYNC Start=1966771><P Class=ENCC>&nbsp;
+<SYNC Start=1966773><P Class=ENCC>
+(Tony scoffs)
+<SYNC Start=1968509><P Class=ENCC>&nbsp;
+<SYNC Start=1968511><P Class=ENCC>
+I wouldn't hold<br>my breath.
+<SYNC Start=1970213><P Class=ENCC>&nbsp;
+<SYNC Start=1970215><P Class=ENCC>
+Asylum isn't really<br>for, um...
+<SYNC Start=1972214><P Class=ENCC>&nbsp;
+<SYNC Start=1972216><P Class=ENCC>
+What do they call<br>it again?
+<SYNC Start=1973782><P Class=ENCC>&nbsp;
+<SYNC Start=1973784><P Class=ENCC>
+Oh, yeah, terrorists.
+<SYNC Start=1975286><P Class=ENCC>&nbsp;
+<SYNC Start=1977121><P Class=ENCC>
+I'm a freedom fighter.
+<SYNC Start=1978720><P Class=ENCC>&nbsp;
+<SYNC Start=1978722><P Class=ENCC>
+You are a murderer<br>and a drug dealer.
+<SYNC Start=1982055><P Class=ENCC>&nbsp;
+<SYNC Start=1982057><P Class=ENCC>
+Maybe if your country<br>stopped giving weapons
+<SYNC Start=1984958><P Class=ENCC>&nbsp;
+<SYNC Start=1984960><P Class=ENCC>
+to the wrong team,
+<SYNC Start=1986429><P Class=ENCC>&nbsp;
+<SYNC Start=1986431><P Class=ENCC>
+I wouldn't have to sell drugs<br>to finance my cause.
+<SYNC Start=1989427><P Class=ENCC>&nbsp;
+<SYNC Start=1989429><P Class=ENCC>
+Oh, really?
+<SYNC Start=1991027><P Class=ENCC>&nbsp;
+<SYNC Start=1991029><P Class=ENCC>
+You got a cause?<br>Justice.
+<SYNC Start=1992930><P Class=ENCC>&nbsp;
+<SYNC Start=1992932><P Class=ENCC>
+From a corrupt government.
+<SYNC Start=1995866><P Class=ENCC>&nbsp;
+<SYNC Start=1995868><P Class=ENCC>
+A government which has<br>imprisoned me for decades
+<SYNC Start=1998537><P Class=ENCC>&nbsp;
+<SYNC Start=1998539><P Class=ENCC>
+because I stood up to it.
+<SYNC Start=2000335><P Class=ENCC>&nbsp;
+<SYNC Start=2000337><P Class=ENCC>
+So now you're going to be<br>in prison here, for decades.
+<SYNC Start=2004032><P Class=ENCC>&nbsp;
+<SYNC Start=2004034><P Class=ENCC>
+I had nothing to do<br>with that airport attack.
+<SYNC Start=2007394><P Class=ENCC>&nbsp;
+<SYNC Start=2007396><P Class=ENCC>
+Nothing.
+<SYNC Start=2009463><P Class=ENCC>&nbsp;
+<SYNC Start=2009465><P Class=ENCC>
+That's interesting.
+<SYNC Start=2011993><P Class=ENCC>&nbsp;
+<SYNC Start=2013824><P Class=ENCC>
+Your DNA was<br>on the bomb, pal.
+<SYNC Start=2016124><P Class=ENCC>&nbsp;
+<SYNC Start=2016126><P Class=ENCC>
+Whatever DNA you<br>have is not mine!
+<SYNC Start=2019856><P Class=ENCC>&nbsp;
+<SYNC Start=2022330><P Class=ENCC>
+I'm being set up.
+<SYNC Start=2024598><P Class=ENCC>&nbsp;
+<SYNC Start=2025897><P Class=ENCC>
+Talk.
+<SYNC Start=2028000><P Class=ENCC>&nbsp;
+<SYNC Start=2028835><P Class=ENCC>
+I've known for months
+<SYNC Start=2030771><P Class=ENCC>&nbsp;
+<SYNC Start=2030773><P Class=ENCC>
+the United States<br>government was trying
+<SYNC Start=2032107><P Class=ENCC>&nbsp;
+<SYNC Start=2032109><P Class=ENCC>
+to get a sample<br>of my DNA.
+<SYNC Start=2033876><P Class=ENCC>&nbsp;
+<SYNC Start=2033878><P Class=ENCC>
+I just didn't know why.
+<SYNC Start=2035948><P Class=ENCC>&nbsp;
+<SYNC Start=2035950><P Class=ENCC>
+At least not until your<br>informant was killed.
+<SYNC Start=2041317><P Class=ENCC>&nbsp;
+<SYNC Start=2042151><P Class=ENCC>
+The girl...
+<SYNC Start=2044086><P Class=ENCC>&nbsp;
+<SYNC Start=2044088><P Class=ENCC>
+her family came to<br>me for protection.
+<SYNC Start=2048588><P Class=ENCC>&nbsp;
+<SYNC Start=2048590><P Class=ENCC>
+They told me everything.
+<SYNC Start=2050762><P Class=ENCC>&nbsp;
+<SYNC Start=2051996><P Class=ENCC>
+That's when I realized<br>I was being framed.
+<SYNC Start=2055426><P Class=ENCC>&nbsp;
+<SYNC Start=2055428><P Class=ENCC>
+I had nothing to do with<br>the Metropolitan bombing.
+<SYNC Start=2058569><P Class=ENCC>&nbsp;
+<SYNC Start=2058571><P Class=ENCC>
+Nothing to do with it.
+<SYNC Start=2060768><P Class=ENCC>&nbsp;
+<SYNC Start=2061801><P Class=ENCC>
+Fascinating.
+<SYNC Start=2063071><P Class=ENCC>&nbsp;
+<SYNC Start=2063073><P Class=ENCC>
+So you just decided<br>to pop up north here
+<SYNC Start=2065469><P Class=ENCC>&nbsp;
+<SYNC Start=2065471><P Class=ENCC>
+and tell us that in person?
+<SYNC Start=2067701><P Class=ENCC>&nbsp;
+<SYNC Start=2067703><P Class=ENCC>
+I came here because<br>I have a family.
+<SYNC Start=2070837><P Class=ENCC>&nbsp;
+<SYNC Start=2070839><P Class=ENCC>
+And I know how<br>you cowboys work.
+<SYNC Start=2074012><P Class=ENCC>&nbsp;
+<SYNC Start=2074014><P Class=ENCC>
+Shoot first,<br>ask questions later.
+<SYNC Start=2076612><P Class=ENCC>&nbsp;
+<SYNC Start=2081086><P Class=ENCC>
+My children...
+<SYNC Start=2083387><P Class=ENCC>&nbsp;
+<SYNC Start=2083389><P Class=ENCC>
+are more important to me<br>than my entire empire.
+<SYNC Start=2087986><P Class=ENCC>&nbsp;
+<SYNC Start=2087988><P Class=ENCC>
+I'm not willing to risk them<br>getting cruise-missiled
+<SYNC Start=2091321><P Class=ENCC>&nbsp;
+<SYNC Start=2091323><P Class=ENCC>
+coming home from<br>school one day.
+<SYNC Start=2093561><P Class=ENCC>&nbsp;
+<SYNC Start=2094794><P Class=ENCC>
+I want them to<br>learn how to read,
+<SYNC Start=2097798><P Class=ENCC>&nbsp;
+<SYNC Start=2097800><P Class=ENCC>
+not how to scan the skies,<br>looking for drones.
+<SYNC Start=2101396><P Class=ENCC>&nbsp;
+<SYNC Start=2103301><P Class=ENCC>
+So...
+<SYNC Start=2105496><P Class=ENCC>&nbsp;
+<SYNC Start=2107727><P Class=ENCC>
+You win.
+<SYNC Start=2109660><P Class=ENCC>&nbsp;
+<SYNC Start=2111069><P Class=ENCC>
+Just like that.
+<SYNC Start=2113162><P Class=ENCC>&nbsp;
+<SYNC Start=2113164><P Class=ENCC>
+I was retiring anyway.
+<SYNC Start=2115369><P Class=ENCC>&nbsp;
+<SYNC Start=2117098><P Class=ENCC>
+I was announcing it at that<br>meeting you tried to crash.
+<SYNC Start=2120272><P Class=ENCC>&nbsp;
+<SYNC Start=2122042><P Class=ENCC>
+And I can see that<br>you don't trust me.
+<SYNC Start=2124744><P Class=ENCC>&nbsp;
+<SYNC Start=2124746><P Class=ENCC>
+The beauty is...
+<SYNC Start=2127039><P Class=ENCC>&nbsp;
+<SYNC Start=2127041><P Class=ENCC>
+you don't need to.
+<SYNC Start=2130077><P Class=ENCC>&nbsp;
+<SYNC Start=2131310><P Class=ENCC>
+See for yourself.
+<SYNC Start=2133042><P Class=ENCC>&nbsp;
+<SYNC Start=2133916><P Class=ENCC>
+I didn't make that bomb.
+<SYNC Start=2136080><P Class=ENCC>&nbsp;
+<SYNC Start=2137282><P Class=ENCC>
+Whoever did found out<br>that you're after him...
+<SYNC Start=2140511><P Class=ENCC>&nbsp;
+<SYNC Start=2142384><P Class=ENCC>
+...and he is playing you.
+<SYNC Start=2145020><P Class=ENCC>&nbsp;
+<SYNC Start=2148788><P Class=ENCC>
+He's playing you like a fiddle.
+<SYNC Start=2151952><P Class=ENCC>&nbsp;
+<SYNC Start=2156757><P Class=ENCC>
+JIMMY: Found the instruction<br>book in the drawer.
+<SYNC Start=2159322><P Class=ENCC>&nbsp;
+<SYNC Start=2159324><P Class=ENCC>
+Just like Abby said.
+<SYNC Start=2161855><P Class=ENCC>&nbsp;
+<SYNC Start=2161857><P Class=ENCC>
+I have Orlando's DNA.
+<SYNC Start=2163990><P Class=ENCC>&nbsp;
+<SYNC Start=2166023><P Class=ENCC>
+Let's see if we<br>can match it
+<SYNC Start=2168956><P Class=ENCC>&nbsp;
+<SYNC Start=2168958><P Class=ENCC>
+to the original<br>airport bomb.
+<SYNC Start=2171964><P Class=ENCC>&nbsp;
+<SYNC Start=2171966><P Class=ENCC>
+Maybe you guys need a Caf-POW.
+<SYNC Start=2173260><P Class=ENCC>&nbsp;
+<SYNC Start=2173262><P Class=ENCC>
+Are you sure<br>you can handle this?
+<SYNC Start=2174901><P Class=ENCC>&nbsp;
+<SYNC Start=2174903><P Class=ENCC>
+DUCKY:<br>Absolutely.
+<SYNC Start=2176029><P Class=ENCC>&nbsp;
+<SYNC Start=2176031><P Class=ENCC>
+The instruction manual,<br>please, Mr. Palmer.
+<SYNC Start=2178166><P Class=ENCC>&nbsp;
+<SYNC Start=2178168><P Class=ENCC>
+Don't you think<br>that I should probably take
+<SYNC Start=2181143><P Class=ENCC>&nbsp;
+<SYNC Start=2181145><P Class=ENCC>
+the driver's seat<br>on this one, Doctor?
+<SYNC Start=2182943><P Class=ENCC>&nbsp;
+<SYNC Start=2182945><P Class=ENCC>
+Driver's seat?
+<SYNC Start=2185311><P Class=ENCC>&nbsp;
+<SYNC Start=2185313><P Class=ENCC>
+This is an autopsy-- I do have<br>more extensive lab training.
+<SYNC Start=2188849><P Class=ENCC>&nbsp;
+<SYNC Start=2188851><P Class=ENCC>
+Oh, really?
+<SYNC Start=2190922><P Class=ENCC>&nbsp;
+<SYNC Start=2190924><P Class=ENCC>
+Oh, come now, gentlemen.
+<SYNC Start=2192386><P Class=ENCC>&nbsp;
+<SYNC Start=2192388><P Class=ENCC>
+No need to fight.
+<SYNC Start=2193722><P Class=ENCC>&nbsp;
+<SYNC Start=2193724><P Class=ENCC>
+I graduated<br>with top honors
+<SYNC Start=2195122><P Class=ENCC>&nbsp;
+<SYNC Start=2195124><P Class=ENCC>
+from my class of Forensics
+<SYNC Start=2197059><P Class=ENCC>&nbsp;
+<SYNC Start=2197061><P Class=ENCC>
+at, uh, the University<br>of Edinburgh.
+<SYNC Start=2199628><P Class=ENCC>&nbsp;
+<SYNC Start=2199630><P Class=ENCC>
+Yes, in nineteen-twenty...?
+<SYNC Start=2201932><P Class=ENCC>&nbsp;
+<SYNC Start=2201934><P Class=ENCC>
+Pull up, Jimbo.<br>I'm just saying.
+<SYNC Start=2203836><P Class=ENCC>&nbsp;
+<SYNC Start=2203838><P Class=ENCC>
+That you wish to be<br>cleaning intestines
+<SYNC Start=2206171><P Class=ENCC>&nbsp;
+<SYNC Start=2206173><P Class=ENCC>
+off the autopsy floor<br>for the remainder
+<SYNC Start=2208706><P Class=ENCC>&nbsp;
+<SYNC Start=2208708><P Class=ENCC>
+of your tenure at NCIS?
+<SYNC Start=2211011><P Class=ENCC>&nbsp;
+<SYNC Start=2212109><P Class=ENCC>
+That sounded<br>like a threat, Doctor.
+<SYNC Start=2214076><P Class=ENCC>&nbsp;
+<SYNC Start=2214078><P Class=ENCC>
+Well, apparently, my command<br>of the English language
+<SYNC Start=2217317><P Class=ENCC>&nbsp;
+<SYNC Start=2217319><P Class=ENCC>
+has not been dulled by<br>the ravages of time.
+<SYNC Start=2220992><P Class=ENCC>&nbsp;
+<SYNC Start=2220994><P Class=ENCC>
+Nor my ability to read.
+<SYNC Start=2224160><P Class=ENCC>&nbsp;
+<SYNC Start=2226929><P Class=ENCC>
+Let it go, Elsa.
+<SYNC Start=2229599><P Class=ENCC>&nbsp;
+<SYNC Start=2234107><P Class=ENCC>
+You wanted to speak<br>with me, Ambassador?
+<SYNC Start=2236010><P Class=ENCC>&nbsp;
+<SYNC Start=2236012><P Class=ENCC>
+Yes, I'm running out of lies to<br>tell the Columbian government.
+<SYNC Start=2239043><P Class=ENCC>&nbsp;
+<SYNC Start=2239045><P Class=ENCC>
+They know we're up to something.
+<SYNC Start=2240676><P Class=ENCC>&nbsp;
+<SYNC Start=2240678><P Class=ENCC>
+It's a moot point now.
+<SYNC Start=2242284><P Class=ENCC>&nbsp;
+<SYNC Start=2242286><P Class=ENCC>
+My men are pulling back<br>to the extraction point
+<SYNC Start=2244654><P Class=ENCC>&nbsp;
+<SYNC Start=2244656><P Class=ENCC>
+since NCIS has<br>the target in custody.
+<SYNC Start=2246591><P Class=ENCC>&nbsp;
+<SYNC Start=2246593><P Class=ENCC>
+In custody?
+<SYNC Start=2247992><P Class=ENCC>&nbsp;
+<SYNC Start=2247994><P Class=ENCC>
+Since when?
+<SYNC Start=2249424><P Class=ENCC>&nbsp;
+<SYNC Start=2249426><P Class=ENCC>
+He turned himself in<br>while you were in conference.
+<SYNC Start=2251465><P Class=ENCC>&nbsp;
+<SYNC Start=2251467><P Class=ENCC>
+It's a fluid situation.
+<SYNC Start=2252962><P Class=ENCC>&nbsp;
+<SYNC Start=2252964><P Class=ENCC>
+He claims that he's been set up.
+<SYNC Start=2255235><P Class=ENCC>&nbsp;
+<SYNC Start=2255237><P Class=ENCC>
+It's not a claim.
+<SYNC Start=2256402><P Class=ENCC>&nbsp;
+<SYNC Start=2256404><P Class=ENCC>
+He was set up.
+<SYNC Start=2258074><P Class=ENCC>&nbsp;
+<SYNC Start=2258076><P Class=ENCC>
+Orlando's not our guy.
+<SYNC Start=2260305><P Class=ENCC>&nbsp;
+<SYNC Start=2260307><P Class=ENCC>
+His DNA does not match the<br>sample from the airport bomb.
+<SYNC Start=2264008><P Class=ENCC>&nbsp;
+<SYNC Start=2264914><P Class=ENCC>
+Someone tried to frame him.
+<SYNC Start=2266143><P Class=ENCC>&nbsp;
+<SYNC Start=2266145><P Class=ENCC>
+Are you sure?
+<SYNC Start=2267406><P Class=ENCC>&nbsp;
+<SYNC Start=2267408><P Class=ENCC>
+As it gets.
+<SYNC Start=2268876><P Class=ENCC>&nbsp;
+<SYNC Start=2268878><P Class=ENCC>
+So we have nothing.
+<SYNC Start=2270738><P Class=ENCC>&nbsp;
+<SYNC Start=2270740><P Class=ENCC>
+We're back to 40 years ago.
+<SYNC Start=2272578><P Class=ENCC>&nbsp;
+<SYNC Start=2272580><P Class=ENCC>
+No... no, we have something.
+<SYNC Start=2274211><P Class=ENCC>&nbsp;
+<SYNC Start=2274213><P Class=ENCC>
+We know the bomber's<br>still alive.
+<SYNC Start=2276052><P Class=ENCC>&nbsp;
+<SYNC Start=2276054><P Class=ENCC>
+12 hours ago, he used DNA<br>off his own head
+<SYNC Start=2278147><P Class=ENCC>&nbsp;
+<SYNC Start=2278149><P Class=ENCC>
+to try and frame Orlando.
+<SYNC Start=2279787><P Class=ENCC>&nbsp;
+<SYNC Start=2279789><P Class=ENCC>
+EDMUNDS: When the Columbians<br>realize just what kind
+<SYNC Start=2281555><P Class=ENCC>&nbsp;
+<SYNC Start=2281557><P Class=ENCC>
+of incursion we've committed,
+<SYNC Start=2283189><P Class=ENCC>&nbsp;
+<SYNC Start=2283191><P Class=ENCC>
+they'll place their military<br>on high alert.
+<SYNC Start=2285127><P Class=ENCC>&nbsp;
+<SYNC Start=2285129><P Class=ENCC>
+If I'm gonna reactivate my team,<br>we're gonna need something fast.
+<SYNC Start=2288466><P Class=ENCC>&nbsp;
+<SYNC Start=2288468><P Class=ENCC>
+Well, I guess you've come<br>to the right place.
+<SYNC Start=2290371><P Class=ENCC>&nbsp;
+<SYNC Start=2290373><P Class=ENCC>
+Or... I have.
+<SYNC Start=2292371><P Class=ENCC>&nbsp;
+<SYNC Start=2292373><P Class=ENCC>
+Hi, Gibbs.
+<SYNC Start=2294010><P Class=ENCC>&nbsp;
+<SYNC Start=2294012><P Class=ENCC>
+Hi, Vance.<br>Hi, other people
+<SYNC Start=2295474><P Class=ENCC>&nbsp;
+<SYNC Start=2295476><P Class=ENCC>
+pushing buttons<br>and stuff.
+<SYNC Start=2296546><P Class=ENCC>&nbsp;
+<SYNC Start=2296548><P Class=ENCC>
+Abbs, what do you got?
+<SYNC Start=2297611><P Class=ENCC>&nbsp;
+<SYNC Start=2297613><P Class=ENCC>
+A keystroke logger, Gibbs.
+<SYNC Start=2299580><P Class=ENCC>&nbsp;
+<SYNC Start=2299582><P Class=ENCC>
+McGee found it embedded<br>on Orlando's laptop.
+<SYNC Start=2302253><P Class=ENCC>&nbsp;
+<SYNC Start=2302255><P Class=ENCC>
+Someone has been spying<br>on him for weeks.
+<SYNC Start=2305118><P Class=ENCC>&nbsp;
+<SYNC Start=2305120><P Class=ENCC>
+Good work, but Orlando's<br>no longer our target.
+<SYNC Start=2307389><P Class=ENCC>&nbsp;
+<SYNC Start=2307391><P Class=ENCC>
+Well, who was on the other<br>side of that bug?
+<SYNC Start=2309628><P Class=ENCC>&nbsp;
+<SYNC Start=2309630><P Class=ENCC>
+Um, I traced it back to<br>a State Department IP address.
+<SYNC Start=2313092><P Class=ENCC>&nbsp;
+<SYNC Start=2313094><P Class=ENCC>
+Ambassador Edmunds...?
+<SYNC Start=2315595><P Class=ENCC>&nbsp;
+<SYNC Start=2316733><P Class=ENCC>
+You had access to Orlando's<br>computer for weeks,
+<SYNC Start=2319602><P Class=ENCC>&nbsp;
+<SYNC Start=2319604><P Class=ENCC>
+and you neglected<br>to tell us?
+<SYNC Start=2321170><P Class=ENCC>&nbsp;
+<SYNC Start=2321172><P Class=ENCC>
+I'm sorry, what<br>did you say?
+<SYNC Start=2322369><P Class=ENCC>&nbsp;
+<SYNC Start=2322371><P Class=ENCC>
+The connection's<br>getting fuzzy.
+<SYNC Start=2323665><P Class=ENCC>&nbsp;
+<SYNC Start=2324908><P Class=ENCC>
+VANCE: Get me the<br>Secretary of State.
+<SYNC Start=2326106><P Class=ENCC>&nbsp;
+<SYNC Start=2326108><P Class=ENCC>
+Tell him it's<br>an emergency.
+<SYNC Start=2327243><P Class=ENCC>&nbsp;
+<SYNC Start=2327245><P Class=ENCC>
+I need to speak with him<br>as soon as possible.
+<SYNC Start=2328475><P Class=ENCC>&nbsp;
+<SYNC Start=2328477><P Class=ENCC>
+Call Diplomatic Security<br>at Foggy Bottom, tell him
+<SYNC Start=2330044><P Class=ENCC>&nbsp;
+<SYNC Start=2330046><P Class=ENCC>
+that we have a situation<br>with Ambassador Edmunds.
+<SYNC Start=2331277><P Class=ENCC>&nbsp;
+<SYNC Start=2331279><P Class=ENCC>
+MPs caught up with her<br>in the parking lot.
+<SYNC Start=2333182><P Class=ENCC>&nbsp;
+<SYNC Start=2333184><P Class=ENCC>
+Turned herself in.
+<SYNC Start=2334318><P Class=ENCC>&nbsp;
+<SYNC Start=2334320><P Class=ENCC>
+Says she wants<br>to talk to you.
+<SYNC Start=2335583><P Class=ENCC>&nbsp;
+<SYNC Start=2335585><P Class=ENCC>
+Yeah, well,<br>feeling's mutual.
+<SYNC Start=2337857><P Class=ENCC>&nbsp;
+<SYNC Start=2346575><P Class=ENCC>
+I want to make a deal.
+<SYNC Start=2348310><P Class=ENCC>&nbsp;
+<SYNC Start=2348312><P Class=ENCC>
+Oh, I'll bet you do.
+<SYNC Start=2349575><P Class=ENCC>&nbsp;
+<SYNC Start=2349577><P Class=ENCC>
+We don't have much time,<br>you know that.
+<SYNC Start=2351512><P Class=ENCC>&nbsp;
+<SYNC Start=2351514><P Class=ENCC>
+Tell me what's going on.
+<SYNC Start=2353081><P Class=ENCC>&nbsp;
+<SYNC Start=2353083><P Class=ENCC>
+Not without a deal.
+<SYNC Start=2355018><P Class=ENCC>&nbsp;
+<SYNC Start=2355020><P Class=ENCC>
+You're protecting<br>a terrorist.
+<SYNC Start=2357753><P Class=ENCC>&nbsp;
+<SYNC Start=2359459><P Class=ENCC>
+Talk, and I will see<br>if I can help.
+<SYNC Start=2363328><P Class=ENCC>&nbsp;
+<SYNC Start=2363330><P Class=ENCC>
+They will never<br>give you a deal.
+<SYNC Start=2365759><P Class=ENCC>&nbsp;
+<SYNC Start=2367465><P Class=ENCC>
+Someone gave you access to<br>the bug on Orlando's laptop.
+<SYNC Start=2371062><P Class=ENCC>&nbsp;
+<SYNC Start=2371064><P Class=ENCC>
+You fed us his location.
+<SYNC Start=2373029><P Class=ENCC>&nbsp;
+<SYNC Start=2373031><P Class=ENCC>
+You helped set him up.
+<SYNC Start=2375732><P Class=ENCC>&nbsp;
+<SYNC Start=2375734><P Class=ENCC>
+Who are you working for?
+<SYNC Start=2377236><P Class=ENCC>&nbsp;
+<SYNC Start=2377238><P Class=ENCC>
+I'm not working for anybody.
+<SYNC Start=2379605><P Class=ENCC>&nbsp;
+<SYNC Start=2381143><P Class=ENCC>
+I'm not a willing<br>accomplice.
+<SYNC Start=2383342><P Class=ENCC>&nbsp;
+<SYNC Start=2384449><P Class=ENCC>
+I was threatened.
+<SYNC Start=2386344><P Class=ENCC>&nbsp;
+<SYNC Start=2386346><P Class=ENCC>
+By who?
+<SYNC Start=2388385><P Class=ENCC>&nbsp;
+<SYNC Start=2390251><P Class=ENCC>
+35 years ago,
+<SYNC Start=2392554><P Class=ENCC>&nbsp;
+<SYNC Start=2392556><P Class=ENCC>
+he was in prison for leading<br>a Communist rebel group.
+<SYNC Start=2395260><P Class=ENCC>&nbsp;
+<SYNC Start=2395262><P Class=ENCC>
+When he got out,<br>he moved into the drug trade.
+<SYNC Start=2398163><P Class=ENCC>&nbsp;
+<SYNC Start=2398165><P Class=ENCC>
+He told me if I didn't<br>help him frame Orlando,
+<SYNC Start=2400131><P Class=ENCC>&nbsp;
+<SYNC Start=2400133><P Class=ENCC>
+he would kill<br>everyone I care about.
+<SYNC Start=2402163><P Class=ENCC>&nbsp;
+<SYNC Start=2402165><P Class=ENCC>
+Why didn't you come to us?
+<SYNC Start=2404299><P Class=ENCC>&nbsp;
+<SYNC Start=2408740><P Class=ENCC>
+Because you were<br>working for him.
+<SYNC Start=2410737><P Class=ENCC>&nbsp;
+<SYNC Start=2410739><P Class=ENCC>
+No.
+<SYNC Start=2412904><P Class=ENCC>&nbsp;
+<SYNC Start=2412906><P Class=ENCC>
+What does he have on you?
+<SYNC Start=2415111><P Class=ENCC>&nbsp;
+<SYNC Start=2415912><P Class=ENCC>
+I took money.
+<SYNC Start=2418278><P Class=ENCC>&nbsp;
+<SYNC Start=2418280><P Class=ENCC>
+For pushing a favorable<br>U.S. drug policy in Colombia.
+<SYNC Start=2420780><P Class=ENCC>&nbsp;
+<SYNC Start=2420782><P Class=ENCC>
+Just once.
+<SYNC Start=2422148><P Class=ENCC>&nbsp;
+<SYNC Start=2422150><P Class=ENCC>
+That was it.
+<SYNC Start=2423643><P Class=ENCC>&nbsp;
+<SYNC Start=2425084><P Class=ENCC>
+And then...
+<SYNC Start=2427544><P Class=ENCC>&nbsp;
+<SYNC Start=2427546><P Class=ENCC>
+And then he owned you.
+<SYNC Start=2429551><P Class=ENCC>&nbsp;
+<SYNC Start=2429553><P Class=ENCC>
+Yeah.
+<SYNC Start=2431183><P Class=ENCC>&nbsp;
+<SYNC Start=2431185><P Class=ENCC>
+He attacked your country.
+<SYNC Start=2433383><P Class=ENCC>&nbsp;
+<SYNC Start=2437289><P Class=ENCC>
+Are you gonna tell me<br>his name or not?
+<SYNC Start=2439793><P Class=ENCC>&nbsp;
+<SYNC Start=2449602><P Class=ENCC>
+NEWSCASTER: There's no official<br>confirmation, yet,
+<SYNC Start=2451134><P Class=ENCC>&nbsp;
+<SYNC Start=2451136><P Class=ENCC>
+but we have reports<br>that the U.S. Navy launched
+<SYNC Start=2454172><P Class=ENCC>&nbsp;
+<SYNC Start=2454174><P Class=ENCC>
+a drone strike,<br>early this morning,
+<SYNC Start=2456265><P Class=ENCC>&nbsp;
+<SYNC Start=2456266><P Class=ENCC>
+against the compound of Armand<br>Luna, a Colombian drug lord.
+<SYNC Start=2460090><P Class=ENCC>&nbsp;
+<SYNC Start=2460091><P Class=ENCC>
+It is rumored that DNA evidence<br>has linked Luna
+<SYNC Start=2463424><P Class=ENCC>&nbsp;
+<SYNC Start=2463426><P Class=ENCC>
+to the 1979 bombing
+<SYNC Start=2465288><P Class=ENCC>&nbsp;
+<SYNC Start=2465290><P Class=ENCC>
+of Metropolitan<br>International Airport.
+<SYNC Start=2467296><P Class=ENCC>&nbsp;
+<SYNC Start=2467298><P Class=ENCC>
+You gonna remain<br>silent, too, sir?
+<SYNC Start=2469264><P Class=ENCC>&nbsp;
+<SYNC Start=2469266><P Class=ENCC>
+We got him.
+<SYNC Start=2471295><P Class=ENCC>&nbsp;
+<SYNC Start=2475163><P Class=ENCC>
+So maybe it was just a<br>teensy little overlap
+<SYNC Start=2477233><P Class=ENCC>&nbsp;
+<SYNC Start=2477235><P Class=ENCC>
+with the barista bit.
+<SYNC Start=2478601><P Class=ENCC>&nbsp;
+<SYNC Start=2478603><P Class=ENCC>
+Exactly how much overlap<br>are we talking about here?
+<SYNC Start=2480136><P Class=ENCC>&nbsp;
+<SYNC Start=2480138><P Class=ENCC>
+You said this was<br>ancient history.
+<SYNC Start=2481674><P Class=ENCC>&nbsp;
+<SYNC Start=2481676><P Class=ENCC>
+It is, but I need to know<br>whether or not I can trust you.
+<SYNC Start=2484609><P Class=ENCC>&nbsp;
+<SYNC Start=2484611><P Class=ENCC>
+Don't ever say you<br>can't trust me, McGee.
+<SYNC Start=2486475><P Class=ENCC>&nbsp;
+<SYNC Start=2486477><P Class=ENCC>
+Director.
+<SYNC Start=2488484><P Class=ENCC>&nbsp;
+<SYNC Start=2488486><P Class=ENCC>
+I have a debriefing<br>at the Pentagon,
+<SYNC Start=2490485><P Class=ENCC>&nbsp;
+<SYNC Start=2490487><P Class=ENCC>
+but I just wanted to thank<br>you both personally.
+<SYNC Start=2492553><P Class=ENCC>&nbsp;
+<SYNC Start=2492555><P Class=ENCC>
+Thank you, Commander.
+<SYNC Start=2494626><P Class=ENCC>&nbsp;
+<SYNC Start=2494628><P Class=ENCC>
+You put your men<br>on the line for a thing.
+<SYNC Start=2496858><P Class=ENCC>&nbsp;
+<SYNC Start=2496860><P Class=ENCC>
+A thing that a lot<br>of people forgot about.
+<SYNC Start=2499233><P Class=ENCC>&nbsp;
+<SYNC Start=2499235><P Class=ENCC>
+You didn't.
+<SYNC Start=2500802><P Class=ENCC>&nbsp;
+<SYNC Start=2500804><P Class=ENCC>
+Neither did my mother, my<br>sisters or my big brother.
+<SYNC Start=2503771><P Class=ENCC>&nbsp;
+<SYNC Start=2503773><P Class=ENCC>
+They thank you, too.
+<SYNC Start=2504907><P Class=ENCC>&nbsp;
+<SYNC Start=2504909><P Class=ENCC>
+It's the president,<br>Director.
+<SYNC Start=2506907><P Class=ENCC>&nbsp;
+<SYNC Start=2506909><P Class=ENCC>
+Press conference starts<br>in 25 minutes.
+<SYNC Start=2509307><P Class=ENCC>&nbsp;
+<SYNC Start=2509309><P Class=ENCC>
+Got to go.
+<SYNC Start=2510611><P Class=ENCC>&nbsp;
+<SYNC Start=2510613><P Class=ENCC>
+Time to let the other<br>families know
+<SYNC Start=2512314><P Class=ENCC>&nbsp;
+<SYNC Start=2512316><P Class=ENCC>
+that they weren't<br>forgotten, either.
+<SYNC Start=2513514><P Class=ENCC>&nbsp;
+<SYNC Start=2513516><P Class=ENCC>
+Oorah.
+<SYNC Start=2515048><P Class=ENCC>&nbsp;
+<SYNC Start=2519449><P Class=ENCC>
+Hey, guys.<br>Hey.
+<SYNC Start=2521416><P Class=ENCC>&nbsp;
+<SYNC Start=2521418><P Class=ENCC>
+What's up, man?<br>Hey!
+<SYNC Start=2522519><P Class=ENCC>&nbsp;
+<SYNC Start=2522521><P Class=ENCC>
+What's up, Palmer?
+<SYNC Start=2523822><P Class=ENCC>&nbsp;
+<SYNC Start=2523824><P Class=ENCC>
+(chuckles)<br>(chuckles)
+<SYNC Start=2525790><P Class=ENCC>&nbsp;
+<SYNC Start=2525792><P Class=ENCC>
+(all laughing<br>and chatting happily)
+<SYNC Start=2528453><P Class=ENCC>&nbsp;
+<SYNC Start=2538636><P Class=ENCC>
+== sync, corrected by <font color=#00FF00>elderman</font> ==<br><font color=#00FFFF>@elder_man</font>
+<SYNC Start=2545136><P Class=ENCC>&nbsp;
+</BODY>
+</SAMI>

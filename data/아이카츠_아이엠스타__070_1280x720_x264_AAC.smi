@@ -1,0 +1,714 @@
+<SAMI>
+
+<HEAD>
+<TITLE>아이카츠 70</TITLE>
+
+<SAMIParam>
+  Metrics {time:ms;}
+  Spec {MSFT:1.0;}
+</SAMIParam>
+
+<STYLE TYPE="text/css">
+<!--
+P { margin-left:8pt; margin-right:8pt; margin-bottom:2pt;
+    margin-top:2pt; font-size:14pt; text-align:center;
+    font-family:굴림, Arial; font-weight:normal; color:white;
+    background-color:black; }
+.KRCC { Name:KRCC; lang:kr-KR; SAMIType:CC; }
+-->
+</STYLE>
+
+</HEAD>
+
+<BODY>
+
+<-- Open play menu, choose Captions and Subtiles, On if available -->
+<-- Open tools menu, Security, Show local captions when present -->
+
+<SYNC Start=11018><P Class=KRCC>나의 뜨거운 아이돌 활동
+<SYNC Start=13363><P Class=KRCC>아이카츠
+<SYNC Start=14277><P Class=KRCC>&nbsp;
+<SYNC Start=15876><P Class=KRCC>시작합니다!
+<SYNC Start=16982><P Class=KRCC>&nbsp;
+<SYNC Start=18625><P Class=KRCC>나는 호시미야 이치고
+<SYNC Start=19861><P Class=KRCC>&nbsp;
+<SYNC Start=20404><P Class=KRCC>아이돌 학교, 스타라이트 학원 중학교 3학년
+<SYNC Start=23761><P Class=KRCC>&nbsp;
+<SYNC Start=24423><P Class=KRCC>모두와 함께 아이카츠 카드를 사용해서<br>아이돌 활동을 하고 있어
+<SYNC Start=27540><P Class=KRCC>&nbsp;
+<SYNC Start=28766><P Class=KRCC>더더욱 뜨거운 아이카츠를 하고 있어요!
+<SYNC Start=31045><P Class=KRCC>&nbsp;
+<SYNC Start=32515><P Class=KRCC>드라마 오디션이요?
+<SYNC Start=33786><P Class=KRCC>&nbsp;
+<SYNC Start=34255><P Class=KRCC>너희 네 명이 해줬으면 하는 건
+<SYNC Start=36793><P Class=KRCC>&nbsp;
+<SYNC Start=37180><P Class=KRCC>이거야!
+<SYNC Start=37978><P Class=KRCC>&nbsp;
+<SYNC Start=38419><P Class=KRCC>굉장해!
+<SYNC Start=39314><P Class=KRCC>쿨 엔젤스야!
+<SYNC Start=40653><P Class=KRCC>&nbsp;
+<SYNC Start=41226><P Class=KRCC>정말 좋아하던 드라마였지
+<SYNC Start=43009><P Class=KRCC>&nbsp;
+<SYNC Start=43380><P Class=KRCC>난 모르는 거야
+<SYNC Start=44916><P Class=KRCC>&nbsp;
+<SYNC Start=45135><P Class=KRCC>유명한 거야?
+<SYNC Start=46453><P Class=KRCC>&nbsp;
+<SYNC Start=46698><P Class=KRCC>우리들이 초등학생일 적에<br>대히트를 쳤던 드라마 시리즈야
+<SYNC Start=50505><P Class=KRCC>&nbsp;
+<SYNC Start=52279><P Class=KRCC>세상의 비보, 신비한 낙원!
+<SYNC Start=54817><P Class=KRCC>찾으러 가자, 대발견!
+<SYNC Start=56886><P Class=KRCC>&nbsp;
+<SYNC Start=57343><P Class=KRCC>우리들은 멋쟁이 탐험대!
+<SYNC Start=59902><P Class=KRCC>쿨 엔젤스!
+<SYNC Start=61486><P Class=KRCC>&nbsp;
+<SYNC Start=62129><P Class=KRCC>나왔습니다, 드라마의 결정대사!
+<SYNC Start=64525><P Class=KRCC>&nbsp;
+<SYNC Start=67449><P Class=KRCC>호흡이 척척 맞네
+<SYNC Start=68947><P Class=KRCC>&nbsp;
+<SYNC Start=69585><P Class=KRCC>이건 사인조의 걸즈 탐험대, 쿨 엔젤스가
+<SYNC Start=73246><P Class=KRCC>비밀이나 비보를 얻기 위해 다이나믹한<br>여행을 펼쳐가는 액션 드라마야
+<SYNC Start=77559><P Class=KRCC>&nbsp;
+<SYNC Start=78449><P Class=KRCC>그 신 시리즈의 오디션이<br>갑작스레 정해져서
+<SYNC Start=81338><P Class=KRCC>이건 지금의 너희들이<br>해야만 한다고 생각했어
+<SYNC Start=84010><P Class=KRCC>&nbsp;
+<SYNC Start=84657><P Class=KRCC>어때, 해볼래?
+<SYNC Start=86373><P Class=KRCC>&nbsp;
+<SYNC Start=86699><P Class=KRCC>네!
+<SYNC Start=87402><P Class=KRCC>저도요
+<SYNC Start=88303><P Class=KRCC>&nbsp;
+<SYNC Start=88769><P Class=KRCC>재밌을 거 같아
+<SYNC Start=90101><P Class=KRCC>&nbsp;
+<SYNC Start=91269><P Class=KRCC>할게요!
+<SYNC Start=92080><P Class=KRCC>&nbsp;
+<SYNC Start=183528><P Class=KRCC><font color=ffb3fd>멋쟁이 탐험대 쿨 엔젤스!</font>
+<SYNC Start=188410><P Class=KRCC>&nbsp;
+<SYNC Start=192166><P Class=KRCC>메인 캐릭터는 이렇게 네 명!
+<SYNC Start=193983><P Class=KRCC>&nbsp;
+<SYNC Start=194368><P Class=KRCC>쿨 엔젤스 대장, 믿음직한 리더!
+<SYNC Start=196898><P Class=KRCC>&nbsp;
+<SYNC Start=197503><P Class=KRCC>아이큐 500의 두뇌파, 굉장한 브레인!
+<SYNC Start=200320><P Class=KRCC>&nbsp;
+<SYNC Start=201190><P Class=KRCC>힘 센 먹보, 배고픈 레인저!
+<SYNC Start=204086><P Class=KRCC>&nbsp;
+<SYNC Start=204788><P Class=KRCC>탈것의 조종은 뭐든 맡겨달라,<br>엉뚱한 메카닉!
+<SYNC Start=208057><P Class=KRCC>&nbsp;
+<SYNC Start=208580><P Class=KRCC>키이는 누가 어떤 캐릭을 맡을지가<br>오디션을 성공시킬 열쇠라고 생각해
+<SYNC Start=212739><P Class=KRCC>&nbsp;
+<SYNC Start=213032><P Class=KRCC>어떻게 정할까?
+<SYNC Start=214300><P Class=KRCC>&nbsp;
+<SYNC Start=214714><P Class=KRCC>네 명이서 공평하게 가위 바위 보는 어때?
+<SYNC Start=217181><P Class=KRCC>난 잘 모르니까 남은 역할이면 되는데
+<SYNC Start=221254><P Class=KRCC>보헤
+<SYNC Start=222146><P Class=KRCC>팀워크는 처음이 중요!
+<SYNC Start=224004><P Class=KRCC>&nbsp;
+<SYNC Start=225208><P Class=KRCC>가위!
+<SYNC Start=225861><P Class=KRCC>바위!
+<SYNC Start=226428><P Class=KRCC>보!
+<SYNC Start=227201><P Class=KRCC>&nbsp;
+<SYNC Start=227754><P Class=KRCC>보!
+<SYNC Start=228508><P Class=KRCC>&nbsp;
+<SYNC Start=228904><P Class=KRCC>보!
+<SYNC Start=229581><P Class=KRCC>&nbsp;
+<SYNC Start=230189><P Class=KRCC>팀워크 좋은 거 같은데?
+<SYNC Start=231794><P Class=KRCC>&nbsp;
+<SYNC Start=233030><P Class=KRCC>간다!
+<SYNC Start=233696><P Class=KRCC>&nbsp;
+<SYNC Start=234356><P Class=KRCC><RUBY><RB></font>안 내면 꼴지 </RB><RP></RP><RT><font color=gray>처음은 주먹</RT><RP></RP></RUBY>
+<SYNC Start=236028><P Class=KRCC>가위 바위 보!
+<SYNC Start=237256><P Class=KRCC>&nbsp;
+<SYNC Start=237961><P Class=KRCC>비겼네
+<SYNC Start=239093><P Class=KRCC>좋아, 다시 한 번
+<SYNC Start=241268><P Class=KRCC>&nbsp;
+<SYNC Start=241944><P Class=KRCC>가위 바위 보!
+<SYNC Start=243699><P Class=KRCC>&nbsp;
+<SYNC Start=244257><P Class=KRCC>가위 바위 보! 보헤
+<SYNC Start=246241><P Class=KRCC>&nbsp;
+<SYNC Start=247216><P Class=KRCC>다른 방법으로 정할까?
+<SYNC Start=248929><P Class=KRCC>&nbsp;
+<SYNC Start=249449><P Class=KRCC>그럼 우리 데이터를 가지고
+<SYNC Start=251556><P Class=KRCC>어떤 역할이 어울리는지<br>컴터군한테 정해달라고 하는 건 어때?
+<SYNC Start=255081><P Class=KRCC>찬성이야
+<SYNC Start=255874><P Class=KRCC>&nbsp;
+<SYNC Start=256434><P Class=KRCC>그 대신 컴터군이<br>내놓은 결과는 틀림없을 테니까
+<SYNC Start=259794><P Class=KRCC>어떤 역할이 되든 따르지 않으면 안 된다?
+<SYNC Start=262254><P Class=KRCC>&nbsp;
+<SYNC Start=263523><P Class=KRCC>그럼 스타트!
+<SYNC Start=264558><P Class=KRCC>&nbsp;
+<SYNC Start=267399><P Class=KRCC>힘 센 먹보, 배고픈 레인저는..
+<SYNC Start=270617><P Class=KRCC>&nbsp;
+<SYNC Start=274456><P Class=KRCC>세이라!
+<SYNC Start=275179><P Class=KRCC>&nbsp;
+<SYNC Start=275542><P Class=KRCC>내가 먹보 캐릭터!?
+<SYNC Start=277268><P Class=KRCC>&nbsp;
+<SYNC Start=277892><P Class=KRCC>탈것의 조종은 뭐든 맡겨달라,<br>엉뚱한 메카닉은..
+<SYNC Start=281286><P Class=KRCC>&nbsp;
+<SYNC Start=281698><P Class=KRCC>마리아쨩!
+<SYNC Start=282510><P Class=KRCC>&nbsp;
+<SYNC Start=282965><P Class=KRCC>엉뚱한 메카닉?
+<SYNC Start=284466><P Class=KRCC>&nbsp;
+<SYNC Start=284975><P Class=KRCC>두뇌파의 브레인은..
+<SYNC Start=286997><P Class=KRCC>소라쨩!
+<SYNC Start=288110><P Class=KRCC>내가 브레인?
+<SYNC Start=289551><P Class=KRCC>&nbsp;
+<SYNC Start=289954><P Class=KRCC>그렇다는 건 키이가..
+<SYNC Start=291521><P Class=KRCC>&nbsp;
+<SYNC Start=292078><P Class=KRCC>키이가 리더!?
+<SYNC Start=293645><P Class=KRCC>&nbsp;
+<SYNC Start=296087><P Class=KRCC>컴터군 부탁이야, 농담이라고 해줘!
+<SYNC Start=298996><P Class=KRCC>&nbsp;
+<SYNC Start=299299><P Class=KRCC><font color=#0266ff>농담아냐</font>
+<SYNC Start=300649><P Class=KRCC>&nbsp;
+<SYNC Start=301187><P Class=KRCC>그럴수가..
+<SYNC Start=302551><P Class=KRCC>&nbsp;
+<SYNC Start=304179><P Class=KRCC>컴터군이 말하는 거니까<br>분명 이게 정답일 거야
+<SYNC Start=307936><P Class=KRCC>그러니까
+<SYNC Start=308785><P Class=KRCC>그러니까..!
+<SYNC Start=309516><P Class=KRCC>&nbsp;
+<SYNC Start=310191><P Class=KRCC>이렇게 믿고 가보자!
+<SYNC Start=312215><P Class=KRCC>&nbsp;
+<SYNC Start=314865><P Class=KRCC>뭐야..
+<SYNC Start=316068><P Class=KRCC>쿨 엔젤스 오디션
+<SYNC Start=318166><P Class=KRCC>데뷔 2년 미만의 신인 아이돌밖에<br>볼 수 없는 거구나..
+<SYNC Start=321495><P Class=KRCC>&nbsp;
+<SYNC Start=321918><P Class=KRCC>그렇게나 하고 싶었구나
+<SYNC Start=323991><P Class=KRCC>안타깝다, 란
+<SYNC Start=325397><P Class=KRCC>&nbsp;
+<SYNC Start=325842><P Class=KRCC>우리들은 신인이 아니니..
+<SYNC Start=328230><P Class=KRCC>오디션이 있을 거 같다는<br>정보를 들은 뒤로
+<SYNC Start=331409><P Class=KRCC>꽤 열심히 트레이닝 했는데 말야..
+<SYNC Start=334295><P Class=KRCC>&nbsp;
+<SYNC Start=336254><P Class=KRCC>란이 이 드라마를 위해서 몰래<br>액션 트레이닝을 했었다니 전혀 몰랐어
+<SYNC Start=342257><P Class=KRCC>게다가 이렇게나 아쉬워하다니
+<SYNC Start=345109><P Class=KRCC>&nbsp;
+<SYNC Start=346193><P Class=KRCC>누가 되는 걸까..
+<SYNC Start=348060><P Class=KRCC>&nbsp;
+<SYNC Start=350953><P Class=KRCC>드리아카의 키이쨩이다
+<SYNC Start=352573><P Class=KRCC>&nbsp;
+<SYNC Start=353283><P Class=KRCC>키이쨩 메일에 뭐라고 써있어?
+<SYNC Start=355469><P Class=KRCC>드라마 오디션에 베테랑인<br>여러분의 어드바이스가
+<SYNC Start=359072><P Class=KRCC>절실해요, 프리프리 플리즈
+<SYNC Start=361190><P Class=KRCC>설마 SOS야?
+<SYNC Start=362966><P Class=KRCC>&nbsp;
+<SYNC Start=363381><P Class=KRCC>이건 도와줘야지!
+<SYNC Start=365119><P Class=KRCC>&nbsp;
+<SYNC Start=365529><P Class=KRCC>발 벗고 나서 볼까?
+<SYNC Start=366914><P Class=KRCC>&nbsp;
+<SYNC Start=368884><P Class=KRCC>티아라 학원장님
+<SYNC Start=370572><P Class=KRCC>무슨 일이에요?
+<SYNC Start=371427><P Class=KRCC>&nbsp;
+<SYNC Start=371701><P Class=KRCC>우리 아이들이 또<br>그 곳에 실례하게 되어서
+<SYNC Start=374530><P Class=KRCC>폐가 될지도 모르겠네요
+<SYNC Start=376743><P Class=KRCC>폐가 되긴요
+<SYNC Start=378128><P Class=KRCC>&nbsp;
+<SYNC Start=378522><P Class=KRCC>분명 우리 학생들에게 있어서도<br>좋은 공부가 될 거에요
+<SYNC Start=382455><P Class=KRCC>저희 스타라이트 학원은<br>협력을 아끼지 않아요
+<SYNC Start=385188><P Class=KRCC>&nbsp;
+<SYNC Start=386028><P Class=KRCC>함께 아이돌계를 띄워보아요
+<SYNC Start=388300><P Class=KRCC>&nbsp;
+<SYNC Start=390614><P Class=KRCC>아오이쨩이 보낸 메일에는
+<SYNC Start=392312><P Class=KRCC>스타라이트 학원의 시청각실에서 기다리래
+<SYNC Start=395782><P Class=KRCC>긴장된다
+<SYNC Start=397153><P Class=KRCC>가자, 리더!
+<SYNC Start=398110><P Class=KRCC>&nbsp;
+<SYNC Start=399838><P Class=KRCC>기다려!
+<SYNC Start=400908><P Class=KRCC>&nbsp;
+<SYNC Start=403113><P Class=KRCC>여러분, 스타라이트 학원에<br>오신 걸 환영합니다!
+<SYNC Start=405897><P Class=KRCC>&nbsp;
+<SYNC Start=406091><P Class=KRCC>오늘은 세이라쨩네를 위해<br>드라마 오디션의 모든 것을 알려줄게!
+<SYNC Start=410264><P Class=KRCC>의 특별수업을 하겠습니다!
+<SYNC Start=412372><P Class=KRCC>&nbsp;
+<SYNC Start=413203><P Class=KRCC>이 시부키 란이 드라마 오디션에 대해<br>차분히 알려주도록 하지!
+<SYNC Start=418335><P Class=KRCC>나왔다, 아름다운 칼날!
+<SYNC Start=420128><P Class=KRCC>&nbsp;
+<SYNC Start=420433><P Class=KRCC>과연 톱모델이야
+<SYNC Start=421985><P Class=KRCC>&nbsp;
+<SYNC Start=422304><P Class=KRCC>포즈의 깔끔함이 달라
+<SYNC Start=424269><P Class=KRCC>왠지 엄청 노려보는 거 같다고<br>생각하는 건 나뿐이야?
+<SYNC Start=427515><P Class=KRCC>&nbsp;
+<SYNC Start=427852><P Class=KRCC>그럼 바로 여러분의 고민을<br>들어보도록 하겠습니다!
+<SYNC Start=431130><P Class=KRCC>자!
+<SYNC Start=431756><P Class=KRCC>&nbsp;
+<SYNC Start=432194><P Class=KRCC>저..
+<SYNC Start=433214><P Class=KRCC>오디션에서 어떤 역을 맡으면 좋을지<br>컴터군한테 정해달라고 했는데
+<SYNC Start=437727><P Class=KRCC>캐릭터가 자기랑 어울리지<br>않는 건 아닌지 고민이야
+<SYNC Start=440904><P Class=KRCC>알고 말고, 그 불안한 마음
+<SYNC Start=443906><P Class=KRCC>키이는 컴터군을 믿고 있어
+<SYNC Start=446120><P Class=KRCC>하지만 네 명의 리더 역할이 키이여도<br>정말로 진짜로 괜찮은가 싶어서..
+<SYNC Start=451167><P Class=KRCC>키이쨩은 지금 아이돌을 하고 있지만
+<SYNC Start=454253><P Class=KRCC>드리아카의 프로듀서 코스도 하고 있지?
+<SYNC Start=456607><P Class=KRCC>&nbsp;
+<SYNC Start=458350><P Class=KRCC>프로듀서의 역할 중 하나가<br>아이돌을 이끌어 당기는 거라면
+<SYNC Start=462803><P Class=KRCC>그건 리더와 같다고 생각해
+<SYNC Start=464959><P Class=KRCC>&nbsp;
+<SYNC Start=465412><P Class=KRCC>그렇다는 건 리더역과 딱 맞는다는 거야!
+<SYNC Start=468041><P Class=KRCC>키이라면 할 수 있다고 생각해
+<SYNC Start=469772><P Class=KRCC>자신을 가져
+<SYNC Start=470885><P Class=KRCC>&nbsp;
+<SYNC Start=471859><P Class=KRCC>네, 열심히 할게요!
+<SYNC Start=473324><P Class=KRCC>&nbsp;
+<SYNC Start=473812><P Class=KRCC>브레인역이란건 머리가 굉장히 좋은 거지?
+<SYNC Start=477435><P Class=KRCC>나한테 그런 느낌이 들어?
+<SYNC Start=479182><P Class=KRCC>&nbsp;
+<SYNC Start=479571><P Class=KRCC>소라쨩은 분위기가 침착하잖아
+<SYNC Start=481664><P Class=KRCC>&nbsp;
+<SYNC Start=482004><P Class=KRCC>여러 일을 신중히 생각하는 거 같아서
+<SYNC Start=484744><P Class=KRCC>브레인역이랑 어울린다고 생각해
+<SYNC Start=486316><P Class=KRCC>&nbsp;
+<SYNC Start=486881><P Class=KRCC>그렇구나
+<SYNC Start=488118><P Class=KRCC>그렇게 들으니 조금 안심이 돼
+<SYNC Start=490189><P Class=KRCC>&nbsp;
+<SYNC Start=490922><P Class=KRCC>세이라쨩은 힘 센 먹보 캐릭터지?
+<SYNC Start=493954><P Class=KRCC>내 체격으론 좀 아니지 않아?
+<SYNC Start=496054><P Class=KRCC>&nbsp;
+<SYNC Start=496474><P Class=KRCC>드라마 오디션에선 오히려<br>그 갭이 플러스가 되는 경우도 있어
+<SYNC Start=500194><P Class=KRCC>&nbsp;
+<SYNC Start=501099><P Class=KRCC>그래?
+<SYNC Start=502049><P Class=KRCC>&nbsp;
+<SYNC Start=502450><P Class=KRCC>초대 엔젤스에서 같은 역을 연기했던<br>시나 레몬은 모델 출신
+<SYNC Start=506865><P Class=KRCC>이 때도 처음엔 미스 캐스팅이<br>아니냐는 말이 많았어
+<SYNC Start=510128><P Class=KRCC>그 평가를 그녀는 스스로 뒤엎어버렸어
+<SYNC Start=512609><P Class=KRCC>&nbsp;
+<SYNC Start=513860><P Class=KRCC>의외성을 거꾸로 이용해서
+<SYNC Start=515661><P Class=KRCC>&nbsp;
+<SYNC Start=516311><P Class=KRCC>한없이 귀여운 괴력 캐릭터를 만들어 냈지
+<SYNC Start=518840><P Class=KRCC>&nbsp;
+<SYNC Start=519478><P Class=KRCC>자기가 자신을 셀프 프로듀스한 거구나
+<SYNC Start=522130><P Class=KRCC>과연, 그런 사고방식도 있구나
+<SYNC Start=525180><P Class=KRCC>난 어때?
+<SYNC Start=526734><P Class=KRCC>컴퓨터가 특기인 키이쨩이 훨씬<br>메카닉 캐릭터와 어울리지 않을까해
+<SYNC Start=531231><P Class=KRCC>&nbsp;
+<SYNC Start=531706><P Class=KRCC>그렇지 않아
+<SYNC Start=533054><P Class=KRCC>경찰관이나 마법사역을<br>연기하는 사람들은 있지만
+<SYNC Start=536133><P Class=KRCC>&nbsp;
+<SYNC Start=536528><P Class=KRCC>진짜 마법사는 없다, 이거지?
+<SYNC Start=538830><P Class=KRCC>&nbsp;
+<SYNC Start=539661><P Class=KRCC>없어?
+<SYNC Start=540243><P Class=KRCC>없어!?
+<SYNC Start=541156><P Class=KRCC>&nbsp;
+<SYNC Start=541627><P Class=KRCC>한 명도!?
+<SYNC Start=542490><P Class=KRCC>&nbsp;
+<SYNC Start=545540><P Class=KRCC>연기란 누군가의 인생을<br>맡는 거라고 예전에 배웠어
+<SYNC Start=550240><P Class=KRCC>&nbsp;
+<SYNC Start=550439><P Class=KRCC>그저 엔젤스의 흉내를 내는 게 아닌
+<SYNC Start=552697><P Class=KRCC>새로운 쿨 엔젤스를<br>만드는 게 좋다고 생각해
+<SYNC Start=555344><P Class=KRCC>&nbsp;
+<SYNC Start=556558><P Class=KRCC>새로운 쿨 엔젤스?
+<SYNC Start=558373><P Class=KRCC>&nbsp;
+<SYNC Start=558731><P Class=KRCC>감독은 캐스트의 아이디어가 재밌으면
+<SYNC Start=561688><P Class=KRCC>잘 받아들여 준다고 해
+<SYNC Start=564281><P Class=KRCC>오디션은 실패하면 바로<br>불합격이 되는 게 아냐
+<SYNC Start=568053><P Class=KRCC>감독은 확실하게 봐주고 계셔
+<SYNC Start=569934><P Class=KRCC>&nbsp;
+<SYNC Start=570224><P Class=KRCC>그러니까 마지막까지 포기하지 말 것!
+<SYNC Start=572704><P Class=KRCC>&nbsp;
+<SYNC Start=573151><P Class=KRCC>과연 아오이!
+<SYNC Start=574544><P Class=KRCC>말 한번 잘하네!
+<SYNC Start=575824><P Class=KRCC>다 같이 응원하고 있을 테니 열심히 해
+<SYNC Start=578649><P Class=KRCC>&nbsp;
+<SYNC Start=578946><P Class=KRCC>고마워, 왠지 힘이 샘솟고 있어!
+<SYNC Start=581548><P Class=KRCC>나도야!
+<SYNC Start=582799><P Class=KRCC>오길 잘했어
+<SYNC Start=583885><P Class=KRCC>&nbsp;
+<SYNC Start=584798><P Class=KRCC>다들 오케오케 오케이!
+<SYNC Start=587006><P Class=KRCC>&nbsp;
+<SYNC Start=625930><P Class=KRCC>드디어 시작된다!
+<SYNC Start=627287><P Class=KRCC>&nbsp;
+<SYNC Start=639961><P Class=KRCC>굉장하다
+<SYNC Start=641082><P Class=KRCC>오디션이라기보다 왠지 영화 촬영장 같아
+<SYNC Start=644694><P Class=KRCC>감독은 스턴트맨 출신
+<SYNC Start=646615><P Class=KRCC>액션씬은 특히나 엄격하기로 유명해
+<SYNC Start=649362><P Class=KRCC>&nbsp;
+<SYNC Start=650620><P Class=KRCC>이런건 절대 못 해
+<SYNC Start=652602><P Class=KRCC>아무리 그래도 너무 심하잖아
+<SYNC Start=655408><P Class=KRCC>이제 막 오디션이 끝난건가
+<SYNC Start=657526><P Class=KRCC>왠지 굉장히 지쳐보여
+<SYNC Start=659990><P Class=KRCC>안녕하세요, 미스미 감독님!
+<SYNC Start=661982><P Class=KRCC>&nbsp;
+<SYNC Start=662532><P Class=KRCC>안녕하세요, 티아라 학원장님
+<SYNC Start=664822><P Class=KRCC>&nbsp;
+<SYNC Start=665477><P Class=KRCC>저 사람이 감독이구나
+<SYNC Start=666854><P Class=KRCC>&nbsp;
+<SYNC Start=667715><P Class=KRCC>드리아카 분들이죠?
+<SYNC Start=669126><P Class=KRCC>&nbsp;
+<SYNC Start=669992><P Class=KRCC>감독인 미스미입니다
+<SYNC Start=671364><P Class=KRCC>&nbsp;
+<SYNC Start=671916><P Class=KRCC>쿨 엔젤스의 오디션에 어서오세요
+<SYNC Start=673969><P Class=KRCC>&nbsp;
+<SYNC Start=675361><P Class=KRCC>키이쨩네 잘 하고 있을까?
+<SYNC Start=677398><P Class=KRCC>&nbsp;
+<SYNC Start=677753><P Class=KRCC>처음으로 네 명이서 함께하는 오디션
+<SYNC Start=680090><P Class=KRCC>힘을 합치는 게 힘들겠지
+<SYNC Start=682313><P Class=KRCC>분명 괜찮을 거야
+<SYNC Start=683758><P Class=KRCC><RUBY><RB>우동이랑 김~ </RB><RP></RP><RT>우돈토 노리 </RT><RP></RP></RUBY>
+<SYNC Start=685231><P Class=KRCC>&nbsp;
+<SYNC Start=685828><P Class=KRCC><RUBY><RB>Don't worry야 </RB><RP></RP><RT>돈토 워리 </RT><RP></RP></RUBY>
+<SYNC Start=687333><P Class=KRCC>&nbsp;
+<SYNC Start=688350><P Class=KRCC>찾고 있었다구, 허니들
+<SYNC Start=689936><P Class=KRCC>&nbsp;
+<SYNC Start=690561><P Class=KRCC>죠니선생님?
+<SYNC Start=691659><P Class=KRCC>&nbsp;
+<SYNC Start=691971><P Class=KRCC>긴급사태란 것 같아요!
+<SYNC Start=693656><P Class=KRCC>&nbsp;
+<SYNC Start=695119><P Class=KRCC>긴급사태?
+<SYNC Start=696419><P Class=KRCC>&nbsp;
+<SYNC Start=696818><P Class=KRCC>에브리바디, 컴온 위드 죠니
+<SYNC Start=699696><P Class=KRCC>&nbsp;
+<SYNC Start=701235><P Class=KRCC>쿨 엔젤스의 오디션은 대본을 따라
+<SYNC Start=704502><P Class=KRCC>지도에 있는 이 루트를<br>이동하면서 이루어져
+<SYNC Start=707475><P Class=KRCC>&nbsp;
+<SYNC Start=708284><P Class=KRCC>제한 시간 안에 골에 도착하지 못하거나
+<SYNC Start=710664><P Class=KRCC>혹시 네명 중 한명이라도 탈락하면<br>오디션은 거기서 중지래
+<SYNC Start=715734><P Class=KRCC>엄격하네
+<SYNC Start=717047><P Class=KRCC>왠지 긴장되기 시작했어
+<SYNC Start=718803><P Class=KRCC>&nbsp;
+<SYNC Start=719037><P Class=KRCC>준비 됐으면 시작하겠습니다
+<SYNC Start=721122><P Class=KRCC>티아라상도 괜찮다면 이쪽으로 오세요
+<SYNC Start=722802><P Class=KRCC>&nbsp;
+<SYNC Start=723598><P Class=KRCC>네, 감사합니다!
+<SYNC Start=725409><P Class=KRCC>&nbsp;
+<SYNC Start=726149><P Class=KRCC>여기까지 왔으면 승패는 생각하지말고
+<SYNC Start=728693><P Class=KRCC>네 명이서 힘껏 골인을 목표로 하렴
+<SYNC Start=731227><P Class=KRCC>알겠지?
+<SYNC Start=731972><P Class=KRCC>&nbsp;
+<SYNC Start=736274><P Class=KRCC>저, 시작은 언제..
+<SYNC Start=738712><P Class=KRCC>마음대로 해도 되요!
+<SYNC Start=740821><P Class=KRCC>&nbsp;
+<SYNC Start=741617><P Class=KRCC>마음대로..
+<SYNC Start=743159><P Class=KRCC>리더가 나설 차례네
+<SYNC Start=744327><P Class=KRCC>&nbsp;
+<SYNC Start=746344><P Class=KRCC>다들 오케오케 오케이?
+<SYNC Start=748544><P Class=KRCC>오케이!
+<SYNC Start=749534><P Class=KRCC>&nbsp;
+<SYNC Start=750084><P Class=KRCC>쿨 엔젤스의 믿음직한 대장!
+<SYNC Start=752443><P Class=KRCC>정열적인 리더, 키이!
+<SYNC Start=753905><P Class=KRCC>&nbsp;
+<SYNC Start=754522><P Class=KRCC>아이큐 불끈불끈 두뇌파
+<SYNC Start=756418><P Class=KRCC>앞서가는 브레인, 소라!
+<SYNC Start=757910><P Class=KRCC>&nbsp;
+<SYNC Start=758191><P Class=KRCC>식욕왕성 백만마력!
+<SYNC Start=760454><P Class=KRCC>배고픈 레인져, 세이라!
+<SYNC Start=762172><P Class=KRCC>탈것 조종을 좋아하는
+<SYNC Start=764233><P Class=KRCC>엉뚱한 메카닉, 마리아!
+<SYNC Start=766122><P Class=KRCC>&nbsp;
+<SYNC Start=766515><P Class=KRCC>우리들은 멋쟁이 탐험대!
+<SYNC Start=769099><P Class=KRCC>쿨 엔젤스!
+<SYNC Start=770968><P Class=KRCC>&nbsp;
+<SYNC Start=774082><P Class=KRCC>다들 리더인 키이를 따라오도록 해!
+<SYNC Start=776619><P Class=KRCC>&nbsp;
+<SYNC Start=777849><P Class=KRCC>정말 진짜로 따라와야 해!
+<SYNC Start=779940><P Class=KRCC>&nbsp;
+<SYNC Start=780512><P Class=KRCC>네~
+<SYNC Start=781330><P Class=KRCC>&nbsp;
+<SYNC Start=783110><P Class=KRCC>소라쨩, 그거 전혀 따라오는 게 아니잖아..
+<SYNC Start=785850><P Class=KRCC>&nbsp;
+<SYNC Start=786340><P Class=KRCC>적극적인 브레인이네
+<SYNC Start=788063><P Class=KRCC>&nbsp;
+<SYNC Start=788406><P Class=KRCC>소라, 리더보다 앞서가는 건<br>좋지 않다고 생각해
+<SYNC Start=791713><P Class=KRCC>&nbsp;
+<SYNC Start=792148><P Class=KRCC>어라, 뭐지?
+<SYNC Start=793749><P Class=KRCC>소라, 기다리라니까!
+<SYNC Start=795005><P Class=KRCC>뭐야, 뭐야?
+<SYNC Start=796064><P Class=KRCC>기다려, 두고 가지마!
+<SYNC Start=798015><P Class=KRCC>&nbsp;
+<SYNC Start=798476><P Class=KRCC>이거 봐, 버섯이 이렇게나!
+<SYNC Start=800672><P Class=KRCC>&nbsp;
+<SYNC Start=801162><P Class=KRCC>국물이 잘 우러나서<br>맛있는 버섯밥이 될 거 같아
+<SYNC Start=804297><P Class=KRCC>&nbsp;
+<SYNC Start=804694><P Class=KRCC>남은 건 버터로 볶아서<br>그라탕을 만들고 또..
+<SYNC Start=808513><P Class=KRCC>마리아쨩 메카닉이지..?
+<SYNC Start=810625><P Class=KRCC>버섯요리 연구가 같아
+<SYNC Start=812625><P Class=KRCC>&nbsp;
+<SYNC Start=812903><P Class=KRCC>물론 이건 배고픈 레인저 세이라 꺼야
+<SYNC Start=815972><P Class=KRCC>&nbsp;
+<SYNC Start=816972><P Class=KRCC>자, 받아
+<SYNC Start=818063><P Class=KRCC>맛있어 보이지?
+<SYNC Start=819225><P Class=KRCC>&nbsp;
+<SYNC Start=820142><P Class=KRCC>정말이네, 잘 먹겠습니다!
+<SYNC Start=823401><P Class=KRCC>어쩌라는 거야, 이렇게나 많은 버섯을..
+<SYNC Start=826261><P Class=KRCC>&nbsp;
+<SYNC Start=827406><P Class=KRCC>갈림길이라
+<SYNC Start=828613><P Class=KRCC>&nbsp;
+<SYNC Start=829080><P Class=KRCC>이건 어느 쪽으로 가지?
+<SYNC Start=830943><P Class=KRCC>나한테 묻지마
+<SYNC Start=832361><P Class=KRCC>키이가 리더잖아
+<SYNC Start=833666><P Class=KRCC>&nbsp;
+<SYNC Start=835579><P Class=KRCC>그렇지!
+<SYNC Start=836368><P Class=KRCC>이런 때야말로 브레인인 소라쨩!
+<SYNC Start=838579><P Class=KRCC>망설이는 리더에게 어드바이스 해줘!
+<SYNC Start=840531><P Class=KRCC>&nbsp;
+<SYNC Start=842742><P Class=KRCC>글쎄..
+<SYNC Start=843799><P Class=KRCC>&nbsp;
+<SYNC Start=844790><P Class=KRCC>난 이쪽이 좋아
+<SYNC Start=846739><P Class=KRCC>&nbsp;
+<SYNC Start=847905><P Class=KRCC>앞에는 길이 없잖아!
+<SYNC Start=850168><P Class=KRCC>&nbsp;
+<SYNC Start=853883><P Class=KRCC>플라워 메카닉이라고 불러줘
+<SYNC Start=855889><P Class=KRCC>&nbsp;
+<SYNC Start=857728><P Class=KRCC>안되겠어
+<SYNC Start=858690><P Class=KRCC>결국 누구 하나도 역할의<br>캐릭터를 지키지 않고 있어
+<SYNC Start=861438><P Class=KRCC>&nbsp;
+<SYNC Start=862003><P Class=KRCC>여기선 내가 먹보 캐릭터를 지켜야 해!
+<SYNC Start=864863><P Class=KRCC>&nbsp;
+<SYNC Start=867103><P Class=KRCC>생으로는 먹을 수 없지, 어차피..
+<SYNC Start=869509><P Class=KRCC>&nbsp;
+<SYNC Start=871751><P Class=KRCC>역할을 확실하게 정하지 못한 모양이군
+<SYNC Start=873633><P Class=KRCC>&nbsp;
+<SYNC Start=874036><P Class=KRCC>아직 조금 긴장했을 뿐이에요!
+<SYNC Start=876276><P Class=KRCC>부디 버리지 말아주세요
+<SYNC Start=878010><P Class=KRCC>그럼 그 긴장을 풀도록 하죠
+<SYNC Start=880220><P Class=KRCC>플랜T로 변경!
+<SYNC Start=881275><P Class=KRCC>&nbsp;
+<SYNC Start=888541><P Class=KRCC>설마 저거 진짜는 아니죠?
+<SYNC Start=891269><P Class=KRCC>그렇죠, 미스미 감독님..?
+<SYNC Start=892872><P Class=KRCC>&nbsp;
+<SYNC Start=894009><P Class=KRCC>자, 어쩔거냐!
+<SYNC Start=895370><P Class=KRCC>&nbsp;
+<SYNC Start=898447><P Class=KRCC>키이쨩, 어쩌지?
+<SYNC Start=900122><P Class=KRCC>&nbsp;
+<SYNC Start=900525><P Class=KRCC>이래선 나아갈 수 없어
+<SYNC Start=901884><P Class=KRCC>&nbsp;
+<SYNC Start=902355><P Class=KRCC>마리아, 말이라던가 소같은 거 특기잖아
+<SYNC Start=905159><P Class=KRCC>호랑이는 가축이 아닌걸..
+<SYNC Start=907547><P Class=KRCC>여긴 레이져 세이라의 괴력으로
+<SYNC Start=910395><P Class=KRCC>좋아!
+<SYNC Start=911485><P Class=KRCC>가 아니라, 쓰러트릴 수 있을 리가!
+<SYNC Start=913105><P Class=KRCC>&nbsp;
+<SYNC Start=919064><P Class=KRCC>소라..
+<SYNC Start=920332><P Class=KRCC>쉿, 호랑이가 흥분하겠어
+<SYNC Start=922525><P Class=KRCC>&nbsp;
+<SYNC Start=925971><P Class=KRCC>굉장해, 정말 멋져
+<SYNC Start=928187><P Class=KRCC>&nbsp;
+<SYNC Start=929465><P Class=KRCC>이 호랑이 멋진 무늬를 가졌어
+<SYNC Start=931722><P Class=KRCC>&nbsp;
+<SYNC Start=933422><P Class=KRCC>호랑이도 두려워하지 않는 브레인 소라..
+<SYNC Start=935783><P Class=KRCC>최강이군!
+<SYNC Start=936695><P Class=KRCC>&nbsp;
+<SYNC Start=939251><P Class=KRCC>호랑이가 싫어하는 건..
+<SYNC Start=941105><P Class=KRCC>혹시 좋아하는 음식으로..
+<SYNC Start=942561><P Class=KRCC>&nbsp;
+<SYNC Start=943896><P Class=KRCC>세이라!?
+<SYNC Start=944663><P Class=KRCC>&nbsp;
+<SYNC Start=946537><P Class=KRCC>세이라
+<SYNC Start=947575><P Class=KRCC>여기 봐, 이거 줄게!
+<SYNC Start=949684><P Class=KRCC>&nbsp;
+<SYNC Start=951152><P Class=KRCC>개다래나무!?
+<SYNC Start=952032><P Class=KRCC>&nbsp;
+<SYNC Start=955088><P Class=KRCC>이건..
+<SYNC Start=955862><P Class=KRCC>&nbsp;
+<SYNC Start=958775><P Class=KRCC>레인저 세이라가 호랑이를 쓰러트렸어!?
+<SYNC Start=961214><P Class=KRCC>굉장하지만 캐릭터가..
+<SYNC Start=962713><P Class=KRCC>&nbsp;
+<SYNC Start=963291><P Class=KRCC>세이라, 항상 개다래나무를 가지고 다녀?
+<SYNC Start=965853><P Class=KRCC>호랑이는 고양이과의 맹수니까, yes!
+<SYNC Start=967823><P Class=KRCC>&nbsp;
+<SYNC Start=968299><P Class=KRCC>이 틈에 빨리!
+<SYNC Start=969904><P Class=KRCC>&nbsp;
+<SYNC Start=970842><P Class=KRCC>정말 멋진 무늬야
+<SYNC Start=972348><P Class=KRCC>&nbsp;
+<SYNC Start=973165><P Class=KRCC><font color=gray>위험하니 착한 아이는 따라하지마세요</font>
+<SYNC Start=975611><P Class=KRCC>&nbsp;
+<SYNC Start=976550><P Class=KRCC>이어서 플랜R로 변경!
+<SYNC Start=978440><P Class=KRCC>&nbsp;
+<SYNC Start=979540><P Class=KRCC>이번엔 뭘..!?
+<SYNC Start=980808><P Class=KRCC>&nbsp;
+<SYNC Start=986710><P Class=KRCC>보트가 뗏목으로 되어있어
+<SYNC Start=988148><P Class=KRCC>&nbsp;
+<SYNC Start=988651><P Class=KRCC>나한테 맡기고 어서 타
+<SYNC Start=990896><P Class=KRCC>&nbsp;
+<SYNC Start=991452><P Class=KRCC>과연 마리아!
+<SYNC Start=992663><P Class=KRCC>뗏목도 탈 줄 알아?
+<SYNC Start=994545><P Class=KRCC>&nbsp;
+<SYNC Start=995301><P Class=KRCC>뗏목은 처음이야
+<SYNC Start=996991><P Class=KRCC>어릴 적에 아빠 요트로<br>크루즈했던 적도 있으니
+<SYNC Start=1000226><P Class=KRCC>아마 괜찮을 거야
+<SYNC Start=1001510><P Class=KRCC>잠깐 기다려봐!
+<SYNC Start=1002734><P Class=KRCC>내려줘!
+<SYNC Start=1003954><P Class=KRCC>&nbsp;
+<SYNC Start=1004304><P Class=KRCC>메카닉 마리아, 훌륭한 엉뚱 메카닉이군
+<SYNC Start=1006960><P Class=KRCC>마리아, 힘내렴!
+<SYNC Start=1008889><P Class=KRCC>&nbsp;
+<SYNC Start=1013058><P Class=KRCC>요령을 알 것 같아
+<SYNC Start=1015236><P Class=KRCC>이제 괜찮아
+<SYNC Start=1016359><P Class=KRCC>&nbsp;
+<SYNC Start=1018467><P Class=KRCC>우리들 최고의 쿨 엔젤스가<br>될 수 있을 거 같은데?
+<SYNC Start=1021916><P Class=KRCC>&nbsp;
+<SYNC Start=1022536><P Class=KRCC>다들 활약하고 있는데<br>리더인 키이는 전혀..
+<SYNC Start=1026049><P Class=KRCC>좀 더 힘내야해
+<SYNC Start=1027616><P Class=KRCC>잘 하고 있어
+<SYNC Start=1028591><P Class=KRCC>&nbsp;
+<SYNC Start=1029599><P Class=KRCC>그러고보니 비보가 잠들어 있는<br>유적의 입구는
+<SYNC Start=1032574><P Class=KRCC>이 하류에 있을 텐데
+<SYNC Start=1034382><P Class=KRCC>&nbsp;
+<SYNC Start=1036969><P Class=KRCC>이 앞은 설마..
+<SYNC Start=1038662><P Class=KRCC>&nbsp;
+<SYNC Start=1039008><P Class=KRCC>폭포!?
+<SYNC Start=1039699><P Class=KRCC>&nbsp;
+<SYNC Start=1045480><P Class=KRCC>멈춰!
+<SYNC Start=1046181><P Class=KRCC>&nbsp;
+<SYNC Start=1054305><P Class=KRCC>다들 오케오케 오케이?
+<SYNC Start=1056720><P Class=KRCC>오케이
+<SYNC Start=1057641><P Class=KRCC>폭포라니 들은 적 없다구..
+<SYNC Start=1059405><P Class=KRCC>&nbsp;
+<SYNC Start=1060687><P Class=KRCC>리더, 저기
+<SYNC Start=1062005><P Class=KRCC>&nbsp;
+<SYNC Start=1065084><P Class=KRCC>비보가 잠들어 있는 유적..!
+<SYNC Start=1066720><P Class=KRCC>&nbsp;
+<SYNC Start=1068710><P Class=KRCC>그녀들은 굉장한<br>공통점이 있는 거 같군요
+<SYNC Start=1071102><P Class=KRCC>&nbsp;
+<SYNC Start=1071556><P Class=KRCC>그게 무슨..
+<SYNC Start=1072836><P Class=KRCC>&nbsp;
+<SYNC Start=1073614><P Class=KRCC>처음부터 파악했어요
+<SYNC Start=1075412><P Class=KRCC>&nbsp;
+<SYNC Start=1076197><P Class=KRCC>이 오디션에서 누구 하나<br>넘어 본 적 없는 유적 속으로 서두르죠!
+<SYNC Start=1080740><P Class=KRCC>&nbsp;
+<SYNC Start=1082034><P Class=KRCC>환상의 비보는 이 앞에 잠들어 있어
+<SYNC Start=1085495><P Class=KRCC>드디어 여기까지 왔구나
+<SYNC Start=1086899><P Class=KRCC>&nbsp;
+<SYNC Start=1087585><P Class=KRCC>발 밑을 조심해
+<SYNC Start=1089363><P Class=KRCC>위험한 덫이나 장치가 잔뜩 있을지도..
+<SYNC Start=1091712><P Class=KRCC>&nbsp;
+<SYNC Start=1093856><P Class=KRCC>밟았다..!
+<SYNC Start=1094760><P Class=KRCC>&nbsp;
+<SYNC Start=1105855><P Class=KRCC>어떻게든 잘 빠져나온 거 같네..
+<SYNC Start=1107985><P Class=KRCC>&nbsp;
+<SYNC Start=1109527><P Class=KRCC>여기가 유적의 방..!
+<SYNC Start=1111795><P Class=KRCC>리더, 저기에!
+<SYNC Start=1113270><P Class=KRCC>&nbsp;
+<SYNC Start=1115168><P Class=KRCC>이런 곳에 수정이 박혀있어!
+<SYNC Start=1117180><P Class=KRCC>&nbsp;
+<SYNC Start=1119124><P Class=KRCC>이게 환상의 비보야?
+<SYNC Start=1121107><P Class=KRCC>&nbsp;
+<SYNC Start=1121930><P Class=KRCC>아닌 거 같아
+<SYNC Start=1123054><P Class=KRCC>하지만 이제 보이고 있어
+<SYNC Start=1124782><P Class=KRCC>&nbsp;
+<SYNC Start=1125589><P Class=KRCC>저기가 골이야!
+<SYNC Start=1126776><P Class=KRCC>&nbsp;
+<SYNC Start=1127583><P Class=KRCC>잠깐 기다려!
+<SYNC Start=1128824><P Class=KRCC>&nbsp;
+<SYNC Start=1130495><P Class=KRCC>어째서 스타라이트 애들이!
+<SYNC Start=1132507><P Class=KRCC>발 밑을 조심하는 게 좋을 거야, 아가씨들?
+<SYNC Start=1136023><P Class=KRCC>&nbsp;
+<SYNC Start=1140323><P Class=KRCC>보물은 우리들 산적이 가져가겠다
+<SYNC Start=1143092><P Class=KRCC>그 수정을 넘겨주실까?
+<SYNC Start=1145302><P Class=KRCC>&nbsp;
+<SYNC Start=1147047><P Class=KRCC>상대역은 젊은 실력가에게 부탁했어요
+<SYNC Start=1149664><P Class=KRCC>&nbsp;
+<SYNC Start=1150347><P Class=KRCC>드리아카를 위해서라면, 이라면서
+<SYNC Start=1152243><P Class=KRCC>갑작스런 부탁인데도<br>다들 기뻐하며 와줬어요
+<SYNC Start=1155083><P Class=KRCC>&nbsp;
+<SYNC Start=1161660><P Class=KRCC>이건 우리들이 힘을 합쳐 손에 넣은 거야!
+<SYNC Start=1164606><P Class=KRCC>절대 절대 아무에게도 넘기지 않을 거야!
+<SYNC Start=1167118><P Class=KRCC>&nbsp;
+<SYNC Start=1167513><P Class=KRCC>리더..!
+<SYNC Start=1168415><P Class=KRCC>&nbsp;
+<SYNC Start=1173616><P Class=KRCC>서둘러야 해!
+<SYNC Start=1174563><P Class=KRCC>가자!
+<SYNC Start=1175216><P Class=KRCC>&nbsp;
+<SYNC Start=1186704><P Class=KRCC>마리아, 리더를 부탁해!
+<SYNC Start=1188600><P Class=KRCC>알았어!
+<SYNC Start=1189452><P Class=KRCC>리더, 가자!
+<SYNC Start=1190716><P Class=KRCC>&nbsp;
+<SYNC Start=1206621><P Class=KRCC>마리아쨩, 수정을!
+<SYNC Start=1208184><P Class=KRCC>&nbsp;
+<SYNC Start=1209311><P Class=KRCC>마리아쨩, 어서 가!
+<SYNC Start=1210995><P Class=KRCC>&nbsp;
+<SYNC Start=1211575><P Class=KRCC>미안해, 마지막까지<br>믿음직하지 못한 리더라..
+<SYNC Start=1214302><P Class=KRCC>&nbsp;
+<SYNC Start=1215399><P Class=KRCC>뛰어, 리더!
+<SYNC Start=1216692><P Class=KRCC>&nbsp;
+<SYNC Start=1217617><P Class=KRCC>내가 반드시 잡아줄게!
+<SYNC Start=1219290><P Class=KRCC>&nbsp;
+<SYNC Start=1219657><P Class=KRCC>어서!
+<SYNC Start=1220381><P Class=KRCC>&nbsp;
+<SYNC Start=1229771><P Class=KRCC>해냈다!
+<SYNC Start=1230512><P Class=KRCC>해냈어!
+<SYNC Start=1231444><P Class=KRCC>&nbsp;
+<SYNC Start=1231780><P Class=KRCC>해냈구나!
+<SYNC Start=1232638><P Class=KRCC>&nbsp;
+<SYNC Start=1239881><P Class=KRCC>오케오케 오케이!
+<SYNC Start=1241941><P Class=KRCC>&nbsp;
+<SYNC Start=1248675><P Class=KRCC>세계의 비보!
+<SYNC Start=1249787><P Class=KRCC>신비의 낙원!
+<SYNC Start=1251031><P Class=KRCC>찾으러 가자!
+<SYNC Start=1252241><P Class=KRCC>대발견!
+<SYNC Start=1253135><P Class=KRCC>&nbsp;
+<SYNC Start=1253548><P Class=KRCC>우리들은 멋쟁이 탐험대!
+<SYNC Start=1256062><P Class=KRCC>쿨 엔젤스!
+<SYNC Start=1257922><P Class=KRCC>&nbsp;
+<SYNC Start=1260044><P Class=KRCC>다들 수고많았어요
+<SYNC Start=1261600><P Class=KRCC>&nbsp;
+<SYNC Start=1262159><P Class=KRCC>여러분은 골인하는 순간까지<br>단 한명도 그만두자고 하지 않았어요
+<SYNC Start=1265936><P Class=KRCC>&nbsp;
+<SYNC Start=1266592><P Class=KRCC>굉장한 오기를 가진 네 명
+<SYNC Start=1268345><P Class=KRCC>&nbsp;
+<SYNC Start=1268948><P Class=KRCC>합격이에요!
+<SYNC Start=1269765><P Class=KRCC>&nbsp;
+<SYNC Start=1270189><P Class=KRCC>해냈다
+<SYNC Start=1270896><P Class=KRCC>&nbsp;
+<SYNC Start=1271362><P Class=KRCC>해냈다!
+<SYNC Start=1272366><P Class=KRCC>&nbsp;
+<SYNC Start=1272775><P Class=KRCC>해냈다, 해냈어!
+<SYNC Start=1273863><P Class=KRCC>굉장해!
+<SYNC Start=1274910><P Class=KRCC>&nbsp;
+<SYNC Start=1275339><P Class=KRCC>다행이다..
+<SYNC Start=1276700><P Class=KRCC>&nbsp;
+<SYNC Start=1279288><P Class=KRCC>축하해!
+<SYNC Start=1280356><P Class=KRCC>잘 했어!
+<SYNC Start=1281560><P Class=KRCC>적이지만 훌륭했어요
+<SYNC Start=1282275><P Class=KRCC>&nbsp;
+<SYNC Start=1283878><P Class=KRCC>훌륭해, 훌륭해!
+<SYNC Start=1285013><P Class=KRCC>&nbsp;
+<SYNC Start=1285559><P Class=KRCC>감사합니다!
+<SYNC Start=1286767><P Class=KRCC>&nbsp;
+<SYNC Start=1287423><P Class=KRCC>축하해요, 여러분
+<SYNC Start=1288606><P Class=KRCC>&nbsp;
+<SYNC Start=1289512><P Class=KRCC>새로운 쿨 엔젤스를 만들기 위해<br>함께 열심히 해봐요!
+<SYNC Start=1293805><P Class=KRCC>&nbsp;
+<SYNC Start=1294324><P Class=KRCC>네, 잘 부탁드립니다!
+<SYNC Start=1296566><P Class=KRCC>&nbsp;
+<SYNC Start=1296960><P Class=KRCC>본방은 이것의 열 배
+<SYNC Start=1298574><P Class=KRCC>아니, 백 배 박력있는 액션을<br>가득 넣을 거니 잘 따라와야 한다?
+<SYNC Start=1303236><P Class=KRCC>&nbsp;
+<SYNC Start=1308337><P Class=KRCC>여러분의 협력도 있던 덕에
+<SYNC Start=1310432><P Class=KRCC>드림아카데미 네 명의<br>드라마 오디션은 대성공!
+<SYNC Start=1313780><P Class=KRCC>&nbsp;
+<SYNC Start=1314028><P Class=KRCC>감사의 꽃과 과자가 도착했답니다
+<SYNC Start=1316351><P Class=KRCC>&nbsp;
+<SYNC Start=1316855><P Class=KRCC>들었다고, 들었어
+<SYNC Start=1318173><P Class=KRCC>허니들의 이번 일솜씨
+<SYNC Start=1319903><P Class=KRCC>나도 자랑스럽구나!
+<SYNC Start=1321307><P Class=KRCC>&nbsp;
+<SYNC Start=1323376><P Class=KRCC>굉장해, 굉장해!
+<SYNC Start=1324797><P Class=KRCC>맛있어보여요!
+<SYNC Start=1326766><P Class=KRCC>이미 드라마 촬영은
+<SYNC Start=1328341><P Class=KRCC>&nbsp;
+<SYNC Start=1329455><P Class=KRCC>촬영은 시작됐다는 듯 해요
+<SYNC Start=1331209><P Class=KRCC>&nbsp;
+<SYNC Start=1331739><P Class=KRCC>새로운 쿨 엔젤스의<br>탄생이 기다려지는걸?
+<SYNC Start=1334780><P Class=KRCC>&nbsp;
+<SYNC Start=1337466><P Class=KRCC>키이쨩한테 메일이 왔어
+<SYNC Start=1338925><P Class=KRCC>&nbsp;
+<SYNC Start=1339378><P Class=KRCC>그 후로 이 쪽은 엄청난 일이 되어서
+<SYNC Start=1342598><P Class=KRCC>건강히 모두를 만날 수 있을지
+<SYNC Start=1344440><P Class=KRCC>키이는 엄청나게 걱정이에요
+<SYNC Start=1346592><P Class=KRCC>&nbsp;
+<SYNC Start=1348036><P Class=KRCC>넷 다 사이좋게<br>열심히 하고 있는 거 같네!
+<SYNC Start=1350181><P Class=KRCC>&nbsp;
+<SYNC Start=1350355><P Class=KRCC>잘됐다, 잘됐어!
+<SYNC Start=1351710><P Class=KRCC>&nbsp;
+<SYNC Start=1445514><P Class=KRCC>이번 주 아이카츠 격언!
+<SYNC Start=1447449><P Class=KRCC>&nbsp;
+<SYNC Start=1448743><P Class=KRCC>자기랑 이미지가 다른 캐릭터도<br>연기해보니 즐겁다!
+<SYNC Start=1452672><P Class=KRCC>다들 이미지와 어긋나서<br>신선하지 않았을까?
+<SYNC Start=1456241><P Class=KRCC>&nbsp;
+<SYNC Start=1457356><P Class=KRCC>새로운 것에 도전하자!
+<SYNC Start=1459247><P Class=KRCC>&nbsp;
+<SYNC Start=1460726><P Class=KRCC>퓨처링 걸의 별자리 드레스를<br>광고하는 라이브요!?
+<SYNC Start=1463683><P Class=KRCC>&nbsp;
+<SYNC Start=1464412><P Class=KRCC>키리야에게도 드디어<br>별자리 어필을 할 때가 왔군요
+<SYNC Start=1467819><P Class=KRCC>다음 회 아이카츠!
+<SYNC Start=1469278><P Class=KRCC>반짝임은 아쿠에리어스
+<SYNC Start=1471041><P Class=KRCC>언제나 뜨거운 아이돌 활동!
+<SYNC Start=1472914><P Class=KRCC>&nbsp;
+</BODY>
+</SAMI>

@@ -1,0 +1,857 @@
+<SAMI>
+<HEAD>
+<TITLE>Netshow 3.0 - Close Captioning Sample</TITLE>
+<STYLE TYPE="text/css">
+<!--
+P { margin-left:8pt; margin-right:8pt; margin-bottom:2pt;
+    margin-top:2pt; font-size:15pt; text-align:center;
+    font-family:arial, sans-serif; font-weight:normal; color:white;
+    }
+.KRCC { Name:Korean; lang:kr-KR; SAMIType:CC; }
+#STDPrn { Name:Standard Print; }
+#LargePrn { Name:Large Print; font-size:20pt; }
+#SmallPrn { Name:Small Print; font-size:10pt; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<SYNC Start=22173><P Class=KRCC>
+서기 2008년 7월 인류는<br>
+멸망의 위기에 직면해 있었다.
+<SYNC Start=28319><P Class=KRCC>
+핵무기의 위력을 휠씬 능가하는 초자력 병기가<br>
+세계의 절반을 순식간에 소멸시켜 버린것이다.
+<SYNC Start=34748><P Class=KRCC>&nbsp;
+<SYNC Start=48785><P Class=KRCC>
+지구는 대지각변동을 일으켜<br>
+지축이 뒤틀어지고,
+<SYNC Start=52598><P Class=KRCC>
+여섯개의 대륙은 산산조각난채<br>
+바다속에 가라앉아 버렸다.
+<SYNC Start=57058><P Class=KRCC>&nbsp;
+<SYNC Start=79652><P Class=KRCC>
+<font size=6><b>미래소년<br>
+<font size=7>코난
+<SYNC Start=85421><P Class=KRCC>&nbsp;
+<SYNC Start=87491><P Class=KRCC>
+<font color=ccccff>[지금 바다가 눈을 뜬다]</font color><br>
+<font size=5><b>미래소년코난<br>번역,자막 chris
+<SYNC Start=91743><P Class=KRCC>&nbsp;
+<SYNC Start=92790><P Class=KRCC>
+<font color=ccccff>바다는 푸르게 잠들고
+<SYNC Start=95399><P Class=KRCC>
+<font color=ccccff>대지에 생명이 싹트네
+<SYNC Start=98062><P Class=KRCC>
+<font color=ccccff>그리고 하늘이 그리고 하늘이
+<SYNC Start=101168><P Class=KRCC>
+<font color=ccccff>내일을 꿈꾸어
+<SYNC Start=104968><P Class=KRCC>
+<font color=ccccff>우와, 다시 태어난 지구가
+<SYNC Start=109219><P Class=KRCC>
+<font color=ccccff>잠에서 깬 아침을 맞이한다
+<SYNC Start=116768><P Class=KRCC>
+<font color=ccccff>헤엄쳐라 파도를 헤치고, 달려라 땅을 박차고
+<SYNC Start=123389><P Class=KRCC>
+<font color=ccccff>이렇게 지구가 좋으니까
+<SYNC Start=128633><P Class=KRCC>
+<font color=ccccff>이렇게 새벽이 아름다우니까
+<SYNC Start=138040><P Class=KRCC>
+<font color=ccccff>노래하자 소리 맞춰, 춤추자 어깨동무하고
+<SYNC Start=144466><P Class=KRCC>
+<font color=ccccff>이렇게 지구가 좋으니까
+<SYNC Start=149765><P Class=KRCC>
+<font color=ccccff>이렇게 새벽이 아름다우니까
+<SYNC Start=159421><P Class=KRCC>&nbsp;
+<SYNC Start=161660><P Class=KRCC>
+17화. 전 투
+<SYNC Start=165920><P Class=KRCC>&nbsp;
+<SYNC Start=189480><P Class=KRCC>
+다시 라나를 잡으러 온 걸까?
+<SYNC Start=191840><P Class=KRCC>&nbsp;
+<SYNC Start=192020><P Class=KRCC>
+응, 틀림없이 그것 때문에 왔을 거야.
+<SYNC Start=193170><P Class=KRCC>
+아니, 그들은 이 섬을 점령하려고 왔어.
+<SYNC Start=196080><P Class=KRCC>&nbsp;
+<SYNC Start=196340><P Class=KRCC>
+내가 꾼 꿈과 똑같아.
+<SYNC Start=198020><P Class=KRCC>&nbsp;
+<SYNC Start=198400><P Class=KRCC>
+할아버지가 이렇게 말씀하고 계셨어,<br>"하이하버를 지켜라".
+<SYNC Start=201620><P Class=KRCC>&nbsp;
+<SYNC Start=202440><P Class=KRCC>
+나는 저 사람들을 살펴보러 갈께.<br>라나는 마을사람들한테 알려 줘.
+<SYNC Start=205600><P Class=KRCC>
+조심해.
+<SYNC Start=206600><P Class=KRCC>
+나도 갈꺼야.
+<SYNC Start=207700><P Class=KRCC>&nbsp;
+<SYNC Start=208020><P Class=KRCC>
+"맛있어" 갖고 있어.
+<SYNC Start=209920><P Class=KRCC>&nbsp;
+<SYNC Start=214400><P Class=KRCC>
+라나, 잠깐만. 이것도 갖고 있어.
+<SYNC Start=218720><P Class=KRCC>&nbsp;
+<SYNC Start=218800><P Class=KRCC>
+응.
+<SYNC Start=219720><P Class=KRCC>&nbsp;
+<SYNC Start=220100><P Class=KRCC>
+"맛있어", 착한 아이지.
+<SYNC Start=222140><P Class=KRCC>&nbsp;
+<SYNC Start=222680><P Class=KRCC>
+기다려, 코난!
+<SYNC Start=223880><P Class=KRCC>&nbsp;
+<SYNC Start=238170><P Class=KRCC>
+이런, 완전히 타버렸어.
+<SYNC Start=239920><P Class=KRCC>&nbsp;
+<SYNC Start=244490><P Class=KRCC>
+곶 쪽으로 간다.
+<SYNC Start=245900><P Class=KRCC>
+오로의 땅이야.
+<SYNC Start=247160><P Class=KRCC>
+가자!
+<SYNC Start=248070><P Class=KRCC>&nbsp;
+<SYNC Start=261080><P Class=KRCC>
+아주머니.
+<SYNC Start=262300><P Class=KRCC>&nbsp;
+<SYNC Start=262320><P Class=KRCC>
+여보, 라나가 돌아왔어요.
+<SYNC Start=264120><P Class=KRCC>&nbsp;
+<SYNC Start=264400><P Class=KRCC>
+다행이다. 난 널 찾으러 가려고 했단다.
+<SYNC Start=267070><P Class=KRCC>&nbsp;
+<SYNC Start=268020><P Class=KRCC>
+아저씨, 인더스트리아 배가 왔어요.
+<SYNC Start=270180><P Class=KRCC>&nbsp;
+<SYNC Start=271120><P Class=KRCC>
+정말이구나. 탐조등을 보고 나도 그렇게 생각했단다.
+<SYNC Start=276560><P Class=KRCC>&nbsp;
+<SYNC Start=277520><P Class=KRCC>
+코난이 그들을 살펴보러 갔어요.
+<SYNC Start=279620><P Class=KRCC>&nbsp;
+<SYNC Start=281400><P Class=KRCC>
+여보...
+<SYNC Start=282520><P Class=KRCC>&nbsp;
+<SYNC Start=282720><P Class=KRCC>
+잘 들으시오. 우리는 이제부터 많은 괴롭고<br>슬픈 사건들과 맞닥뜨리게 될 겁니다.
+<SYNC Start=287920><P Class=KRCC>&nbsp;
+<SYNC Start=288200><P Class=KRCC>
+우리는 서로 격려하고<br>
+우리 마을의 평화를 지켜야 합니다.
+<SYNC Start=292520><P Class=KRCC>&nbsp;
+<SYNC Start=293580><P Class=KRCC>
+라나, 옷을 갈아입어라.<br>
+마을로 가도록 하자.
+<SYNC Start=296920><P Class=KRCC>&nbsp;
+<SYNC Start=309380><P Class=KRCC>
+그들이 누군지는 모르겠지만,<br>내 땅에 들어오지 못하게 하겠다.
+<SYNC Start=313180><P Class=KRCC>
+잘 들어라, 그들이 이 쪽으로<br>조금 더 가까이 오게 한 다음, 공격한다!
+<SYNC Start=316820><P Class=KRCC>&nbsp;
+<SYNC Start=333160><P Class=KRCC>
+숫자가 아주 많군.
+<SYNC Start=334580><P Class=KRCC>&nbsp;
+<SYNC Start=335040><P Class=KRCC>
+코난, 저길 봐.
+<SYNC Start=336540><P Class=KRCC>&nbsp;
+<SYNC Start=338640><P Class=KRCC>
+선장, 뭐하고 있는 거지?
+<SYNC Start=340700><P Class=KRCC>&nbsp;
+<SYNC Start=341240><P Class=KRCC>
+그가 우리 오두막 아래에 나무를 쌓았어.
+<SYNC Start=344280><P Class=KRCC>&nbsp;
+<SYNC Start=351600><P Class=KRCC>
+이상한데.
+<SYNC Start=352900><P Class=KRCC>&nbsp;
+<SYNC Start=358740><P Class=KRCC>
+저길 봐.
+<SYNC Start=361080><P Class=KRCC>&nbsp;
+<SYNC Start=364300><P Class=KRCC>
+오로가 그들과 싸우려고 해.
+<SYNC Start=366240><P Class=KRCC>
+테라도 있어.
+<SYNC Start=367540><P Class=KRCC>&nbsp;
+<SYNC Start=370380><P Class=KRCC>
+쟤들은 그들의 상대가 안돼. 지게 될거야.
+<SYNC Start=372680><P Class=KRCC>&nbsp;
+<SYNC Start=402940><P Class=KRCC>
+지금이다!
+<SYNC Start=405000><P Class=KRCC>&nbsp;
+<SYNC Start=418820><P Class=KRCC>
+포격준비!
+<SYNC Start=420540><P Class=KRCC>&nbsp;
+<SYNC Start=446700><P Class=KRCC>
+테라가 죽었나?
+<SYNC Start=449140><P Class=KRCC>&nbsp;
+<SYNC Start=450680><P Class=KRCC>
+테라! 그녀 혼자 살아 남았어!
+<SYNC Start=453360><P Class=KRCC>&nbsp;
+<SYNC Start=466180><P Class=KRCC>
+이봐!
+<SYNC Start=467040><P Class=KRCC>&nbsp;
+<SYNC Start=468660><P Class=KRCC>
+어--어이, 기다려!
+<SYNC Start=470800><P Class=KRCC>&nbsp;
+<SYNC Start=476980><P Class=KRCC>
+안돼, 오지 마.
+<SYNC Start=479920><P Class=KRCC>&nbsp;
+<SYNC Start=480060><P Class=KRCC>
+다이스?!
+<SYNC Start=481620><P Class=KRCC>&nbsp;
+<SYNC Start=488880><P Class=KRCC>
+잘 있어!
+<SYNC Start=490280><P Class=KRCC>&nbsp;
+<SYNC Start=493180><P Class=KRCC>
+실례! 내가 먼저 가마.
+<SYNC Start=495840><P Class=KRCC>
+선장, 어디 가는 거죠?
+<SYNC Start=497510><P Class=KRCC>
+한번에 마을로 후퇴할 거다.
+<SYNC Start=499380><P Class=KRCC>
+우리 오두막을 불태운 다음에요?
+<SYNC Start=501290><P Class=KRCC>&nbsp;
+<SYNC Start=502670><P Class=KRCC>
+그 로보노이드는 누구랑 같이 찾았죠?
+<SYNC Start=505140><P Class=KRCC>&nbsp;
+<SYNC Start=505290><P Class=KRCC>
+아마 오로일거야?
+<SYNC Start=506640><P Class=KRCC>
+아냐, 그럴리 없어.
+<SYNC Start=507840><P Class=KRCC>
+아니면, 정말 그랬어요?
+<SYNC Start=509540><P Class=KRCC>&nbsp;
+<SYNC Start=510880><P Class=KRCC>
+알았어, 알았어, 그만 말해.
+<SYNC Start=514020><P Class=KRCC>&nbsp;
+<SYNC Start=536620><P Class=KRCC>
+어이, 누가 오고 있다!
+<SYNC Start=539580><P Class=KRCC>&nbsp;
+<SYNC Start=545170><P Class=KRCC>
+짐시에요.
+<SYNC Start=546580><P Class=KRCC>&nbsp;
+<SYNC Start=548300><P Class=KRCC>
+무거워.
+<SYNC Start=550220><P Class=KRCC>
+테라구나.
+<SYNC Start=551120><P Class=KRCC>
+오로 패거리는 패배했어.
+<SYNC Start=553180><P Class=KRCC>
+테라가 상처를 입었어. 그녀를 보살펴줘.
+<SYNC Start=555360><P Class=KRCC>
+응.
+<SYNC Start=556390><P Class=KRCC>
+아저씨, 그녀를 데려다 주세요.
+<SYNC Start=558240><P Class=KRCC>
+좋아. 걘 오로의 동생이지?
+<SYNC Start=560740><P Class=KRCC>&nbsp;
+<SYNC Start=560890><P Class=KRCC>
+코난과 다이스가 마을 밖에서 정찰하고 있어.
+<SYNC Start=563660><P Class=KRCC>&nbsp;
+<SYNC Start=564640><P Class=KRCC>
+그들은 엄청 많아.
+<SYNC Start=566040><P Class=KRCC>&nbsp;
+<SYNC Start=566140><P Class=KRCC>
+그들에게 자세한 얘기를 해줘.
+<SYNC Start=568190><P Class=KRCC>&nbsp;
+<SYNC Start=571640><P Class=KRCC>
+음. 알았다. 고맙구나.
+<SYNC Start=574950><P Class=KRCC>&nbsp;
+<SYNC Start=575440><P Class=KRCC>
+시장님.
+<SYNC Start=576410><P Class=KRCC>&nbsp;
+<SYNC Start=576510><P Class=KRCC>
+예.
+<SYNC Start=577540><P Class=KRCC>&nbsp;
+<SYNC Start=580510><P Class=KRCC>
+여러분, 우린 무엇을 해야 할지<br>결정해야 합니다.
+<SYNC Start=583390><P Class=KRCC>
+인더스트리아의 병사들이 섬의 반대편으로 와서<br>오로의 패거리와 싸웠습니다.
+<SYNC Start=588400><P Class=KRCC>&nbsp;
+<SYNC Start=593130><P Class=KRCC>
+그들의 의도가 무엇인지는<br>
+아직 확실치 않습니다.
+<SYNC Start=597720><P Class=KRCC>
+어쨌거나, 저는 모든 남자들이<br>마을 입구 계곡으로 가야 하리라고 봅니다.
+<SYNC Start=602170><P Class=KRCC>
+시장님, 인더스트리아가 물 속으로<br>가라앉을 거라는데, 그렇습니까?
+<SYNC Start=605220><P Class=KRCC>
+그래서 여기로 탈출해 온게 아닐까요?
+<SYNC Start=608390><P Class=KRCC>
+그들에게 먹을 걸 주고 여길 떠나달라고<br>부탁하는게 어떻겠습니까?
+<SYNC Start=611660><P Class=KRCC>&nbsp;
+<SYNC Start=611790><P Class=KRCC>
+그들이 먹을 걸 원했다면,<br>대포를 쓰지는 않았을 겁니다!
+<SYNC Start=616250><P Class=KRCC>&nbsp;
+<SYNC Start=616600><P Class=KRCC>
+우리는 싸워야 합니다!
+<SYNC Start=617980><P Class=KRCC>
+그렇지만 우리는 대포나 미사일에는<br>상대할 수 없어요!
+<SYNC Start=621290><P Class=KRCC>&nbsp;
+<SYNC Start=621340><P Class=KRCC>
+부상을 당하거나 죽게 될거에요!
+<SYNC Start=623950><P Class=KRCC>&nbsp;
+<SYNC Start=624040><P Class=KRCC>
+그렇다면 그들이 우리에게 무엇을 하든지<br>내버려 두잔 말씀이오?!
+<SYNC Start=626590><P Class=KRCC>&nbsp;
+<SYNC Start=627360><P Class=KRCC>
+조용히 하세요,<br>우리끼리 다투는 건 시간 낭비일 뿐이오.
+<SYNC Start=631780><P Class=KRCC>&nbsp;
+<SYNC Start=632240><P Class=KRCC>
+실례합니다만, 한마디 해도 될까요?
+<SYNC Start=634580><P Class=KRCC>&nbsp;
+<SYNC Start=635000><P Class=KRCC>
+아, 당신은 인더스트리아에 살았었지?
+<SYNC Start=638280><P Class=KRCC>&nbsp;
+<SYNC Start=638420><P Class=KRCC>
+좋아요, 말씀하시오.
+<SYNC Start=640020><P Class=KRCC>&nbsp;
+<SYNC Start=640840><P Class=KRCC>
+저희가 여기에 있은지 얼마 되지 않지만,<br>저는 이 섬이 매우 좋은 곳이라는 걸 알고 있습니다.
+<SYNC Start=646280><P Class=KRCC>&nbsp;
+<SYNC Start=646660><P Class=KRCC>
+인더스트리아의 독재자, 레프카는 나쁜 사람이에요.<br>그 사람이 이 섬을 차지하려고 하는게 틀림없어요.
+<SYNC Start=652220><P Class=KRCC>
+여러분이 싸운다면, 저희도 함께 싸우게 해 주십시오.
+<SYNC Start=656500><P Class=KRCC>&nbsp;
+<SYNC Start=665920><P Class=KRCC>
+여러분, 저는 시장이지만<br>실제로는 매우 겁이 많은 사람입니다.
+<SYNC Start=671500><P Class=KRCC>
+그러나, 그들의 의도가 우리 마을을 점령하려는 것이라면,<br>우리가 싸워야 한다고 생각합니다.
+<SYNC Start=677180><P Class=KRCC>
+재난이 있은 후, 우리는 많은 어려움을 극복하며<br>이 마을을 지었습니다.
+<SYNC Start=682660><P Class=KRCC>
+처음 5년동안 우리가 충분한 밀을 기르지 못해서<br>굶주림으로 거의 죽을 뻔하기도 했습니다.
+<SYNC Start=689740><P Class=KRCC>&nbsp;
+<SYNC Start=690620><P Class=KRCC>
+우리가 이 마을을 만들기 위해 열심히 일한 것은<br>인더스트리아를 위해서가 아닙니다!
+<SYNC Start=695700><P Class=KRCC>&nbsp;
+<SYNC Start=696540><P Class=KRCC>
+우리에게는 이 마을 밖에 없습니다.
+<SYNC Start=698622><P Class=KRCC>
+우리는 다른 방법으로<br>
+살아 갈 수도 없고 다른 곳도 없습니다.
+<SYNC Start=700830><P Class=KRCC>&nbsp;
+<SYNC Start=701000><P Class=KRCC>
+우리의 마을을 지킵시다.
+<SYNC Start=703310><P Class=KRCC>
+시장의 말씀에 동의합니다.
+<SYNC Start=705220><P Class=KRCC>
+모든 상황에 대해 대비합시다.
+<SYNC Start=706920><P Class=KRCC>
+그리고 그들이 움직이기를 기다리는 겁니다.
+<SYNC Start=708420><P Class=KRCC>&nbsp;
+<SYNC Start=708480><P Class=KRCC>
+좋아, 계곡으로 갑시다!
+<SYNC Start=711500><P Class=KRCC>&nbsp;
+<SYNC Start=711980><P Class=KRCC>
+좋습니다! 지금 모든 남자들은 계곡으로 가고<br>여자와 아이들은 여기 남으시오.
+<SYNC Start=716950><P Class=KRCC>&nbsp;
+<SYNC Start=717660><P Class=KRCC>
+이렇게 간단한 일을 결정하는데<br>어떻게 그렇게 많은 시간을 허비할 수가 있지?
+<SYNC Start=721040><P Class=KRCC>&nbsp;
+<SYNC Start=721180><P Class=KRCC>
+짐시, 이리와.
+<SYNC Start=722450><P Class=KRCC>&nbsp;
+<SYNC Start=723070><P Class=KRCC>
+테라가 깨어났는데 오로가 죽었다며 울고 있어.<br>그녀를 위로해 줘, 어서.
+<SYNC Start=727810><P Class=KRCC>
+왜 나야? 놀리는 거지?.
+<SYNC Start=731200><P Class=KRCC>&nbsp;
+<SYNC Start=732100><P Class=KRCC>
+짐시, 테라가 널 보러 우리 집에 왔었어.
+<SYNC Start=736160><P Class=KRCC>&nbsp;
+<SYNC Start=737300><P Class=KRCC>
+그녀는 오로가 너희의 집을 불태우려 한다고<br>너에게 말하려고 했던 거야.
+<SYNC Start=740240><P Class=KRCC>&nbsp;
+<SYNC Start=740420><P Class=KRCC>
+실제로는 그녀도 좋은 아이야, 자?
+<SYNC Start=743060><P Class=KRCC>&nbsp;
+<SYNC Start=743070><P Class=KRCC>
+어서.
+<SYNC Start=744300><P Class=KRCC>&nbsp;
+<SYNC Start=769760><P Class=KRCC>
+울지 마. 어디 아프니?
+<SYNC Start=772240><P Class=KRCC>&nbsp;
+<SYNC Start=775640><P Class=KRCC>
+오로는 죽지 않았어.
+<SYNC Start=777500><P Class=KRCC>&nbsp;
+<SYNC Start=777690><P Class=KRCC>
+정말? 확실한 거야?!
+<SYNC Start=779820><P Class=KRCC>&nbsp;
+<SYNC Start=782900><P Class=KRCC>
+어쩌면.
+<SYNC Start=784280><P Class=KRCC>&nbsp;
+<SYNC Start=800190><P Class=KRCC>
+실수했다. 우리는 섬의 반대편에 상륙한 거야.
+<SYNC Start=804880><P Class=KRCC>&nbsp;
+<SYNC Start=804930><P Class=KRCC>
+그 불 때문에.
+<SYNC Start=807140><P Class=KRCC>&nbsp;
+<SYNC Start=807480><P Class=KRCC>
+다시 반대편으로 가서 상륙하는 게 어떻습니까?
+<SYNC Start=809720><P Class=KRCC>
+너무 늦었어.<br>그들은 이미 우리에게 대항할 준비를 했을 거다.
+<SYNC Start=814380><P Class=KRCC>
+그들을 점령하는건 쉬운 일이야.<br>하지만, 우리는 아무런 피해 없이 마을을 차지해야 해.
+<SYNC Start=817660><P Class=KRCC>&nbsp;
+<SYNC Start=818430><P Class=KRCC>
+그를 데려왔습니다.
+<SYNC Start=819240><P Class=KRCC>
+그는 자기가 리더인 오로라고 합니다.
+<SYNC Start=821850><P Class=KRCC>&nbsp;
+<SYNC Start=822000><P Class=KRCC>
+당신은 여자군요?
+<SYNC Start=823800><P Class=KRCC>&nbsp;
+<SYNC Start=824360><P Class=KRCC>
+너는 여자에게 져서<br>
+기분나쁘다는 말을 하고 싶은 거냐?
+<SYNC Start=827400><P Class=KRCC>
+용건이 뭐지?
+<SYNC Start=828360><P Class=KRCC>
+어, 저는 당신들을 돕고 싶어요.
+<SYNC Start=831200><P Class=KRCC>&nbsp;
+<SYNC Start=834500><P Class=KRCC>
+제가 여러분을 돕는다고 해서 기쁘신 거에요?
+<SYNC Start=837160><P Class=KRCC>
+이봐, 말을 조심해!
+<SYNC Start=838620><P Class=KRCC>
+기다려!
+<SYNC Start=839640><P Class=KRCC>
+내가 그 말에 속을 줄 알고?
+<SYNC Start=841140><P Class=KRCC>&nbsp;
+<SYNC Start=841640><P Class=KRCC>
+지금 마을을 위해<br>
+싸운 사람의 말을 믿으라는 거냐?
+<SYNC Start=846740><P Class=KRCC>&nbsp;
+<SYNC Start=846810><P Class=KRCC>
+저는 그 마을 사람이 아니에요<br>
+여기는 제 땅이죠.
+<SYNC Start=850600><P Class=KRCC>
+저한테 좋은 무기만 있었더라면<br>저도 마을을 쳐들어 가서 지배했을 거에요.
+<SYNC Start=855280><P Class=KRCC>&nbsp;
+<SYNC Start=856020><P Class=KRCC>
+재미있구나.
+<SYNC Start=858020><P Class=KRCC>&nbsp;
+<SYNC Start=858180><P Class=KRCC>
+당신들이 이 섬을 차지하면,<br>이 곳을 잘아는 사람이 필요할 거요, 안 그렇습니까?
+<SYNC Start=862680><P Class=KRCC>&nbsp;
+<SYNC Start=863540><P Class=KRCC>
+저를 당신들 편에 끼워준다면<br>
+도움이 될 거에요.
+<SYNC Start=866210><P Class=KRCC>&nbsp;
+<SYNC Start=869540><P Class=KRCC>
+하이하버에 이런 악당이 있을 줄이야.
+<SYNC Start=873120><P Class=KRCC>&nbsp;
+<SYNC Start=909270><P Class=KRCC>
+선장, 그들이 오지 않고 있어요.
+<SYNC Start=911150><P Class=KRCC>&nbsp;
+<SYNC Start=911600><P Class=KRCC>
+야, 왔다 왔어!
+<SYNC Start=913840><P Class=KRCC>
+어떻게 되가고 있어요?
+<SYNC Start=915210><P Class=KRCC>&nbsp;
+<SYNC Start=915810><P Class=KRCC>
+점심을 가져 왔어요. 맛있게 드세요.
+<SYNC Start=917650><P Class=KRCC>&nbsp;
+<SYNC Start=917870><P Class=KRCC>
+오! 고마워요.
+<SYNC Start=919970><P Class=KRCC>&nbsp;
+<SYNC Start=920960><P Class=KRCC>
+여기요, 먹고 나면 바구니는<br>
+돌려 줘요, 알았어요?
+<SYNC Start=924810><P Class=KRCC>&nbsp;
+<SYNC Start=925130><P Class=KRCC>
+예, 알겠습니다.
+<SYNC Start=926830><P Class=KRCC>&nbsp;
+<SYNC Start=931130><P Class=KRCC>
+올라가도 돼?
+<SYNC Start=932220><P Class=KRCC>
+응.
+<SYNC Start=933230><P Class=KRCC>&nbsp;
+<SYNC Start=935950><P Class=KRCC>
+여깄어, 배고프니?
+<SYNC Start=937730><P Class=KRCC>&nbsp;
+<SYNC Start=939090><P Class=KRCC>
+이야, 맛있겠는데.
+<SYNC Start=941030><P Class=KRCC>&nbsp;
+<SYNC Start=941370><P Class=KRCC>
+고마워.
+<SYNC Start=943000><P Class=KRCC>&nbsp;
+<SYNC Start=948170><P Class=KRCC>
+조용하네.
+<SYNC Start=949410><P Class=KRCC>&nbsp;
+<SYNC Start=950170><P Class=KRCC>
+응, 너무 조용해.
+<SYNC Start=951600><P Class=KRCC>&nbsp;
+<SYNC Start=968250><P Class=KRCC>
+라나, 라나는 내가 그들이 너와 마을을<br>차지하게 내버려 둘 거 같니?
+<SYNC Start=972470><P Class=KRCC>&nbsp;
+<SYNC Start=973770><P Class=KRCC>
+내가 인더스트리아에 지게 될 것 같아?
+<SYNC Start=977110><P Class=KRCC>&nbsp;
+<SYNC Start=993310><P Class=KRCC>
+라나, 여긴 너무 위험해.<br>그러니까, 마을로 돌아 가도록 해.
+<SYNC Start=996850><P Class=KRCC>
+그럴께,<br>집에 돌아가서 짐시의 새끼돼지에게 밥줘야지.
+<SYNC Start=1001750><P Class=KRCC>&nbsp;
+<SYNC Start=1012600><P Class=KRCC>
+도와줘요!
+<SYNC Start=1014480><P Class=KRCC>&nbsp;
+<SYNC Start=1015080><P Class=KRCC>
+오로다! 누군가에게 쫓기고 있어.
+<SYNC Start=1016810><P Class=KRCC>
+살려줘!
+<SYNC Start=1018110><P Class=KRCC>&nbsp;
+<SYNC Start=1018570><P Class=KRCC>
+오로다, 들어오게 해.<br>사격 개시!
+<SYNC Start=1020970><P Class=KRCC>&nbsp;
+<SYNC Start=1025690><P Class=KRCC>
+이리 와!
+<SYNC Start=1026790><P Class=KRCC>&nbsp;
+<SYNC Start=1047770><P Class=KRCC>
+그들이 달아 났다. 실망인데.
+<SYNC Start=1051610><P Class=KRCC>&nbsp;
+<SYNC Start=1051790><P Class=KRCC>
+야호! 우리가 해냈다!
+<SYNC Start=1053740><P Class=KRCC>&nbsp;
+<SYNC Start=1061080><P Class=KRCC>
+야, 오로, 정말 불쌍한 몰골이구나.
+<SYNC Start=1064150><P Class=KRCC>&nbsp;
+<SYNC Start=1064630><P Class=KRCC>
+그래, 아직 살아 있었구나.
+<SYNC Start=1066430><P Class=KRCC>&nbsp;
+<SYNC Start=1066730><P Class=KRCC>
+우린 도망쳤어요. 계략을 써서 탈출했죠.
+<SYNC Start=1070710><P Class=KRCC>&nbsp;
+<SYNC Start=1070890><P Class=KRCC>
+다른 사람들은 어떻게 됐니?
+<SYNC Start=1072480><P Class=KRCC>&nbsp;
+<SYNC Start=1072630><P Class=KRCC>
+사람들이 더 있지 않았니?
+<SYNC Start=1074110><P Class=KRCC>&nbsp;
+<SYNC Start=1074330><P Class=KRCC>
+그들은 아직 붙잡혀 있어요, 그리고 제 동생은,<br>테라는 어디 있는지도 모르고 있어요.
+<SYNC Start=1079600><P Class=KRCC>
+제발, 저희에게 피난처를 주세요.<br>저는 달리 갈 데도 없어요.
+<SYNC Start=1081830><P Class=KRCC>
+테라는 무사하다. 지금 마을에 있단다.
+<SYNC Start=1084190><P Class=KRCC>&nbsp;
+<SYNC Start=1084340><P Class=KRCC>
+정말이에요? 고맙습니다.
+<SYNC Start=1086870><P Class=KRCC>&nbsp;
+<SYNC Start=1088990><P Class=KRCC>
+넌 그렇게 돼도 마땅해.
+<SYNC Start=1092550><P Class=KRCC>&nbsp;
+<SYNC Start=1092580><P Class=KRCC>
+시장님!
+<SYNC Start=1093480><P Class=KRCC>&nbsp;
+<SYNC Start=1095350><P Class=KRCC>
+좋아, 마을로 가있어.<br>조금 있다가 너에게 적에 대해 물어 보겠다.
+<SYNC Start=1099770><P Class=KRCC>
+상처는 어떤가?
+<SYNC Start=1101050><P Class=KRCC>
+감사합니다. 제 상처는 그렇게 나쁘진 않아요.<br>고맙습니다.
+<SYNC Start=1104610><P Class=KRCC>&nbsp;
+<SYNC Start=1107010><P Class=KRCC>
+누가 좀, 그들을 데려다 줘라.
+<SYNC Start=1109370><P Class=KRCC>&nbsp;
+<SYNC Start=1110340><P Class=KRCC>
+잘됐어. 테라가 기뻐할 거야.
+<SYNC Start=1112740><P Class=KRCC>&nbsp;
+<SYNC Start=1113010><P Class=KRCC>
+그런데 너무 쉬웠어.
+<SYNC Start=1115210><P Class=KRCC>&nbsp;
+<SYNC Start=1116250><P Class=KRCC>
+뭐가?
+<SYNC Start=1117410><P Class=KRCC>&nbsp;
+<SYNC Start=1117630><P Class=KRCC>
+내 말은, 우리가 인더스트리아에서 탈출할 땐,<br>정말 어려웠잖아.
+<SYNC Start=1122170><P Class=KRCC>&nbsp;
+<SYNC Start=1126150><P Class=KRCC>
+라나, 한가지 확인하고 싶은 일이 있어.<br>갈매기 아저씨 있는데 가 봐야 겠어
+<SYNC Start=1130650><P Class=KRCC>&nbsp;
+<SYNC Start=1131250><P Class=KRCC>
+코난, 그게 뭔데?
+<SYNC Start=1132610><P Class=KRCC>&nbsp;
+<SYNC Start=1132840><P Class=KRCC>
+별거 아냐, 마을에서 기다리고 있어.
+<SYNC Start=1135240><P Class=KRCC>&nbsp;
+<SYNC Start=1137330><P Class=KRCC>
+저는 바다로 가 볼께요.
+<SYNC Start=1138830><P Class=KRCC>
+좋아, 여기는 걱정 마라.
+<SYNC Start=1140530><P Class=KRCC>&nbsp;
+<SYNC Start=1141050><P Class=KRCC>
+이따 보자!
+<SYNC Start=1141830><P Class=KRCC>
+조심해.
+<SYNC Start=1143030><P Class=KRCC>&nbsp;
+<SYNC Start=1151990><P Class=KRCC>
+테라, 좋은 소식이 있단다.
+<SYNC Start=1154230><P Class=KRCC>&nbsp;
+<SYNC Start=1156630><P Class=KRCC>
+들어오너라.
+<SYNC Start=1157650><P Class=KRCC>&nbsp;
+<SYNC Start=1159630><P Class=KRCC>
+오빠!
+<SYNC Start=1160910><P Class=KRCC>&nbsp;
+<SYNC Start=1161750><P Class=KRCC>
+테라.
+<SYNC Start=1163230><P Class=KRCC>&nbsp;
+<SYNC Start=1163290><P Class=KRCC>
+오빠, 죽은 줄 알았어.
+<SYNC Start=1165790><P Class=KRCC>&nbsp;
+<SYNC Start=1168510><P Class=KRCC>
+울지 마, 쑥스럽잖아.
+<SYNC Start=1170550><P Class=KRCC>&nbsp;
+<SYNC Start=1171750><P Class=KRCC>
+여, 짐시, 간호해 줘서 고마워.
+<SYNC Start=1174650><P Class=KRCC>&nbsp;
+<SYNC Start=1175830><P Class=KRCC>
+너희 오두막을 불태운건 미안해.
+<SYNC Start=1178810><P Class=KRCC>
+닥쳐!
+<SYNC Start=1179930><P Class=KRCC>&nbsp;
+<SYNC Start=1180010><P Class=KRCC>
+너희들이 다시 지어야 해!
+<SYNC Start=1182210><P Class=KRCC>&nbsp;
+<SYNC Start=1182340><P Class=KRCC>
+응, 그럴께.
+<SYNC Start=1184250><P Class=KRCC>&nbsp;
+<SYNC Start=1184580><P Class=KRCC>
+그렇지, 얘들아?
+<SYNC Start=1185750><P Class=KRCC>&nbsp;
+<SYNC Start=1186080><P Class=KRCC>
+오로 -- 물론이지.
+<SYNC Start=1187230><P Class=KRCC>&nbsp;
+<SYNC Start=1189030><P Class=KRCC>
+이제, 우릴 용서해 줘.
+<SYNC Start=1190590><P Class=KRCC>&nbsp;
+<SYNC Start=1195790><P Class=KRCC>
+아주머니,<br>제가 그들을 살펴 볼 테니, 나가셔도 돼요.
+<SYNC Start=1198500><P Class=KRCC>&nbsp;
+<SYNC Start=1198630><P Class=KRCC>
+고맙다. 그럼 내가 가서 붕대를 가져 오마.
+<SYNC Start=1202350><P Class=KRCC>&nbsp;
+<SYNC Start=1205330><P Class=KRCC>
+무슨 일이야?
+<SYNC Start=1207050><P Class=KRCC>&nbsp;
+<SYNC Start=1207230><P Class=KRCC>
+내가 널 감시할 거야.
+<SYNC Start=1208630><P Class=KRCC>&nbsp;
+<SYNC Start=1208840><P Class=KRCC>
+코난이 나더러 마을에 무슨 일이 일어날지<br>살펴 보라고 했어.
+<SYNC Start=1211500><P Class=KRCC>&nbsp;
+<SYNC Start=1228190><P Class=KRCC>
+아저씨.
+<SYNC Start=1229170><P Class=KRCC>&nbsp;
+<SYNC Start=1229550><P Class=KRCC>
+봐라.
+<SYNC Start=1230980><P Class=KRCC>&nbsp;
+<SYNC Start=1233730><P Class=KRCC>
+내 생각대로군.
+<SYNC Start=1235000><P Class=KRCC>&nbsp;
+<SYNC Start=1236130><P Class=KRCC>
+우리가 지금 막 발견했단다.
+<SYNC Start=1238050><P Class=KRCC>&nbsp;
+<SYNC Start=1238100><P Class=KRCC>
+우리가 계곡을 막았기 때문에 해변으로 공격하려는 거야.
+<SYNC Start=1240980><P Class=KRCC>&nbsp;
+<SYNC Start=1241080><P Class=KRCC>
+아버지, 해변은 아무도 지키고 있지 않쟎아요.
+<SYNC Start=1243550><P Class=KRCC>&nbsp;
+<SYNC Start=1243890><P Class=KRCC>
+가서 시장님께 전해라 어서.
+<SYNC Start=1245470><P Class=KRCC>
+예.
+<SYNC Start=1246730><P Class=KRCC>&nbsp;
+<SYNC Start=1247100><P Class=KRCC>
+그러나 우리는 계곡에서도 떠날 수 없어.
+<SYNC Start=1249100><P Class=KRCC>
+그래서, 우린 이걸 이용하는 거야.
+<SYNC Start=1250110><P Class=KRCC>
+예.
+<SYNC Start=1251050><P Class=KRCC>&nbsp;
+<SYNC Start=1251150><P Class=KRCC>
+적들이 배를 사용하니까, 우리도 배를 이용한다.
+<SYNC Start=1253110><P Class=KRCC>&nbsp;
+<SYNC Start=1256390><P Class=KRCC>
+서둘러, 우리가 선수를 쳐야 해.
+<SYNC Start=1258000><P Class=KRCC>&nbsp;
+<SYNC Start=1260250><P Class=KRCC>
+젠장, 그들이 속도를 올렸다.
+<SYNC Start=1262710><P Class=KRCC>&nbsp;
+<SYNC Start=1279990><P Class=KRCC>
+좋아, 따라 잡겠다, 그들보다 우리가 빨라.<br>서쪽 해변에 보트가 있다.
+<SYNC Start=1283250><P Class=KRCC>&nbsp;
+<SYNC Start=1307030><P Class=KRCC>
+저기서 놈들을 잡는다.
+<SYNC Start=1308830><P Class=KRCC>&nbsp;
+<SYNC Start=1318050><P Class=KRCC>
+준비됐냐? 내가 말하면 돌격이다.
+<SYNC Start=1320970><P Class=KRCC>&nbsp;
+<SYNC Start=1395750><P Class=KRCC>
+이쪽으로 오고 있어!
+<SYNC Start=1397350><P Class=KRCC>&nbsp;
+<SYNC Start=1398810><P Class=KRCC>
+그들이 이 곳을 노리고 있어요.
+<SYNC Start=1400750><P Class=KRCC>&nbsp;
+<SYNC Start=1401250><P Class=KRCC>
+서둘러, 이 쪽으로 와!
+<SYNC Start=1402620><P Class=KRCC>&nbsp;
+<SYNC Start=1403930><P Class=KRCC>
+피난처 안으로 들어가!
+<SYNC Start=1405030><P Class=KRCC>
+여자들은 문제야.<br>저렇게 작은 일에도 겁을 집어 먹으니.
+<SYNC Start=1407870><P Class=KRCC>&nbsp;
+<SYNC Start=1413630><P Class=KRCC>
+얘들아, 피난처로 가라, 어서.
+<SYNC Start=1415650><P Class=KRCC>&nbsp;
+<SYNC Start=1417310><P Class=KRCC>
+짐시?!
+<SYNC Start=1418550><P Class=KRCC>&nbsp;
+<SYNC Start=1418690><P Class=KRCC>
+꼼짝마.
+<SYNC Start=1420130><P Class=KRCC>&nbsp;
+<SYNC Start=1420230><P Class=KRCC>
+아주머니, 조용히 하는게 좋을 걸,<br>그렇지 않으면 짐시처럼 잠들게 될 테니.
+<SYNC Start=1425310><P Class=KRCC>
+오로, 이게 무슨 짓이냐?
+<SYNC Start=1427250><P Class=KRCC>&nbsp;
+<SYNC Start=1428050><P Class=KRCC>
+이섬은 이제 부터 나와 인더스트리아에 종속된다!
+<SYNC Start=1431570><P Class=KRCC>
+말도 안돼. 너가 무슨 짓을 하고 있는지<br>알고 하는 거냐?
+<SYNC Start=1435790><P Class=KRCC>
+알고 있어요.
+<SYNC Start=1437170><P Class=KRCC>&nbsp;
+<SYNC Start=1437210><P Class=KRCC>
+내가 신호를 보내지 않으면 대포는 멈추지 않을 거요.
+<SYNC Start=1439850><P Class=KRCC>&nbsp;
+<SYNC Start=1440250><P Class=KRCC>
+당신들 모두가 항복하지 않으면<br>마을 전체가 잿더미로 변할 거요.
+<SYNC Start=1444030><P Class=KRCC>
+어떻게 할 겁니까? 아줌마?
+<SYNC Start=1446970><P Class=KRCC>&nbsp;
+<SYNC Start=1475830><P Class=KRCC>
+안돼, 마을로 가까워지고 있다.
+<SYNC Start=1477970><P Class=KRCC>
+시장님, 마을로 갑시다.
+<SYNC Start=1479450><P Class=KRCC>&nbsp;
+<SYNC Start=1479550><P Class=KRCC>
+안돼요, 우리가 여길 지키지 않으면,<br>마을도 지켜낼 수 없소.
+<SYNC Start=1481690><P Class=KRCC>
+나는 여자들에게 이런 상황이 오면<br>피난처로 가도록 말해 놓았소.
+<SYNC Start=1485690><P Class=KRCC>&nbsp;
+<SYNC Start=1499950><P Class=KRCC>
+갑자기 조용해졌다.
+<SYNC Start=1502090><P Class=KRCC>&nbsp;
+<SYNC Start=1502390><P Class=KRCC>
+예.
+<SYNC Start=1503690><P Class=KRCC>
+집회장의 지붕 위를 보세요!
+<SYNC Start=1506330><P Class=KRCC>&nbsp;
+<SYNC Start=1509010><P Class=KRCC>
+이럴 수가!
+<SYNC Start=1511130><P Class=KRCC>&nbsp;
+<SYNC Start=1515270><P Class=KRCC>
+좋아, 더 많이 흔들어라!<br>그들이 잘 볼 수 있게 말이다!
+<SYNC Start=1518290><P Class=KRCC>&nbsp;
+<SYNC Start=1519350><P Class=KRCC>
+조용히 해요. 곧 계곡에서도 항복하게 될 테니.
+<SYNC Start=1523730><P Class=KRCC>&nbsp;
+<SYNC Start=1528270><P Class=KRCC>
+젠장!
+<SYNC Start=1529490><P Class=KRCC>&nbsp;
+<SYNC Start=1530030><P Class=KRCC>
+맙소사!
+<SYNC Start=1531170><P Class=KRCC>&nbsp;
+<SYNC Start=1531510><P Class=KRCC>
+우린 끝났어.
+<SYNC Start=1533050><P Class=KRCC>&nbsp;
+<SYNC Start=1533570><P Class=KRCC>
+아니요, 모든 것은 지금부터 시작입니다.
+<SYNC Start=1536910><P Class=KRCC>&nbsp;
+<SYNC Start=1542750><P Class=KRCC>
+선장, 오고 있습니다.
+<SYNC Start=1544270><P Class=KRCC>&nbsp;
+<SYNC Start=1547090><P Class=KRCC>
+여, 아름다운 몬스리 양.
+<SYNC Start=1550150><P Class=KRCC>&nbsp;
+<SYNC Start=1551630><P Class=KRCC>
+선장, 어디 가는 거에요?
+<SYNC Start=1553850><P Class=KRCC>
+아, 화장실이 급해서.
+<SYNC Start=1557030><P Class=KRCC>&nbsp;
+<SYNC Start=1560090><P Class=KRCC>
+나는 인더스트리아의 대표인 몬스리라고 합니다.<br>마을의 대표는 누구입니까?
+<SYNC Start=1564910><P Class=KRCC>&nbsp;
+<SYNC Start=1565750><P Class=KRCC>
+내가 시장이요.
+<SYNC Start=1567410><P Class=KRCC>&nbsp;
+<SYNC Start=1567970><P Class=KRCC>
+당신은 악당이야!
+<SYNC Start=1569510><P Class=KRCC>&nbsp;
+<SYNC Start=1569660><P Class=KRCC>
+우리에게 무엇을 원하는 거요?!
+<SYNC Start=1571890><P Class=KRCC>
+무엇보다 먼저, 무기를 버리시오.
+<SYNC Start=1574310><P Class=KRCC>
+그 다음에 우리 마을의 미래에 대해 얘기합시다.
+<SYNC Start=1578090><P Class=KRCC>&nbsp;
+<SYNC Start=1584950><P Class=KRCC>
+아저씨, 거기 다쳤어요?
+<SYNC Start=1586430><P Class=KRCC>
+문제없다, 단지 마을이 걱정된다.
+<SYNC Start=1589950><P Class=KRCC>&nbsp;
+<SYNC Start=1590270><P Class=KRCC>
+가자.
+<SYNC Start=1591450><P Class=KRCC>&nbsp;
+<SYNC Start=1604510><P Class=KRCC>
+이건 "맛있어"에요.
+<SYNC Start=1606130><P Class=KRCC>&nbsp;
+<SYNC Start=1607690><P Class=KRCC>
+이봐 너, 라나랑 같이 있지 않았었니?
+<SYNC Start=1610750><P Class=KRCC>&nbsp;
+<SYNC Start=1613650><P Class=KRCC>
+아저씨, 여기 계세요.
+<SYNC Start=1615410><P Class=KRCC>&nbsp;
+<SYNC Start=1615550><P Class=KRCC>
+이봐, 코난!
+<SYNC Start=1616850><P Class=KRCC>
+곧 돌아올께요!
+<SYNC Start=1617990><P Class=KRCC>&nbsp;
+<SYNC Start=1634650><P Class=KRCC>
+라나!
+<SYNC Start=1635730><P Class=KRCC>&nbsp;
+<SYNC Start=1654650><P Class=KRCC>
+라나에게 손 대지 마!
+<SYNC Start=1657310><P Class=KRCC>&nbsp;
+<SYNC Start=1668298><P Class=KRCC>
+마음이 이렇게
+떨리는 것은 왜
+<SYNC Start=1675524><P Class=KRCC>&nbsp;
+<SYNC Start=1675914><P Class=KRCC>
+양손이 하늘로
+뻗어 가는 것은 왜
+<SYNC Start=1683595><P Class=KRCC>&nbsp;
+<SYNC Start=1683887><P Class=KRCC>
+두 다리가 땅를 걷어차고
+달리는 것은 왜
+<SYNC Start=1691147><P Class=KRCC>&nbsp;
+<SYNC Start=1691628><P Class=KRCC>
+마음은 붙잡는다. 행복의 예감을
+<SYNC Start=1699257><P Class=KRCC>
+양손을 붙잡는다. 부풀어가는 희망을
+<SYNC Start=1707001><P Class=KRCC>
+두 다리는 달려간다. 머나먼 지평으로
+<SYNC Start=1715715><P Class=KRCC>&nbsp;
+<SYNC Start=1716377><P Class=KRCC>
+살아 있으니까
+<SYNC Start=1720221><P Class=KRCC>
+내일이 있으니까
+<SYNC Start=1724430><P Class=KRCC>
+지구가 돌고 있으니까
+<SYNC Start=1736346><P Class=KRCC>&nbsp;
+</BODY>
+</SAMI>

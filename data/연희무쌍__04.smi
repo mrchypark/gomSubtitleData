@@ -1,0 +1,984 @@
+<SAMI>
+<HEAD>
+<TITLE>Hanbange 3.0 - (C) Breadu Soft 2003</TITLE>
+<STYLE TYPE="text/css">
+<!--
+P { margin-left:8pt; margin-right:8pt; margin-bottom:2pt;
+    margin-top:2pt; font-size:14pt; text-align:center;
+    font-family:굴림, Arial; font-weight:normal; color:white;
+    background-color:black; }
+.KRCC { Name:한국어; lang:ko-KR; SAMIType:CC; }
+#STDPrn { Name:Standard Print; }
+#LargePrn { Name:Large Print; font-size:20pt; }
+#SmallPrn { Name:Small Print; font-size:10pt; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<SYNC Start=547><P Class=KRCC>
+<font color=#E6749D>誰かに捧ぐ命なら</font><br>누군가에게 바칠 목숨이라면
+<SYNC Start=3519><P Class=KRCC>
+<font color=#E6749D>自分の境界を越えて </font><br>자신의 경계를 뛰어넘어
+<SYNC Start=7007><P Class=KRCC>
+<font color=#E6749D>今ならば ここでなら </font><br>지금이라면 여기서라면
+<SYNC Start=9782><P Class=KRCC>
+<font color=#E6749D>强さに變わり 明日へ續くよ </font><br>강인함이 되어 내일로 이어질 거야
+<SYNC Start=14447><P Class=KRCC>
+<font color=#E6749D>연희†무쌍</font><br>
+the 118th Subtitle of Xian <br>
+http://xian.subtitle.kr
+<SYNC Start=18519><P Class=KRCC>&nbsp;
+<SYNC Start=19086><P Class=KRCC>
+<font color=#E6749D>忘れたい景色があり </font><br>잊고 싶은 풍경이 있고
+<SYNC Start=22316><P Class=KRCC>
+<font color=#E6749D>忘れたい記憶もある </font><br>잊고 싶은 기억이 있지
+<SYNC Start=25581><P Class=KRCC>
+<font color=#E6749D>渦のような迷いを絶てずに </font><br>소용돌이같은 방황을 끊지 못하고
+<SYNC Start=28694><P Class=KRCC>
+<font color=#E6749D>下を向くプライド </font><br>고개를 떨군 프라이드
+<SYNC Start=31803><P Class=KRCC>
+<font color=#E6749D>瓦礫に埋もれた光 </font><br>가치없이 파묻힌 빛
+<SYNC Start=34830><P Class=KRCC>
+<font color=#E6749D>もしもそれに氣づいたら </font><br>혹시나 그것을 눈치챘다면
+<SYNC Start=38046><P Class=KRCC>
+<font color=#E6749D>君はきっと踏み出しているね </font><br>그대는 분명 발을 내디딜 거야
+<SYNC Start=41342><P Class=KRCC>
+<font color=#E6749D>新しい扉へと </font><br>새로운 문으로
+<SYNC Start=44381><P Class=KRCC>
+<font color=#E6749D>風のように流麗な劍の舞 </font><br>바람처럼 우아한 검의 춤
+<SYNC Start=50612><P Class=KRCC>
+<font color=#E6749D>生まれいづる天命は </font><br>생겨나는 숙명은
+<SYNC Start=53986><P Class=KRCC>
+<font color=#E6749D>この手に奇跡を宿した </font><br>이 손에 기적을 머금게 했어
+<SYNC Start=57906><P Class=KRCC>
+<font color=#E6749D>Flower of bravery
+<SYNC Start=60353><P Class=KRCC>
+<font color=#E6749D>眞實だけを追い求め</font><br>진실만을 구하다가
+<SYNC Start=63378><P Class=KRCC>
+<font color=#E6749D>氣づけばそこに君がいた </font><br> 정신을 차려보니 그곳에 그대가 있었어
+<SYNC Start=66818><P Class=KRCC>
+<font color=#E6749D>特別な存在は </font><br>특별한 존재는
+<SYNC Start=69857><P Class=KRCC>
+<font color=#E6749D>いつか絆に變わる </font><br>언젠가 인연으로 변하지
+<SYNC Start=72970><P Class=KRCC>
+<font color=#E6749D>記憶の隅に映りこむ</font><br>기억 한 모퉁이에 비추어져
+<SYNC Start=75945><P Class=KRCC>
+<font color=#E6749D>切り離せない悲しみも</font><br>떨쳐낼 수 없는 슬픔을
+<SYNC Start=79454><P Class=KRCC>
+<font color=#E6749D>今ならば ここでなら </font><br>지금이라면 여기서라면
+<SYNC Start=82370><P Class=KRCC>
+<font color=#E6749D>强さに變わり 明日へ續くよ </font><br>강인함이 되어 내일로 이어질 거야
+<SYNC Start=87798><P Class=KRCC>&nbsp;
+<SYNC Start=107444><P Class=KRCC>
+스이, 너 뭔가 숨기는 거 있구나?
+<SYNC Start=110516><P Class=KRCC>
+무, 무슨 소리야?
+<SYNC Start=112324><P Class=KRCC>
+나, 아침에 이불에 지도 그리지는…
+<SYNC Start=114523><P Class=KRCC>&nbsp;
+<SYNC Start=117100><P Class=KRCC>
+그랬구나, 숨기고 있던 건 그거였군
+<SYNC Start=119812><P Class=KRCC>
+그, 그런데 대체 어떻게 안 거야?
+<SYNC Start=122523><P Class=KRCC>
+내가 뭔가를 숨기고 있다고
+<SYNC Start=124731><P Class=KRCC>
+무술이란 건 솔직한 법이지
+<SYNC Start=127627><P Class=KRCC>
+마음에 걸리는 부분이 있으면
+<SYNC Start=129708><P Class=KRCC>
+그게 정신을 흐리게 하여 <br>
+겉으로 나타나지
+<SYNC Start=132348><P Class=KRCC>&nbsp;
+<SYNC Start=134635><P Class=KRCC>
+그럼…
+<SYNC Start=136195><P Class=KRCC>
+그래, 네 자세에서
+<SYNC Start=138181><P Class=KRCC>
+우울한 마음이 느껴졌다
+<SYNC Start=140573><P Class=KRCC>&nbsp;
+<SYNC Start=142867><P Class=KRCC>
+왜 그래, 지도를 그린 건<br>
+ 그렇게 신경쓰지 않아도 돼
+<SYNC Start=146868><P Class=KRCC>
+그런 게 아냐
+<SYNC Start=148555><P Class=KRCC>
+아빠는 내 자세를 보고 <br>
+내 마음을 읽어냈는데
+<SYNC Start=152995><P Class=KRCC>
+나는 아빠의 마음을<br>
+ 읽어내지 못했다는 게 왠지 분해서…
+<SYNC Start=157292><P Class=KRCC>
+뭐야, 그런 거였어?
+<SYNC Start=159635><P Class=KRCC>
+괜찮아, 너도 열심히 수행하면
+<SYNC Start=162428><P Class=KRCC>
+금방 마음을 읽을 수 있게 될 거다
+<SYNC Start=164747><P Class=KRCC>
+정말로?
+<SYNC Start=165788><P Class=KRCC>
+물론이지
+<SYNC Start=166724><P Class=KRCC>&nbsp;
+<SYNC Start=168380><P Class=KRCC>
+<font color=#E6749D>제 4화<br>
+「마초, 조조를 치지 않기로 하다」
+<SYNC Start=173253><P Class=KRCC>&nbsp;
+<SYNC Start=174301><P Class=KRCC>
+아빠… 나 열심히 연습할게
+<SYNC Start=179429><P Class=KRCC>
+연습…
+<SYNC Start=180713><P Class=KRCC>&nbsp;
+<SYNC Start=185609><P Class=KRCC>
+꿈… 인가?
+<SYNC Start=187625><P Class=KRCC>
+이제 일어났어?
+<SYNC Start=189121><P Class=KRCC>&nbsp;
+<SYNC Start=190266><P Class=KRCC>
+왜 그런 곳에서 자고 있어?
+<SYNC Start=192297><P Class=KRCC>
+내가 원해서 이러는 게 아니다
+<SYNC Start=194969><P Class=KRCC>
+자고 있는 도중에 <br>
+네게 차여서 떨어진 거지
+<SYNC Start=197753><P Class=KRCC>&nbsp;
+<SYNC Start=198681><P Class=KRCC>
+미안, 내 잠버릇이 좀 고약해서…
+<SYNC Start=201921><P Class=KRCC>
+뭘, 그렇게 미안해할 건 없다
+<SYNC Start=204504><P Class=KRCC>
+대신에 나도 네가 자고 있는 동안에…
+<SYNC Start=207887><P Class=KRCC>&nbsp;
+<SYNC Start=209087><P Class=KRCC>
+아니, 보아하니 숫처녀인 것 같으니
+<SYNC Start=212606><P Class=KRCC>
+뭘 했는지는 말하지 않는 편이 좋겠군
+<SYNC Start=215742><P Class=KRCC>&nbsp;
+<SYNC Start=217631><P Class=KRCC>
+내가 자고 있는 동안에 무슨 짓 한거야?
+<SYNC Start=219781><P Class=KRCC>&nbsp;
+<SYNC Start=226744><P Class=KRCC>
+방도 같이 쓰게 해주고 <br>
+밥도 사주다니, 이거 미안해서 어쩌나
+<SYNC Start=230912><P Class=KRCC>
+신경쓸 거 없어
+<SYNC Start=232504><P Class=KRCC>
+여행은 길동무, 세상은…
+<SYNC Start=234614><P Class=KRCC>
+세상은 동정이라고 하잖아
+<SYNC Start=236963><P Class=KRCC>
+'세상은 인정'이다
+<SYNC Start=239084><P Class=KRCC>
+뭐, 침대가 두 개 있는 방에서 <br>
+네 명이나 잔 건
+<SYNC Start=243092><P Class=KRCC>
+동정심이 생기기도 하지만…
+<SYNC Start=245219><P Class=KRCC>
+무도대회 상금, 받아왔으면 좋았을걸
+<SYNC Start=248611><P Class=KRCC>
+그렇지, 하지만 이제와서 <br>
+뻔뻔하게 가지러 간다는 건…
+<SYNC Start=253813><P Class=KRCC>
+너희들, 이런 얘기 알고 있나?
+<SYNC Start=258035><P Class=KRCC>
+옛날, 월나라 왕 구천은
+<SYNC Start=261546><P Class=KRCC>
+적국에 잡혀갔던 때의 <br>
+증오심을 잊지 않으려고
+<SYNC Start=264959><P Class=KRCC>
+침실의 천장에 쓴 간을 매달아놓고
+<SYNC Start=267943><P Class=KRCC>
+그걸 핥으며 복수심을 <br>
+새로이 했다고 한다
+<SYNC Start=272096><P Class=KRCC>&nbsp;
+<SYNC Start=273199><P Class=KRCC>
+그래?
+<SYNC Start=274495><P Class=KRCC>
+그런데 그게 지금 얘기랑 <br>
+무슨 상관이 있지?
+<SYNC Start=278079><P Class=KRCC>
+아니, 딱히 상관은 없다
+<SYNC Start=280335><P Class=KRCC>&nbsp;
+<SYNC Start=297519><P Class=KRCC>
+카린 님
+<SYNC Start=298566><P Class=KRCC>&nbsp;
+<SYNC Start=299526><P Class=KRCC>
+전쟁이 돌아가는 상황은 좀 어떤가요?
+<SYNC Start=302095><P Class=KRCC>
+우리 군대가 압도적이다
+<SYNC Start=305871><P Class=KRCC>
+굳이 내가 나갈 것도 없었다
+<SYNC Start=308822><P Class=KRCC>
+땀을 꽤나 많이 흘리셨네요
+<SYNC Start=312046><P Class=KRCC>
+얼른 닦아드리겠습니다
+<SYNC Start=313830><P Class=KRCC>&nbsp;
+<SYNC Start=316269><P Class=KRCC>
+다만, 수건으로 닦는 것이 아니라
+<SYNC Start=318503><P Class=KRCC>
+케이파, 네 혀로 닦아주겠어?
+<SYNC Start=321454><P Class=KRCC>&nbsp;
+<SYNC Start=322198><P Class=KRCC>
+카, 카린 님?
+<SYNC Start=324358><P Class=KRCC>
+하지만…
+<SYNC Start=325583><P Class=KRCC>
+왜 그래?
+<SYNC Start=327215><P Class=KRCC>
+혹시 싫은 거야?
+<SYNC Start=329637><P Class=KRCC>&nbsp;
+<SYNC Start=332685><P Class=KRCC>
+그럼…
+<SYNC Start=333893><P Class=KRCC>&nbsp;
+<SYNC Start=353361><P Class=KRCC>
+그래, 좋아
+<SYNC Start=356168><P Class=KRCC>&nbsp;
+<SYNC Start=357208><P Class=KRCC>
+그래
+<SYNC Start=358490><P Class=KRCC>&nbsp;
+<SYNC Start=360353><P Class=KRCC>
+더 능숙해진 것 같은데?
+<SYNC Start=362905><P Class=KRCC>&nbsp;
+<SYNC Start=363425><P Class=KRCC>
+카린 님…
+<SYNC Start=364482><P Class=KRCC>&nbsp;
+<SYNC Start=371428><P Class=KRCC>
+케이파, 계속 해
+<SYNC Start=373722><P Class=KRCC>
+네
+<SYNC Start=374857><P Class=KRCC>&nbsp;
+<SYNC Start=377172><P Class=KRCC>
+슌란, 뭔가 보고할 게 있는 거 아니었나?
+<SYNC Start=380273><P Class=KRCC>&nbsp;
+<SYNC Start=380882><P Class=KRCC>
+네
+<SYNC Start=381680><P Class=KRCC>
+적의 병력은 거의 전멸
+<SYNC Start=383698><P Class=KRCC>
+지휘관도 사로잡았고<br>
+지금은 하후연의 부대가
+<SYNC Start=386849><P Class=KRCC>
+남은 적들의 소탕을 하고 있습니다
+<SYNC Start=389889><P Class=KRCC>
+그래? 수고했다
+<SYNC Start=392105><P Class=KRCC>
+물러가도 좋다
+<SYNC Start=393458><P Class=KRCC>&nbsp;
+<SYNC Start=406209><P Class=KRCC>
+무슨 일이야, 슌란?
+<SYNC Start=407983><P Class=KRCC>
+아직도 삐친 거야?
+<SYNC Start=409456><P Class=KRCC>
+딱히 삐치진 않았습니다
+<SYNC Start=411824><P Class=KRCC>
+그렇게 뾰로통해하지 마라
+<SYNC Start=413776><P Class=KRCC>
+오늘밤엔 케이파가 아니라
+<SYNC Start=415336><P Class=KRCC>
+널 침실로 부를 테니 말이다
+<SYNC Start=417328><P Class=KRCC>
+무, 무슨 말씀을…
+<SYNC Start=419104><P Class=KRCC>
+전 그런 건…
+<SYNC Start=421761><P Class=KRCC>&nbsp;
+<SYNC Start=422591><P Class=KRCC>
+뭐, 뭐야, 슈우란
+<SYNC Start=424391><P Class=KRCC>
+뭘 웃고 있어?
+<SYNC Start=425959><P Class=KRCC>&nbsp;
+<SYNC Start=427584><P Class=KRCC>
+짐 운반 일, 생각했던 것보다 <br>
+돈을 많이 받아서 좋았어
+<SYNC Start=431726><P Class=KRCC>
+뭐니뭐니해도 <br>
+내가 일을 잘 했으니 그렇지
+<SYNC Start=435671><P Class=KRCC>
+그것만이 아니야!
+<SYNC Start=437317><P Class=KRCC>
+린린도 열심히 했어!
+<SYNC Start=439502><P Class=KRCC>&nbsp;
+<SYNC Start=441551><P Class=KRCC>
+무슨 일이지?
+<SYNC Start=442782><P Class=KRCC>&nbsp;
+<SYNC Start=450082><P Class=KRCC>
+조조다!
+<SYNC Start=451345><P Class=KRCC>&nbsp;
+<SYNC Start=451914><P Class=KRCC>
+조조?
+<SYNC Start=453058><P Class=KRCC>&nbsp;
+<SYNC Start=454004><P Class=KRCC>
+안녕!
+<SYNC Start=455585><P Class=KRCC>
+넌 요전의…
+<SYNC Start=457690><P Class=KRCC>
+오늘은 그 흑발의 여성이 <br>
+같이 다니지 않는 건가?
+<SYNC Start=461314><P Class=KRCC>
+아이샤는 일하고 있어
+<SYNC Start=463322><P Class=KRCC>&nbsp;
+<SYNC Start=464377><P Class=KRCC>
+그 자를 아이샤라고 하는 건가?
+<SYNC Start=466722><P Class=KRCC>
+아이샤는 본명이고<br>
+ 다른 이름은 관우야
+<SYNC Start=469681><P Class=KRCC>&nbsp;
+<SYNC Start=472417><P Class=KRCC>
+조조!
+<SYNC Start=473937><P Class=KRCC>
+각오해라!
+<SYNC Start=475233><P Class=KRCC>&nbsp;
+<SYNC Start=478849><P Class=KRCC>
+뭐하는 놈이냐?
+<SYNC Start=479945><P Class=KRCC>&nbsp;
+<SYNC Start=484753><P Class=KRCC>
+서량 마등의 독녀
+<SYNC Start=486721><P Class=KRCC>
+마초 등장이시다!
+<SYNC Start=488176><P Class=KRCC>&nbsp;
+<SYNC Start=491162><P Class=KRCC>
+아버지의 원수, 그 빚을 갚아주마!
+<SYNC Start=493785><P Class=KRCC>&nbsp;
+<SYNC Start=496986><P Class=KRCC>
+그만 해, 싸우면 안 돼!
+<SYNC Start=499809><P Class=KRCC>
+이거 놔, 방해하지 마!
+<SYNC Start=502008><P Class=KRCC>
+뭐 하고 있나? 체포해라!
+<SYNC Start=504457><P Class=KRCC>&nbsp;
+<SYNC Start=506344><P Class=KRCC>
+이거 놔!
+<SYNC Start=507112><P Class=KRCC>
+안 돼!
+<SYNC Start=508193><P Class=KRCC>&nbsp;
+<SYNC Start=517673><P Class=KRCC>
+어서 오세요, 주인님
+<SYNC Start=520537><P Class=KRCC>&nbsp;
+<SYNC Start=524153><P Class=KRCC>
+난 하후연
+<SYNC Start=526095><P Class=KRCC>
+여기에 관우라고 하는 자가<br>
+ 있다고 들었다만
+<SYNC Start=529032><P Class=KRCC>&nbsp;
+<SYNC Start=530873><P Class=KRCC>
+이 녀석, 너무하다
+<SYNC Start=532497><P Class=KRCC>
+마초가 갑자기 <br>
+칼을 들고 달려드는 걸 보고
+<SYNC Start=534112><P Class=KRCC>
+막 화내면서 마초를 붙잡아버렸어
+<SYNC Start=536472><P Class=KRCC>&nbsp;
+<SYNC Start=538401><P Class=KRCC>
+네 설명을 들으면, 저 사람이<br>
+ 나쁜 짓을 한 것 같진 않은데
+<SYNC Start=542519><P Class=KRCC>&nbsp;
+<SYNC Start=544039><P Class=KRCC>
+과연, 그랬군요
+<SYNC Start=547199><P Class=KRCC>
+알겠습니다, 마초는 제 동생의 친구
+<SYNC Start=551495><P Class=KRCC>
+이대로 내버려둘 수도 없습니다
+<SYNC Start=553983><P Class=KRCC>
+일단 만나서 얘기를 나눠보지요
+<SYNC Start=556782><P Class=KRCC>
+난 조조가 있는 곳으로 가서<br>
+ 마초와 만나보겠다
+<SYNC Start=560823><P Class=KRCC>
+린린은 세이와 함께 숙소로 돌아가 있어
+<SYNC Start=563727><P Class=KRCC>
+어째서야?
+<SYNC Start=565095><P Class=KRCC>
+린린도 같이 가서 마초를 되찾아올 거야
+<SYNC Start=567806><P Class=KRCC>
+성미 급한 네가 함께 가면
+<SYNC Start=569614><P Class=KRCC>
+잘 해결될 얘기도 끝이 안 보이겠지
+<SYNC Start=572327><P Class=KRCC>
+지금은 아이샤에게 맡겨둬라
+<SYNC Start=574332><P Class=KRCC>
+하지만…
+<SYNC Start=575541><P Class=KRCC>
+린린, 날 믿어라
+<SYNC Start=578105><P Class=KRCC>
+마초를 반드시 되찾아오겠어
+<SYNC Start=581096><P Class=KRCC>
+알겠지?
+<SYNC Start=582105><P Class=KRCC>&nbsp;
+<SYNC Start=593006><P Class=KRCC>
+마초
+<SYNC Start=594255><P Class=KRCC>
+관우!
+<SYNC Start=595566><P Class=KRCC>
+얘기는 들었다
+<SYNC Start=596982><P Class=KRCC>&nbsp;
+<SYNC Start=598382><P Class=KRCC>
+나도 참, 순간 너무 흥분하는 바람에
+<SYNC Start=601173><P Class=KRCC>
+바보같은 짓을 해버렸다
+<SYNC Start=602690><P Class=KRCC>
+설마하니 그런 곳에서 <br>
+맞닥뜨리리라고는 상상도 못 했고
+<SYNC Start=606810><P Class=KRCC>
+거기에 장비가 방해를 해대니…
+<SYNC Start=609362><P Class=KRCC>&nbsp;
+<SYNC Start=611922><P Class=KRCC>
+너, 어째서 조조를 <br>
+죽이려고 한 거지?
+<SYNC Start=615705><P Class=KRCC>&nbsp;
+<SYNC Start=618090><P Class=KRCC>
+조조는 내 아버지를…
+<SYNC Start=620801><P Class=KRCC>
+우리 아버지를 죽였다!
+<SYNC Start=622937><P Class=KRCC>&nbsp;
+<SYNC Start=624028><P Class=KRCC>
+그것도, 너무나도 비열한 방법으로!
+<SYNC Start=627122><P Class=KRCC>&nbsp;
+<SYNC Start=634683><P Class=KRCC>
+카린 님, 관우 님께서 오셨습니다
+<SYNC Start=637442><P Class=KRCC>
+안으로 모셔라
+<SYNC Start=638690><P Class=KRCC>&nbsp;
+<SYNC Start=646297><P Class=KRCC>
+조조 장군
+<SYNC Start=647321><P Class=KRCC>
+의외였어
+<SYNC Start=648770><P Class=KRCC>
+이런 식으로 그대와 다시 만나다니
+<SYNC Start=651730><P Class=KRCC>
+단도직입적으로 여쭈겠습니다만<br>
+마초를 어찌하실 생각입니까?
+<SYNC Start=655898><P Class=KRCC>
+물론 베어버려야지
+<SYNC Start=657569><P Class=KRCC>
+말도 안 돼…
+<SYNC Start=659145><P Class=KRCC>
+이유가 어찌되었든 <br>
+이 조조의 목숨을 노렸는걸
+<SYNC Start=663202><P Class=KRCC>
+그만한 댓가는 치르게 해야지
+<SYNC Start=665674><P Class=KRCC>
+아니, 하지만…
+<SYNC Start=667368><P Class=KRCC>
+관군 장군의 목숨을 노렸단 말이다
+<SYNC Start=670136><P Class=KRCC>
+무죄방면을 할 수도 없잖아?
+<SYNC Start=673089><P Class=KRCC>
+그건 그렇지만…
+<SYNC Start=674890><P Class=KRCC>&nbsp;
+<SYNC Start=677137><P Class=KRCC>
+조조 장군, 어떻게든 <br>
+마초의 목숨을 살려주실 수는 없습니까?
+<SYNC Start=682401><P Class=KRCC>&nbsp;
+<SYNC Start=684937><P Class=KRCC>
+관우, 그렇게나 마초를 구하고 싶다면
+<SYNC Start=689199><P Class=KRCC>
+나와 거래하지 않겠나?
+<SYNC Start=691072><P Class=KRCC>
+거래?
+<SYNC Start=692088><P Class=KRCC>
+그래
+<SYNC Start=693226><P Class=KRCC>
+오늘 하룻밤<br>
+나와 한 침실에서 자는 거다
+<SYNC Start=697119><P Class=KRCC>
+그렇게 하면 마초의 목숨은 <br>
+살려줘도 좋다
+<SYNC Start=701429><P Class=KRCC>
+무슨 바보같은 소리를…
+<SYNC Start=703838><P Class=KRCC>
+처음 봤을 때부터 <br>
+너의 윤이 나는 검은 머리카락을
+<SYNC Start=707676><P Class=KRCC>
+손에 넣고 싶었다
+<SYNC Start=709654><P Class=KRCC>&nbsp;
+<SYNC Start=711526><P Class=KRCC>
+그리고, 나는 갖고 싶은 건<br>
+ 무슨 수를 써서라도 손에 넣지
+<SYNC Start=716854><P Class=KRCC>
+사, 사람의 목숨이 걸려 있는데<br>
+그런 실없는 소리를…
+<SYNC Start=720533><P Class=KRCC>
+그래, 네 마음가짐 하나로<br>
+ 한 사람의 목숨을 구할 수 있다
+<SYNC Start=725445><P Class=KRCC>&nbsp;
+<SYNC Start=742126><P Class=KRCC>
+정말 하룻밤을 동침하면 <br>
+마초를 살려주시는 겁니까?
+<SYNC Start=746450><P Class=KRCC>&nbsp;
+<SYNC Start=747555><P Class=KRCC>
+약속하지
+<SYNC Start=749012><P Class=KRCC>
+<font color=#E6749D>연희무쌍</font><br>
+is subtitled by Xian <br>
+http://xian.subtitle.kr
+<SYNC Start=755112><P Class=KRCC>&nbsp;
+<SYNC Start=770453><P Class=KRCC>
+조, 조조 장군
+<SYNC Start=772597><P Class=KRCC>
+정말 이걸로 마초를…
+<SYNC Start=775724><P Class=KRCC>
+약속은 지키겠다고 하지 않느냐?
+<SYNC Start=778220><P Class=KRCC>&nbsp;
+<SYNC Start=790409><P Class=KRCC>
+혹시 처음인가?
+<SYNC Start=792256><P Class=KRCC>&nbsp;
+<SYNC Start=794000><P Class=KRCC>
+더욱 더 마음에 드는군
+<SYNC Start=795937><P Class=KRCC>&nbsp;
+<SYNC Start=802984><P Class=KRCC>
+정말 촉촉하고 부드럽네
+<SYNC Start=805505><P Class=KRCC>&nbsp;
+<SYNC Start=810449><P Class=KRCC>
+무서워할 거 없다
+<SYNC Start=812376><P Class=KRCC>&nbsp;
+<SYNC Start=824311><P Class=KRCC>
+침입자다!
+<SYNC Start=825295><P Class=KRCC>
+누구 없느냐!
+<SYNC Start=826153><P Class=KRCC>&nbsp;
+<SYNC Start=828904><P Class=KRCC>
+카린 님!
+<SYNC Start=829737><P Class=KRCC>&nbsp;
+<SYNC Start=832593><P Class=KRCC>
+카린 님…
+<SYNC Start=833562><P Class=KRCC>
+난 괜찮다
+<SYNC Start=834995><P Class=KRCC>
+그보다, 자객을 쫓아라
+<SYNC Start=836650><P Class=KRCC>&nbsp;
+<SYNC Start=846722><P Class=KRCC>
+카린 님
+<SYNC Start=848243><P Class=KRCC>
+자객은?
+<SYNC Start=848986><P Class=KRCC>
+죄송합니다, 체포했을 때는 이미…
+<SYNC Start=852778><P Class=KRCC>
+그래?
+<SYNC Start=854074><P Class=KRCC>
+조조 장군
+<SYNC Start=856418><P Class=KRCC>
+방금전의 자객은 도대체…
+<SYNC Start=858594><P Class=KRCC>
+모난 돌이 정 맞는다고 하지
+<SYNC Start=860673><P Class=KRCC>
+수도에는 나를 부담스럽게<br>
+ 여기는 자도 많아서 말이지
+<SYNC Start=864328><P Class=KRCC>
+하지만 설마하니 <br>
+이런 곳에까지 자객을 보내다니
+<SYNC Start=868905><P Class=KRCC>
+내가 방심했어
+<SYNC Start=870809><P Class=KRCC>
+방해꾼 때문에 흥이 깨졌다
+<SYNC Start=873041><P Class=KRCC>&nbsp;
+<SYNC Start=874577><P Class=KRCC>
+오늘밤은 그냥 자는 게 낫겠다
+<SYNC Start=876745><P Class=KRCC>
+저기, 조조 장군
+<SYNC Start=878353><P Class=KRCC>
+관우
+<SYNC Start=879785><P Class=KRCC>
+자객의 손에서 날 구해준 것
+<SYNC Start=882601><P Class=KRCC>
+감사하게 생각한다
+<SYNC Start=884169><P Class=KRCC>
+보답으로, 마초의 목숨을 살려주도록 하지
+<SYNC Start=887410><P Class=KRCC>
+조조 장군!
+<SYNC Start=888482><P Class=KRCC>
+단, 난 아직 널 포기하지 않았다
+<SYNC Start=893393><P Class=KRCC>
+그 아름다운 흑발, 반드시 손에 넣어보이겠어
+<SYNC Start=897681><P Class=KRCC>
+그러니 그때를 기대해라
+<SYNC Start=900929><P Class=KRCC>
+슌란, 마초를 이자에게 넘겨줘라
+<SYNC Start=904040><P Class=KRCC>
+알겠습니다
+<SYNC Start=905512><P Class=KRCC>&nbsp;
+<SYNC Start=908464><P Class=KRCC>
+하후돈, 하나 묻고 싶은 게 있다만
+<SYNC Start=912827><P Class=KRCC>
+제가 대답할 수 있는 것이라면 <br>
+무엇이든…
+<SYNC Start=916293><P Class=KRCC>
+조조 장군이 <br>
+마초의 아버지를 살해했다는 것이
+<SYNC Start=920061><P Class=KRCC>
+사실인가?
+<SYNC Start=921530><P Class=KRCC>&nbsp;
+<SYNC Start=923504><P Class=KRCC>
+관우 님, 앞으로 전 혼잣말을 하겠습니다
+<SYNC Start=927624><P Class=KRCC>&nbsp;
+<SYNC Start=930080><P Class=KRCC>
+그건 지금으로부터 몇 년 전
+<SYNC Start=933703><P Class=KRCC>
+수도에서 하진 대장군의 저택에 <br>
+초청받았을 때였다
+<SYNC Start=938401><P Class=KRCC>&nbsp;
+<SYNC Start=945233><P Class=KRCC>
+조조
+<SYNC Start=946648><P Class=KRCC>
+무슨 일이십니까?
+<SYNC Start=947904><P Class=KRCC>
+나는 그대를 단순히 <br>
+꾀가 많은 관리라고 생각했다만
+<SYNC Start=951785><P Class=KRCC>
+듣자하니 검을 쓰는<br>
+실력도 꽤 좋다고 하더군
+<SYNC Start=954665><P Class=KRCC>
+황공합니다
+<SYNC Start=955737><P Class=KRCC>
+어떤가, 이 중 누군가와 맞서서
+<SYNC Start=958793><P Class=KRCC>
+그 실력을 보여줄 수는 없는 것인가?
+<SYNC Start=960928><P Class=KRCC>
+대장군님의 말씀이라면…
+<SYNC Start=963097><P Class=KRCC>&nbsp;
+<SYNC Start=971620><P Class=KRCC>
+마등, 어떠신가?
+<SYNC Start=974341><P Class=KRCC>&nbsp;
+<SYNC Start=976269><P Class=KRCC>
+바라신다면야…
+<SYNC Start=977956><P Class=KRCC>
+잠시만요
+<SYNC Start=979052><P Class=KRCC>&nbsp;
+<SYNC Start=980420><P Class=KRCC>
+보아하니 마등 님께서는 <br>
+취기가 올라 있는 듯 하온데
+<SYNC Start=985884><P Class=KRCC>
+장난이라고는 하나 검을 잡는 것은…
+<SYNC Start=988260><P Class=KRCC>
+무슨 소리야
+<SYNC Start=989739><P Class=KRCC>
+이 정도는 마신 것도 아니지
+<SYNC Start=991611><P Class=KRCC>&nbsp;
+<SYNC Start=997083><P Class=KRCC>
+아무래도 조조의 말대로
+<SYNC Start=999739><P Class=KRCC>
+마등은 살짝 취한 듯 보이는군
+<SYNC Start=1002557><P Class=KRCC>
+무리하지 않는 편이 낫겠다
+<SYNC Start=1004276><P Class=KRCC>&nbsp;
+<SYNC Start=1005132><P Class=KRCC>
+많은 사람들 앞에서 창피를 <br>
+당한 것을 달래기 위해서였는지
+<SYNC Start=1008420><P Class=KRCC>
+그 후, 마등은 술을 물처럼 퍼마셨고
+<SYNC Start=1011876><P Class=KRCC>
+술잔치가 끝난 후 동료도 없이<br>
+ 홀로 집으로 돌아갔지만
+<SYNC Start=1017500><P Class=KRCC>
+그 중간에…
+<SYNC Start=1018708><P Class=KRCC>&nbsp;
+<SYNC Start=1019779><P Class=KRCC>
+그것을 우연히 야간 경비를 <br>
+서고 있던 내 부하가 발견했다
+<SYNC Start=1024362><P Class=KRCC>
+말에서 떨어질 때 <br>
+머리를 세게 부딪힌 듯 했다
+<SYNC Start=1027483><P Class=KRCC>
+이미 다 끊어져 가는 숨으로…
+<SYNC Start=1029587><P Class=KRCC>
+술에 취해 말에서 떨어져 죽었다는 건<br>
+ 무인 가문의 치욕이다
+<SYNC Start=1034531><P Class=KRCC>
+이 일은 비밀로 해줬으면 좋겠다
+<SYNC Start=1038635><P Class=KRCC>
+그 곳에 있던 자들은 입을<br>
+ 봉해두도록 했지만
+<SYNC Start=1042499><P Class=KRCC>
+어딘가에서 보고 있던 자가 있었는지
+<SYNC Start=1044812><P Class=KRCC>
+얼마 후 묘한 소문이 퍼져…
+<SYNC Start=1047746><P Class=KRCC>&nbsp;
+<SYNC Start=1048171><P Class=KRCC>
+묘한 소문?
+<SYNC Start=1049977><P Class=KRCC>
+그렇습니다
+<SYNC Start=1051186><P Class=KRCC>
+우리 주인이 창피를 입어 그 보복으로
+<SYNC Start=1054763><P Class=KRCC>
+마등을 공격하게 했다고 말입니다
+<SYNC Start=1057051><P Class=KRCC>
+어째서 그렇게…
+<SYNC Start=1058642><P Class=KRCC>
+저희 주인님은 그…
+<SYNC Start=1061146><P Class=KRCC>
+조금 오해받기 쉬운 면이 있어서
+<SYNC Start=1064195><P Class=KRCC>
+그래서 이런 일이 있으면
+<SYNC Start=1066066><P Class=KRCC>
+남 험담하길 좋아하는 자들이 <br>
+나쁜 소문을 퍼뜨리는 겁니다
+<SYNC Start=1069459><P Class=KRCC>
+아마도 마초는 그걸 들은 것이겠지요
+<SYNC Start=1072714><P Class=KRCC>
+하지만, 그렇다면 어째서 <br>
+진실을 밝히지 않는 것이지?
+<SYNC Start=1076042><P Class=KRCC>
+저도 몇 번씩 그런 말을 했지만<br>
+ 저희 주인님은…
+<SYNC Start=1079601><P Class=KRCC>&nbsp;
+<SYNC Start=1080906><P Class=KRCC>
+서량에서 유명하던 <br>
+마등 정도 되는 무인이
+<SYNC Start=1084843><P Class=KRCC>
+마지막에 한 부탁<br>
+들어주지 않을 수 없잖겠느냐 라며…
+<SYNC Start=1089450><P Class=KRCC>
+게다가 아버지의 무용을 <br>
+자랑스레 생각하는 저 아이에게
+<SYNC Start=1093090><P Class=KRCC>
+아버지의 그런 마지막 모습을 <br>
+알리기 싫었던 것일지도 모릅니다
+<SYNC Start=1096817><P Class=KRCC>&nbsp;
+<SYNC Start=1098122><P Class=KRCC>
+아니, 이건 어디까지나 <br>
+제가 멋대로 한 상상입니다만…
+<SYNC Start=1102890><P Class=KRCC>
+하지만, 그러면 조조 장군이…
+<SYNC Start=1105113><P Class=KRCC>
+그 분은 그런 사람입니다
+<SYNC Start=1108129><P Class=KRCC>&nbsp;
+<SYNC Start=1111393><P Class=KRCC>
+하후돈
+<SYNC Start=1113089><P Class=KRCC>&nbsp;
+<SYNC Start=1114499><P Class=KRCC>
+지금의 혼잣말, 마초 앞에서<br>
+ 한 번 더 할 수는 없는가?
+<SYNC Start=1119928><P Class=KRCC>&nbsp;
+<SYNC Start=1121609><P Class=KRCC>
+말도 안 돼
+<SYNC Start=1122626><P Class=KRCC>&nbsp;
+<SYNC Start=1123753><P Class=KRCC>
+아버지가…
+<SYNC Start=1125776><P Class=KRCC>
+우리 아빠가 술에 취해 <br>
+말에서 떨어져 돌아가셨다니…
+<SYNC Start=1130298><P Class=KRCC>
+마초, 조조 장군은 마등<br>
+그리고 널 생각해서
+<SYNC Start=1135306><P Class=KRCC>
+이 사실에 대해서 <br>
+입을 다물고 계셨던 거다
+<SYNC Start=1137514><P Class=KRCC>
+무인으로서의 체면을 소중히 여기는
+<SYNC Start=1139712><P Class=KRCC>
+마등의 마음
+<SYNC Start=1141520><P Class=KRCC>
+그걸 존중해서 스스로 악평을 감수한 <br>
+조조 장군의 태도
+<SYNC Start=1146430><P Class=KRCC>
+둘 다 훌륭하다고 생각한다
+<SYNC Start=1149173><P Class=KRCC>
+하지만 그것 때문에
+<SYNC Start=1150920><P Class=KRCC>
+네가 언제까지나 <br>
+조조에 대한 원망을 가지고
+<SYNC Start=1153905><P Class=KRCC>
+그 목숨을 노리게 되면 오히려<br>
+ 널 위해 좋지 않을 것이다
+<SYNC Start=1157969><P Class=KRCC>
+거짓말이다
+<SYNC Start=1159146><P Class=KRCC>
+조조 부하가 하는 말 따위는 믿을 수 없다
+<SYNC Start=1161873><P Class=KRCC>&nbsp;
+<SYNC Start=1163337><P Class=KRCC>
+그럼 내가 거짓을 말하고 있다는 것인가?
+<SYNC Start=1166265><P Class=KRCC>
+하후돈, 마초는 지금 이성을 잃었다
+<SYNC Start=1169801><P Class=KRCC>
+마초, 네 기분은 잘 알겠다
+<SYNC Start=1172001><P Class=KRCC>
+조금 진정하고…
+<SYNC Start=1172880><P Class=KRCC>
+건드리지 마!
+<SYNC Start=1174297><P Class=KRCC>
+분명 너도 조조에게 구워삶아졌겠지
+<SYNC Start=1177081><P Class=KRCC>
+일이 잘 풀리면 그가 널 <br>
+고용해주기라도 한다더냐?
+<SYNC Start=1181033><P Class=KRCC>&nbsp;
+<SYNC Start=1182457><P Class=KRCC>
+마초, 일어나 무기를 잡아라
+<SYNC Start=1184928><P Class=KRCC>
+하후돈!
+<SYNC Start=1186185><P Class=KRCC>
+나도 무인이다
+<SYNC Start=1187640><P Class=KRCC>
+거짓말쟁이 취급받고는 가만 있지 못하겠다
+<SYNC Start=1191016><P Class=KRCC>
+바라던 바다
+<SYNC Start=1192376><P Class=KRCC>
+보복을 위한 준비운동으로
+<SYNC Start=1193776><P Class=KRCC>
+네 목부터 날려주마!
+<SYNC Start=1195616><P Class=KRCC>&nbsp;
+<SYNC Start=1200393><P Class=KRCC>
+둘 다 그만둬라
+<SYNC Start=1202465><P Class=KRCC>
+이렇게 무의미한 다툼을 해서 어쩌자는 거지?
+<SYNC Start=1205225><P Class=KRCC>
+말리지 마시죠, 관우 님
+<SYNC Start=1206969><P Class=KRCC>
+죽기 전까진 정신 못 차리는 <br>
+멍청한 놈도 있는 법입니다
+<SYNC Start=1209272><P Class=KRCC>
+그 입 다물어!
+<SYNC Start=1210217><P Class=KRCC>&nbsp;
+<SYNC Start=1229452><P Class=KRCC>
+뭐지, 이 녀석?
+<SYNC Start=1232179><P Class=KRCC>
+빈틈이… 전혀 없다
+<SYNC Start=1235692><P Class=KRCC>
+마치 깊은 숲의 나무처럼 조용한 자세
+<SYNC Start=1240516><P Class=KRCC>
+게다가, 투명한 물 같은 기운이 전해져 온다
+<SYNC Start=1245189><P Class=KRCC>&nbsp;
+<SYNC Start=1246581><P Class=KRCC>
+무술이란 건 솔직한 법이다
+<SYNC Start=1249468><P Class=KRCC>
+마음 속에 찔리는 게 있으면
+<SYNC Start=1251627><P Class=KRCC>
+그게 정신을 흐리게 하여 겉으로 나타나지
+<SYNC Start=1254429><P Class=KRCC>&nbsp;
+<SYNC Start=1258269><P Class=KRCC>
+그럼…
+<SYNC Start=1259701><P Class=KRCC>&nbsp;
+<SYNC Start=1261844><P Class=KRCC>
+그럼… 역시 이 녀석이 <br>
+했던 말은 사실이고
+<SYNC Start=1266004><P Class=KRCC>
+아버지는…
+<SYNC Start=1267324><P Class=KRCC>&nbsp;
+<SYNC Start=1276237><P Class=KRCC>
+하후돈의 마음에 <br>
+흐트러짐이 없는 것을 느끼고
+<SYNC Start=1280100><P Class=KRCC>
+그대가 거짓을 말하는 게 <br>
+아니라는 사실을 깨달은 것이겠지
+<SYNC Start=1283508><P Class=KRCC>&nbsp;
+<SYNC Start=1285228><P Class=KRCC>
+그렇지, 마초?
+<SYNC Start=1287077><P Class=KRCC>&nbsp;
+<SYNC Start=1308087><P Class=KRCC>
+그럼 여기서 헤어져야겠군
+<SYNC Start=1310327><P Class=KRCC>
+모처럼 친구가 됐는데, 아쉽다
+<SYNC Start=1313510><P Class=KRCC>
+역시 한 번 서량으로 돌아가려 하는 건가?
+<SYNC Start=1316198><P Class=KRCC>&nbsp;
+<SYNC Start=1317030><P Class=KRCC>
+고향에 있는 사람들에게 <br>
+진실을 알려야만 하니까
+<SYNC Start=1321198><P Class=KRCC>
+그렇겠지, 그게 좋겠어
+<SYNC Start=1323502><P Class=KRCC>
+관우, 너에겐 여러 가지로 신세를 졌다
+<SYNC Start=1326942><P Class=KRCC>
+뭘 그래, 대단한 것도 아닌데
+<SYNC Start=1328535><P Class=KRCC>
+그리고, 그…
+<SYNC Start=1330319><P Class=KRCC>&nbsp;
+<SYNC Start=1333917><P Class=KRCC>
+내가 울었던 건 비밀로 해줬으면 한다
+<SYNC Start=1337301><P Class=KRCC>
+특히 장비에겐 반드시
+<SYNC Start=1339358><P Class=KRCC>&nbsp;
+<SYNC Start=1343310><P Class=KRCC>
+그, 그럼 안녕!
+<SYNC Start=1345829><P Class=KRCC>
+잘 있어, 다음에 보자!
+<SYNC Start=1348534><P Class=KRCC>
+바이바이다!
+<SYNC Start=1351823><P Class=KRCC>
+친구와의 헤어짐인데<br>
+꽤나 표정이 밝구나
+<SYNC Start=1356198><P Class=KRCC>
+사람은 다음에 만날 때까지
+<SYNC Start=1357981><P Class=KRCC>
+헤어질 때의 모습을 기억하는 법이다
+<SYNC Start=1360813><P Class=KRCC>
+린린은 마초가 <br>
+내 밝은 모습을 기억해줬으면 한다
+<SYNC Start=1365158><P Class=KRCC>&nbsp;
+<SYNC Start=1385995><P Class=KRCC>
+<font color=#E6749D>どうにもこうにも世界の </font><br>이렇다 해도 저렇다 해도 세상의
+<SYNC Start=1387981><P Class=KRCC>
+<font color=#E6749D>主役は私 </font><br>주역은 바로 나
+<SYNC Start=1390756><P Class=KRCC>
+<font color=#E6749D>豪華絢爛 問答無用 </font><br>호화현란 문답무용
+<SYNC Start=1393397><P Class=KRCC>
+<font color=#E6749D>根據なんてあたしだけ </font><br>근거는 바로 '나'이기 때문
+<SYNC Start=1395992><P Class=KRCC>&nbsp;
+<SYNC Start=1397255><P Class=KRCC>
+<font color=#E6749D>東西南北 いつでもどこでも</font><br> 동서남북 언제든지 어디서든지
+<SYNC Start=1398897><P Class=KRCC>&nbsp;
+<SYNC Start=1399809><P Class=KRCC>
+<font color=#E6749D>私が來たなら極樂天國 </font><br>내가 오기만 하면 극락천국
+<SYNC Start=1401666><P Class=KRCC>&nbsp;
+<SYNC Start=1402385><P Class=KRCC>
+<font color=#E6749D>春夏秋冬 お氣樂三昧 </font><br>춘하추동 무사태평 삼매
+<SYNC Start=1404096><P Class=KRCC>&nbsp;
+<SYNC Start=1405008><P Class=KRCC>
+<font color=#E6749D>今日も明日も大冒險 </font><br>오늘도 내일도 대모험
+<SYNC Start=1406329><P Class=KRCC>
+<font color=#E6749D>いやな時ピュ一って逃げといて </font><br>귀찮을 때는 쌩하니 도망가고
+<SYNC Start=1408727><P Class=KRCC>
+<font color=#E6749D>樂な時ハイと手を上げて </font><br>맘편할 때는 그래 하고 손을 들고선
+<SYNC Start=1411278><P Class=KRCC>
+<font color=#E6749D>無茶をせず でもね お茶出して </font><br>무리는 지양 하지만 차는 끓여줘
+<SYNC Start=1413837><P Class=KRCC>
+<font color=#E6749D>甘い誘い乘んなくちゃ</font><br> 달콤한 유혹엔 부응해 줘야지
+<SYNC Start=1416428><P Class=KRCC>
+<font color=#E6749D>欲しい物なんて いくらでもある</font><br>갖고 싶은 건 얼마든지 있지만
+<SYNC Start=1421350><P Class=KRCC>
+<font color=#E6749D>大膽素敵に</font><br>대담하고 훌륭하게
+<SYNC Start=1424159><P Class=KRCC>
+<font color=#E6749D>狙う瞳は無敵に</font><br>노리는 눈동자는 무적으로
+<SYNC Start=1427956><P Class=KRCC>
+<font color=#E6749D>（1，2，3!）
+<SYNC Start=1429270><P Class=KRCC>
+<font color=#E6749D>やっぱりやっぱり世界の</font><br>역시 역시 이 세상의
+<SYNC Start=1431821><P Class=KRCC>
+<font color=#E6749D>主役は私</font><br>주역은 바로 나
+<SYNC Start=1434409><P Class=KRCC>
+<font color=#E6749D>勝手に回ってるなんて</font><br>멋대로 나다닌다니
+<SYNC Start=1436620><P Class=KRCC>
+<font color=#E6749D>マジありえないから そうでしょ</font><br>정말 말도 안 돼, 그렇잖아?
+<SYNC Start=1439557><P Class=KRCC>
+<font color=#E6749D>どうにもこうにも世界の </font><br>이렇다 저렇다 해도 세상의
+<SYNC Start=1442130><P Class=KRCC>
+<font color=#E6749D>主役は私 </font><br>주역은 바로 나
+<SYNC Start=1444616><P Class=KRCC>
+<font color=#E6749D>豪華絢爛 問答無用 </font><br>호화현란 문답무용
+<SYNC Start=1447179><P Class=KRCC>
+<font color=#E6749D>根據なんてあたしだけ </font><br>근거는 바로 '나'이기 때문
+<SYNC Start=1450028><P Class=KRCC>&nbsp;
+<SYNC Start=1466023><P Class=KRCC>
+관우, 미안하다
+<SYNC Start=1467625><P Class=KRCC>
+나 때문에 여러 가지로 폐를 끼쳐서…
+<SYNC Start=1470225><P Class=KRCC>
+이제 끝난 일이다, 신경쓰지 마라
+<SYNC Start=1472480><P Class=KRCC>
+하지만 날 구하기 위해서
+<SYNC Start=1474649><P Class=KRCC>
+조조에게 앞과 뒤를 다 바쳤다던데…
+<SYNC Start=1477112><P Class=KRCC>&nbsp;
+<SYNC Start=1478505><P Class=KRCC>
+무, 무슨 말이지, 그거?
+<SYNC Start=1480337><P Class=KRCC>
+하지만 조운이 그렇게 말했는데…
+<SYNC Start=1482505><P Class=KRCC>
+다음화 연희무쌍 제 5화
+<SYNC Start=1485393><P Class=KRCC>
+<font color=#E6749D>「관우, 귀신을 퇴치하지 않기로 하다」
+<SYNC Start=1488249><P Class=KRCC>
+아이샤, 앞과 뒤를 다 바쳤다니
+<SYNC Start=1491249><P Class=KRCC>
+대체 무슨 뜻이야?
+<SYNC Start=1492488><P Class=KRCC>
+어, 어린이는 몰라도 돼!
+<SYNC Start=1494889><P Class=KRCC>&nbsp;
+</BODY>
+</SAMI>

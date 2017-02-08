@@ -1,0 +1,921 @@
+<SAMI>
+<HEAD>
+<TITLE></TITLE>
+<STYLE TYPE="text/css">
+<!--
+P { margin-left:8pt; margin-right:8pt; margin-bottom:2pt;
+    margin-top:2pt; font-size:12pt; text-align:center;
+    font-family:arial, sans-serif; font-weight:normal; color:white;
+    }
+.KRCC { Name:Korean; lang:kr-KR; SAMIType:CC; }
+#STDPrn { Name:Standard Print; font-size:20pt; }
+#LargePrn { Name:Large Print; font-size:20pt; }
+#SmallPrn { Name:Small Print; font-size:10pt; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<SYNC Start=300><P Class=KRCC>
+<font color=c0ffff>例えば君のその腕が鎖に詰め替えても</font><br>
+설령 너의 그 팔이 쇠사슬에 묶여 있다 해도
+<SYNC Start=6396><P Class=KRCC>
+<font color=c0ffff>例えばいつかこの空が燃盡きて終うとしても</font><br>
+설령 언젠가 이 하늘이 불타버린다 해도
+<SYNC Start=14143><P Class=KRCC>
+<font color=c0ffff>希望だけは信じて</font><br>
+희망 만은 믿어줘
+<SYNC Start=18729><P Class=KRCC>&nbsp;
+<SYNC Start=21606><P Class=KRCC>
+<font color=c0ffff>輝く星の影に</font><br>
+빛나는 별의 그림자에
+<SYNC Start=26295><P Class=KRCC>&nbsp;
+<SYNC Start=27654><P Class=KRCC>
+<font color=c0ffff>闇が統べる世界がある</font><br>
+어둠이 지배하는 세계가 있어
+<SYNC Start=32329><P Class=KRCC>&nbsp;
+<SYNC Start=33749><P Class=KRCC>
+<font color=c0ffff>たった一つの命</font><br>
+단 하나의 생명
+<SYNC Start=38755><P Class=KRCC>&nbsp;
+<SYNC Start=39760><P Class=KRCC>
+<font color=c0ffff>そこに閉ざしたままじゃLonely boy</font><br>
+그곳에 닫아놓은 채면 Lonely boy
+<SYNC Start=45837><P Class=KRCC>
+<font color=c0ffff>ここに僕らが出會ったわけは</font><br>
+여기서 우리가 만난 이유는
+<SYNC Start=51591><P Class=KRCC>
+<font color=c0ffff>必ずあるのだから</font><br>
+반드시 있는 것이니까
+<SYNC Start=57063><P Class=KRCC>&nbsp;
+<SYNC Start=58020><P Class=KRCC>
+<font color=c0ffff>例えば君が悲しみに崩れそうになっても</font><br>
+설령 네가 슬픔에 무너져 버리려 할 때라도
+<SYNC Start=64113><P Class=KRCC>
+<font color=c0ffff>例えば僕のこの胸が抱き止める力になれば</font><br>
+설령 나의 이 가슴이 널 안아받쳐줄 힘이 된다면
+<SYNC Start=71865><P Class=KRCC>
+<font color=c0ffff>明日のきっと We can do fight</font><br>
+내일은 분명 We can do fight
+<SYNC Start=77537><P Class=KRCC>&nbsp;
+<SYNC Start=90546><P Class=KRCC>
+부장님, 혜성의 영상, 모니터에<br>
+내보내도 되나요? / 그래
+<SYNC Start=95275><P Class=KRCC>&nbsp;
+<SYNC Start=101393><P Class=KRCC>
+저, 여기도 뿌릴까?<br>
+/ 많은 편이 좋겠지?
+<SYNC Start=104895><P Class=KRCC>&nbsp;
+<SYNC Start=111591><P Class=KRCC>
+에즈라, 혜성의 분석 데이터를!
+<SYNC Start=114151><P Class=KRCC>&nbsp;
+<SYNC Start=114275><P Class=KRCC>
+부장님, 어느 쪽이 귀여운 것 같아요?
+<SYNC Start=117155><P Class=KRCC>&nbsp;
+<SYNC Start=118344><P Class=KRCC>
+좋을 대로 해
+<SYNC Start=119874><P Class=KRCC>&nbsp;
+<SYNC Start=120156><P Class=KRCC>
+어떡해, 결정을 못하겠어
+<SYNC Start=122349><P Class=KRCC>&nbsp;
+<SYNC Start=124330><P Class=KRCC>
+아!
+<SYNC Start=125260><P Class=KRCC>&nbsp;
+<SYNC Start=126343><P Class=KRCC>
+두목님!
+<SYNC Start=127705><P Class=KRCC>&nbsp;
+<SYNC Start=128955><P Class=KRCC>
+역시 내가 산타가 안 되면 이야기가<br>
+안 되겠지? 크리스마스는 말야
+<SYNC Start=134445><P Class=KRCC>&nbsp;
+<SYNC Start=135401><P Class=KRCC>
+두목님 멋져요 / 귀여워~
+<SYNC Start=137297><P Class=KRCC>&nbsp;
+<SYNC Start=139342><P Class=KRCC>
+하아…
+<SYNC Start=140490><P Class=KRCC>&nbsp;
+<SYNC Start=147462><P Class=KRCC>
+[#10 White Love]
+<SYNC Start=150125><P Class=KRCC>&nbsp;
+<SYNC Start=153376><P Class=KRCC>
+바넷, 초코렛 크림은 더 많이
+<SYNC Start=156382><P Class=KRCC>&nbsp;
+<SYNC Start=156886><P Class=KRCC>
+자, 설탕가루도 잊지 말고
+<SYNC Start=159407><P Class=KRCC>&nbsp;
+<SYNC Start=162505><P Class=KRCC>
+와! 맛있다!
+<SYNC Start=164597><P Class=KRCC>&nbsp;
+<SYNC Start=167669><P Class=KRCC>
+너는 칠면조 보고 있으라고 말했잖아!
+<SYNC Start=170838><P Class=KRCC>&nbsp;
+<SYNC Start=171249><P Class=KRCC>
+네-  / 그리고…
+<SYNC Start=174170><P Class=KRCC>&nbsp;
+<SYNC Start=175258><P Class=KRCC>
+케엑! 위험해!
+<SYNC Start=176900><P Class=KRCC>&nbsp;
+<SYNC Start=178093><P Class=KRCC>
+잠깐 디타!
+<SYNC Start=179559><P Class=KRCC>&nbsp;
+<SYNC Start=181347><P Class=KRCC>
+도대체 이건 무슨 소동이지?
+<SYNC Start=183489><P Class=KRCC>&nbsp;
+<SYNC Start=183690><P Class=KRCC>
+크리스마스파티 준비다 뾰로
+<SYNC Start=185603><P Class=KRCC>&nbsp;
+<SYNC Start=185614><P Class=KRCC>
+여자들은 12월 24일이 되면<br>
+저렇게 파티를 한다 뾰로 / 호오
+<SYNC Start=191360><P Class=KRCC>&nbsp;
+<SYNC Start=192247><P Class=KRCC>
+너희 크리스마스도 모르는 거냐
+<SYNC Start=195443><P Class=KRCC>&nbsp;
+<SYNC Start=196207><P Class=KRCC>
+저…
+<SYNC Start=197443><P Class=KRCC>&nbsp;
+<SYNC Start=200587><P Class=KRCC>
+축제다뾰로 타라크에도 있었잖아
+<SYNC Start=203919><P Class=KRCC>&nbsp;
+<SYNC Start=204406><P Class=KRCC>
+축제는 있었지만…
+<SYNC Start=206303><P Class=KRCC>&nbsp;
+<SYNC Start=210395><P Class=KRCC>
+축제 같은 건 그다지 재밌는<br>
+게 아니었잖아 제군 / 응
+<SYNC Start=215341><P Class=KRCC>&nbsp;
+<SYNC Start=216669><P Class=KRCC>
+아아! 있었어! 우주인…!
+<SYNC Start=219894><P Class=KRCC>&nbsp;
+<SYNC Start=219945><P Class=KRCC>
+아! 기다리라니까 우주인씨!
+<SYNC Start=224515><P Class=KRCC>&nbsp;
+<SYNC Start=224763><P Class=KRCC>
+응?
+<SYNC Start=225977><P Class=KRCC>&nbsp;
+<SYNC Start=228517><P Class=KRCC>
+정말로 크리스마스 모르는 거야?
+<SYNC Start=230837><P Class=KRCC>
+모른다면 모르는 거야
+<SYNC Start=232480><P Class=KRCC>&nbsp;
+<SYNC Start=233331><P Class=KRCC>
+불쌍하게도
+<SYNC Start=234813><P Class=KRCC>&nbsp;
+<SYNC Start=234937><P Class=KRCC>
+남자란 것들은 빈약한<br>
+인생을 살고 있었다뾰로
+<SYNC Start=237910><P Class=KRCC>&nbsp;
+<SYNC Start=238134><P Class=KRCC>
+끝내주는 만찬에 달콤한 케익<br>
+/ 그것만으로도 멋진데 말야
+<SYNC Start=243594><P Class=KRCC>&nbsp;
+<SYNC Start=244677><P Class=KRCC>
+뭐, 뭐… 인생은 뭐든지<br>
+경험이 중요하다고 하고 말야
+<SYNC Start=248800><P Class=KRCC>&nbsp;
+<SYNC Start=249035><P Class=KRCC>
+이히히~ / 이녀석
+<SYNC Start=250911><P Class=KRCC>&nbsp;
+<SYNC Start=251007><P Class=KRCC>
+히비키, 여자들을 도와주면<br>
+너도 실컷 얻어 먹을 수 있을 거다뾰로
+<SYNC Start=256555><P Class=KRCC>&nbsp;
+<SYNC Start=256879><P Class=KRCC>
+어, 어쩔수 없군… 드문 일이긴 하지만<br>
+마침 한가하니 좀 도와 주도록 할까
+<SYNC Start=261402><P Class=KRCC>&nbsp;
+<SYNC Start=268138><P Class=KRCC>
+정말…
+<SYNC Start=269346><P Class=KRCC>&nbsp;
+<SYNC Start=269960><P Class=KRCC>
+도대체 여기서 뭘 하라는 거야
+<SYNC Start=272141><P Class=KRCC>
+응? 트리에 달 장식<br>
+전구를 찾는 거다뾰로
+<SYNC Start=275620><P Class=KRCC>
+와아, 이런 방도 있었네
+<SYNC Start=278032><P Class=KRCC>&nbsp;
+<SYNC Start=278993><P Class=KRCC>
+아, 아아…
+<SYNC Start=280719><P Class=KRCC>&nbsp;
+<SYNC Start=286531><P Class=KRCC>
+우와아아아~~ / 뭐야 이건
+<SYNC Start=290411><P Class=KRCC>&nbsp;
+<SYNC Start=295318><P Class=KRCC>
+식민선 시대의 물건인 모양이군
+<SYNC Start=298086><P Class=KRCC>&nbsp;
+<SYNC Start=298544><P Class=KRCC>
+식민선 시대? / 그래
+<SYNC Start=300817><P Class=KRCC>&nbsp;
+<SYNC Start=303184><P Class=KRCC>
+저저, 이게 뭐야?
+<SYNC Start=305566><P Class=KRCC>&nbsp;
+<SYNC Start=315401><P Class=KRCC>
+뭐야뭐야뭐야?
+<SYNC Start=317021><P Class=KRCC>&nbsp;
+<SYNC Start=325919><P Class=KRCC>
+귀여워라
+<SYNC Start=327416><P Class=KRCC>&nbsp;
+<SYNC Start=339970><P Class=KRCC>
+뭐야 저건 / 말도 안돼
+<SYNC Start=342293><P Class=KRCC>&nbsp;
+<SYNC Start=343243><P Class=KRCC>
+나… 남자와 함께…
+<SYNC Start=345606><P Class=KRCC>&nbsp;
+<SYNC Start=345860><P Class=KRCC>
+이… 이럴수가…
+<SYNC Start=347913><P Class=KRCC>&nbsp;
+<SYNC Start=351738><P Class=KRCC>
+굉장해, 굉장해, 굉장-해!
+<SYNC Start=354431><P Class=KRCC>&nbsp;
+<SYNC Start=354792><P Class=KRCC>
+조그만 인간…
+<SYNC Start=356393><P Class=KRCC>&nbsp;
+<SYNC Start=357060><P Class=KRCC>
+뾰로와 비슷할 정도로…
+<SYNC Start=358896><P Class=KRCC>&nbsp;
+<SYNC Start=360160><P Class=KRCC>
+아기…
+<SYNC Start=361856><P Class=KRCC>&nbsp;
+<SYNC Start=365051><P Class=KRCC>
+나, 남자와 여자가 한지붕 아래에!!
+<SYNC Start=368697><P Class=KRCC>
+진정제다, 먹어 두도록
+<SYNC Start=370866><P Class=KRCC>&nbsp;
+<SYNC Start=387845><P Class=KRCC>
+멋져 멋져!!
+<SYNC Start=390022><P Class=KRCC>&nbsp;
+<SYNC Start=390700><P Class=KRCC>
+너무 멋지다고!!
+<SYNC Start=392722><P Class=KRCC>&nbsp;
+<SYNC Start=394528><P Class=KRCC>
+[우주인씨에게 00:00 AM<br>
+에 딱 맞춰서 줘야 해]
+<SYNC Start=397459><P Class=KRCC>&nbsp;
+<SYNC Start=401160><P Class=KRCC>
+뭐야
+<SYNC Start=402273><P Class=KRCC>&nbsp;
+<SYNC Start=402277><P Class=KRCC>
+적의 습격인가 / 아니요<br>
+아무것도 보이지 않습니다
+<SYNC Start=405584><P Class=KRCC>&nbsp;
+<SYNC Start=405698><P Class=KRCC>
+혜성의 데이터는 아직인가?<br>
+/ 아, 네
+<SYNC Start=408618><P Class=KRCC>&nbsp;
+<SYNC Start=412919><P Class=KRCC>
+표면은 모두 얼음인 것 같습니다
+<SYNC Start=415700><P Class=KRCC>&nbsp;
+<SYNC Start=416116><P Class=KRCC>
+인공물은 아무것도 보이지 않습니다
+<SYNC Start=418764><P Class=KRCC>&nbsp;
+<SYNC Start=419006><P Class=KRCC>
+도대체 무슨 일이야
+<SYNC Start=420957><P Class=KRCC>&nbsp;
+<SYNC Start=421773><P Class=KRCC>
+토호호, 저질렀다
+<SYNC Start=424095><P Class=KRCC>&nbsp;
+<SYNC Start=426629><P Class=KRCC>
+역시 무리일까요<br>
+눈 내리게 하는 건…
+<SYNC Start=430350><P Class=KRCC>&nbsp;
+<SYNC Start=430642><P Class=KRCC>
+아직 멀었어! 반드시 화이트<br>
+크리스마스로 만들어 보일 테니까
+<SYNC Start=434932><P Class=KRCC>&nbsp;
+<SYNC Start=434984><P Class=KRCC>
+그렇지만 이대로는 이브의<br>
+축제에는 시간 못 대요
+<SYNC Start=438311><P Class=KRCC>&nbsp;
+<SYNC Start=438478><P Class=KRCC>
+그런가… 그럼 차라리… / 안돼
+<SYNC Start=441964><P Class=KRCC>&nbsp;
+<SYNC Start=442042><P Class=KRCC>
+쥬라는 싫어, 눈 오브제가<br>
+없는 크리스마스는 싫어!
+<SYNC Start=445870><P Class=KRCC>&nbsp;
+<SYNC Start=446113><P Class=KRCC>
+그런 말을 해도 말이지<br>
+뭐 어떻게든 하긴 해 보겠지만
+<SYNC Start=450597><P Class=KRCC>&nbsp;
+<SYNC Start=450823><P Class=KRCC>
+뭐하고 있는 거야, 저 녀석들<br>
+/ 스노우 머신이야
+<SYNC Start=454099><P Class=KRCC>&nbsp;
+<SYNC Start=455759><P Class=KRCC>
+파르페가 우리를 위해서
+<SYNC Start=457620><P Class=KRCC>
+이 니르바나에 눈을<br>
+내리게 할려고 하고 있는 거야
+<SYNC Start=461225><P Class=KRCC>&nbsp;
+<SYNC Start=461305><P Class=KRCC>
+남자와는 달라서 얼마나<br>
+눈썰미가 좋아? 아~ 개골-
+<SYNC Start=464884><P Class=KRCC>&nbsp;
+<SYNC Start=465150><P Class=KRCC>
+넌 평범하게는 이야기<br>
+할 수 없는 거냐! / 흥
+<SYNC Start=468343><P Class=KRCC>&nbsp;
+<SYNC Start=468712><P Class=KRCC>
+그래서, 넌 뭘로 할 생각이야? / 앙?
+<SYNC Start=472191><P Class=KRCC>&nbsp;
+<SYNC Start=472371><P Class=KRCC>
+선물, 설마 준비하지 않을<br>
+정도로 바보는 아니겠지?
+<SYNC Start=477220><P Class=KRCC>&nbsp;
+<SYNC Start=477330><P Class=KRCC>
+여자에게 있어서는 마음을<br>
+공유하는 소중한 이벤트야
+<SYNC Start=481577><P Class=KRCC>&nbsp;
+<SYNC Start=486454><P Class=KRCC>
+시끄러워, 다들 들떠서 말야
+<SYNC Start=489907><P Class=KRCC>&nbsp;
+<SYNC Start=491360><P Class=KRCC>
+훗…
+<SYNC Start=492652><P Class=KRCC>&nbsp;
+<SYNC Start=493114><P Class=KRCC>
+정말… 바보같아
+<SYNC Start=495823><P Class=KRCC>&nbsp;
+<SYNC Start=496791><P Class=KRCC>
+확실히, 파르페의 미스인 거지?
+<SYNC Start=499163><P Class=KRCC>
+네…
+<SYNC Start=500183><P Class=KRCC>&nbsp;
+<SYNC Start=500433><P Class=KRCC>
+파르페쨩은 우리를 위해서 눈을<br>
+내리게 해 줄려고 노력하고 있는 거에요
+<SYNC Start=505899><P Class=KRCC>
+야단치지 말아 주세요
+<SYNC Start=508016><P Class=KRCC>&nbsp;
+<SYNC Start=508269><P Class=KRCC>
+알고 있어 그렇지만…
+<SYNC Start=510675><P Class=KRCC>&nbsp;
+<SYNC Start=510713><P Class=KRCC>
+부장, 눈 오브제가 없는<br>
+크리스마스라니 너무 쓸쓸하잖아요
+<SYNC Start=515915><P Class=KRCC>&nbsp;
+<SYNC Start=516573><P Class=KRCC>
+이대로 가면 딱 크리스마스에<br>
+혜성 부근을 통과한다
+<SYNC Start=521083><P Class=KRCC>&nbsp;
+<SYNC Start=521324><P Class=KRCC>
+올해는 그걸로 충분하잖아<br>
+/ 그렇지만…!
+<SYNC Start=523990><P Class=KRCC>
+밖에 있어도 지켜볼 뿐이잖아요
+<SYNC Start=527374><P Class=KRCC>&nbsp;
+<SYNC Start=537412><P Class=KRCC>
+응? 아니 축제에는 참가 안하는 거야?
+<SYNC Start=540453><P Class=KRCC>&nbsp;
+<SYNC Start=540578><P Class=KRCC>
+이런 때야말로 방심할 수가 없어요
+<SYNC Start=542970><P Class=KRCC>&nbsp;
+<SYNC Start=543245><P Class=KRCC>
+주변을 조사하고 오겠습니다
+<SYNC Start=545062><P Class=KRCC>&nbsp;
+<SYNC Start=545596><P Class=KRCC>
+아이고, 훌륭하시기도 하지
+<SYNC Start=547482><P Class=KRCC>
+점장님
+<SYNC Start=548541><P Class=KRCC>&nbsp;
+<SYNC Start=549466><P Class=KRCC>
+이 의자 너무 커서 안<br>
+들어갑니다만… / 흐어…
+<SYNC Start=553884><P Class=KRCC>&nbsp;
+<SYNC Start=558969><P Class=KRCC>
+아… 우주인씨!
+<SYNC Start=560806><P Class=KRCC>&nbsp;
+<SYNC Start=564407><P Class=KRCC>
+오늘 정도는 너도 좀<br>
+느긋하게 쉬면 어떠니
+<SYNC Start=567650><P Class=KRCC>&nbsp;
+<SYNC Start=568026><P Class=KRCC>
+그렇게 말씀하셔도
+<SYNC Start=569569><P Class=KRCC>
+아아, 이런 준비가<br>
+아직 덜 되었군
+<SYNC Start=572158><P Class=KRCC>
+아아, 바쁘다 바뻐
+<SYNC Start=574483><P Class=KRCC>&nbsp;
+<SYNC Start=604284><P Class=KRCC>
+저 정도로 크면 불만은 없겠지
+<SYNC Start=607036><P Class=KRCC>&nbsp;
+<SYNC Start=610376><P Class=KRCC>
+Caption
+<SYNC Start=610573><P Class=KRCC>
+Caption Work by
+<SYNC Start=610853><P Class=KRCC>
+Caption Work by JH
+<SYNC Start=611118><P Class=KRCC>
+Caption Work by JH<br>
+[CERBERUS@hitel.net]
+<SYNC Start=612746><P Class=KRCC>
+Caption Work by JH<br>
+<font color=d0ffff>[CERBERUS@hitel.net]</font>
+<SYNC Start=615234><P Class=KRCC>&nbsp;
+<SYNC Start=620535><P Class=KRCC>
+뭐야 이건…
+<SYNC Start=622373><P Class=KRCC>&nbsp;
+<SYNC Start=649542><P Class=KRCC>
+설마 이런 곳에<br>
+적이 숨어 있었을 줄은
+<SYNC Start=652568><P Class=KRCC>&nbsp;
+<SYNC Start=653546><P Class=KRCC>
+아줌마~
+<SYNC Start=655071><P Class=KRCC>&nbsp;
+<SYNC Start=655284><P Class=KRCC>
+무… 무언가 용무가 있는 거니 뾰로쨩
+<SYNC Start=657929><P Class=KRCC>&nbsp;
+<SYNC Start=658041><P Class=KRCC>
+그 안에 작은 인간 들어있는거지?<br>
+/ 그, 그렇지
+<SYNC Start=662864><P Class=KRCC>&nbsp;
+<SYNC Start=663162><P Class=KRCC>
+분리하면 이름 짓는 거지?<br>
+/ 응… 뭐…
+<SYNC Start=666912><P Class=KRCC>&nbsp;
+<SYNC Start=668056><P Class=KRCC>
+안의 아기의 이름 생각해 봤어
+<SYNC Start=671271><P Class=KRCC>&nbsp;
+<SYNC Start=671926><P Class=KRCC>
+어이… 너의 이름인데 말이지…
+<SYNC Start=676027><P Class=KRCC>&nbsp;
+<SYNC Start=676988><P Class=KRCC>
+'뾰로-2' 라는 이름은 어때요?
+<SYNC Start=678879><P Class=KRCC>&nbsp;
+<SYNC Start=679009><P Class=KRCC>
+아니…
+<SYNC Start=680567><P Class=KRCC>&nbsp;
+<SYNC Start=680895><P Class=KRCC>
+글쎄다…
+<SYNC Start=682804><P Class=KRCC>&nbsp;
+<SYNC Start=684991><P Class=KRCC>
+아, 그거 제가 할게요
+<SYNC Start=686874><P Class=KRCC>&nbsp;
+<SYNC Start=686986><P Class=KRCC>
+아, 기다려라 뾰로
+<SYNC Start=689168><P Class=KRCC>&nbsp;
+<SYNC Start=689472><P Class=KRCC>
+멋진 이름이라고 생각했는데<br>
+'뾰로-2'
+<SYNC Start=693212><P Class=KRCC>&nbsp;
+<SYNC Start=698337><P Class=KRCC>
+정말이다
+<SYNC Start=699589><P Class=KRCC>&nbsp;
+<SYNC Start=700068><P Class=KRCC>
+아까 본 과거의 기록에서는
+<SYNC Start=702003><P Class=KRCC>
+확실히 남녀가 한 지붕<br>
+아래서 함께 생활하고 있었다
+<SYNC Start=706246><P Class=KRCC>&nbsp;
+<SYNC Start=706590><P Class=KRCC>
+뭐, 우리도 이렇게 잘 해<br>
+나가고 있고 생각못할 일은 아니지
+<SYNC Start=712786><P Class=KRCC>&nbsp;
+<SYNC Start=714209><P Class=KRCC>
+그런 것 보다 지금은 모두에게<br>
+줄 선물을 완성시켜야지
+<SYNC Start=718484><P Class=KRCC>&nbsp;
+<SYNC Start=719049><P Class=KRCC>
+그나저나… 닥터는 뭐 줄 거야
+<SYNC Start=721618><P Class=KRCC>&nbsp;
+<SYNC Start=723187><P Class=KRCC>
+선물~ 줄 꺼지?
+<SYNC Start=725802><P Class=KRCC>&nbsp;
+<SYNC Start=727117><P Class=KRCC>
+음…
+<SYNC Start=728318><P Class=KRCC>&nbsp;
+<SYNC Start=742834><P Class=KRCC>
+으랏차! 비키란 말야!
+<SYNC Start=745403><P Class=KRCC>&nbsp;
+<SYNC Start=748938><P Class=KRCC>
+어째서 여기에!<br>
+/ 어째서 여기에!
+<SYNC Start=750433><P Class=KRCC>&nbsp;
+<SYNC Start=755123><P Class=KRCC>
+지금 그 빛은!!
+<SYNC Start=756851><P Class=KRCC>&nbsp;
+<SYNC Start=760458><P Class=KRCC>
+저저, 봤어 봤어?<br>
+반짝 반짝 빛났다고!
+<SYNC Start=764806><P Class=KRCC>&nbsp;
+<SYNC Start=765765><P Class=KRCC>
+디타! / 봐! 또!
+<SYNC Start=767589><P Class=KRCC>
+와 예뻐! 예뻐
+<SYNC Start=769859><P Class=KRCC>
+알았으니까 빨리 하라고
+<SYNC Start=772103><P Class=KRCC>&nbsp;
+<SYNC Start=772567><P Class=KRCC>
+정말… 너란 아이는…
+<SYNC Start=774965><P Class=KRCC>&nbsp;
+<SYNC Start=780459><P Class=KRCC>
+뭘 사양하는 거야<br>
+상관 말고 화기를 쓰면 되잖아!
+<SYNC Start=783869><P Class=KRCC>&nbsp;
+<SYNC Start=784015><P Class=KRCC>
+시끄러, 쓸데없는<br>
+명령 하지 말라고!
+<SYNC Start=786402><P Class=KRCC>&nbsp;
+<SYNC Start=788764><P Class=KRCC>
+두목님, 아무래도 상태가<br>
+이상합니다, 정찰시킬까요!
+<SYNC Start=792794><P Class=KRCC>&nbsp;
+<SYNC Start=793014><P Class=KRCC>
+두목님!
+<SYNC Start=794059><P Class=KRCC>&nbsp;
+<SYNC Start=801832><P Class=KRCC>
+어떠냐! 완벽하지?
+<SYNC Start=804676><P Class=KRCC>&nbsp;
+<SYNC Start=806505><P Class=KRCC>
+곧 축제 시간이 됩니다
+<SYNC Start=809094><P Class=KRCC>&nbsp;
+<SYNC Start=809296><P Class=KRCC>
+참가할 크루들은 임지로<br>
+모여 주시기 바랍니다
+<SYNC Start=812360><P Class=KRCC>&nbsp;
+<SYNC Start=813491><P Class=KRCC>
+위험!
+<SYNC Start=814751><P Class=KRCC>&nbsp;
+<SYNC Start=814943><P Class=KRCC>
+저 잠깐!
+<SYNC Start=816160><P Class=KRCC>&nbsp;
+<SYNC Start=817598><P Class=KRCC>
+아니…
+<SYNC Start=818732><P Class=KRCC>
+저 닥터는?
+<SYNC Start=820225><P Class=KRCC>&nbsp;
+<SYNC Start=820327><P Class=KRCC>
+글쎄요, 어딘가로 가 버렸는데요
+<SYNC Start=822925><P Class=KRCC>&nbsp;
+<SYNC Start=823170><P Class=KRCC>
+정말… 남자는 여차할 때는<br>
+도움이 안된단 말야
+<SYNC Start=827941><P Class=KRCC>&nbsp;
+<SYNC Start=828527><P Class=KRCC>
+그럼, 어떡해야 할지…
+<SYNC Start=830811><P Class=KRCC>
+타라크에는 선물이라는<br>
+관습은 없으니까 말야
+<SYNC Start=834455><P Class=KRCC>&nbsp;
+<SYNC Start=835103><P Class=KRCC>
+어떡할 꺼냐, 두에로
+<SYNC Start=836541><P Class=KRCC>&nbsp;
+<SYNC Start=838757><P Class=KRCC>
+꽤나 자신이 넘치는구나
+<SYNC Start=841054><P Class=KRCC>&nbsp;
+<SYNC Start=841155><P Class=KRCC>
+하하하하하
+<SYNC Start=842918><P Class=KRCC>
+나는 그런 점에서 할아버지의<br>
+방식을 확실히 이어받았으니까 말야
+<SYNC Start=848101><P Class=KRCC>&nbsp;
+<SYNC Start=848925><P Class=KRCC>
+그 근거없는 자신이<br>
+때로는 부러워질 때가 있어
+<SYNC Start=853728><P Class=KRCC>&nbsp;
+<SYNC Start=853750><P Class=KRCC>
+응?
+<SYNC Start=854827><P Class=KRCC>&nbsp;
+<SYNC Start=856974><P Class=KRCC>
+이게! 이게!
+<SYNC Start=858602><P Class=KRCC>&nbsp;
+<SYNC Start=864780><P Class=KRCC>
+시끄럽단 말이다!!
+<SYNC Start=866657><P Class=KRCC>&nbsp;
+<SYNC Start=868415><P Class=KRCC>
+꼴 좋구나
+<SYNC Start=870015><P Class=KRCC>&nbsp;
+<SYNC Start=872473><P Class=KRCC>
+정말~ / 아름다워
+<SYNC Start=875500><P Class=KRCC>&nbsp;
+<SYNC Start=878836><P Class=KRCC>
+정말, 우주인씨 어디로 가 버린 거야
+<SYNC Start=882263><P Class=KRCC>&nbsp;
+<SYNC Start=882310><P Class=KRCC>
+좋아! 조금만 더 참으라고!<br>
+/ 흥
+<SYNC Start=885255><P Class=KRCC>&nbsp;
+<SYNC Start=886587><P Class=KRCC>
+저 둘! 설마!!
+<SYNC Start=888546><P Class=KRCC>&nbsp;
+<SYNC Start=889132><P Class=KRCC>
+설마 저 혜성 안에!!
+<SYNC Start=892054><P Class=KRCC>&nbsp;
+<SYNC Start=903361><P Class=KRCC>
+히비키 메이아!<br>
+어디있나! 응답하라!
+<SYNC Start=906283><P Class=KRCC>&nbsp;
+<SYNC Start=910160><P Class=KRCC>
+우주인씨! 어디로 가 버린 거야?
+<SYNC Start=913358><P Class=KRCC>&nbsp;
+<SYNC Start=915972><P Class=KRCC>
+숨어있지 말고
+<SYNC Start=917741><P Class=KRCC>&nbsp;
+<SYNC Start=918118><P Class=KRCC>
+나와 줘
+<SYNC Start=919834><P Class=KRCC>&nbsp;
+<SYNC Start=920385><P Class=KRCC>
+없는 거야?
+<SYNC Start=921643><P Class=KRCC>&nbsp;
+<SYNC Start=923613><P Class=KRCC>
+으랏차!
+<SYNC Start=925185><P Class=KRCC>&nbsp;
+<SYNC Start=929118><P Class=KRCC>
+영차!
+<SYNC Start=930295><P Class=KRCC>&nbsp;
+<SYNC Start=931900><P Class=KRCC>
+어떡할 생각이냐
+<SYNC Start=933401><P Class=KRCC>&nbsp;
+<SYNC Start=933899><P Class=KRCC>
+선물이란 거다
+<SYNC Start=935818><P Class=KRCC>&nbsp;
+<SYNC Start=938809><P Class=KRCC>
+자! 드디어 메인 이벤트
+<SYNC Start=941524><P Class=KRCC>&nbsp;
+<SYNC Start=941712><P Class=KRCC>
+모두들 바이오 파크<br>
+중앙에 모여 주세요~
+<SYNC Start=945379><P Class=KRCC>
+아아, 늦어버렸구나<br>
+/ 유감이네요
+<SYNC Start=949289><P Class=KRCC>&nbsp;
+<SYNC Start=950588><P Class=KRCC>
+닥터, 미안하지만<br>
+눈은 늦어버렸어
+<SYNC Start=954350><P Class=KRCC>&nbsp;
+<SYNC Start=954371><P Class=KRCC>
+너에게 보여주고 싶었는데 말야
+<SYNC Start=957242><P Class=KRCC>&nbsp;
+<SYNC Start=958169><P Class=KRCC>
+사실은 나도 아직 미완성<br>
+이기는 하지만 / 뭔데?
+<SYNC Start=962631><P Class=KRCC>&nbsp;
+<SYNC Start=967841><P Class=KRCC>
+이쪽이다!
+<SYNC Start=969095><P Class=KRCC>&nbsp;
+<SYNC Start=984354><P Class=KRCC>
+오래 있어 봤자라고!<br>
+빨리 쳐부수고 돌아가자!
+<SYNC Start=987859><P Class=KRCC>&nbsp;
+<SYNC Start=987876><P Class=KRCC>
+동감이다
+<SYNC Start=989252><P Class=KRCC>&nbsp;
+<SYNC Start=995499><P Class=KRCC>
+아, 예뻐라~
+<SYNC Start=997394><P Class=KRCC>&nbsp;
+<SYNC Start=997550><P Class=KRCC>
+굉장해 굉장해<br>
+우주인씨도 보고 있을까?
+<SYNC Start=1001119><P Class=KRCC>&nbsp;
+<SYNC Start=1002091><P Class=KRCC>
+뭐하고 있니, 카운트<br>
+다운 시작하는데
+<SYNC Start=1004626><P Class=KRCC>&nbsp;
+<SYNC Start=1004889><P Class=KRCC>
+디터도 빨리 오라고<br>
+기다리고 있을게
+<SYNC Start=1006934><P Class=KRCC>
+나중에 보자 / 응
+<SYNC Start=1008839><P Class=KRCC>&nbsp;
+<SYNC Start=1009344><P Class=KRCC>
+우주인씨, 어디로 가 버린 걸까
+<SYNC Start=1012130><P Class=KRCC>&nbsp;
+<SYNC Start=1012515><P Class=KRCC>
+메이아, 응답하라
+<SYNC Start=1014607><P Class=KRCC>&nbsp;
+<SYNC Start=1021765><P Class=KRCC>
+부장님~
+<SYNC Start=1023454><P Class=KRCC>&nbsp;
+<SYNC Start=1025313><P Class=KRCC>
+드디어구나! / 뾰로-2
+<SYNC Start=1027986><P Class=KRCC>&nbsp;
+<SYNC Start=1031469><P Class=KRCC>
+메리 크리스마스까지 10초전
+<SYNC Start=1034278><P Class=KRCC>&nbsp;
+<SYNC Start=1034666><P Class=KRCC>
+9… 8…<br>
+/ 저…
+<SYNC Start=1036635><P Class=KRCC>
+7… 6…
+<SYNC Start=1038751><P Class=KRCC>&nbsp;
+<SYNC Start=1038831><P Class=KRCC>
+5초전!<br>
+/ 우주인씨…
+<SYNC Start=1040203><P Class=KRCC>&nbsp;
+<SYNC Start=1040252><P Class=KRCC>
+4… 3… 2…
+<SYNC Start=1043060><P Class=KRCC>&nbsp;
+<SYNC Start=1043148><P Class=KRCC>
+1…<br>
+/ 이판 사판이닷!
+<SYNC Start=1044477><P Class=KRCC>
+0… 메리 크리스마스!!
+<SYNC Start=1047349><P Class=KRCC>&nbsp;
+<SYNC Start=1053464><P Class=KRCC>
+실패
+<SYNC Start=1055018><P Class=KRCC>&nbsp;
+<SYNC Start=1057739><P Class=KRCC>
+자! 아직 많다고!
+<SYNC Start=1059656><P Class=KRCC>&nbsp;
+<SYNC Start=1072904><P Class=KRCC>
+우주인씨!
+<SYNC Start=1074461><P Class=KRCC>&nbsp;
+<SYNC Start=1077412><P Class=KRCC>
+나는 여기까지다…
+<SYNC Start=1079090><P Class=KRCC>&nbsp;
+<SYNC Start=1082337><P Class=KRCC>
+빚은 갚았어
+<SYNC Start=1084002><P Class=KRCC>&nbsp;
+<SYNC Start=1087251><P Class=KRCC>
+우주인씨!
+<SYNC Start=1088967><P Class=KRCC>&nbsp;
+<SYNC Start=1090501><P Class=KRCC>
+저 둘, 얼음 가지러 갔었구나
+<SYNC Start=1093438><P Class=KRCC>&nbsp;
+<SYNC Start=1093681><P Class=KRCC>
+이제 필요 없겠네요
+<SYNC Start=1095671><P Class=KRCC>&nbsp;
+<SYNC Start=1102114><P Class=KRCC>
+해냈어!
+<SYNC Start=1103765><P Class=KRCC>&nbsp;
+<SYNC Start=1103789><P Class=KRCC>
+어, 뭐야 이거…
+<SYNC Start=1105529><P Class=KRCC>&nbsp;
+<SYNC Start=1105687><P Class=KRCC>
+설마 나에게?
+<SYNC Start=1107268><P Class=KRCC>&nbsp;
+<SYNC Start=1107478><P Class=KRCC>
+응 / 정말!
+<SYNC Start=1109621><P Class=KRCC>&nbsp;
+<SYNC Start=1110157><P Class=KRCC>
+성운을 그려 본 거다
+<SYNC Start=1112527><P Class=KRCC>&nbsp;
+<SYNC Start=1113052><P Class=KRCC>
+이걸 눈이라고 한다면<br>
+그림 안의 눈은 영원히 내릴 수 있어
+<SYNC Start=1118158><P Class=KRCC>&nbsp;
+<SYNC Start=1119406><P Class=KRCC>
+아하하하… 고마워…
+<SYNC Start=1122628><P Class=KRCC>&nbsp;
+<SYNC Start=1123055><P Class=KRCC>
+오오! 특종이야<br>
+파이 체크!
+<SYNC Start=1126270><P Class=KRCC>&nbsp;
+<SYNC Start=1126794><P Class=KRCC>
+하하하, 이건 우리 회사의<br>
+최고급품 무지개색 페렛…
+<SYNC Start=1130211><P Class=KRCC>
+고마워
+<SYNC Start=1131387><P Class=KRCC>
+받아 두마
+<SYNC Start=1132593><P Class=KRCC>&nbsp;
+<SYNC Start=1139096><P Class=KRCC>
+무언가 다른 용무 있나
+<SYNC Start=1140384><P Class=KRCC>
+에… 아니 별로
+<SYNC Start=1142369><P Class=KRCC>&nbsp;
+<SYNC Start=1142495><P Class=KRCC>
+그럼… / 그래
+<SYNC Start=1143888><P Class=KRCC>&nbsp;
+<SYNC Start=1145768><P Class=KRCC>
+하아 / 아슬아슬 체크! / 울컥!
+<SYNC Start=1149271><P Class=KRCC>&nbsp;
+<SYNC Start=1152911><P Class=KRCC>
+자, 메리 크리스마스
+<SYNC Start=1154737><P Class=KRCC>&nbsp;
+<SYNC Start=1156195><P Class=KRCC>
+사랑해! 바넷
+<SYNC Start=1158129><P Class=KRCC>&nbsp;
+<SYNC Start=1159116><P Class=KRCC>
+쥬라가 주는 선물은 이거야<br>
+/ 에에, 이것뿐이야?
+<SYNC Start=1164289><P Class=KRCC>&nbsp;
+<SYNC Start=1167119><P Class=KRCC>
+아니, 모두 선물이 남아 있어
+<SYNC Start=1170292><P Class=KRCC>&nbsp;
+<SYNC Start=1170396><P Class=KRCC>
+두목님, 이제 장난감가지고는<br>
+여자아이들에게 인기가 없네요
+<SYNC Start=1175003><P Class=KRCC>&nbsp;
+<SYNC Start=1175513><P Class=KRCC>
+뭐야, 재미없게
+<SYNC Start=1177991><P Class=KRCC>&nbsp;
+<SYNC Start=1179780><P Class=KRCC>
+아니, 꼬마애야, 어떻게 된 거야
+<SYNC Start=1182805><P Class=KRCC>&nbsp;
+<SYNC Start=1184692><P Class=KRCC>
+아무것도 아닙니다
+<SYNC Start=1187165><P Class=KRCC>&nbsp;
+<SYNC Start=1187868><P Class=KRCC>
+우주인씨! 우주인씨!<br>
+우주인씨!
+<SYNC Start=1191497><P Class=KRCC>&nbsp;
+<SYNC Start=1192311><P Class=KRCC>
+자, 이거! 사실은 12시<br>
+딱 맞춰서 주고 싶었는데
+<SYNC Start=1196523><P Class=KRCC>&nbsp;
+<SYNC Start=1196708><P Class=KRCC>
+자 / 응?
+<SYNC Start=1198447><P Class=KRCC>&nbsp;
+<SYNC Start=1198569><P Class=KRCC>
+거의 다 녹아 버렸지만 말야
+<SYNC Start=1200459><P Class=KRCC>&nbsp;
+<SYNC Start=1209202><P Class=KRCC>
+기뻐!
+<SYNC Start=1210605><P Class=KRCC>&nbsp;
+<SYNC Start=1211646><P Class=KRCC>
+우주인씨!
+<SYNC Start=1212972><P Class=KRCC>&nbsp;
+<SYNC Start=1217696><P Class=KRCC>
+고마워
+<SYNC Start=1218982><P Class=KRCC>&nbsp;
+<SYNC Start=1225115><P Class=KRCC>
+이러언!!!!
+<SYNC Start=1227935><P Class=KRCC>&nbsp;
+<SYNC Start=1229449><P Class=KRCC>
+정말…
+<SYNC Start=1231223><P Class=KRCC>&nbsp;
+<SYNC Start=1232086><P Class=KRCC>
+자고 있는 동안 먹을 것을<br>
+다 놓쳐버리고 말았잖아
+<SYNC Start=1235401><P Class=KRCC>&nbsp;
+<SYNC Start=1239464><P Class=KRCC>
+봐 줄까
+<SYNC Start=1240860><P Class=KRCC>&nbsp;
+<SYNC Start=1241340><P Class=KRCC>
+메리 크리스마스! 메리 크리스마스!<br>
+메리 크리스마스!
+<SYNC Start=1245082><P Class=KRCC>&nbsp;
+<SYNC Start=1246968><P Class=KRCC>
+산타 우주인!
+<SYNC Start=1248753><P Class=KRCC>&nbsp;
+<SYNC Start=1251682><P Class=KRCC>
+뭐야, 바보녀석
+<SYNC Start=1253746><P Class=KRCC>&nbsp;
+<SYNC Start=1258504><P Class=KRCC>
+올해도 또 살아남았구나 / 네
+<SYNC Start=1261962><P Class=KRCC>&nbsp;
+<SYNC Start=1262271><P Class=KRCC>
+여러가지 일은 많았지만<br>
+결과로선 다 잘 되었으니까 말야
+<SYNC Start=1264773><P Class=KRCC>
+메제르에 있었다면 보지도 못했겠지
+<SYNC Start=1268562><P Class=KRCC>&nbsp;
+<SYNC Start=1269271><P Class=KRCC>
+자 보라고
+<SYNC Start=1271067><P Class=KRCC>&nbsp;
+<SYNC Start=1271975><P Class=KRCC>
+아름답지?
+<SYNC Start=1273953><P Class=KRCC>&nbsp;
+<SYNC Start=1274574><P Class=KRCC>
+마치 우주의 크리스마스 트리같잖아
+<SYNC Start=1278062><P Class=KRCC>&nbsp;
+<SYNC Start=1290968><P Class=KRCC>&nbsp;
+<SYNC Start=1291929><P Class=KRCC>
+<font color=c0ffff>ねえ 氣づいてあえたでしょう</font><br>
+그렇죠, 알아 주신 거죠
+<SYNC Start=1297483><P Class=KRCC>
+<font color=c0ffff>本當に欲しがっていた言葉</font><br>
+정말 해 주었으면 했던 말
+<SYNC Start=1302949><P Class=KRCC>
+<font color=c0ffff>遠い未來を語った橫顔</font><br>
+머나먼 미래를 말하던 옆얼굴
+<SYNC Start=1307723><P Class=KRCC>
+<font color=c0ffff>亂れたエルショニヤ 夢の奧チャット</font><br>
+흐트러진 엘쇼냐, 꿈속 깊은 챠트
+<SYNC Start=1315009><P Class=KRCC>
+<font color=c0ffff>つながれた夢らこの體ごと</font><br>
+이어졌던 꿈들, 이 몸 전부를
+<SYNC Start=1321884><P Class=KRCC>&nbsp;
+<SYNC Start=1321978><P Class=KRCC>
+<font color=c0ffff>愛という名のピストルが</font><br>
+사랑이라는 이름의 피스톨이
+<SYNC Start=1327821><P Class=KRCC>&nbsp;
+<SYNC Start=1327864><P Class=KRCC>
+<font color=c0ffff>胸のままじゃ怖じ拔くの</font><br>
+가슴에 들어 있는 채로는 두려워요
+<SYNC Start=1333686><P Class=KRCC>&nbsp;
+<SYNC Start=1333760><P Class=KRCC>
+<font color=c0ffff>互いに切られた乘車券もって</font><br>
+서로 떨어진 승차권을 가져 봤자
+<SYNC Start=1339203><P Class=KRCC>&nbsp;
+<SYNC Start=1339212><P Class=KRCC>
+<font color=c0ffff>なんか繪にものじゃない</font><br>
+소용없을 뿐이잖아요
+<SYNC Start=1345336><P Class=KRCC>&nbsp;
+<SYNC Start=1345448><P Class=KRCC>
+<font color=c0ffff>愛という悲喜が手を引いて</font><br>
+사랑이라는 희비가 손을 거두고
+<SYNC Start=1351338><P Class=KRCC>
+<font color=c0ffff>光華どころ怖じ拔いて</font><br>
+빛이 비쳐오기는커녕 겁만 들어요
+<SYNC Start=1357207><P Class=KRCC>
+<font color=c0ffff>指のさきまたあなたの愛を</font><br>
+손가락 끝에 가리켜진 곳, 당신의 사랑을
+<SYNC Start=1366018><P Class=KRCC>&nbsp;
+<SYNC Start=1366353><P Class=KRCC>
+<font color=c0ffff>もらえちゃうと</font><br>
+'받아버려야지'하고
+<SYNC Start=1372342><P Class=KRCC>&nbsp;
+</BODY>
+</SAMI>

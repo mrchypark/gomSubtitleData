@@ -1,0 +1,883 @@
+<SAMI>
+<HEAD>
+<Title>Caption Creator</Title>
+<STYLE TYPE="text/css">
+<!--
+P {margin-left:8pt; margin-right:8pt; margin-bottom:2pt; margin-top:2pt;
+  text-align:center; font-size:20pt; font-family:arial, sans-serif;
+  font-weight:normal; color:White;}
+.KRCC {Name:한국어; lang:kr-KR; SAMIType:CC;}
+#STDPrn {Name:보통글씨;}
+#LargePrn {Name:큰글씨;}
+#SmallPrn {Name:작은글씨;}
+-->
+</STYLE>
+</HEAD>
+<BODY>
+
+<SYNC Start=17282><P Class=KRCC>
+<font color="#CC9AFF">またたくりゅうせいねがいをたくして</font><br>반짝이는 유성에 소원을 걸고
+<SYNC Start=23822><P Class=KRCC>
+<font color="#CC9AFF">3度(さんど)つぶやいた 幼(おさな)い思(おも)い出(で)</font><br>삼세번 빌어 보았던 어렸을적 추억.
+<SYNC Start=30689><P Class=KRCC>
+<font color="#CC9AFF">おどき話(ばなし)さと 冷(さめ)た瞳(まなざし)で</font><br>허황된 얘기라고 냉담하게
+<SYNC Start=37092><P Class=KRCC>
+<font color="#CC9AFF">あきらめていたら 一生(いっしょう)つかめない</font><br>포기해 버린다면 평생 가도 꿈을 이룰 수 없어.
+<SYNC Start=43706><P Class=KRCC>
+<font color="#CC9AFF">Get back
+<SYNC Start=44986><P Class=KRCC>
+<font color="#CC9AFF">もう一度(いちど) 心(こころ)の奧(おく)で眠(ねむ)ってる</font><br>다시한번 마음 깊숙이에 잠들어 있는
+<SYNC Start=49846><P Class=KRCC>
+<font color="#CC9AFF">あの日(ひ)の 願(おも)いを 時空(そら)に解(と)き放(はな)て</font><br>그 옛날의 바램들을 저 하늘속에 풀어 놓아보자
+<SYNC Start=56913><P Class=KRCC>
+<font color="#CC9AFF">☆ めちゃくちゃにがむしゃらに 空(から)っぽに</font><br>되는대로 아무 생각없이
+<SYNC Start=60189><P Class=KRCC>
+<font color="#CC9AFF">步(ある)いたその先(さき)に</font><br>나아가는 그 앞에
+<SYNC Start=63656><P Class=KRCC>
+<font color="#CC9AFF">透明(とうめい)な道標(みちしるべ)浮(うか)ぶよ</font><br>투명한 이정표가 떠오를거야
+<SYNC Start=66734><P Class=KRCC>
+<font color="#CC9AFF">君(きみ)だけの 心(こころ)に</font><br>오직 너만의 마음속에.
+<SYNC Start=70194><P Class=KRCC>
+<font color="#CC9AFF">限界(げんかい)の向(むこ)うは無限大(むげんだい)</font><br>한계의 그 너머는 무한대야
+<SYNC Start=73869><P Class=KRCC>
+<font color="#CC9AFF">繰(く)り返(か)えす傳說(でんせつ)</font><br>반복되는 전설을
+<SYNC Start=77001><P Class=KRCC>
+<font color="#CC9AFF">越(こ)えて行(ゆ)こう 塗(ぬ)り變(か)えて行(ゆ)こう</font><br>뛰어 넘어가자 새로이 색칠해 나가자
+<SYNC Start=80136><P Class=KRCC>
+<font color="#CC9AFF">Do your best for your sake anytime</font>
+<SYNC Start=85209><P Class=KRCC>
+&nbsp;
+<SYNC Start=96598><P Class=KRCC>
+메인 컨트롤 최종 동작 개시!
+<SYNC Start=99627><P Class=KRCC>
+마이크로 챔버내  질량 증가 확인! 
+<SYNC Start=102433><P Class=KRCC>
+임계까지 프로세스 3....<br>프로세스 2뉴틀리 방출량 증가중...  
+<SYNC Start=108305><P Class=KRCC>
+중력파 발생!<br>스케일 5  스케일 5에서 35 증가중!  
+<SYNC Start=114174><P Class=KRCC>
+마이크로 챔버내<br>질량  챈드라세칼  ! 
+<SYNC Start=117306><P Class=KRCC>
+보더에 도달했습니다
+<SYNC Start=119036><P Class=KRCC>
+&nbsp;
+<SYNC Start=119983><P Class=KRCC>
+성공이다!
+<SYNC Start=121121><P Class=KRCC>
+&nbsp;
+<SYNC Start=121717><P Class=KRCC>
+성공이다...<br>지금 상태로, 계속 출력을 유지하게! 
+<SYNC Start=124986><P Class=KRCC>
+&nbsp;
+<SYNC Start=126095><P Class=KRCC>
+이제  기존의 엔진 과학기술에 의존하지 않고 
+<SYNC Start=128886><P Class=KRCC>
+인류 최로로<br>자동 항행를 실현한 것입니다! 
+<SYNC Start=132265><P Class=KRCC>
+광속을 초월해서  은하를 뛰어다니다...! 
+<SYNC Start=135192><P Class=KRCC>
+드디어 우리는<br>로스트십의 과학기술을 추격한 것이네! 
+<SYNC Start=138940><P Class=KRCC>
+&nbsp;
+<SYNC Start=140826><P Class=KRCC>
+경보!  리리엔탈  마이크로 챔버,<br>질량 증가 
+<SYNC Start=145078><P Class=KRCC>
+규정치를 돌파  급속히 증가중!<br>긴급 정지!  다음 단계, 실패했습니다 
+<SYNC Start=150313><P Class=KRCC>
+리리엔탈 컴퓨터가 응답하지 않습니다! 
+<SYNC Start=152980><P Class=KRCC>
+이쪽에서는 제어할 수 없습니다 
+<SYNC Start=154685><P Class=KRCC>
+어떻게 된거냐? 
+<SYNC Start=156300><P Class=KRCC>
+&nbsp;
+<SYNC Start=162219><P Class=KRCC>
+리리엔탈  자동 항행으로 들어가고 있습니다! 
+<SYNC Start=164820><P Class=KRCC>
+재생 현위치 예측 불가! 
+<SYNC Start=166215><P Class=KRCC>
+&nbsp;
+<SYNC Start=167157><P Class=KRCC>
+페이즈 드라이버의 폭주인가
+<SYNC Start=169502><P Class=KRCC>
+&nbsp;
+<SYNC Start=175692><P Class=KRCC>
+여신날다
+<SYNC Start=180844><P Class=KRCC>
+&nbsp;
+<SYNC Start=189312><P Class=KRCC>
+이건가?!  조금 비싼 것 같은데요?! 
+<SYNC Start=192589><P Class=KRCC>
+&nbsp;
+<SYNC Start=193189><P Class=KRCC>
+아저씨!  이거,<br>정말 보증서랑 기능이 똑같은가요?
+<SYNC Start=196158><P Class=KRCC>
+이봐 이봐!<br>내가 지금까지 불량품을 판적이있어?
+<SYNC Start=199936><P Class=KRCC>
+지금 산다면<br>절대로 손해는 안봐! 
+<SYNC Start=202389><P Class=KRCC>
+글쎄요...
+<SYNC Start=203153><P Class=KRCC>
+&nbsp;
+<SYNC Start=204895><P Class=KRCC>
+좋아!  사겠어요!
+<SYNC Start=206132><P Class=KRCC>
+탁월한 선택! 
+<SYNC Start=206840><P Class=KRCC>
+&nbsp;
+<SYNC Start=207560><P Class=KRCC>
+그러니까  실탄은 덤으로 주셔야 돼요! 네? 
+<SYNC Start=211129><P Class=KRCC>
+이봐!  나도 땅파서 장사하는거 아냐?!<br>처자식도 먹여 살려야잖아! 안 그래? 
+<SYNC Start=213335><P Class=KRCC>
+단골한텐 그 정돈 해줘야죠!<br>정 그렇다면 무기상인 바꿀까나
+<SYNC Start=217814><P Class=KRCC>
+아, 알았어, 알았다구!<br>쓰는 김에! 그럼 미사일을 서비스 해줄게! 
+<SYNC Start=222006><P Class=KRCC>
+성공이다! 그래서 아저씨가 좋다니까요!<br>좋아요, 좋아! 
+<SYNC Start=225478><P Class=KRCC>
+&nbsp;
+<SYNC Start=236185><P Class=KRCC>
+암만 봐도 멋있어! 
+<SYNC Start=238627><P Class=KRCC>
+역시 난, 값을 깎는덴 천재야! 
+<SYNC Start=241254><P Class=KRCC>
+그럼<br>사랑스런 파트너한테 가져달라고 할까나? 
+<SYNC Start=244392><P Class=KRCC>
+&nbsp;
+<SYNC Start=256151><P Class=KRCC>
+뭐냐?  케인?!<br>오늘도 또 힘빠지게 캐널 심부름이냐? 
+<SYNC Start=259307><P Class=KRCC>
+&nbsp;
+<SYNC Start=260007><P Class=KRCC>
+정말이야!<br>해결사는 뭐든지 잘한다니까! 
+<SYNC Start=262319><P Class=KRCC>
+&nbsp;
+<SYNC Start=262911><P Class=KRCC>
+그만들 해요!<br>너 말야! 캐널! 
+<SYNC Start=265120><P Class=KRCC>
+크레인 값을 아끼려고 나를 쓰다니,<br>너무하는거 아냐? 
+<SYNC Start=267652><P Class=KRCC>
+그치만 예산이 너무 많이 초과됐다구!<br>젖먹던 기운까지 팍팍 끌어내!
+<SYNC Start=271587><P Class=KRCC>
+&nbsp;
+<SYNC Start=273789><P Class=KRCC>
+뭐라구요?!<br>우주 제일의 여자 요리사를 자른단 말씀이세요? 
+<SYNC Start=277724><P Class=KRCC>
+&nbsp;
+<SYNC Start=278827><P Class=KRCC>
+저를 계속 채용하고 있으면<br>틀림없이 우주 제일의 가게가 될 수 있다구요! 
+<SYNC Start=282635><P Class=KRCC>
+그 전에 말이야!<br>네가 부숴버린 주방의 수리비가  
+<SYNC Start=286998><P Class=KRCC>
+우주 제일이 되고 말겠어! 
+<SYNC Start=290341><P Class=KRCC>
+나원참! 한심한 우주정거장이군!<br>제대로 된 사람이 없다니까! 흥!
+<SYNC Start=294737><P Class=KRCC>
+밀리!  
+<SYNC Start=296403><P Class=KRCC>
+&nbsp;
+<SYNC Start=298517><P Class=KRCC>
+아! 오랜만이야!  
+<SYNC Start=299838><P Class=KRCC>
+너 지금 뭐하고 있는거야?  이런 데서?!  
+<SYNC Start=303048><P Class=KRCC>
+너희들! 
+<SYNC Start=304359><P Class=KRCC>
+&nbsp;
+<SYNC Start=306417><P Class=KRCC>
+짤린거야?  탐정사무실에서?  
+<SYNC Start=308881><P Class=KRCC>
+그래!  
+<SYNC Start=310021><P Class=KRCC>
+그래서, 요리사 아르바이트라! 
+<SYNC Start=311624><P Class=KRCC>
+그래!  
+<SYNC Start=312590><P Class=KRCC>
+케인을 찾으려고?!  
+<SYNC Start=313925><P Class=KRCC>
+이거 쑥스럽구먼!  
+<SYNC Start=315730><P Class=KRCC>
+아니야!
+<SYNC Start=318605><P Class=KRCC>
+듀골 커넥션을 쑥밭으로 만든 사람은 도망쳤지 
+<SYNC Start=321361><P Class=KRCC>
+남아있던 듀골 커넥션의 일당이라는<br>의심을 받고 감옥에 갇혔지!  
+<SYNC Start=325370><P Class=KRCC>
+그 덕분에 탐정사무실에서는 쫓겨났지! 
+<SYNC Start=327738><P Class=KRCC>
+거참 애도의 뜻을 표합니다! 
+<SYNC Start=330170><P Class=KRCC>
+엎친데 덮친 격, 설상가상이군! 
+<SYNC Start=332676><P Class=KRCC>
+누구 때문인데 누구~!
+<SYNC Start=334677><P Class=KRCC>
+&nbsp;
+<SYNC Start=338250><P Class=KRCC>
+또  우주 제일의 꿈이<br>또 한 걸음 멀리 달아나고 말았어! 
+<SYNC Start=341313><P Class=KRCC>
+언젠가 성공해서  우주 제일의 자서전을 써서
+<SYNC Start=343882><P Class=KRCC>
+베스트셀러로 만들겠다는 소박한 꿈이! 
+<SYNC Start=346323><P Class=KRCC>
+그것 참 안됐군!  
+<SYNC Start=348120><P Class=KRCC>
+아!  잠깐만 기다려!  
+<SYNC Start=350163><P Class=KRCC>
+&nbsp;
+<SYNC Start=351994><P Class=KRCC>
+암호 통신이 들어왔습니다!<br>단말기 지정 코듭니다!  
+<SYNC Start=355993><P Class=KRCC>
+이익, 귀찮아 죽겠네!  
+<SYNC Start=357966><P Class=KRCC>
+게다가, 이런 곳에서,<br>또 케인을 만나다니! 
+<SYNC Start=361498><P Class=KRCC>
+이 밀리는<br>우주 제일의 불행하기 짝이 없는 소녀야! 
+<SYNC Start=365603><P Class=KRCC>
+&nbsp;
+<SYNC Start=376079><P Class=KRCC>
+아니?!<br>어디 가?! 
+<SYNC Start=376488><P Class=KRCC>
+뭐야~ 내 분노가 가라앉으려면<br>밤을 새워 하소연해야 한다구! 
+<SYNC Start=382615><P Class=KRCC>
+빨리 못와?!<br>긴급통신이었다구!  
+<SYNC Start=385756><P Class=KRCC>
+우리한테도 다,<br>나름대로 사정이라는 게 있잖아!  
+<SYNC Start=388495><P Class=KRCC>
+파일은 보내뒀어!<br>어서 보기나 하라구! 
+<SYNC Start=391121><P Class=KRCC>
+&nbsp;
+<SYNC Start=394129><P Class=KRCC>
+무인우주선의 폭주라구?  
+<SYNC Start=395899><P Class=KRCC>
+&nbsp;
+<SYNC Start=396963><P Class=KRCC>
+그거아마<br>메타 사이코로지에 의지하지않는
+<SYNC Start=399939><P Class=KRCC>
+건방진 엔진을 탑재한<br>실험용 우주선이잖아?  
+<SYNC Start=402637><P Class=KRCC>
+&nbsp;
+<SYNC Start=403169><P Class=KRCC>
+그래!<br>뭐 프로토타이프라는 거지! 
+<SYNC Start=405702><P Class=KRCC>
+&nbsp;
+<SYNC Start=406203><P Class=KRCC>
+하지만!<br>가장 중요한 컴퓨터가 고장나서 
+<SYNC Start=409274><P Class=KRCC>
+녀석은 지금<br>페이즈 드라이브으로 전환돼, 
+<SYNC Start=411173><P Class=KRCC>
+이 우주 공간에서<br>폭주를 하고 있다는 거야! 
+<SYNC Start=413448><P Class=KRCC>
+&nbsp;
+<SYNC Start=414421><P Class=KRCC>
+흐음!  원래 건방을 떠는 애들은<br>다 그렇게 된다니까! 
+<SYNC Start=418046><P Class=KRCC>
+인간의 근성 이상으로 믿을 수 있는 기술은<br>이 세상에 없는 법이지!  
+<SYNC Start=422918><P Class=KRCC>
+...라고 끈질긴 근성을 가진<br>바보가 말했습니다!  
+<SYNC Start=425991><P Class=KRCC>
+그런데..<br>그 끈질긴 근성을 가진 바보가 
+<SYNC Start=427856><P Class=KRCC>
+폭주하는 우주선을 말려줘야겠는데..
+<SYNC Start=430268><P Class=KRCC>
+그걸 왜 내가 해야 하는데?  
+<SYNC Start=432263><P Class=KRCC>
+세금으로 일하는 은하 경찰들은<br>팔짱을 끼고 구경만 하고?  
+<SYNC Start=434872><P Class=KRCC>
+&nbsp;
+<SYNC Start=435205><P Class=KRCC>
+마침 속도가 빠른 우주선들은<br>다 일하러 나갔거든!  
+<SYNC Start=437973><P Class=KRCC>
+지금은  너희들도 알다시피<br>한창 은하 해적 단속기간이잖아!  
+<SYNC Start=442810><P Class=KRCC>
+&nbsp;
+<SYNC Start=443402><P Class=KRCC>
+해결사는<br>너희 경찰들의 심부름꾼이 아니야! 
+<SYNC Start=446508><P Class=KRCC>
+&nbsp;
+<SYNC Start=446741><P Class=KRCC>
+그런데...  저, 보수는요?!  
+<SYNC Start=449082><P Class=KRCC>
+요전에 듀골 커넥션에서 벌어진 사건<br>설마 내가 아무것도 모른다고 생각하진 않겠지?
+<SYNC Start=453252><P Class=KRCC>
+&nbsp;
+<SYNC Start=454722><P Class=KRCC>
+공짜로 하라는 거군!  
+<SYNC Start=456826><P Class=KRCC>
+결국 수훈은 레일 반장님의 거고 말이야!  
+<SYNC Start=459525><P Class=KRCC>
+너희들 맘대로 처리해줘!<br>난 지금 여기서, 느긋하게 여가를 즐기는 중이거든!  
+<SYNC Start=464560><P Class=KRCC>
+그래?!
+<SYNC Start=465493><P Class=KRCC>
+우리 항로관제부의 예측에 따르면 
+<SYNC Start=468298><P Class=KRCC>
+리리엔탈의 출현 예측 지점은<br>네가 있는 우주정거장, 바로 옆이던데 
+<SYNC Start=473105><P Class=KRCC>
+&nbsp;
+<SYNC Start=474103><P Class=KRCC>
+그럼 여기가  충돌 코스? 
+<SYNC Start=477199><P Class=KRCC>
+남은 시간은 앞으로 한시간!<br>느긋하게 쉴 수 있으면 좋겠는데 그래?!  
+<SYNC Start=481111><P Class=KRCC>
+치사하다!
+<SYNC Start=483062><P Class=KRCC>
+레일 반장님!  차를 가져왔는데요!  
+<SYNC Start=486642><P Class=KRCC>
+고마워!  니나!
+<SYNC Start=489183><P Class=KRCC>
+드세요!
+<SYNC Start=489712><P Class=KRCC>
+&nbsp;
+<SYNC Start=493618><P Class=KRCC>
+쪼금 뜨겁군!  
+<SYNC Start=495519><P Class=KRCC>
+아아, 이걸 어쩌지?!  정말 죄송해요!  
+<SYNC Start=498330><P Class=KRCC>
+&nbsp;
+<SYNC Start=498720><P Class=KRCC>
+캐널!  소드 브레이커 긴급 발진!  
+<SYNC Start=501388><P Class=KRCC>
+예!  
+<SYNC Start=501725><P Class=KRCC>
+&nbsp;
+<SYNC Start=502990><P Class=KRCC>
+내 얘긴 아직, 끝나지 않았다구!  
+<SYNC Start=505429><P Class=KRCC>
+밀리?!  
+<SYNC Start=506440><P Class=KRCC>
+나를 내동댕이쳐두고<br>둘이만 도망칠 속셈이야? 
+<SYNC Start=509736><P Class=KRCC>
+저!<br>우린 지금 쪼금 바빠지려고 하니까  
+<SYNC Start=512442><P Class=KRCC>
+우주 제일의 얘기는,<br>나중에 해주지 않겠어? 
+<SYNC Start=515332><P Class=KRCC>
+그럼  이대로<br>우리 집까지 데려다주면 용서해주지! 
+<SYNC Start=519138><P Class=KRCC>
+가는 동안에,<br>얘기를 끝낼 테니까!  
+<SYNC Start=521375><P Class=KRCC>
+너 말야!<br>소드 브레이커를 택시로 착각하는 것 같은데!  
+<SYNC Start=524754><P Class=KRCC>
+캐널!  시간이 없어!<br>긴급 발진이야!  
+<SYNC Start=527220><P Class=KRCC>
+옛!  
+<SYNC Start=527751><P Class=KRCC>
+&nbsp;
+<SYNC Start=529083><P Class=KRCC>
+리리엔탈의 자동 항행 지역까지  2구역!  
+<SYNC Start=531789><P Class=KRCC>
+좋아!  속도를, 최고로!!  
+<SYNC Start=534190><P Class=KRCC>
+긴급발진이라니, 설마!<br>나를 또 휘말리게 할 생각이야?  
+<SYNC Start=538357><P Class=KRCC>
+아! 안전벨트!  안전벨트---! 
+<SYNC Start=540698><P Class=KRCC>
+&nbsp;
+<SYNC Start=545536><P Class=KRCC>
+전 시스템 정상! 
+<SYNC Start=547372><P Class=KRCC>
+소드 브레이커!  발진! 
+<SYNC Start=549299><P Class=KRCC>
+&nbsp;
+<SYNC Start=551708><P Class=KRCC>
+자동 항행 가능지역으로 들어왔습니다!  
+<SYNC Start=554736><P Class=KRCC>
+이, 엄청난 가속에도<br>충격을 느끼지 않다니! 
+<SYNC Start=557819><P Class=KRCC>
+관성중화기능이야!  
+<SYNC Start=559646><P Class=KRCC>
+방위축!  현상태를 유지!  
+<SYNC Start=561640><P Class=KRCC>
+자동 항행 시스템 작동! 
+<SYNC Start=563855><P Class=KRCC>
+시스템 작동!<br>정신 에너지!  활동 모드!  
+<SYNC Start=567317><P Class=KRCC>
+왕근정으루간다-!
+<SYNC Start=568761><P Class=KRCC>
+&nbsp;
+<SYNC Start=579299><P Class=KRCC>
+하이패스 속도로 항행중!  
+<SYNC Start=581779><P Class=KRCC>
+자동 항행 해제까지  카운트  40!  
+<SYNC Start=583996><P Class=KRCC>
+&nbsp;
+<SYNC Start=584873><P Class=KRCC>
+이 우주선은  보통 우주선이 아니야!  
+<SYNC Start=587542><P Class=KRCC>
+&nbsp;
+<SYNC Start=589017><P Class=KRCC>
+어디보자
+<SYNC Start=590610><P Class=KRCC>
+그래!
+<SYNC Start=591783><P Class=KRCC>
+완벽해!  
+<SYNC Start=592745><P Class=KRCC>
+&nbsp;
+<SYNC Start=593546><P Class=KRCC>
+지금 뭐하고 있는 거야?  
+<SYNC Start=595506><P Class=KRCC>
+폭주하는 우주선이 
+<SYNC Start=597516><P Class=KRCC>
+다시 정상공간으로 들어오게 되는<br>시간을 계산하고 있어!  
+<SYNC Start=599954><P Class=KRCC>
+&nbsp;
+<SYNC Start=601187><P Class=KRCC>
+캐널은  이 소드 브레이커의 제어 컴퓨터야  
+<SYNC Start=605155><P Class=KRCC>
+우주선을 조종하는 건 모두 캐널의 일이지  
+<SYNC Start=608258><P Class=KRCC>
+&nbsp;
+<SYNC Start=609296><P Class=KRCC>
+우아!  난 완전히<br>이상한 입체영상이라고 생각했는데,
+<SYNC Start=613100><P Class=KRCC>
+&nbsp;
+<SYNC Start=615696><P Class=KRCC>
+남의 집에 멋대로 들어온 사람이 있어서<br>왠지 지저분해졌네! 
+<SYNC Start=620433><P Class=KRCC>
+뭐라구?!  
+<SYNC Start=621624><P Class=KRCC>
+&nbsp;
+<SYNC Start=625311><P Class=KRCC>
+어디?  어디?<br>아무것도 없잖아! 
+<SYNC Start=628184><P Class=KRCC>
+계산한대로  딱맞을 거야!  
+<SYNC Start=629914><P Class=KRCC>
+앞으로 5분만 있으면<br>정상 공간으로 들어올 거야!  
+<SYNC Start=631976><P Class=KRCC>
+&nbsp;
+<SYNC Start=633448><P Class=KRCC>
+경보!  중력파! 탐지! 
+<SYNC Start=636005><P Class=KRCC>
+&nbsp;
+<SYNC Start=649660><P Class=KRCC>
+뭐가 계산한 대로야! 
+<SYNC Start=651332><P Class=KRCC>
+누구 누구의 몸무게가,<br>예상한 것보다 조끔 무거워서안맞은 것 같은데!  
+<SYNC Start=655229><P Class=KRCC>
+머라고!
+<SYNC Start=656529><P Class=KRCC>
+생각한 것보다 어려운 작업이 될 것 같군!
+<SYNC Start=658516><P Class=KRCC>
+쫓아가자!
+<SYNC Start=660856><P Class=KRCC>
+&nbsp;
+<SYNC Start=663671><P Class=KRCC>
+이번이 2번째네여<br>이번에두 이허접한자막으루 봐주셔서감사함다(__)
+<SYNC Start=667413><P Class=KRCC>
+&nbsp;
+<SYNC Start=669415><P Class=KRCC>
+리리엔탈과의 상대속도 제로!<br>속도를 올리면서 통상 공간을 직진중!  
+<SYNC Start=674230><P Class=KRCC>
+중력파는 검출되지 않습니다!  
+<SYNC Start=675940><P Class=KRCC>
+크..크다!
+<SYNC Start=678513><P Class=KRCC>
+크다고 해서 다 좋은건 아니야!<br>뭐든지 적당해야지!  
+<SYNC Start=680990><P Class=KRCC>
+하지만  이런 걸 어떻게 해서 멈추게 하지?<br>과감하게 폭발 시킬거야?  
+<SYNC Start=685461><P Class=KRCC>
+그건 안돼!  이걸 좀 봐! 
+<SYNC Start=688881><P Class=KRCC>
+중력로?<br>에너지원은 마이크로 블랙홀이구나! 
+<SYNC Start=692199><P Class=KRCC>
+말도 안돼!<br>그런게 폭발하면 어떻게 되는데?! 
+<SYNC Start=695228><P Class=KRCC>
+중력 에너지 가눈 깜짝할 사이에 해제돼서 
+<SYNC Start=697612><P Class=KRCC>
+그 충격파만으로<br>근처에 있는 혹성 하나쯤은 괴멸해 버리겟네
+<SYNC Start=700789><P Class=KRCC>
+어떡하지, 케인?  
+<SYNC Start=703071><P Class=KRCC>
+고장나서 응답하지 않는 컴퓨터를<br>부수는 수밖에 없어! 
+<SYNC Start=706334><P Class=KRCC>
+그 가속만 멈추면<br>캐널이 궤도를 바꿀 수 있으니까 말이야 
+<SYNC Start=710026><P Class=KRCC>
+그러기 위해선...<br>공기잠금장치에 구멍을 뚫고... 
+<SYNC Start=715213><P Class=KRCC>
+&nbsp;
+<SYNC Start=715417><P Class=KRCC>
+그렇담 그걸 시험해보자! 
+<SYNC Start=717212><P Class=KRCC>
+조금 전에 사들인 미사일이 있잖아! 
+<SYNC Start=719561><P Class=KRCC>
+물론 인터페이스는 급조했지만 말야! 
+<SYNC Start=721737><P Class=KRCC>
+&nbsp;
+<SYNC Start=727030><P Class=KRCC>
+목표!  조준!  긴급 발사!  !  
+<SYNC Start=732126><P Class=KRCC>
+&nbsp;
+<SYNC Start=734266><P Class=KRCC>
+이봐!<br>자칫 잘못해서 이상한 데에 맞아
+<SYNC Start=736455><P Class=KRCC>
+엄청난 불꽃이 일어나면 어떡하려 그래?  
+<SYNC Start=739087><P Class=KRCC>
+하지만  추적기능이 엉성해서 그래!<br>아아! 
+<SYNC Start=742052><P Class=KRCC>
+이럴 줄 알았으면 가격을 안깎는건데!    
+<SYNC Start=745643><P Class=KRCC>
+잠깐만 실례! 
+<SYNC Start=747376><P Class=KRCC>
+&nbsp;
+<SYNC Start=753994><P Class=KRCC>
+추적기능이 엉성하다면  
+<SYNC Start=755690><P Class=KRCC>
+추적을끊고 목표를 쏘면 되잖아!
+<SYNC Start=758082><P Class=KRCC>
+어때?
+<SYNC Start=759238><P Class=KRCC>
+과연!  우주 제일이야!  밀리!  
+<SYNC Start=764092><P Class=KRCC>
+정말  우주 제일로 속이기 쉬워
+<SYNC Start=766856><P Class=KRCC>
+그것참 고맙네
+<SYNC Start=769590><P Class=KRCC>
+&nbsp;
+<SYNC Start=809117><P Class=KRCC>
+케인!  들려?! 
+<SYNC Start=810558><P Class=KRCC>
+그 통로를 똑바로 가면<br>종점은 메인 브릿지야
+<SYNC Start=813627><P Class=KRCC>
+&nbsp;
+<SYNC Start=815985><P Class=KRCC>
+알기 쉽게 말해줘서, 정말 고맙군 
+<SYNC Start=818844><P Class=KRCC>
+&nbsp;
+<SYNC Start=838633><P Class=KRCC>
+경보!  
+<SYNC Start=839978><P Class=KRCC>
+케인!<br>리리엔탈 뒷부분에서 고 에너지 발생!  
+<SYNC Start=843051><P Class=KRCC>
+분사할 생각이야! 
+<SYNC Start=844131><P Class=KRCC>
+&nbsp;
+<SYNC Start=852781><P Class=KRCC>
+또 스피스업?!  
+<SYNC Start=853690><P Class=KRCC>
+이 녀석!<br>고장난 컴퓨터 주제에 건방지긴!  
+<SYNC Start=857874><P Class=KRCC>
+소드 브레이커! 고속 기동!
+<SYNC Start=860077><P Class=KRCC>
+&nbsp;
+<SYNC Start=866060><P Class=KRCC>
+신난다!  쫓아왔다!
+<SYNC Start=868251><P Class=KRCC>
+굉장하다!  엄청난 속도에도<br>전혀 흔들림이 느껴지지 않아!!  
+<SYNC Start=873083><P Class=KRCC>
+캐, 캐널  
+<SYNC Start=874417><P Class=KRCC>
+지금 쫓아오고 있어? 
+<SYNC Start=875852><P Class=KRCC>
+케인!  상태는 어때?!  
+<SYNC Start=876399><P Class=KRCC>
+&nbsp;
+<SYNC Start=878040><P Class=KRCC>
+몸의...단련은... 게을리 하지 마라 
+<SYNC Start=883026><P Class=KRCC>
+&nbsp;
+<SYNC Start=883309><P Class=KRCC>
+여차할때를 위한 할머니 말씀<br>오늘만큼은 뼈에 사무치게 느껴져!   
+<SYNC Start=889025><P Class=KRCC>
+케인!  어서 서둘러야겠어!  이제 슬슬, 우주 정거장이랑 
+<SYNC Start=892197><P Class=KRCC>
+뜨거운 입맞춤을 할 시간이야!
+<SYNC Start=894223><P Class=KRCC>
+충돌까지 남은 시간 카운트 120!
+<SYNC Start=897126><P Class=KRCC>
+&nbsp;
+<SYNC Start=897834><P Class=KRCC>
+리리엔탈은!<br>통상 공간을 더욱 가속해서 항해 중!  
+<SYNC Start=901241><P Class=KRCC>
+동력원은 반물질 에너지야  
+<SYNC Start=903801><P Class=KRCC>
+마침 케인이 있는 주변이  반물질 탱크야  
+<SYNC Start=907549><P Class=KRCC>
+그래!  지금 눈 앞에 똑똑히 보여!  
+<SYNC Start=908969><P Class=KRCC>
+캐널!  내가 있는 위치에서<br>고장난 컴퓨터는 어느쪽에 있어? 
+<SYNC Start=915159><P Class=KRCC>
+방향과 거리를 가르쳐줘! 
+<SYNC Start=916307><P Class=KRCC>
+어떻게 하려구? 
+<SYNC Start=917954><P Class=KRCC>
+기왕 이렇게 됐으니까!
+<SYNC Start=918868><P Class=KRCC>
+미친듯이 날뛰는 말은<br>힘으로 길을 들이는 수밖엔!  
+<SYNC Start=922060><P Class=KRCC>
+설마!<br>사이 블레이드로!?
+<SYNC Start=923948><P Class=KRCC>
+무모해, 케인!<br>그 우주선의 내용물을 알고 있잖아!  
+<SYNC Start=927866><P Class=KRCC>
+실패하면 엄청난 폭발을 일으킨다구! 
+<SYNC Start=929600><P Class=KRCC>
+그러니까  거기에서라면....
+<SYNC Start=930960><P Class=KRCC>
+&nbsp;
+<SYNC Start=932092><P Class=KRCC>
+각도 35도<br>거리 2300쯤 되겠군!  
+<SYNC Start=935476><P Class=KRCC>
+고마워!<br>캐널!  
+<SYNC Start=937264><P Class=KRCC>
+천만의 말씀!  
+<SYNC Start=938729><P Class=KRCC>
+너말야~
+<SYNC Start=940296><P Class=KRCC>
+빨리 도망쳐야 돼!<br>이 우주선의 속도라면 
+<SYNC Start=943704><P Class=KRCC>
+안전권까지<br>쉽게 도망칠 수 있잖아! 
+<SYNC Start=945342><P Class=KRCC>
+안돼!  
+<SYNC Start=946602><P Class=KRCC>
+일단 수락한 의뢰는 반드시 해결한다! 
+<SYNC Start=948441><P Class=KRCC>
+그것이 트러블 콘트랙터다!
+<SYNC Start=950091><P Class=KRCC>
+&nbsp;
+<SYNC Start=952460><P Class=KRCC>
+그것이!     
+<SYNC Start=953244><P Class=KRCC>
+&nbsp;
+<SYNC Start=954196><P Class=KRCC>
+케인 블루리버다! 
+<SYNC Start=956017><P Class=KRCC>
+&nbsp;
+<SYNC Start=971014><P Class=KRCC>
+뒷일을 잘 부탁해!  
+<SYNC Start=972261><P Class=KRCC>
+뒷일을 부탁한다니!  앞으로 어떻게 하라는 거야? 
+<SYNC Start=975614><P Class=KRCC>
+이제 틀렸어! 부딪힌다--! 
+<SYNC Start=978368><P Class=KRCC>
+눈 앞에서 보이지 않으니까 실감은 나지 않지만---! 
+<SYNC Start=980939><P Class=KRCC>
+뭐, 그건 그래<br>이 정도 속도라면 보인순간 쾅이겠지만
+<SYNC Start=985993><P Class=KRCC>
+태평하게 말하지마!
+<SYNC Start=987878><P Class=KRCC>
+진정해!  
+<SYNC Start=988626><P Class=KRCC>
+&nbsp;
+<SYNC Start=1001307><P Class=KRCC>
+어떻게 할건데?!  
+<SYNC Start=1002238><P Class=KRCC>
+조용히 해!  난 지금 쬐금 바쁘니까! 
+<SYNC Start=1004283><P Class=KRCC>
+흠, 역시 수동으로 조작하는 게<br>감촉이 좋다니까! 
+<SYNC Start=1008057><P Class=KRCC>
+&nbsp;
+<SYNC Start=1011436><P Class=KRCC>
+긴급사태 발생!  긴급사태 발생!  
+<SYNC Start=1013085><P Class=KRCC>
+대형 우주선 접근중!  충돌 코스!  
+<SYNC Start=1016858><P Class=KRCC>
+&nbsp;
+<SYNC Start=1017698><P Class=KRCC>
+거주구역에 있는 여러분은 
+<SYNC Start=1018835><P Class=KRCC>
+서둘지 말고<br>조용조용하게 차분히 피난해 주십시오!  
+<SYNC Start=1021287><P Class=KRCC>
+뭐야 도데체!?
+<SYNC Start=1023555><P Class=KRCC>
+&nbsp;
+<SYNC Start=1028925><P Class=KRCC>
+간다--!  
+<SYNC Start=1032315><P Class=KRCC>
+&nbsp;
+<SYNC Start=1038174><P Class=KRCC>
+리리엔탈  궤동편차각 0.02... 0.06 
+<SYNC Start=1043004><P Class=KRCC>
+&nbsp;
+<SYNC Start=1045320><P Class=KRCC>
+0.08,  0.09  우주정거장<br>목시거리 안에 접근! 
+<SYNC Start=1050612><P Class=KRCC>
+&nbsp;
+<SYNC Start=1052340><P Class=KRCC>
+이제 다 틀렸어! 밀리는 간다-! 
+<SYNC Start=1057710><P Class=KRCC>
+&nbsp;
+<SYNC Start=1058226><P Class=KRCC>
+편차각 0.2로  충돌을 회피!  
+<SYNC Start=1060539><P Class=KRCC>
+리리엔탈은, 가속 제로로  항해중!  
+<SYNC Start=1064432><P Class=KRCC>
+굉장하다!  
+<SYNC Start=1065621><P Class=KRCC>
+이렇게 작은 우주선으로<br>저렇게 거대한 녀석의 방향을 바꾸다니...
+<SYNC Start=1069554><P Class=KRCC>
+엄청난 파워야! 
+<SYNC Start=1071300><P Class=KRCC>
+안심하기엔  조금 이를지도 모르겠는데! 
+<SYNC Start=1074060><P Class=KRCC>
+&nbsp;
+<SYNC Start=1078269><P Class=KRCC>
+부닥쳐~!
+<SYNC Start=1080864><P Class=KRCC>
+&nbsp;
+<SYNC Start=1081243><P Class=KRCC>
+리프 레일건  수동 발사 모드! 
+<SYNC Start=1083922><P Class=KRCC>
+안전 해제!  목표 조준!
+<SYNC Start=1087163><P Class=KRCC>
+&nbsp;
+<SYNC Start=1091283><P Class=KRCC>
+발사!
+<SYNC Start=1092467><P Class=KRCC>
+&nbsp;
+<SYNC Start=1111831><P Class=KRCC>
+쪼금 위험할 뻔 했었지롱! 
+<SYNC Start=1114291><P Class=KRCC>
+너 말이야
+<SYNC Start=1115790><P Class=KRCC>
+&nbsp;
+<SYNC Start=1118007><P Class=KRCC>
+그래서, 어떻할꺼야?
+<SYNC Start=1120178><P Class=KRCC>
+부탁받은 대로<br>우주선의 폭주는 처리했잖아!  
+<SYNC Start=1123369><P Class=KRCC>
+앞으로 당분간 장해물은 없으니까 
+<SYNC Start=1124816><P Class=KRCC>
+뒷처리 정도는 레일한테 맡기면 돼  
+<SYNC Start=1128539><P Class=KRCC>
+하긴 그래  어차피 공짜로 일해줬으니까!  
+<SYNC Start=1131121><P Class=KRCC>
+&nbsp;
+<SYNC Start=1133214><P Class=KRCC>
+잠깐만!  
+<SYNC Start=1135560><P Class=KRCC>
+이제 설명 좀 해주셔야겠는데!  여기 두 분!  
+<SYNC Start=1138833><P Class=KRCC>
+&nbsp;
+<SYNC Start=1139920><P Class=KRCC>
+운동성  
+<SYNC Start=1140685><P Class=KRCC>
+파워, 관성을 중화시키는 시스템에다<br>말도 안 되는 엄청난 무기
+<SYNC Start=1145248><P Class=KRCC>
+&nbsp;
+<SYNC Start=1145906><P Class=KRCC>
+뭐?  리프 레일건?!
+<SYNC Start=1148287><P Class=KRCC>
+별에다 터널을 파다니<br>강력한 것도 좋지만 한계가 있어야지! 
+<SYNC Start=1151704><P Class=KRCC>
+&nbsp;
+<SYNC Start=1153028><P Class=KRCC>
+이 소드 브레이커는<br>다름아닌  로스트 십이잖아! 
+<SYNC Start=1156615><P Class=KRCC>
+&nbsp;
+<SYNC Start=1158004><P Class=KRCC>
+그래!  로스트 십 
+<SYNC Start=1160117><P Class=KRCC>
+고대 문명의 유물로밖에<br>전해지고 있지 않는 전설의 우주선!
+<SYNC Start=1164432><P Class=KRCC>
+전설 속에서만<br>존재하는 우주선이라고 생각했는데...  
+<SYNC Start=1168016><P Class=KRCC>
+어, 어머<br>그런건 그냥소문이라구요,소문
+<SYNC Start=1173847><P Class=KRCC>
+시치미떼도 소용없어!  
+<SYNC Start=1176035><P Class=KRCC>
+이래뵈도 이 밀리님은,<br>전직이 탐정이라구!  
+<SYNC Start=1178563><P Class=KRCC>
+&nbsp;
+<SYNC Start=1181983><P Class=KRCC>
+아무에게도 말하지마!  
+<SYNC Start=1184206><P Class=KRCC>
+이 우주선은<br>분명히 로스트 십이야  
+<SYNC Start=1186992><P Class=KRCC>
+하지만  우리 할머니한테 받았을 뿐 
+<SYNC Start=1189331><P Class=KRCC>
+자세한 건, 나도 아무것도 몰라!  
+<SYNC Start=1191874><P Class=KRCC>
+&nbsp;
+<SYNC Start=1192710><P Class=KRCC>
+맞아!  정말이야!  
+<SYNC Start=1196453><P Class=KRCC>
+그나저나 어쨌든  의뢰는 무사히 완수!
+<SYNC Start=1199513><P Class=KRCC>
+기왕 여기까지 왔으니까!<br>밀리, 너희집까지 데려다주겠어!
+<SYNC Start=1202581><P Class=KRCC>
+특별 서비스야!  
+<SYNC Start=1204472><P Class=KRCC>
+그런 서비슨 필요없어! 난 앞으로 여기서 신세지기로 했으니까! 
+<SYNC Start=1209401><P Class=KRCC>
+&nbsp;
+<SYNC Start=1210495><P Class=KRCC>
+일단은,<br>해고된 책임이 너희들한테 있으니까
+<SYNC Start=1215053><P Class=KRCC>
+설마  이 우주선의 비밀을<br>알게 된 나를 내쫓아 버리지는 않겠지?
+<SYNC Start=1220105><P Class=KRCC>
+&nbsp;
+<SYNC Start=1221250><P Class=KRCC>
+그런 이유로<br>우주 제일의 파트너가 탄생했네!  
+<SYNC Start=1225148><P Class=KRCC>
+잘 부탁해!  케인  캐널!  
+<SYNC Start=1227940><P Class=KRCC>
+&nbsp;
+<SYNC Start=1230032><P Class=KRCC>
+압축 콜란데!<br>내 우주선을 더럽히지마--! 
+<SYNC Start=1236424><P Class=KRCC>
+&nbsp;
+<SYNC Start=1239940><P Class=KRCC>
+소드 브레이커...
+<SYNC Start=1242906><P Class=KRCC>
+겉모양은 많이 변했구나! 역시 그렇군! 
+<SYNC Start=1247978><P Class=KRCC>
+소드 브레이커, 그리고  
+<SYNC Start=1250826><P Class=KRCC>
+사건 해결사인 케인 블루리버라! 
+<SYNC Start=1255220><P Class=KRCC>
+드디어! 찾아냈다! 
+<SYNC Start=1255920><P Class=KRCC>
+&nbsp;
+<SYNC Start=1263977><P Class=KRCC>
+<font color="#CC9AFF">この生命(いのち)がまだ 生(う)まれて來(く)る</font><br>이 생명이 아직 태어나기 
+<SYNC Start=1269450><P Class=KRCC>
+<font color="#CC9AFF">ずっとずっと昔(むかし)に</font><br>아주 오래전에
+<SYNC Start=1273720><P Class=KRCC>
+<font color="#CC9AFF">拭(ぬぐ)えない 運命(うんめい)のバイブルが</font><br>지울 수 없는 운명의 바이블이 
+<SYNC Start=1280328><P Class=KRCC>
+<font color="#CC9AFF">定(さだ)めた明日(あした)を</font><br>정해놓은 내일을 
+<SYNC Start=1282134><P Class=KRCC>
+<font color="#CC9AFF">踏(ふ)み外(はず)す その愚(おろか)さが</font><br>어긋나가려는 그런 어리석음은
+<SYNC Start=1286601><P Class=KRCC>
+<font color="#CC9AFF">愛(いと)しい力强(ちからつよ)さ</font><br>훌륭한 강인함이야. 
+<SYNC Start=1291136><P Class=KRCC>
+<font color="#CC9AFF">生(い)きる事(こと)って</font><br>산다는 것은 
+<SYNC Start=1292516><P Class=KRCC>
+<font color="#CC9AFF">自分(じぶん)を貫(つらぬ)く わがままかもね</font><br>자신을 관철시키는 방자함일런지도 모르지 
+<SYNC Start=1299643><P Class=KRCC>
+<font color="#CC9AFF">目(め)に目(め)に映(うつ)った I wish born</font><br>내눈에 비친 소망를
+<SYNC Start=1303013><P Class=KRCC>
+<font color="#CC9AFF">夢(ゆめ) ユメ にまで見(み)てたなら</font><br>꿈속에서조차 원하고 있는데
+<SYNC Start=1307466><P Class=KRCC>
+<font color="#CC9AFF">And many many そこまでどンくらい もう</font><br>그때까지 얼마나 더
+<SYNC Start=1311220><P Class=KRCC>
+<font color="#CC9AFF">かかるのか… 狙(ねら)って</font><br>걸릴까… 덤벼 보는 거야
+<SYNC Start=1315759><P Class=KRCC>
+<font color="#CC9AFF">手(て)に手(て)にするのが Dreams come true</font><br>손안에 넣는 것이 이뤄질 수 있다면
+<SYNC Start=1320163><P Class=KRCC>
+<font color="#CC9AFF">夢(ゆめ) ユメ じゃ終(お)わらせたくない</font><br>그저 꿈으로만 끝내고 싶지 않아.
+<SYNC Start=1324510><P Class=KRCC>
+<font color="#CC9AFF">And many many まだ</font><br>아직은 
+<SYNC Start=1326629><P Class=KRCC>
+<font color="#CC9AFF">And many many 熱(あつ)いウ ィ ジョン</font><br>좀더 뜨거운 비전들을 
+<SYNC Start=1330638><P Class=KRCC>
+&nbsp;
+<SYNC Start=1331439><P Class=KRCC>
+<font color="#CC9AFF">追(お)い續(つづ)けたい</font><br>계속 쫓아가고 싶어. 
+<SYNC Start=1335145><P Class=KRCC>
+&nbsp;
+<SYNC Start=1338187><P Class=KRCC>
+증인의 호위라니 쉽지 쉬워<br>그럼그전에 아침밥을
+<SYNC Start=1341957><P Class=KRCC>
+근데 이게 뭐야? 
+<SYNC Start=1344848><P Class=KRCC>
+다음 이야기!<br>주방! 춤을 추다! 
+<SYNC Start=1347072><P Class=KRCC>
+자,<br>비지니스의 시작이다!
+
+</BODY>
+</SAMI>
+<!--
+ Caption Creator Test Version 0.1 Alpha
+ Team Ns http://user.chollian.net/~jkhda456
+              or http://www.nsweb.cjb.net
+-->

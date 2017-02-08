@@ -1,0 +1,568 @@
+<SAMI>
+<HEAD>
+<TITLE>Hanbange 3.0 - (C) Breadu Soft 2008</TITLE>
+<STYLE TYPE="text/css">
+<!--
+P { margin-left:8pt; margin-right:8pt; margin-bottom:2pt;
+    margin-top:2pt; font-size:14pt; text-align:center;
+    font-family:굴림, Arial; font-weight:normal; color:white;
+    background-color:black; }
+.KRCC { Name:한국어; lang:ko-KR; SAMIType:CC; }
+#STDPrn { Name:Standard Print; }
+#LargePrn { Name:Large Print; font-size:20pt; }
+#SmallPrn { Name:Small Print; font-size:10pt; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<SYNC Start=24493><P Class=KRCC>
+<font color=#ffff33>雨上がりの空を仰ぐたび<BR><font color=#99ffff>비가 갠 뒤의 하늘을 올려다볼때마다
+<SYNC Start=29885><P Class=KRCC>
+<font color=#ffff33>泣きむしだったころのぼくを思う<BR><font color=#99ffff>울보였단 시절의 날 떠올려
+<SYNC Start=35414><P Class=KRCC>
+<font color=#ffff33>誰かの背中をがむしゃらに追いかけた<BR><font color=#99ffff>누군가의 뒤를 무턱대고 쫓아다녔다
+<SYNC Start=42614><P Class=KRCC>&nbsp;
+<SYNC Start=43245><P Class=KRCC>
+<font color=#ffff33>つよくなりたいって<BR><font color=#99ffff>강해지고 싶다면서
+<SYNC Start=46093><P Class=KRCC>
+<font color=#ffff33>今は風に消えたありがとう<BR><font color=#99ffff>지금은 바람에 날아간 '고마워'
+<SYNC Start=51326><P Class=KRCC>
+<font color=#ffff33>僕がつよくなれているのかな<BR><font color=#99ffff>난 강해져 있는걸까
+<SYNC Start=56126><P Class=KRCC>&nbsp;
+<SYNC Start=56805><P Class=KRCC>
+<font color=#ffff33>答えはまだ出そうにないからさ<BR><font color=#99ffff>답은 아직 알 수 없는거니까
+<SYNC Start=62246><P Class=KRCC>
+<font color=#ffff33>やっぱりまだあるいていくよ<BR><font color=#99ffff>역시 아직 걸어가보자
+<SYNC Start=67246><P Class=KRCC>&nbsp;
+<SYNC Start=67973><P Class=KRCC>
+<font color=#ffff33>さあ行こう<BR><font color=#99ffff>자 가자
+<SYNC Start=69973><P Class=KRCC>&nbsp;
+<SYNC Start=70348><P Class=KRCC>
+<font color=#ffff33>たち止ることなく<BR><font color=#99ffff>멈추지말고
+<SYNC Start=73148><P Class=KRCC>&nbsp;
+<SYNC Start=73693><P Class=KRCC>
+<font color=#ffff33>流れるときに負けないように<BR><font color=#99ffff>흘러가는 시간에 지지 않도록
+<SYNC Start=78812><P Class=KRCC>
+<font color=#ffff33>何度も立ち向かいつづけよう<BR><font color=#99ffff>몇번이고  계속 맞서자
+<SYNC Start=84012><P Class=KRCC>&nbsp;
+<SYNC Start=84405><P Class=KRCC>
+<font color=#ffff33>大切なもの失くないから<BR><font color=#99ffff>소중한것을 잃고 싶지 않으니까
+<SYNC Start=89773><P Class=KRCC>
+<font color=#ffff33>僕の中に流れるこえは<BR><font color=#99ffff>내 안에 흐르는 목소리는
+<SYNC Start=94573><P Class=KRCC>&nbsp;
+<SYNC Start=95237><P Class=KRCC>
+<font color=#ffff33>ずっとずっと僕を支えてる<BR><font color=#99ffff>계속 계속 나를 지탱시켜줘
+<SYNC Start=100637><P Class=KRCC>&nbsp;
+<SYNC Start=100749><P Class=KRCC>
+<font color=#ffff33>いたずらな雨が邪魔するけど<BR><font color=#99ffff>심술궂은 비가 방해되지만
+<SYNC Start=105670><P Class=KRCC>
+<font color=#ffff33>逃げ出さないから<BR><font color=#99ffff>도망치지 않을거야
+<SYNC Start=109270><P Class=KRCC>&nbsp;
+<SYNC Start=113789><P Class=KRCC>
+<font color=#ffff33>さあ行こう<BR><font color=#99ffff>자 가자
+<SYNC Start=115789><P Class=KRCC>&nbsp;
+<SYNC Start=116205><P Class=KRCC>
+<font color=#ffff33>たち止ることなく<BR><font color=#99ffff>멈추지 말고
+<SYNC Start=119205><P Class=KRCC>&nbsp;
+<SYNC Start=119565><P Class=KRCC>
+<font color=#ffff33>流れるときに負けないように<BR><font color=#99ffff>흘러가는 시간에 지지 않도록
+<SYNC Start=124573><P Class=KRCC>
+<font color=#ffff33>何度も立ち向かいつづけよう<BR><font color=#99ffff>몇번이고 계속 맞서자
+<SYNC Start=129573><P Class=KRCC>&nbsp;
+<SYNC Start=130229><P Class=KRCC>
+<font color=#ffff33>大切なもの失くないから<BR><font color=#99ffff>소중한 것을 잃고 싶지 않으니까
+<SYNC Start=135629><P Class=KRCC>
+<font color=#ffff33>信じたその先えと<BR><font color=#99ffff>믿음 그 너머로
+<SYNC Start=139029><P Class=KRCC>&nbsp;
+<SYNC Start=162165><P Class=KRCC>
+시대는 대해적 시대
+<SYNC Start=164165><P Class=KRCC>&nbsp;
+<SYNC Start=165282><P Class=KRCC>
+전설의 해적왕
+<SYNC Start=166682><P Class=KRCC>&nbsp;
+<SYNC Start=166827><P Class=KRCC>
+골드 로져가 남긴<BR>보물인 원피스를 둘러싸고
+<SYNC Start=170454><P Class=KRCC>
+많은 해적들이 죽어간다
+<SYNC Start=172854><P Class=KRCC>&nbsp;
+<SYNC Start=174105><P Class=KRCC>
+고무고무 열매를 먹어<BR>고무인간이 된 소년
+<SYNC Start=177029><P Class=KRCC>
+몽키.D.루피도 또한
+<SYNC Start=178991><P Class=KRCC>
+해적왕을 목표로 바다로
+<SYNC Start=181391><P Class=KRCC>&nbsp;
+<SYNC Start=181813><P Class=KRCC>
+여러 모험을 극복하는<BR>루피와 그 일행들
+<SYNC Start=185837><P Class=KRCC>
+그 존재는
+<SYNC Start=186837><P Class=KRCC>&nbsp;
+<SYNC Start=187268><P Class=KRCC>
+세계 정부도<BR>무시할 수 없을 정도가 됐다
+<SYNC Start=191668><P Class=KRCC>&nbsp;
+<SYNC Start=191869><P Class=KRCC>
+두근 거리지?
+<SYNC Start=193269><P Class=KRCC>&nbsp;
+<SYNC Start=194188><P Class=KRCC>
+다음은 어떤 모험이 기다리고 있을까?
+<SYNC Start=197510><P Class=KRCC>
+일행은
+<SYNC Start=198110><P Class=KRCC>&nbsp;
+<SYNC Start=198669><P Class=KRCC>
+신세계를 목표로
+<SYNC Start=200269><P Class=KRCC>&nbsp;
+<SYNC Start=200661><P Class=KRCC>
+오늘도 그랜드 라인을 헤쳐나간다
+<SYNC Start=204061><P Class=KRCC>&nbsp;
+<SYNC Start=209605><P Class=KRCC>
+동료와 떨어진 루피는
+<SYNC Start=211805><P Class=KRCC>&nbsp;
+<SYNC Start=212085><P Class=KRCC>
+형 에이스를 탈환하기 위해
+<SYNC Start=213948><P Class=KRCC>
+해군본부로 서둘러 향한다
+<SYNC Start=216548><P Class=KRCC>&nbsp;
+<SYNC Start=218781><P Class=KRCC>
+한편 에이스의 공개처형이 눈앞으로 다가온 해군본부에는
+<SYNC Start=224077><P Class=KRCC>
+흰수염 해적단이 돌연 나타난다
+<SYNC Start=227277><P Class=KRCC>&nbsp;
+<SYNC Start=228253><P Class=KRCC>
+내 사랑하는 아들은
+<SYNC Start=230253><P Class=KRCC>&nbsp;
+<SYNC Start=231382><P Class=KRCC>
+무사하겠지
+<SYNC Start=232382><P Class=KRCC>&nbsp;
+<SYNC Start=233484><P Class=KRCC>
+아버지!
+<SYNC Start=234284><P Class=KRCC>&nbsp;
+<SYNC Start=235436><P Class=KRCC>
+드디어 전면전쟁에 돌입하였다
+<SYNC Start=238436><P Class=KRCC>&nbsp;
+<SYNC Start=239980><P Class=KRCC>
+뭐지 이 지진은
+<SYNC Start=241580><P Class=KRCC>&nbsp;
+<SYNC Start=242469><P Class=KRCC>
+왔다. 방금 녀석이 걸은 해진이 해일로 변해 온다
+<SYNC Start=247869><P Class=KRCC>&nbsp;
+<SYNC Start=251964><P Class=KRCC>
+해일이다!
+<SYNC Start=252964><P Class=KRCC>&nbsp;
+<SYNC Start=257998><P Class=KRCC>
+아이스 에이지
+<SYNC Start=259398><P Class=KRCC>&nbsp;
+<SYNC Start=269412><P Class=KRCC>
+뭐야, 하는거냐 너
+<SYNC Start=271412><P Class=KRCC>&nbsp;
+<SYNC Start=272589><P Class=KRCC>
+재보는것 뿐이다
+<SYNC Start=274189><P Class=KRCC>&nbsp;
+<SYNC Start=274860><P Class=KRCC>
+가까이 보이는 저 남자와
+<SYNC Start=277460><P Class=KRCC>&nbsp;
+<SYNC Start=279102><P Class=KRCC>
+우리의 진정한 거리를
+<SYNC Start=281302><P Class=KRCC>&nbsp;
+<SYNC Start=291869><P Class=KRCC>
+모든걸 태워버리는 <br>대장 아카이누의 힘
+<SYNC Start=296069><P Class=KRCC>&nbsp;
+<SYNC Start=309412><P Class=KRCC>
+위험해
+<SYNC Start=310012><P Class=KRCC>&nbsp;
+<SYNC Start=310421><P Class=KRCC>
+도망쳐
+<SYNC Start=311021><P Class=KRCC>&nbsp;
+<SYNC Start=322420><P Class=KRCC>
+아버지!
+<SYNC Start=323220><P Class=KRCC>&nbsp;
+<SYNC Start=361438><P Class=KRCC>
+막았다
+<SYNC Start=362038><P Class=KRCC>&nbsp;
+<SYNC Start=362918><P Class=KRCC>
+세계 제일의 참격을
+<SYNC Start=364918><P Class=KRCC>&nbsp;
+<SYNC Start=382910><P Class=KRCC>
+저것은
+<SYNC Start=383510><P Class=KRCC>&nbsp;
+<SYNC Start=388215><P Class=KRCC>
+3번대 대장 다이이몬드 죠즈
+<SYNC Start=391215><P Class=KRCC>&nbsp;
+<SYNC Start=422623><P Class=KRCC>
+한눈팔 때가 아니잖아
+<SYNC Start=424823><P Class=KRCC>&nbsp;
+<SYNC Start=427151><P Class=KRCC>
+녀석들아 정면공격이다!
+<SYNC Start=429551><P Class=KRCC>&nbsp;
+<SYNC Start=432694><P Class=KRCC>
+응수하라!
+<SYNC Start=433694><P Class=KRCC>&nbsp;
+<SYNC Start=447774><P Class=KRCC>
+정면돌파인가
+<SYNC Start=448974><P Class=KRCC>&nbsp;
+<SYNC Start=454039><P Class=KRCC>
+응격부대
+<SYNC Start=454839><P Class=KRCC>&nbsp;
+<SYNC Start=456487><P Class=KRCC>
+적함과 돌격중인 해적들을 막아라 / 넵
+<SYNC Start=460687><P Class=KRCC>&nbsp;
+<SYNC Start=469567><P Class=KRCC>
+전포 상륙을 철저히 막아라 / 넵
+<SYNC Start=473167><P Class=KRCC>&nbsp;
+<SYNC Start=490381><P Class=KRCC>
+내 참
+<SYNC Start=490981><P Class=KRCC>&nbsp;
+<SYNC Start=494885><P Class=KRCC>
+역시 흰수염 해적단의 대장정도가 되면
+<SYNC Start=498885><P Class=KRCC>&nbsp;
+<SYNC Start=499149><P Class=KRCC>
+완전 괴물이 되버리는구만
+<SYNC Start=501749><P Class=KRCC>&nbsp;
+<SYNC Start=508109><P Class=KRCC>
+피해를 적게 내기 위해선
+<SYNC Start=510709><P Class=KRCC>&nbsp;
+<SYNC Start=512333><P Class=KRCC>
+빨리 머리를 따는 수밖에 없겠지
+<SYNC Start=515733><P Class=KRCC>&nbsp;
+<SYNC Start=531520><P Class=KRCC>
+눈부셔
+<SYNC Start=532120><P Class=KRCC>&nbsp;
+<SYNC Start=532641><P Class=KRCC>
+뭐지
+<SYNC Start=533041><P Class=KRCC>&nbsp;
+<SYNC Start=545116><P Class=KRCC>
+키.. 키자루가 왔다
+<SYNC Start=547316><P Class=KRCC>&nbsp;
+<SYNC Start=549147><P Class=KRCC>
+여덟빛깔 옥구슬
+<SYNC Start=550747><P Class=KRCC>&nbsp;
+<SYNC Start=554564><P Class=KRCC>
+어이 어이.. 눈부시잖아
+<SYNC Start=557164><P Class=KRCC>&nbsp;
+<SYNC Start=587185><P Class=KRCC>
+대장의공격을 막았다
+<SYNC Start=589185><P Class=KRCC>&nbsp;
+<SYNC Start=589545><P Class=KRCC>
+뭐지..
+<SYNC Start=590345><P Class=KRCC>&nbsp;
+<SYNC Start=592282><P Class=KRCC>
+푸른 불꽃이 타고 있어
+<SYNC Start=594682><P Class=KRCC>&nbsp;
+<SYNC Start=596583><P Class=KRCC>
+푸른불꽃?
+<SYNC Start=597583><P Class=KRCC>&nbsp;
+<SYNC Start=599938><P Class=KRCC>
+그렇게 빨리 킹을
+<SYNC Start=601738><P Class=KRCC>&nbsp;
+<SYNC Start=606817><P Class=KRCC>
+잡게 할 순 없지
+<SYNC Start=608617><P Class=KRCC>&nbsp;
+<SYNC Start=611289><P Class=KRCC>
+무섭네 흰수염 해적단
+<SYNC Start=613489><P Class=KRCC>&nbsp;
+<SYNC Start=615128><P Class=KRCC>
+뭐야 저 몸은
+<SYNC Start=616528><P Class=KRCC>&nbsp;
+<SYNC Start=619504><P Class=KRCC>
+키자루씨의 공격을 정면으로 받았는데
+<SYNC Start=622400><P Class=KRCC>
+안쓰러져
+<SYNC Start=623200><P Class=KRCC>&nbsp;
+<SYNC Start=623608><P Class=KRCC>
+역시 소문대로의 능력을
+<SYNC Start=626008><P Class=KRCC>&nbsp;
+<SYNC Start=627984><P Class=KRCC>
+자연계보다 더 희귀한
+<SYNC Start=630184><P Class=KRCC>&nbsp;
+<SYNC Start=631073><P Class=KRCC>
+동물계 환수종
+<SYNC Start=632473><P Class=KRCC>&nbsp;
+<SYNC Start=635161><P Class=KRCC>
+저거봐라 상처가 사라져간다
+<SYNC Start=637961><P Class=KRCC>&nbsp;
+<SYNC Start=643416><P Class=KRCC>
+아프다구요잉
+<SYNC Start=644616><P Class=KRCC>&nbsp;
+<SYNC Start=650801><P Class=KRCC>
+거짓말마라
+<SYNC Start=651801><P Class=KRCC>&nbsp;
+<SYNC Start=662457><P Class=KRCC>
+저게 1번대 대장
+<SYNC Start=664257><P Class=KRCC>&nbsp;
+<SYNC Start=665321><P Class=KRCC>
+어떠한 공격을 받아도 화염과 함께 재생하는
+<SYNC Start=669921><P Class=KRCC>&nbsp;
+<SYNC Start=669945><P Class=KRCC>
+불사조 마르코
+<SYNC Start=671345><P Class=KRCC>&nbsp;
+<SYNC Start=673617><P Class=KRCC>
+이런 새는 본적이 없어
+<SYNC Start=676017><P Class=KRCC>&nbsp;
+<SYNC Start=691808><P Class=KRCC>
+음? 이건 좀 아픈데
+<SYNC Start=694008><P Class=KRCC>&nbsp;
+<SYNC Start=695760><P Class=KRCC>
+거짓말 마
+<SYNC Start=696760><P Class=KRCC>&nbsp;
+<SYNC Start=715665><P Class=KRCC>
+키자루씨가 날아갔다
+<SYNC Start=717665><P Class=KRCC>&nbsp;
+<SYNC Start=729569><P Class=KRCC>
+그렇게 간단히
+<SYNC Start=730969><P Class=KRCC>&nbsp;
+<SYNC Start=732353><P Class=KRCC>
+두목을 치지는 못하겠지
+<SYNC Start=734753><P Class=KRCC>&nbsp;
+<SYNC Start=744392><P Class=KRCC>
+거인부대! 하늘도 주의해라
+<SYNC Start=747192><P Class=KRCC>&nbsp;
+<SYNC Start=748609><P Class=KRCC>
+넷
+<SYNC Start=748809><P Class=KRCC>&nbsp;
+<SYNC Start=766064><P Class=KRCC>
+큰놈이 온다
+<SYNC Start=767264><P Class=KRCC>&nbsp;
+<SYNC Start=767968><P Class=KRCC>
+다리를 노려서 쓰러뜨려라
+<SYNC Start=770568><P Class=KRCC>&nbsp;
+<SYNC Start=770976><P Class=KRCC>
+너희들 물러나라
+<SYNC Start=772576><P Class=KRCC>&nbsp;
+<SYNC Start=774487><P Class=KRCC>
+죠즈
+<SYNC Start=774887><P Class=KRCC>&nbsp;
+<SYNC Start=779664><P Class=KRCC>
+무슨 완력이
+<SYNC Start=780864><P Class=KRCC>&nbsp;
+<SYNC Start=788654><P Class=KRCC>
+일단 물러나라
+<SYNC Start=790054><P Class=KRCC>&nbsp;
+<SYNC Start=814576><P Class=KRCC>
+뭘 하려는거냐
+<SYNC Start=815976><P Class=KRCC>&nbsp;
+<SYNC Start=817448><P Class=KRCC>
+막아봐라
+<SYNC Start=818248><P Class=KRCC>&nbsp;
+<SYNC Start=823112><P Class=KRCC>
+얼음덩어리다
+<SYNC Start=824312><P Class=KRCC>&nbsp;
+<SYNC Start=825008><P Class=KRCC>
+너무 크다
+<SYNC Start=826008><P Class=KRCC>&nbsp;
+<SYNC Start=848340><P Class=KRCC>
+<SYNC Start=859940><P Class=KRCC>&nbsp;
+<SYNC Start=880732><P Class=KRCC>
+정말 저녀석들
+<SYNC Start=882132><P Class=KRCC>&nbsp;
+<SYNC Start=886893><P Class=KRCC>
+멋대로 자리를 떠나서는
+<SYNC Start=889293><P Class=KRCC>&nbsp;
+<SYNC Start=892732><P Class=KRCC>
+우리들이 모조리 나갔다간
+<SYNC Start=895332><P Class=KRCC>&nbsp;
+<SYNC Start=900494><P Class=KRCC>
+누가 여기를 지키나
+<SYNC Start=902494><P Class=KRCC>&nbsp;
+<SYNC Start=907405><P Class=KRCC>
+아카이누씨
+<SYNC Start=908405><P Class=KRCC>&nbsp;
+<SYNC Start=913589><P Class=KRCC>
+대분화!
+<SYNC Start=914389><P Class=KRCC>&nbsp;
+<SYNC Start=943459><P Class=KRCC>
+거대한 얼음덩어리가 흔적도 없이
+<SYNC Start=946859><P Class=KRCC>&nbsp;
+<SYNC Start=948145><P Class=KRCC>
+증발했다
+<SYNC Start=948945><P Class=KRCC>&nbsp;
+<SYNC Start=952762><P Class=KRCC>
+위험해
+<SYNC Start=953362><P Class=KRCC>&nbsp;
+<SYNC Start=955057><P Class=KRCC>
+피해라
+<SYNC Start=955657><P Class=KRCC>&nbsp;
+<SYNC Start=961146><P Class=KRCC>
+화산탄이다
+<SYNC Start=962146><P Class=KRCC>&nbsp;
+<SYNC Start=965218><P Class=KRCC>
+막아낼 수 없어
+<SYNC Start=966818><P Class=KRCC>&nbsp;
+<SYNC Start=988690><P Class=KRCC>
+한척이 당했다
+<SYNC Start=990090><P Class=KRCC>&nbsp;
+<SYNC Start=990610><P Class=KRCC>
+배에서 떨어져라
+<SYNC Start=992210><P Class=KRCC>&nbsp;
+<SYNC Start=1005915><P Class=KRCC>
+마치 이 세계의 종말을 보는것 같다
+<SYNC Start=1009715><P Class=KRCC>&nbsp;
+<SYNC Start=1018150><P Class=KRCC>
+화려하게 점화하다니
+<SYNC Start=1020150><P Class=KRCC>&nbsp;
+<SYNC Start=1036486><P Class=KRCC>
+탄생 케이크의 양초에나 불붙여라 마그마애송이
+<SYNC Start=1041286><P Class=KRCC>&nbsp;
+<SYNC Start=1046581><P Class=KRCC>
+화려한 장례식은 싫은가 흰수염
+<SYNC Start=1049781><P Class=KRCC>&nbsp;
+<SYNC Start=1061270><P Class=KRCC>
+남은건 세척!
+<SYNC Start=1062670><P Class=KRCC>&nbsp;
+<SYNC Start=1063582><P Class=KRCC>
+쏴라! 쏴라! 쉬지마라
+<SYNC Start=1065982><P Class=KRCC>&nbsp;
+<SYNC Start=1093575><P Class=KRCC>
+겁먹지마. 광장으로 파고들어
+<SYNC Start=1096575><P Class=KRCC>&nbsp;
+<SYNC Start=1117791><P Class=KRCC>
+대장들을 막아라!
+<SYNC Start=1119591><P Class=KRCC>&nbsp;
+<SYNC Start=1121697><P Class=KRCC>
+육지로 올려보내지마!
+<SYNC Start=1123897><P Class=KRCC>&nbsp;
+<SYNC Start=1124224><P Class=KRCC>
+모비딕을 제거하고 흰수염을 죽여!
+<SYNC Start=1127824><P Class=KRCC>&nbsp;
+<SYNC Start=1140600><P Class=KRCC>
+이게 해적
+<SYNC Start=1141600><P Class=KRCC>&nbsp;
+<SYNC Start=1143608><P Class=KRCC>
+이것이 진정한 전장
+<SYNC Start=1145608><P Class=KRCC>&nbsp;
+<SYNC Start=1149208><P Class=KRCC>
+안되겠다
+<SYNC Start=1150008><P Class=KRCC>&nbsp;
+<SYNC Start=1152288><P Class=KRCC>
+발이 떨어지질 않아
+<SYNC Start=1154288><P Class=KRCC>&nbsp;
+<SYNC Start=1158384><P Class=KRCC>
+무리야..
+<SYNC Start=1159384><P Class=KRCC>&nbsp;
+<SYNC Start=1161496><P Class=KRCC>
+이런 녀석들을 당해낼 리가 없어
+<SYNC Start=1164896><P Class=KRCC>&nbsp;
+<SYNC Start=1167024><P Class=KRCC>
+너도 그렇게 생각하지?
+<SYNC Start=1169424><P Class=KRCC>&nbsp;
+<SYNC Start=1171872><P Class=KRCC>
+여기에 있는 녀석들은 모두 괴물이야
+<SYNC Start=1175264><P Class=KRCC>
+우리같은 병아리가 나설 자리는 없어
+<SYNC Start=1178728><P Class=KRCC>
+여기서 도망치자
+<SYNC Start=1180328><P Class=KRCC>&nbsp;
+<SYNC Start=1183391><P Class=KRCC>
+그래도..
+<SYNC Start=1184391><P Class=KRCC>&nbsp;
+<SYNC Start=1184775><P Class=KRCC>
+바보냐 넌!
+<SYNC Start=1185975><P Class=KRCC>&nbsp;
+<SYNC Start=1186528><P Class=KRCC>
+지금의 우리들이 이 전장에서 싸우면
+<SYNC Start=1189576><P Class=KRCC>
+1초도 못버틸걸 알잖아
+<SYNC Start=1191976><P Class=KRCC>&nbsp;
+<SYNC Start=1194512><P Class=KRCC>
+너 대장이 되고 싶은거지!
+<SYNC Start=1197312><P Class=KRCC>&nbsp;
+<SYNC Start=1200617><P Class=KRCC>
+전 언젠가 해군의
+<SYNC Start=1202417><P Class=KRCC>&nbsp;
+<SYNC Start=1205111><P Class=KRCC>
+대..
+<SYNC Start=1205711><P Class=KRCC>&nbsp;
+<SYNC Start=1207056><P Class=KRCC>
+대장의 자리에 앉을 겁니다
+<SYNC Start=1209679><P Class=KRCC>
+나하고 싸우는거지
+<SYNC Start=1211479><P Class=KRCC>&nbsp;
+<SYNC Start=1211656><P Class=KRCC>
+그럼 그정도는 되야지
+<SYNC Start=1213664><P Class=KRCC>
+당연하다
+<SYNC Start=1214464><P Class=KRCC>&nbsp;
+<SYNC Start=1221344><P Class=KRCC>
+착각하지마
+<SYNC Start=1222344><P Class=KRCC>&nbsp;
+<SYNC Start=1223049><P Class=KRCC>
+그러니까, 그러니까라고
+<SYNC Start=1225449><P Class=KRCC>&nbsp;
+<SYNC Start=1225488><P Class=KRCC>
+나도 너도 여기서 죽을 수는 없어
+<SYNC Start=1229088><P Class=KRCC>&nbsp;
+<SYNC Start=1230761><P Class=KRCC>
+우리들이 죽을 장소는 여기가 아니야
+<SYNC Start=1234561><P Class=KRCC>&nbsp;
+<SYNC Start=1234592><P Class=KRCC>
+그래도 전 루피씨와 약속을
+<SYNC Start=1237392><P Class=KRCC>&nbsp;
+<SYNC Start=1241319><P Class=KRCC>
+이번엔 뭐야
+<SYNC Start=1242519><P Class=KRCC>&nbsp;
+<SYNC Start=1262816><P Class=KRCC>
+왔구나 왔구나
+<SYNC Start=1264216><P Class=KRCC>&nbsp;
+<SYNC Start=1303192><P Class=KRCC>
+쏴라 쏴라!
+<SYNC Start=1304392><P Class=KRCC>&nbsp;
+<SYNC Start=1309647><P Class=KRCC>
+군함의 방진을 부숴라
+<SYNC Start=1311847><P Class=KRCC>&nbsp;
+<SYNC Start=1328252><P Class=KRCC>
+에이스군
+<SYNC Start=1329052><P Class=KRCC>&nbsp;
+<SYNC Start=1333156><P Class=KRCC>
+좋아 가라! 리틀오즈Jr
+<SYNC Start=1335756><P Class=KRCC>&nbsp;
+<SYNC Start=1347020><P Class=KRCC>
+마인오즈의 자손이군
+<SYNC Start=1349020><P Class=KRCC>&nbsp;
+<SYNC Start=1349795><P Class=KRCC>
+엄청 크다! 거인족의 상식을 넘어섰어
+<SYNC Start=1353795><P Class=KRCC>&nbsp;
+<SYNC Start=1354396><P Class=KRCC>
+만내의 침입을 허용하지 마라!
+<SYNC Start=1357002><P Class=KRCC>
+녀석들의 돌파구가 된다
+<SYNC Start=1359181><P Class=KRCC>
+키시시시! 오즈의 자손?
+<SYNC Start=1361781><P Class=KRCC>&nbsp;
+<SYNC Start=1363276><P Class=KRCC>
+흰수염의 산하에 있었던건가
+<SYNC Start=1366076><P Class=KRCC>&nbsp;
+<SYNC Start=1367428><P Class=KRCC>
+갖고싶다! 저녀석의 시체가 갖고싶어!
+<SYNC Start=1371428><P Class=KRCC>&nbsp;
+<SYNC Start=1377052><P Class=KRCC>
+근질거리기 시작했다
+<SYNC Start=1379052><P Class=KRCC>&nbsp;
+<SYNC Start=1382428><P Class=KRCC>
+오즈!
+<SYNC Start=1383028><P Class=KRCC>&nbsp;
+<SYNC Start=1384739><P Class=KRCC>
+에이스군은 착해.
+<SYNC Start=1386539><P Class=KRCC>&nbsp;
+<SYNC Start=1389228><P Class=KRCC>
+절대로 죽게 내버려두지 않아
+<SYNC Start=1392228><P Class=KRCC>&nbsp;
+<SYNC Start=1399756><P Class=KRCC>
+밀짚모자 일행을 괴롭혔던 마인 오즈
+<SYNC Start=1403556><P Class=KRCC>&nbsp;
+<SYNC Start=1403596><P Class=KRCC>
+그 자손이 흰수염해적단의 에이스를 구하기위해
+<SYNC Start=1407747><P Class=KRCC>
+만내의 돌파구를 연다
+<SYNC Start=1409947><P Class=KRCC>&nbsp;
+<SYNC Start=1410148><P Class=KRCC>
+거인군단도 압도하는 그 힘에 대항해
+<SYNC Start=1413058><P Class=KRCC>
+해군이 쓰는 손이란
+<SYNC Start=1415058><P Class=KRCC>&nbsp;
+<SYNC Start=1415356><P Class=KRCC>
+다음회 원피스 
+<SYNC Start=1416356><P Class=KRCC>
+마인의 자손 <br>리틀오주 주니어 돌진!
+<SYNC Start=1419452><P Class=KRCC>
+난 해적왕이 될꺼야
+<SYNC Start=1429652><P Class=KRCC>&nbsp;
+</BODY>
+</SAMI>

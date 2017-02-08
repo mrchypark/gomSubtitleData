@@ -1,0 +1,929 @@
+<SAMI>
+<HEAD>
+<TITLE>Hanbange 3.0 - (C) Breadu Soft 2008</TITLE>
+<STYLE TYPE="text/css">
+<!--
+P { margin-left:8pt; margin-right:8pt; margin-bottom:2pt;
+    margin-top:2pt; font-size:14pt; text-align:center;
+    font-family:굴림, Arial; font-weight:normal; color:white;
+    background-color:black; }
+.KRCC { Name:한국어; lang:ko-KR; SAMIType:CC; }
+#STDPrn { Name:Standard Print; }
+#LargePrn { Name:Large Print; font-size:20pt; }
+#SmallPrn { Name:Small Print; font-size:10pt; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<SYNC Start=7373><P Class=KRCC>
+어떠냐?
+<SYNC Start=8483><P Class=KRCC>
+이걸 네가 빌린 사륜안으로<br>
+없앨 수 있겠어?
+<SYNC Start=11850><P Class=KRCC>&nbsp;
+<SYNC Start=12218><P Class=KRCC>
+진짜와 빌려쓰는 것의 차이를<br>
+확실히 보여주지!
+<SYNC Start=15665><P Class=KRCC>&nbsp;
+<SYNC Start=26301><P Class=KRCC>
+젠장!
+<SYNC Start=27482><P Class=KRCC>&nbsp;
+<SYNC Start=35175><P Class=KRCC>
+(아..앞이...!)
+<SYNC Start=37910><P Class=KRCC>&nbsp;
+<SYNC Start=42511><P Class=KRCC>
+(사쿠라, 어째서 여기에 온거야?)
+<SYNC Start=44904><P Class=KRCC>&nbsp;
+<SYNC Start=47565><P Class=KRCC>
+그만 둬!
+<SYNC Start=48532><P Class=KRCC>
+(카카시 선생님에게<br>
+무거운 짐을 지워줄 수는 없어!)
+<SYNC Start=51540><P Class=KRCC>&nbsp;
+<SYNC Start=52547><P Class=KRCC>
+<font color=gray>난 너희들과는 달라
+<SYNC Start=54954><P Class=KRCC>
+<font color=gray>너희들과는<br>
+다른 길을 가고 있어
+<SYNC Start=57387><P Class=KRCC>&nbsp;
+<SYNC Start=58289><P Class=KRCC>
+<font color=gray>넷이서 해 왔었지
+<SYNC Start=60018><P Class=KRCC>
+<font color=gray>분명, 그걸 나의 길이라고<br>
+생각했었던 적도 있었어
+<SYNC Start=63781><P Class=KRCC>&nbsp;
+<SYNC Start=64534><P Class=KRCC>
+<font color=gray>넷이서 해 왔었지만..
+<SYNC Start=66227><P Class=KRCC>
+<font color=gray>나의 마음은 결국<br>
+복수하기로 결심했어
+<SYNC Start=69450><P Class=KRCC>
+<font color=gray>난 그걸 위해서 살아온거야
+<SYNC Start=72018><P Class=KRCC>&nbsp;
+<SYNC Start=72505><P Class=KRCC>
+<font color=gray>난 너와 나루토처럼<br>
+될 수 없어
+<SYNC Start=75292><P Class=KRCC>
+<font color=gray>나, 사스케를 위해서<br>
+무엇이든지 할게!
+<SYNC Start=78598><P Class=KRCC>
+<font color=gray>그러니까 부탁이니까<br>
+여기에 있어줘!
+<SYNC Start=82419><P Class=KRCC>
+<font color=gray>복수도 도울게!
+<SYNC Start=84196><P Class=KRCC>
+<font color=gray>반드시 내가<br>
+어떻게든 해 줄테니까..
+<SYNC Start=87314><P Class=KRCC>&nbsp;
+<SYNC Start=88374><P Class=KRCC>
+<font color=gray>그러니까 여기에...<br>
+나와 함께 있어줘
+<SYNC Start=91853><P Class=KRCC>
+<font color=gray>그게 안된다면..<br>
+나도 같이 데려가 줘
+<SYNC Start=95187><P Class=KRCC>&nbsp;
+<SYNC Start=97984><P Class=KRCC>
+<font color=gray>역시 넌.. 짜증나
+<SYNC Start=101154><P Class=KRCC>&nbsp;
+<SYNC Start=103869><P Class=KRCC>
+<font color=gray>가지 마!
+<SYNC Start=105088><P Class=KRCC>
+<font color=gray>간다면, 나..<br>
+큰 소릴내서라도..
+<SYNC Start=108166><P Class=KRCC>&nbsp;
+<SYNC Start=113489><P Class=KRCC>
+<font color=gray>사쿠라...
+<SYNC Start=115609><P Class=KRCC>&nbsp;
+<SYNC Start=116666><P Class=KRCC>
+<font color=gray>고마워...
+<SYNC Start=118080><P Class=KRCC>&nbsp;
+<SYNC Start=121805><P Class=KRCC>
+사쿠라!
+<SYNC Start=123196><P Class=KRCC>&nbsp;
+<SYNC Start=127478><P Class=KRCC>
+사스케, 그만 둬!
+<SYNC Start=129294><P Class=KRCC>&nbsp;
+<SYNC Start=186534><P Class=KRCC>
+<font color=#FFE150>뉴
+<SYNC Start=186734><P Class=KRCC>
+<font color=#A8F552>웨
+<SYNC Start=186881><P Class=KRCC>
+<font color=#FF6A89>스
+<SYNC Start=187078><P Class=KRCC>
+<font color=#FFC81E>트
+<SYNC Start=187278><P Class=KRCC>
+<font color=#AA7A55>고
+<SYNC Start=187511><P Class=KRCC>
+<font color=#A841DB>독
+<SYNC Start=187711><P Class=KRCC>
+<font color=#F5D08A>저
+<SYNC Start=187895><P Class=KRCC>
+<font color=#78EAFF>격
+<SYNC Start=188102><P Class=KRCC>
+<font color=#FFE65A>뉴웨스트 ＆ 고독저격
+<SYNC Start=188670><P Class=KRCC>
+<font color=#FF0000>NEWEST ＆ Solitude Snipe
+<SYNC Start=189052><P Class=KRCC>
+<font color=#0000CD>君<font color=#2828CD>は<font color=#4646CD>い<font color=#6464CD>ま<font color=#7B68EE>淚<font color=#9986EE>流<font color=#A390EE>し<font color=#B7A4EE>た<br>
+<font color=#FFB400>당<font color=#FFBE0A>신<font color=#FFC81E>은 <font color=#FFD232>지<font color=#FFDC46>금 <font color=#FFE150>눈<font color=#FFE65A>물<font color=#FFE650>을 <font color=#FAFA96>흘<font color=#FAFAAA>렸<font color=#FAFAD2>어
+<SYNC Start=191822><P Class=KRCC>
+<font color=#00008C>泣<font color=#0000CD>き<font color=#2828CD>じ<font color=#4646CD>ゃく<font color=#6464CD>る<font color=#7878E1>子<font color=#8C8CF5>供<font color=#A0A0FF>の<font color=#B4B4FF>よ<font color=#C8C8FF>う<font color=#D2D2FF>に<br>
+<font color=#FFB400>
+흐<font color=#FFBE0A>느<font color=#FFC81E>끼<font color=#FFD232>며 <font color=#FFDC46>우<font color=#FFE150>는 <font color=#FFE65A>어<font color=#FFE650>린<font color=#FAFA96>아<font color=#FAFAAA>이<font color=#FAFAD2>처<font color=#FAFAAA>럼
+<SYNC Start=194854><P Class=KRCC>
+<font color=#00008C>た<font color=#0000CD>と<font color=#2828CD>え<font color=#4646CD>明<font color=#6464CD>日<font color=#7878E1>が<font color=#8C8CF5>見<font color=#A0A0FF>え<font color=#B4B4FF>な<font color=#C8C8FF>く<font color=#D2D2FF>な<font color=#C8C8FF>っ<font color=#B4B4FF>て<font color=#8C8CFF>も<font color=#7878FF>守<font color=#6464FF>る<font color=#5A5AFF>よ<br>
+<font color=#FFB400>비<font color=#FFBE0A>록 <font color=#FFC81E>내<font color=#FFD232>일<font color=#FFDC46>이 <font color=#FFE150>보<font color=#FFE65A>이<font color=#FFE650>지<font color=#FAFA96>않<font color=#FAFAAA>게<font color=#FAFAD2> 되<font color=#FAFAAA>더<font color=#FFF064>라<font color=#FFE146>도<font color=#FFDC3C> 지<font color=#FFC81E>킬<font color=#FFDC3C>거<font color=#FFE146>야
+<SYNC Start=200976><P Class=KRCC>
+<font color=#00008C>夏<font color=#0000CD>の<font color=#2828CD>空<font color=#4646CD>見<font color=#6464CD>上<font color=#7878E1>げ<font color=#8C8CF5>て<font color=#A0A0FF>ニ<font color=#B4B4FF>ラ<font color=#C8C8FF>ん<font color=#D2D2FF>だ<br>
+<font color=#FFB400>가<font color=#FFBE0A>만 <font color=#FFC81E>멈<font color=#FFD232>춰<font color=#FFDC46>서 <font color=#FFE150>여<font color=#FFE65A>름<font color=#FFE650>하<font color=#FAFA96>늘 <font color=#FAFAAA>올<font color=#FAFAD2>려<font color=#FAFAAA>보<font color=#FFF064>네
+<SYNC Start=204252><P Class=KRCC>
+<font color=#3232FF>h</font>ttp://cafe.naver.com/narutosmi
+<SYNC Start=204352><P Class=KRCC>
+h<font color=#3232FF>t</font>tp://cafe.naver.com/narutosmi
+<SYNC Start=204452><P Class=KRCC>
+ht<font color=#3232FF>t</font>p://cafe.naver.com/narutosmi
+<SYNC Start=204552><P Class=KRCC>
+htt<font color=#3232FF>p</font>://cafe.naver.com/narutosmi
+<SYNC Start=204652><P Class=KRCC>
+http<font color=#3232FF>:</font>//cafe.naver.com/narutosmi
+<SYNC Start=204752><P Class=KRCC>
+http:<font color=#3232FF>/</font>/cafe.naver.com/narutosmi
+<SYNC Start=204852><P Class=KRCC>
+http:/<font color=#3232FF>/</font>cafe.naver.com/narutosmi
+<SYNC Start=204952><P Class=KRCC>
+http://<font color=#3232FF>c</font>afe.naver.com/narutosmi
+<SYNC Start=205052><P Class=KRCC>
+http://c<font color=#3232FF>a</font>fe.naver.com/narutosmi
+<SYNC Start=205152><P Class=KRCC>
+http://ca<font color=#3232FF>f</font>e.naver.com/narutosmi
+<SYNC Start=205252><P Class=KRCC>
+http://caf<font color=#3232FF>e</font>.naver.com/narutosmi
+<SYNC Start=205352><P Class=KRCC>
+http://cafe<font color=#3232FF>.</font>naver.com/narutosmi
+<SYNC Start=205452><P Class=KRCC>
+http://cafe.<font color=#3232FF>n</font>aver.com/narutosmi
+<SYNC Start=205552><P Class=KRCC>
+http://cafe.n<font color=#3232FF>a</font>ver.com/narutosmi
+<SYNC Start=205652><P Class=KRCC>
+http://cafe.na<font color=#3232FF>v</font>er.com/narutosmi
+<SYNC Start=205752><P Class=KRCC>
+http://cafe.nav<font color=#3232FF>e</font>r.com/narutosmi
+<SYNC Start=205852><P Class=KRCC>
+http://cafe.nave<font color=#3232FF>r</font>.com/narutosmi
+<SYNC Start=205952><P Class=KRCC>
+http://cafe.naver<font color=#3232FF>.</font>com/narutosmi
+<SYNC Start=206052><P Class=KRCC>
+http://cafe.naver.<font color=#3232FF>c</font>om/narutosmi
+<SYNC Start=206152><P Class=KRCC>
+http://cafe.naver.c<font color=#3232FF>o</font>m/narutosmi
+<SYNC Start=206252><P Class=KRCC>
+http://cafe.naver.co<font color=#3232FF>m</font>/narutosmi
+<SYNC Start=206352><P Class=KRCC>
+http://cafe.naver.com<font color=#3232FF>/</font>narutosmi
+<SYNC Start=206452><P Class=KRCC>
+http://cafe.naver.com/<font color=#3232FF>n</font>arutosmi
+<SYNC Start=206552><P Class=KRCC>
+http://cafe.naver.com/n<font color=#3232FF>a</font>rutosmi
+<SYNC Start=206652><P Class=KRCC>
+http://cafe.naver.com/na<font color=#3232FF>r</font>utosmi
+<SYNC Start=206752><P Class=KRCC>
+http://cafe.naver.com/nar<font color=#3232FF>u</font>tosmi
+<SYNC Start=206852><P Class=KRCC>
+http://cafe.naver.com/naru<font color=#3232FF>t</font>osmi
+<SYNC Start=206952><P Class=KRCC>
+http://cafe.naver.com/narut<font color=#3232FF>o</font>smi
+<SYNC Start=207052><P Class=KRCC>
+http://cafe.naver.com/naruto<font color=#3232FF>s</font>mi
+<SYNC Start=207152><P Class=KRCC>
+http://cafe.naver.com/narutos<font color=#3232FF>m</font>i
+<SYNC Start=207252><P Class=KRCC>
+http://cafe.naver.com/narutosm<font color=#3232FF>i
+<SYNC Start=207352><P Class=KRCC>
+http://cafe.naver.com/narutosmi
+<SYNC Start=207452><P Class=KRCC>
+http://cafe.naver.com/naruto<font color=#00FFFF>smi
+<SYNC Start=207552><P Class=KRCC>
+http://cafe.naver.com/nar<font color=#C1FF6B>uto<font color=#00FFFF>smi
+<SYNC Start=207652><P Class=KRCC>
+http://cafe.naver.com/<font color=#FF6EED>nar<font color=#C1FF6B>uto<font color=#00FFFF>smi
+<SYNC Start=207752><P Class=KRCC>
+http://cafe.naver.c<font color=#FFD700>om/<font color=#FF6EED>nar<font color=#C1FF6B>uto<font color=#00FFFF>smi
+<SYNC Start=207852><P Class=KRCC>
+http://cafe.nave<font color=#AE905E>r.c<font color=#FFD700>om/<font color=#FF6EED>nar<font color=#C1FF6B>uto<font color=#00FFFF>smi
+<SYNC Start=207952><P Class=KRCC>
+http://cafe.n<font color=#C65FF9>ave<font color=#AE905E>r.c<font color=#FFD700>om/<font color=#FF6EED>nar<font color=#C1FF6B>uto<font color=#00FFFF>smi
+<SYNC Start=208052><P Class=KRCC>
+http://caf<font color=#739BE1>e.n<font color=#C65FF9>ave<font color=#AE905E>r.c<font color=#FFD700>om/<font color=#FF6EED>nar<font color=#C1FF6B>uto<font color=#00FFFF>smi
+<SYNC Start=208152><P Class=KRCC>
+http://<font color=4BAF4B>caf<font color=#739BE1>e.n<font color=#C65FF9>ave<font color=#AE905E>r.c<font color=#FFD700>om/<font color=#FF6EED>nar<font color=#C1FF6B>uto<font color=#00FFFF>smi
+<SYNC Start=208252><P Class=KRCC>
+http<font color=#B9062F>://<font color=#4BAF4B>caf<font color=#739BE1>e.n<font color=#C65FF9>ave<font color=#AE905E>r.c<font color=#FFD700>om/<font color=#FF6EED>nar<font color=#C1FF6B>uto<font color=#00FFFF>smi
+<SYNC Start=208352><P Class=KRCC>
+<font color=#FFDC3C>http<font color=#B9062F>://<font color=#4BAF4B>caf<font color=#739BE1>e.n<font color=#C65FF9>ave<font color=#AE905E>r.c<font color=#FFD700>om/<font color=#FF6EED>nar<font color=#C1FF6B>uto<font color=#00FFFF>smi
+<SYNC Start=208452><P Class=KRCC>
+<font color=#00FFFF>http<font color=#FFDC3C>://<font color=#B9062F>caf<font color=#4BAF4B>e.n<font color=#739BE1>ave<font color=#C65FF9>r.c<font color=#AE905E>om/<font color#FFD700>nar<font color=#FF6EED>uto<font color=#C1FF6B>smi
+<SYNC Start=208552><P Class=KRCC>
+<font color=#C1FF6B>http<font color=#00FFFF>://<font color=#FFDC3C>caf<font color=#B9062F>e.n<font color=#4BAF4B>ave<font color=#739BE1>r.c<font color=#C65FF9>om/<font color#AE905E>nar<font color=#FFD700>uto<font color=#FF6EED>smi
+<SYNC Start=208652><P Class=KRCC>
+<font color=#FF6EED>http<font color=#C1FF6B>://<font color=#00FFFF>caf<font color=#FFDC3C>e.n<font color=#B9062F>ave<font color=#4BAF4B>r.c<font color=#739BE1>om/<font color#C65FF9>nar<font color=#AE905E>uto<font color=#FFD700>smi
+<SYNC Start=208752><P Class=KRCC>
+<font color=#FFD700>http<font color=#FF6EED>://<font color=#C1FF6B>caf<font color=#00FFFF>e.n<font color=#FFDC3C>ave<font color=#B9062F>r.c<font color=#4BAF4B>om/<font color#739BE1>nar<font color=#C65FF9>uto<font color=#AE905E>smi
+<SYNC Start=208852><P Class=KRCC>
+<font color=#AE905E>http<font color=#FFD700>://<font color=#FF6EED>caf<font color=#C1FF6B>e.n<font color=#00FFFF>ave<font color=#FFDC3C>r.c<font color=#B9062F>om/<font color#4BAF4B>nar<font color=#739BE1>uto<font color=#C65FF9>smi
+<SYNC Start=208952><P Class=KRCC>
+<font color=#C65FF9>http<font color=#AE905E>://<font color=#FFD700>caf<font color=#FF6EED>e.n<font color=#C1FF6B>ave<font color=#00FFFF>r.c<font color=#FFDC3C>om/<font color#B9062F>nar<font color=#4BAF4B>uto<font color=#739BE1>smi
+<SYNC Start=209052><P Class=KRCC>
+<font color=#739BE1>http<font color=#C65FF9>://<font color=#AE905E>caf<font color=#FFD700>e.n<font color=#FF6EED>ave<font color=#C1FF6B>r.c<font color=#00FFFF>om/<font color#FFDC3C>nar<font color=#B9062F>uto<font color=#4BAF4B>smi
+<SYNC Start=209152><P Class=KRCC>
+<font color=#4BAF4B>http<font color=#739BE1>://<font color=#C65FF9>caf<font color=#AE905E>e.n<font color=#FFD700>ave<font color=#FF6EED>r.c<font color=#C1FF6B>om/<font color#00FFFF>nar<font color=#FFDC3C>uto<font color=#B9062F>smi
+<SYNC Start=209252><P Class=KRCC>
+<font color=#B9062F>http<font color=#4BAF4B>://<font color=#739BE1>caf<font color=#C65FF9>e.n<font color=#AE905E>ave<font color=#FFD700>r.c<font color=#FF6EED>om/<font color#C1FF6B>nar<font color=#00FFFF>uto<font color=#FFDC3C>smi
+<SYNC Start=210027><P Class=KRCC>
+<font color=#00008C>强<font color=#0000CD>が<font color=#2828CD>っ<font color=#4646CD>て<font color=#6464CD>ば<font color=#7878E1>か<font color=#8C8CF5>り<font color=#A0A0FF>で<font color=#B4B4FF> 淚<font color=#C8C8FF>は<font color=#D2D2FF>見<font color=#C8C8FF>せ<font color=#B4B4FF>な<font color=#8C8CFF>い<br>
+<font color=#FFB400>강<font color=#FFBE0A>한<font color=#FFC81E>척<font color=#FFD232>만 <font color=#FFDC46>하<font color=#FFE150>면<font color=#FFE65A>서<font color=#FFE650> 눈<font color=#FAFA96>물<font color=#FAFAAA>은 <font color=#FAFAD2>보<font color=#FAFAAA>이<font color=#FFF064>지<font color=#FFE146>않<font color=#FFDC3C>아
+<SYNC Start=216092><P Class=KRCC>
+<font color=#00008C>本<font color=#0000CD>當<font color=#2828CD>は<font color=#4646CD>怖<font color=#6464CD>い<font color=#7878E1>く<font color=#8C8CF5>せ<font color=#A0A0FF>に<br><font color=#FFB400>사<font color=#FFBE0A>실<font color=#FFC81E>은<font color=#FFD232> 겁<font color=#FFDC46>나<font color=#FFE150>면<font color=#FFE65A>서<font color=#FFE650>도
+<SYNC Start=220324><P Class=KRCC>&nbsp;
+<SYNC Start=221869><P Class=KRCC>
+<font color=#00008C>大<font color=#0000CD>切<font color=#2828CD>な<font color=#4646CD>も<font color=#6464CD>の<font color=#7878E1>を<font color=#8C8CF5>失<font color=#A0A0FF>わ<font color=#B4B4FF>ぬ<font color=#C8C8FF>よ<font color=#D2D2FF>う<font color=#C8C8FF>に<br>
+<font color=#FFB400>소<font color=#FFBE0A>중<font color=#FFC81E>한 <font color=#FFD232>것<font color=#FFDC46>을 <font color=#FFE150>잃<font color=#FFE65A>어<font color=#FFE650>버<font color=#FAFA96>리<font color=#FAFAAA>지 <font color=#FAFAD2>않<font color=#FAFAAA>도<font color=#FFF064>록
+<SYNC Start=227573><P Class=KRCC>
+<font color=#00008C>必<font color=#0000CD>死<font color=#2828CD>で<font color=#4646CD>走<font color=#6464CD>り<font color=#7878E1>ぬ<font color=#8C8CF5>け<font color=#A0A0FF>て<font color=#B4B4FF>き<font color=#C8C8FF>た<br>
+<font color=#FFB400>필<font color=#FFBE0A>사<font color=#FFC81E>적<font color=#FFD232>으<font color=#FFDC46>로 <font color=#FFE150>달<font color=#FFE65A>려<font color=#FFE650>왔<font color=#FAFA96>어
+<SYNC Start=232248><P Class=KRCC>&nbsp;
+<SYNC Start=233638><P Class=KRCC>
+<font color=#00008C>い<font color=#0000CD>つ<font color=#2828CD>だ<font color=#4646CD>っ<font color=#6464CD>て<font color=#7878E1>長<font color=#8C8CF5>い<font color=#A0A0FF>夜<font color=#B4B4FF>を<br>
+<font color=#FFB400>언<font color=#FFBE0A>제<font color=#FFC81E>나 <font color=#FFD232>기<font color=#FFDC46>나<font color=#FFE150>긴 <font color=#FFE65A>밤<font color=#FFE650>을
+<SYNC Start=236562><P Class=KRCC>
+<font color=#00008C>ふ<font color=#0000CD>た<font color=#2828CD>り<font color=#4646CD>で<font color=#6464CD>乘<font color=#7878E1>り<font color=#8C8CF5>越<font color=#A0A0FF>え<font color=#B4B4FF>た<br>
+<font color=#FFB400>둘<font color=#FFBE0A>이<font color=#FFC81E>서 <font color=#FFD232>지<font color=#FFDC46>새<font color=#FFE150>웠<font color=#FFE65A>었<font color=#FFE650>지
+<SYNC Start=239565><P Class=KRCC>
+<font color=#00008C>こ<font color=#0000CD>の<font color=#2828CD>ま<font color=#4646CD>ま<font color=#6464CD>一<font color=#7878E1>緖<font color=#8C8CF5>に<font color=#A0A0FF>い<font color=#B4B4FF>る<font color=#C8C8FF>か<font color=#D2D2FF>ら<br>
+<font color=#FFB400>지<font color=#FFBE0A>금 <font color=#FFC81E>이<font color=#FFD232>대<font color=#FFDC46>로 <font color=#FFE150>함<font color=#FFE65A>께 <font color=#FFE650>있<font color=#FAFA96>을<font color=#FAFAAA>테<font color=#FAFAD2>니
+<SYNC Start=242031><P Class=KRCC>
+<font color=#00008C>强<font color=#0000CD>が<font color=#2828CD>っ<font color=#4646CD>て<font color=#6464CD>な<font color=#7878E1>い<font color=#8C8CF5>で<font color=#A0A0FF>い<font color=#B4B4FF>い<font color=#C8C8FF>ん<font color=#D2D2FF>だ<font color=#C8C8FF>よ<br>
+<font color=#FFB400>강<font color=#FFBE0A>한 <font color=#FFC81E>척 <font color=#FFD232>하<font color=#FFDC46>지 <font color=#FFE150>않<font color=#FFE65A>아<font color=#FFE650>도 <font color=#FAFA96>괜<font color=#FAFAAA>찮<font color=#FAFAD2>아
+<SYNC Start=246419><P Class=KRCC>&nbsp;
+<SYNC Start=247671><P Class=KRCC>
+<font color=#0000CD>君<font color=#2828CD>は<font color=#4646CD>い<font color=#6464CD>ま<font color=#7B68EE>淚<font color=#9986EE>流<font color=#A390EE>し<font color=#B7A4EE>た<br>
+<font color=#FFB400>당<font color=#FFBE0A>신<font color=#FFC81E>은 <font color=#FFD232>지<font color=#FFDC46>금 <font color=#FFE150>눈<font color=#FFE65A>물<font color=#FFE650>을 <font color=#FAFA96>흘<font color=#FAFAAA>렸<font color=#FAFAD2>어
+<SYNC Start=250441><P Class=KRCC>
+<font color=#00008C>泣<font color=#0000CD>き<font color=#2828CD>じ<font color=#4646CD>ゃく<font color=#6464CD>る<font color=#7878E1>子<font color=#8C8CF5>供<font color=#A0A0FF>の<font color=#B4B4FF>よ<font color=#C8C8FF>う<font color=#D2D2FF>に<br>
+<font color=#FFB400>
+흐<font color=#FFBE0A>느<font color=#FFC81E>끼<font color=#FFD232>며 <font color=#FFDC46>우<font color=#FFE150>는 <font color=#FFE65A>어<font color=#FFE650>린<font color=#FAFA96>아<font color=#FAFAAA>이<font color=#FAFAD2>처<font color=#FAFAAA>럼
+<SYNC Start=253336><P Class=KRCC>
+<font color=#00008C>た<font color=#0000CD>と<font color=#2828CD>え<font color=#4646CD>未<font color=#6464CD>來<font color=#7878E1>が<font color=#8C8CF5>見<font color=#A0A0FF>え<font color=#B4B4FF>な<font color=#C8C8FF>く<font color=#D2D2FF>な<font color=#C8C8FF>っ<font color=#B4B4FF>て<font color=#8C8CFF>も<font color=#7878FF>進<font color=#6464FF>む<font color=#5A5AFF>よ<br>
+<font color=#FFB400>미<font color=#FFBE0A>래<font color=#FFC81E>를 <font color=#FFD232>알 <font color=#FFDC46>수 <font color=#FFE150>없<font color=#FFE65A> 게 <font color=#FFE650>될<font color=#FAFA96>지<font color=#FAFAAA>라<font color=#FAFAD2>도<font color=#FAFAAA> 나<font color=#FFF064>아<font color=#FFE146>갈<font color=#FFDC3C>거<font color=#FFC81E>야
+<SYNC Start=259635><P Class=KRCC>
+<font color=#00008C>夏<font color=#0000CD>の<font color=#2828CD>空<font color=#4646CD>見<font color=#6464CD>上<font color=#7878E1>げ<font color=#8C8CF5>て<font color=#A0A0FF>サ<font color=#B4B4FF>ケ<font color=#C8C8FF>ん<font color=#D2D2FF>だ<br>
+<font color=#FFB400>여<font color=#FFBE0A>름<font color=#FFC81E>하<font color=#FFD232>늘<font color=#FFDC46>을 <font color=#FFE150>향<font color=#FFE65A>해<font color=#FFE650>서<font color=#FAFA96> 소<font color=#FAFAAA>리<font color=#FAFAD2>치<font color=#FAFAAA>네
+<SYNC Start=265509><P Class=KRCC>
+<font color=#00008C>夏<font color=#0000CD>の<font color=#2828CD>空<font color=#4646CD>見<font color=#6464CD>上<font color=#7878E1>げ<font color=#8C8CF5>て<font color=#A0A0FF>ニ<font color=#B4B4FF>ラ<font color=#C8C8FF>ん<font color=#D2D2FF>だ<br>
+<font color=#FFB400>가<font color=#FFBE0A>만 <font color=#FFC81E>멈<font color=#FFD232>춰<font color=#FFDC46>서 <font color=#FFE150>여<font color=#FFE65A>름<font color=#FFE650>하<font color=#FAFA96>늘 <font color=#FAFAAA>올<font color=#FAFAD2>려<font color=#FAFAAA>보<font color=#FFF064>네
+<SYNC Start=271876><P Class=KRCC>&nbsp;
+<SYNC Start=272608><P Class=KRCC>
+<font color=#A0522D>『<font color=#A05C37>h<font color=#A06641>t<font color=#A5704B>t<font color=#AA7A55>p<font color=#B4845F>:<font color=#B98E69>/<font color=#C39873>/<font color=#CDA27D>c<font color=#D7AC87>a<font color=#F5AF64>f<font color=#F0AA5F>e<font color=#EBA55A>.<font color=#E6A055>n<font color=#E19B50>a<font color=#DC9146>v<font color=#D7873C>e<font color=#D77D32>r<font color=#D27328>.<font color=#D2691E>c<font color=#DB631F>o<font color=#E56D29>m<font color=#E57733>/<font color=#EA813D>n<font color=#EF8B47>a<font color=#EF904C>r<font color=#F49551>u<font color=#F49A56>t<font color=#F49F5B>o<font color=#F4A460>s<font color=#E6B36D>m<font color=#E1AE68>i<font color=#E1A963>』
+<SYNC Start=276107><P Class=KRCC>&nbsp;
+<SYNC Start=276445><P Class=KRCC>
+<font color=#9370db>《숙명의 두 사람》
+<SYNC Start=280493><P Class=KRCC>&nbsp;
+<SYNC Start=288998><P Class=KRCC>
+나루토, 나 보다 좋은<br>
+타이밍이었다!
+<SYNC Start=291944><P Class=KRCC>
+너까지 올 줄은<br>
+몰랐는데...
+<SYNC Start=294063><P Class=KRCC>&nbsp;
+<SYNC Start=294799><P Class=KRCC>
+어쨌든 고맙다
+<SYNC Start=296808><P Class=KRCC>&nbsp;
+<SYNC Start=297343><P Class=KRCC>
+나루토.. 고마워...
+<SYNC Start=300150><P Class=KRCC>&nbsp;
+<SYNC Start=304172><P Class=KRCC>
+(사스케... 정말 날 죽이려고 했어...)
+<SYNC Start=308061><P Class=KRCC>&nbsp;
+<SYNC Start=308842><P Class=KRCC>
+(나루토가 없었더라면,<br>
+지금쯤 나는 죽었을거야)
+<SYNC Start=312967><P Class=KRCC>&nbsp;
+<SYNC Start=313559><P Class=KRCC>
+(사스케의 손에 의해서...)
+<SYNC Start=315463><P Class=KRCC>&nbsp;
+<SYNC Start=322645><P Class=KRCC>
+사스케...!
+<SYNC Start=324408><P Class=KRCC>
+사쿠라는 같은 제 7 반의 멤버야!
+<SYNC Start=327698><P Class=KRCC>
+"전" 제 7 반 이지..
+<SYNC Start=331183><P Class=KRCC>
+나는..
+<SYNC Start=332626><P Class=KRCC>&nbsp;
+<SYNC Start=333192><P Class=KRCC>
+나루토, 사쿠라!<br>
+이젠 알았지?
+<SYNC Start=336709><P Class=KRCC>&nbsp;
+<SYNC Start=337141><P Class=KRCC>
+녀석을 감싸고 있는 건 진짜 살기다!
+<SYNC Start=340108><P Class=KRCC>&nbsp;
+<SYNC Start=340591><P Class=KRCC>
+사스케는 더 이상 예전에 알던<br>
+그 사스케가 아니야
+<SYNC Start=344482><P Class=KRCC>&nbsp;
+<SYNC Start=366136><P Class=KRCC>
+사스케...
+<SYNC Start=367370><P Class=KRCC>&nbsp;
+<SYNC Start=368272><P Class=KRCC>
+뭐야
+<SYNC Start=369853><P Class=KRCC>&nbsp;
+<SYNC Start=370447><P Class=KRCC>
+토비라는 녀석에게서<br>
+이타치의 진실이라는 걸 들었어
+<SYNC Start=374865><P Class=KRCC>&nbsp;
+<SYNC Start=377630><P Class=KRCC>
+(이타치의 진실?)
+<SYNC Start=380006><P Class=KRCC>&nbsp;
+<SYNC Start=380717><P Class=KRCC>
+난 녀석의 말이 거짓인지<br>
+정말인지 잘 몰라
+<SYNC Start=386365><P Class=KRCC>
+하지만, 어느쪽이든간에...
+<SYNC Start=388600><P Class=KRCC>
+네가 하고 있는 짓은...
+<SYNC Start=391456><P Class=KRCC>
+안다구
+<SYNC Start=393375><P Class=KRCC>&nbsp;
+<SYNC Start=401860><P Class=KRCC>
+나루토...<br>
+전에 한 번 말했을거야
+<SYNC Start=406922><P Class=KRCC>
+부모도 형제도 없는 네가<br>
+나에 대해서 뭘 안다는거야
+<SYNC Start=411749><P Class=KRCC>&nbsp;
+<SYNC Start=413548><P Class=KRCC>
+제3자는 입다물고 있어!
+<SYNC Start=415563><P Class=KRCC>&nbsp;
+<SYNC Start=417361><P Class=KRCC>
+나루토가 어떤 생각으로 너를...
+<SYNC Start=420043><P Class=KRCC>&nbsp;
+<SYNC Start=420552><P Class=KRCC>
+아무리 나쁜 소문이 돌아도...
+<SYNC Start=422825><P Class=KRCC>
+언제나 동료라고 생각하고 있었어!
+<SYNC Start=425272><P Class=KRCC>&nbsp;
+<SYNC Start=425855><P Class=KRCC>
+모두가 널 노려도... 나루토만은<br>
+언제나 사스케 널 구하려고 생각해
+<SYNC Start=432712><P Class=KRCC>
+지금도 그래
+<SYNC Start=433761><P Class=KRCC>&nbsp;
+<SYNC Start=434840><P Class=KRCC>
+날 구한다고?<br>
+무엇으로부터?
+<SYNC Start=439538><P Class=KRCC>&nbsp;
+<SYNC Start=440185><P Class=KRCC>
+그건...
+<SYNC Start=441466><P Class=KRCC>&nbsp;
+<SYNC Start=442881><P Class=KRCC>
+복수라구...
+<SYNC Start=444888><P Class=KRCC>&nbsp;
+<SYNC Start=446944><P Class=KRCC>
+내가 반드시 복수의 늪에서<br>
+널 꺼내 주겠어!
+<SYNC Start=452720><P Class=KRCC>&nbsp;
+<SYNC Start=454456><P Class=KRCC>
+그럴 필요없어
+<SYNC Start=457074><P Class=KRCC>
+내 복수의 막은<br>
+이미 올랐거든
+<SYNC Start=460271><P Class=KRCC>&nbsp;
+<SYNC Start=462229><P Class=KRCC>
+조금 전이야, 조금 전에<br>
+겨우 한 명 이타치의 복수를 했지
+<SYNC Start=468977><P Class=KRCC>&nbsp;
+<SYNC Start=473545><P Class=KRCC>
+<font color=gray>그 오른 팔을 손에 넣기 위해서..<br>
+몇 명의 우치하 일족을 죽인거냐!!
+<SYNC Start=478382><P Class=KRCC>
+<font color=gray>죽인 것은 이타치다!
+<SYNC Start=481047><P Class=KRCC>
+<font color=gray>네 놈이 그렇게 만들었어!
+<SYNC Start=483435><P Class=KRCC>&nbsp;
+<SYNC Start=489437><P Class=KRCC>
+<font color=gray>이건 '이사상봉인술'!!<br>
+(裏四象封印術)
+<SYNC Start=491611><P Class=KRCC>&nbsp;
+<SYNC Start=491945><P Class=KRCC>
+<font color=gray>사스케, 단조에게서 떨어져!!
+<SYNC Start=494938><P Class=KRCC>&nbsp;
+<SYNC Start=510539><P Class=KRCC>
+나뭇잎의 상위층을 여기서 죽였다
+<SYNC Start=513860><P Class=KRCC>&nbsp;
+<SYNC Start=514480><P Class=KRCC>
+'단조'라는 녀석이었지
+<SYNC Start=516335><P Class=KRCC>&nbsp;
+<SYNC Start=518540><P Class=KRCC>
+(그 단조를 사스케가<br>
+혼자서 쓰러뜨렸다는건가?!)
+<SYNC Start=522929><P Class=KRCC>&nbsp;
+<SYNC Start=523688><P Class=KRCC>
+지금까지 느껴보지 못한 느낌이야
+<SYNC Start=526555><P Class=KRCC>
+더렵혀진 우치하 일족이<br>
+정화되어가는 듯한 감각!
+<SYNC Start=530284><P Class=KRCC>
+썩어버린 닌자세계와<br>
+우치하를 결별시키는 감각!
+<SYNC Start=535234><P Class=KRCC>
+너희들이 알리가 없지
+<SYNC Start=537785><P Class=KRCC>&nbsp;
+<SYNC Start=539039><P Class=KRCC>
+내가 하고있는 일은..
+<SYNC Start=541036><P Class=KRCC>
+어떻게보면 너희 나뭇잎이<br>
+항상 바래왔던 일이야
+<SYNC Start=544890><P Class=KRCC>&nbsp;
+<SYNC Start=545228><P Class=KRCC>
+오래전부터 우치하를 부정해왔던<br>
+너희들의 바람대로...
+<SYNC Start=549166><P Class=KRCC>
+너희들의 기억에서<br>
+우치하를 지워주마!
+<SYNC Start=552994><P Class=KRCC>
+너희들을!!<br>
+나뭇잎의 모두를...
+<SYNC Start=557361><P Class=KRCC>
+죽여버리는 것으로 말이야!!
+<SYNC Start=559225><P Class=KRCC>&nbsp;
+<SYNC Start=563307><P Class=KRCC>
+나뭇잎과의 모든 유대감을<br>
+모두 끊어버리는 것이 정화!
+<SYNC Start=567695><P Class=KRCC>
+그거야 말로 진정한<br>
+우치하 일족의 부흥이야!
+<SYNC Start=572201><P Class=KRCC>&nbsp;
+<SYNC Start=572844><P Class=KRCC>
+사스케...
+<SYNC Start=574417><P Class=KRCC>&nbsp;
+<SYNC Start=575026><P Class=KRCC>
+(계속 쌓인 증오의 역사가...<br>
+지금의 사스케를 만들어버렸어)
+<SYNC Start=581012><P Class=KRCC>&nbsp;
+<SYNC Start=582744><P Class=KRCC>
+(사스케도 그 역사의<br>
+피해자라는 것을...)
+<SYNC Start=585691><P Class=KRCC>
+(나루토나 사쿠라도 확실히는<br>
+아니어도 피부로 느끼고 있어)
+<SYNC Start=590293><P Class=KRCC>&nbsp;
+<SYNC Start=592212><P Class=KRCC>
+(그렇기 때문에...)
+<SYNC Start=594093><P Class=KRCC>&nbsp;
+<SYNC Start=615441><P Class=KRCC>
+이건, 내가 할 일이야
+<SYNC Start=617854><P Class=KRCC>&nbsp;
+<SYNC Start=630320><P Class=KRCC>
+나루토, 사쿠라!<br>
+너희들은 여길 떠라!
+<SYNC Start=633866><P Class=KRCC>
+카카시 선생님, 그렇지만...
+<SYNC Start=636126><P Class=KRCC>
+여기 있으면, 보기 싫은 것도 보게 돼...
+<SYNC Start=639549><P Class=KRCC>
+이틈에 어서 가!
+<SYNC Start=641063><P Class=KRCC>
+저는...!
+<SYNC Start=642227><P Class=KRCC>
+사쿠라, 시즈네에게 배운<br>
+독을 뭍힌 쿠나이 정도로..
+<SYNC Start=646894><P Class=KRCC>
+사스케는 죽지않아
+<SYNC Start=648675><P Class=KRCC>
+오로치마루가 내성을 주입해놨어
+<SYNC Start=651500><P Class=KRCC>
+그리고, 이제 너 자신의<br>
+기분을 잘 알거아냐
+<SYNC Start=655286><P Class=KRCC>&nbsp;
+<SYNC Start=664320><P Class=KRCC>
+사스케?!
+<SYNC Start=666576><P Class=KRCC>
+아무리 내가 회복을 시켜줬다지만...
+<SYNC Start=669217><P Class=KRCC>
+네 몸... 더 이상 싸우면 안돼...
+<SYNC Start=675202><P Class=KRCC>&nbsp;
+<SYNC Start=676578><P Class=KRCC>
+사스케...
+<SYNC Start=678203><P Class=KRCC>&nbsp;
+<SYNC Start=680788><P Class=KRCC>
+<font color=gray>카린, 움직이지 마
+<SYNC Start=683400><P Class=KRCC>&nbsp;
+<SYNC Start=699139><P Class=KRCC>
+<font color=gray>(급소를...!<br>
+인질과 함께...)
+<SYNC Start=703068><P Class=KRCC>&nbsp;
+<SYNC Start=705391><P Class=KRCC>
+<font color=gray>(그렇게 나오셔야지)
+<SYNC Start=707235><P Class=KRCC>&nbsp;
+<SYNC Start=708084><P Class=KRCC>
+<font color=gray>형, 일단 한 명 해치웠어
+<SYNC Start=712658><P Class=KRCC>&nbsp;
+<SYNC Start=715213><P Class=KRCC>
+(아니, 사스케에 대해선<br>
+더 이상 신경 쓰지말자..)
+<SYNC Start=719947><P Class=KRCC>&nbsp;
+<SYNC Start=741801><P Class=KRCC>
+카카시 선생님, 보고 싶지<br>
+않은 걸 볼꺼란 뜻은..
+<SYNC Start=745565><P Class=KRCC>
+사스케를 죽일 생각이야?
+<SYNC Start=747780><P Class=KRCC>&nbsp;
+<SYNC Start=749870><P Class=KRCC>
+둘 다 가라!
+<SYNC Start=751693><P Class=KRCC>&nbsp;
+<SYNC Start=757816><P Class=KRCC>
+빈틈을 보이다니..<br>
+용서란 없다!
+<SYNC Start=760769><P Class=KRCC>
+나루토, 기다려!
+<SYNC Start=762333><P Class=KRCC>&nbsp;
+<SYNC Start=767629><P Class=KRCC>
+나루토!
+<SYNC Start=768983><P Class=KRCC>&nbsp;
+<SYNC Start=813633><P Class=KRCC>
+(사스케, 어쩌면...)
+<SYNC Start=816335><P Class=KRCC>&nbsp;
+<SYNC Start=817285><P Class=KRCC>
+(나와 너의...)
+<SYNC Start=819147><P Class=KRCC>&nbsp;
+<SYNC Start=823309><P Class=KRCC>
+(입장이 바뀌었었을지 몰라)
+<SYNC Start=825447><P Class=KRCC>&nbsp;
+<SYNC Start=840312><P Class=KRCC>
+<font color=gray>도망치고 도망쳐서..<br>
+끈질기게 살아남아라..
+<SYNC Start=844527><P Class=KRCC>&nbsp;
+<SYNC Start=844805><P Class=KRCC>
+<font color=gray>그리고 언젠가<br>
+나와 같은 눈을 가지고..
+<SYNC Start=847744><P Class=KRCC>
+<font color=gray>내 앞에 나타나라!
+<SYNC Start=849407><P Class=KRCC>&nbsp;
+<SYNC Start=872882><P Class=KRCC>
+- 치도리!<br>
+- 나선환!
+<SYNC Start=874601><P Class=KRCC>&nbsp;
+<SYNC Start=904173><P Class=KRCC>
+사스케, 너도 알고 있지?
+<SYNC Start=907978><P Class=KRCC>&nbsp;
+<SYNC Start=908130><P Class=KRCC>
+내가 예전에 마을 사람들에게<br>
+미움을 받았던 걸..
+<SYNC Start=912395><P Class=KRCC>&nbsp;
+<SYNC Start=913234><P Class=KRCC>
+그 이유가,<br>
+내 안에 있는 구미때문이야
+<SYNC Start=917347><P Class=KRCC>&nbsp;
+<SYNC Start=918293><P Class=KRCC>
+나도 예전엔<br>
+마을사람들을 미워했었어..
+<SYNC Start=921049><P Class=KRCC>&nbsp;
+<SYNC Start=923245><P Class=KRCC>
+복수 할거라고<br>
+생각한 적도 있으니까
+<SYNC Start=926348><P Class=KRCC>&nbsp;
+<SYNC Start=929176><P Class=KRCC>
+<font color=gray>낙서가 지워질 때까지<br>
+깨끗이 닦아!
+<SYNC Start=933262><P Class=KRCC>&nbsp;
+<SYNC Start=933429><P Class=KRCC>
+<font color=gray>저기, 저 아이..<br>
+그 아이야!
+<SYNC Start=936453><P Class=KRCC>
+<font color=gray>어째서 저런 애를<br>
+마을에 그냥 두는거지?
+<SYNC Start=939493><P Class=KRCC>
+<font color=gray>3대 호카게님은<br>
+우리들 생각도 해주면 좋으련만..
+<SYNC Start=942101><P Class=KRCC>
+<font color=gray>시끄러!
+<SYNC Start=943395><P Class=KRCC>&nbsp;
+<SYNC Start=948021><P Class=KRCC>
+<font color=gray>이 자식이.. 저리 가!
+<SYNC Start=951004><P Class=KRCC>&nbsp;
+<SYNC Start=953334><P Class=KRCC>
+<font color=gray>갑자기 무슨 짓이야!
+<SYNC Start=955703><P Class=KRCC>&nbsp;
+<SYNC Start=956885><P Class=KRCC>
+<font color=gray>이런 것쯤..
+<SYNC Start=958601><P Class=KRCC>&nbsp;
+<SYNC Start=960862><P Class=KRCC>
+<font color=gray>네 놈에게 줄테니<br>
+빨랑 사라져!
+<SYNC Start=964128><P Class=KRCC>&nbsp;
+<SYNC Start=967998><P Class=KRCC>
+<font color=gray>왜? 어째서야?
+<SYNC Start=971173><P Class=KRCC>
+<font color=gray>그렇게 모두들...나를..
+<SYNC Start=974925><P Class=KRCC>
+<font color=gray>담임인 선생님까지<br>
+날 그런 눈으로 보는거야?
+<SYNC Start=978166><P Class=KRCC>&nbsp;
+<SYNC Start=979837><P Class=KRCC>
+<font color=gray>난 방해물도<br>
+더러운 세균도 아니라구!
+<SYNC Start=983361><P Class=KRCC>&nbsp;
+<SYNC Start=983781><P Class=KRCC>
+<font color=gray>난... <br>
+난 우즈마키 나루토야!
+<SYNC Start=988041><P Class=KRCC>&nbsp;
+<SYNC Start=998518><P Class=KRCC>
+한 발 잘못 발을 들이면..
+<SYNC Start=1000576><P Class=KRCC>
+너처럼 무시무시 한것까지<br>
+생각 했을지도 몰라
+<SYNC Start=1004202><P Class=KRCC>&nbsp;
+<SYNC Start=1008333><P Class=KRCC>
+나에게는 누구와도<br>
+유대가 없을꺼라고 생각했어
+<SYNC Start=1011756><P Class=KRCC>&nbsp;
+<SYNC Start=1012309><P Class=KRCC>
+너와 이루카 선생님을<br>
+만나기 전까지는...
+<SYNC Start=1015708><P Class=KRCC>&nbsp;
+<SYNC Start=1018413><P Class=KRCC>
+<font color=gray>코지, 돌아가자!
+<SYNC Start=1020278><P Class=KRCC>
+<font color=gray>다이치, 저녁 먹자!
+<SYNC Start=1022017><P Class=KRCC>
+<font color=gray>예~~
+<SYNC Start=1023181><P Class=KRCC>
+<font color=gray>모두 돌아가자!
+<SYNC Start=1025073><P Class=KRCC>
+<font color=gray>엄마!
+<SYNC Start=1026474><P Class=KRCC>&nbsp;
+<SYNC Start=1028413><P Class=KRCC>
+<font color=gray>뭐하는거야?<br>
+저 아이랑 놀면 안된다고 했잖아!
+<SYNC Start=1032073><P Class=KRCC>
+<font color=gray>자, 가자
+<SYNC Start=1033891><P Class=KRCC>&nbsp;
+<SYNC Start=1088781><P Class=KRCC>
+<font color=gray>나루토, 진실을 알려주지..
+<SYNC Start=1092517><P Class=KRCC>&nbsp;
+<SYNC Start=1093118><P Class=KRCC>
+<font color=gray>12년전에 괴물 여우를<br>
+봉인한 사건은 알고있지?
+<SYNC Start=1097581><P Class=KRCC>
+<font color=gray>그 후로, 마을에는<br>
+어떤 규정이 생겨났어
+<SYNC Start=1100988><P Class=KRCC>&nbsp;
+<SYNC Start=1101149><P Class=KRCC>
+<font color=gray>어떤 규정?
+<SYNC Start=1102899><P Class=KRCC>&nbsp;
+<SYNC Start=1103429><P Class=KRCC>
+<font color=gray>그건, 너에게만은 절대로<br>
+알려줘서는 안되는 규정이지
+<SYNC Start=1108126><P Class=KRCC>
+<font color=gray>나에게만?<br>
+뭐야, 그 규정은?
+<SYNC Start=1112008><P Class=KRCC>&nbsp;
+<SYNC Start=1114141><P Class=KRCC>
+<font color=gray>나루토의 정체가 괴물 여우라는걸<br>
+입에 담지 않는게 규정이야!
+<SYNC Start=1119746><P Class=KRCC>&nbsp;
+<SYNC Start=1120933><P Class=KRCC>
+<font color=gray>그러니까, 네가<br>
+이루카의 부모를 죽이고..
+<SYNC Start=1124357><P Class=KRCC>
+<font color=gray>마을을 괴멸시킨<br>
+구미의 요호(九尾の妖狐)란 말이다!
+<SYNC Start=1128064><P Class=KRCC>&nbsp;
+<SYNC Start=1129469><P Class=KRCC>
+<font color=gray>넌, 동경하는 4대 호카게님에게<br>
+구미를 봉인당했고..
+<SYNC Start=1134357><P Class=KRCC>
+<font color=gray>마을 사람들에게<br>
+줄곧 속아 왔던거야!
+<SYNC Start=1137761><P Class=KRCC>&nbsp;
+<SYNC Start=1140076><P Class=KRCC>
+<font color=gray>너 따위<br>
+아무도 인정하지 않아!
+<SYNC Start=1142614><P Class=KRCC>
+<font color=gray>나루토, 죽어라!
+<SYNC Start=1144517><P Class=KRCC>&nbsp;
+<SYNC Start=1145318><P Class=KRCC>
+<font color=gray>나루토, 엎드려!
+<SYNC Start=1147333><P Class=KRCC>&nbsp;
+<SYNC Start=1152406><P Class=KRCC>
+하지만...
+<SYNC Start=1153751><P Class=KRCC>&nbsp;
+<SYNC Start=1171637><P Class=KRCC>
+<font color=gray>나루토, 그랬지?
+<SYNC Start=1174361><P Class=KRCC>&nbsp;
+<SYNC Start=1175351><P Class=KRCC>
+<font color=gray>외로웠었지..?
+<SYNC Start=1177747><P Class=KRCC>&nbsp;
+<SYNC Start=1178091><P Class=KRCC>
+<font color=gray>괴로웠었지..?
+<SYNC Start=1180494><P Class=KRCC>&nbsp;
+<SYNC Start=1181333><P Class=KRCC>
+<font color=gray>나루토, 미안해..
+<SYNC Start=1183238><P Class=KRCC>&nbsp;
+<SYNC Start=1183681><P Class=KRCC>
+<font color=gray>내가 좀 더<br>
+제대로 했었더라면..
+<SYNC Start=1186057><P Class=KRCC>
+<font color=gray>이런 일을 겪지않게 했을텐데..
+<SYNC Start=1188942><P Class=KRCC>&nbsp;
+<SYNC Start=1191373><P Class=KRCC>
+자포자기 할 뻔한 나를..
+<SYNC Start=1194062><P Class=KRCC>
+너와 이루카 선생님이<br>
+구해주었어..
+<SYNC Start=1197570><P Class=KRCC>&nbsp;
+<SYNC Start=1199390><P Class=KRCC>
+나도 언제나 네가<br>
+혼자였던건 알고있었어
+<SYNC Start=1203525><P Class=KRCC>
+네 모습을 보고..
+<SYNC Start=1205447><P Class=KRCC>
+나와 같은 녀석이<br>
+있다는 걸 알고 안심했었어
+<SYNC Start=1208870><P Class=KRCC>&nbsp;
+<SYNC Start=1209216><P Class=KRCC>
+나도 너도 아직 어린애였고..
+<SYNC Start=1211664><P Class=KRCC>
+지금에서 생각해보면..
+<SYNC Start=1213549><P Class=KRCC>
+난 구미(九尾).. <br>
+넌 우치하의 숙명..
+<SYNC Start=1217326><P Class=KRCC>&nbsp;
+<SYNC Start=1218213><P Class=KRCC>
+비슷한 짐을 짊어지고 있다는거<br>
+비아냥으로 들리겠지..
+<SYNC Start=1221897><P Class=KRCC>&nbsp;
+<SYNC Start=1223933><P Class=KRCC>
+너를 발견 했을때도..
+<SYNC Start=1226813><P Class=KRCC>&nbsp;
+<SYNC Start=1227208><P Class=KRCC>
+실은 바로 말을 걸고 싶었어
+<SYNC Start=1230270><P Class=KRCC>&nbsp;
+<SYNC Start=1230794><P Class=KRCC>
+왠지 기뻐서..
+<SYNC Start=1233341><P Class=KRCC>
+너라면 나를<br>
+이해해 주지 않을까? 하고..
+<SYNC Start=1236629><P Class=KRCC>&nbsp;
+<SYNC Start=1237453><P Class=KRCC>
+하지만, 하지 않았어..
+<SYNC Start=1239628><P Class=KRCC>&nbsp;
+<SYNC Start=1240429><P Class=KRCC>
+왜냐하면, 뭐든지 잘하는<br>
+네가 부러워서..
+<SYNC Start=1245146><P Class=KRCC>&nbsp;
+<SYNC Start=1245245><P Class=KRCC>
+내 맘대로 널..<br>
+나의 라이벌로 결정했어
+<SYNC Start=1249579><P Class=KRCC>&nbsp;
+<SYNC Start=1257350><P Class=KRCC>
+그 때부터, 넌 나의..
+<SYNC Start=1260571><P Class=KRCC>
+목표가 된거야!
+<SYNC Start=1262696><P Class=KRCC>&nbsp;
+<SYNC Start=1267311><P Class=KRCC>
+<font color=#A8F552>뉴웨스트
+<SYNC Start=1268859><P Class=KRCC>
+<font color=#FFC81E>고독저격
+<SYNC Start=1270426><P Class=KRCC>
+<font color=#A841DB>NEWEST
+<SYNC Start=1271976><P Class=KRCC>
+<font color=#78EAFF>Solitude Snipe
+<SYNC Start=1273608><P Class=KRCC>
+<font color=#FFE65A>뉴웨스트 ＆ 고독저격
+<SYNC Start=1275060><P Class=KRCC>
+<font color=#FF0000>NEWEST ＆ Solitude Snipe
+<SYNC Start=1276618><P Class=KRCC>
+<font color=#A0522D>『<font color=#A05C37>h<font color=#A06641>t<font color=#A5704B>t<font color=#AA7A55>p<font color=#B4845F>:<font color=#B98E69>/<font color=#C39873>/<font color=#CDA27D>c<font color=#D7AC87>a<font color=#F5AF64>f<font color=#F0AA5F>e<font color=#EBA55A>.<font color=#E6A055>n<font color=#E19B50>a<font color=#DC9146>v<font color=#D7873C>e<font color=#D77D32>r<font color=#D27328>.<font color=#D2691E>c<font color=#DB631F>o<font color=#E56D29>m<font color=#E57733>/<font color=#EA813D>n<font color=#EF8B47>a<font color=#EF904C>r<font color=#F49551>u<font color=#F49A56>t<font color=#F49F5B>o<font color=#F4A460>s<font color=#E6B36D>m<font color=#E1AE68>i<font color=#E1A963>』
+<SYNC Start=1278197><P Class=KRCC>
+<font color=#228B22>Ø<font color=#2C952C>나<font color=#369F36>루<font color=#40A940>토 <font color=#4AB34A>자<font color=#54BD54>막<font color=#5EC75E>카<font color=#63CC63>페<font color=#68D168>Ø<br>
+<font color=#FF0000>h<font color=#FF3232>t<font color=#FF4646>t<font color=#FF5050>p<font color=#FF5A5A0>:<font color=#FF6464>/<font color=#FF6E6E>/<font color=#FF7878>c<font color=#FF8282>a<font color=#FF8C8C>f<font color=#F06464>e<font color=#F06E6E>.<font color=#F07878>n<font color=#F08282>a<font color=#F08C8C>v<font color=#F09696>e<font color=#F4A0A0>r<font color=#F4B4B4>.<font color=#FEBEBE>c<font color=#FFC8C8>o<font color=#FFD2D2>m<font color=#FFDCDC>/<font color=#FFE6E6>n<font color=#FFF0F0>a<font color=#FFE6E6>r<font color=#FFDCDC>u<font color=#FFD2D2>t<font color=#FFC8C8>o<font color=#FEBEBE>s<font color=#F4B4B4>m<font color=#F4A0A0>i
+<SYNC Start=1279725><P Class=KRCC>
+<font color=#4646CD>手, 足, 繫がれてるよ<br>
+<font color=#3CA0E1>손, 발이 붙어있어!
+<SYNC Start=1281199><P Class=KRCC>
+<font color=#4646CD>I'm Like マリオネット<br>
+<font color=#3CA0E1>나는 마리오 네트가 좋아!
+<SYNC Start=1282662><P Class=KRCC>
+<font color=#4646CD>そんなのありえねぇよ<br>
+<font color=#3CA0E1>그런거 말도 안돼!
+<SYNC Start=1284404><P Class=KRCC>
+<font color=#4646CD>一體 どうなってるの?<br>
+<font color=#3CA0E1>도대체 어찌 된거야?
+<SYNC Start=1285893><P Class=KRCC>
+<font color=red>(Tell Me Tell Me) <font color=#4646CD>Who's the Ruler?<br>
+<font color=#FF3CBB>(말해줘 말해줘) <font color=#3CA0E1>누가 대장이야?
+<SYNC Start=1287391><P Class=KRCC>
+<font color=#4646CD>氣安く觸るな<br>
+<font color=#3CA0E1>맘편하게 만지지마!
+<SYNC Start=1288843><P Class=KRCC>
+<font color=#4646CD>聞きたくねぇよ もう詭弁は<br>
+<font color=#3CA0E1>더이상 궤변은 듣고 싶지 않아!
+<SYNC Start=1290389><P Class=KRCC>
+<font color=#4646CD>こっから先はオレが決めんだ!<br>
+<font color=#3CA0E1>지금부터 미래는 내가 결정한다!
+<SYNC Start=1292085><P Class=KRCC>
+<font color=#2C952C>見えない鎖を斷ち切れ<br>
+<font color=#78E150>안보이는 굴레따윈 끊어버려
+<SYNC Start=1295022><P Class=KRCC>
+<font color=#2C952C>限界すれすれ出し切れ<br>
+<font color=#78E150>아슬아슬 한계따윈 끊어버려
+<SYNC Start=1298007><P Class=KRCC>
+<font color=#2C952C>自分で勝ち取らなきゃ<br>
+<font color=#78E150>자신이 쟁취하지 못하면
+<SYNC Start=1301023><P Class=KRCC>
+<font color=#2C952C>誰かの手に渡っちゃうぜ<br>
+<font color=#78E150>누군가의 손에 넘어가 버려
+<SYNC Start=1304180><P Class=KRCC>
+<font color=#D27D32>Stand Up!! さぁ皆 Reach Out For Liberty<br>
+<font color=#FFA778>일어나! 자 모두 자유를 쟁취해
+<SYNC Start=1307200><P Class=KRCC>
+<font color=#D27D32>今が動き出す時だ<br>
+<font color=#FFA778>지금이 행동할 때야
+<SYNC Start=1310417><P Class=KRCC>
+<font color=#D27D32>Wake Up!! さぁ皆 Step Upして叫べ<br>
+<font color=#FFA778>깨어나! 자 모두 나아가서 소리쳐
+<SYNC Start=1313334><P Class=KRCC>
+<font color=#D27D32>Oh Yes We Are The Dreamer<br>
+<font color=#FFA778>그래 맞아, 우리는 몽상가
+<SYNC Start=1315692><P Class=KRCC>
+<font color=#941494>Run For Your Freedom<br>
+<font color=#B24BE5>자유를 위해 달려라
+<SYNC Start=1318922><P Class=KRCC>
+<font color=#FF8C0A>先立つものなんてなくたって<br>
+<font color=#FFCD28>앞장서는 사람따위 없어도
+<SYNC Start=1322084><P Class=KRCC>
+<font color=#941494>Run For Your Freedom<br>
+<font color=#B24BE5>자유를 위해 달려라
+<SYNC Start=1325313><P Class=KRCC>
+<font color=#FF8C0A>夢の扉 蹴っ飛ばして<br>
+<font color=#FFCD28>꿈의 문따위 차버리고
+<SYNC Start=1328028><P Class=KRCC>
+<font color=red>(so you better) <font color=#D27D32>Stand Up!!<br>
+<font color=#FF3CBB>(그게 좋아)<font color=#FFA778>일어나!
+<SYNC Start=1329620><P Class=KRCC>
+<font color=#D27D32>さぁ皆 Reach Out For Liberty<br>
+<font color=#FFA778>자 모두 자유를 쟁취해
+<SYNC Start=1331834><P Class=KRCC>
+<font color=#D27D32>今が動き出す時だ<br>
+<font color=#FFA778>지금이 행동할 때야
+<SYNC Start=1334893><P Class=KRCC>
+<font color=#D27D32>Wake Up!! さぁ皆 Step Upして叫べ<br>
+<font color=#FFA778>깨어나! 자 모두 나아가서 소리쳐
+<SYNC Start=1337964><P Class=KRCC>
+<font color=#D27D32>Oh Yes We Are The Dreamer<br>
+<font color=#FFA778>그래 맞아, 우리는 몽상가
+<SYNC Start=1340528><P Class=KRCC>
+<font color=#941494>Run For Your Freedom<br>
+<font color=#B24BE5>자유를 위해 달려라
+<SYNC Start=1343667><P Class=KRCC>
+<font color=#FF8C0A>先立つものなんてなくたって<br>
+<font color=#FFCD28>앞장서는 사람따위 없어도
+<SYNC Start=1346607><P Class=KRCC>
+<font color=#941494>Run For Your Freedom<br>
+<font color=#B24BE5>자유를 위해 달려라
+<SYNC Start=1349758><P Class=KRCC>
+<font color=#FF8C0A>夢の扉 蹴っ飛ばして<br>
+<font color=#FFCD28>꿈의 문따위 차버리고
+<SYNC Start=1352676><P Class=KRCC>
+<font color=#941494>Fight For Your Freedom<br>
+<font color=#B24BE5>자유를 위해 싸워라!
+<SYNC Start=1354754><P Class=KRCC>&nbsp;
+<SYNC Start=1357067><P Class=KRCC>
+<font color=9370db>이봐 사스케, 기억해?
+<SYNC Start=1359940><P Class=KRCC>
+<font color=9370db>예전에 '종말의 계곡'에서<br>
+네가 했던 말을...
+<SYNC Start=1362987><P Class=KRCC>
+<font color=9370db>'최고의 닌자'란 거 말야
+<SYNC Start=1365663><P Class=KRCC>&nbsp;
+<SYNC Start=1365908><P Class=KRCC>
+<font color=9370db>직접 부딫쳐 보니..<br>
+지금은 여러가지를 알겠어
+<SYNC Start=1369715><P Class=KRCC>
+<font color=9370db>너도 나의 진심을 알겠어?
+<SYNC Start=1373866><P Class=KRCC>&nbsp;
+<SYNC Start=1374143><P Class=KRCC>
+<font color=9370db>바로... 나의..
+<SYNC Start=1376223><P Class=KRCC>&nbsp;
+<SYNC Start=1376875><P Class=KRCC>
+<font color=9370db>차회, 나루토 질풍전은
+<SYNC Start=1379260><P Class=KRCC>
+<font color=9370db>차회, 나루토 질풍전은</font><br>
+"최고의 닌자"
+<SYNC Start=1381134><P Class=KRCC>&nbsp;
+<SYNC Start=1381748><P Class=KRCC>
+<font color=9370db>어째서 나에게<br>
+그렇게 집착하는거지?
+<SYNC Start=1384393><P Class=KRCC>&nbsp;
+</BODY>
+</SAMI>

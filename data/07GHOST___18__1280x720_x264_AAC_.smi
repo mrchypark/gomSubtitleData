@@ -1,0 +1,831 @@
+<SAMI>
+<HEAD>
+<TITLE>Hanbange 3.0 - (C) Breadu Soft 2003</TITLE>
+<STYLE TYPE="text/css">
+<!--
+P { margin-left:8pt; margin-right:8pt; margin-bottom:2pt;
+    margin-top:2pt; font-size:14pt; text-align:center;
+    font-family:굴림, Arial; font-weight:normal; color:white;
+    background-color:black; }
+.KRCC { Name:한국어; lang:ko-KR; SAMIType:CC; }
+#STDPrn { Name:Standard Print; }
+#LargePrn { Name:Large Print; font-size:20pt; }
+#SmallPrn { Name:Small Print; font-size:10pt; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<SYNC Start=3704><P Class=KRCC>&nbsp;
+<SYNC Start=14220><P Class=KRCC>
+누구냐?
+<SYNC Start=15496><P Class=KRCC>
+내 주인을 배신한<br>
+어리석은 자가
+<SYNC Start=19218><P Class=KRCC>
+지옥 저 끝까지 안내해주마
+<SYNC Start=22445><P Class=KRCC>
+이건 되돌려주지
+<SYNC Start=24452><P Class=KRCC>&nbsp;
+<SYNC Start=42863><P Class=KRCC>
+<font color=#AB186A>07-GHOST</font><br>
+Subtitle by 진다
+<SYNC Start=50052><P Class=KRCC>
+<font color=1e90ff>乾いた叫び聲が聞こえた<br>
+<font color=d8bfd8>메마른 외침이 들렸어
+<SYNC Start=56413><P Class=KRCC>
+<font color=1e90ff>記憶の中の闇を解いて<br>
+<font color=d8bfd8>기억 속의 어둠을 풀어헤쳐
+<SYNC Start=61598><P Class=KRCC>
+<font color=1e90ff>いつも最後の答え<br>
+<font color=d8bfd8>언제나 마지막 해답
+<SYNC Start=64920><P Class=KRCC>
+<font color=1e90ff>選んでは<br>
+<font color=d8bfd8>선택하고선
+<SYNC Start=66044><P Class=KRCC>
+<font color=1e90ff>誰かを傷つけてた<br>
+<font color=d8bfd8>누군가에게 상처를 줬어
+<SYNC Start=68716><P Class=KRCC>
+<font color=1e90ff>そう<br>
+<font color=d8bfd8>그래
+<SYNC Start=70518><P Class=KRCC>
+<font color=1e90ff>何が眞實か分からないままに<br>
+<font color=d8bfd8>무엇이 진실인지도 모른체
+<SYNC Start=76143><P Class=KRCC>
+<font color=1e90ff>輝き戾すため<br>
+<font color=d8bfd8>빛을 되찾기 위해
+<SYNC Start=78741><P Class=KRCC>
+<font color=1e90ff>君が幾千の時を越えて行く<br>
+<font color=d8bfd8>넌 수천의 시간을 뛰어넘어
+<SYNC Start=84190><P Class=KRCC>
+<font color=1e90ff>戾らない 緋色のカケラ<br>
+<font color=d8bfd8>돌아갈 수 없는 비색의 조각
+<SYNC Start=87273><P Class=KRCC>
+<font color=1e90ff>握りしめて彷徨い續けてく<br>
+<font color=d8bfd8>움켜쥐고 헤매고 있어
+<SYNC Start=91554><P Class=KRCC>
+<font color=1e90ff>君が映し出せる<br>
+<font color=d8bfd8>네가 비출 수 있는
+<SYNC Start=94348><P Class=KRCC>
+<font color=1e90ff>その瞳を探し出すまで<br>
+<font color=d8bfd8>그 눈동자를 찾을 때까지
+<SYNC Start=99969><P Class=KRCC>&nbsp;
+<SYNC Start=101766><P Class=KRCC>
+<font color=1e90ff>探してた靑のカケラ<br>
+<font color=d8bfd8>찾고있던 푸른의 조각
+<SYNC Start=104710><P Class=KRCC>
+<font color=1e90ff>胸に溢れて行く<br>
+<font color=d8bfd8>가슴 속에 넘쳐흘러
+<SYNC Start=107577><P Class=KRCC>
+<font color=1e90ff>記憶を抱きしめて<br>
+<font color=d8bfd8>기억을 끌어안고
+<SYNC Start=110417><P Class=KRCC>
+<font color=1e90ff>終わる事のない旅へと..<br>
+<font color=d8bfd8>끝나지 않는 여행으로..
+<SYNC Start=116967><P Class=KRCC>&nbsp;
+<SYNC Start=135330><P Class=KRCC>
+<font color=#648CFF>용서받지 못할 자 어둠에 빠지고...<br>
+사랑하는 자는 눈물에 젖는다
+<SYNC Start=140216><P Class=KRCC>&nbsp;
+<SYNC Start=146790><P Class=KRCC>
+테이토를 처형하겠다?!
+<SYNC Start=148859><P Class=KRCC>
+말도 안 되는 소리!
+<SYNC Start=150339><P Class=KRCC>&nbsp;
+<SYNC Start=154818><P Class=KRCC>
+소용없습니다
+<SYNC Start=156624><P Class=KRCC>&nbsp;
+<SYNC Start=159689><P Class=KRCC>
+하쿠렌!
+<SYNC Start=161056><P Class=KRCC>&nbsp;
+<SYNC Start=164960><P Class=KRCC>
+바스틴 대사교 보좌!
+<SYNC Start=166748><P Class=KRCC>
+당신은 대체..!
+<SYNC Start=168928><P Class=KRCC>&nbsp;
+<SYNC Start=174978><P Class=KRCC>
+전
+<SYNC Start=176379><P Class=KRCC>
+제국군 아야나미 참모<br>
+정보부에 소속된 자
+<SYNC Start=181035><P Class=KRCC>
+오랫동안 이 교회에<br>
+잠입해 있었지만
+<SYNC Start=184177><P Class=KRCC>
+그 생활도 오늘로 끝
+<SYNC Start=186836><P Class=KRCC>
+자 테이토 클라인
+<SYNC Start=188998><P Class=KRCC>
+순순히 발스의<br>
+먹이가 되십시오
+<SYNC Start=192673><P Class=KRCC>
+저항하면
+<SYNC Start=194118><P Class=KRCC>
+그를 죽이겠습니다
+<SYNC Start=196197><P Class=KRCC>&nbsp;
+<SYNC Start=196609><P Class=KRCC>
+안 돼! 하쿠렌은 상관없어!
+<SYNC Start=199289><P Class=KRCC>&nbsp;
+<SYNC Start=200728><P Class=KRCC>
+어떻게 발스파일도 아닌..!
+<SYNC Start=203177><P Class=KRCC>
+당신이 발스를..!
+<SYNC Start=205121><P Class=KRCC>
+교회엔 고대로부터<br>
+내려오는 금술이 있지
+<SYNC Start=209152><P Class=KRCC>
+바크루스는 본래
+<SYNC Start=211142><P Class=KRCC>
+빛과 어둠을 다루는<br>
+표리일체의 무기
+<SYNC Start=215297><P Class=KRCC>
+교전의 역 주문을<br>
+집어넣으면
+<SYNC Start=218089><P Class=KRCC>
+발스파일은 발동하게 되지
+<SYNC Start=221049><P Class=KRCC>
+불필요한 인간의<br>
+영혼을 써서 말이지..
+<SYNC Start=225255><P Class=KRCC>
+당신은..!
+<SYNC Start=226597><P Class=KRCC>
+바크루스로 어둠의<br>
+힘을 쓰고 있어!
+<SYNC Start=229202><P Class=KRCC>
+그 대가가 뭔지<br>
+알고는 있는 건가?!
+<SYNC Start=232361><P Class=KRCC>&nbsp;
+<SYNC Start=234503><P Class=KRCC>
+이건 저의 대의입니다
+<SYNC Start=237437><P Class=KRCC>
+이대로 당신을<br>
+내버려둘 순 없습니다
+<SYNC Start=241093><P Class=KRCC>
+미카엘의 눈동자와 같이<br>
+발스에 삼켜지면
+<SYNC Start=244619><P Class=KRCC>
+아야나미 님의<br>
+충직한 개가 되겠지
+<SYNC Start=247666><P Class=KRCC>&nbsp;
+<SYNC Start=249003><P Class=KRCC>
+적어도
+<SYNC Start=250425><P Class=KRCC>
+편안하게 보내드리지요
+<SYNC Start=253509><P Class=KRCC>&nbsp;
+<SYNC Start=255015><P Class=KRCC>
+뭐 하는 거야! 테이토!
+<SYNC Start=256855><P Class=KRCC>
+난 상관 말고 도망쳐!
+<SYNC Start=258826><P Class=KRCC>
+헛소리하지 마!
+<SYNC Start=260790><P Class=KRCC>
+말했잖아!
+<SYNC Start=261735><P Class=KRCC>
+난 네 친구가 될 거야!
+<SYNC Start=264791><P Class=KRCC>&nbsp;
+<SYNC Start=269327><P Class=KRCC>
+어리석은...
+<SYNC Start=271070><P Class=KRCC>&nbsp;
+<SYNC Start=278459><P Class=KRCC>
+테이토!!!
+<SYNC Start=280134><P Class=KRCC>&nbsp;
+<SYNC Start=280500><P Class=KRCC>
+이 제국보다<br>
+소중한 것이 있다면
+<SYNC Start=284318><P Class=KRCC>
+미카엘의 눈동자를<br>
+가질 자격이 없어
+<SYNC Start=287711><P Class=KRCC>&nbsp;
+<SYNC Start=294450><P Class=KRCC>
+기분 나쁜 날씨네요
+<SYNC Start=296671><P Class=KRCC>
+프라우 사교가<br>
+유폐되고 나서
+<SYNC Start=300069><P Class=KRCC>
+교회엔 어둠만<br>
+가득한 거 같아요
+<SYNC Start=303156><P Class=KRCC>
+어쩔 수 없는 일이에요
+<SYNC Start=305136><P Class=KRCC>
+잘못을 저질렀다면<br>
+속죄를 해야만 하니까요
+<SYNC Start=309846><P Class=KRCC>&nbsp;
+<SYNC Start=314139><P Class=KRCC>
+안 좋은 예감이 들어
+<SYNC Start=316665><P Class=KRCC>
+테이토 군에게<br>
+위험이 닥치고 있어
+<SYNC Start=320340><P Class=KRCC>
+그렇다면..
+<SYNC Start=321848><P Class=KRCC>
+움직여야겠군요
+<SYNC Start=324356><P Class=KRCC>
+라브라도르의 예언은<br>
+절대적이니까요
+<SYNC Start=327870><P Class=KRCC>&nbsp;
+<SYNC Start=337878><P Class=KRCC>
+수고
+<SYNC Start=339277><P Class=KRCC>
+교대할 시간이야
+<SYNC Start=340967><P Class=KRCC>
+못 보던 얼굴이군
+<SYNC Start=342512><P Class=KRCC>
+추가로 파견됐어
+<SYNC Start=345152><P Class=KRCC>&nbsp;
+<SYNC Start=345984><P Class=KRCC>
+자세히 확인해보라고
+<SYNC Start=348747><P Class=KRCC>&nbsp;
+<SYNC Start=353570><P Class=KRCC>
+서 있도록
+<SYNC Start=355253><P Class=KRCC>&nbsp;
+<SYNC Start=356617><P Class=KRCC>
+여기선 경례할 필요 없다
+<SYNC Start=359405><P Class=KRCC>&nbsp;
+<SYNC Start=366587><P Class=KRCC>
+테이토!
+<SYNC Start=368018><P Class=KRCC>
+대답해! 테이토!
+<SYNC Start=370924><P Class=KRCC>&nbsp;
+<SYNC Start=371561><P Class=KRCC>
+왜 네가..!
+<SYNC Start=373641><P Class=KRCC>
+왜 이런 꼴을<br>
+당해야 하냐고!
+<SYNC Start=376543><P Class=KRCC>
+왜 당신은..!
+<SYNC Start=378180><P Class=KRCC>
+오랫동안 모두를<br>
+속여왔던 거지?!
+<SYNC Start=381387><P Class=KRCC>
+그때
+<SYNC Start=383542><P Class=KRCC>
+회랑에서 날 공격한 것도<br>
+당신이었나?!
+<SYNC Start=387500><P Class=KRCC>&nbsp;
+<SYNC Start=388178><P Class=KRCC>
+그게 나라면
+<SYNC Start=390318><P Class=KRCC>
+지금쯤 당신들은<br>
+여기에 없겠지
+<SYNC Start=393145><P Class=KRCC>
+그럼 대체 누가?!
+<SYNC Start=396576><P Class=KRCC>&nbsp;
+<SYNC Start=405145><P Class=KRCC>
+테이토 클라인은<br>
+당신한테 맡길게
+<SYNC Start=408758><P Class=KRCC>&nbsp;
+<SYNC Start=409832><P Class=KRCC>
+그래
+<SYNC Start=410966><P Class=KRCC>
+그분은 달리 임무가 있다더군
+<SYNC Start=414359><P Class=KRCC>
+그건 제가 알바는 아니지만
+<SYNC Start=417894><P Class=KRCC>&nbsp;
+<SYNC Start=419487><P Class=KRCC>
+내가 돌아올 때까지<br>
+아무도 통과시키지 마
+<SYNC Start=421996><P Class=KRCC>&nbsp;
+<SYNC Start=436027><P Class=KRCC>
+이상해
+<SYNC Start=437766><P Class=KRCC>
+보초의 기척이 사라졌어
+<SYNC Start=440159><P Class=KRCC>
+하르세
+<SYNC Start=441186><P Class=KRCC>
+살펴보고 오겠습니다
+<SYNC Start=443280><P Class=KRCC>
+쿠로유리 님
+<SYNC Start=444538><P Class=KRCC>
+더이상 발스파일로<br>
+공격할 수는 없습니다
+<SYNC Start=448358><P Class=KRCC>&nbsp;
+<SYNC Start=449315><P Class=KRCC>
+이것을..
+<SYNC Start=450500><P Class=KRCC>
+부디 조심하시길..
+<SYNC Start=453647><P Class=KRCC>&nbsp;
+<SYNC Start=457595><P Class=KRCC>
+꽃내음..?
+<SYNC Start=459837><P Class=KRCC>&nbsp;
+<SYNC Start=467103><P Class=KRCC>
+꽃밭..
+<SYNC Start=468730><P Class=KRCC>&nbsp;
+<SYNC Start=469789><P Class=KRCC>
+환각인가?
+<SYNC Start=471463><P Class=KRCC>&nbsp;
+<SYNC Start=474692><P Class=KRCC>
+잠들게 했어
+<SYNC Start=477104><P Class=KRCC>
+이 사람들은 정식 패스를<br>
+가지고 있지 않았으니까
+<SYNC Start=481936><P Class=KRCC>&nbsp;
+<SYNC Start=483854><P Class=KRCC>
+너 역시 이대로<br>
+사라져줬으면 좋겠어
+<SYNC Start=487090><P Class=KRCC>
+밑으로 내려간 아이와 함께
+<SYNC Start=489787><P Class=KRCC>
+이 앞으론 갈 수 없습니다
+<SYNC Start=492472><P Class=KRCC>
+넌 이 곳에<br>
+오지 말았어야 했어
+<SYNC Start=496291><P Class=KRCC>
+그리고 그 아이도
+<SYNC Start=498620><P Class=KRCC>&nbsp;
+<SYNC Start=517327><P Class=KRCC>
+우릴...!
+<SYNC Start=518750><P Class=KRCC>
+테이토를 어쩌려는 거지?!
+<SYNC Start=521132><P Class=KRCC>&nbsp;
+<SYNC Start=525793><P Class=KRCC>
+어두워..
+<SYNC Start=528685><P Class=KRCC>
+이곳을 지배하는 건..
+<SYNC Start=531151><P Class=KRCC>
+증오와 공포..
+<SYNC Start=532949><P Class=KRCC>
+굶주림과 목마름..
+<SYNC Start=534754><P Class=KRCC>
+너무도 깊은 슬픔이야..!
+<SYNC Start=537714><P Class=KRCC>
+이게 발스..!
+<SYNC Start=540109><P Class=KRCC>
+코르가 영혼을 손에 넣어<br>
+진화한 모습이란 말인가?
+<SYNC Start=544386><P Class=KRCC>&nbsp;
+<SYNC Start=546032><P Class=KRCC>
+내놔
+<SYNC Start=547058><P Class=KRCC>
+내 영혼과 몸을 내놔!
+<SYNC Start=550133><P Class=KRCC>
+날 집어삼키려 하고 있어..!
+<SYNC Start=551788><P Class=KRCC>
+동조하면 삼켜지고 말거야..!
+<SYNC Start=554103><P Class=KRCC>
+두려워하면 안 돼!
+<SYNC Start=555790><P Class=KRCC>&nbsp;
+<SYNC Start=558614><P Class=KRCC>
+내겐 네가 원하는 건<br>
+아무것도 없어!
+<SYNC Start=562875><P Class=KRCC>
+넌 많은 영혼을 얻었지만
+<SYNC Start=565915><P Class=KRCC>
+조금도 구원받지 못했어!
+<SYNC Start=567969><P Class=KRCC>
+가여워..!
+<SYNC Start=570203><P Class=KRCC>&nbsp;
+<SYNC Start=572391><P Class=KRCC>
+내가 없애주지
+<SYNC Start=575088><P Class=KRCC>&nbsp;
+<SYNC Start=585981><P Class=KRCC>
+누구냐?
+<SYNC Start=587208><P Class=KRCC>
+내 주인을 배신한<br>
+어리석은 자가
+<SYNC Start=591449><P Class=KRCC>
+지옥 저 끝까지 안내해주마
+<SYNC Start=594787><P Class=KRCC>
+이건 되돌려주지
+<SYNC Start=596791><P Class=KRCC>&nbsp;
+<SYNC Start=615752><P Class=KRCC>
+벌레 주제에 끈질기군
+<SYNC Start=618741><P Class=KRCC>
+하지만 죗값은 치러야지
+<SYNC Start=622286><P Class=KRCC>&nbsp;
+<SYNC Start=623297><P Class=KRCC>
+이왕이면 내가 없애주지
+<SYNC Start=626888><P Class=KRCC>&nbsp;
+<SYNC Start=627984><P Class=KRCC>
+하지 마!
+<SYNC Start=629562><P Class=KRCC>&nbsp;
+<SYNC Start=630232><P Class=KRCC>
+그 사람을 죽이지 마!
+<SYNC Start=632321><P Class=KRCC>&nbsp;
+<SYNC Start=633802><P Class=KRCC>
+그 사람은 프라우에겐
+<SYNC Start=636295><P Class=KRCC>
+내 파더처럼<br>
+소중한 사람이야!
+<SYNC Start=639896><P Class=KRCC>
+주, 주인..!
+<SYNC Start=642247><P Class=KRCC>&nbsp;
+<SYNC Start=648236><P Class=KRCC>
+당신 스스로..
+<SYNC Start=650201><P Class=KRCC>
+자신의 소중한 것을 위해
+<SYNC Start=652730><P Class=KRCC>
+이 제국을 희생하는 것도<br>
+마다하지 않겠지!
+<SYNC Start=657502><P Class=KRCC>&nbsp;
+<SYNC Start=658749><P Class=KRCC>
+하지만 그래선<br>
+이 제국의 미래는 없어!
+<SYNC Start=663641><P Class=KRCC>&nbsp;
+<SYNC Start=664190><P Class=KRCC>
+그럼 왜..!
+<SYNC Start=667205><P Class=KRCC>
+무례한 놈, 죽이겠다!
+<SYNC Start=669858><P Class=KRCC>&nbsp;
+<SYNC Start=677517><P Class=KRCC>
+그만해!
+<SYNC Start=679737><P Class=KRCC>&nbsp;
+<SYNC Start=682179><P Class=KRCC>
+왜 당신은..!
+<SYNC Start=684309><P Class=KRCC>
+그렇게 슬픈 얼굴을<br>
+하고 있는 겁니까?
+<SYNC Start=687613><P Class=KRCC>
+주인
+<SYNC Start=688630><P Class=KRCC>
+당신이 가슴 아파할<br>
+일이 아니야!
+<SYNC Start=691230><P Class=KRCC>
+내가 단번에 죽여버리겠어!
+<SYNC Start=693430><P Class=KRCC>
+하지 마!
+<SYNC Start=694817><P Class=KRCC>
+주인!
+<SYNC Start=696238><P Class=KRCC>
+내게 맡기라고!
+<SYNC Start=698207><P Class=KRCC>
+안 돼! 이 사람은 프라우에겐..!
+<SYNC Start=701571><P Class=KRCC>
+프라우에겐<br>
+소중한 사람이야!
+<SYNC Start=704384><P Class=KRCC>&nbsp;
+<SYNC Start=708800><P Class=KRCC>
+이대로라면 발스가 주인의<br>
+몸속으로 들어와버려..!
+<SYNC Start=712676><P Class=KRCC>&nbsp;
+<SYNC Start=716003><P Class=KRCC>
+바스틴 님..!
+<SYNC Start=717400><P Class=KRCC>
+부탁이니..제발..
+<SYNC Start=720341><P Class=KRCC>&nbsp;
+<SYNC Start=724128><P Class=KRCC>
+프라우의 곁에 있어 주세요!
+<SYNC Start=727144><P Class=KRCC>
+프라우!
+<SYNC Start=728568><P Class=KRCC>&nbsp;
+<SYNC Start=748439><P Class=KRCC>
+제헬..!
+<SYNC Start=750104><P Class=KRCC>&nbsp;
+<SYNC Start=751542><P Class=KRCC>
+조금 들어와 버렸나?
+<SYNC Start=753421><P Class=KRCC>&nbsp;
+<SYNC Start=757433><P Class=KRCC>
+당신에게 신의 가호를..
+<SYNC Start=760502><P Class=KRCC>&nbsp;
+<SYNC Start=769075><P Class=KRCC>
+<font color=#E6FFE6>번역 및 제작 by 진다<br>
+<font color=#93DAFF>ssheoos.tistory.com
+<SYNC Start=779063><P Class=KRCC>&nbsp;
+<SYNC Start=819225><P Class=KRCC>
+와주리라 믿었습니다
+<SYNC Start=823170><P Class=KRCC>&nbsp;
+<SYNC Start=827431><P Class=KRCC>
+출구가 없는 어둠 속에서
+<SYNC Start=830415><P Class=KRCC>
+한 줄기 빛이 돌아온다
+<SYNC Start=834029><P Class=KRCC>&nbsp;
+<SYNC Start=835017><P Class=KRCC>
+처음이지 마지막이겠지
+<SYNC Start=837689><P Class=KRCC>
+신을 봐기 때문이 아니야
+<SYNC Start=840690><P Class=KRCC>
+사랑스런 그 아이의 목소리가<br>
+들렸기 때문이야
+<SYNC Start=845046><P Class=KRCC>&nbsp;
+<SYNC Start=845522><P Class=KRCC>
+왜..
+<SYNC Start=847804><P Class=KRCC>
+왜 당신이지?
+<SYNC Start=850217><P Class=KRCC>&nbsp;
+<SYNC Start=854430><P Class=KRCC>
+생츄어리의 규칙의 이용해서<br>
+구원받는 죄인들을
+<SYNC Start=859666><P Class=KRCC>
+용서할 수 없었지..
+<SYNC Start=861902><P Class=KRCC>
+타인의 목숨을 빼앗은<br>
+죄인은 구원받고
+<SYNC Start=865272><P Class=KRCC>
+사랑하는 이를 잃은 자가<br>
+구원받지 못한다면
+<SYNC Start=870440><P Class=KRCC>
+정의란 대체 뭐지?
+<SYNC Start=873872><P Class=KRCC>
+지금 내 안엔..
+<SYNC Start=876624><P Class=KRCC>
+그들의 죄와 고통
+<SYNC Start=879306><P Class=KRCC>
+전부가 있어
+<SYNC Start=881336><P Class=KRCC>
+참된 속죄를 위해..
+<SYNC Start=883482><P Class=KRCC>
+나와 함께<br>
+무로 돌아가기 위해..
+<SYNC Start=886741><P Class=KRCC>
+당신의 의는 잘못됐어
+<SYNC Start=890018><P Class=KRCC>
+사랑 없는 의는<br>
+정의롭지 못하고
+<SYNC Start=892877><P Class=KRCC>
+용서하지 못하는 자는<br>
+어둠과 같다
+<SYNC Start=896134><P Class=KRCC>
+그래서 그렇게<br>
+엉망이 되고만 거야
+<SYNC Start=900389><P Class=KRCC>&nbsp;
+<SYNC Start=900977><P Class=KRCC>
+다음엔 인간으로<br>
+태어날 순 없겠지
+<SYNC Start=906095><P Class=KRCC>
+프라우의 곁에 있어 주세요!
+<SYNC Start=909927><P Class=KRCC>&nbsp;
+<SYNC Start=911574><P Class=KRCC>
+그것도 불가능하겠지..
+<SYNC Start=914793><P Class=KRCC>&nbsp;
+<SYNC Start=922679><P Class=KRCC>
+괜찮아
+<SYNC Start=924348><P Class=KRCC>
+난 발스에 더럽혀지지 않아
+<SYNC Start=928207><P Class=KRCC>
+날 위해
+<SYNC Start=929689><P Class=KRCC>
+테이토를 대가로
+<SYNC Start=931438><P Class=KRCC>
+발스를 조종하는<br>
+발스파일과 교섭하지 않아도
+<SYNC Start=935417><P Class=KRCC>
+괜찮아
+<SYNC Start=937341><P Class=KRCC>&nbsp;
+<SYNC Start=938337><P Class=KRCC>
+언제나 당신 곁에 있을게
+<SYNC Start=940903><P Class=KRCC>&nbsp;
+<SYNC Start=941937><P Class=KRCC>
+마지막까지..
+<SYNC Start=944024><P Class=KRCC>&nbsp;
+<SYNC Start=953560><P Class=KRCC>
+뭘 하는 겁니까?
+<SYNC Start=956236><P Class=KRCC>
+신은 망설여선 안 됩니다
+<SYNC Start=959243><P Class=KRCC>
+어서 죽이세요
+<SYNC Start=961418><P Class=KRCC>&nbsp;
+<SYNC Start=962088><P Class=KRCC>
+자 이리 오세요
+<SYNC Start=965620><P Class=KRCC>
+사랑스러운 아이..
+<SYNC Start=968064><P Class=KRCC>&nbsp;
+<SYNC Start=997246><P Class=KRCC>
+왜 3가지 꿈을 이루면
+<SYNC Start=999980><P Class=KRCC>
+인간은 죽는 거지?
+<SYNC Start=1001854><P Class=KRCC>
+우린
+<SYNC Start=1003370><P Class=KRCC>
+자신의 인생을 건<br>
+3가지 꿈을
+<SYNC Start=1006637><P Class=KRCC>
+천계장과 약속했기 때문입니다
+<SYNC Start=1009877><P Class=KRCC>
+겨우 꿈을 이뤘는데..
+<SYNC Start=1012776><P Class=KRCC>&nbsp;
+<SYNC Start=1014319><P Class=KRCC>
+마음에 안 들어
+<SYNC Start=1016460><P Class=KRCC>
+진정한 꿈만이
+<SYNC Start=1018512><P Class=KRCC>
+이 세계에서
+<SYNC Start=1020008><P Class=KRCC>
+자신의 영혼을 아름답게<br>
+빛나게 할 겁니다
+<SYNC Start=1024333><P Class=KRCC>&nbsp;
+<SYNC Start=1026390><P Class=KRCC>
+그 빛은
+<SYNC Start=1028113><P Class=KRCC>
+하늘의 사자가
+<SYNC Start=1029963><P Class=KRCC>
+망설임 없이<br>
+우리의 영혼을
+<SYNC Start=1032366><P Class=KRCC>
+신의 품으로 돌려보낼<br>
+등불이 될 겁니다
+<SYNC Start=1036672><P Class=KRCC>
+당신의 3가지 꿈은 뭐야?
+<SYNC Start=1039847><P Class=KRCC>
+언젠간 당신도 죽는 거야?
+<SYNC Start=1043428><P Class=KRCC>
+그렇기에
+<SYNC Start=1045455><P Class=KRCC>&nbsp;
+<SYNC Start=1047182><P Class=KRCC>
+이렇게 함께 있는 시간을..
+<SYNC Start=1050267><P Class=KRCC>
+당신을 사랑스럽다<br>
+생각하는 겁니다
+<SYNC Start=1053832><P Class=KRCC>&nbsp;
+<SYNC Start=1059890><P Class=KRCC>
+프라우
+<SYNC Start=1061647><P Class=KRCC>&nbsp;
+<SYNC Start=1061965><P Class=KRCC>
+인간은 한 곳에 머물러<br>
+있을 순 없습니다
+<SYNC Start=1065610><P Class=KRCC>
+영혼이 이끄는 데로<br>
+나아가는 겁니다
+<SYNC Start=1069397><P Class=KRCC>
+앞으로의 세계로..
+<SYNC Start=1071983><P Class=KRCC>&nbsp;
+<SYNC Start=1073049><P Class=KRCC>
+당신의 마지막 소원..
+<SYNC Start=1075826><P Class=KRCC>
+확실히 지켜줬어..
+<SYNC Start=1078367><P Class=KRCC>&nbsp;
+<SYNC Start=1078783><P Class=KRCC>
+너무 그렇게<br>
+빠져나오지 말라고 제헬
+<SYNC Start=1081608><P Class=KRCC>
+그러다 되돌아가지<br>
+못할 수도 있어
+<SYNC Start=1084551><P Class=KRCC>
+네가 있으면 싫어도<br>
+식욕이 동한다니까
+<SYNC Start=1088127><P Class=KRCC>
+근데 너! 그 손!
+<SYNC Start=1089974><P Class=KRCC>
+아무것도 아니다
+<SYNC Start=1091507><P Class=KRCC>
+주인이 조금 저항했을 뿐이야
+<SYNC Start=1094166><P Class=KRCC>
+금방 원래대로<br>
+돌아갈 거다
+<SYNC Start=1095818><P Class=KRCC>&nbsp;
+<SYNC Start=1096443><P Class=KRCC>
+도와주러 올 필요는 없었어
+<SYNC Start=1099825><P Class=KRCC>
+내 본래의 존재 의의를<br>
+알고 있으면서
+<SYNC Start=1104609><P Class=KRCC>
+그래
+<SYNC Start=1105697><P Class=KRCC>
+그렇기에<br>
+소중히 여기는 거다
+<SYNC Start=1108972><P Class=KRCC>&nbsp;
+<SYNC Start=1110364><P Class=KRCC>
+어서 빨리<br>
+제대로 각성해버리라고
+<SYNC Start=1113998><P Class=KRCC>&nbsp;
+<SYNC Start=1115677><P Class=KRCC>
+너한텐 죽어도 상관없어
+<SYNC Start=1119798><P Class=KRCC>&nbsp;
+<SYNC Start=1123855><P Class=KRCC>
+프라우..?
+<SYNC Start=1126024><P Class=KRCC>&nbsp;
+<SYNC Start=1132021><P Class=KRCC>
+잠들어
+<SYNC Start=1133395><P Class=KRCC>
+프라우..
+<SYNC Start=1134871><P Class=KRCC>&nbsp;
+<SYNC Start=1136945><P Class=KRCC>
+지오 님
+<SYNC Start=1138033><P Class=KRCC>
+바스틴 님의 편지를<br>
+가지고 왔습니다
+<SYNC Start=1141619><P Class=KRCC>&nbsp;
+<SYNC Start=1143566><P Class=KRCC>
+지오 대사교
+<SYNC Start=1145571><P Class=KRCC>
+이 편지가 당신에게<br>
+도착할 무렵이면
+<SYNC Start=1148515><P Class=KRCC>
+전 거기에 없을 겁니다
+<SYNC Start=1151436><P Class=KRCC>&nbsp;
+<SYNC Start=1151871><P Class=KRCC>
+부디 용서해 주십시오
+<SYNC Start=1153940><P Class=KRCC>
+전 제국을 어지럽히는 죄인들을<br>
+어둠 속으로 떨어뜨렸습니다
+<SYNC Start=1159461><P Class=KRCC>&nbsp;
+<SYNC Start=1160147><P Class=KRCC>
+가여운 그들은
+<SYNC Start=1161936><P Class=KRCC>
+죄악감에서<br>
+벗어나기만을 원하며
+<SYNC Start=1165352><P Class=KRCC>
+자신의 죄와 마주하려<br>
+하지 않았습니다
+<SYNC Start=1170386><P Class=KRCC>
+평생을 짊어질<br>
+각오가 없다면
+<SYNC Start=1173537><P Class=KRCC>
+그들의 죄와 고통을
+<SYNC Start=1176362><P Class=KRCC>
+모두 제가<br>
+가지고 가겠습니다
+<SYNC Start=1179284><P Class=KRCC>&nbsp;
+<SYNC Start=1180184><P Class=KRCC>
+저의 서재에 발스의<br>
+연구 기록을 남겨뒀습니다
+<SYNC Start=1184711><P Class=KRCC>
+성수가 있다면
+<SYNC Start=1186595><P Class=KRCC>
+1개월은 침식을<br>
+막을 수 있을 겁니다
+<SYNC Start=1190515><P Class=KRCC>&nbsp;
+<SYNC Start=1191428><P Class=KRCC>
+전
+<SYNC Start=1193010><P Class=KRCC>
+제국을 따르는 것도
+<SYNC Start=1195310><P Class=KRCC>
+신을 모시는 것도<br>
+할 수 없었습니다
+<SYNC Start=1198349><P Class=KRCC>&nbsp;
+<SYNC Start=1199486><P Class=KRCC>
+그 아이의 좋은 파더가<br>
+되고 싶었습니다
+<SYNC Start=1203802><P Class=KRCC>&nbsp;
+<SYNC Start=1204991><P Class=KRCC>
+바스틴
+<SYNC Start=1206625><P Class=KRCC>
+그래도 난
+<SYNC Start=1208506><P Class=KRCC>
+자네가 프라우를<br>
+택하리라 믿었어
+<SYNC Start=1212495><P Class=KRCC>&nbsp;
+<SYNC Start=1221149><P Class=KRCC>
+안됐군요
+<SYNC Start=1223157><P Class=KRCC>
+페어로렌의 낫을<br>
+찾지 못해서
+<SYNC Start=1226777><P Class=KRCC>
+말도 안돼..!
+<SYNC Start=1228110><P Class=KRCC>
+내가 인형과 착각을 하다니..!
+<SYNC Start=1231912><P Class=KRCC>&nbsp;
+<SYNC Start=1234801><P Class=KRCC>
+테이토 군을 구하려고
+<SYNC Start=1237007><P Class=KRCC>
+제헬이 빠져나갈 것까지<br>
+계산하다니
+<SYNC Start=1240754><P Class=KRCC>
+이것도 인형인가?!
+<SYNC Start=1242763><P Class=KRCC>&nbsp;
+<SYNC Start=1250669><P Class=KRCC>
+제헬은 어딨어!!
+<SYNC Start=1253639><P Class=KRCC>&nbsp;
+<SYNC Start=1255959><P Class=KRCC>
+왜지..?
+<SYNC Start=1256979><P Class=KRCC>
+전부 진짜 인간으로 보여..!
+<SYNC Start=1260191><P Class=KRCC>&nbsp;
+<SYNC Start=1261341><P Class=KRCC>
+당신이야말로 그 영혼의<br>
+절반은 어디에 있습니까?
+<SYNC Start=1266329><P Class=KRCC>&nbsp;
+<SYNC Start=1272720><P Class=KRCC>
+훌륭하군요
+<SYNC Start=1274589><P Class=KRCC>&nbsp;
+<SYNC Start=1277255><P Class=KRCC>
+제헬을 어디다 숨겼지?!
+<SYNC Start=1279048><P Class=KRCC>
+말해!
+<SYNC Start=1280922><P Class=KRCC>&nbsp;
+<SYNC Start=1285085><P Class=KRCC>
+미안하군요
+<SYNC Start=1287273><P Class=KRCC>
+제가 얘기를<br>
+나누고 싶은 건
+<SYNC Start=1289412><P Class=KRCC>
+당신의 뒤에 있는<br>
+사람이니까요
+<SYNC Start=1293130><P Class=KRCC>&nbsp;
+<SYNC Start=1299709><P Class=KRCC>
+발버둥치면 아플 뿐입니다
+<SYNC Start=1303391><P Class=KRCC>&nbsp;
+<SYNC Start=1309965><P Class=KRCC>
+이제야 만나게 되는군요
+<SYNC Start=1313030><P Class=KRCC>&nbsp;
+<SYNC Start=1314001><P Class=KRCC>
+또 네 녀석의 방해를 받는군
+<SYNC Start=1317581><P Class=KRCC>
+페스토
+<SYNC Start=1319429><P Class=KRCC>&nbsp;
+<SYNC Start=1410793><P Class=KRCC>
+소년은 삼켜진다
+<SYNC Start=1412862><P Class=KRCC>
+스스로 구원을 향해..
+<SYNC Start=1414894><P Class=KRCC>
+그 악마의 속삭임에..
+<SYNC Start=1417437><P Class=KRCC>
+흔들리는 소년의 눈동자에
+<SYNC Start=1419473><P Class=KRCC>
+다시 한번 빛나는<br>
+날이 올 것인가..
+<SYNC Start=1422514><P Class=KRCC>
+<font color=#648CFF>엇갈리는 사랑.<br>
+그러나 변함없는 사랑의 끝은..</font><br>
+꽃아 내게 알려줘
+<SYNC Start=1425134><P Class=KRCC>&nbsp;
+<SYNC Start=1425734><P Class=KRCC>&nbsp;
+</BODY>
+</SAMI>

@@ -1,0 +1,981 @@
+<SAMI>
+<HEAD>
+<TITLE>Hanbange 3.0 - (C) Breadu Soft 2008</TITLE>
+<STYLE TYPE="text/css">
+<!--
+P { margin-left:8pt; margin-right:8pt; margin-bottom:2pt;
+    margin-top:2pt; font-size:14pt; text-align:center;
+    font-family:굴림, Arial; font-weight:normal; color:white;
+    background-color:black; }
+.KRCC { Name:한국어; lang:ko-KR; SAMIType:CC; }
+#STDPrn { Name:Standard Print; }
+#LargePrn { Name:Large Print; font-size:20pt; }
+#SmallPrn { Name:Small Print; font-size:10pt; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<SYNC Start=460><P Class=KRCC>
+<font color=#8b4513>[갑장(甲裝)-아(牙) '삼(參) / 쉔롱(甲龍)]</font>
+<SYNC Start=2380><P Class=KRCC>
+<font color=#8b4513>[용포(龍砲)]</font>
+<SYNC Start=3390><P Class=KRCC>
+<font color=#708090>[XX-01/뱌쿠시키(白式)]</font>
+<SYNC Start=5970><P Class=KRCC>&nbsp;
+<SYNC Start=8270><P Class=KRCC>
+<font color=#8b4513>[장비:쌍천아월(雙天牙月)]</font>/<font color=#708090>[장비:유키히라 니가타(雪片貳型)]</font>
+<SYNC Start=11550><P Class=KRCC>&nbsp;
+<SYNC Start=13680><P Class=KRCC>
+계속 거리를 둬도, 언제부턴가 깊숙히 들어와
+<SYNC Start=16960><P Class=KRCC>&nbsp;
+<SYNC Start=17680><P Class=KRCC>
+탄막이 약해
+<SYNC Start=19160><P Class=KRCC>
+좋았어!
+<SYNC Start=19950><P Class=KRCC>&nbsp;
+<SYNC Start=19950><P Class=KRCC>
+<font color=#708090>[장비:세츠라(雪羅)-하전입자포-]</font>
+<SYNC Start=26065><P Class=KRCC>&nbsp;
+<SYNC Start=26845><P Class=KRCC>
+아직 멀었어!!
+<SYNC Start=28265><P Class=KRCC>&nbsp;
+<SYNC Start=34495><P Class=KRCC>
+할 수 있어
+<SYNC Start=35365><P Class=KRCC>&nbsp;
+<SYNC Start=37375><P Class=KRCC>
+좋았어! 이대로 몰아 붙있다!!
+<SYNC Start=39015><P Class=KRCC>&nbsp;
+<SYNC Start=45613><P Class=KRCC>
+2학기 첫 실전훈련인지
+<SYNC Start=47783><P Class=KRCC>
+둘 다 기합이 들어가있네요
+<SYNC Start=50183><P Class=KRCC>&nbsp;
+<SYNC Start=51223><P Class=KRCC>
+어
+<SYNC Start=52359><P Class=KRCC>
+이 시합도 오리무라군이 우세하네요
+<SYNC Start=55429><P Class=KRCC>
+아니
+<SYNC Start=56319><P Class=KRCC>
+저 바보는 맹한 상태에서 날뛸 뿐이야
+<SYNC Start=59359><P Class=KRCC>&nbsp;
+<SYNC Start=64052><P Class=KRCC>
+링
+<SYNC Start=64612><P Class=KRCC>&nbsp;
+<SYNC Start=66012><P Class=KRCC>
+<font color=#708090>[장비:유키히라 니가타[雪片二型)]</font><br>
+다음에 끝장 내줄게
+<SYNC Start=67674><P Class=KRCC>&nbsp;
+<SYNC Start=82570><P Class=KRCC>
+<font color=#ff0000>[SHIELD ENERGY 0 - 실드 에너지 0]</font>
+<SYNC Start=82980><P Class=KRCC>
+<font color=#ff0000>[EMPTY NOT SHIELDED - 실드 소실]</font>
+<SYNC Start=84020><P Class=KRCC>&nbsp;
+<SYNC Start=86154><P Class=KRCC>
+잡았다!
+<SYNC Start=86644><P Class=KRCC>&nbsp;
+<SYNC Start=89464><P Class=KRCC>
+실드에너지를 너무 썼어!
+<SYNC Start=90634><P Class=KRCC>&nbsp;
+<SYNC Start=94662><P Class=KRCC>
+<font color=#8b4513>[장비:용포(龍砲)]</font>
+<SYNC Start=95732><P Class=KRCC>&nbsp;
+<SYNC Start=100462><P Class=KRCC>
+<font face="휴먼매직체"><font color=#87cefa>분명 만날 수 있어</font>
+<SYNC Start=103018><P Class=KRCC>
+<font face="휴먼매직체"><font color=#87cefa>미소와 눈물을 품고서</font>
+<SYNC Start=106368><P Class=KRCC>
+<font face="휴먼매직체"><font color=#87cefa>당신과 함께라면</font>
+<SYNC Start=111248><P Class=KRCC>&nbsp;
+<SYNC Start=112192><P Class=KRCC>
+<font color=#ff8c00>타이틀 : 인피니트 스트라토스</font>
+<SYNC Start=114662><P Class=KRCC>
+<font color=#ff8c00>원작 : 유미즈루 이즈루</font>
+<SYNC Start=117572><P Class=KRCC>
+<font color=#ff8c00>원화 : 오키우라 → CHOCO</font>
+<SYNC Start=120503><P Class=KRCC>
+<font color=#ff8c00>자막제작 : 츠카사</font>
+<SYNC Start=122053><P Class=KRCC>&nbsp;
+<SYNC Start=123403><P Class=KRCC>
+<font face="휴먼매직체"><font color=#87cefa>내일의 하늘은 무슨 색으로 바뀔까?</font>
+<SYNC Start=129113><P Class=KRCC>
+<font face="휴먼매직체"><font color=#87cefa>자신의 힘으로 반짝이게 해보자</font>
+<SYNC Start=134833><P Class=KRCC>
+<font face="휴먼매직체"><font color=#87cefa>알 수 없는 일이 있으니까 두근거리네</font>
+<SYNC Start=140213><P Class=KRCC>
+<font face="휴먼매직체"><font color=#87cefa>시험하고 싶은 건 한계를 정하지 않아도 돼</font>
+<SYNC Start=146563><P Class=KRCC>
+<font face="휴먼매직체"><font color=#87cefa>알차차려줘. 바람의 목소리가 알려주잖아</font>
+<SYNC Start=151491><P Class=KRCC>
+<font face="휴먼매직체"><font color=#87cefa>나아가보자</font>
+<SYNC Start=153661><P Class=KRCC>
+<font face="휴먼매직체"><font color=#87cefa>다음 이야기 속으로</font>
+<SYNC Start=157041><P Class=KRCC>
+<font face="휴먼매직체"><font color=#87cefa>날아올라가라!!</font>
+<SYNC Start=157808><P Class=KRCC>
+<font color=#00ced1>[오프닝 : True Blue Traveler]</font><br>
+<font color=#00bfff>[가  수 : 쿠리바야시 미나미]</font><br>
+<font face="휴먼매직체"><font color=#87cefa>날아올라가라!!</font>
+<SYNC Start=159540><P Class=KRCC>
+<font color=#00ced1>[오프닝 : True Blue Traveler]</font><br>
+<font color=#00bfff>[가  수 : 쿠리바야시 미나미]</font><br>
+<font face="휴먼매직체"><font color=#87cefa>질 것 같아도 도망치지 않아</font>
+<SYNC Start=162274><P Class=KRCC>
+<font face="휴먼매직체"><font color=#87cefa>질 것 같아도 도망치지 않아</font>
+<SYNC Start=162740><P Class=KRCC>
+<font face="휴먼매직체"><font color=#87cefa>당신과 새기는 시간을</font>
+<SYNC Start=165550><P Class=KRCC>
+<font face="휴먼매직체"><font color=#87cefa>믿고서 걸어가보자</font>
+<SYNC Start=168360><P Class=KRCC>
+<font face="휴먼매직체"><font color=#87cefa>빛 마저도</font>
+<SYNC Start=170780><P Class=KRCC>
+<font face="휴먼매직체"><font color=#87cefa>미소와 눈물을 품고서</font>
+<SYNC Start=174050><P Class=KRCC>
+<font face="휴먼매직체"><font color=#87cefa>소중한 사람을 지키기 위해서</font>
+<SYNC Start=178490><P Class=KRCC>
+<font face="휴먼매직체"><font color=#87cefa>강해지거라!</font>
+<SYNC Start=180010><P Class=KRCC>&nbsp;
+<SYNC Start=187347><P Class=KRCC>
+<font color=#1e90ff>INFINITE STRATOSE 2</font><br>
+<font coor=#1e90ff>인피니트 스트라토스 2</font>
+<SYNC Start=189714><P Class=KRCC>
+- <ruby>사랑☆진통제<rt>하트 페인키러</rt></ruby> -
+<SYNC Start=195034><P Class=KRCC>&nbsp;
+<SYNC Start=199914><P Class=KRCC>
+조금만 더 하면 이겼는데...
+<SYNC Start=202614><P Class=KRCC>
+역시 'EMPTY(빈 공간)'을 어떻게든 해야..
+<SYNC Start=204934><P Class=KRCC>&nbsp;
+<SYNC Start=205992><P Class=KRCC>
+누~구~게?
+<SYNC Start=206932><P Class=KRCC>&nbsp;
+<SYNC Start=209162><P Class=KRCC>
+누.. 누구야?
+<SYNC Start=211224><P Class=KRCC>
+에이. 타임오버
+<SYNC Start=212484><P Class=KRCC>&nbsp;
+<SYNC Start=216801><P Class=KRCC>
+걸렸구낫~!
+<SYNC Start=217991><P Class=KRCC>&nbsp;
+<SYNC Start=219161><P Class=KRCC>
+저기... 당신은?
+<SYNC Start=222031><P Class=KRCC>&nbsp;
+<SYNC Start=223211><P Class=KRCC>
+그럼 안녕~
+<SYNC Start=224381><P Class=KRCC>&nbsp;
+<SYNC Start=225901><P Class=KRCC>
+자네 서두르지 않으면 오리무라 선생님한테 혼난다~
+<SYNC Start=229771><P Class=KRCC>&nbsp;
+<SYNC Start=242062><P Class=KRCC>
+지각한 이유는 다 말했나?
+<SYNC Start=244242><P Class=KRCC>
+아.. 저기.. 그게 말이죠
+<SYNC Start=246452><P Class=KRCC>
+그러니까 저기.. 처음 본 여학생이..
+<SYNC Start=249372><P Class=KRCC>
+그렇구만..
+<SYNC Start=250378><P Class=KRCC>
+네 녀석은 첫 만남의 여학생과의 대화를 우선적으로 해서 수업에 늦은건가
+<SYNC Start=255058><P Class=KRCC>
+아닙니다!
+<SYNC Start=256458><P Class=KRCC>
+뒤누아. '레피트 스위치'의 시범이다<br>
+<font color=#778899>[레피트 스위치:대용량의 확장영역을 이용해서 사전에 무기를 호출할 필요없이 전투 중 동시다발적으로 상대에 맞게 무기를 호출 수납하는 기술]</font>
+<SYNC Start=259594><P Class=KRCC>&nbsp;
+<SYNC Start=265264><P Class=KRCC>
+그럼
+<SYNC Start=266026><P Class=KRCC>
+<font color=#ff0000>'시범을 시작하겠습니다'</font>
+<SYNC Start=267322><P Class=KRCC>&nbsp;
+<SYNC Start=270730><P Class=KRCC>
+<font color=#ffff00>[RR-08/S2 / 라팔 리바이브 커스텀 2]</font>
+<SYNC Start=272890><P Class=KRCC>&nbsp;
+<SYNC Start=273708><P Class=KRCC>
+저기..
+<SYNC Start=274378><P Class=KRCC>
+샤를로트 씨?
+<SYNC Start=276428><P Class=KRCC>&nbsp;
+<SYNC Start=277288><P Class=KRCC>
+<font color=#ffff00>[장비:어설트 라이플 - FN P90]</font><br>
+<SYNC Start=277645><P Class=KRCC>
+왜 그래?<br>
+<font color=#ffff00>[장비:어설트 라이플 - FN P90]</font><br>
+<SYNC Start=278495><P Class=KRCC>
+<font color=#ff0000>'오리무라군'</font><br>
+<font color=#ffff00>[장비:어설트 라이플 - FN P90]</font><br>
+<SYNC Start=279625><P Class=KRCC>&nbsp;
+<SYNC Start=281362><P Class=KRCC>
+시작하자. 리바이브!!
+<SYNC Start=283322><P Class=KRCC>&nbsp;
+<SYNC Start=289792><P Class=KRCC>
+<font color=#c0c0c0>그럼. 학생회장님께서 설명하시겠습니다</font>
+<SYNC Start=293312><P Class=KRCC>&nbsp;
+<SYNC Start=300962><P Class=KRCC>
+어디보자~
+<SYNC Start=302192><P Class=KRCC>
+올해는 여러 일이 겹쳐지는 바람에
+<SYNC Start=304852><P Class=KRCC>
+제대로 인사도 못했지
+<SYNC Start=306912><P Class=KRCC>
+내 이름은 사라시키 타테나시야
+<SYNC Start=309892><P Class=KRCC>
+너희들의 우두머리야
+<SYNC Start=311812><P Class=KRCC>
+앞으로 잘 부탁해
+<SYNC Start=313352><P Class=KRCC>&nbsp;
+<SYNC Start=319972><P Class=KRCC>
+<font color=#c0c0c0>[의제 : 축제]</font>
+<SYNC Start=320642><P Class=KRCC>
+그럼 오늘 학교 축제말인데..<br>
+<font color=#c0c0c0>[의제 : 축제]</font>
+<SYNC Start=323142><P Class=KRCC>
+반에서 내 놓을 건 모두 함께 힘내서 할 것!<br>
+<font color=#c0c0c0>[의제 : 축제]</font>
+<SYNC Start=326152><P Class=KRCC>&nbsp;
+<SYNC Start=326742><P Class=KRCC>
+<font color=#c0c0c0>[종절간근(綜切間近) : 일본속담]</font>
+<SYNC Start=328632><P Class=KRCC>&nbsp;
+<SYNC Start=329462><P Class=KRCC>
+에.. 그러니까...
+<SYNC Start=331022><P Class=KRCC>
+우리 반에서 내놓을 거 말인데..
+<SYNC Start=334385><P Class=KRCC>
+<font color=#c0c0c0>[덕무라의 호스트 클럽]</font>
+<SYNC Start=335115><P Class=KRCC>
+<font color=#c0c0c0>[덕무라와 빼빼로 놀이/덕무라와 트위스터 게임]</font>
+<SYNC Start=335835><P Class=KRCC>
+<font color=#c0c0c0>[덕무라와 빼빼로 놀이]</font>
+<SYNC Start=336565><P Class=KRCC>
+<font color=#c0c0c0>[덕무라와 왕게임]</font>
+<SYNC Start=337133><P Class=KRCC>&nbsp;
+<SYNC Start=338403><P Class=KRCC>
+전부 기각!!
+<SYNC Start=339553><P Class=KRCC>&nbsp;
+<SYNC Start=341313><P Class=KRCC>
+바보냐!
+<SYNC Start=342033><P Class=KRCC>
+누가 이런 거 좋아할 것 같아!
+<SYNC Start=344213><P Class=KRCC>
+나는 좋아하는데~. 단언할게
+<SYNC Start=346803><P Class=KRCC>
+뭐?
+<SYNC Start=347383><P Class=KRCC>
+맞다. 맞아!
+<SYNC Start=348673><P Class=KRCC>
+여자를 기쁘게 하는 의무를 다하라!
+<SYNC Start=351083><P Class=KRCC>
+뭬이야?!
+<SYNC Start=352473><P Class=KRCC>
+오리무라 이치카는 공동재산이다!
+<SYNC Start=354823><P Class=KRCC>&nbsp;
+<SYNC Start=357673><P Class=KRCC>
+야마다 선생님
+<SYNC Start=358953><P Class=KRCC>
+이런 이상한 기획은 안돼는 거 맞죠?
+<SYNC Start=362023><P Class=KRCC>
+네?
+<SYNC Start=362983><P Class=KRCC>
+아... 그러니까..
+<SYNC Start=365073><P Class=KRCC>
+저.. 저는 빼빼로 놀이가 좋을 것 같아요
+<SYNC Start=369393><P Class=KRCC>&nbsp;
+<SYNC Start=372913><P Class=KRCC>
+어.. 어쨌든 말야!
+<SYNC Start=373998><P Class=KRCC>
+평범한 의견을 내라고!
+<SYNC Start=376023><P Class=KRCC>
+메이드 카페는 어떤가?
+<SYNC Start=377843><P Class=KRCC>&nbsp;
+<SYNC Start=380953><P Class=KRCC>
+라..라우라?
+<SYNC Start=383286><P Class=KRCC>
+손님들의 평판도 좋지 아니한가
+<SYNC Start=384986><P Class=KRCC>
+그리고 음식점은 경비 회수도 가능하다
+<SYNC Start=388836><P Class=KRCC>&nbsp;
+<SYNC Start=390946><P Class=KRCC>
+좋지 않을까?
+<SYNC Start=392431><P Class=KRCC>
+이치카는 집사나 주방을 담당하면 되겠지?
+<SYNC Start=396859><P Class=KRCC>&nbsp;
+<SYNC Start=397621><P Class=KRCC>
+오리무라군... 집사라..
+<SYNC Start=399851><P Class=KRCC>
+좋아!
+<SYNC Start=400581><P Class=KRCC>&nbsp;
+<SYNC Start=401759><P Class=KRCC>
+메이드복 어떻할래?
+<SYNC Start=403017><P Class=KRCC>
+나 바느질 할 줄 알아!
+<SYNC Start=404117><P Class=KRCC>
+그럼 '봉사 카페'로 결정이네요!
+<SYNC Start=406557><P Class=KRCC>
+[찬성!!]
+<SYNC Start=408327><P Class=KRCC>&nbsp;
+<SYNC Start=413077><P Class=KRCC>
+뭐..별난 의상의 카페라고 생각하면 될까나..
+<SYNC Start=416977><P Class=KRCC>&nbsp;
+<SYNC Start=417627><P Class=KRCC>
+<font color=#c0c0c0>[교무실]</font>
+<SYNC Start=418579><P Class=KRCC>&nbsp;
+<SYNC Start=423369><P Class=KRCC>
+아차!
+<SYNC Start=424229><P Class=KRCC>
+벌써 특훈 시간이잖아!
+<SYNC Start=425609><P Class=KRCC>&nbsp;
+<SYNC Start=427179><P Class=KRCC>
+여~!
+<SYNC Start=427879><P Class=KRCC>&nbsp;
+<SYNC Start=433656><P Class=KRCC>
+학생회장..님?
+<SYNC Start=435876><P Class=KRCC>
+딱딱하네. 타테나시라 불러
+<SYNC Start=438676><P Class=KRCC>&nbsp;
+<SYNC Start=440136><P Class=KRCC>
+아.. 무슨 일이세요?
+<SYNC Start=442206><P Class=KRCC>
+당분간 자네의 IS코치를 해줄까 하는데?
+<SYNC Start=445126><P Class=KRCC>&nbsp;
+<SYNC Start=446266><P Class=KRCC>
+갑자기 왜 그러시는지?
+<SYNC Start=448036><P Class=KRCC>
+코치는 많이 있어서..
+<SYNC Start=449586><P Class=KRCC>
+괜찮습니다
+<SYNC Start=450696><P Class=KRCC>
+하지만 자네는 아직 쪽빨이지?
+<SYNC Start=453396><P Class=KRCC>&nbsp;
+<SYNC Start=454696><P Class=KRCC>
+그 만큼 약하지 않다고 생각합니다만..
+<SYNC Start=457316><P Class=KRCC>
+아니. 쪽빨이야
+<SYNC Start=459156><P Class=KRCC>
+엄청나게 쪽빨이지
+<SYNC Start=460556><P Class=KRCC>&nbsp;
+<SYNC Start=461856><P Class=KRCC>
+그러니까
+<SYNC Start=463066><P Class=KRCC>
+조금이라도 제대로 할 수 있게
+<SYNC Start=464965><P Class=KRCC>
+내가 단련시켜준다는 얘기야
+<SYNC Start=467635><P Class=KRCC>&nbsp;
+<SYNC Start=468235><P Class=KRCC>
+그렇게까지 말하실 필요는 없잖아요!
+<SYNC Start=469625><P Class=KRCC>
+그럼 승부합니다!
+<SYNC Start=471085><P Class=KRCC>
+제가 지면 뭐든지 따르겠습니다!
+<SYNC Start=473475><P Class=KRCC>
+응! 좋아~
+<SYNC Start=474775><P Class=KRCC>&nbsp;
+<SYNC Start=488392><P Class=KRCC>
+알겠지?
+<SYNC Start=489630><P Class=KRCC>
+한 번이라도 나를 바닥에 넘어뜨리면 자네의 승리
+<SYNC Start=492610><P Class=KRCC>&nbsp;
+<SYNC Start=493525><P Class=KRCC>
+반대로 자네가 전투불능이 되면 내 승리야
+<SYNC Start=496975><P Class=KRCC>
+그걸로 되겠지?
+<SYNC Start=498005><P Class=KRCC>&nbsp;
+<SYNC Start=500316><P Class=KRCC>
+제법 얕보고 있군요
+<SYNC Start=502696><P Class=KRCC>&nbsp;
+<SYNC Start=503556><P Class=KRCC>
+내가 이기니까 괜찮아
+<SYNC Start=505946><P Class=KRCC>&nbsp;
+<SYNC Start=508226><P Class=KRCC>
+그럼..
+<SYNC Start=509394><P Class=KRCC>
+그럼. 진심으로 갑니다
+<SYNC Start=510924><P Class=KRCC>
+언제든지 상관없어
+<SYNC Start=512314><P Class=KRCC>&nbsp;
+<SYNC Start=520454><P Class=KRCC>
+IS 학원의 격에 따라
+<SYNC Start=522144><P Class=KRCC>
+학생회장이라는 간판은..
+<SYNC Start=524014><P Class=KRCC>&nbsp;
+<SYNC Start=525784><P Class=KRCC>
+어떤 사실을 증명하고 있어
+<SYNC Start=528484><P Class=KRCC>&nbsp;
+<SYNC Start=531143><P Class=KRCC>
+'학생회장'
+<SYNC Start=532543><P Class=KRCC>
+즉, '모든 학생들의 우두머리가 된 존재'는..
+<SYNC Start=535953><P Class=KRCC>&nbsp;
+<SYNC Start=538543><P Class=KRCC>
+'최강'이여야 할 것
+<SYNC Start=540023><P Class=KRCC>&nbsp;
+<SYNC Start=540663><P Class=KRCC>
+라고 말야
+<SYNC Start=541543><P Class=KRCC>&nbsp;
+<SYNC Start=543003><P Class=KRCC>
+이걸로 3번째
+<SYNC Start=544063><P Class=KRCC>
+아직도 붙을래?
+<SYNC Start=545093><P Class=KRCC>&nbsp;
+<SYNC Start=546993><P Class=KRCC>
+아직 멀었어요!
+<SYNC Start=548173><P Class=KRCC>&nbsp;
+<SYNC Start=549896><P Class=KRCC>
+열심히 하는 남자는 맘에 들어
+<SYNC Start=552146><P Class=KRCC>
+거 참 고맙군 그려
+<SYNC Start=553806><P Class=KRCC>&nbsp;
+<SYNC Start=569476><P Class=KRCC>
+이치카군은 엣찌!!
+<SYNC Start=571560><P Class=KRCC>&nbsp;
+<SYNC Start=575120><P Class=KRCC>
+이치카군
+<SYNC Start=575990><P Class=KRCC>&nbsp;
+<SYNC Start=577680><P Class=KRCC>
+누님의 속옷차림을 본 죄는...
+<SYNC Start=580170><P Class=KRCC>
+누님의 속옷차림을 본 죄는 중죄란다
+<SYNC Start=581758><P Class=KRCC>&nbsp;
+<SYNC Start=590218><P Class=KRCC>
+정말이지. 그 녀석은 어디로 간건가?
+<SYNC Start=592635><P Class=KRCC>&nbsp;
+<SYNC Start=593375><P Class=KRCC>
+신부로써 실격이다
+<SYNC Start=594625><P Class=KRCC>&nbsp;
+<SYNC Start=599525><P Class=KRCC>
+설마. 피해다니는 건 아닌가?
+<SYNC Start=602865><P Class=KRCC>
+설마..
+<SYNC Start=603895><P Class=KRCC>&nbsp;
+<SYNC Start=609365><P Class=KRCC>
+리코. 뒷버리 엄청 뻣첬어
+<SYNC Start=612425><P Class=KRCC>
+에? 어디인데?
+<SYNC Start=613965><P Class=KRCC>
+아~ 오늘 늦잠자서 머리세팅 못하고 왔단 말야
+<SYNC Start=618215><P Class=KRCC>
+안돼지. 용모가짐는 언제나 단정해야지
+<SYNC Start=621575><P Class=KRCC>
+오리무라군에게 미움 받을거야
+<SYNC Start=623805><P Class=KRCC>
+요..용모가짐?
+<SYNC Start=625205><P Class=KRCC>&nbsp;
+<SYNC Start=643649><P Class=KRCC>
+됐다!
+<SYNC Start=644509><P Class=KRCC>
+호오~ 너도 그런 걸 신경쓰게 되었나?
+<SYNC Start=648479><P Class=KRCC>&nbsp;
+<SYNC Start=651415><P Class=KRCC>
+청춘이구나
+<SYNC Start=652405><P Class=KRCC>&nbsp;
+<SYNC Start=654425><P Class=KRCC>
+아닙니다. 교관님! 결고 수상한 행동이 아니라!
+<SYNC Start=658065><P Class=KRCC>&nbsp;
+<SYNC Start=659385><P Class=KRCC>
+오리무라 선생님이라 불러라
+<SYNC Start=661095><P Class=KRCC>
+넵
+<SYNC Start=663355><P Class=KRCC>
+그러고보니 오리무라는 보건실 앞에서 봤다
+<SYNC Start=667215><P Class=KRCC>&nbsp;
+<SYNC Start=668871><P Class=KRCC>
+보건실?
+<SYNC Start=670038><P Class=KRCC>
+<font color=#1e90ff>INFINITE STRATOSE 2</font><br>
+<font coor=#1e90ff>인피니트 스트라토스 2</font>
+<SYNC Start=673830><P Class=KRCC>&nbsp;
+<SYNC Start=724299><P Class=KRCC>
+이제 일어났니?
+<SYNC Start=725109><P Class=KRCC>&nbsp;
+<SYNC Start=729969><P Class=KRCC>
+무..무.무. 무슨 짓을 하고 있는 건가요?!
+<SYNC Start=732119><P Class=KRCC>
+무릎베개
+<SYNC Start=733339><P Class=KRCC>
+그게 아니라!
+<SYNC Start=734509><P Class=KRCC>&nbsp;
+<SYNC Start=735729><P Class=KRCC>
+괜찮아. 괜찮아
+<SYNC Start=737389><P Class=KRCC>
+잠깐!
+<SYNC Start=738629><P Class=KRCC>&nbsp;
+<SYNC Start=747176><P Class=KRCC>
+<font color=#ff0000>목표를 격파한다</font>
+<SYNC Start=749066><P Class=KRCC>&nbsp;
+<SYNC Start=749936><P Class=KRCC>
+<font color=#808080>[장비:플라즈마 블레이드]</font>
+<SYNC Start=753584><P Class=KRCC>&nbsp;
+<SYNC Start=768229><P Class=KRCC>
+음.. 솔직하고 좋구먼
+<SYNC Start=770469><P Class=KRCC>&nbsp;
+<SYNC Start=771109><P Class=KRCC>
+그럼 이치카군. 슬슬 시작할까?
+<SYNC Start=773929><P Class=KRCC>
+네.. 네..
+<SYNC Start=775609><P Class=KRCC>&nbsp;
+<SYNC Start=779419><P Class=KRCC>
+어라? 이치카?
+<SYNC Start=781299><P Class=KRCC>
+오늘은 제 4 아레나에서 라우라씨와 특훈한다고 들었는데요?
+<SYNC Start=785959><P Class=KRCC>&nbsp;
+<SYNC Start=787399><P Class=KRCC>
+내가 이제부터 이치카군의 전속 코치를 할테니까
+<SYNC Start=790799><P Class=KRCC>
+잘 부탁해
+<SYNC Start=792109><P Class=KRCC>
+학생회장님이 코치?
+<SYNC Start=794479><P Class=KRCC>
+이치카씨. 어떻게 된건가요?
+<SYNC Start=796659><P Class=KRCC>&nbsp;
+<SYNC Start=797849><P Class=KRCC>
+이건.. 그게..
+<SYNC Start=799819><P Class=KRCC>
+승부의 결과야..
+<SYNC Start=801629><P Class=KRCC>
+맞아..
+<SYNC Start=802579><P Class=KRCC>
+뭐. 어떠한가. 이것도 이치카군을 위한 거라 생각하고.
+<SYNC Start=805469><P Class=KRCC>&nbsp;
+<SYNC Start=806539><P Class=KRCC>
+그래! 모두 협력해줬으면 하는게 있어
+<SYNC Start=810039><P Class=KRCC>
+협력?
+<SYNC Start=811249><P Class=KRCC>
+말인가요?
+<SYNC Start=812289><P Class=KRCC>&nbsp;
+<SYNC Start=815739><P Class=KRCC>
+시간도 없으니까, 빨리 시작할까?
+<SYNC Start=818899><P Class=KRCC>
+샤를로트쨩, 세실리아쨩
+<SYNC Start=820839><P Class=KRCC>
+'슈터 플로로 서클 론드'를 해 봐<br>
+<font color=#778899>[슈터 플로로 서클 론드 : 원추 비상 제어]</font>
+<SYNC Start=823932><P Class=KRCC>
+'사격형 전투동작'이 이치카씨에게 도움이 될까요?
+<SYNC Start=828332><P Class=KRCC>&nbsp;
+<SYNC Start=841752><P Class=KRCC>
+<font color=#0000ff>[BT-01/블루티어즈]</font>/<font color=#ffff00>[RR-08/S2 / 라팔 리바이브 커스텀 2]</font>
+<SYNC Start=842231><P Class=KRCC>
+그럼 시작하겠습니다<br>
+<font color=#0000ff>[BT-01/블루티어즈]</font>/<font color=#ffff00>[RR-08/S2 / 라팔 리바이브 커스텀 2]</font>
+<SYNC Start=843895><P Class=KRCC>
+이치카씨<br>
+<font color=#0000ff>[BT-01/블루티어즈]</font>/<font color=#ffff00>[RR-08/S2 / 라팔 리바이브 커스텀 2]</font>
+<SYNC Start=845499><P Class=KRCC>
+똑똑히 봐주세요
+<SYNC Start=848439><P Class=KRCC>&nbsp;
+<SYNC Start=861149><P Class=KRCC>
+간다! 세실리아!
+<SYNC Start=862739><P Class=KRCC>
+상관없어요!
+<SYNC Start=864429><P Class=KRCC>&nbsp;
+<SYNC Start=864830><P Class=KRCC>
+<font color=#ffff00>[장비:어설트 라이플 - 벤토]</font>
+<SYNC Start=865880><P Class=KRCC>
+<font color=#0000ff>[장비:스타라이트 MK-3]</font>
+<SYNC Start=868270><P Class=KRCC>&nbsp;
+<SYNC Start=875160><P Class=KRCC>
+이건?
+<SYNC Start=876700><P Class=KRCC>
+사격과 고도의 메뉴얼 기체 제어를 동시에 하고 있는거야
+<SYNC Start=881120><P Class=KRCC>
+그것도 회피와 명중 양쪽 모두에 의식을 기울이면서 말야
+<SYNC Start=885010><P Class=KRCC>
+그래서..
+<SYNC Start=886270><P Class=KRCC>
+알겠니?
+<SYNC Start=887380><P Class=KRCC>&nbsp;
+<SYNC Start=889570><P Class=KRCC>
+언제부터?!
+<SYNC Start=890390><P Class=KRCC>&nbsp;
+<SYNC Start=891080><P Class=KRCC>
+이치카!!
+<SYNC Start=891990><P Class=KRCC>
+뭐하고 있는 건가요?!
+<SYNC Start=893390><P Class=KRCC>
+무슨 짓을!!
+<SYNC Start=894450><P Class=KRCC>&nbsp;
+<SYNC Start=901927><P Class=KRCC>
+괜찮아?
+<SYNC Start=902977><P Class=KRCC>&nbsp;
+<SYNC Start=904417><P Class=KRCC>
+다음은 이치카군의 차례라네
+<SYNC Start=906287><P Class=KRCC>&nbsp;
+<SYNC Start=909077><P Class=KRCC>
+정말이지..
+<SYNC Start=910777><P Class=KRCC>
+갈게요!
+<SYNC Start=912367><P Class=KRCC>&nbsp;
+<SYNC Start=913417><P Class=KRCC>
+어.. 응!
+<SYNC Start=914377><P Class=KRCC>&nbsp;
+<SYNC Start=926477><P Class=KRCC>
+확실히 달라
+<SYNC Start=928328><P Class=KRCC>
+좋아! 그럼 사격 개시!!
+<SYNC Start=930428><P Class=KRCC>&nbsp;
+<SYNC Start=931108><P Class=KRCC>
+<font color=#708090>[XX-01 / 뱌쿠시키(白式)]</font>
+<SYNC Start=932168><P Class=KRCC>
+<font color=#708090>[장비:어설트 라이플 - 벤토 -]</font>
+<SYNC Start=934506><P Class=KRCC>&nbsp;
+<SYNC Start=949699><P Class=KRCC>
+이치카!
+<SYNC Start=950659><P Class=KRCC>&nbsp;
+<SYNC Start=951479><P Class=KRCC>
+이치카씨! 괜찮으세요?!
+<SYNC Start=953769><P Class=KRCC>&nbsp;
+<SYNC Start=955419><P Class=KRCC>
+어.. 괜찮아
+<SYNC Start=956987><P Class=KRCC>
+세실리아. 계속해줘
+<SYNC Start=958907><P Class=KRCC>&nbsp;
+<SYNC Start=959947><P Class=KRCC>
+괘인치 않지만..
+<SYNC Start=961677><P Class=KRCC>
+이치카씨가 그러신다면야..
+<SYNC Start=963597><P Class=KRCC>&nbsp;
+<SYNC Start=964787><P Class=KRCC>
+그럼 한 번 더!
+<SYNC Start=965867><P Class=KRCC>&nbsp;
+<SYNC Start=972348><P Class=KRCC>
+이걸 하는 이유가..
+<SYNC Start=973188><P Class=KRCC>
+뱌쿠시키에 원거리 공격능력이 추가되어서 그런가요?
+<SYNC Start=976888><P Class=KRCC>
+응. 그렇지
+<SYNC Start=978378><P Class=KRCC>
+하지만, 그것뿐만이 아니야
+<SYNC Start=981108><P Class=KRCC>
+사격에서 가장 중요한 건
+<SYNC Start=983558><P Class=KRCC>
+'면(面) 제압 능력'이거든
+<SYNC Start=985854><P Class=KRCC>
+하지만 연사가 불가능한 '대출력 하전입자포'는<br>
+<font color=#778899>[대출력 하전입자포:뱌쿠시키 왼손에 장비된 다목적 장비, 세츠라의 사격형태]</font>
+<SYNC Start=989384><P Class=KRCC>
+어떻게보면 스나이퍼 라이플에 가깝지<br>
+<font color=#778899>[대출력 하전입자포:뱌쿠시키 왼손에 장비된 다목적 장비, 세츠라의 사격형태]</font>
+<SYNC Start=992044><P Class=KRCC>&nbsp;
+<SYNC Start=992714><P Class=KRCC>
+즉, 일격필살의 돌파력이야
+<SYNC Start=995830><P Class=KRCC>
+하지만 이치카군의 사격능력은 알다시피 낮으니까
+<SYNC Start=1000660><P Class=KRCC>
+그러니까..
+<SYNC Start=1001820><P Class=KRCC>
+근거리에서 박아 넣는다
+<SYNC Start=1003780><P Class=KRCC>
+그래. 예리한데?
+<SYNC Start=1005680><P Class=KRCC>&nbsp;
+<SYNC Start=1006410><P Class=KRCC>
+<font color=#c0c0c0>[견사(見事)]</font>
+<SYNC Start=1006980><P Class=KRCC>&nbsp;
+<SYNC Start=1014654><P Class=KRCC>
+지친다..
+<SYNC Start=1016574><P Class=KRCC>&nbsp;
+<SYNC Start=1021204><P Class=KRCC>
+어서와여~
+<SYNC Start=1022704><P Class=KRCC>&nbsp;
+<SYNC Start=1026515><P Class=KRCC>
+식사 먼저 하실래요?
+<SYNC Start=1027835><P Class=KRCC>
+식사 먼저 하실래요?<br>
+목욕 먼저 하실래요?
+<SYNC Start=1029475><P Class=KRCC>
+식사 먼저 하실래요?<br>
+목욕 먼저 하실래요?<br>
+아니면...
+<SYNC Start=1031135><P Class=KRCC>
+식사 먼저 하실래요?<br>
+목욕 먼저 하실래요?<br>
+아니면.. 날.
+<SYNC Start=1032035><P Class=KRCC>
+식사 먼저 하실래요?<br>
+목욕 먼저 하실래요?<br>
+아니면.. 날.먼.
+<SYNC Start=1032635><P Class=KRCC>
+식사 먼저 하실래요?<br>
+목욕 먼저 하실래요?<br>
+아니면.. 날.먼.저?
+<SYNC Start=1033685><P Class=KRCC>&nbsp;
+<SYNC Start=1039435><P Class=KRCC>
+어서와
+<SYNC Start=1040813><P Class=KRCC>
+나를 먼저 할거야?
+<SYNC Start=1042193><P Class=KRCC>
+아니면......
+<SYNC Start=1043683><P Class=KRCC>
+아니면...날...
+<SYNC Start=1044623><P Class=KRCC>
+아니면...날.먼..
+<SYNC Start=1045313><P Class=KRCC>
+아니면...날.먼.저?
+<SYNC Start=1045980><P Class=KRCC>&nbsp;
+<SYNC Start=1051890><P Class=KRCC>
+무슨 꿍꿍이신가요?!
+<SYNC Start=1054060><P Class=KRCC>&nbsp;
+<SYNC Start=1061450><P Class=KRCC>
+특별 코치니까
+<SYNC Start=1063270><P Class=KRCC>
+의식주 모두 함께 하려고..
+<SYNC Start=1066210><P Class=KRCC>
+파장을 맞춰가는 거야
+<SYNC Start=1068290><P Class=KRCC>&nbsp;
+<SYNC Start=1070600><P Class=KRCC>
+저..저기..
+<SYNC Start=1071840><P Class=KRCC>&nbsp;
+<SYNC Start=1074030><P Class=KRCC>
+수영복입었었다네~
+<SYNC Start=1076100><P Class=KRCC>&nbsp;
+<SYNC Start=1078550><P Class=KRCC>
+이치카군 반응 꽤 귀여운데~
+<SYNC Start=1080950><P Class=KRCC>&nbsp;
+<SYNC Start=1091481><P Class=KRCC>
+네! 누구신가요?!
+<SYNC Start=1092701><P Class=KRCC>
+나.. 나다!
+<SYNC Start=1094771><P Class=KRCC>
+간식을 갖고 왔어
+<SYNC Start=1096931><P Class=KRCC>
+들어가도 괜찮을까?
+<SYNC Start=1098031><P Class=KRCC>
+호키?!
+<SYNC Start=1099061><P Class=KRCC>
+지금은 안돼!!
+<SYNC Start=1100441><P Class=KRCC>&nbsp;
+<SYNC Start=1109171><P Class=KRCC>
+<font color=#ff0000>[장비:아마츠키(雨月)]</font>
+<SYNC Start=1111412><P Class=KRCC>&nbsp;
+<SYNC Start=1118702><P Class=KRCC>
+이치카..
+<SYNC Start=1119652><P Class=KRCC>
+이 자식!!
+<SYNC Start=1120712><P Class=KRCC>&nbsp;
+<SYNC Start=1121542><P Class=KRCC>
+여자를 데리고 와서
+<SYNC Start=1123122><P Class=KRCC>
+뿐만 아니라 파렴치짝이 없는 짓을 하고서!!
+<SYNC Start=1127492><P Class=KRCC>
+부끄러운 줄 알아!!!!
+<SYNC Start=1129232><P Class=KRCC>
+기다려! 기다려!
+<SYNC Start=1130302><P Class=KRCC>
+오해야!!
+<SYNC Start=1131332><P Class=KRCC>&nbsp;
+<SYNC Start=1132252><P Class=KRCC>
+<font color=#48d1cc>[장비:4연장 게틀링건 내장 랜서 - 창류선(蒼流仙)]</font>
+<SYNC Start=1134462><P Class=KRCC>&nbsp;
+<SYNC Start=1135472><P Class=KRCC>
+미안해서 어쩌나?
+<SYNC Start=1136682><P Class=KRCC>
+지금 이치카군이 죽게되면 언니는 조금 곤란하게 되거든~
+<SYNC Start=1141932><P Class=KRCC>&nbsp;
+<SYNC Start=1145192><P Class=KRCC>
+승부는 끝났네
+<SYNC Start=1146372><P Class=KRCC>
+그치?
+<SYNC Start=1147072><P Class=KRCC>&nbsp;
+<SYNC Start=1160202><P Class=KRCC>
+중심 위치 좌표가 어긋났어
+<SYNC Start=1161982><P Class=KRCC>
+어서 원상복귀해
+<SYNC Start=1163452><P Class=KRCC>
+네.. 넵!
+<SYNC Start=1164322><P Class=KRCC>&nbsp;
+<SYNC Start=1165552><P Class=KRCC>
+<font color=#c0c0c0>이치카. 너는 연상에게는 엄청 어리광부리는 구나</font>
+<SYNC Start=1169152><P Class=KRCC>
+젠장..
+<SYNC Start=1170662><P Class=KRCC>
+<font color=#c0c0c0>[스피드가 떨어지고 있어. 좀 더 집중해!]</font>
+<SYNC Start=1174172><P Class=KRCC>
+아.. 알겠습니다!
+<SYNC Start=1175312><P Class=KRCC>&nbsp;
+<SYNC Start=1182163><P Class=KRCC>
+Okey. 속도가 올라가고 있어
+<SYNC Start=1184743><P Class=KRCC>
+그럼 거기서 '이그니션 부스터(순간가속)'을 해 봐<br>
+<font color=#778899>[이그니션 부스터(순간가속):속도중심점에서 단시간 가속하는 기술]</font>
+<SYNC Start=1187793><P Class=KRCC>
+네?!<br>
+<font color=#778899>[이그니션 부스터(순간가속):속도중심점에서 단시간 가속하는 기술]</font>
+<SYNC Start=1188713><P Class=KRCC>
+'이그니션 부스터(순간가속)'<br>
+<font color=#778899>[이그니션 부스터(순간가속):속도중심점에서 단시간 가속하는 기술]</font>
+<SYNC Start=1190583><P Class=KRCC>
+슈터 플로의 원 궤도에서 직선 기동으로 전환해
+<SYNC Start=1194227><P Class=KRCC>
+상태의 탄막을 단숨에 돌파하고 근거리에서 하전입자포를 쏴!
+<SYNC Start=1198357><P Class=KRCC>&nbsp;
+<SYNC Start=1199497><P Class=KRCC>
+<font color=#c0c0c0>[자.. 잠깐 기다려주세요! 갑자기 그런 건!]</font>
+<SYNC Start=1202807><P Class=KRCC>
+빨리 해!
+<SYNC Start=1203477><P Class=KRCC>
+아.. 알겠습니다!!
+<SYNC Start=1205267><P Class=KRCC>&nbsp;
+<SYNC Start=1205807><P Class=KRCC>
+<font color=#778899>[기술:이그니션 부스터(순간가속)]</font>
+<SYNC Start=1206437><P Class=KRCC>&nbsp;
+<SYNC Start=1220807><P Class=KRCC>
+아파라..
+<SYNC Start=1222407><P Class=KRCC>&nbsp;
+<SYNC Start=1225027><P Class=KRCC>
+이것봐라
+<SYNC Start=1226317><P Class=KRCC>
+충전하면서 슈터 플로도 계속하는 거야
+<SYNC Start=1229417><P Class=KRCC>&nbsp;
+<SYNC Start=1230668><P Class=KRCC>
+어렵네요..
+<SYNC Start=1232028><P Class=KRCC>
+안됀다. 똑바로 외워 둬
+<SYNC Start=1234078><P Class=KRCC>
+자. 일어나서 한 번 더 해
+<SYNC Start=1236318><P Class=KRCC>
+넵!
+<SYNC Start=1236918><P Class=KRCC>&nbsp;
+<SYNC Start=1240768><P Class=KRCC>
+이치카. 괜찮냐?
+<SYNC Start=1242688><P Class=KRCC>&nbsp;
+<SYNC Start=1245108><P Class=KRCC>
+어떻게든...
+<SYNC Start=1246278><P Class=KRCC>
+차 마실래?
+<SYNC Start=1247448><P Class=KRCC>
+밥을 못 먹으면 적어도 마셔두는게 좋아
+<SYNC Start=1250428><P Class=KRCC>&nbsp;
+<SYNC Start=1252218><P Class=KRCC>
+고마워. 샤를
+<SYNC Start=1254098><P Class=KRCC>
+그래서 '그 여자'는 어떻게 했지?
+<SYNC Start=1256868><P Class=KRCC>
+학생회일이 있다고..
+<SYNC Start=1259758><P Class=KRCC>
+뭐, 하찮은 도발에 넘어간 이치카가 이상한 거지만 말야
+<SYNC Start=1264038><P Class=KRCC>
+그렇다고 이렇게까지 만들 줄이야
+<SYNC Start=1266938><P Class=KRCC>&nbsp;
+<SYNC Start=1267648><P Class=KRCC>
+자업자득이라고 할까..
+<SYNC Start=1270778><P Class=KRCC>
+타테나시씨 말로 정말 쪽발이구나 하고..
+<SYNC Start=1275307><P Class=KRCC>
+빨리 마스터하지 않으면..
+<SYNC Start=1277117><P Class=KRCC>&nbsp;
+<SYNC Start=1278077><P Class=KRCC>
+그게..
+<SYNC Start=1279157><P Class=KRCC>
+열심히 하는 남자는 난 멋지다고 생각해
+<SYNC Start=1283487><P Class=KRCC>
+그.. 그렇지
+<SYNC Start=1285017><P Class=KRCC>
+너는 항상 열심이니까
+<SYNC Start=1286817><P Class=KRCC>&nbsp;
+<SYNC Start=1287957><P Class=KRCC>
+이치카씨. 혹시 그 방에 있는게 괴롭다면
+<SYNC Start=1291897><P Class=KRCC>
+어쩔 수 없이 돕고 사는 거니까
+<SYNC Start=1294407><P Class=KRCC>
+제 방에 와도 상관없어요
+<SYNC Start=1296947><P Class=KRCC>&nbsp;
+<SYNC Start=1297667><P Class=KRCC>
+잠깐 세실리아! 기다려봐!
+<SYNC Start=1299907><P Class=KRCC>
+이치카. 너 내 방에 와라~
+<SYNC Start=1302557><P Class=KRCC>
+트럼프 있는데 안할래?
+<SYNC Start=1303967><P Class=KRCC>
+잠깐! 트럼프라면 내 방에도 있다!
+<SYNC Start=1306937><P Class=KRCC>
+화투(花札-하나후다)도 있다. 이치카!
+<SYNC Start=1309117><P Class=KRCC>
+제 방에는 타롯카드도 있어요!
+<SYNC Start=1312177><P Class=KRCC>
+쉬잇!
+<SYNC Start=1313561><P Class=KRCC>&nbsp;
+<SYNC Start=1331843><P Class=KRCC>
+<font face="휴먼매직체"><font color=#b0e0e6>높이 올라라! BEAUTIFUL SKY</font>
+<SYNC Start=1334313><P Class=KRCC>
+<font face="휴먼매직체"><font color=#b0e0e6>눈부시는 햇살을 향해서</font>
+<SYNC Start=1337553><P Class=KRCC>
+<font face="휴먼매직체"><font color=#b0e0e6>지키고 싶어. 반짝이는 오늘도</font>
+<SYNC Start=1341673><P Class=KRCC>
+<font face="휴먼매직체"><font color=#b0e0e6>힘이 될 거야</font>
+<SYNC Start=1344483><P Class=KRCC>
+<font color=#ff8c00>원작 : 유미즈루 이즈루<br>
+원화 : 오키우라 → CHOCO</font>
+<SYNC Start=1347498><P Class=KRCC>
+<font color=#ff8c00>제작 : 8bit</font>
+<SYNC Start=1349842><P Class=KRCC>&nbsp;
+<SYNC Start=1354588><P Class=KRCC>
+<font face="휴먼매직체"><font color=#b0e0e6>스치는 바람에 너를 느끼고 있어</font>
+<SYNC Start=1360018><P Class=KRCC>
+<font face="휴먼매직체"><font color=#b0e0e6>존재하는 것이 너무 기뻐</font>
+<SYNC Start=1364298><P Class=KRCC>&nbsp;
+<SYNC Start=1365358><P Class=KRCC>
+<font face="휴먼매직체"><font color=#b0e0e6>심호흡을 하고</font>
+<SYNC Start=1368038><P Class=KRCC>
+<font face="휴먼매직체"><font color=#b0e0e6>바라보는 하늘은</font>
+<SYNC Start=1370738><P Class=KRCC>
+<font face="휴먼매직체"><font color=#b0e0e6>매일 다른 얼굴을 하고 있어</font>
+<SYNC Start=1375188><P Class=KRCC>
+<font face="휴먼매직체"><font color=#b0e0e6>어디까지나 갈 수 있어</font>
+<SYNC Start=1377998><P Class=KRCC>
+<font face="휴먼매직체"><font color=#b0e0e6>드리워진 이곳부터</font>
+<SYNC Start=1380798><P Class=KRCC>
+<font face="휴먼매직체"><font color=#b0e0e6>반짝이는 나로 있고 싶어</font>
+<SYNC Start=1383978><P Class=KRCC>
+<font face="휴먼매직체"><font color=#b0e0e6>언제까지나</font>
+<SYNC Start=1384948><P Class=KRCC>
+<font color=#00ced1>[엔딩 : BEAUTIFUL SKY]<br>
+<font color=#00bfff>[가수 : 히로인 일동]</font><br>
+<font face="휴먼매직체"><font color=#b0e0e6>언제까지나</font>
+<SYNC Start=1387053><P Class=KRCC>
+<font color=#00ced1>[엔딩 : BEAUTIFUL SKY]<br>
+<font color=#00bfff>[가수 : 히로인 일동]</font><br>
+<font face="휴먼매직체"><font color=#b0e0e6>좀 더 높이 날아! BEAUTIFUL SKY</font>
+<SYNC Start=1388253><P Class=KRCC>
+<font face="휴먼매직체"><font color=#b0e0e6>좀 더 높이 날아! BEAUTIFUL SKY</font>
+<SYNC Start=1390563><P Class=KRCC>
+<font face="휴먼매직체"><font color=#b0e0e6>눈부시는 햇살을 향해서</font>
+<SYNC Start=1393773><P Class=KRCC>
+<font face="휴먼매직체"><font color=#b0e0e6>이 순간을 새기며 나아가자</font>
+<SYNC Start=1398085><P Class=KRCC>
+<font face="휴먼매직체"><font color=#b0e0e6>좀 더 빛나라! BEAUTIFUL SKY</font>
+<SYNC Start=1401015><P Class=KRCC>
+<font face="휴먼매직체"><font color=#b0e0e6>커다란 날개를 함께 품고서</font>
+<SYNC Start=1404175><P Class=KRCC>
+<font face="휴먼매직체"><font color=#b0e0e6>지키고 싶어. 반짝이는 오늘도</font>
+<SYNC Start=1408232><P Class=KRCC>
+<font face="휴먼매직체"><font color=#b0e0e6>힘을 주네</font>
+<SYNC Start=1412482><P Class=KRCC>
+<font color=#ff8c00>자막제작 : 츠카사</font>
+<SYNC Start=1414792><P Class=KRCC>
+<font color=#ff8c00>자막제공 : 츠카사의 현실도피공간<br>
+주소 : http://blog.naver.com/wjsdudrb227</font>
+<SYNC Start=1419252><P Class=KRCC>&nbsp;
+<SYNC Start=1421930><P Class=KRCC>
+아..아무도 없지?
+<SYNC Start=1423590><P Class=KRCC>
+좋았어!
+<SYNC Start=1424720><P Class=KRCC>
+이치카. 네가 좋아
+<SYNC Start=1427940><P Class=KRCC>
+조... 좋아해! 이치카!!
+<SYNC Start=1430640><P Class=KRCC>
+이치카. 나를 위해서 아침마다 된장국을 만들어줘!
+<SYNC Start=1434470><P Class=KRCC>
+이.. 이치카냥!
+<SYNC Start=1436880><P Class=KRCC>
+정말 좋아해냥~
+<SYNC Start=1438700><P Class=KRCC>
+흐익! 치.. 치후유 언니!!!
+<SYNC Start=1440930><P Class=KRCC>&nbsp;
+<SYNC Start=1441970><P Class=KRCC>
+다음 이야기<br>
+ - 인피니트 스트라토스 2 -
+<SYNC Start=1444720><P Class=KRCC>
+다음 이야기 <br>
+- <ruby>초자소녀<rt>신데렐라 힐</rt></ruby>의 <ruby>투명화음<rt>스킬라우</rt></ruby> -
+<SYNC Start=1450920><P Class=KRCC>&nbsp;
+</BODY>
+</SAMI>

@@ -1,0 +1,1495 @@
+<SAMI>
+<HEAD>
+<Title>Hackers 2 - C.S.X</Title>
+<STYLE TYPE="text/css">
+<!--
+P {margin-left:8pt; margin-right:8pt; margin-bottom:2pt; margin-top:2pt;
+   text-align:left; font-size:16pt; font-family:arial, sans-serif;
+   font-weight:normal; color:white;}
+.KRCC {Name:Korean; lang:kr-KR; SAMIType:CC;}
+#STDPrn {Name:Standard Print;}
+#LargePrn {Name:Large Print; font-size:20pt;}
+#SmallPrn {Name:Small Print; font-size:10pt;}
+-->
+</Style>
+</HEAD>
+<BODY>
+<SYNC Start=33297><P Class=KRCC>
+Caption Present
+<SYNC Start=37991><P Class=KRCC>&nbsp;
+<SYNC Start=43923><P Class=KRCC>
+<font color=Yellow>본 영화는 실화를 각색하였음</font>
+<SYNC Start=46897><P Class=KRCC>&nbsp;
+<SYNC Start=53958><P Class=KRCC>
+Translate by LeCieL
+<SYNC Start=57779><P Class=KRCC>&nbsp;
+<SYNC Start=59023><P Class=KRCC>
+Sync by LeCieL 
+<SYNC Start=62340><P Class=KRCC>&nbsp;
+<SYNC Start=63365><P Class=KRCC>
+HTTP://CSX.DGTaLX.nET
+<SYNC Start=67424><P Class=KRCC>&nbsp;
+<SYNC Start=74404><P Class=KRCC>
+해커의 세계는 모든 정보를 공유하는데 있습니다
+<SYNC Start=79567><P Class=KRCC>&nbsp;
+<SYNC Start=80468><P Class=KRCC>
+사이버 공산주의인 셈이죠
+<SYNC Start=81510><P Class=KRCC>
+<font color=#ffff00>해커즈 2 - Takedown</font><BR>
+사이버 공산주의인 셈이죠
+<SYNC Start=85041><P Class=KRCC>&nbsp;
+<SYNC Start=88081><P Class=KRCC>
+그들은 하루 24시간 컴퓨터와 함께하는 부류로써
+<SYNC Start=95104><P Class=KRCC>
+자신의 능력을 과시하고 싶어하죠
+<SYNC Start=97900><P Class=KRCC>&nbsp;
+<SYNC Start=98721><P Class=KRCC>
+그들은 중요한 파일을 삭제하거나
+<SYNC Start=102420><P Class=KRCC>
+바이러스를 퍼뜨려 컴퓨터를
+<SYNC Start=105578><P Class=KRCC>
+엉망으로 만들죠
+<SYNC Start=108266><P Class=KRCC>&nbsp;
+<SYNC Start=109549><P Class=KRCC>
+전 세계는 인터넷으로 묶여있습니다
+<SYNC Start=114124><P Class=KRCC>&nbsp;
+<SYNC Start=115196><P Class=KRCC>
+따라서 어디서든 접속이 가능하죠
+<SYNC Start=118276><P Class=KRCC>
+통신 기술의 발전과 함께 하이테크 범죄는
+<SYNC Start=124752><P Class=KRCC>&nbsp;
+<SYNC Start=127937><P Class=KRCC>
+감청에서 바이러스 유포까지
+<SYNC Start=132461><P Class=KRCC>
+무차별적으로 자행되고 있습니다
+<SYNC Start=136000><P Class=KRCC>&nbsp;
+<SYNC Start=137900><P Class=KRCC>
+또 다른 해커들은 사이버 공간의 보호를 위해
+<SYNC Start=142143><P Class=KRCC>
+사이버 범죄의 증가와 함께
+<SYNC Start=145220><P Class=KRCC>
+사이버 범죄 추적에 대한 필요성은
+<SYNC Start=149268><P Class=KRCC>&nbsp;
+<SYNC Start=150353><P Class=KRCC>
+FBI는 통신회사들의 대책을 촉구 중이며
+<SYNC Start=157693><P Class=KRCC>
+해킹의 심각성에 대해 알게 된 때는?
+<SYNC Start=161521><P Class=KRCC>
+FBI 에 체포될 때요
+<SYNC Start=164131><P Class=KRCC>&nbsp;
+<SYNC Start=169867><P Class=KRCC>
+어이!
+<SYNC Start=171712><P Class=KRCC>&nbsp;
+<SYNC Start=174684><P Class=KRCC>
+늦어서 미안하네<BR>
+난 랜스야
+<SYNC Start=176778><P Class=KRCC>
+전 알렉스요<BR>
+이쪽은 케빈이고
+<SYNC Start=179117><P Class=KRCC>
+케빈 미트닉?<BR>
+반갑네
+<SYNC Start=180851><P Class=KRCC>&nbsp;
+<SYNC Start=182869><P Class=KRCC>
+얘기 많이 들었네<BR>
+특히 케빈에 대해
+<SYNC Start=185063><P Class=KRCC>
+그래요?<BR>
+난 당신에 대해 꽝인데
+<SYNC Start=187579><P Class=KRCC>&nbsp;
+<SYNC Start=188036><P Class=KRCC>
+<font color=Red>'해석안된부분(50초정도)'</font>
+<SYNC Start=192240><P Class=KRCC>&nbsp;
+<SYNC Start=233231><P Class=KRCC>
+그건 한물 간 정보요 일 없소
+<SYNC Start=237262><P Class=KRCC>&nbsp;
+<SYNC Start=238757><P Class=KRCC>
+잠깐 '쎄스'에 대해 알아?
+<SYNC Start=240795><P Class=KRCC>
+그게 뭔데?
+<SYNC Start=242961><P Class=KRCC>
+모르나 보군
+<SYNC Start=244633><P Class=KRCC>
+뭔데?
+<SYNC Start=246213><P Class=KRCC>
+캘리포니아 텔레콤에서 FBI에게 제공하는 정보야
+<SYNC Start=249816><P Class=KRCC>
+언제 어디서든 어떤 전화든<BR>
+도청이 가능해
+<SYNC Start=255436><P Class=KRCC>
+구미가 당기지?
+<SYNC Start=258156><P Class=KRCC>&nbsp;
+<SYNC Start=259841><P Class=KRCC>
+믿을 수만 있다면
+<SYNC Start=262103><P Class=KRCC>
+하지만 다이얼 시스템이라 불가능해
+<SYNC Start=264784><P Class=KRCC>
+그건 걱정마 너희건 뭐야?
+<SYNC Start=268092><P Class=KRCC>&nbsp;
+<SYNC Start=268976><P Class=KRCC>
+가자
+<SYNC Start=270594><P Class=KRCC>&nbsp;
+<SYNC Start=270830><P Class=KRCC>
+또 봐 연락할게
+<SYNC Start=274352><P Class=KRCC>&nbsp;
+<SYNC Start=277992><P Class=KRCC>
+의심스러울땐 관두는게 장땡이야
+<SYNC Start=282137><P Class=KRCC>
+놈도 캥기고 왠지 함정 같아
+<SYNC Start=286097><P Class=KRCC>
+게다가 이젠 나이도 먹었지
+<SYNC Start=290294><P Class=KRCC>&nbsp;
+<SYNC Start=290546><P Class=KRCC>
+직장에 마누라까지 있어
+<SYNC Start=293316><P Class=KRCC>
+애들이 아냐
+<SYNC Start=294758><P Class=KRCC>
+괜히 끼었다 말썽 생기면 너만 다쳐
+<SYNC Start=299835><P Class=KRCC>
+넌 보호 관찰 대상이야
+<SYNC Start=301958><P Class=KRCC>
+FBI에서 구속할 구실을 찾고 있어
+<SYNC Start=304769><P Class=KRCC>
+그냥 잊어버려
+<SYNC Start=307598><P Class=KRCC>
+왜 굳이 하려고 해?
+<SYNC Start=310181><P Class=KRCC>&nbsp;
+<SYNC Start=312989><P Class=KRCC>
+궁금하니까
+<SYNC Start=315552><P Class=KRCC>&nbsp;
+<SYNC Start=332655><P Class=KRCC>
+죠 프레디
+<SYNC Start=335083><P Class=KRCC>&nbsp;
+<SYNC Start=337760><P Class=KRCC>
+안녕하세요? 죠 프레디입니다
+<SYNC Start=340472><P Class=KRCC>&nbsp;
+<SYNC Start=341585><P Class=KRCC>
+월셔 지사의 죠 프레디요
+<SYNC Start=344730><P Class=KRCC>&nbsp;
+<SYNC Start=349355><P Class=KRCC>
+죠 프레디요
+<SYNC Start=352310><P Class=KRCC>
+시작해 볼까나?
+<SYNC Start=354177><P Class=KRCC>&nbsp;
+<SYNC Start=359333><P Class=KRCC>
+-죠엘입니다<BR>
+-월셔 지사의 죠 프레디 인데
+<SYNC Start=362394><P Class=KRCC>
+재고 조사 보고서를<BR>
+빨리 올리라고 난리에요
+<SYNC Start=367435><P Class=KRCC>
+항상 그렇다니까
+<SYNC Start=368776><P Class=KRCC>
+맞아요
+<SYNC Start=370791><P Class=KRCC>
+뭘 도와 드릴까요?
+<SYNC Start=372534><P Class=KRCC>
+'쌔스' 시스템에 대한 정보요
+<SYNC Start=375944><P Class=KRCC>
+'쌔스' 시스템 그게 뭐죠?
+<SYNC Start=378730><P Class=KRCC>
+나도 서류 보고 안거요
+<SYNC Start=381430><P Class=KRCC>
+회색 상자인데..
+<SYNC Start=384952><P Class=KRCC>
+아마 교환기 끝 아래에 있을걸요?
+<SYNC Start=387740><P Class=KRCC>
+확인해 보죠
+<SYNC Start=390148><P Class=KRCC>&nbsp;
+<SYNC Start=396497><P Class=KRCC>
+'쌔스'
+<SYNC Start=397631><P Class=KRCC>&nbsp;
+<SYNC Start=400508><P Class=KRCC>
+-찾았어요<BR>
+-수고했소
+<SYNC Start=402724><P Class=KRCC>
+당신 말이 맞긴 맞는데<BR>
+교환기(랙) 위쪽에 있소
+<SYNC Start=405276><P Class=KRCC>
+완벽한 사람이 어디 있소?<BR>
+뭐라고 씌여 있죠?
+<SYNC Start=408760><P Class=KRCC>
+'쌔스'  접속 교환 서비스요
+(Switched Access Service)
+<SYNC Start=411628><P Class=KRCC>
+제품 번호 좀 불러줘요<BR>
+뭐라고?
+<SYNC Start=415669><P Class=KRCC>
+제조업체 이름도요
+<SYNC Start=418510><P Class=KRCC>&nbsp;
+<SYNC Start=449233><P Class=KRCC>
+크리스 좀 부탁할까요?
+<SYNC Start=451538><P Class=KRCC>
+난데 누구시오?
+<SYNC Start=452444><P Class=KRCC>
+캘리포니아 텔레콤의 죠 프레디 인데
+<SYNC Start=455774><P Class=KRCC>
+귀하께서 SAS 시스템을 개발하셨다고요
+<SYNC Start=459395><P Class=KRCC>
+그렇소
+<SYNC Start=460630><P Class=KRCC>
+훌륭한 제품을 만드셨는데 회사가 청산되다니..
+<SYNC Start=464865><P Class=KRCC>
+동감이요 회사가 청산되며
+<SYNC Start=468723><P Class=KRCC>
+모두 길거리로 내몰렸으니<BR>
+개같은 경우지
+<SYNC Start=473685><P Class=KRCC>
+고약한 경우네요
+<SYNC Start=476163><P Class=KRCC>
+시스템 개발에 감사하려고 전화 드렸어요
+<SYNC Start=479418><P Class=KRCC>&nbsp;
+<SYNC Start=480871><P Class=KRCC>
+정말?
+<SYNC Start=481825><P Class=KRCC>
+물론이죠!
+<SYNC Start=484158><P Class=KRCC>
+쓸만하오?
+<SYNC Start=485574><P Class=KRCC>
+환상적입니다
+<SYNC Start=487685><P Class=KRCC>
+기회만 된다면 개발자들과 일하고 싶소<BR>
+완벽한 설계요
+<SYNC Start=493574><P Class=KRCC>
+그거 다행이군요
+<SYNC Start=496600><P Class=KRCC>
+설계도와 애플리케이션이 하드에 있으니
+<SYNC Start=501116><P Class=KRCC>
+출력해 팩스로 보내주면 얘기가 쉽겠네요
+<SYNC Start=505385><P Class=KRCC>
+아니면 디스켓으로 보내던가 어떻소?
+<SYNC Start=507659><P Class=KRCC>
+고마워요 크리스
+<SYNC Start=509999><P Class=KRCC>&nbsp;
+<SYNC Start=517572><P Class=KRCC>
+정말 죽이는군
+<SYNC Start=519740><P Class=KRCC>
+FBI와 LA 경찰, 법무성
+<SYNC Start=522947><P Class=KRCC>
+그들의 정보를 낱낱이 볼 수 있겠어
+<SYNC Start=525528><P Class=KRCC>
+경관 이름과 뱃지번호
+<SYNC Start=528103><P Class=KRCC>
+보고 체계까지
+<SYNC Start=529680><P Class=KRCC>
+빅브라더가 따로 없군
+<SYNC Start=531175><P Class=KRCC>
+게임 셋이야
+<SYNC Start=533510><P Class=KRCC>&nbsp;
+<SYNC Start=534666><P Class=KRCC>
+-어서와<BR>
+-안녕 알렉스?
+<SYNC Start=538460><P Class=KRCC>
+잘 있었어?
+<SYNC Start=540342><P Class=KRCC>&nbsp;
+<SYNC Start=550123><P Class=KRCC>
+다음 계획은 뭐지?
+<SYNC Start=552097><P Class=KRCC>&nbsp;
+<SYNC Start=559273><P Class=KRCC>
+마이크 입니다
+<SYNC Start=560572><P Class=KRCC>
+본사 토니 그린이요 안녕하시오?
+<SYNC Start=562204><P Class=KRCC>
+예 어떠세요?
+<SYNC Start=563984><P Class=KRCC>
+곤란한 일이 생겼소
+<SYNC Start=565261><P Class=KRCC>
+사장님께 SAS 시스템 번호를 알려 주기로 했는데
+<SYNC Start=571693><P Class=KRCC>
+회의 때문에 정신없어서
+<SYNC Start=574152><P Class=KRCC>
+압니다
+<SYNC Start=575598><P Class=KRCC>
+부탁 좀 합시다<BR>
+번호 좀 알려주시오
+<SYNC Start=578571><P Class=KRCC>
+걱정마세요<BR>
+팩스로 보내드리죠
+<SYNC Start=581091><P Class=KRCC>
+-픽업할 사람을 보내겠소<BR>
+-정말요?
+<SYNC Start=584517><P Class=KRCC>
+-급해요<BR>
+-당장 준비하죠
+<SYNC Start=587103><P Class=KRCC>&nbsp;
+<SYNC Start=591032><P Class=KRCC>
+안녕하세요? 죠 터너요
+<SYNC Start=593251><P Class=KRCC>&nbsp;
+<SYNC Start=595651><P Class=KRCC>
+무례한 질문 같지만<BR>
+캘리포니아 텔레콤 직원이요?
+<SYNC Start=601069><P Class=KRCC>
+전 캘콤사 직원입니다<BR>
+본사와 계약 체결 중이죠
+<SYNC Start=605864><P Class=KRCC>&nbsp;
+<SYNC Start=607937><P Class=KRCC>
+이게 뭔 줄 아시오?
+<SYNC Start=611179><P Class=KRCC>
+본사에 들어가던 중 토니의<BR>
+부탁을 받고 왔을 뿐 아무것도 몰라요
+<SYNC Start=618352><P Class=KRCC>&nbsp;
+<SYNC Start=623644><P Class=KRCC>
+토니에게 보낼땐 사내 우편으로<BR>
+보내라고 해요
+<SYNC Start=628200><P Class=KRCC>&nbsp;
+<SYNC Start=643622><P Class=KRCC>
+제인 서류 좀 보내줄래요?<BR>
+회의에 늦어서요
+<SYNC Start=648011><P Class=KRCC>
+월셔 지사의 마이크에게 보내줘요
+<SYNC Start=651325><P Class=KRCC>
+애인과 통화하지 말아요
+<SYNC Start=653293><P Class=KRCC>
+아닌데.. 잠깐만
+<SYNC Start=655857><P Class=KRCC>&nbsp;
+<SYNC Start=656119><P Class=KRCC>
+<font color=FFFF00>사내 우편물</font>
+<SYNC Start=657152><P Class=KRCC>&nbsp;
+<SYNC Start=660749><P Class=KRCC>
+연락줘서 고맙네
+<SYNC Start=662991><P Class=KRCC>&nbsp;
+<SYNC Start=663250><P Class=KRCC>
+-선물을 가져왔지<BR>
+-그래? 고맙군
+<SYNC Start=667031><P Class=KRCC>
+-확인해 봤는데 깨끗해<BR>
+-당연하지
+<SYNC Start=670724><P Class=KRCC>
+화장실 좀 다녀올께
+<SYNC Start=673320><P Class=KRCC>&nbsp;
+<SYNC Start=690020><P Class=KRCC>&nbsp;
+<SYNC Start=692292><P Class=KRCC>
+녹음기?
+<SYNC Start=694604><P Class=KRCC>&nbsp;
+<SYNC Start=704394><P Class=KRCC>
+-멋진데?<BR>
+-정말 죽이지?
+<SYNC Start=708938><P Class=KRCC>
+최신형이야<BR>
+정말 짱이야 '송곳'은
+<SYNC Start=715281><P Class=KRCC>
+-좋아<BR>
+-선물을 주지
+<SYNC Start=717449><P Class=KRCC>
+-좋았어<BR>
+-어디 볼까?
+<SYNC Start=720330><P Class=KRCC>
+-맘에 들거야<BR>
+-그래?
+<SYNC Start=722093><P Class=KRCC>
+성탄 선물이라도 돼?
+<SYNC Start=725033><P Class=KRCC>&nbsp;
+<SYNC Start=735037><P Class=KRCC>
+'쌔스'
+<SYNC Start=736431><P Class=KRCC>&nbsp;
+<SYNC Start=742672><P Class=KRCC>
+어디서 구했어?
+<SYNC Start=744705><P Class=KRCC>
+어디서 구했냐고?
+<SYNC Start=746541><P Class=KRCC>
+-주고받는게 인지상정이지<BR>
+-그래?
+<SYNC Start=749345><P Class=KRCC>
+-나중에봐 송곳<BR>
+-서
+<SYNC Start=750777><P Class=KRCC>
+-가야돼<BR>
+-빌어먹을
+<SYNC Start=754460><P Class=KRCC>&nbsp;
+<SYNC Start=754760><P Class=KRCC>
+SAS에 대해 발설해? 너 바보야?
+<SYNC Start=758168><P Class=KRCC>
+이야기를 시작하려면 어쩔 수 없잖아요!
+<SYNC Start=762139><P Class=KRCC>
+케빈을 데려오기는 커녕 SAS에 대해 말해?
+<SYNC Start=765916><P Class=KRCC>
+어떤 결과를 초래할 지 알아?
+<SYNC Start=767392><P Class=KRCC>
+-놈이 장난치는 날엔..<BR>
+-저기..
+<SYNC Start=771369><P Class=KRCC>
+-전체 시스템을 중지해야 한다구!<BR>
+-벌써 놈이 입수했어요
+<SYNC Start=777305><P Class=KRCC>
+시스템을..
+<SYNC Start=779678><P Class=KRCC>&nbsp;
+<SYNC Start=780860><P Class=KRCC>
+-랜스<BR>
+-나도 노력했어요
+<SYNC Start=782458><P Class=KRCC>
+랜스! 어디서 전화하는거야?
+<SYNC Start=787064><P Class=KRCC>
+어디서 전화하는 거냐구?
+<SYNC Start=789338><P Class=KRCC>
+집에서요 왜요?
+<SYNC Start=791769><P Class=KRCC>&nbsp;
+<SYNC Start=793785><P Class=KRCC>
+자네가 놈이라면
+<SYNC Start=795485><P Class=KRCC>
+SAS로 어느 전화부터<BR>
+도청할 것 같나?
+<SYNC Start=802962><P Class=KRCC>
+자네 전화 아냐?
+<SYNC Start=805676><P Class=KRCC>&nbsp;
+<SYNC Start=813054><P Class=KRCC>
+와!
+<SYNC Start=815715><P Class=KRCC>
+정말 죽이는군 정말 죽여!
+<SYNC Start=819491><P Class=KRCC>&nbsp;
+<SYNC Start=821138><P Class=KRCC>
+놈들이 뚜껑 열렸으니<BR>
+가만있지는 않겠어..
+<SYNC Start=825158><P Class=KRCC>&nbsp;
+<SYNC Start=825759><P Class=KRCC>
+보호 관찰이 3일 남았어
+<SYNC Start=827932><P Class=KRCC>
+1초 남겨놓고 잡히는 수도 있어
+<SYNC Start=831035><P Class=KRCC>
+알아
+<SYNC Start=831810><P Class=KRCC>&nbsp;
+<SYNC Start=850034><P Class=KRCC>
+<font color=FFFF00>2년 후</font>
+<SYNC Start=852530><P Class=KRCC>&nbsp;
+<SYNC Start=865692><P Class=KRCC>&nbsp;
+<SYNC Start=867050><P Class=KRCC>
+젠장
+<SYNC Start=868691><P Class=KRCC>&nbsp;
+<SYNC Start=872675><P Class=KRCC>
+<font color=FFFF00>샌디에고</font>
+<SYNC Start=875853><P Class=KRCC>&nbsp;
+
+<SYNC Start=885163><P Class=KRCC>&nbsp;
+<SYNC Start=886544><P Class=KRCC>
+1994년 7월 4일
+<SYNC Start=888202><P Class=KRCC>
+사이버 공간 최고의 해커<BR>
+FBI의 추적을 따돌리다
+<SYNC Start=890500><P Class=KRCC>&nbsp;
+<SYNC Start=898072><P Class=KRCC>&nbsp;
+<SYNC Start=899103><P Class=KRCC>
+안녕? 오사이러스
+<SYNC Start=901272><P Class=KRCC>
+지금 워싱톤은 몇 시지?
+<SYNC Start=903987><P Class=KRCC>
+잘 잤어?<BR>
+10시야
+<SYNC Start=905964><P Class=KRCC>
+-태워다 줘?<BR>
+-됐어
+<SYNC Start=909537><P Class=KRCC>
+커피 줘?
+<SYNC Start=911609><P Class=KRCC>&nbsp;
+<SYNC Start=913307><P Class=KRCC>
+여기서 사는 게 어때?
+<SYNC Start=916824><P Class=KRCC>&nbsp;
+<SYNC Start=919122><P Class=KRCC>
+여기서?
+<SYNC Start=921684><P Class=KRCC>
+들어봐<BR>
+컴퓨터와 사기를 교묘하게 결합시킨
+<SYNC Start=926099><P Class=KRCC>
+프로그래머 케빈 미트닉이 날뛰고 있지만
+<SYNC Start=929335><P Class=KRCC>
+사법 당국은 속수무책이다
+<SYNC Start=932603><P Class=KRCC>
+희대의 사이버 범죄자 케빈은
+<SYNC Start=936360><P Class=KRCC>
+이동전화 회사의<BR>
+메인 서버와 접속할 수 있는
+<SYNC Start=941029><P Class=KRCC>
+이동전화 회사 직원들의<BR>
+패스워드를 이용
+<SYNC Start=944555><P Class=KRCC>
+데이터와 S/W를 절도한<BR>
+혐의를 받고 있다
+<SYNC Start=947224><P Class=KRCC>&nbsp;
+<SYNC Start=949447><P Class=KRCC>
+캘리포니아 거주자로 알려진<BR>
+미트닉 씨는
+<SYNC Start=954047><P Class=KRCC>
+골 때리는군
+<SYNC Start=955356><P Class=KRCC>
+FBI의 추적을 따돌리고 있는 가운데
+<SYNC Start=959183><P Class=KRCC>
+캘리포니아 전화 시스템<BR>
+제어 정보를 빼내
+<SYNC Start=963615><P Class=KRCC>
+FBI를 도청해 피신하는 것으로 알려졌다
+<SYNC Start=967799><P Class=KRCC>&nbsp;
+<SYNC Start=968399><P Class=KRCC>
+뉴욕 타임즈 전면을 장식해?<BR>
+완전히 스타군
+<SYNC Start=972625><P Class=KRCC>
+기자 덕분에 유명해졌으니 한턱 내야겠어
+<SYNC Start=976054><P Class=KRCC>
+왜 꼭 그런 사진만 싣지?<BR>
+테러리스트 같아 보여
+<SYNC Start=981060><P Class=KRCC>
+잘 나온 사진을 실으라고?<BR>
+뭔 상관이야?
+<SYNC Start=986264><P Class=KRCC>&nbsp;
+<SYNC Start=994605><P Class=KRCC>
+-돌겠군<BR>
+-왜?
+<SYNC Start=996464><P Class=KRCC>&nbsp;
+<SYNC Start=999169><P Class=KRCC>
+케빈이야
+<SYNC Start=1000963><P Class=KRCC>&nbsp;
+<SYNC Start=1001680><P Class=KRCC>
+정말?
+<SYNC Start=1002756><P Class=KRCC>&nbsp;
+<SYNC Start=1003616><P Class=KRCC>
+녀석이 돌아왔어
+<SYNC Start=1005546><P Class=KRCC>&nbsp;
+<SYNC Start=1007627><P Class=KRCC>
+이거 읽어봤어?
+<SYNC Start=1009218><P Class=KRCC>
+예 엉터리죠
+<SYNC Start=1011665><P Class=KRCC>
+하지만 당장 체포하란 명령이야
+<SYNC Start=1014540><P Class=KRCC>
+증거가 없다는 건 기자가 꾸며낸 얘기에요
+<SYNC Start=1018256><P Class=KRCC>
+문제는 우리가 이 해커에게<BR>
+무력하다는 거야
+<SYNC Start=1022928><P Class=KRCC>
+이 문제로 인해 부장과 검찰총장에게
+<SYNC Start=1026530><P Class=KRCC>
+한 시간을 넘게 문책을 받고 왔어
+<SYNC Start=1029955><P Class=KRCC>
+보호 관찰법 위반으로라도<BR>
+구속하란 얘깁니까?
+<SYNC Start=1033118><P Class=KRCC>
+난 몰라 알아서 해!
+<SYNC Start=1035730><P Class=KRCC>&nbsp;
+<SYNC Start=1037846><P Class=KRCC>
+사건이 산적해 있어요
+<SYNC Start=1041472><P Class=KRCC>
+케빈을 찾아서 체포해 그럼 끝이야
+<SYNC Start=1045854><P Class=KRCC>&nbsp;
+<SYNC Start=1067715><P Class=KRCC>&nbsp;
+<SYNC Start=1071085><P Class=KRCC>
+첩보전을 방불케 하는데?
+<SYNC Start=1075081><P Class=KRCC>&nbsp;
+<SYNC Start=1076445><P Class=KRCC>
+닭살 돋아
+<SYNC Start=1078704><P Class=KRCC>
+와줘서 고마워
+<SYNC Start=1080605><P Class=KRCC>&nbsp;
+<SYNC Start=1082811><P Class=KRCC>
+걱정 많이 했어
+<SYNC Start=1084745><P Class=KRCC>&nbsp;
+<SYNC Start=1085005><P Class=KRCC>
+진짜?
+<SYNC Start=1086549><P Class=KRCC>
+그래
+<SYNC Start=1087921><P Class=KRCC>&nbsp;
+<SYNC Start=1088544><P Class=KRCC>
+진짜야
+<SYNC Start=1090164><P Class=KRCC>
+부탁이 있어
+<SYNC Start=1092447><P Class=KRCC>&nbsp;
+<SYNC Start=1094710><P Class=KRCC>
+너무 피곤해
+<SYNC Start=1096566><P Class=KRCC>
+몇 주 숨어 있을 곳이 필요해
+<SYNC Start=1101113><P Class=KRCC>&nbsp;
+<SYNC Start=1109837><P Class=KRCC>
+알았어
+<SYNC Start=1112169><P Class=KRCC>
+걱정마
+<SYNC Start=1113687><P Class=KRCC>&nbsp;
+<SYNC Start=1115497><P Class=KRCC>
+본 청문회에 참석해 주셔서 감사합니다
+<SYNC Start=1119676><P Class=KRCC>
+시모무라 씨는 물리학자이며
+<SYNC Start=1121774><P Class=KRCC>
+<font color=FFFF00>"국회 정보통신위원회 사생활 보호 청문회"</font><BR>
+컴퓨터 보안 기술 전문가로써
+<SYNC Start=1127065><P Class=KRCC>
+표준 선정 500 대 기업 및 정부 각 기관에
+<SYNC Start=1130561><P Class=KRCC>
+보안 기술에 대한 자문을 하고 있으며
+<SYNC Start=1134891><P Class=KRCC>
+현재 캘리포니아 대학 슈퍼 컴퓨터 센터<BR>
+수석 연구원으로 일하고 있습니다.
+<SYNC Start=1143971><P Class=KRCC>
+시무라씨
+<SYNC Start=1145539><P Class=KRCC>
+아니 시모무라씨
+<SYNC Start=1146817><P Class=KRCC>
+시작해 주시죠
+<SYNC Start=1148703><P Class=KRCC>
+제가 보여드릴 것은 노키텔<BR>
+(실제:nokia)의 셀룰러 폰입니다.
+<SYNC Start=1154011><P Class=KRCC>
+소형 컴퓨터에 의해 작동되는 무선 전화인데
+<SYNC Start=1158700><P Class=KRCC>
+스캐너라고 하죠
+<SYNC Start=1160988><P Class=KRCC>&nbsp;
+<SYNC Start=1160956><P Class=KRCC>
+해변 별장으로 올래요?
+<SYNC Start=1163703><P Class=KRCC>
+부인은 스페인에서 왔나요?
+<SYNC Start=1166039><P Class=KRCC>
+나 지금 의회에 나와있어 가능하면 빨리..
+<SYNC Start=1169737><P Class=KRCC>
+그 정도면 충분하오
+<SYNC Start=1172286><P Class=KRCC>&nbsp;
+<SYNC Start=1172588><P Class=KRCC>
+몸이 달아 올라요
+<SYNC Start=1174779><P Class=KRCC>
+그만하시오!
+<SYNC Start=1176183><P Class=KRCC>&nbsp;
+<SYNC Start=1179728><P Class=KRCC>
+제가 보여드린 스캐닝 기능은<BR>
+제조사가 설치한 것입니다
+<SYNC Start=1184680><P Class=KRCC>
+전 그 기능을 발견했구요
+<SYNC Start=1186556><P Class=KRCC>
+-거짓말!<BR>
+-그래
+<SYNC Start=1188886><P Class=KRCC>
+-지가 뭔데?<BR>
+-자기가 발견했대잖아 진짤까?
+<SYNC Start=1193772><P Class=KRCC>
+위원장님 앞으로 대중은 도청의<BR>
+위협에 쉽게 노출될 것입니다.
+<SYNC Start=1201476><P Class=KRCC>&nbsp;
+<SYNC Start=1202091><P Class=KRCC>
+모르는 사람들 얘기지
+<SYNC Start=1205465><P Class=KRCC>&nbsp;
+<SYNC Start=1206553><P Class=KRCC>
+놈이 거슬려
+<SYNC Start=1207937><P Class=KRCC>
+지가 미국이라도 돼?
+<SYNC Start=1209557><P Class=KRCC>
+웃기지좀마
+<SYNC Start=1211839><P Class=KRCC>
+또 헛소리 하는군
+<SYNC Start=1214646><P Class=KRCC>&nbsp;
+<SYNC Start=1217497><P Class=KRCC>
+내가 뭘 생각하는지 알아?
+<SYNC Start=1219452><P Class=KRCC>
+노키텔 소스 코드
+<SYNC Start=1222059><P Class=KRCC>&nbsp;
+<SYNC Start=1223000><P Class=KRCC>
+그것만 있으면<BR>
+FBI 놈들을 피할 수 있어
+<SYNC Start=1227712><P Class=KRCC>&nbsp;
+<SYNC Start=1234647><P Class=KRCC>
+-어서와 <BR>
+-잘 있었어?
+<SYNC Start=1236317><P Class=KRCC>
+난 좋아
+<SYNC Start=1238462><P Class=KRCC>&nbsp;
+<SYNC Start=1239276><P Class=KRCC>
+-재미 있었어?<BR>
+-응
+<SYNC Start=1240634><P Class=KRCC>&nbsp;
+<SYNC Start=1242160><P Class=KRCC>
+안녕 케빈?
+<SYNC Start=1244598><P Class=KRCC>&nbsp;
+<SYNC Start=1248685><P Class=KRCC>
+-팀의 집에 갔었어?<BR>
+-응
+<SYNC Start=1251404><P Class=KRCC>
+-식인 물고기도 보고?<BR>
+-응
+<SYNC Start=1254410><P Class=KRCC>&nbsp;
+<SYNC Start=1285834><P Class=KRCC>&nbsp;
+<SYNC Start=1286386><P Class=KRCC>
+-말씀하세요?<BR>
+-시모무라씨?
+<SYNC Start=1289296><P Class=KRCC>
+누구세요?
+<SYNC Start=1290508><P Class=KRCC>
+썬 마이크로시스템의 빌 론델이오
+<SYNC Start=1295759><P Class=KRCC>
+의회에서 증언 장면 보고<BR>
+무척 인상 깊었어요
+<SYNC Start=1301286><P Class=KRCC>
+훌륭한 시연이었어요
+<SYNC Start=1304062><P Class=KRCC>
+고맙소
+<SYNC Start=1305332><P Class=KRCC>
+사실은 센드메일의 취약성에 대해<BR>
+통신에 올린 글을 보고
+<SYNC Start=1310188><P Class=KRCC>
+도움을 받을까 해서요
+<SYNC Start=1312686><P Class=KRCC>
+전화가 왔는데<BR>
+잠깐 기다려 주겠어요?
+<SYNC Start=1315494><P Class=KRCC>&nbsp;
+<SYNC Start=1328828><P Class=KRCC>
+빌이라고요?
+<SYNC Start=1330184><P Class=KRCC>
+네 맞아요!
+<SYNC Start=1332070><P Class=KRCC>
+썬 마이크로시스템의 빌 론델?
+<SYNC Start=1333988><P Class=KRCC>
+메일 주소를 알려주면..
+<SYNC Start=1335480><P Class=KRCC>
+썬에 빌 론델이란 사람은 없소
+<SYNC Start=1339629><P Class=KRCC>
+사기치려면 확실하게 치시오
+<SYNC Start=1342839><P Class=KRCC>
+그게 어렵소?
+<SYNC Start=1344315><P Class=KRCC>
+젖이나 더 먹고 오던지
+<SYNC Start=1346675><P Class=KRCC>&nbsp;
+<SYNC Start=1355360><P Class=KRCC>
+진정해 대체 왜?
+<SYNC Start=1357352><P Class=KRCC>&nbsp;
+<SYNC Start=1358078><P Class=KRCC>
+젖이나 더 먹고 오래
+<SYNC Start=1360216><P Class=KRCC>&nbsp;
+<SYNC Start=1360737><P Class=KRCC>
+네가 누군지 모르잖아
+<SYNC Start=1363517><P Class=KRCC>
+안 그래?
+<SYNC Start=1365817><P Class=KRCC>&nbsp;
+<SYNC Start=1367507><P Class=KRCC>
+-말씀하세요<BR>
+-야!
+<SYNC Start=1369469><P Class=KRCC>
+아직도 삐쩍 마른 줄리아란<BR>
+계집과 놀아나?
+<SYNC Start=1373150><P Class=KRCC>
+줄리아 맞지?
+<SYNC Start=1375048><P Class=KRCC>
+피터의 옛 애인이던가?
+<SYNC Start=1376931><P Class=KRCC>
+아니 친구던가?
+<SYNC Start=1378523><P Class=KRCC>
+혹시 섹스 하다 피터 이름 부른 적 없어?
+<SYNC Start=1381632><P Class=KRCC>
+그럼 고약하겠지?
+<SYNC Start=1383735><P Class=KRCC>&nbsp;
+<SYNC Start=1384852><P Class=KRCC>
+누구요?
+<SYNC Start=1386812><P Class=KRCC>
+네게 관심있는 사람!
+<SYNC Start=1388994><P Class=KRCC>&nbsp;
+<SYNC Start=1395869><P Class=KRCC>
+잘한다 잘 해
+<SYNC Start=1397821><P Class=KRCC>
+그만해
+<SYNC Start=1398629><P Class=KRCC>&nbsp;
+<SYNC Start=1399806><P Class=KRCC>
+그는 만만한 친구가 아냐
+<SYNC Start=1402683><P Class=KRCC>&nbsp;
+<SYNC Start=1403643><P Class=KRCC>
+장난 전화일거야
+<SYNC Start=1405352><P Class=KRCC>
+어떻게 알아?
+<SYNC Start=1406580><P Class=KRCC>
+피터와 관계라면 끝났어
+<SYNC Start=1409497><P Class=KRCC>
+확실히 끝났어
+<SYNC Start=1411205><P Class=KRCC>
+알잖아
+<SYNC Start=1412942><P Class=KRCC>&nbsp;
+<SYNC Start=1422121><P Class=KRCC>
+그게 문제가 아냐
+<SYNC Start=1423475><P Class=KRCC>
+당신에 대해 연구를 많이 한 자야
+<SYNC Start=1426668><P Class=KRCC>
+실력만 좋다면 모든 걸 알아 낼 거야
+<SYNC Start=1430314><P Class=KRCC>&nbsp;
+<SYNC Start=1430426><P Class=KRCC>
+<font color=FFFF00>카드 소유자 신상<BR>
+<font color=FFFF00>츠토무 시모무라
+<SYNC Start=1434951><P Class=KRCC>
+<font color=FFFF00>현재 잔액
+<SYNC Start=1436560><P Class=KRCC>&nbsp;
+<SYNC Start=1444142><P Class=KRCC>
+가야 겠어
+<SYNC Start=1445947><P Class=KRCC>
+너무 오래 있었어
+<SYNC Start=1448545><P Class=KRCC>&nbsp;
+<SYNC Start=1456439><P Class=KRCC>
+-나중에 봐<BR>
+-잘 있어
+<SYNC Start=1458932><P Class=KRCC>&nbsp;
+<SYNC Start=1469319><P Class=KRCC>
+조금은 기다려 주겠지
+<SYNC Start=1472605><P Class=KRCC>&nbsp;
+<SYNC Start=1519029><P Class=KRCC>
+<font color=FFFF00>FTP 노키텔 (파일전송중)</font>
+<SYNC Start=1521369><P Class=KRCC>&nbsp;
+<SYNC Start=1530184><P Class=KRCC>
+받지 마
+<SYNC Start=1532187><P Class=KRCC>&nbsp;
+<SYNC Start=1545272><P Class=KRCC>
+예?
+<SYNC Start=1547276><P Class=KRCC>
+-누구시죠?<BR>
+-새로운 얘기가 있어
+<SYNC Start=1550426><P Class=KRCC>
+최고 컴퓨터 보안 전문가 얘기인데 알아?
+<SYNC Start=1554459><P Class=KRCC>
+그는 방금 해킹 당했어
+<SYNC Start=1556011><P Class=KRCC>
+믿기지 않겠지만 진짜야
+<SYNC Start=1558727><P Class=KRCC>&nbsp;
+<SYNC Start=1566340><P Class=KRCC>
+<font color=FFFF00>에러!</font>
+<SYNC Start=1568482><P Class=KRCC>&nbsp;
+<SYNC Start=1569819><P Class=KRCC>
+뭐야?
+<SYNC Start=1570965><P Class=KRCC>&nbsp;
+<SYNC Start=1572402><P Class=KRCC>
+왜 그래?
+<SYNC Start=1575083><P Class=KRCC>
+말도 안돼..
+<SYNC Start=1576455><P Class=KRCC>&nbsp;
+<SYNC Start=1577627><P Class=KRCC>
+nokitel<BR>
+실행불가: 디렉토리가 없습니다.
+<SYNC Start=1580285><P Class=KRCC>&nbsp;
+<SYNC Start=1582348><P Class=KRCC>
+무슨 일인데 그래?
+<SYNC Start=1584622><P Class=KRCC>&nbsp;
+<SYNC Start=1606346><P Class=KRCC>
+안녕하십니까?
+<SYNC Start=1608428><P Class=KRCC>&nbsp;
+<SYNC Start=1630368><P Class=KRCC>
+<font color=FFFF00>샌디에고 슈퍼 컴퓨터 센터</font>
+<SYNC Start=1632413><P Class=KRCC>&nbsp;
+<SYNC Start=1636174><P Class=KRCC>
+<font color=FFFF00>노키텔 디렉토리 없음</font>
+<SYNC Start=1637596><P Class=KRCC>&nbsp;
+<SYNC Start=1639315><P Class=KRCC>
+이건 말도 안돼!
+<SYNC Start=1640671><P Class=KRCC>&nbsp;
+<SYNC Start=1651763><P Class=KRCC>
+35센트? 젠장!<BR>
+(프리킹 하는중)
+<SYNC Start=1654791><P Class=KRCC>&nbsp;
+<SYNC Start=1668833><P Class=KRCC>
+-무슨 일이야?<BR>
+-알렉스
+<SYNC Start=1670903><P Class=KRCC>
+믿지 않을껄?
+<SYNC Start=1672789><P Class=KRCC>
+시모무라의 컴을 해킹했는데..
+<SYNC Start=1674840><P Class=KRCC>
+노키텔은 물론
+<SYNC Start=1676225><P Class=KRCC>
+조용히 해
+<SYNC Start=1678141><P Class=KRCC>&nbsp;
+<SYNC Start=1680023><P Class=KRCC>
+얘기해
+<SYNC Start=1681321><P Class=KRCC>&nbsp;
+<SYNC Start=1682955><P Class=KRCC>
+정부 차량이 아침 내내 길 맞은 편에 있어
+<SYNC Start=1687702><P Class=KRCC>&nbsp;
+<SYNC Start=1693246><P Class=KRCC>
+-찾아왔었어?<BR>
+-밖에서 감시만 하고 있어
+<SYNC Start=1697419><P Class=KRCC>
+망할놈의 뉴욕 타임즈 기자 때문이야
+<SYNC Start=1700732><P Class=KRCC>
+-SAS 건!<BR>
+-전화번호 바꿨어?
+<SYNC Start=1702798><P Class=KRCC>
+이사하며 바꿨어
+<SYNC Start=1704751><P Class=KRCC>
+옆집 전화를 도청하고 있을거야
+<SYNC Start=1707155><P Class=KRCC>&nbsp;
+<SYNC Start=1708762><P Class=KRCC>
+-여보세요?<BR>
+-짐 아빠 얘기 들었어?
+<SYNC Start=1712880><P Class=KRCC>
+고환이 하나래
+<SYNC Start=1715026><P Class=KRCC>
+샘은 정관수술 받다가 혈액 응고로..
+<SYNC Start=1719714><P Class=KRCC>
+개자식!
+<SYNC Start=1723061><P Class=KRCC>
+날 갖고 놀아?
+<SYNC Start=1725583><P Class=KRCC>
+눈치 빠른데?
+<SYNC Start=1727119><P Class=KRCC>
+정말 빠른 놈이야
+<SYNC Start=1729166><P Class=KRCC>&nbsp;
+<SYNC Start=1731070><P Class=KRCC>
+간다
+<SYNC Start=1731995><P Class=KRCC>
+뒷문을 열어놔<BR>
+곧 갈께
+<SYNC Start=1736307><P Class=KRCC>&nbsp;
+<SYNC Start=1742030><P Class=KRCC>
+난 늘 해커들보다 한발 앞서왔어
+<SYNC Start=1745849><P Class=KRCC>
+백신 프로그램을 만드는 게 내 최종 목표니까
+<SYNC Start=1749699><P Class=KRCC>
+그러려면 강력한 바이러스를 만들어야 했어
+<SYNC Start=1753940><P Class=KRCC>&nbsp;
+<SYNC Start=1755274><P Class=KRCC>
+난 '컨템트'라고 명명했지
+<SYNC Start=1757389><P Class=KRCC>
+컨템트는 모든 시스템을 파괴하고 삭제해버려
+<SYNC Start=1762056><P Class=KRCC>
+-그럼 바이러스?<BR>
+-아냐
+<SYNC Start=1763916><P Class=KRCC>
+넌 이해하지 못할꺼야
+<SYNC Start=1765803><P Class=KRCC>
+컨템트는 단순한 공격용 바이러스가 아냐 
+<SYNC Start=1768568><P Class=KRCC>
+인터넷 기반이기 때문에
+<SYNC Start=1772131><P Class=KRCC>
+키보드 몇 번으로 간단하게<BR>
+대 혼란을 일으킬 수 있어
+<SYNC Start=1777188><P Class=KRCC>
+전화선과 메일 시스템
+<SYNC Start=1779380><P Class=KRCC>
+항공 체계
+<SYNC Start=1781036><P Class=KRCC>
+전력 시스템과 병원과 은행 전산망 등
+<SYNC Start=1784809><P Class=KRCC>
+통제가 불가능해!
+<SYNC Start=1787602><P Class=KRCC>
+그게 세상에 나온다면..
+<SYNC Start=1789659><P Class=KRCC>
+파일을 모두 훔쳐갔어
+<SYNC Start=1792865><P Class=KRCC>
+연구 기록과 메일 등..<BR>
+저장 파일 모두!
+<SYNC Start=1797391><P Class=KRCC>
+쥐도 새도 모르게 말이야
+<SYNC Start=1800294><P Class=KRCC>&nbsp;
+<SYNC Start=1801179><P Class=KRCC>
+노키텔 소스 코드만 찾는 줄 알았는데
+<SYNC Start=1804589><P Class=KRCC>
+한동안 정신없을 거야
+<SYNC Start=1806460><P Class=KRCC>&nbsp;
+<SYNC Start=1808869><P Class=KRCC>
+도움을 요청해
+<SYNC Start=1811023><P Class=KRCC>&nbsp;
+<SYNC Start=1811536><P Class=KRCC>
+사람들에게 알려야 해
+<SYNC Start=1813017><P Class=KRCC>
+뭐?
+<SYNC Start=1813759><P Class=KRCC>&nbsp;
+<SYNC Start=1813948><P Class=KRCC>
+컨템트에 대해서도
+<SYNC Start=1816801><P Class=KRCC>
+다들 해커를 찾는 데 도움이 될꺼야
+<SYNC Start=1820587><P Class=KRCC>
+힘을 합쳐야 돼!
+<SYNC Start=1822362><P Class=KRCC>&nbsp;
+<SYNC Start=1824850><P Class=KRCC>
+당신 말이 맞다면
+<SYNC Start=1826626><P Class=KRCC>&nbsp;
+<SYNC Start=1827689><P Class=KRCC>
+끝까지 찾아내야 해
+<SYNC Start=1829930><P Class=KRCC>&nbsp;
+<SYNC Start=1833513><P Class=KRCC>
+<font color=FFFF00>FBI 빌딩</font>
+<SYNC Start=1835652><P Class=KRCC>
+<font color=FFFF00>메일 도착</font>
+<SYNC Start=1837145><P Class=KRCC>&nbsp;
+<SYNC Start=1848092><P Class=KRCC>
+<font color=FFFF00>케빈 미트닉 건 보고</font>
+<SYNC Start=1849818><P Class=KRCC>&nbsp;
+<SYNC Start=1854606><P Class=KRCC>
+<font color=FFFF00>수색 영장 수령</font>
+<SYNC Start=1858347><P Class=KRCC>&nbsp;
+<SYNC Start=1862809><P Class=KRCC>
+<font color=FFFF00>알렉스 로우 집에 은신</font>
+<SYNC Start=1866135><P Class=KRCC>&nbsp;
+<SYNC Start=1883342><P Class=KRCC>
+-알렉스!<BR>
+-왜?
+<SYNC Start=1885191><P Class=KRCC>
+음악 소리좀 줄여!
+<SYNC Start=1887920><P Class=KRCC>
+뭐야?
+<SYNC Start=1889685><P Class=KRCC>&nbsp;
+<SYNC Start=1890922><P Class=KRCC>
+내 집에서 음악 듣는데 왜 지랄이야?
+<SYNC Start=1895281><P Class=KRCC>&nbsp;
+<SYNC Start=1896212><P Class=KRCC>
+부자가 될 절호의 찬스야!
+<SYNC Start=1899025><P Class=KRCC>&nbsp;
+<SYNC Start=1899814><P Class=KRCC>
+컴퓨터 앞에 앉아
+<SYNC Start=1903047><P Class=KRCC>
+은행 돈을 인출할 수 있다구!
+<SYNC Start=1905959><P Class=KRCC>
+내가 원하는 구좌에다 말야<BR>
+헌데 틀렸어!
+<SYNC Start=1911246><P Class=KRCC>
+알아?
+<SYNC Start=1912677><P Class=KRCC>&nbsp;
+<SYNC Start=1913264><P Class=KRCC>
+두고 봐!
+<SYNC Start=1915378><P Class=KRCC>&nbsp;
+<SYNC Start=1917952><P Class=KRCC>
+난 바보가 아냐
+<SYNC Start=1920191><P Class=KRCC>&nbsp;
+<SYNC Start=1921707><P Class=KRCC>
+<font color=FFFF00>귀하가 수색 영장 요청을 승인합니다</font>
+<SYNC Start=1923206><P Class=KRCC>
+수색 영장?
+<SYNC Start=1925294><P Class=KRCC>&nbsp;
+<SYNC Start=1926134><P Class=KRCC>
+뭐가 두렵지?
+<SYNC Start=1928070><P Class=KRCC>&nbsp;
+<SYNC Start=1930975><P Class=KRCC>
+FBI 메일을 보고 있는데
+<SYNC Start=1933458><P Class=KRCC>&nbsp;
+<SYNC Start=1938364><P Class=KRCC>
+경사!
+<SYNC Start=1940416><P Class=KRCC>
+-잽싸게 처리하세요
+-예!
+<SYNC Start=1942274><P Class=KRCC>&nbsp;
+<SYNC Start=1954837><P Class=KRCC>
+침실을 수색해
+<SYNC Start=1956632><P Class=KRCC>&nbsp;
+<SYNC Start=1960962><P Class=KRCC>
+<font color=FFFF00>현상수배<BR>
+한 발 늦었소이다</font>
+<SYNC Start=1964245><P Class=KRCC>&nbsp;
+<SYNC Start=1965990><P Class=KRCC>
+알았어 나가면 돼잖아!
+<SYNC Start=1969813><P Class=KRCC>&nbsp;
+<SYNC Start=1971277><P Class=KRCC>
+나왔잖아!
+<SYNC Start=1972789><P Class=KRCC>&nbsp;
+<SYNC Start=1974064><P Class=KRCC>
+무슨 일이오?
+<SYNC Start=1975629><P Class=KRCC>
+안녕하신가, 알렉스?
+<SYNC Start=1977869><P Class=KRCC>
+FBI 깁슨 요원일세
+<SYNC Start=1980243><P Class=KRCC>&nbsp;
+<SYNC Start=2121330><P Class=KRCC>
+토요일 오후 8시 34분
+<SYNC Start=2126083><P Class=KRCC>
+시모무라 우린 최고야
+<SYNC Start=2129109><P Class=KRCC>
+두목도 넘버 원이고
+<SYNC Start=2130983><P Class=KRCC>
+네 메일 테크닉 알아
+<SYNC Start=2133651><P Class=KRCC>
+너 쿵후 잘 해?
+<SYNC Start=2136381><P Class=KRCC>
+음탕한 놈..
+<SYNC Start=2138964><P Class=KRCC>
+날 모르겠어?
+<SYNC Start=2140813><P Class=KRCC>
+친구와 널 죽이겠다!
+<SYNC Start=2144505><P Class=KRCC>&nbsp;
+<SYNC Start=2162373><P Class=KRCC>
+이건 오사이러스
+<SYNC Start=2164020><P Class=KRCC>
+노키텔 소스 같은 중요한 자료들을 보관해
+<SYNC Start=2167465><P Class=KRCC>
+이건 아리엘
+<SYNC Start=2168678><P Class=KRCC>
+센터 책상에 있지
+<SYNC Start=2170509><P Class=KRCC>
+오사이러스는 아리엘과만 접속돼 있어
+<SYNC Start=2173930><P Class=KRCC>
+아리엘엔 방화벽이 설치돼 있고
+<SYNC Start=2176222><P Class=KRCC>&nbsp;
+<SYNC Start=2179918><P Class=KRCC>
+<font color=FFFF00>노키텔 실전 테스트</font>
+<SYNC Start=2181874><P Class=KRCC>&nbsp;
+<SYNC Start=2197444><P Class=KRCC>
+아리엘은 모뎀을 통해 인터넷에 접속돼
+<SYNC Start=2200608><P Class=KRCC>
+아리엘의 로그 파일 일부가 10시 49분에 삭제됐어
+<SYNC Start=2205782><P Class=KRCC>
+아리엘엔 패스워드 때문에 접속이 어려워
+<SYNC Start=2209157><P Class=KRCC>
+오사이러스 역시 불가능해
+<SYNC Start=2212024><P Class=KRCC>
+반경 4마일 내면
+<SYNC Start=2213595><P Class=KRCC>
+가능해
+<SYNC Start=2215184><P Class=KRCC>&nbsp;
+<SYNC Start=2225138><P Class=KRCC>
+큰 돈이 걸린 일이야
+<SYNC Start=2228195><P Class=KRCC>
+늦으면 계약이 깨져
+<SYNC Start=2229942><P Class=KRCC>
+걱정마
+<SYNC Start=2231623><P Class=KRCC>
+나만큼 일을 잘 아는 사람도 없어
+<SYNC Start=2234141><P Class=KRCC>
+대단해!
+<SYNC Start=2235572><P Class=KRCC>&nbsp;
+<SYNC Start=2236878><P Class=KRCC>
+어젯밤 오사이러스에서 흔적을 발견했어
+<SYNC Start=2240242><P Class=KRCC>
+누군가 침입한 거지
+<SYNC Start=2242768><P Class=KRCC>
+만약 파일속에 확장자 ITNI가 붙으면
+<SYNC Start=2248314><P Class=KRCC>
+미트닉이야
+<SYNC Start=2249441><P Class=KRCC>
+케빈 미트닉?
+<SYNC Start=2250683><P Class=KRCC>&nbsp;
+<SYNC Start=2251321><P Class=KRCC>
+노키텔 소스 코드를?
+<SYNC Start=2252651><P Class=KRCC>
+그래 타겟만 잡으면 돼
+<SYNC Start=2255248><P Class=KRCC>
+이상하지 않아?
+<SYNC Start=2257249><P Class=KRCC>
+뭐가?
+<SYNC Start=2258319><P Class=KRCC>
+해킹했다는 전화 말야
+<SYNC Start=2261248><P Class=KRCC>
+그게 왜?
+<SYNC Start=2262678><P Class=KRCC>
+왜 알려줬을까?
+<SYNC Start=2265065><P Class=KRCC>
+깁슨이요
+워렌 파크요
+<SYNC Start=2267713><P Class=KRCC>
+캘리포니아 교통부 소속 조사관이죠
+<SYNC Start=2270927><P Class=KRCC>
+방금 당신을 사칭하는 사람 전화를 받았소
+<SYNC Start=2274263><P Class=KRCC>
+요원들 사진을 요청해왔소
+<SYNC Start=2278830><P Class=KRCC>
+당신 사진까지
+<SYNC Start=2280659><P Class=KRCC>&nbsp;
+<SYNC Start=2280942><P Class=KRCC>
+완벽한 해킹은 피해자가 몰라야 하는거 아냐?
+<SYNC Start=2285400><P Class=KRCC>
+그런데 그는 전화까지 해 호통을 쳐?
+<SYNC Start=2289276><P Class=KRCC>&nbsp;
+<SYNC Start=2290478><P Class=KRCC>
+그렇다면 당신이 아는 사람이던가
+<SYNC Start=2293336><P Class=KRCC>
+원한이 있는 자야
+<SYNC Start=2295800><P Class=KRCC>&nbsp;
+<SYNC Start=2297195><P Class=KRCC>
+멋진 추리네요
+<SYNC Start=2299489><P Class=KRCC>&nbsp;
+<SYNC Start=2300290><P Class=KRCC>
+자네도 훌륭해
+<SYNC Start=2301815><P Class=KRCC>
+표현 방법 참 묘하네요
+<SYNC Start=2305427><P Class=KRCC>&nbsp;
+<SYNC Start=2306298><P Class=KRCC>
+영리한 놈이니 조심해요
+<SYNC Start=2308494><P Class=KRCC>
+FBI의 팩스 번호를 알려줬는데
+<SYNC Start=2311355><P Class=KRCC>
+확인한 결과 컬버 시티에 있는 복사점 팩스 전화번호였어요
+<SYNC Start=2316436><P Class=KRCC>
+무심코 번호를 불러 준거죠
+<SYNC Start=2320019><P Class=KRCC>
+그 곳 주소를 알려 주겠소?
+<SYNC Start=2322315><P Class=KRCC>&nbsp;
+<SYNC Start=2337173><P Class=KRCC>
+그건 내게 보낸 걸텐데?
+<SYNC Start=2339052><P Class=KRCC>&nbsp;
+<SYNC Start=2342564><P Class=KRCC>
+사냥개 한테 보낸게 맞군
+<SYNC Start=2344573><P Class=KRCC>&nbsp;
+<SYNC Start=2400526><P Class=KRCC>
+개같은 새끼
+<SYNC Start=2402454><P Class=KRCC>&nbsp;
+<SYNC Start=2411862><P Class=KRCC>
+망할놈에 개새끼가
+<SYNC Start=2413530><P Class=KRCC>&nbsp;
+<SYNC Start=2426281><P Class=KRCC>
+씨팔
+<SYNC Start=2427814><P Class=KRCC>&nbsp;
+<SYNC Start=2429383><P Class=KRCC>
+돌아가
+<SYNC Start=2430718><P Class=KRCC>&nbsp;
+<SYNC Start=2439353><P Class=KRCC>
+십새..
+<SYNC Start=2441062><P Class=KRCC>&nbsp;
+<SYNC Start=2445426><P Class=KRCC>
+<font color=FFFF00>여행 예약 시스템</font>
+<SYNC Start=2447113><P Class=KRCC>&nbsp;
+<SYNC Start=2448191><P Class=KRCC>
+키보드 치고 있어?
+<SYNC Start=2450140><P Class=KRCC>
+-통화 중에도 키보드 쳐?<BR>
+-아냐
+<SYNC Start=2452323><P Class=KRCC>
+-통화 중에도 키보드 친다면 심한 거 아냐?<BR>
+-날 믿어
+<SYNC Start=2456554><P Class=KRCC>
+통화중에 그러면 안돼
+<SYNC Start=2459319><P Class=KRCC>
+거기 어디야?
+<SYNC Start=2461043><P Class=KRCC>
+말할 수 없어
+<SYNC Start=2462623><P Class=KRCC>
+키보드 치고 있지?
+<SYNC Start=2464403><P Class=KRCC>
+창가로요
+<SYNC Start=2466259><P Class=KRCC>
+뭐?
+<SYNC Start=2467700><P Class=KRCC>
+난 역마살이 끼었잖아
+<SYNC Start=2470095><P Class=KRCC>
+어디로 가는데?
+<SYNC Start=2471649><P Class=KRCC>
+짐은 부쳤어?
+<SYNC Start=2473481><P Class=KRCC>
+역시 인터넷은 편리한 개인 창고야
+<SYNC Start=2477761><P Class=KRCC>
+<font color=FFFF00>전송완료</font>
+<SYNC Start=2478391><P Class=KRCC>
+-부탁 좀 할까?<BR>
+-응
+<SYNC Start=2480748><P Class=KRCC>
+절대 잡히지마
+<SYNC Start=2483356><P Class=KRCC>&nbsp;
+<SYNC Start=2484222><P Class=KRCC>
+보여야 잡지
+<SYNC Start=2486604><P Class=KRCC>&nbsp;
+<SYNC Start=2488186><P Class=KRCC>
+<font color=FFFF00>컴퓨터 오용 및 불법 사용 방지 회의
+<SYNC Start=2491038><P Class=KRCC>&nbsp;
+<SYNC Start=2493891><P Class=KRCC>
+날 모르겠어?
+<SYNC Start=2494992><P Class=KRCC>
+친구와 널 죽이겠다
+<SYNC Start=2497611><P Class=KRCC>&nbsp;
+<SYNC Start=2497958><P Class=KRCC>
+질문 없습니까?
+<SYNC Start=2499714><P Class=KRCC>&nbsp;
+<SYNC Start=2500743><P Class=KRCC>
+케빈 미트닉의 해킹에 대해 한마디 해 주시겠소?
+<SYNC Start=2506501><P Class=KRCC>&nbsp;
+<SYNC Start=2506985><P Class=KRCC>
+말하지 않겠습니다
+<SYNC Start=2509254><P Class=KRCC>
+노키텔의 소스 코드 때문에?
+<SYNC Start=2511794><P Class=KRCC>
+억측입니다
+<SYNC Start=2513482><P Class=KRCC>
+다른건 어떻소?
+<SYNC Start=2516360><P Class=KRCC>&nbsp;
+<SYNC Start=2518140><P Class=KRCC>
+극비 사항입니다.
+<SYNC Start=2519737><P Class=KRCC>
+세상이 다 아는데!
+<SYNC Start=2523232><P Class=KRCC>&nbsp;
+<SYNC Start=2527443><P Class=KRCC>
+그게 뭐죠?
+<SYNC Start=2528425><P Class=KRCC>
+미안하지만 극비 사항이요
+<SYNC Start=2531784><P Class=KRCC>
+곧 끝날거요
+<SYNC Start=2533565><P Class=KRCC>
+열 받지 말아요 수고 했어요
+<SYNC Start=2536230><P Class=KRCC>
+즐겁게 해줘서 고마워요
+<SYNC Start=2538741><P Class=KRCC>&nbsp;
+<SYNC Start=2539742><P Class=KRCC>
+무료로 도너츠 같은거 안 주나?
+<SYNC Start=2543535><P Class=KRCC>&nbsp;
+<SYNC Start=2544156><P Class=KRCC>
+마음 가라앉혀
+<SYNC Start=2545292><P Class=KRCC>
+한 발짝 물러서서 보면 놈을 잡을 수 있어
+<SYNC Start=2549652><P Class=KRCC>
+시모무라 씨!
+<SYNC Start=2551024><P Class=KRCC>&nbsp;
+<SYNC Start=2554328><P Class=KRCC>
+안녕하시오? FBI의 깁슨 요원이요
+<SYNC Start=2556161><P Class=KRCC>
+얘기 좀 할까요?
+<SYNC Start=2557797><P Class=KRCC>
+그러죠
+<SYNC Start=2558835><P Class=KRCC>
+- 케빈 소행이오?<BR>
+- 누구나 가능성은 있죠
+<SYNC Start=2562733><P Class=KRCC>
+해커를 잡아야 하오 사회의 병균이니까
+<SYNC Start=2566047><P Class=KRCC>
+해커는 나에요
+<SYNC Start=2567903><P Class=KRCC>
+케빈은 파괴자이고 차이가 많죠
+<SYNC Start=2570897><P Class=KRCC>
+난 케빈 체포 명령을 받았소 내가 아는건..
+<SYNC Start=2575881><P Class=KRCC>
+놈은 큰 사고를 칠 놈이며
+<SYNC Start=2579103><P Class=KRCC>
+보호 관찰법 위반에 불법 도주자요
+<SYNC Start=2582433><P Class=KRCC>
+이름이 뭐라고요?
+<SYNC Start=2583125><P Class=KRCC>
+깁슨!
+<SYNC Start=2584539><P Class=KRCC>
+사건을 이해합니까?
+<SYNC Start=2586407><P Class=KRCC>
+사건을 처리할 능력이 있냐고요
+<SYNC Start=2589688><P Class=KRCC>
+겉 모습만 보고 날 무시하는 모양인데
+<SYNC Start=2594333><P Class=KRCC>
+놈과 씨름할 시간이 없소
+<SYNC Start=2596166><P Class=KRCC>
+당신 기준엔 멍청할지 몰르지만
+<SYNC Start=2598778><P Class=KRCC>
+나도 나름대로 기준이 있소
+<SYNC Start=2601948><P Class=KRCC>
+그 동안 수사관으로 일한 경험으로 보면
+<SYNC Start=2605223><P Class=KRCC>
+당신은 비사회적인 컴퓨터 광이야
+<SYNC Start=2608061><P Class=KRCC>
+여자 친구는 빼고
+<SYNC Start=2610045><P Class=KRCC>&nbsp;
+<SYNC Start=2611178><P Class=KRCC>
+여긴 웬일이야? 날 기억해?
+<SYNC Start=2614517><P Class=KRCC>
+-전화도 없이 <BR>
+-알렉스 로우요
+<SYNC Start=2616456><P Class=KRCC>
+케빈의 절친한 친구지
+<SYNC Start=2618233><P Class=KRCC>
+시모무라!
+<SYNC Start=2619635><P Class=KRCC>
+넘버 원이야!
+<SYNC Start=2620806><P Class=KRCC>
+내가 알기론 놈이 메시지를 남겼을 거요
+<SYNC Start=2623804><P Class=KRCC>
+쿵후 잘하던데?
+<SYNC Start=2625690><P Class=KRCC>
+출발은 안 좋았지만
+<SYNC Start=2628519><P Class=KRCC>
+날 도와주시오 나도 당신을 돕겠소
+<SYNC Start=2631549><P Class=KRCC>
+연락 주시오
+<SYNC Start=2634073><P Class=KRCC>&nbsp;
+<SYNC Start=2635000><P Class=KRCC>
+<font color=Yellow>시애틀</font>
+<SYNC Start=2638000><P Class=KRCC>&nbsp;
+<SYNC Start=2676739><P Class=KRCC>
+이봐 케빈 내가 무슨 말 하는지 알지?
+<SYNC Start=2678896><P Class=KRCC>
+우리 새아빠는 극단적인<BR>
+유태인 보호망 교수였지
+<SYNC Start=2681968><P Class=KRCC>
+강했어 아주 눈에는 눈 이런식으로
+<SYNC Start=2686150><P Class=KRCC>
+표적 연습한다고 해부한걸<BR>
+사막에다 두고 했어
+<SYNC Start=2690138><P Class=KRCC>
+실제 크기의 커다란 히틀러 포스터를<BR>
+그 위에 놓고 말이야
+<SYNC Start=2695442><P Class=KRCC>
+- 이거 보여?<BR>
+- 어떤거? 뭐보고 있는데? 어디?
+<SYNC Start=2698538><P Class=KRCC>
+tar 파일 (압축파일)
+<SYNC Start=2701386><P Class=KRCC>
+contempt 라는 디렉토리안에
+<SYNC Start=2704229><P Class=KRCC>
+코드 일부가 암호화 되어있어
+<SYNC Start=2708120><P Class=KRCC>&nbsp;
+<SYNC Start=2708977><P Class=KRCC>
+이게 뭐지?
+<SYNC Start=2710098><P Class=KRCC>&nbsp;
+<SYNC Start=2711029><P Class=KRCC>
+모르겠는데.. <BR>
+한번도 본 적이 없는 코든데?
+<SYNC Start=2714966><P Class=KRCC>&nbsp;
+<SYNC Start=2716298><P Class=KRCC>
+음 이건...
+<SYNC Start=2718578><P Class=KRCC>&nbsp;
+<SYNC Start=2723982><P Class=KRCC>
+이 tar 압축 전체가 하나로 된<BR>
+Worm 바이러스 같은데
+<SYNC Start=2728584><P Class=KRCC>
+이건 self detect 코드같아 (자가 감지)
+<SYNC Start=2731012><P Class=KRCC>
+그치만 어떤 정부 기밀같은것도 없는데?<BR>
+특정 소속에 대한 구조체가 명시안되있어
+<SYNC Start=2736611><P Class=KRCC>
+CIA 도 없고.. FBI, NSA도 없고..
+<SYNC Start=2739354><P Class=KRCC>
+G가 그 분야에선 알려졌었지..
+<SYNC Start=2741700><P Class=KRCC>
+빅브라더들을 위해 만든거라 생각안되는데<BR>
+(빅브라더=정부측..)
+<SYNC Start=2744409><P Class=KRCC>
+뭐라고? 말도 안돼<BR>
+자기 자신을 위해 했단말야? 왜그러겠어?
+<SYNC Start=2750281><P Class=KRCC>
+할 수 있기 때문이지
+<SYNC Start=2753863><P Class=KRCC>&nbsp;
+<SYNC Start=2758360><P Class=KRCC>
+안녕
+<SYNC Start=2759960><P Class=KRCC>&nbsp;
+<SYNC Start=2761220><P Class=KRCC>
+안녕
+<SYNC Start=2762911><P Class=KRCC>&nbsp;
+<SYNC Start=2763980><P Class=KRCC>
+말해줘서 고맙군..
+<SYNC Start=2767072><P Class=KRCC>&nbsp;
+<SYNC Start=2768141><P Class=KRCC>
+나도 몰랐었어
+<SYNC Start=2770079><P Class=KRCC>&nbsp;
+<SYNC Start=2778608><P Class=KRCC>
+뭐 갔다드릴까요?
+<SYNC Start=2781125><P Class=KRCC>
+에스프레소 한잔 더 주세요
+<SYNC Start=2784906><P Class=KRCC>&nbsp;
+<SYNC Start=2790728><P Class=KRCC>
+사이버 테러에 대해 읽고 있어요?
+<SYNC Start=2793895><P Class=KRCC>
+자유를 위해 투쟁하는 전사들을<BR>
+왜곡하는 말이죠
+<SYNC Start=2797135><P Class=KRCC>
+저건 어떻게 보느냐에 따라 다르게 보이겠죠
+<SYNC Start=2801619><P Class=KRCC>
+설마 반 정부 운동이 범죄라고 생각하세요?
+<SYNC Start=2805349><P Class=KRCC>
+그래요 동의 해야만 하겠군요.
+<SYNC Start=2808732><P Class=KRCC>&nbsp;
+<SYNC Start=2812477><P Class=KRCC>
+에스프레소 갖다 드리죠..
+<SYNC Start=2815525><P Class=KRCC>
+저기요
+<SYNC Start=2818966><P Class=KRCC>&nbsp;
+<SYNC Start=2820351><P Class=KRCC>
+난 자유 사회에 대해 흥미를 가진<BR>
+사람들끼리 토론을 하는것도 좋을것 같은데..
+<SYNC Start=2826702><P Class=KRCC>&nbsp;
+<SYNC Start=2828461><P Class=KRCC>
+그러죠
+<SYNC Start=2830487><P Class=KRCC>&nbsp;
+<SYNC Start=2832622><P Class=KRCC>
+내 이름은 캐런이에요.
+<SYNC Start=2835141><P Class=KRCC>&nbsp;
+<SYNC Start=2843297><P Class=KRCC>
+네?
+<SYNC Start=2844813><P Class=KRCC>&nbsp;
+<SYNC Start=2847212><P Class=KRCC>
+시애틀인가요?
+<SYNC Start=2849338><P Class=KRCC>&nbsp;
+<SYNC Start=2850600><P Class=KRCC>
+그래요?
+<SYNC Start=2852143><P Class=KRCC>&nbsp;
+<SYNC Start=2853149><P Class=KRCC>
+확실한가요?
+<SYNC Start=2855157><P Class=KRCC>&nbsp;
+<SYNC Start=2856570><P Class=KRCC>
+전화번호를 주면 한 시간안에 전화드리죠
+<SYNC Start=2859332><P Class=KRCC>&nbsp;
+<SYNC Start=2866130><P Class=KRCC>
+-츠토무?<BR>
+-네
+<SYNC Start=2867165><P Class=KRCC>
+전 제이 크로니에요 만나서 반갑군요
+<SYNC Start=2869993><P Class=KRCC>&nbsp;
+</BODY>
+</SAMI>

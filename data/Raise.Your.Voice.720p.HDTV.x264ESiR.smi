@@ -1,0 +1,2441 @@
+<SAMI>
+<HEAD>
+<TITLE>제목을 적어 주세요.</TITLE>
+<STYLE TYPE="text/css">
+<!--
+P { margin-left:2pt; margin-right:2pt; margin-bottom:1pt;
+    margin-top:1pt; font-size:20pt; text-align:center;
+    font-family:Arial, Sans-serif; font-weight:bold; color:white;
+    }
+.ENCC { Name:English; SAMIType:CC; }
+#STDPrn { Name:Standard Print; }
+#LargePrn { Name:Large Print (26pt); font-size:26pt; }
+#SmallPrn { Name:Small Print (14pt); font-size:14pt; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<!--
+sub2smi by nonsan7@naver.com
+-->
+<SYNC Start=8250><P Class=ENCC>
+<FONT COLOR=yellow>♪ You and me ♪
+<SYNC Start=11344><P Class=ENCC>&nbsp;
+<SYNC Start=11387><P Class=ENCC>
+<FONT COLOR=yellow>♪ Can't you see ♪
+<SYNC Start=15687><P Class=ENCC>&nbsp;
+<SYNC Start=15725><P Class=ENCC>
+<FONT COLOR=yellow>♪ How our hearts are one? ♪
+<SYNC Start=19718><P Class=ENCC>&nbsp;
+<SYNC Start=26836><P Class=ENCC>
+뭐..뭐야?
+<SYNC Start=28064><P Class=ENCC>&nbsp;
+<SYNC Start=28104><P Class=ENCC>
+- 여기서 뭐하는거야?<br>
+- 아,음..
+<SYNC Start=30299><P Class=ENCC>&nbsp;
+<SYNC Start=30339><P Class=ENCC>
+그냥..
+<SYNC Start=32307><P Class=ENCC>&nbsp;
+<SYNC Start=32341><P Class=ENCC>
+문이 열려있었어<br>
+피아노 소리가 들리길래
+<SYNC Start=34502><P Class=ENCC>&nbsp;
+<SYNC Start=36946><P Class=ENCC>
+계속해
+<SYNC Start=38914><P Class=ENCC>&nbsp;
+<SYNC Start=38948><P Class=ENCC>
+아냐, 괜찮아
+<SYNC Start=40916><P Class=ENCC>&nbsp;
+<SYNC Start=40950><P Class=ENCC>
+지금 막..<br>
+그만하려던 참이었어
+<SYNC Start=42781><P Class=ENCC>&nbsp;
+<SYNC Start=42818><P Class=ENCC>
+정말이야
+<SYNC Start=45446><P Class=ENCC>&nbsp;
+<SYNC Start=46455><P Class=ENCC>
+테리, 잠깐만
+<SYNC Start=48423><P Class=ENCC>&nbsp;
+<SYNC Start=48457><P Class=ENCC>
+미안해, 난 그냥...
+<SYNC Start=51688><P Class=ENCC>&nbsp;
+<SYNC Start=51727><P Class=ENCC>
+작곡할때 누가 보는게<br>
+익숙치가 않아서
+<SYNC Start=54127><P Class=ENCC>&nbsp;
+<SYNC Start=54163><P Class=ENCC>
+- 왜?<br>
+- 글쎄..
+<SYNC Start=56927><P Class=ENCC>&nbsp;
+<SYNC Start=56966><P Class=ENCC>
+음..가사때문에..<br>
+너무 유치하잖아
+<SYNC Start=59434><P Class=ENCC>&nbsp;
+<SYNC Start=59468><P Class=ENCC>
+그러니까, 노래를 할때말야
+<SYNC Start=61436><P Class=ENCC>&nbsp;
+<SYNC Start=61470><P Class=ENCC>
+난 좀더 멋진 가사를<br>
+쓰고싶은데..
+<SYNC Start=63597><P Class=ENCC>&nbsp;
+<SYNC Start=63639><P Class=ENCC>
+난 어렸을 때부터<br>
+작곡을 했었어
+<SYNC Start=65630><P Class=ENCC>&nbsp;
+<SYNC Start=65674><P Class=ENCC>
+근데 내가 만든 곡은
+<SYNC Start=67665><P Class=ENCC>&nbsp;
+<SYNC Start=67710><P Class=ENCC>
+꼭 애들 만화주제가 같았다구
+<SYNC Start=71544><P Class=ENCC>&nbsp;
+<SYNC Start=71580><P Class=ENCC>
+- 아무거나 연주해봐<br>
+- 오, 흠
+<SYNC Start=75346><P Class=ENCC>&nbsp;
+<SYNC Start=75384><P Class=ENCC>
+- 아직 준비가 안됐어<br>
+- 그러지말고 한번 해봐
+<SYNC Start=78251><P Class=ENCC>&nbsp;
+<SYNC Start=78287><P Class=ENCC>
+"니가 할 수 있는걸 해봐"
+<SYNC Start=81450><P Class=ENCC>&nbsp;
+<SYNC Start=81490><P Class=ENCC>
+며칠전에 니가 했던말이잖아?
+<SYNC Start=83219><P Class=ENCC>&nbsp;
+<SYNC Start=83259><P Class=ENCC>
+한번해봐
+<SYNC Start=85090><P Class=ENCC>&nbsp;
+<SYNC Start=85127><P Class=ENCC>
+그래
+<SYNC Start=87118><P Class=ENCC>&nbsp;
+<SYNC Start=89165><P Class=ENCC>
+<FONT COLOR=yellow>♪ You and me<br>
+can't you see ♪
+<SYNC Start=92794><P Class=ENCC>&nbsp;
+<SYNC Start=92835><P Class=ENCC>
+<FONT COLOR=yellow>♪ How our hearts<br>
+are one? ♪
+<SYNC Start=95770><P Class=ENCC>&nbsp;
+<SYNC Start=95805><P Class=ENCC>
+<FONT COLOR=yellow>♪ PIease beIieve ♪
+<SYNC Start=97898><P Class=ENCC>&nbsp;
+<SYNC Start=97940><P Class=ENCC>
+<FONT COLOR=yellow>♪ And don't deceive ♪
+<SYNC Start=101307><P Class=ENCC>&nbsp;
+<SYNC Start=101343><P Class=ENCC>
+<FONT COLOR=yellow>♪ Now our journey's<br>
+just begun ♪
+<SYNC Start=105370><P Class=ENCC>&nbsp;
+<SYNC Start=105414><P Class=ENCC>
+<FONT COLOR=yellow>♪ The sunIight<br>
+in your hair ♪
+<SYNC Start=108212><P Class=ENCC>&nbsp;
+<SYNC Start=108250><P Class=ENCC>
+<FONT COLOR=yellow>♪ Makes my heart jump<br>
+in the air... ♪
+<SYNC Start=111481><P Class=ENCC>&nbsp;
+<SYNC Start=113522><P Class=ENCC>
+좋아
+<SYNC Start=115683><P Class=ENCC>&nbsp;
+<SYNC Start=117059><P Class=ENCC>
+노래는 좋은데
+<SYNC Start=119084><P Class=ENCC>&nbsp;
+<SYNC Start=119128><P Class=ENCC>
+- 그래?<br>
+- 여긴 이렇게 하면 어때?
+<SYNC Start=121187><P Class=ENCC>&nbsp;
+<SYNC Start=122965><P Class=ENCC>
+- 그래, 괜찮은데<br>
+- 그지?
+<SYNC Start=124694><P Class=ENCC>&nbsp;
+<SYNC Start=124733><P Class=ENCC>
+응 멋지다
+<SYNC Start=126758><P Class=ENCC>&nbsp;
+<SYNC Start=127036><P Class=ENCC>
+<FONT COLOR=yellow>♪ When it comes to rap,<br>
+you don't even write your stuff ♪
+<SYNC Start=129698><P Class=ENCC>&nbsp;
+<SYNC Start=129738><P Class=ENCC>
+<FONT COLOR=yellow>♪ Yeah you make tracks<br>
+but I make twice as much. ♪
+<SYNC Start=132002><P Class=ENCC>&nbsp;
+<SYNC Start=132041><P Class=ENCC>
+오, 봄이여, 남자의 열망이<br>
+사랑으로 승화하는 계절!
+<SYNC Start=135499><P Class=ENCC>&nbsp;
+<SYNC Start=135544><P Class=ENCC>
+- 니네 이거 보여?
+<SYNC Start=138172><P Class=ENCC>&nbsp;
+<SYNC Start=138214><P Class=ENCC>
+누구때문에<br>
+여기 심장이 있던 자리에
+<SYNC Start=140739><P Class=ENCC>&nbsp;
+<SYNC Start=140783><P Class=ENCC>
+커다란 구멍이 생겼는데
+<SYNC Start=142944><P Class=ENCC>&nbsp;
+<SYNC Start=142985><P Class=ENCC>
+정작 그렇게 한 사람은<br>
+신경도 안 쓰고 있으니
+<SYNC Start=147445><P Class=ENCC>&nbsp;
+<SYNC Start=147490><P Class=ENCC>
+저기 검은색 셔츠입은<br>
+여자애 말하는거니?
+<SYNC Start=150015><P Class=ENCC>&nbsp;
+<SYNC Start=150059><P Class=ENCC>
+이봐, 그녀는 여기서<br>
+실력이 제일 좋은 애야
+<SYNC Start=152220><P Class=ENCC>&nbsp;
+<SYNC Start=152261><P Class=ENCC>
+걔가 연습하는 걸 봤는데<br>
+정말 완벽하더라
+<SYNC Start=154525><P Class=ENCC>&nbsp;
+<SYNC Start=154563><P Class=ENCC>
+눈이 한번 마주쳤는데<br>
+그 순간 난..
+<SYNC Start=158158><P Class=ENCC>&nbsp;
+<SYNC Start=159869><P Class=ENCC>
+와, 정말 뿅갔어
+<SYNC Start=162667><P Class=ENCC>&nbsp;
+<SYNC Start=162705><P Class=ENCC>
+- 야, 너 푹 빠졌구나<br>
+- 완전히 빠졌지
+<SYNC Start=165139><P Class=ENCC>&nbsp;
+<SYNC Start=165174><P Class=ENCC>
+- 말이라도 걸어봤어?<br>
+- 아니, 시도중이야
+<SYNC Start=168575><P Class=ENCC>&nbsp;
+<SYNC Start=168611><P Class=ENCC>
+문제는 걔가<br>
+그럴 틈을 안준다는 거지
+<SYNC Start=170602><P Class=ENCC>&nbsp;
+<SYNC Start=170646><P Class=ENCC>
+그럼, 내가 다리놔줄까?
+<SYNC Start=173809><P Class=ENCC>&nbsp;
+<SYNC Start=173849><P Class=ENCC>
+예전부터 느꼈지만<br>
+넌 정말 멋져
+<SYNC Start=176079><P Class=ENCC>&nbsp;
+<SYNC Start=176118><P Class=ENCC>
+제이, 얘 정말 맘에 들어<br>
+센스가 있다니까
+<SYNC Start=178313><P Class=ENCC>&nbsp;
+<SYNC Start=178354><P Class=ENCC>
+- 내가 항상 그랬잖아, 그지?<br>
+- 그래 항상 그랬지
+<SYNC Start=181915><P Class=ENCC>&nbsp;
+<SYNC Start=181957><P Class=ENCC>
+그럼 기대할게
+<SYNC Start=183720><P Class=ENCC>&nbsp;
+<SYNC Start=195538><P Class=ENCC>
+안녕
+<SYNC Start=198974><P Class=ENCC>&nbsp;
+<SYNC Start=199008><P Class=ENCC>
+반가워, 나 테리야
+<SYNC Start=201169><P Class=ENCC>&nbsp;
+<SYNC Start=201210><P Class=ENCC>
+방해해서 미안한데
+<SYNC Start=202700><P Class=ENCC>&nbsp;
+<SYNC Start=204046><P Class=ENCC>
+이름이 뭐야?
+<SYNC Start=206378><P Class=ENCC>&nbsp;
+<SYNC Start=206415><P Class=ENCC>
+슬론
+<SYNC Start=208747><P Class=ENCC>&nbsp;
+<SYNC Start=208784><P Class=ENCC>
+우린..같은 수업을 듣거나<br>
+뭐 그런건 아니지만
+<SYNC Start=213278><P Class=ENCC>&nbsp;
+<SYNC Start=213322><P Class=ENCC>
+그냥 인사라도 할까해서
+<SYNC Start=215552><P Class=ENCC>&nbsp;
+<SYNC Start=215591><P Class=ENCC>
+그래
+<SYNC Start=218116><P Class=ENCC>&nbsp;
+<SYNC Start=221330><P Class=ENCC>
+좋아, 친구중 한명이..
+<SYNC Start=223298><P Class=ENCC>&nbsp;
+<SYNC Start=223332><P Class=ENCC>
+음, 정말 착하고<br>
+이름은 키위야
+<SYNC Start=226790><P Class=ENCC>&nbsp;
+<SYNC Start=226835><P Class=ENCC>
+걔가 널 좋아한대<br>
+그래서 하는말인데
+<SYNC Start=229702><P Class=ENCC>&nbsp;
+<SYNC Start=229738><P Class=ENCC>
+토요일 밤에<br>
+우리와 함께 놀지 않을래?
+<SYNC Start=232400><P Class=ENCC>&nbsp;
+<SYNC Start=232441><P Class=ENCC>
+이름이 키위가 뭐야
+<SYNC Start=235638><P Class=ENCC>&nbsp;
+<SYNC Start=235678><P Class=ENCC>
+그리고 날 좋아한다고?<br>
+바보같군
+<SYNC Start=239307><P Class=ENCC>&nbsp;
+<SYNC Start=241116><P Class=ENCC>
+하지만, 그건<br>
+맘대로 할 수 없는거잖아
+<SYNC Start=244347><P Class=ENCC>&nbsp;
+<SYNC Start=245988><P Class=ENCC>
+아무튼, 7시에<br>
+정문에서 보자
+<SYNC Start=248388><P Class=ENCC>&nbsp;
+<SYNC Start=248424><P Class=ENCC>
+같이 저녁이나 먹자구
+<SYNC Start=251791><P Class=ENCC>&nbsp;
+<SYNC Start=255364><P Class=ENCC>
+그러지 뭐..
+<SYNC Start=257332><P Class=ENCC>&nbsp;
+<SYNC Start=257366><P Class=ENCC>
+좋아
+<SYNC Start=259129><P Class=ENCC>&nbsp;
+<SYNC Start=265808><P Class=ENCC>
+이따보자
+<SYNC Start=268276><P Class=ENCC>&nbsp;
+<SYNC Start=268310><P Class=ENCC>
+정말 잘친다 피아노
+<SYNC Start=270540><P Class=ENCC>&nbsp;
+<SYNC Start=276285><P Class=ENCC>
+정말 이상한 얘기였어<br>
+그래, 그냥 니 생각대로..
+<SYNC Start=279277><P Class=ENCC>&nbsp;
+<SYNC Start=279321><P Class=ENCC>
+- 근데 그때..<br>
+- 성공이야!
+<SYNC Start=281289><P Class=ENCC>&nbsp;
+<SYNC Start=281323><P Class=ENCC>
+오 아름다운 페튜니아 여인!
+<SYNC Start=284781><P Class=ENCC>&nbsp;
+<SYNC Start=284827><P Class=ENCC>
+- 오! 신이시여!<br>
+- 그렇게 좋냐?
+<SYNC Start=288194><P Class=ENCC>&nbsp;
+<SYNC Start=288230><P Class=ENCC>
+그래, 그럼<br>
+얘기해봐
+<SYNC Start=290289><P Class=ENCC>&nbsp;
+<SYNC Start=290332><P Class=ENCC>
+너 제이랑 사귄다고?
+<SYNC Start=292300><P Class=ENCC>&nbsp;
+<SYNC Start=292334><P Class=ENCC>
+응, 그런 셈이지
+<SYNC Start=294302><P Class=ENCC>&nbsp;
+<SYNC Start=294336><P Class=ENCC>
+제이는 정말<br>
+멋있는 애야
+<SYNC Start=296304><P Class=ENCC>&nbsp;
+<SYNC Start=296338><P Class=ENCC>
+그럼 로빈은?<br>
+신경 안쓰여?
+<SYNC Start=298306><P Class=ENCC>&nbsp;
+<SYNC Start=298340><P Class=ENCC>
+- 걔랑은 끝났대<br>
+- 그렇겠지
+<SYNC Start=301036><P Class=ENCC>&nbsp;
+<SYNC Start=301076><P Class=ENCC>
+- 그거 정말 귀엽다<br>
+- 맘에 들어?
+<SYNC Start=303044><P Class=ENCC>&nbsp;
+<SYNC Start=303078><P Class=ENCC>
+응
+<SYNC Start=304102><P Class=ENCC>&nbsp;
+<SYNC Start=304146><P Class=ENCC>
+우리 엄마가 옷가게를 하는데<br>
+특이하고 예쁜게 많아
+<SYNC Start=305807><P Class=ENCC>&nbsp;
+<SYNC Start=305848><P Class=ENCC>
+- 엄마가 안목이 좀 있거든<br>
+- 그래?
+<SYNC Start=309011><P Class=ENCC>&nbsp;
+<SYNC Start=309051><P Class=ENCC>
+응, 난 엄마 사업이<br>
+좀 더 잘 됐으면 하는데
+<SYNC Start=311042><P Class=ENCC>&nbsp;
+<SYNC Start=311086><P Class=ENCC>
+슈퍼에서 아르바이트도 하고
+<SYNC Start=314453><P Class=ENCC>&nbsp;
+<SYNC Start=314490><P Class=ENCC>
+거리공연도 했지만
+<SYNC Start=316458><P Class=ENCC>&nbsp;
+<SYNC Start=316492><P Class=ENCC>
+수업료 내기에도<br>
+빠듯했거든
+<SYNC Start=318960><P Class=ENCC>&nbsp;
+<SYNC Start=318994><P Class=ENCC>
+이제 내가 왜<br>
+장학금에 목매는지 알겠어?
+<SYNC Start=322327><P Class=ENCC>&nbsp;
+<SYNC Start=322364><P Class=ENCC>
+이리 잠깐 와봐
+<SYNC Start=324332><P Class=ENCC>&nbsp;
+<SYNC Start=324366><P Class=ENCC>
+이거 한번 대봐<br>
+어떤지 보게
+<SYNC Start=326334><P Class=ENCC>&nbsp;
+<SYNC Start=326368><P Class=ENCC>
+- 정말?<br>
+- 그래, 얼른와
+<SYNC Start=328859><P Class=ENCC>&nbsp;
+<SYNC Start=328904><P Class=ENCC>
+알았어
+<SYNC Start=330872><P Class=ENCC>&nbsp;
+<SYNC Start=330906><P Class=ENCC>
+- 오 멋진데?<br>
+- 정말? 클럽에서 인기좀 끌거같아?
+<SYNC Start=334535><P Class=ENCC>&nbsp;
+<SYNC Start=346755><P Class=ENCC>
+세상에
+<SYNC Start=348620><P Class=ENCC>&nbsp;
+<SYNC Start=353896><P Class=ENCC>
+- 안녕, 고모!<br>
+- 연락돼서 다행이다!
+<SYNC Start=355761><P Class=ENCC>&nbsp;
+<SYNC Start=355798><P Class=ENCC>
+아빠가 전화했었어<br>
+할 수 있는건 다했지만
+<SYNC Start=357766><P Class=ENCC>&nbsp;
+<SYNC Start=357800><P Class=ENCC>
+아빠가 눈치챈 것 같아<br>
+어떻게 알았는지는 모르겠지만
+<SYNC Start=361361><P Class=ENCC>&nbsp;
+<SYNC Start=361403><P Class=ENCC>
+엄마 말로는<br>
+지금 여기로 오는중이래
+<SYNC Start=364304><P Class=ENCC>&nbsp;
+<SYNC Start=364339><P Class=ENCC>
+내가 최대한 시간을 끌어보겠지만<br>
+빨리 올 수 있겠니?
+<SYNC Start=367365><P Class=ENCC>&nbsp;
+<SYNC Start=367409><P Class=ENCC>
+큰일났네<br>
+우린 죽었어요
+<SYNC Start=369900><P Class=ENCC>&nbsp;
+<SYNC Start=370946><P Class=ENCC>
+난 이제 죽었다
+<SYNC Start=372937><P Class=ENCC>&nbsp;
+<SYNC Start=374650><P Class=ENCC>
+제이!
+<SYNC Start=375639><P Class=ENCC>&nbsp;
+<SYNC Start=388864><P Class=ENCC>
+- 정말 고마워<br>
+- 테리, 잘되길 바래
+<SYNC Start=390832><P Class=ENCC>&nbsp;
+<SYNC Start=390866><P Class=ENCC>
+내일 밤에 보자, 알았지?
+<SYNC Start=393391><P Class=ENCC>&nbsp;
+<SYNC Start=393435><P Class=ENCC>
+팜데저트행 열차가<br>
+12번 승강장에서 출발합니다
+<SYNC Start=396427><P Class=ENCC>&nbsp;
+<SYNC Start=408984><P Class=ENCC>
+화씨 100도에 육박하던 더위가<br>
+이제 좀 주춤하군요
+<SYNC Start=412943><P Class=ENCC>&nbsp;
+<SYNC Start=412988><P Class=ENCC>
+이 곳 팜 스프링스 지역은
+<SYNC Start=415183><P Class=ENCC>&nbsp;
+<SYNC Start=415224><P Class=ENCC>
+바람은 시속 6마일로<br>
+북동쪽으로 불고 있으며..
+<SYNC Start=417988><P Class=ENCC>&nbsp;
+<SYNC Start=456532><P Class=ENCC>
+- 어서와<br>
+- 그래, 니나
+<SYNC Start=459000><P Class=ENCC>&nbsp;
+<SYNC Start=459034><P Class=ENCC>
+테리는 어딨어?
+<SYNC Start=461002><P Class=ENCC>&nbsp;
+<SYNC Start=461036><P Class=ENCC>
+어.. 그게..
+<SYNC Start=462833><P Class=ENCC>&nbsp;
+<SYNC Start=462871><P Class=ENCC>
+사이먼, 하고 싶은 말이 있어
+<SYNC Start=465601><P Class=ENCC>&nbsp;
+<SYNC Start=465641><P Class=ENCC>
+- 뭔데?<br>
+- 뭐냐면..
+<SYNC Start=468337><P Class=ENCC>&nbsp;
+<SYNC Start=468377><P Class=ENCC>
+아빠!!
+<SYNC Start=470368><P Class=ENCC>&nbsp;
+<SYNC Start=473549><P Class=ENCC>
+- 보고싶었어요<br>
+- 나도 보고싶었어
+<SYNC Start=476882><P Class=ENCC>&nbsp;
+<SYNC Start=481223><P Class=ENCC>
+십년 감수했네
+<SYNC Start=483851><P Class=ENCC>&nbsp;
+<SYNC Start=487896><P Class=ENCC>
+미안해
+<SYNC Start=490626><P Class=ENCC>&nbsp;
+<SYNC Start=490666><P Class=ENCC>
+둘다 안올거야<br>
+확실해
+<SYNC Start=493533><P Class=ENCC>&nbsp;
+<SYNC Start=493569><P Class=ENCC>
+- 안올거라구<br>
+- 아니야
+<SYNC Start=495332><P Class=ENCC>&nbsp;
+<SYNC Start=495370><P Class=ENCC>
+여자들은 항상<br>
+일부러 좀 늦는다구
+<SYNC Start=497099><P Class=ENCC>&nbsp;
+<SYNC Start=497139><P Class=ENCC>
+- 곧 올거야<br>
+- 그래, 곧 오겠지
+<SYNC Start=501542><P Class=ENCC>&nbsp;
+<SYNC Start=501577><P Class=ENCC>
+- 야<br>
+- 고마워
+<SYNC Start=503545><P Class=ENCC>&nbsp;
+<SYNC Start=503579><P Class=ENCC>
+그게 아니라
+<SYNC Start=505570><P Class=ENCC>&nbsp;
+<SYNC Start=508350><P Class=ENCC>
+젠장
+<SYNC Start=509681><P Class=ENCC>&nbsp;
+<SYNC Start=509718><P Class=ENCC>
+아냐, 기다려봐<br>
+어딜 가는거야
+<SYNC Start=512380><P Class=ENCC>&nbsp;
+<SYNC Start=512421><P Class=ENCC>
+안녕, 얘들아<br>
+늦어서 미안해
+<SYNC Start=515618><P Class=ENCC>&nbsp;
+<SYNC Start=516692><P Class=ENCC>
+슬론, 너 정말 예쁘다
+<SYNC Start=519320><P Class=ENCC>&nbsp;
+<SYNC Start=519361><P Class=ENCC>
+그러게
+<SYNC Start=521022><P Class=ENCC>&nbsp;
+<SYNC Start=521063><P Class=ENCC>
+자, 얼른 가자
+<SYNC Start=522394><P Class=ENCC>&nbsp;
+<SYNC Start=523866><P Class=ENCC>
+너 오늘 의상이..<br>
+멋있어~
+<SYNC Start=526096><P Class=ENCC>&nbsp;
+<SYNC Start=526134><P Class=ENCC>
+아빠한테 내가 지금까지<br>
+고모네 있었던 척 했다니까
+<SYNC Start=529194><P Class=ENCC>&nbsp;
+<SYNC Start=529238><P Class=ENCC>
+고모가 그동안 집수리를 해서<br>
+구조가 바뀌었는지
+<SYNC Start=531968><P Class=ENCC>&nbsp;
+<SYNC Start=532007><P Class=ENCC>
+화장실문을 열었더니<br>
+옷장이더라구
+<SYNC Start=534976><P Class=ENCC>&nbsp;
+<SYNC Start=535010><P Class=ENCC>
+- 말두 안돼<br>
+- 정말이야
+<SYNC Start=536910><P Class=ENCC>&nbsp;
+<SYNC Start=536945><P Class=ENCC>
+우린 니가 범생인줄 알았는데
+<SYNC Start=539778><P Class=ENCC>&nbsp;
+<SYNC Start=539815><P Class=ENCC>
+가출한거나 다름없구나?
+<SYNC Start=542375><P Class=ENCC>&nbsp;
+<SYNC Start=543986><P Class=ENCC>
+근데 우리<br>
+어디로 가는거야?
+<SYNC Start=546250><P Class=ENCC>&nbsp;
+<SYNC Start=546288><P Class=ENCC>
+가보면 알아
+<SYNC Start=547983><P Class=ENCC>&nbsp;
+<SYNC Start=563238><P Class=ENCC>
+- 잘하는데?<br>
+- 죽이는거지
+<SYNC Start=566071><P Class=ENCC>&nbsp;
+<SYNC Start=568010><P Class=ENCC>
+이거 해줄수 있지?
+<SYNC Start=570444><P Class=ENCC>&nbsp;
+<SYNC Start=577853><P Class=ENCC>
+<FONT COLOR=yellow>♪ You got a smiIe<br>
+so bright ♪
+<SYNC Start=581653><P Class=ENCC>&nbsp;
+<SYNC Start=581690><P Class=ENCC>
+<FONT COLOR=yellow>♪ You know you couId<br>
+have been a candIe ♪
+<SYNC Start=585057><P Class=ENCC>&nbsp;
+<SYNC Start=585093><P Class=ENCC>
+<FONT COLOR=yellow>♪ I'm hoIding<br>
+you so tight... ♪
+<SYNC Start=587926><P Class=ENCC>&nbsp;
+<SYNC Start=589865><P Class=ENCC>
+너희들도 이리와<br>
+얼른!
+<SYNC Start=591833><P Class=ENCC>&nbsp;
+<SYNC Start=591867><P Class=ENCC>
+- 농담이지?<br>
+- 얼른 오라니까
+<SYNC Start=593835><P Class=ENCC>&nbsp;
+<SYNC Start=593869><P Class=ENCC>
+- 어, 안돼..<br>
+<FONT COLOR=yellow>- ♪ The way you swept me off my feet ♪
+<SYNC Start=596736><P Class=ENCC>&nbsp;
+<SYNC Start=596772><P Class=ENCC>
+<FONT COLOR=yellow>♪ You know you couId<br>
+have been some perfume ♪
+<SYNC Start=600435><P Class=ENCC>&nbsp;
+<SYNC Start=600475><P Class=ENCC>
+<FONT COLOR=yellow>♪ WeII you couId have been<br>
+anything that you wanted to ♪
+<SYNC Start=605708><P Class=ENCC>&nbsp;
+<SYNC Start=605747><P Class=ENCC>
+<FONT COLOR=yellow>♪ And I couId teII ♪
+<SYNC Start=608409><P Class=ENCC>&nbsp;
+<SYNC Start=608450><P Class=ENCC>
+<FONT COLOR=yellow>♪ The way you do<br>
+the things you do ♪
+<SYNC Start=610418><P Class=ENCC>&nbsp;
+<SYNC Start=610452><P Class=ENCC>
+<FONT COLOR=yellow>♪ The way you do<br>
+the things you do ♪
+<SYNC Start=612420><P Class=ENCC>&nbsp;
+<SYNC Start=612454><P Class=ENCC>
+<FONT COLOR=yellow>♪ The way you do the things<br>
+you do ♪
+<SYNC Start=613978><P Class=ENCC>&nbsp;
+<SYNC Start=614022><P Class=ENCC>
+<FONT COLOR=yellow>♪ The way you do<br>
+the things you do ♪
+<SYNC Start=616422><P Class=ENCC>&nbsp;
+<SYNC Start=616458><P Class=ENCC>
+<FONT COLOR=yellow>♪ And as pretty as you are ♪
+<SYNC Start=619950><P Class=ENCC>&nbsp;
+<SYNC Start=619995><P Class=ENCC>
+<FONT COLOR=yellow>♪ You know you couId<br>
+have been a fIower... ♪
+<SYNC Start=622759><P Class=ENCC>&nbsp;
+<SYNC Start=667876><P Class=ENCC>
+머리속이 복잡하면<br>
+여길 올라오곤 해
+<SYNC Start=670401><P Class=ENCC>&nbsp;
+<SYNC Start=670445><P Class=ENCC>
+여기 정말 멋진데
+<SYNC Start=674506><P Class=ENCC>&nbsp;
+<SYNC Start=674549><P Class=ENCC>
+야경도 좋구
+<SYNC Start=676540><P Class=ENCC>&nbsp;
+<SYNC Start=676585><P Class=ENCC>
+나도 너처럼<br>
+이런 데가 필요했는데
+<SYNC Start=678576><P Class=ENCC>&nbsp;
+<SYNC Start=678620><P Class=ENCC>
+나한테 잘 보이면
+<SYNC Start=680747><P Class=ENCC>&nbsp;
+<SYNC Start=680789><P Class=ENCC>
+여기 같이 쓰게 해줄게
+<SYNC Start=682848><P Class=ENCC>&nbsp;
+<SYNC Start=682891><P Class=ENCC>
+- 정말?<br>
+- 그럴지도
+<SYNC Start=684859><P Class=ENCC>&nbsp;
+<SYNC Start=684893><P Class=ENCC>
+니가 여기서<br>
+무슨 생각을 하느냐에 달렸지
+<SYNC Start=688488><P Class=ENCC>&nbsp;
+<SYNC Start=688530><P Class=ENCC>
+이것저것
+<SYNC Start=690521><P Class=ENCC>&nbsp;
+<SYNC Start=693335><P Class=ENCC>
+내 꿈
+<SYNC Start=695303><P Class=ENCC>&nbsp;
+<SYNC Start=695337><P Class=ENCC>
+음악<br>
+그리고 미래
+<SYNC Start=698067><P Class=ENCC>&nbsp;
+<SYNC Start=698106><P Class=ENCC>
+내게 미래가 있다면
+<SYNC Start=700438><P Class=ENCC>&nbsp;
+<SYNC Start=708683><P Class=ENCC>
+춤출래?
+<SYNC Start=710674><P Class=ENCC>&nbsp;
+<SYNC Start=728036><P Class=ENCC>
+너무 빠른가?
+<SYNC Start=730004><P Class=ENCC>&nbsp;
+<SYNC Start=730038><P Class=ENCC>
+준비가 안됐어
+<SYNC Start=732006><P Class=ENCC>&nbsp;
+<SYNC Start=732040><P Class=ENCC>
+그래..괜찮아
+<SYNC Start=735373><P Class=ENCC>&nbsp;
+<SYNC Start=735410><P Class=ENCC>
+널 좋아해
+<SYNC Start=737605><P Class=ENCC>&nbsp;
+<SYNC Start=737646><P Class=ENCC>
+아주 많이
+<SYNC Start=739409><P Class=ENCC>&nbsp;
+<SYNC Start=739448><P Class=ENCC>
+나도 니가 좋아
+<SYNC Start=741882><P Class=ENCC>&nbsp;
+<SYNC Start=746988><P Class=ENCC>
+우리 저번에 같이 만들었던<br>
+그 노래 말인데
+<SYNC Start=749786><P Class=ENCC>&nbsp;
+<SYNC Start=749825><P Class=ENCC>
+응
+<SYNC Start=751292><P Class=ENCC>&nbsp;
+<SYNC Start=751326><P Class=ENCC>
+우리 최종공연을<br>
+그 곡으로 하면 어떨까?
+<SYNC Start=754625><P Class=ENCC>&nbsp;
+<SYNC Start=754663><P Class=ENCC>
+넌 노래하고<br>
+난 연주하고
+<SYNC Start=756062><P Class=ENCC>&nbsp;
+<SYNC Start=756098><P Class=ENCC>
+장학금은 나누면 되잖아
+<SYNC Start=758225><P Class=ENCC>&nbsp;
+<SYNC Start=758266><P Class=ENCC>
+그리고 나서<br>
+더 의미있는 노래도 만들자
+<SYNC Start=761497><P Class=ENCC>&nbsp;
+<SYNC Start=763338><P Class=ENCC>
+- 알았지?<br>
+- 좋아
+<SYNC Start=765397><P Class=ENCC>&nbsp;
+<SYNC Start=768677><P Class=ENCC>
+그거 다시 한번 해볼래?
+<SYNC Start=772135><P Class=ENCC>&nbsp;
+<SYNC Start=772180><P Class=ENCC>
+뭐?
+<SYNC Start=774171><P Class=ENCC>&nbsp;
+<SYNC Start=801376><P Class=ENCC>
+<FONT COLOR=yellow>♪ Something in the way<br>
+you throw your hair ♪
+<SYNC Start=804106><P Class=ENCC>&nbsp;
+<SYNC Start=804146><P Class=ENCC>
+<FONT COLOR=yellow>♪ Back over your shouIder ♪
+<SYNC Start=806444><P Class=ENCC>&nbsp;
+<SYNC Start=806481><P Class=ENCC>
+<FONT COLOR=yellow>♪ Something in the way<br>
+you smiIe ♪
+<SYNC Start=809279><P Class=ENCC>&nbsp;
+<SYNC Start=809317><P Class=ENCC>
+<FONT COLOR=yellow>♪ When you're Iooking<br>
+my way ♪
+<SYNC Start=811285><P Class=ENCC>&nbsp;
+<SYNC Start=811319><P Class=ENCC>
+<FONT COLOR=yellow>♪ I've got no concerns ♪
+<SYNC Start=813287><P Class=ENCC>&nbsp;
+<SYNC Start=813321><P Class=ENCC>
+<FONT COLOR=yellow>♪ The days are Iong<br>
+and the nights get coIder ♪
+<SYNC Start=816313><P Class=ENCC>&nbsp;
+<SYNC Start=816358><P Class=ENCC>
+<FONT COLOR=yellow>♪ Because it's this<br>
+I've got to try ♪
+<SYNC Start=819794><P Class=ENCC>&nbsp;
+<SYNC Start=819828><P Class=ENCC>
+<FONT COLOR=yellow>♪ On you, honey ♪
+<SYNC Start=821455><P Class=ENCC>&nbsp;
+<SYNC Start=821496><P Class=ENCC>
+<FONT COLOR=yellow>♪ I ain't never wishin'<br>
+for the change ♪
+<SYNC Start=824124><P Class=ENCC>&nbsp;
+<SYNC Start=824166><P Class=ENCC>
+<FONT COLOR=yellow>♪ In my condition ♪
+<SYNC Start=825997><P Class=ENCC>&nbsp;
+<SYNC Start=826034><P Class=ENCC>
+<FONT COLOR=yellow>♪ I'm not rich<br>
+but I know ♪
+<SYNC Start=827763><P Class=ENCC>&nbsp;
+<SYNC Start=827802><P Class=ENCC>
+<FONT COLOR=yellow>♪ That the sun<br>
+wiII shine for me ♪
+<SYNC Start=830794><P Class=ENCC>&nbsp;
+<SYNC Start=830839><P Class=ENCC>
+<FONT COLOR=yellow>♪ Ride with me ♪
+<SYNC Start=832500><P Class=ENCC>&nbsp;
+<SYNC Start=832541><P Class=ENCC>
+<FONT COLOR=yellow>♪ Won't you take<br>
+a ride with me? ♪
+<SYNC Start=836910><P Class=ENCC>&nbsp;
+<SYNC Start=839314><P Class=ENCC>
+- 자 빨리 가자<br>
+- 오늘 열린무대의 밤이래
+<SYNC Start=841908><P Class=ENCC>&nbsp;
+<SYNC Start=846755><P Class=ENCC>
+- 우!<br>
+- 꺼져라!
+<SYNC Start=848746><P Class=ENCC>&nbsp;
+<SYNC Start=851693><P Class=ENCC>
+장난이 아닌데
+<SYNC Start=853661><P Class=ENCC>&nbsp;
+<SYNC Start=853695><P Class=ENCC>
+- 그러게<br>
+- 정말 그렇네
+<SYNC Start=855663><P Class=ENCC>&nbsp;
+<SYNC Start=855697><P Class=ENCC>
+우리가 저기서 공연할 수 있는지<br>
+좀 알아보고 올께
+<SYNC Start=858063><P Class=ENCC>&nbsp;
+<SYNC Start=858099><P Class=ENCC>
+뭐라구?<br>
+제이, 안돼
+<SYNC Start=860067><P Class=ENCC>&nbsp;
+<SYNC Start=860101><P Class=ENCC>
+야, 매일 연습만 할 순 없잖아
+<SYNC Start=862467><P Class=ENCC>&nbsp;
+<SYNC Start=862504><P Class=ENCC>
+조만간 우리도<br>
+이런 공연을 해야한다구
+<SYNC Start=864472><P Class=ENCC>&nbsp;
+<SYNC Start=864506><P Class=ENCC>
+짜증난다, 나가자
+<SYNC Start=866906><P Class=ENCC>&nbsp;
+<SYNC Start=866942><P Class=ENCC>
+♪ Hey-ey. ♪
+<SYNC Start=870537><P Class=ENCC>&nbsp;
+<SYNC Start=870579><P Class=ENCC>
+네, 네
+<SYNC Start=872547><P Class=ENCC>&nbsp;
+<SYNC Start=872581><P Class=ENCC>
+스탠리 윌슨이었습니다<br>
+여러분
+<SYNC Start=874549><P Class=ENCC>&nbsp;
+<SYNC Start=874583><P Class=ENCC>
+윌슨에게<br>
+큰 박수 보내주세요
+<SYNC Start=876551><P Class=ENCC>&nbsp;
+<SYNC Start=876585><P Class=ENCC>
+- 너 여기 왜 왔냐?<br>
+- 최악이야!
+<SYNC Start=878553><P Class=ENCC>&nbsp;
+<SYNC Start=878587><P Class=ENCC>
+괜찮았어요
+<SYNC Start=880555><P Class=ENCC>&nbsp;
+<SYNC Start=880589><P Class=ENCC>
+- 너무 긴장돼<br>
+- 그럴땐 그냥..
+<SYNC Start=882750><P Class=ENCC>&nbsp;
+<SYNC Start=882791><P Class=ENCC>
+관객이 모두<br>
+누드라고 상상해봐
+<SYNC Start=885123><P Class=ENCC>&nbsp;
+<SYNC Start=885160><P Class=ENCC>
+헛소리 해서 미안
+<SYNC Start=887287><P Class=ENCC>&nbsp;
+<SYNC Start=887329><P Class=ENCC>
+네, 다음은<br>
+테리와 제이입니다
+<SYNC Start=890093><P Class=ENCC>&nbsp;
+<SYNC Start=890131><P Class=ENCC>
+여기 '블루문'클럽엔<br>
+처음이라네요
+<SYNC Start=892565><P Class=ENCC>&nbsp;
+<SYNC Start=892601><P Class=ENCC>
+환영의 박수 부탁드립니다<br>
+테리, 제이입니다!
+<SYNC Start=895399><P Class=ENCC>&nbsp;
+<SYNC Start=909017><P Class=ENCC>
+<FONT COLOR=yellow>♪ There's a Iight in me ♪
+<SYNC Start=912475><P Class=ENCC>&nbsp;
+<SYNC Start=912520><P Class=ENCC>
+<FONT COLOR=yellow>♪ And-- ♪
+<SYNC Start=914488><P Class=ENCC>&nbsp;
+<SYNC Start=914522><P Class=ENCC>
+- 다시하자<br>
+- 뭐야, 노래 안해?
+<SYNC Start=917047><P Class=ENCC>&nbsp;
+<SYNC Start=917092><P Class=ENCC>
+<FONT COLOR=yellow>♪ There's a Iight in me ♪
+<SYNC Start=920152><P Class=ENCC>&nbsp;
+<SYNC Start=920195><P Class=ENCC>
+- 야, 돌아서서 불러<br>
+<FONT COLOR=yellow>- ♪ And it's shine-- ♪
+<SYNC Start=923096><P Class=ENCC>&nbsp;
+<SYNC Start=924666><P Class=ENCC>
+괜찮아<br>
+관객들을 보면서 불러봐
+<SYNC Start=926600><P Class=ENCC>&nbsp;
+<SYNC Start=928670><P Class=ENCC>
+죄송합니다
+<SYNC Start=930661><P Class=ENCC>&nbsp;
+<SYNC Start=933842><P Class=ENCC>
+<FONT COLOR=yellow>♪ There's a Iight in me ♪
+<SYNC Start=937300><P Class=ENCC>&nbsp;
+<SYNC Start=937345><P Class=ENCC>
+<FONT COLOR=yellow>♪ And it's shine--<br>
+shine ♪
+<SYNC Start=941611><P Class=ENCC>&nbsp;
+<SYNC Start=941650><P Class=ENCC>
+<FONT COLOR=yellow>♪ I can't heIp-- ♪
+<SYNC Start=944016><P Class=ENCC>&nbsp;
+<SYNC Start=951826><P Class=ENCC>
+오빠!
+<SYNC Start=954886><P Class=ENCC>&nbsp;
+<SYNC Start=960568><P Class=ENCC>
+테리, 테리!
+<SYNC Start=962536><P Class=ENCC>&nbsp;
+<SYNC Start=962570><P Class=ENCC>
+테리, 잠깐만!
+<SYNC Start=964538><P Class=ENCC>&nbsp;
+<SYNC Start=964572><P Class=ENCC>
+- 무슨 일이야?<br>
+- 괜찮아
+<SYNC Start=967700><P Class=ENCC>&nbsp;
+<SYNC Start=967742><P Class=ENCC>
+아까 갑자기..<br>
+그냥 준비가 안됐어
+<SYNC Start=971041><P Class=ENCC>&nbsp;
+<SYNC Start=973548><P Class=ENCC>
+나중에 주려고 했는데
+<SYNC Start=976108><P Class=ENCC>&nbsp;
+<SYNC Start=976151><P Class=ENCC>
+이거..
+<SYNC Start=977175><P Class=ENCC>&nbsp;
+<SYNC Start=977218><P Class=ENCC>
+네꺼야
+<SYNC Start=980312><P Class=ENCC>&nbsp;
+<SYNC Start=980355><P Class=ENCC>
+오빠의 목걸이
+<SYNC Start=982346><P Class=ENCC>&nbsp;
+<SYNC Start=1016791><P Class=ENCC>
+<FONT COLOR=yellow>♪ The kingdom<br>
+of this worId ♪
+<SYNC Start=1021694><P Class=ENCC>&nbsp;
+<SYNC Start=1021730><P Class=ENCC>
+<FONT COLOR=yellow>♪ He is become ♪
+<SYNC Start=1024699><P Class=ENCC>&nbsp;
+<SYNC Start=1024733><P Class=ENCC>
+<FONT COLOR=yellow>♪ The kingdom of our Lord ♪
+<SYNC Start=1027861><P Class=ENCC>&nbsp;
+<SYNC Start=1027902><P Class=ENCC>
+<FONT COLOR=yellow>♪ And of His Christ... ♪
+<SYNC Start=1029870><P Class=ENCC>&nbsp;
+<SYNC Start=1029904><P Class=ENCC>
+<FONT COLOR=yellow>♪ And of His Christ. ♪
+<SYNC Start=1033704><P Class=ENCC>&nbsp;
+<SYNC Start=1033742><P Class=ENCC>
+좋아, 잘했어
+<SYNC Start=1036575><P Class=ENCC>&nbsp;
+<SYNC Start=1036611><P Class=ENCC>
+나아지고 있어<br>
+10분 남았다
+<SYNC Start=1039045><P Class=ENCC>&nbsp;
+<SYNC Start=1039080><P Class=ENCC>
+세번째 파트를 해볼까 하는데<br>
+테리 본 사람 없어?
+<SYNC Start=1041344><P Class=ENCC>&nbsp;
+<SYNC Start=1041383><P Class=ENCC>
+선생님, 제가 해볼게요<br>
+완벽히 연습했어요
+<SYNC Start=1044375><P Class=ENCC>&nbsp;
+<SYNC Start=1044419><P Class=ENCC>
+그건 테리의 독창부분이니<br>
+기다려보자
+<SYNC Start=1047354><P Class=ENCC>&nbsp;
+<SYNC Start=1047389><P Class=ENCC>
+여기 있지도 않잖아요<br>
+게다가 잘 부르지도 못한다구요
+<SYNC Start=1050381><P Class=ENCC>&nbsp;
+<SYNC Start=1050425><P Class=ENCC>
+테리도 연습 많이 했다<br>
+그걸 부를 자격이 있어
+<SYNC Start=1053189><P Class=ENCC>&nbsp;
+<SYNC Start=1053228><P Class=ENCC>
+아니요<br>
+자격있는건 저에요!
+<SYNC Start=1056686><P Class=ENCC>&nbsp;
+<SYNC Start=1056731><P Class=ENCC>
+쟤 왜 저래
+<SYNC Start=1058323><P Class=ENCC>&nbsp;
+<SYNC Start=1060235><P Class=ENCC>
+하-하
+<SYNC Start=1062226><P Class=ENCC>&nbsp;
+<SYNC Start=1063304><P Class=ENCC>
+이제 여자 취향이<br>
+바뀌셨나보죠?
+<SYNC Start=1066000><P Class=ENCC>&nbsp;
+<SYNC Start=1069377><P Class=ENCC>
+안녕
+<SYNC Start=1072005><P Class=ENCC>&nbsp;
+<SYNC Start=1072046><P Class=ENCC>
+짜증나
+<SYNC Start=1074014><P Class=ENCC>&nbsp;
+<SYNC Start=1074048><P Class=ENCC>
+야, 무슨일이야?
+<SYNC Start=1076039><P Class=ENCC>&nbsp;
+<SYNC Start=1080388><P Class=ENCC>
+이해할 수가 없어
+<SYNC Start=1082618><P Class=ENCC>&nbsp;
+<SYNC Start=1082657><P Class=ENCC>
+작년 여름엔 그렇게<br>
+좋기만 했는데
+<SYNC Start=1085592><P Class=ENCC>&nbsp;
+<SYNC Start=1085627><P Class=ENCC>
+올해 여름은 왜 이렇게<br>
+지옥같은거지?!
+<SYNC Start=1088391><P Class=ENCC>&nbsp;
+<SYNC Start=1092133><P Class=ENCC>
+로빈,미안해
+<SYNC Start=1094124><P Class=ENCC>&nbsp;
+<SYNC Start=1095403><P Class=ENCC>
+이야기 좀 할래?
+<SYNC Start=1097564><P Class=ENCC>&nbsp;
+<SYNC Start=1097605><P Class=ENCC>
+단 둘이서 말야
+<SYNC Start=1100369><P Class=ENCC>&nbsp;
+<SYNC Start=1105413><P Class=ENCC>
+선생님 안녕하세요<br>
+수업엔 못가서 죄송해요
+<SYNC Start=1109315><P Class=ENCC>&nbsp;
+<SYNC Start=1109350><P Class=ENCC>
+아냐, 괜찮아
+<SYNC Start=1111318><P Class=ENCC>&nbsp;
+<SYNC Start=1111352><P Class=ENCC>
+몸은 좀 괜찮니?
+<SYNC Start=1113616><P Class=ENCC>&nbsp;
+<SYNC Start=1113655><P Class=ENCC>
+- 네?<br>
+- 내 수업을 빠질정도면
+<SYNC Start=1116988><P Class=ENCC>&nbsp;
+<SYNC Start=1117025><P Class=ENCC>
+죽을병에 걸린걸텐데
+<SYNC Start=1119084><P Class=ENCC>&nbsp;
+<SYNC Start=1119127><P Class=ENCC>
+오늘 네 독창부분을<br>
+연습할거였는데 아깝군
+<SYNC Start=1121960><P Class=ENCC>&nbsp;
+<SYNC Start=1125099><P Class=ENCC>
+- 전 독창 준비가 안됐어요<br>
+- 아냐, 할 수 있어
+<SYNC Start=1127966><P Class=ENCC>&nbsp;
+<SYNC Start=1128002><P Class=ENCC>
+처음왔을때 보다<br>
+많이 발전한걸 너도 알잖니?
+<SYNC Start=1131267><P Class=ENCC>&nbsp;
+<SYNC Start=1131306><P Class=ENCC>
+알아요, 하지만<br>
+저보다 잘하는 애들이 많은걸요
+<SYNC Start=1133934><P Class=ENCC>&nbsp;
+<SYNC Start=1133975><P Class=ENCC>
+그런건 내가 보고<br>
+판단하는거다
+<SYNC Start=1135943><P Class=ENCC>&nbsp;
+<SYNC Start=1135977><P Class=ENCC>
+내일 다시 해보도록 하자
+<SYNC Start=1137945><P Class=ENCC>&nbsp;
+<SYNC Start=1137979><P Class=ENCC>
+테리
+<SYNC Start=1140140><P Class=ENCC>&nbsp;
+<SYNC Start=1140181><P Class=ENCC>
+그 독창부분을 탐내는<br>
+애들이 많아
+<SYNC Start=1143116><P Class=ENCC>&nbsp;
+<SYNC Start=1143151><P Class=ENCC>
+근데 그런걸 마다한다면
+<SYNC Start=1145949><P Class=ENCC>&nbsp;
+<SYNC Start=1145987><P Class=ENCC>
+여기 있는 의미가 뭐지?
+<SYNC Start=1147978><P Class=ENCC>&nbsp;
+<SYNC Start=1151426><P Class=ENCC>
+정말 모욕적이야<br>
+넌 나랑 만났었잖아
+<SYNC Start=1154862><P Class=ENCC>&nbsp;
+<SYNC Start=1154896><P Class=ENCC>
+난 그냥..
+<SYNC Start=1156955><P Class=ENCC>&nbsp;
+<SYNC Start=1156998><P Class=ENCC>
+진정해..
+<SYNC Start=1158989><P Class=ENCC>&nbsp;
+<SYNC Start=1161703><P Class=ENCC>
+일이 좀 꼬인거야<br>
+그뿐이야
+<SYNC Start=1164001><P Class=ENCC>&nbsp;
+<SYNC Start=1164038><P Class=ENCC>
+늘 그렇지
+<SYNC Start=1166006><P Class=ENCC>&nbsp;
+<SYNC Start=1166040><P Class=ENCC>
+난 아냐
+<SYNC Start=1168008><P Class=ENCC>&nbsp;
+<SYNC Start=1168042><P Class=ENCC>
+난 항상<br>
+원하는대로 해왔어
+<SYNC Start=1171409><P Class=ENCC>&nbsp;
+<SYNC Start=1174349><P Class=ENCC>
+- 그럼 안되는거야?<br>
+- 글쎄..
+<SYNC Start=1177079><P Class=ENCC>&nbsp;
+<SYNC Start=1178520><P Class=ENCC>
+넌 나쁜사람을<br>
+좋아하는줄 알았는데
+<SYNC Start=1180784><P Class=ENCC>&nbsp;
+<SYNC Start=1182590><P Class=ENCC>
+아니었어?
+<SYNC Start=1184558><P Class=ENCC>&nbsp;
+<SYNC Start=1184592><P Class=ENCC>
+이봐, 우리 작년 여름엔<br>
+잘 지냈잖아
+<SYNC Start=1188084><P Class=ENCC>&nbsp;
+<SYNC Start=1188129><P Class=ENCC>
+사람은 변하는거야, 로빈
+<SYNC Start=1190097><P Class=ENCC>&nbsp;
+<SYNC Start=1190131><P Class=ENCC>
+난 작년의<br>
+내가 아니라구
+<SYNC Start=1192429><P Class=ENCC>&nbsp;
+<SYNC Start=1192467><P Class=ENCC>
+너역시 마찬가지야
+<SYNC Start=1194435><P Class=ENCC>&nbsp;
+<SYNC Start=1194469><P Class=ENCC>
+글쎄..
+<SYNC Start=1196437><P Class=ENCC>&nbsp;
+<SYNC Start=1196471><P Class=ENCC>
+우리 다시 만날수 있잖아<br>
+안그래?
+<SYNC Start=1199304><P Class=ENCC>&nbsp;
+<SYNC Start=1206648><P Class=ENCC>
+혹시 제이 봤어?
+<SYNC Start=1208081><P Class=ENCC>&nbsp;
+<SYNC Start=1208116><P Class=ENCC>
+연습실로 가던데
+<SYNC Start=1210141><P Class=ENCC>&nbsp;
+<SYNC Start=1211886><P Class=ENCC>
+문제가 뭔지 알것같아
+<SYNC Start=1213979><P Class=ENCC>&nbsp;
+<SYNC Start=1215990><P Class=ENCC>
+난 나쁜애지만
+<SYNC Start=1218254><P Class=ENCC>&nbsp;
+<SYNC Start=1219827><P Class=ENCC>
+착해질수 있어
+<SYNC Start=1222295><P Class=ENCC>&nbsp;
+<SYNC Start=1232674><P Class=ENCC>
+테리, 기다려<br>
+테리!
+<SYNC Start=1234403><P Class=ENCC>&nbsp;
+<SYNC Start=1236844><P Class=ENCC>
+테리!<br>
+테리! 기다려!
+<SYNC Start=1238812><P Class=ENCC>&nbsp;
+<SYNC Start=1238846><P Class=ENCC>
+테리!
+<SYNC Start=1240143><P Class=ENCC>&nbsp;
+<SYNC Start=1240181><P Class=ENCC>
+- 잠깐만<br>
+- 나쁜놈
+<SYNC Start=1242979><P Class=ENCC>&nbsp;
+<SYNC Start=1243017><P Class=ENCC>
+테리!
+<SYNC Start=1245451><P Class=ENCC>&nbsp;
+<SYNC Start=1245486><P Class=ENCC>
+- 제이?<br>
+- 귀찮게 하지마!
+<SYNC Start=1249684><P Class=ENCC>&nbsp;
+<SYNC Start=1260368><P Class=ENCC>
+바보같이..
+<SYNC Start=1262359><P Class=ENCC>&nbsp;
+<SYNC Start=1279454><P Class=ENCC>
+<FONT COLOR=yellow>♪ I don't know your face ♪
+<SYNC Start=1283550><P Class=ENCC>&nbsp;
+<SYNC Start=1283591><P Class=ENCC>
+<FONT COLOR=yellow>♪ No more ♪
+<SYNC Start=1286389><P Class=ENCC>&nbsp;
+<SYNC Start=1288162><P Class=ENCC>
+<FONT COLOR=yellow>♪ Or feeI the touch ♪
+<SYNC Start=1291290><P Class=ENCC>&nbsp;
+<SYNC Start=1291332><P Class=ENCC>
+<FONT COLOR=yellow>♪ That I adore ♪
+<SYNC Start=1294324><P Class=ENCC>&nbsp;
+<SYNC Start=1298339><P Class=ENCC>
+<FONT COLOR=yellow>♪ I don't know your face ♪
+<SYNC Start=1301934><P Class=ENCC>&nbsp;
+<SYNC Start=1301976><P Class=ENCC>
+<FONT COLOR=yellow>♪ No more ♪
+<SYNC Start=1305343><P Class=ENCC>&nbsp;
+<SYNC Start=1306347><P Class=ENCC>
+<FONT COLOR=yellow>♪ It's just a pIace ♪
+<SYNC Start=1309805><P Class=ENCC>&nbsp;
+<SYNC Start=1309851><P Class=ENCC>
+<FONT COLOR=yellow>♪ I'm Iooking for... ♪
+<SYNC Start=1312911><P Class=ENCC>&nbsp;
+<SYNC Start=1315423><P Class=ENCC>
+- 테리, 제발...<br>
+- 너랑 이야기 하기 싫대
+<SYNC Start=1318153><P Class=ENCC>&nbsp;
+<SYNC Start=1318192><P Class=ENCC>
+그냥 좀 내버려둬
+<SYNC Start=1320717><P Class=ENCC>&nbsp;
+<SYNC Start=1320762><P Class=ENCC>
+<FONT COLOR=yellow>♪ We might as weII<br>
+be Iiving ♪
+<SYNC Start=1324562><P Class=ENCC>&nbsp;
+<SYNC Start=1324599><P Class=ENCC>
+<FONT COLOR=yellow>♪ In another town ♪
+<SYNC Start=1328160><P Class=ENCC>&nbsp;
+<SYNC Start=1328202><P Class=ENCC>
+<FONT COLOR=yellow>♪ We might as weII ♪
+<SYNC Start=1331330><P Class=ENCC>&nbsp;
+<SYNC Start=1331372><P Class=ENCC>
+<FONT COLOR=yellow>♪ We might<br>
+as weII ♪
+<SYNC Start=1335331><P Class=ENCC>&nbsp;
+<SYNC Start=1335376><P Class=ENCC>
+<FONT COLOR=yellow>♪ We might as weII ♪
+<SYNC Start=1338038><P Class=ENCC>&nbsp;
+<SYNC Start=1338079><P Class=ENCC>
+<FONT COLOR=yellow>♪ Be strangers... ♪
+<SYNC Start=1344575><P Class=ENCC>&nbsp;
+<SYNC Start=1348322><P Class=ENCC>
+<FONT COLOR=yellow>♪ Be strangers ♪
+<SYNC Start=1355125><P Class=ENCC>&nbsp;
+<SYNC Start=1357098><P Class=ENCC>
+<FONT COLOR=yellow>♪ For aII I know ♪
+<SYNC Start=1360465><P Class=ENCC>&nbsp;
+<SYNC Start=1360501><P Class=ENCC>
+<FONT COLOR=yellow>♪ Of you now ♪
+<SYNC Start=1365131><P Class=ENCC>&nbsp;
+<SYNC Start=1366841><P Class=ENCC>
+<FONT COLOR=yellow>♪ For aII I know. ♪
+<SYNC Start=1369571><P Class=ENCC>&nbsp;
+<SYNC Start=1371846><P Class=ENCC>
+안녕<br>
+무슨일 있니?
+<SYNC Start=1375247><P Class=ENCC>&nbsp;
+<SYNC Start=1375283><P Class=ENCC>
+아무것도 아니예요
+<SYNC Start=1378912><P Class=ENCC>&nbsp;
+<SYNC Start=1378953><P Class=ENCC>
+며칠전 내가 좀<br>
+심했다면 사과하지
+<SYNC Start=1380921><P Class=ENCC>&nbsp;
+<SYNC Start=1380955><P Class=ENCC>
+무슨일이 있다면<br>
+내가 도와주마
+<SYNC Start=1383822><P Class=ENCC>&nbsp;
+<SYNC Start=1383858><P Class=ENCC>
+이야기 상대가 필요하다던지,<br>
+어떤일이든
+<SYNC Start=1386884><P Class=ENCC>&nbsp;
+<SYNC Start=1388362><P Class=ENCC>
+알았지?
+<SYNC Start=1390353><P Class=ENCC>&nbsp;
+<SYNC Start=1395369><P Class=ENCC>
+누군가를 잃어본적 있으세요?
+<SYNC Start=1397997><P Class=ENCC>&nbsp;
+<SYNC Start=1398039><P Class=ENCC>
+그럼
+<SYNC Start=1400098><P Class=ENCC>&nbsp;
+<SYNC Start=1401375><P Class=ENCC>
+이번엔 정말 힘드네요
+<SYNC Start=1403275><P Class=ENCC>&nbsp;
+<SYNC Start=1403311><P Class=ENCC>
+네가 예술가니 알겠지만
+<SYNC Start=1405279><P Class=ENCC>&nbsp;
+<SYNC Start=1405313><P Class=ENCC>
+예술가들은 아픔을 승화시켜
+<SYNC Start=1407611><P Class=ENCC>&nbsp;
+<SYNC Start=1407648><P Class=ENCC>
+작품을 만들지
+<SYNC Start=1410276><P Class=ENCC>&nbsp;
+<SYNC Start=1410318><P Class=ENCC>
+팻시 클라인이나
+<SYNC Start=1413116><P Class=ENCC>&nbsp;
+<SYNC Start=1413154><P Class=ENCC>
+빌리 홀리데리를 들으면<br>
+아픔이 노래속에 묻어나잖아
+<SYNC Start=1415588><P Class=ENCC>&nbsp;
+<SYNC Start=1415623><P Class=ENCC>
+아니면
+<SYNC Start=1418114><P Class=ENCC>&nbsp;
+<SYNC Start=1418159><P Class=ENCC>
+반 고흐는 귀를 잘라냈지만<br>
+끝내주는 그림을 그렸고
+<SYNC Start=1421287><P Class=ENCC>&nbsp;
+<SYNC Start=1421329><P Class=ENCC>
+고흐는 자살했잖아요
+<SYNC Start=1423797><P Class=ENCC>&nbsp;
+<SYNC Start=1423831><P Class=ENCC>
+그렇지<br>
+예를 잘못 들었군
+<SYNC Start=1426231><P Class=ENCC>&nbsp;
+<SYNC Start=1428002><P Class=ENCC>
+음악 선생이라<br>
+그런건 잘 모르지
+<SYNC Start=1430129><P Class=ENCC>&nbsp;
+<SYNC Start=1430171><P Class=ENCC>
+뭐 어쩌겠어?
+<SYNC Start=1432799><P Class=ENCC>&nbsp;
+<SYNC Start=1432840><P Class=ENCC>
+어쨌든..
+<SYNC Start=1434967><P Class=ENCC>&nbsp;
+<SYNC Start=1435009><P Class=ENCC>
+내가 하려던말은,<br>
+예술은 감정의 표현이라는거야
+<SYNC Start=1439139><P Class=ENCC>&nbsp;
+<SYNC Start=1439180><P Class=ENCC>
+그들이 느끼는걸<br>
+관객들이 느끼게 하고
+<SYNC Start=1443276><P Class=ENCC>&nbsp;
+<SYNC Start=1443317><P Class=ENCC>
+뭐 그런거 아니겠어?
+<SYNC Start=1445512><P Class=ENCC>&nbsp;
+<SYNC Start=1446788><P Class=ENCC>
+방법을 찾는게 중요한거지
+<SYNC Start=1448756><P Class=ENCC>&nbsp;
+<SYNC Start=1448790><P Class=ENCC>
+여기의 생각들을
+<SYNC Start=1450758><P Class=ENCC>&nbsp;
+<SYNC Start=1450792><P Class=ENCC>
+관객의 여기로 전달할 방법을
+<SYNC Start=1453625><P Class=ENCC>&nbsp;
+<SYNC Start=1460501><P Class=ENCC>
+젠장할<br>
+누구야?
+<SYNC Start=1463026><P Class=ENCC>&nbsp;
+<SYNC Start=1463070><P Class=ENCC>
+제이야<br>
+문 좀 열어줘
+<SYNC Start=1465800><P Class=ENCC>&nbsp;
+<SYNC Start=1465840><P Class=ENCC>
+- 꺼져 나쁜놈<br>
+- 아니 잠깐만..
+<SYNC Start=1468172><P Class=ENCC>&nbsp;
+<SYNC Start=1468209><P Class=ENCC>
+테리한테 잠깐<br>
+할말이 있어서 그래
+<SYNC Start=1470769><P Class=ENCC>&nbsp;
+<SYNC Start=1470812><P Class=ENCC>
+- 잠깐만 들여보내줘<br>
+- 술 취한거 같은데?
+<SYNC Start=1473440><P Class=ENCC>&nbsp;
+<SYNC Start=1473481><P Class=ENCC>
+음, 그래?
+<SYNC Start=1475449><P Class=ENCC>&nbsp;
+<SYNC Start=1475483><P Class=ENCC>
+야, 문 열어주지마
+<SYNC Start=1477781><P Class=ENCC>&nbsp;
+<SYNC Start=1477819><P Class=ENCC>
+그냥 돌려보낼게<br>
+알았지?
+<SYNC Start=1480344><P Class=ENCC>&nbsp;
+<SYNC Start=1480388><P Class=ENCC>
+제이<br>
+미안하지만 가줬음 좋겠어
+<SYNC Start=1482356><P Class=ENCC>&nbsp;
+<SYNC Start=1482390><P Class=ENCC>
+잠깐, 잠깐만<br>
+<SYNC Start=1483857><P Class=ENCC>&nbsp;
+<SYNC Start=1483891><P Class=ENCC>
+- 안돼<br>
+- 아악
+<SYNC Start=1486325><P Class=ENCC>&nbsp;
+<SYNC Start=1486360><P Class=ENCC>
+너무 아프잖아
+<SYNC Start=1489659><P Class=ENCC>&nbsp;
+<SYNC Start=1489697><P Class=ENCC>
+- 쉬..<br>
+- 니가 오해한거야
+<SYNC Start=1491961><P Class=ENCC>&nbsp;
+<SYNC Start=1491999><P Class=ENCC>
+왜 이렇게 시끄러워!
+<SYNC Start=1493466><P Class=ENCC>&nbsp;
+<SYNC Start=1493501><P Class=ENCC>
+- 키스하는걸 봤는데 오해라니<br>
+- 그런게 아냐
+<SYNC Start=1495469><P Class=ENCC>&nbsp;
+<SYNC Start=1495503><P Class=ENCC>
+- 닥쳐<br>
+- 너나 닥쳐
+<SYNC Start=1497596><P Class=ENCC>&nbsp;
+<SYNC Start=1497638><P Class=ENCC>
+- 테리, 들어가지<br>
+- 잠좀 자자!
+<SYNC Start=1499606><P Class=ENCC>&nbsp;
+<SYNC Start=1499640><P Class=ENCC>
+내가 키스한게 아냐<br>
+걔가 한거라구
+<SYNC Start=1502666><P Class=ENCC>&nbsp;
+<SYNC Start=1502710><P Class=ENCC>
+오 뻔한 거짓말은<br>
+그만하시지
+<SYNC Start=1504803><P Class=ENCC>&nbsp;
+<SYNC Start=1504846><P Class=ENCC>
+그래, 그래<br>
+그러니까 지금 니말은
+<SYNC Start=1506814><P Class=ENCC>&nbsp;
+<SYNC Start=1506848><P Class=ENCC>
+- 많이 취했다는거지?<br>
+- 테리..
+<SYNC Start=1508816><P Class=ENCC>&nbsp;
+<SYNC Start=1508850><P Class=ENCC>
+그앤 아무것도 아냐..
+<SYNC Start=1510818><P Class=ENCC>&nbsp;
+<SYNC Start=1510852><P Class=ENCC>
+- 내게 소중한건 너라구<br>
+- 또 수작 부리는거야?
+<SYNC Start=1513821><P Class=ENCC>&nbsp;
+<SYNC Start=1513855><P Class=ENCC>
+- 테리?<br>
+- 드니스, 잠깐 좀 빠져줘
+<SYNC Start=1517256><P Class=ENCC>&nbsp;
+<SYNC Start=1517291><P Class=ENCC>
+테리,<br>
+내말좀 들어줘
+<SYNC Start=1519816><P Class=ENCC>&nbsp;
+<SYNC Start=1519861><P Class=ENCC>
+내게 소중한건 너라구
+<SYNC Start=1521829><P Class=ENCC>&nbsp;
+<SYNC Start=1521863><P Class=ENCC>
+- 너도 내맘 알잖아?<br>
+- 그런데 왜 그랬어
+<SYNC Start=1524832><P Class=ENCC>&nbsp;
+<SYNC Start=1524866><P Class=ENCC>
+왜 이렇게 술까지 마시고
+<SYNC Start=1526857><P Class=ENCC>&nbsp;
+<SYNC Start=1529871><P Class=ENCC>
+왜냐면, 왜냐면.. 난..<br>
+쓰레기니까
+<SYNC Start=1532897><P Class=ENCC>&nbsp;
+<SYNC Start=1532940><P Class=ENCC>
+그런말로 동정심<br>
+얻으려는거면 그만해
+<SYNC Start=1536671><P Class=ENCC>&nbsp;
+<SYNC Start=1536711><P Class=ENCC>
+테리,<br>
+여기있으면 걸릴거야
+<SYNC Start=1538645><P Class=ENCC>&nbsp;
+<SYNC Start=1538679><P Class=ENCC>
+이상태로 경비원 몰래<br>
+내보내는건 어려울테고
+<SYNC Start=1541409><P Class=ENCC>&nbsp;
+<SYNC Start=1541449><P Class=ENCC>
+- 난 괜찮아.. 그냥..<br>
+- 드니스, 니가
+<SYNC Start=1543474><P Class=ENCC>&nbsp;
+<SYNC Start=1543517><P Class=ENCC>
+옥상까지 좀 도와줘야겠어
+<SYNC Start=1546042><P Class=ENCC>&nbsp;
+<SYNC Start=1546087><P Class=ENCC>
+어쩌다 이런짓까지<br>
+하게된거야
+<SYNC Start=1547918><P Class=ENCC>&nbsp;
+<SYNC Start=1547955><P Class=ENCC>
+- 쉬..<br>
+- 난 괜찮대두
+<SYNC Start=1549923><P Class=ENCC>&nbsp;
+<SYNC Start=1549957><P Class=ENCC>
+안 괜찮아<br>
+전혀
+<SYNC Start=1552289><P Class=ENCC>&nbsp;
+<SYNC Start=1552326><P Class=ENCC>
+아싸
+<SYNC Start=1554294><P Class=ENCC>&nbsp;
+<SYNC Start=1554328><P Class=ENCC>
+난 여기가 너무 좋아<br>
+야경이 죽여줘
+<SYNC Start=1558025><P Class=ENCC>&nbsp;
+<SYNC Start=1558065><P Class=ENCC>
+- 워~<br>
+- 입냄새가 장난아닌데?
+<SYNC Start=1560693><P Class=ENCC>&nbsp;
+<SYNC Start=1560735><P Class=ENCC>
+오우
+<SYNC Start=1562703><P Class=ENCC>&nbsp;
+<SYNC Start=1562737><P Class=ENCC>
+어지러워
+<SYNC Start=1564705><P Class=ENCC>&nbsp;
+<SYNC Start=1564739><P Class=ENCC>
+조심해
+<SYNC Start=1567207><P Class=ENCC>&nbsp;
+<SYNC Start=1567241><P Class=ENCC>
+세상에
+<SYNC Start=1569209><P Class=ENCC>&nbsp;
+<SYNC Start=1569243><P Class=ENCC>
+난 갈래
+<SYNC Start=1571211><P Class=ENCC>&nbsp;
+<SYNC Start=1571245><P Class=ENCC>
+고마워
+<SYNC Start=1573213><P Class=ENCC>&nbsp;
+<SYNC Start=1573247><P Class=ENCC>
+- 이게 뭐하는거야<br>
+- 기분이 너무 안좋아..
+<SYNC Start=1576216><P Class=ENCC>&nbsp;
+<SYNC Start=1576250><P Class=ENCC>
+당연히 안좋겠지
+<SYNC Start=1577649><P Class=ENCC>&nbsp;
+<SYNC Start=1577685><P Class=ENCC>
+<FONT COLOR=yellow>♪ In a moment ♪
+<SYNC Start=1581382><P Class=ENCC>&nbsp;
+<SYNC Start=1581422><P Class=ENCC>
+<FONT COLOR=yellow>♪ Everything can change ♪
+<SYNC Start=1584983><P Class=ENCC>&nbsp;
+<SYNC Start=1585026><P Class=ENCC>
+<FONT COLOR=yellow>♪ FeeI the wind<br>
+on your shouIder ♪
+<SYNC Start=1589053><P Class=ENCC>&nbsp;
+<SYNC Start=1589096><P Class=ENCC>
+<FONT COLOR=yellow>♪ For a minute ♪
+<SYNC Start=1591394><P Class=ENCC>&nbsp;
+<SYNC Start=1591432><P Class=ENCC>
+<FONT COLOR=yellow>♪ AII the worId can wait ♪
+<SYNC Start=1594924><P Class=ENCC>&nbsp;
+<SYNC Start=1594969><P Class=ENCC>
+<FONT COLOR=yellow>- ♪ Let go of your yesterday ♪<br>
+<FONT COLOR=white>- 일어나
+<SYNC Start=1599338><P Class=ENCC>&nbsp;
+<SYNC Start=1599373><P Class=ENCC>
+<FONT COLOR=yellow>♪ Can you hear it caIIing? ♪
+<SYNC Start=1602001><P Class=ENCC>&nbsp;
+<SYNC Start=1602043><P Class=ENCC>
+<FONT COLOR=yellow>♪ Can you feeI it<br>
+in your souI? ♪
+<SYNC Start=1604841><P Class=ENCC>&nbsp;
+<SYNC Start=1604879><P Class=ENCC>
+<FONT COLOR=yellow>- ♪ Can you trust this Ionging ♪<br>
+<FONT COLOR=white>- 일어나, 아침이라구
+<SYNC Start=1608337><P Class=ENCC>&nbsp;
+<SYNC Start=1608382><P Class=ENCC>
+<FONT COLOR=yellow>♪ And take controI? ♪
+<SYNC Start=1610680><P Class=ENCC>&nbsp;
+<SYNC Start=1610718><P Class=ENCC>
+<FONT COLOR=yellow>♪ FIy ♪
+<SYNC Start=1612845><P Class=ENCC>&nbsp;
+<SYNC Start=1612887><P Class=ENCC>
+<FONT COLOR=yellow>♪ Open up the part of you ♪
+<SYNC Start=1615014><P Class=ENCC>&nbsp;
+<SYNC Start=1615056><P Class=ENCC>
+<FONT COLOR=yellow>♪ 'Cause it's your time ♪
+<SYNC Start=1618958><P Class=ENCC>&nbsp;
+<SYNC Start=1618993><P Class=ENCC>
+<FONT COLOR=yellow>♪ Time to fIy... ♪
+<SYNC Start=1623828><P Class=ENCC>&nbsp;
+<SYNC Start=1628069><P Class=ENCC>
+정말 미안해
+<SYNC Start=1630867><P Class=ENCC>&nbsp;
+<SYNC Start=1630905><P Class=ENCC>
+사과는 나중에 해<br>
+아직 화가 안풀렸어
+<SYNC Start=1633373><P Class=ENCC>&nbsp;
+<SYNC Start=1633407><P Class=ENCC>
+일어나<br>
+가자
+<SYNC Start=1636137><P Class=ENCC>&nbsp;
+<SYNC Start=1642750><P Class=ENCC>
+<FONT COLOR=yellow>♪ In a moment ♪
+<SYNC Start=1645310><P Class=ENCC>&nbsp;
+<SYNC Start=1645353><P Class=ENCC>
+<FONT COLOR=yellow>♪ Everything can change. ♪
+<SYNC Start=1649187><P Class=ENCC>&nbsp;
+<SYNC Start=1649223><P Class=ENCC>
+여보<br>
+차열쇠 어디있소?
+<SYNC Start=1652351><P Class=ENCC>&nbsp;
+<SYNC Start=1653361><P Class=ENCC>
+여보?
+<SYNC Start=1655420><P Class=ENCC>&nbsp;
+<SYNC Start=1655463><P Class=ENCC>
+키가 어딨냐구
+<SYNC Start=1657590><P Class=ENCC>&nbsp;
+<SYNC Start=1673748><P Class=ENCC>
+여보?
+<SYNC Start=1675375><P Class=ENCC>&nbsp;
+<SYNC Start=1675416><P Class=ENCC>
+그동안 가사를 새로 써봤는데<br>
+연습좀 해야할것 같애
+<SYNC Start=1678977><P Class=ENCC>&nbsp;
+<SYNC Start=1679020><P Class=ENCC>
+- 제대로 하려면 말야<br>
+- 그래
+<SYNC Start=1680885><P Class=ENCC>&nbsp;
+<SYNC Start=1685126><P Class=ENCC>
+악보는 여깄어
+<SYNC Start=1686821><P Class=ENCC>&nbsp;
+<SYNC Start=1688796><P Class=ENCC>
+좋아<br>
+여기서 부터 해보자
+<SYNC Start=1690627><P Class=ENCC>&nbsp;
+<SYNC Start=1690664><P Class=ENCC>
+- 간주 다음부분 부터<br>
+- 그래
+<SYNC Start=1693064><P Class=ENCC>&nbsp;
+<SYNC Start=1697271><P Class=ENCC>
+<FONT COLOR=yellow>♪ It doesn't matter<br>
+what peopIe say ♪
+<SYNC Start=1701037><P Class=ENCC>&nbsp;
+<SYNC Start=1701075><P Class=ENCC>
+<FONT COLOR=yellow>♪ And it doesn't matter<br>
+how Iong it takes ♪
+<SYNC Start=1705239><P Class=ENCC>&nbsp;
+<SYNC Start=1705279><P Class=ENCC>
+<FONT COLOR=yellow>♪ BeIieve in yourseIf<br>
+and you'II fIy-- ♪
+<SYNC Start=1710376><P Class=ENCC>&nbsp;
+<SYNC Start=1712553><P Class=ENCC>
+뭔가 좀..<br>
+좀더 빠르게 다시 해보자
+<SYNC Start=1716182><P Class=ENCC>&nbsp;
+<SYNC Start=1716223><P Class=ENCC>
+- 좋아<br>
+- 그래
+<SYNC Start=1718248><P Class=ENCC>&nbsp;
+<SYNC Start=1718292><P Class=ENCC>
+<FONT COLOR=yellow>♪ It doesn't-- ♪
+<SYNC Start=1719953><P Class=ENCC>&nbsp;
+<SYNC Start=1722863><P Class=ENCC>
+그만해
+<SYNC Start=1725024><P Class=ENCC>&nbsp;
+<SYNC Start=1725066><P Class=ENCC>
+이번엔 제대로<br>
+다시해
+<SYNC Start=1726727><P Class=ENCC>&nbsp;
+<SYNC Start=1730171><P Class=ENCC>
+<FONT COLOR=yellow>♪ It doesn't matter<br>
+what peopIe say-- ♪
+<SYNC Start=1733971><P Class=ENCC>&nbsp;
+<SYNC Start=1735609><P Class=ENCC>
+처음이 더 나은것 같은데
+<SYNC Start=1737236><P Class=ENCC>&nbsp;
+<SYNC Start=1737278><P Class=ENCC>
+알아, 하지만 괜찮은 정도론<br>
+장학금을 못탄다구
+<SYNC Start=1739940><P Class=ENCC>&nbsp;
+<SYNC Start=1739980><P Class=ENCC>
+아주 잘해야 한다구
+<SYNC Start=1741572><P Class=ENCC>&nbsp;
+<SYNC Start=1741615><P Class=ENCC>
+완벽해 질때까지<br>
+계속 연습할거야
+<SYNC Start=1743515><P Class=ENCC>&nbsp;
+<SYNC Start=1743551><P Class=ENCC>
+안 그럼 미칠것 같애
+<SYNC Start=1745576><P Class=ENCC>&nbsp;
+<SYNC Start=1747088><P Class=ENCC>
+<FONT COLOR=yellow>♪ It doesn't matter--<br>
+it doesn't matter ♪
+<SYNC Start=1749750><P Class=ENCC>&nbsp;
+<SYNC Start=1749790><P Class=ENCC>
+<FONT COLOR=yellow>♪ It doesn't matter<br>
+how Iong it takes ♪
+<SYNC Start=1753385><P Class=ENCC>&nbsp;
+<SYNC Start=1753427><P Class=ENCC>
+<FONT COLOR=yellow>♪ BeIieve in yourseIf<br>
+and you'II fIy high. ♪
+<SYNC Start=1758729><P Class=ENCC>&nbsp;
+<SYNC Start=1758766><P Class=ENCC>
+뭐?<br>
+뭐가 어째?
+<SYNC Start=1761234><P Class=ENCC>&nbsp;
+<SYNC Start=1761268><P Class=ENCC>
+합격했다구요, 사이먼
+<SYNC Start=1763133><P Class=ENCC>&nbsp;
+<SYNC Start=1763170><P Class=ENCC>
+전국의 수많은<br>
+지원자들을 제치고
+<SYNC Start=1765138><P Class=ENCC>&nbsp;
+<SYNC Start=1765172><P Class=ENCC>
+우리 테리가 합격했다구요
+<SYNC Start=1767663><P Class=ENCC>&nbsp;
+<SYNC Start=1767708><P Class=ENCC>
+그러니까 그동안 쭉<br>
+그 학교에 있었단 말이야?
+<SYNC Start=1770302><P Class=ENCC>&nbsp;
+<SYNC Start=1770344><P Class=ENCC>
+거짓말 한거야?
+<SYNC Start=1772312><P Class=ENCC>&nbsp;
+<SYNC Start=1772346><P Class=ENCC>
+- 제말 들어봐요, 우리 딸이..<br>
+- 니나와 당신이 짜고 내게?
+<SYNC Start=1774473><P Class=ENCC>&nbsp;
+<SYNC Start=1774515><P Class=ENCC>
+최고의 음악학교에<br>
+합격했다구요
+<SYNC Start=1776449><P Class=ENCC>&nbsp;
+<SYNC Start=1776484><P Class=ENCC>
+모두들 날 속인거로군<br>
+모두들..
+<SYNC Start=1780113><P Class=ENCC>&nbsp;
+<SYNC Start=1782022><P Class=ENCC>
+하지만 테리가 원한걸요
+<SYNC Start=1784855><P Class=ENCC>&nbsp;
+<SYNC Start=1784892><P Class=ENCC>
+폴도 그걸 원했을 거예요
+<SYNC Start=1786860><P Class=ENCC>&nbsp;
+<SYNC Start=1786894><P Class=ENCC>
+폴두요
+<SYNC Start=1788361><P Class=ENCC>&nbsp;
+<SYNC Start=1789997><P Class=ENCC>
+테리가 다시<br>
+노래를 부르기 시작했다구요
+<SYNC Start=1792591><P Class=ENCC>&nbsp;
+<SYNC Start=1792633><P Class=ENCC>
+프랜시스,<br>
+도대체 왜 이러는거야
+<SYNC Start=1796467><P Class=ENCC>&nbsp;
+<SYNC Start=1796504><P Class=ENCC>
+내가 왜 이러냐구요?
+<SYNC Start=1799837><P Class=ENCC>&nbsp;
+<SYNC Start=1799874><P Class=ENCC>
+우린 이미 아들을 잃었어요
+<SYNC Start=1801671><P Class=ENCC>&nbsp;
+<SYNC Start=1801709><P Class=ENCC>
+그리고 하나남은 아이마저<br>
+잃을뻔 했다구요
+<SYNC Start=1805941><P Class=ENCC>&nbsp;
+<SYNC Start=1805980><P Class=ENCC>
+테리마저 잃고 싶지 않다구요
+<SYNC Start=1807971><P Class=ENCC>&nbsp;
+<SYNC Start=1808015><P Class=ENCC>
+바로 그게<br>
+내가하고 싶은말이야
+<SYNC Start=1810006><P Class=ENCC>&nbsp;
+<SYNC Start=1810050><P Class=ENCC>
+테리는 아직 어린애라구<br>
+우리의 아이야
+<SYNC Start=1813349><P Class=ENCC>&nbsp;
+<SYNC Start=1813387><P Class=ENCC>
+가까이 있지 않다면<br>
+내가 어떻게 보호해줄수 있지?
+<SYNC Start=1815378><P Class=ENCC>&nbsp;
+<SYNC Start=1817158><P Class=ENCC>
+집에 오라구 해
+<SYNC Start=1819353><P Class=ENCC>&nbsp;
+<SYNC Start=1819393><P Class=ENCC>
+당장 돌아 오라고 해
+<SYNC Start=1821384><P Class=ENCC>&nbsp;
+<SYNC Start=1871145><P Class=ENCC>
+제발 좀 조용히 못해!?
+<SYNC Start=1873909><P Class=ENCC>&nbsp;
+<SYNC Start=1873948><P Class=ENCC>
+이 무례하고 시끄럽고 멍청한 놈아!
+<SYNC Start=1877577><P Class=ENCC>&nbsp;
+<SYNC Start=1923063><P Class=ENCC>
+- 아악!<br>
+- 미안
+<SYNC Start=1924758><P Class=ENCC>&nbsp;
+<SYNC Start=1951325><P Class=ENCC>
+감사합니다
+<SYNC Start=1953316><P Class=ENCC>&nbsp;
+<SYNC Start=1955062><P Class=ENCC>
+감사합니다<br>
+여러분 반갑습니다
+<SYNC Start=1956757><P Class=ENCC>&nbsp;
+<SYNC Start=1956797><P Class=ENCC>
+이제 마지막이 다가왔군요
+<SYNC Start=1959231><P Class=ENCC>&nbsp;
+<SYNC Start=1959266><P Class=ENCC>
+지난 3주는 우리 모두에게<br>
+즐겁고 유익한 시간이었습니다
+<SYNC Start=1962633><P Class=ENCC>&nbsp;
+<SYNC Start=1962670><P Class=ENCC>
+오늘 그 성과를 선보이기 위해<br>
+학생들이 공연을 준비했습니다
+<SYNC Start=1965764><P Class=ENCC>&nbsp;
+<SYNC Start=1965806><P Class=ENCC>
+그리고 몇몇 공연들은
+<SYNC Start=1968900><P Class=ENCC>&nbsp;
+<SYNC Start=1968942><P Class=ENCC>
+우리 브리스톨-힐만 밴드와<br>
+함께 할 예정입니다
+<SYNC Start=1971274><P Class=ENCC>&nbsp;
+<SYNC Start=1971312><P Class=ENCC>
+오 이런
+<SYNC Start=1973439><P Class=ENCC>&nbsp;
+<SYNC Start=1973480><P Class=ENCC>
+- 왜그래?<br>
+- 오빠의 목걸이를 두고왔어
+<SYNC Start=1975948><P Class=ENCC>&nbsp;
+<SYNC Start=1975983><P Class=ENCC>
+그게 없으면<br>
+못한단 말이야
+<SYNC Start=1978975><P Class=ENCC>&nbsp;
+<SYNC Start=1979019><P Class=ENCC>
+- 테리? 잠깐만<br>
+- 괜찮아, 금방 올게
+<SYNC Start=1982682><P Class=ENCC>&nbsp;
+<SYNC Start=1982723><P Class=ENCC>
+그럼 첫 공연을 준비한<br>
+로빈 칠더양에게 박수 부탁드립니다
+<SYNC Start=1986352><P Class=ENCC>&nbsp;
+<SYNC Start=2000240><P Class=ENCC>
+<FONT COLOR=yellow>♪ Let your body move<br>
+on the dance fIoor ♪
+<SYNC Start=2003539><P Class=ENCC>&nbsp;
+<SYNC Start=2003577><P Class=ENCC>
+<FONT COLOR=yellow>♪ FeeI the rhythm<br>
+as your body gets warm... ♪
+<SYNC Start=2007445><P Class=ENCC>&nbsp;
+<SYNC Start=2009717><P Class=ENCC>
+- 아빠?<br>
+- 어서 짐 싸거라
+<SYNC Start=2012242><P Class=ENCC>&nbsp;
+<SYNC Start=2012286><P Class=ENCC>
+- 집에 가자<br>
+- 아빠 안돼요!
+<SYNC Start=2013810><P Class=ENCC>&nbsp;
+<SYNC Start=2013854><P Class=ENCC>
+조용히 하고<br>
+짐이나 싸
+<SYNC Start=2015719><P Class=ENCC>&nbsp;
+<SYNC Start=2015756><P Class=ENCC>
+엄마가 아랫층에서 기다린다
+<SYNC Start=2018623><P Class=ENCC>&nbsp;
+<SYNC Start=2020694><P Class=ENCC>
+하, 하지만..
+<SYNC Start=2022491><P Class=ENCC>&nbsp;
+<SYNC Start=2022529><P Class=ENCC>
+<FONT COLOR=yellow>♪ Just as you head<br>
+is spinning ♪
+<SYNC Start=2024224><P Class=ENCC>&nbsp;
+<SYNC Start=2024264><P Class=ENCC>
+<FONT COLOR=yellow>♪ As you sIowIy start<br>
+to Iose controI. ♪
+<SYNC Start=2028257><P Class=ENCC>&nbsp;
+<SYNC Start=2030804><P Class=ENCC>
+로빈 화이팅!
+<SYNC Start=2033102><P Class=ENCC>&nbsp;
+<SYNC Start=2036944><P Class=ENCC>
+감사합니다<br>
+멋진 공연이었군요
+<SYNC Start=2039378><P Class=ENCC>&nbsp;
+<SYNC Start=2039413><P Class=ENCC>
+다음은 앵글버트 윌슨입니다
+<SYNC Start=2042405><P Class=ENCC>&nbsp;
+<SYNC Start=2042449><P Class=ENCC>
+엥글버트라고?
+<SYNC Start=2044917><P Class=ENCC>&nbsp;
+<SYNC Start=2044952><P Class=ENCC>
+어서 나와~
+<SYNC Start=2046943><P Class=ENCC>&nbsp;
+<SYNC Start=2046987><P Class=ENCC>
+키위!
+<SYNC Start=2049478><P Class=ENCC>&nbsp;
+<SYNC Start=2049523><P Class=ENCC>
+내말 못들었니?<br>
+어서 짐싸라고
+<SYNC Start=2051957><P Class=ENCC>&nbsp;
+<SYNC Start=2051992><P Class=ENCC>
+아빠, 전엔 오빠에게 그러더니<br>
+이젠 제게도 이러실건가요
+<SYNC Start=2055484><P Class=ENCC>&nbsp;
+<SYNC Start=2055529><P Class=ENCC>
+오빠 이야긴 꺼내지 마라
+<SYNC Start=2057360><P Class=ENCC>&nbsp;
+<SYNC Start=2057398><P Class=ENCC>
+알았어요, 하지만<br>
+이번엔 아빠말만 듣지는 않을거예요
+<SYNC Start=2059298><P Class=ENCC>&nbsp;
+<SYNC Start=2059333><P Class=ENCC>
+- 넌 내게 거짓말 했다<br>
+- 그래요, 그건 죄송해요
+<SYNC Start=2062393><P Class=ENCC>&nbsp;
+<SYNC Start=2062436><P Class=ENCC>
+하지만<br>
+그럴수 밖에 없었어요
+<SYNC Start=2064233><P Class=ENCC>&nbsp;
+<SYNC Start=2064271><P Class=ENCC>
+아빤 다른사람 말은 듣지도 않잖아요<br>
+모두들 아빠를 무서워 한다구요
+<SYNC Start=2068469><P Class=ENCC>&nbsp;
+<SYNC Start=2074748><P Class=ENCC>
+그녀는 모른다네!
+<SYNC Start=2076978><P Class=ENCC>&nbsp;
+<SYNC Start=2085459><P Class=ENCC>
+<FONT COLOR=yellow>♪ She wants the creature<br>
+from outer space ♪
+<SYNC Start=2087620><P Class=ENCC>&nbsp;
+<SYNC Start=2090697><P Class=ENCC>
+<FONT COLOR=yellow>♪ GentIemen ♪
+<SYNC Start=2092324><P Class=ENCC>&nbsp;
+<SYNC Start=2102443><P Class=ENCC>
+<FONT COLOR=yellow>♪ Time is running out. ♪
+<SYNC Start=2104104><P Class=ENCC>&nbsp;
+<SYNC Start=2104144><P Class=ENCC>
+아빠..
+<SYNC Start=2106442><P Class=ENCC>&nbsp;
+<SYNC Start=2107781><P Class=ENCC>
+이곳에서 시간은<br>
+힘들고, 무섭기도 했지만
+<SYNC Start=2110750><P Class=ENCC>&nbsp;
+<SYNC Start=2110784><P Class=ENCC>
+제겐 가장 소중한 시간이었어요
+<SYNC Start=2113446><P Class=ENCC>&nbsp;
+<SYNC Start=2113487><P Class=ENCC>
+거짓말해서 오긴 했지만
+<SYNC Start=2115114><P Class=ENCC>&nbsp;
+<SYNC Start=2115155><P Class=ENCC>
+그런 이야긴<br>
+집에 가서 하자
+<SYNC Start=2117555><P Class=ENCC>&nbsp;
+<SYNC Start=2133407><P Class=ENCC>
+전 안갈거예요
+<SYNC Start=2135568><P Class=ENCC>&nbsp;
+<SYNC Start=2135609><P Class=ENCC>
+제 일이예요
+<SYNC Start=2138407><P Class=ENCC>&nbsp;
+<SYNC Start=2138445><P Class=ENCC>
+원해서 했고,<br>
+시작했으니 끝까지 하고 싶어요
+<SYNC Start=2140709><P Class=ENCC>&nbsp;
+<SYNC Start=2142716><P Class=ENCC>
+정말 원하신다면<br>
+절 데려가실수도 있어요
+<SYNC Start=2144581><P Class=ENCC>&nbsp;
+<SYNC Start=2146286><P Class=ENCC>
+하지만 몇분후면 제 순서예요
+<SYNC Start=2148447><P Class=ENCC>&nbsp;
+<SYNC Start=2148489><P Class=ENCC>
+그리고 아빠와 엄마가 봐주신다면<br>
+정말 전 행복할거예요
+<SYNC Start=2152016><P Class=ENCC>&nbsp;
+<SYNC Start=2153927><P Class=ENCC>
+정말 열심히 했어요
+<SYNC Start=2156088><P Class=ENCC>&nbsp;
+<SYNC Start=2156129><P Class=ENCC>
+잘할 자신도 있구요
+<SYNC Start=2158256><P Class=ENCC>&nbsp;
+<SYNC Start=2158298><P Class=ENCC>
+아빠가 들어주셨으면 해요
+<SYNC Start=2160289><P Class=ENCC>&nbsp;
+<SYNC Start=2160334><P Class=ENCC>
+아빠 제발..
+<SYNC Start=2161926><P Class=ENCC>&nbsp;
+<SYNC Start=2163303><P Class=ENCC>
+제발 허락해 주세요
+<SYNC Start=2167763><P Class=ENCC>&nbsp;
+<SYNC Start=2206113><P Class=ENCC>
+멋졌어 드니스!
+<SYNC Start=2208308><P Class=ENCC>&nbsp;
+<SYNC Start=2209650><P Class=ENCC>
+정말 멋졌어요<br>
+드니스양
+<SYNC Start=2214280><P Class=ENCC>&nbsp;
+<SYNC Start=2216823><P Class=ENCC>
+- 정말 끝내줬어<br>
+- 고마워
+<SYNC Start=2218814><P Class=ENCC>&nbsp;
+<SYNC Start=2218859><P Class=ENCC>
+최고야!
+<SYNC Start=2220326><P Class=ENCC>&nbsp;
+<SYNC Start=2220627><P Class=ENCC>
+이제 마지막 순서입니다
+<SYNC Start=2222686><P Class=ENCC>&nbsp;
+<SYNC Start=2222729><P Class=ENCC>
+테리 플레쳐와 제이 코건!
+<SYNC Start=2225789><P Class=ENCC>&nbsp;
+<SYNC Start=2238946><P Class=ENCC>
+신사 숙녀 여러분<br>
+안타깝지만 테리양은...
+<SYNC Start=2241972><P Class=ENCC>&nbsp;
+<SYNC Start=2274081><P Class=ENCC>
+"오늘밤 "플렛쳐 쇼"에<br>
+특별한 손님을 모셨습니다
+<SYNC Start=2276675><P Class=ENCC>&nbsp;
+<SYNC Start=2276717><P Class=ENCC>
+자랑스럽게 소개합니다<br>
+신이 내린 목소리!
+<SYNC Start=2279709><P Class=ENCC>&nbsp;
+<SYNC Start=2279753><P Class=ENCC>
+최고의 가수!<br>
+테리 플렛쳐!"
+<SYNC Start=2282984><P Class=ENCC>&nbsp;
+<SYNC Start=2289363><P Class=ENCC>
+음
+<SYNC Start=2291354><P Class=ENCC>&nbsp;
+<SYNC Start=2293867><P Class=ENCC>
+이곡은 저와 제이가<br>
+함께 작곡한 곡입니다
+<SYNC Start=2296131><P Class=ENCC>&nbsp;
+<SYNC Start=2296169><P Class=ENCC>
+그리고 이곡을
+<SYNC Start=2298137><P Class=ENCC>&nbsp;
+<SYNC Start=2298171><P Class=ENCC>
+저의 오빠<br>
+폴 플렛쳐에게 바치고 싶습니다
+<SYNC Start=2300435><P Class=ENCC>&nbsp;
+<SYNC Start=2316156><P Class=ENCC>
+<FONT COLOR=yellow>♪ I found myseIf today ♪
+<SYNC Start=2319785><P Class=ENCC>&nbsp;
+<SYNC Start=2319826><P Class=ENCC>
+<FONT COLOR=yellow>♪ Oh I found myseIf<br>
+and ran away ♪
+<SYNC Start=2325594><P Class=ENCC>&nbsp;
+<SYNC Start=2328669><P Class=ENCC>
+<FONT COLOR=yellow>♪ But something<br>
+puIIed me back ♪
+<SYNC Start=2332002><P Class=ENCC>&nbsp;
+<SYNC Start=2332039><P Class=ENCC>
+<FONT COLOR=yellow>♪ The voice of reason,<br>
+I forgot I had ♪
+<SYNC Start=2337807><P Class=ENCC>&nbsp;
+<SYNC Start=2337844><P Class=ENCC>
+<FONT COLOR=yellow>♪ AII I know<br>
+is you're not here to say ♪
+<SYNC Start=2342304><P Class=ENCC>&nbsp;
+<SYNC Start=2342349><P Class=ENCC>
+<FONT COLOR=yellow>♪ What you aIways<br>
+used to say ♪
+<SYNC Start=2345318><P Class=ENCC>&nbsp;
+<SYNC Start=2345352><P Class=ENCC>
+<FONT COLOR=yellow>♪ But it's written<br>
+in the sky tonight ♪
+<SYNC Start=2351780><P Class=ENCC>&nbsp;
+<SYNC Start=2351825><P Class=ENCC>
+<FONT COLOR=yellow>♪ So I won't give up ♪
+<SYNC Start=2355352><P Class=ENCC>&nbsp;
+<SYNC Start=2355395><P Class=ENCC>
+<FONT COLOR=yellow>♪ No, I won't break down ♪
+<SYNC Start=2358558><P Class=ENCC>&nbsp;
+<SYNC Start=2358598><P Class=ENCC>
+<FONT COLOR=yellow>♪ Sooner than it seems<br>
+Iife turns around ♪
+<SYNC Start=2364093><P Class=ENCC>&nbsp;
+<SYNC Start=2364137><P Class=ENCC>
+<FONT COLOR=yellow>♪ And I wiII be strong<br>
+even if it aII goes wrong ♪
+<SYNC Start=2370736><P Class=ENCC>&nbsp;
+<SYNC Start=2370777><P Class=ENCC>
+<FONT COLOR=yellow>♪ When I'm standing in the dark,<br>
+I'II stiII beIieve ♪
+<SYNC Start=2377080><P Class=ENCC>&nbsp;
+<SYNC Start=2377117><P Class=ENCC>
+<FONT COLOR=yellow>♪ Someone's watching over me ♪
+<SYNC Start=2382749><P Class=ENCC>&nbsp;
+<SYNC Start=2385292><P Class=ENCC>
+<FONT COLOR=yellow>♪ I've seen<br>
+that bright Iight ♪
+<SYNC Start=2388591><P Class=ENCC>&nbsp;
+<SYNC Start=2388628><P Class=ENCC>
+<FONT COLOR=yellow>♪ And it's shining<br>
+on my destiny ♪
+<SYNC Start=2394294><P Class=ENCC>&nbsp;
+<SYNC Start=2394334><P Class=ENCC>
+<FONT COLOR=yellow>♪ Shining aII the time,<br>
+and I won't be afraid ♪
+<SYNC Start=2401240><P Class=ENCC>&nbsp;
+<SYNC Start=2401274><P Class=ENCC>
+<FONT COLOR=yellow>♪ To foIIow everywhere<br>
+it's taking me ♪
+<SYNC Start=2407270><P Class=ENCC>&nbsp;
+<SYNC Start=2407314><P Class=ENCC>
+<FONT COLOR=yellow>♪ AII I know<br>
+is yesterday is gone ♪
+<SYNC Start=2411910><P Class=ENCC>&nbsp;
+<SYNC Start=2411952><P Class=ENCC>
+<FONT COLOR=yellow>♪ And right now<br>
+I beIong ♪
+<SYNC Start=2415285><P Class=ENCC>&nbsp;
+<SYNC Start=2415322><P Class=ENCC>
+<FONT COLOR=yellow>♪ To this moment,<br>
+to my dreams ♪
+<SYNC Start=2421022><P Class=ENCC>&nbsp;
+<SYNC Start=2421061><P Class=ENCC>
+<FONT COLOR=yellow>♪ So I won't give up ♪
+<SYNC Start=2424121><P Class=ENCC>&nbsp;
+<SYNC Start=2424164><P Class=ENCC>
+<FONT COLOR=yellow>♪ No, I won't break down ♪
+<SYNC Start=2427497><P Class=ENCC>&nbsp;
+<SYNC Start=2427534><P Class=ENCC>
+<FONT COLOR=yellow>♪ Sooner then it seems<br>
+Iife turns around ♪
+<SYNC Start=2433939><P Class=ENCC>&nbsp;
+<SYNC Start=2433974><P Class=ENCC>
+<FONT COLOR=yellow>♪ And I wiII be strong<br>
+even if it aII goes wrong ♪
+<SYNC Start=2440106><P Class=ENCC>&nbsp;
+<SYNC Start=2440147><P Class=ENCC>
+<FONT COLOR=yellow>♪ When I'm standing in the dark,<br>
+I'II stiII beIieve ♪
+<SYNC Start=2446916><P Class=ENCC>&nbsp;
+<SYNC Start=2446953><P Class=ENCC>
+<FONT COLOR=yellow>♪ Someone's watching over me ♪
+<SYNC Start=2451549><P Class=ENCC>&nbsp;
+<SYNC Start=2451591><P Class=ENCC>
+<FONT COLOR=yellow>♪ It doesn't matter<br>
+what peopIe say ♪
+<SYNC Start=2454651><P Class=ENCC>&nbsp;
+<SYNC Start=2454694><P Class=ENCC>
+<FONT COLOR=yellow>♪ And it doesn't matter<br>
+how Iong it takes ♪
+<SYNC Start=2457720><P Class=ENCC>&nbsp;
+<SYNC Start=2457764><P Class=ENCC>
+<FONT COLOR=yellow>♪ BeIieve in yourseIf<br>
+and you'II fIy high ♪
+<SYNC Start=2463862><P Class=ENCC>&nbsp;
+<SYNC Start=2463904><P Class=ENCC>
+<FONT COLOR=yellow>♪ And it onIy matters<br>
+how true you are ♪
+<SYNC Start=2467032><P Class=ENCC>&nbsp;
+<SYNC Start=2467073><P Class=ENCC>
+<FONT COLOR=yellow>♪ Be true to yourseIf<br>
+and foIIow your heart ♪
+<SYNC Start=2473979><P Class=ENCC>&nbsp;
+<SYNC Start=2475315><P Class=ENCC>
+<FONT COLOR=yellow>♪ So I won't give up ♪
+<SYNC Start=2477909><P Class=ENCC>&nbsp;
+<SYNC Start=2477951><P Class=ENCC>
+<FONT COLOR=yellow>♪ No, I won't break down ♪
+<SYNC Start=2481216><P Class=ENCC>&nbsp;
+<SYNC Start=2481254><P Class=ENCC>
+<FONT COLOR=yellow>♪ Sooner than it seems<br>
+Iife turns around ♪
+<SYNC Start=2487750><P Class=ENCC>&nbsp;
+<SYNC Start=2487794><P Class=ENCC>
+<FONT COLOR=yellow>♪ And I wiII be strong<br>
+even if it aII goes wrong ♪
+<SYNC Start=2493528><P Class=ENCC>&nbsp;
+<SYNC Start=2493567><P Class=ENCC>
+<FONT COLOR=yellow>♪ When I'm standing in the dark,<br>
+I'II stiII beIieve ♪
+<SYNC Start=2500166><P Class=ENCC>&nbsp;
+<SYNC Start=2500207><P Class=ENCC>
+<FONT COLOR=yellow>♪ That I won't give up ♪
+<SYNC Start=2503404><P Class=ENCC>&nbsp;
+<SYNC Start=2503443><P Class=ENCC>
+<FONT COLOR=yellow>♪ No, I won't break down ♪
+<SYNC Start=2506469><P Class=ENCC>&nbsp;
+<SYNC Start=2506513><P Class=ENCC>
+<FONT COLOR=yellow>♪ Sooner than it seems<br>
+Iife turns around ♪
+<SYNC Start=2512748><P Class=ENCC>&nbsp;
+<SYNC Start=2512786><P Class=ENCC>
+<FONT COLOR=yellow>♪ And I wiII be strong<br>
+even when it aII goes wrong ♪
+<SYNC Start=2518884><P Class=ENCC>&nbsp;
+<SYNC Start=2518925><P Class=ENCC>
+<FONT COLOR=yellow>♪ When I'm standing in the dark,<br>
+I'II stiII beIieve ♪
+<SYNC Start=2525023><P Class=ENCC>&nbsp;
+<SYNC Start=2525065><P Class=ENCC>
+<FONT COLOR=yellow>♪ That someone's<br>
+watching over-- ♪
+<SYNC Start=2529092><P Class=ENCC>&nbsp;
+<SYNC Start=2529135><P Class=ENCC>
+<FONT COLOR=yellow>♪ Someone's<br>
+watching over-- ♪
+<SYNC Start=2531797><P Class=ENCC>&nbsp;
+<SYNC Start=2531838><P Class=ENCC>
+<FONT COLOR=yellow>♪ Someone's<br>
+watching over me ♪
+<SYNC Start=2537174><P Class=ENCC>&nbsp;
+<SYNC Start=2537210><P Class=ENCC>
+<FONT COLOR=yellow>♪ Oh yeah,<br>
+oh, oh ♪
+<SYNC Start=2541203><P Class=ENCC>&nbsp;
+<SYNC Start=2541248><P Class=ENCC>
+<FONT COLOR=yellow>♪ Oh, o-oh ♪
+<SYNC Start=2544376><P Class=ENCC>&nbsp;
+<SYNC Start=2544417><P Class=ENCC>
+<FONT COLOR=yellow>♪ Oh, oh... ♪
+<SYNC Start=2547944><P Class=ENCC>&nbsp;
+<SYNC Start=2547988><P Class=ENCC>
+<FONT COLOR=yellow>♪ Oh, oh ♪
+<SYNC Start=2550923><P Class=ENCC>&nbsp;
+<SYNC Start=2550957><P Class=ENCC>
+<FONT COLOR=yellow>♪ Oh, o-oh ♪
+<SYNC Start=2553482><P Class=ENCC>&nbsp;
+<SYNC Start=2553526><P Class=ENCC>
+<FONT COLOR=yellow>♪ Oh, oh... ♪
+<SYNC Start=2556927><P Class=ENCC>&nbsp;
+<SYNC Start=2556963><P Class=ENCC>
+<FONT COLOR=yellow>♪ Oh, oh ♪
+<SYNC Start=2560262><P Class=ENCC>&nbsp;
+<SYNC Start=2560300><P Class=ENCC>
+<FONT COLOR=yellow>♪ Someone's watching over me. ♪
+<SYNC Start=2565533><P Class=ENCC>&nbsp;
+<SYNC Start=2581955><P Class=ENCC>
+멋졌어 테리!!
+<SYNC Start=2583786><P Class=ENCC>&nbsp;
+<SYNC Start=2598872><P Class=ENCC>
+- 네가 해냈어! 끝내줬다구<br>
+- 우리가 해낸거지!
+<SYNC Start=2601363><P Class=ENCC>&nbsp;
+<SYNC Start=2601408><P Class=ENCC>
+아까 무대위에서 내 기분<br>
+절대 모를걸
+<SYNC Start=2604172><P Class=ENCC>&nbsp;
+<SYNC Start=2604411><P Class=ENCC>
+- 결정된거죠?<br>
+- 결정됐어요
+<SYNC Start=2606038><P Class=ENCC>&nbsp;
+<SYNC Start=2606079><P Class=ENCC>
+확실해요?<br>
+알겠습니다
+<SYNC Start=2607740><P Class=ENCC>&nbsp;
+<SYNC Start=2612886><P Class=ENCC>
+매년 우리는<br>
+기간동안 가장 우수한 학생을 뽑아
+<SYNC Start=2615946><P Class=ENCC>&nbsp;
+<SYNC Start=2615989><P Class=ENCC>
+10000달러의 장학금을<br>
+지급해 오고 있습니다
+<SYNC Start=2619982><P Class=ENCC>&nbsp;
+<SYNC Start=2620026><P Class=ENCC>
+올해는 재능있는 학생들이<br>
+열심히 노력해준 덕분에
+<SYNC Start=2623120><P Class=ENCC>&nbsp;
+<SYNC Start=2623163><P Class=ENCC>
+좀 더 특별한<br>
+해였던것 같습니다
+<SYNC Start=2625461><P Class=ENCC>&nbsp;
+<SYNC Start=2625498><P Class=ENCC>
+단 한명의 학생에게만<br>
+장학금을 줄수 있다니 아쉽군요
+<SYNC Start=2628092><P Class=ENCC>&nbsp;
+<SYNC Start=2628134><P Class=ENCC>
+바로 발표하도록 하죠
+<SYNC Start=2631831><P Class=ENCC>&nbsp;
+<SYNC Start=2631871><P Class=ENCC>
+신중한 논의끝에 결정된
+<SYNC Start=2634066><P Class=ENCC>&nbsp;
+<SYNC Start=2634107><P Class=ENCC>
+올해의 브리스톨-힐만 여름학교<br>
+장학금 수상자는...
+<SYNC Start=2638373><P Class=ENCC>&nbsp;
+<SYNC Start=2640480><P Class=ENCC>
+드니스 길모어!
+<SYNC Start=2642539><P Class=ENCC>&nbsp;
+<SYNC Start=2686126><P Class=ENCC>
+- 오 우리딸, 너무 멋졌단다<br>
+- 감사해요
+<SYNC Start=2690586><P Class=ENCC>&nbsp;
+<SYNC Start=2690630><P Class=ENCC>
+그래 정말 끝내줬어<br>
+역시 한핏줄이라니까
+<SYNC Start=2693656><P Class=ENCC>&nbsp;
+<SYNC Start=2693700><P Class=ENCC>
+니나 고모<br>
+너무 감사드려요
+<SYNC Start=2696328><P Class=ENCC>&nbsp;
+<SYNC Start=2698738><P Class=ENCC>
+네가 그 장학생이 되었다라면<br>
+더 좋았을텐데
+<SYNC Start=2700968><P Class=ENCC>&nbsp;
+<SYNC Start=2701007><P Class=ENCC>
+아니예요 엄마<br>
+그런건 별로 상관 없어요
+<SYNC Start=2702838><P Class=ENCC>&nbsp;
+<SYNC Start=2702876><P Class=ENCC>
+전 그냥<br>
+여기까지 온것만으로도 행복해요
+<SYNC Start=2704537><P Class=ENCC>&nbsp;
+<SYNC Start=2704577><P Class=ENCC>
+- 그래<br>
+- 아까..
+<SYNC Start=2707102><P Class=ENCC>&nbsp;
+<SYNC Start=2708148><P Class=ENCC>
+아주 잘하더구나 테리<br>
+잘했어
+<SYNC Start=2709877><P Class=ENCC>&nbsp;
+<SYNC Start=2710917><P Class=ENCC>
+고마워요 아빠
+<SYNC Start=2712680><P Class=ENCC>&nbsp;
+<SYNC Start=2712719><P Class=ENCC>
+잠시 단둘이<br>
+이야기 좀 할까?
+<SYNC Start=2715415><P Class=ENCC>&nbsp;
+<SYNC Start=2722695><P Class=ENCC>
+네게..
+<SYNC Start=2724128><P Class=ENCC>&nbsp;
+<SYNC Start=2724164><P Class=ENCC>
+내가 잘못 생각했던것<br>
+사과하고 싶구나
+<SYNC Start=2725961><P Class=ENCC>&nbsp;
+<SYNC Start=2725999><P Class=ENCC>
+아니예요 아빠<br>
+제가 애초에..
+<SYNC Start=2727899><P Class=ENCC>&nbsp;
+<SYNC Start=2727934><P Class=ENCC>
+아빠 이야기 들어주렴
+<SYNC Start=2729526><P Class=ENCC>&nbsp;
+<SYNC Start=2731704><P Class=ENCC>
+내가,<br>
+내가 나빴어
+<SYNC Start=2733501><P Class=ENCC>&nbsp;
+<SYNC Start=2733540><P Class=ENCC>
+아빠가 좀, 뭐랄까<br>
+원래 고지식 하잖니
+<SYNC Start=2736668><P Class=ENCC>&nbsp;
+<SYNC Start=2736709><P Class=ENCC>
+어쨌든, 아빠가 하려던 말은..<br>
+너의 공연을 볼때가...
+<SYNC Start=2740236><P Class=ENCC>&nbsp;
+<SYNC Start=2741815><P Class=ENCC>
+지금껏 내삶에서<br>
+가장 자랑스러운 순간이었단다
+<SYNC Start=2744443><P Class=ENCC>&nbsp;
+<SYNC Start=2744484><P Class=ENCC>
+무대에 서서 노래하는 모습을..
+<SYNC Start=2746975><P Class=ENCC>&nbsp;
+<SYNC Start=2748855><P Class=ENCC>
+폴도 봤다면 좋았을텐데
+<SYNC Start=2751050><P Class=ENCC>&nbsp;
+<SYNC Start=2753226><P Class=ENCC>
+저두요
+<SYNC Start=2754693><P Class=ENCC>&nbsp;
+<SYNC Start=2764304><P Class=ENCC>
+안녕하세요
+<SYNC Start=2765737><P Class=ENCC>&nbsp;
+<SYNC Start=2765772><P Class=ENCC>
+따님이 정말 대단했습니다
+<SYNC Start=2768297><P Class=ENCC>&nbsp;
+<SYNC Start=2768341><P Class=ENCC>
+- 감사합니다<br>
+- 정말 멋졌어요
+<SYNC Start=2770172><P Class=ENCC>&nbsp;
+<SYNC Start=2770210><P Class=ENCC>
+내년에도,<br>
+볼수 있었으면 합니다
+<SYNC Start=2772770><P Class=ENCC>&nbsp;
+<SYNC Start=2774714><P Class=ENCC>
+네, 그래야겠죠
+<SYNC Start=2776477><P Class=ENCC>&nbsp;
+<SYNC Start=2776516><P Class=ENCC>
+잘됐군요
+<SYNC Start=2778381><P Class=ENCC>&nbsp;
+<SYNC Start=2787093><P Class=ENCC>
+테리!<br>
+너도 같이 하자!
+<SYNC Start=2789288><P Class=ENCC>&nbsp;
+<SYNC Start=2800039><P Class=ENCC>
+<FONT COLOR=yellow>♪ In this pIace<br>
+that has no name ♪
+<SYNC Start=2804032><P Class=ENCC>&nbsp;
+<SYNC Start=2804077><P Class=ENCC>
+<FONT COLOR=yellow>♪ I can't remember<br>
+why I came ♪
+<SYNC Start=2806807><P Class=ENCC>&nbsp;
+<SYNC Start=2808081><P Class=ENCC>
+<FONT COLOR=yellow>♪ And then I hear<br>
+you whispering ♪
+<SYNC Start=2811380><P Class=ENCC>&nbsp;
+<SYNC Start=2811417><P Class=ENCC>
+<FONT COLOR=yellow>♪ One more miIe<br>
+to Jericho ♪
+<SYNC Start=2815353><P Class=ENCC>&nbsp;
+<SYNC Start=2815388><P Class=ENCC>
+<FONT COLOR=yellow>♪ Nothing is ever<br>
+what it seems ♪
+<SYNC Start=2818516><P Class=ENCC>&nbsp;
+<SYNC Start=2818558><P Class=ENCC>
+<FONT COLOR=yellow>♪ When you Iive<br>
+inside your dreams ♪
+<SYNC Start=2822995><P Class=ENCC>&nbsp;
+<SYNC Start=2823029><P Class=ENCC>
+<FONT COLOR=yellow>♪ The waIIs wiII tumbIe,<br>
+the waIIs wiII tumbIe ♪
+<SYNC Start=2827557><P Class=ENCC>&nbsp;
+<SYNC Start=2827600><P Class=ENCC>
+<FONT COLOR=yellow>♪ But I'm not<br>
+going to cry ♪
+<SYNC Start=2831400><P Class=ENCC>&nbsp;
+<SYNC Start=2831437><P Class=ENCC>
+<FONT COLOR=yellow>♪ My heart won't crumbIe,<br>
+my heart won't crumbIe ♪
+<SYNC Start=2835737><P Class=ENCC>&nbsp;
+<SYNC Start=2835775><P Class=ENCC>
+<FONT COLOR=yellow>♪ If we ever say goodbye ♪
+<SYNC Start=2840576><P Class=ENCC>&nbsp;
+<SYNC Start=2847887><P Class=ENCC>
+<FONT COLOR=yellow>♪ Everybody gets the joke ♪
+<SYNC Start=2851687><P Class=ENCC>&nbsp;
+<SYNC Start=2851724><P Class=ENCC>
+<FONT COLOR=yellow>♪ Where's the fire?<br>
+Where's the smoke? ♪
+<SYNC Start=2854852><P Class=ENCC>&nbsp;
+<SYNC Start=2855862><P Class=ENCC>
+<FONT COLOR=yellow>♪ Money, Iove and jeaIousy ♪
+<SYNC Start=2859127><P Class=ENCC>&nbsp;
+<SYNC Start=2859165><P Class=ENCC>
+<FONT COLOR=yellow>♪ Something's got<br>
+ahoId of me ♪
+<SYNC Start=2862965><P Class=ENCC>&nbsp;
+<SYNC Start=2863002><P Class=ENCC>
+<FONT COLOR=yellow>♪ But I wiII foIIow<br>
+where you go ♪
+<SYNC Start=2867371><P Class=ENCC>&nbsp;
+<SYNC Start=2867407><P Class=ENCC>
+<FONT COLOR=yellow>♪ One more miIe to Jericho ♪
+<SYNC Start=2870899><P Class=ENCC>&nbsp;
+<SYNC Start=2870944><P Class=ENCC>
+<FONT COLOR=yellow>♪ The waIIs wiII tumbIe,<br>
+the waIIs wiII tumbIe ♪
+<SYNC Start=2875847><P Class=ENCC>&nbsp;
+<SYNC Start=2875882><P Class=ENCC>
+<FONT COLOR=yellow>♪ But I'm not gonna cry ♪
+<SYNC Start=2878783><P Class=ENCC>&nbsp;
+<SYNC Start=2878818><P Class=ENCC>
+<FONT COLOR=yellow>♪ My heart won't crumbIe,<br>
+my heart won't crumbIe ♪
+<SYNC Start=2883846><P Class=ENCC>&nbsp;
+<SYNC Start=2883890><P Class=ENCC>
+<FONT COLOR=yellow>♪ If we ever say goodbye ♪
+<SYNC Start=2889294><P Class=ENCC>&nbsp;
+<SYNC Start=2890363><P Class=ENCC>
+<FONT COLOR=yellow>♪ Goodbye now ♪
+<SYNC Start=2894299><P Class=ENCC>&nbsp;
+<SYNC Start=2894334><P Class=ENCC>
+<FONT COLOR=yellow>♪ Goodbye ♪
+<SYNC Start=2898293><P Class=ENCC>&nbsp;
+<SYNC Start=2899906><P Class=ENCC>
+<FONT COLOR=yellow>♪ One more miIe,<br>
+one more kiss ♪
+<SYNC Start=2903637><P Class=ENCC>&nbsp;
+<SYNC Start=2903676><P Class=ENCC>
+<FONT COLOR=yellow>♪ One more word,<br>
+one more wish ♪
+<SYNC Start=2907339><P Class=ENCC>&nbsp;
+<SYNC Start=2915221><P Class=ENCC>
+<FONT COLOR=yellow>♪ The waIIs wiII tumbIe,<br>
+the waIIs wiII tumbIe ♪
+<SYNC Start=2919658><P Class=ENCC>&nbsp;
+<SYNC Start=2919692><P Class=ENCC>
+<FONT COLOR=yellow>♪ But I'm not gonna cry ♪
+<SYNC Start=2923150><P Class=ENCC>&nbsp;
+<SYNC Start=2923196><P Class=ENCC>
+<FONT COLOR=yellow>♪ My heart won't crumbIe,<br>
+my heart won't crumbIe ♪
+<SYNC Start=2927496><P Class=ENCC>&nbsp;
+<SYNC Start=2927533><P Class=ENCC>
+<FONT COLOR=yellow>♪ If we ever say goodbye ♪
+<SYNC Start=2931025><P Class=ENCC>&nbsp;
+<SYNC Start=2931070><P Class=ENCC>
+<FONT COLOR=yellow>♪ The waIIs wiII tumbIe,<br>
+the waIIs wiII tumbIe ♪
+<SYNC Start=2935439><P Class=ENCC>&nbsp;
+<SYNC Start=2935475><P Class=ENCC>
+<FONT COLOR=yellow>♪ But I'm not gonna cry ♪
+<SYNC Start=2938876><P Class=ENCC>&nbsp;
+<SYNC Start=2938911><P Class=ENCC>
+<FONT COLOR=yellow>♪ My heart won't crumbIe,<br>
+my heart won't crumbIe ♪
+<SYNC Start=2943746><P Class=ENCC>&nbsp;
+<SYNC Start=2943783><P Class=ENCC>
+<FONT COLOR=yellow>♪ If we ever say goodbye ♪
+<SYNC Start=2947879><P Class=ENCC>&nbsp;
+<SYNC Start=2947920><P Class=ENCC>
+<FONT COLOR=yellow>♪ My heart won't crumbIe,<br>
+my heart won't crumbIe ♪
+<SYNC Start=2951219><P Class=ENCC>&nbsp;
+<SYNC Start=2951257><P Class=ENCC>
+<FONT COLOR=yellow>♪ If we ever say goodbye ♪
+<SYNC Start=2956923><P Class=ENCC>&nbsp;
+<SYNC Start=2956963><P Class=ENCC>
+<FONT COLOR=yellow>♪ My heart won't crumbIe,<br>
+my heart won't crumbIe ♪
+<SYNC Start=2959523><P Class=ENCC>&nbsp;
+<SYNC Start=2959565><P Class=ENCC>
+<FONT COLOR=yellow>♪ If we ever say goodbye ♪
+<SYNC Start=2964332><P Class=ENCC>&nbsp;
+<SYNC Start=2964370><P Class=ENCC>
+<FONT COLOR=yellow>♪ My heart won't crumbIe,<br>
+my heart won't crumbIe ♪
+<SYNC Start=2967737><P Class=ENCC>&nbsp;
+<SYNC Start=2967774><P Class=ENCC>
+<FONT COLOR=yellow>♪ If we ever say goodbye ♪
+<SYNC Start=2972143><P Class=ENCC>&nbsp;
+<SYNC Start=2972178><P Class=ENCC>
+<FONT COLOR=yellow>♪ My heart won't crumbIe,<br>
+my heart won't crumbIe ♪
+<SYNC Start=2975978><P Class=ENCC>&nbsp;
+<SYNC Start=2976015><P Class=ENCC>
+<FONT COLOR=yellow>♪ If we ever say goodbye. ♪
+<SYNC Start=2981009><P Class=ENCC>&nbsp;
+</BODY>
+</SAMI>

@@ -1,0 +1,547 @@
+﻿<SAMI>
+
+<HEAD>
+<TITLE>Untitled</TITLE>
+
+<SAMIParam>
+  Metrics {time:ms;}
+  Spec {MSFT:1.0;}
+</SAMIParam>
+
+<STYLE TYPE="text/css">
+<!--
+  P { font-family: Arial; font-weight: normal; color: white; background-color: black; text-align: center; }
+  .ENUSCC { name: English; lang: en-US ; SAMIType: CC ; }
+-->
+</STYLE>
+
+</HEAD>
+
+<BODY>
+
+<-- Open play menu, choose Captions and Subtiles, On if available -->
+<-- Open tools menu, Security, Show local captions when present -->
+
+<SYNC Start=1850><P Class=ENUSCC>뭐야, 바위투성이잖아
+<SYNC Start=4630><P Class=ENUSCC>유적이잖아, 나츠
+<SYNC Start=7080><P Class=ENUSCC>&nbsp;
+<SYNC Start=20430><P Class=ENUSCC>이것만은 말해둘게
+<SYNC Start=22620><P Class=ENUSCC>너희들 말야, 루시에<br>대해서 잊다니 말도 안 돼
+<SYNC Start=27190><P Class=ENUSCC>너희들 없어지면<br>루시는 울 거라고
+<SYNC Start=30821><P Class=ENUSCC>&nbsp;
+<SYNC Start=38001><P Class=ENUSCC><font color=#80ffff>Fairy tail S2 Episode 34<br><font color=#ff0080>Gaiant의 자막 블로그<br><font color=#800080>(http://blog.naver.com/chereamante)
+<SYNC Start=41874><P Class=ENUSCC><font color=#80ffff>Fairy<font color=#ff8080> tail <font color=#ffff00>OP 주제가<br><font color=#00ff80>Artist<font color=#ffffff> : <font color=#ff8040>DO AS INFINITY <font color=#ff00ff><font color=#00ff80><font color=#ffffff><font color=#ff80ff><br><font color=#00ff00>Title<font color=#ffffff> : <font color=#0000ff>"Mysterious Magic"
+<SYNC Start=45781><P Class=ENUSCC>&nbsp;
+<SYNC Start=46088><P Class=ENUSCC><font color=#ff80ff>夢は相当 Danger!<br><font color=#ff8080>꿈은 너무 위험해!
+<SYNC Start=48469><P Class=ENUSCC><font color=#ff80ff>Crazy Game!<br><font color=#ff8080>정신나간 게임이지!
+<SYNC Start=52366><P Class=ENUSCC><font color=#ff80ff>叶えるまで Endless! Forever!<br><font color=#ff8080>이룰 때까지 끝없고 영원하지
+<SYNC Start=58929><P Class=ENUSCC><font color=#ff80ff>焦らせる Voiceless Whispers<br><font color=#ff8080>초조하게 하는 무성의 속삭임
+<SYNC Start=64260><P Class=ENUSCC><font color=#ff80ff>傷ついても諦め切れない<br><font color=#ff8080>상처 입어도 포기할 순 없어
+<SYNC Start=71427><P Class=ENUSCC><font color=#ff80ff>Nobody can stop you<br><font color=#ff8080>아무도 널 멈출수는 없어
+<SYNC Start=73832><P Class=ENUSCC><font color=#ff80ff>思うままに駆け回れ<br><font color=#ff8080>마음껏 돌진해
+<SYNC Start=77919><P Class=ENUSCC><font color=#ff80ff>Wow Wow
+<SYNC Start=79300><P Class=ENUSCC><font color=#ff80ff>Mysterious Magic<br><font color=#ff8080>신비한 마법
+<SYNC Start=81134><P Class=ENUSCC><font color=#ff80ff>Wow Wow
+<SYNC Start=84197><P Class=ENUSCC><font color=#ff80ff>絆だけ信じて<br><font color=#ff8080>유대만을 믿고서
+<SYNC Start=86507><P Class=ENUSCC><font color=#ff80ff>イバラ道を突き進め<br><font color=#ff8080>가시밭길을 나아가
+<SYNC Start=90292><P Class=ENUSCC><font color=#ff80ff>我がまま気ままな Dreamer<br><font color=#ff8080>멋대로고 자유로운 몽상가
+<SYNC Start=95055><P Class=ENUSCC><font color=#ff80ff>Mysterious Magic<br><font color=#ff8080>신비한 마법
+<SYNC Start=96818><P Class=ENUSCC><font color=#ff80ff>Nobody can stop you<br><font color=#ff8080>아무도 널 멈출수는 없어
+<SYNC Start=98952><P Class=ENUSCC><font color=#ff80ff>思うままに駆け回れ<br><font color=#ff8080>마음껏 돌진해
+<SYNC Start=103183><P Class=ENUSCC><font color=#ff80ff>Wow Wow
+<SYNC Start=104539><P Class=ENUSCC><font color=#ff80ff>Mysterious Magic<br><font color=#ff8080>신비한 마법
+<SYNC Start=106341><P Class=ENUSCC><font color=#ff80ff>Wow Wow
+<SYNC Start=109380><P Class=ENUSCC><font color=#ff80ff>絆だけ信じて<br><font color=#ff8080>유대만을 믿고서
+<SYNC Start=111817><P Class=ENUSCC><font color=#ff80ff>イバラ道を突き進め<br><font color=#ff8080>가시밭길을 나아가
+<SYNC Start=115659><P Class=ENUSCC><font color=#ff80ff>我がまま気ままな Dreamer<br><font color=#ff8080>멋대로고 자유로운 몽상가
+<SYNC Start=120365><P Class=ENUSCC><font color=#ff80ff>眠らぬ夢見る Dreamer<br><font color=#ff8080>잠 못 드는 꿈을 꾸는 몽상가
+<SYNC Start=125143><P Class=ENUSCC><font color=#ff80ff>Mysterious Magic<br><font color=#ff8080>신비한 마법
+<SYNC Start=127795><P Class=ENUSCC>&nbsp;
+<SYNC Start=141330><P Class=ENUSCC>네 빛, 언제부터<br>그렇게 더럽혀진 거야?
+<SYNC Start=146180><P Class=ENUSCC>&nbsp;
+<SYNC Start=146435><P Class=ENUSCC>더럽혀진 것이 아니다
+<SYNC Start=148466><P Class=ENUSCC>이것이야말로 자유를<br>바라는 의지의 표명이다
+<SYNC Start=153366><P Class=ENUSCC>&nbsp;
+<SYNC Start=153732><P Class=ENUSCC>뭐가 의지의 표명이냐<br>웃기고 앉았구만
+<SYNC Start=158111><P Class=ENUSCC>&nbsp;
+<SYNC Start=162330><P Class=ENUSCC>뭐가 웃긴데?
+<SYNC Start=164900><P Class=ENUSCC>&nbsp;
+<SYNC Start=168860><P Class=ENUSCC><font color=#ff8080>화룡의 철권
+<SYNC Start=170420><P Class=ENUSCC><font color=#0080ff>칠흑의 철의
+<SYNC Start=173310><P Class=ENUSCC>&nbsp;
+<SYNC Start=178120><P Class=ENUSCC>해피
+<SYNC Start=179722><P Class=ENUSCC>&nbsp;
+<SYNC Start=182048><P Class=ENUSCC>해피
+<SYNC Start=183627><P Class=ENUSCC>&nbsp;
+<SYNC Start=184698><P Class=ENUSCC>해피
+<SYNC Start=185547><P Class=ENUSCC>야, 괜찮아?
+<SYNC Start=186563><P Class=ENUSCC>정신차려
+<SYNC Start=188440><P Class=ENUSCC>난 안되겠어<br>별이 뱅뱅 돌아
+<SYNC Start=192210><P Class=ENUSCC>이 자식, 처음부터<br>해피를 노린 거냐
+<SYNC Start=195240><P Class=ENUSCC>비겁한 녀석, 내려와
+<SYNC Start=197835><P Class=ENUSCC>&nbsp;
+<SYNC Start=202340><P Class=ENUSCC>이거, 탈 것?
+<SYNC Start=204618><P Class=ENUSCC>&nbsp;
+<SYNC Start=205500><P Class=ENUSCC>검은 이 몸의 어둠에
+<SYNC Start=208032><P Class=ENUSCC>&nbsp;
+<SYNC Start=208320><P Class=ENUSCC>이 자식
+<SYNC Start=209620><P Class=ENUSCC>가라앉도록 해라<br><font color=#0080ff>칠흑의 제재
+<SYNC Start=213620><P Class=ENUSCC>&nbsp;
+<SYNC Start=225560><P Class=ENUSCC><font color=#80ffff>Episode 34<br><font color=#00ff00>웬디 vs 아쿠에리아스<br><font color=#ff8080>[유원지에서 놀자!]
+<SYNC Start=230330><P Class=ENUSCC>&nbsp;
+<SYNC Start=238686><P Class=ENUSCC>지금은 무사를<br>기원하는 수밖에
+<SYNC Start=241674><P Class=ENUSCC>&nbsp;
+<SYNC Start=242650><P Class=ENUSCC>바르고
+<SYNC Start=244381><P Class=ENUSCC>&nbsp;
+<SYNC Start=256690><P Class=ENUSCC>그게 끝?
+<SYNC Start=258710><P Class=ENUSCC>&nbsp;
+<SYNC Start=258870><P Class=ENUSCC>채찍은 말이지<br>이렇게 쓰는 거야
+<SYNC Start=263042><P Class=ENUSCC>&nbsp;
+<SYNC Start=265440><P Class=ENUSCC>아프지, 벌이니까 당연해
+<SYNC Start=269304><P Class=ENUSCC>&nbsp;
+<SYNC Start=270540><P Class=ENUSCC>그만둬
+<SYNC Start=271540><P Class=ENUSCC>그만 안 둬, 이거이거<br>어떻게 된 거야?
+<SYNC Start=275820><P Class=ENUSCC>&nbsp;
+<SYNC Start=315619><P Class=ENUSCC>실례인 것 같지만<br>룰은 접니다
+<SYNC Start=318992><P Class=ENUSCC>실례인 것 같지만..
+<SYNC Start=320070><P Class=ENUSCC>진짜 실례야
+<SYNC Start=322450><P Class=ENUSCC>그럼, 하겠습니다
+<SYNC Start=324420><P Class=ENUSCC><font color=#00ff40>스탠바이 시퀀스<br><font color=#ffffff>필드 카드 두 장 배치
+<SYNC Start=328718><P Class=ENUSCC>&nbsp;
+<SYNC Start=330820><P Class=ENUSCC>.....그러니까<br>이쪽은 아무 것도!
+<SYNC Start=334150><P Class=ENUSCC>지금은 상황을<br>볼 수밖에 없나
+<SYNC Start=336210><P Class=ENUSCC>그러면, 드디어<br><font color=#80ffff>배틀 시퀀스
+<SYNC Start=338916><P Class=ENUSCC>성령을 소환
+<SYNC Start=341859><P Class=ENUSCC>&nbsp;
+<SYNC Start=347620><P Class=ENUSCC><font color=#00ffff>피리-피리
+<SYNC Start=349520><P Class=ENUSCC>제미야
+<SYNC Start=350630><P Class=ENUSCC>미니야
+<SYNC Start=352434><P Class=ENUSCC>&nbsp;
+<SYNC Start=353339><P Class=ENUSCC>처음은 사전<br>연습이란 거야?
+<SYNC Start=355875><P Class=ENUSCC>페어리 테일
+<SYNC Start=357828><P Class=ENUSCC>아니, 마그놀리아<br>제일의 카드술사에게
+<SYNC Start=361701><P Class=ENUSCC>그러한 실례인<br>행동은 하지 않아요
+<SYNC Start=365788><P Class=ENUSCC>&nbsp;
+<SYNC Start=367660><P Class=ENUSCC>제미니가 모이면<br>합체 공격이 가능
+<SYNC Start=371517><P Class=ENUSCC>공격력 5000 이하의 적<br>몬스터를 격파할 수 있죠
+<SYNC Start=376260><P Class=ENUSCC>어이, 이봐! 적이고<br>뭐고 이쪽에는 아직
+<SYNC Start=381101><P Class=ENUSCC>&nbsp;
+<SYNC Start=381639><P Class=ENUSCC>예감하신 대로<br>제미니의 다이렉트
+<SYNC Start=385608><P Class=ENUSCC>[공격]
+<SYNC Start=386924><P Class=ENUSCC><font color=#00ffff>피리-피리
+<SYNC Start=388425><P Class=ENUSCC><font color=#ffff00>피-피리
+<SYNC Start=389742><P Class=ENUSCC><font color=#00ffff>피리-피리
+<SYNC Start=391036><P Class=ENUSCC><font color=#ffff00>피-피리
+<SYNC Start=393359><P Class=ENUSCC>&nbsp;
+<SYNC Start=400080><P Class=ENUSCC>얘, 놀자
+<SYNC Start=402366><P Class=ENUSCC>놀자면 좀 놀자
+<SYNC Start=404320><P Class=ENUSCC>안 돼, 안 놀겠다면<br>안 노는 거예요!
+<SYNC Start=407480><P Class=ENUSCC>잠깐, 웬디<br>뭘 맞춰주니?
+<SYNC Start=409932><P Class=ENUSCC>같은 수준이<br>되면 안 돼
+<SYNC Start=412742><P Class=ENUSCC>&nbsp;
+<SYNC Start=412970><P Class=ENUSCC>안 놀아요
+<SYNC Start=414863><P Class=ENUSCC>&nbsp;
+<SYNC Start=415774><P Class=ENUSCC>그러면 재미없잖아
+<SYNC Start=419120><P Class=ENUSCC>그럼 있잖아
+<SYNC Start=421699><P Class=ENUSCC>내쪽에서 먼저<br>맘대로 놀아줄게
+<SYNC Start=424197><P Class=ENUSCC>으쌰
+<SYNC Start=426065><P Class=ENUSCC>&nbsp;
+<SYNC Start=426850><P Class=ENUSCC>뭐야?
+<SYNC Start=428360><P Class=ENUSCC>거짓말이지?
+<SYNC Start=430042><P Class=ENUSCC>됐다, 그럼 간다
+<SYNC Start=433910><P Class=ENUSCC>&nbsp;
+<SYNC Start=436810><P Class=ENUSCC>어때, 커다란<br>바다 회오리
+<SYNC Start=440230><P Class=ENUSCC>재밌지?
+<SYNC Start=442631><P Class=ENUSCC>&nbsp;
+<SYNC Start=444220><P Class=ENUSCC>괴, 굉장해
+<SYNC Start=446840><P Class=ENUSCC>잠깐, 관심을 줄<br>상황이 아니잖니?
+<SYNC Start=449850><P Class=ENUSCC>에이, 재밌지 않아?
+<SYNC Start=452374><P Class=ENUSCC>&nbsp;
+<SYNC Start=453520><P Class=ENUSCC>그럼, 이거라면<br>분명 재밌을 거야
+<SYNC Start=457128><P Class=ENUSCC>&nbsp;
+<SYNC Start=458546><P Class=ENUSCC>웬디
+<SYNC Start=460105><P Class=ENUSCC>&nbsp;
+<SYNC Start=462880><P Class=ENUSCC>위, 위험해요
+<SYNC Start=465150><P Class=ENUSCC>이, 이대로라면<br>다칠 거라구요
+<SYNC Start=468895><P Class=ENUSCC>&nbsp;
+<SYNC Start=469930><P Class=ENUSCC>어쩜 이런 파괴력이
+<SYNC Start=471660><P Class=ENUSCC>역시 겉모습에<br>현혹되면 안 돼
+<SYNC Start=475073><P Class=ENUSCC>&nbsp;
+<SYNC Start=475262><P Class=ENUSCC>아아, 미안해<br>목마 못 타게 되버렸네
+<SYNC Start=480160><P Class=ENUSCC>그러니까!
+<SYNC Start=480990><P Class=ENUSCC>그래도, 놀이는<br>그만 안 둘 거야
+<SYNC Start=483560><P Class=ENUSCC>이런 거<br>놀이가 아니라구요
+<SYNC Start=485700><P Class=ENUSCC>재밌지도 않고
+<SYNC Start=487232><P Class=ENUSCC>안 그만두면<br>정말 때찌 할 거예요!
+<SYNC Start=490280><P Class=ENUSCC><font color=#8080ff>천룡의 포효
+<SYNC Start=493814><P Class=ENUSCC>&nbsp;
+<SYNC Start=500310><P Class=ENUSCC>우와, 우아아<br>재밌어, 재밌어
+<SYNC Start=504405><P Class=ENUSCC>&nbsp;
+<SYNC Start=504510><P Class=ENUSCC>아파
+<SYNC Start=506159><P Class=ENUSCC>너, 괜찮니?
+<SYNC Start=508010><P Class=ENUSCC>으응, 괜찮아
+<SYNC Start=510060><P Class=ENUSCC>&nbsp;
+<SYNC Start=510720><P Class=ENUSCC>정말이지, 뭐가<br>재밌다는 거야
+<SYNC Start=514050><P Class=ENUSCC>왜, 왜 이렇게<br>심술을 부려요?
+<SYNC Start=517610><P Class=ENUSCC>심술이라니, 너
+<SYNC Start=519340><P Class=ENUSCC>심술 같은 거 안 부렸어<br>놀고 있을 뿐인 걸
+<SYNC Start=522760><P Class=ENUSCC>부렸어요
+<SYNC Start=523860><P Class=ENUSCC>안 부렸어
+<SYNC Start=524860><P Class=ENUSCC>부렸다구요
+<SYNC Start=525990><P Class=ENUSCC>안 부렸다구
+<SYNC Start=527180><P Class=ENUSCC>그러니까, 너<br>같은 수준 되지 마
+<SYNC Start=530270><P Class=ENUSCC>애들 싸움이 아니라구
+<SYNC Start=532521><P Class=ENUSCC>&nbsp;
+<SYNC Start=532720><P Class=ENUSCC>부렸어요
+<SYNC Start=533470><P Class=ENUSCC>안 부렸는 걸
+<SYNC Start=534590><P Class=ENUSCC>부렸어요
+<SYNC Start=535590><P Class=ENUSCC>안 부렸다구
+<SYNC Start=537330><P Class=ENUSCC>정정이야, 이거<br>애들 싸움이네
+<SYNC Start=541997><P Class=ENUSCC>&nbsp;
+<SYNC Start=543300><P Class=ENUSCC>흥! 놀아주지 않으면<br>삐질 거라구요, 뿌웅
+<SYNC Start=547860><P Class=ENUSCC>심술부리는<br>나쁜 애랑 안 놀아요
+<SYNC Start=550310><P Class=ENUSCC>그럼, 삐질래
+<SYNC Start=551880><P Class=ENUSCC>저기 말이지
+<SYNC Start=553290><P Class=ENUSCC>&nbsp;
+<SYNC Start=553486><P Class=ENUSCC>나쁜 애 아닌 걸, 뿡!
+<SYNC Start=557041><P Class=ENUSCC>&nbsp;
+<SYNC Start=557360><P Class=ENUSCC>도망치자
+<SYNC Start=559602><P Class=ENUSCC>&nbsp;
+<SYNC Start=559750><P Class=ENUSCC>이번엔 술래잡기
+<SYNC Start=561631><P Class=ENUSCC>얍!
+<SYNC Start=563079><P Class=ENUSCC>&nbsp;
+<SYNC Start=568780><P Class=ENUSCC>정말, 뭐가<br>술래잡기야
+<SYNC Start=571920><P Class=ENUSCC>좋아, 이제 안 도망쳐<br>나쁜 애는 용서 못 해!
+<SYNC Start=575710><P Class=ENUSCC>샤를, 내려줘
+<SYNC Start=577150><P Class=ENUSCC>안 돼, 아까<br>그 위력 봤잖아
+<SYNC Start=580120><P Class=ENUSCC>그래도..
+<SYNC Start=581480><P Class=ENUSCC>얘, 그만둬
+<SYNC Start=584394><P Class=ENUSCC>&nbsp;
+<SYNC Start=587030><P Class=ENUSCC>온다, 와, 와!
+<SYNC Start=589390><P Class=ENUSCC>&nbsp;
+<SYNC Start=598260><P Class=ENUSCC>아아, 아까워라<br>그래도, 아직아직!
+<SYNC Start=602060><P Class=ENUSCC>&nbsp;
+<SYNC Start=609740><P Class=ENUSCC>없어져버렸어?
+<SYNC Start=611423><P Class=ENUSCC>예이, 이번엔<br>숨바꼭질이네
+<SYNC Start=614600><P Class=ENUSCC>찾아줄게
+<SYNC Start=616941><P Class=ENUSCC>&nbsp;
+<SYNC Start=625510><P Class=ENUSCC>어라, 없네
+<SYNC Start=627760><P Class=ENUSCC>좋았어, 그럼 이걸로
+<SYNC Start=630443><P Class=ENUSCC>&nbsp;
+<SYNC Start=635950><P Class=ENUSCC>터무니 없잖아
+<SYNC Start=638230><P Class=ENUSCC>&nbsp;
+<SYNC Start=640080><P Class=ENUSCC>앗, 발견했다<br>붙잡을 거야
+<SYNC Start=645093><P Class=ENUSCC>&nbsp;
+<SYNC Start=647260><P Class=ENUSCC>뭐야, 이 비<br>창 같잖아
+<SYNC Start=651066><P Class=ENUSCC>&nbsp;
+<SYNC Start=655460><P Class=ENUSCC>아아, 또<br>도망쳐버렸다
+<SYNC Start=659772><P Class=ENUSCC>&nbsp;
+<SYNC Start=665708><P Class=ENUSCC>아쿠에리아스 씨
+<SYNC Start=667050><P Class=ENUSCC>'씨' 는 안 붙여도 돼
+<SYNC Start=668760><P Class=ENUSCC>무슨 짓을 하는 거예요!<br>유원지가 엉망진창이잖아요
+<SYNC Start=672920><P Class=ENUSCC>이번엔 내가 숨을래
+<SYNC Start=675250><P Class=ENUSCC>숨바꼭질은<br>이제 됐어요
+<SYNC Start=677080><P Class=ENUSCC>그래도, 기뻐<br>겨우 이름 불러줬어
+<SYNC Start=681027><P Class=ENUSCC>&nbsp;
+<SYNC Start=681430><P Class=ENUSCC>정말로 화낼 거라구요<br>위험하잖아요, 정말..!
+<SYNC Start=686070><P Class=ENUSCC>어머, 정말<br>화내고 있네
+<SYNC Start=688950><P Class=ENUSCC>&nbsp;
+<SYNC Start=689340><P Class=ENUSCC><font color=#8080ff>천룡의 익격
+<SYNC Start=692870><P Class=ENUSCC>잠깐 타임
+<SYNC Start=695004><P Class=ENUSCC>&nbsp;
+<SYNC Start=696660><P Class=ENUSCC>있잖아, 저기 봐봐
+<SYNC Start=699768><P Class=ENUSCC>&nbsp;
+<SYNC Start=700030><P Class=ENUSCC>뭐니, 뭔데?
+<SYNC Start=701640><P Class=ENUSCC>봐봐, 저기!
+<SYNC Start=703851><P Class=ENUSCC>&nbsp;
+<SYNC Start=705370><P Class=ENUSCC>뭐야, 뭔데?
+<SYNC Start=707152><P Class=ENUSCC><font color=#80ff80>페어리 테일<br>Subtitled by Gaiant<br>blog.naver.com/chereamante
+<SYNC Start=710485><P Class=ENUSCC><font color=#ff8040>페어리 테일<br>Subtitled by Gaiant<br><font color=#8000ff>☞가이안트의 유혹
+<SYNC Start=713231><P Class=ENUSCC>&nbsp;
+<SYNC Start=714671><P Class=ENUSCC>뭐, 도망치는 거니?
+<SYNC Start=717489><P Class=ENUSCC>&nbsp;
+<SYNC Start=718207><P Class=ENUSCC>어때, 주라-!<br>이 스피드..?
+<SYNC Start=720017><P Class=ENUSCC>완벽한 프리 스타일
+<SYNC Start=722130><P Class=ENUSCC>내 것, 정말 장해
+<SYNC Start=724030><P Class=ENUSCC>내 거라고<br>하지 마, 주라-!
+<SYNC Start=726030><P Class=ENUSCC>할매, 내가 먼저<br>정리할게, 주라-!
+<SYNC Start=729260><P Class=ENUSCC>&nbsp;
+<SYNC Start=729770><P Class=ENUSCC>너무해, 너무해
+<SYNC Start=731660><P Class=ENUSCC>할매라고 부르는 것도<br>먼저 가는 것도 너무해
+<SYNC Start=734960><P Class=ENUSCC>상어상어, 상어상어
+<SYNC Start=736830><P Class=ENUSCC>캇파-!
+<SYNC Start=738949><P Class=ENUSCC>&nbsp;
+<SYNC Start=741720><P Class=ENUSCC>있잖아, 저기 봐봐
+<SYNC Start=744890><P Class=ENUSCC>뭐니, 뭔데?
+<SYNC Start=746570><P Class=ENUSCC>봐봐, 저기!
+<SYNC Start=748849><P Class=ENUSCC>&nbsp;
+<SYNC Start=750134><P Class=ENUSCC>뭐야, 뭔데?
+<SYNC Start=752213><P Class=ENUSCC>&nbsp;
+<SYNC Start=754600><P Class=ENUSCC>아이스크림 먹자
+<SYNC Start=757160><P Class=ENUSCC>&nbsp;
+<SYNC Start=757850><P Class=ENUSCC>아, 아이스?
+<SYNC Start=760121><P Class=ENUSCC>&nbsp;
+<SYNC Start=764627><P Class=ENUSCC>이런 때에<br>아이스라니
+<SYNC Start=767801><P Class=ENUSCC>&nbsp;
+<SYNC Start=770854><P Class=ENUSCC>얘, 아이스크림 먹자
+<SYNC Start=773856><P Class=ENUSCC>&nbsp;
+<SYNC Start=776380><P Class=ENUSCC>멋대로 손잡고 있고
+<SYNC Start=778896><P Class=ENUSCC>이쪽, 빨리 가자
+<SYNC Start=781340><P Class=ENUSCC>여기 아이스크림<br>정말 맛있다구
+<SYNC Start=784166><P Class=ENUSCC>그니까, 어서어서!
+<SYNC Start=786642><P Class=ENUSCC>&nbsp;
+<SYNC Start=787380><P Class=ENUSCC>안 돼, 웬디
+<SYNC Start=788880><P Class=ENUSCC>완전히 적의<br>페이스에 말렸어
+<SYNC Start=791390><P Class=ENUSCC>똑바로 해
+<SYNC Start=792700><P Class=ENUSCC>아이스크림
+<SYNC Start=794480><P Class=ENUSCC>자, 잠깐 웬디
+<SYNC Start=796028><P Class=ENUSCC>너, 설마
+<SYNC Start=798036><P Class=ENUSCC>&nbsp;
+<SYNC Start=798140><P Class=ENUSCC>자
+<SYNC Start=799727><P Class=ENUSCC>&nbsp;
+<SYNC Start=800970><P Class=ENUSCC>고마워요
+<SYNC Start=802750><P Class=ENUSCC>먹자, 휴식-!
+<SYNC Start=805250><P Class=ENUSCC>휴식이라니
+<SYNC Start=806990><P Class=ENUSCC>잠깐, 웬디<br>그런 거 먹으면 안 돼
+<SYNC Start=809790><P Class=ENUSCC>- 함정일지도 모르..<br>- 여기!
+<SYNC Start=812000><P Class=ENUSCC>고양이도, 자!
+<SYNC Start=813600><P Class=ENUSCC>고, 고마워
+<SYNC Start=815550><P Class=ENUSCC>&nbsp;
+<SYNC Start=815960><P Class=ENUSCC>그러니까, 난<br>안 먹는다구!
+<SYNC Start=817790><P Class=ENUSCC>맛있어
+<SYNC Start=819120><P Class=ENUSCC>잠깐만, 너<br>먹은 거니?
+<SYNC Start=821640><P Class=ENUSCC>진짜 맛있지?
+<SYNC Start=824190><P Class=ENUSCC>&nbsp;
+<SYNC Start=826140><P Class=ENUSCC>칫
+<SYNC Start=827801><P Class=ENUSCC>&nbsp;
+<SYNC Start=829830><P Class=ENUSCC>의, 의외로<br>살살 녹네
+<SYNC Start=834245><P Class=ENUSCC>&nbsp;
+<SYNC Start=839960><P Class=ENUSCC>여기 아이스크림 진짜로<br>맛있으니까 나 너무 좋아!
+<SYNC Start=844880><P Class=ENUSCC>저도 이거 좋아요
+<SYNC Start=847520><P Class=ENUSCC>확실히 나쁘지 않네
+<SYNC Start=850703><P Class=ENUSCC>&nbsp;
+<SYNC Start=852810><P Class=ENUSCC>뭔가 지금<br>친구 같네요
+<SYNC Start=855960><P Class=ENUSCC>응, 우리들 친구야!
+<SYNC Start=859735><P Class=ENUSCC>&nbsp;
+<SYNC Start=868090><P Class=ENUSCC>얘, 맛있지?
+<SYNC Start=870626><P Class=ENUSCC>&nbsp;
+<SYNC Start=871640><P Class=ENUSCC>코
+<SYNC Start=873312><P Class=ENUSCC>&nbsp;
+<SYNC Start=876951><P Class=ENUSCC>뭐, 괜찮네
+<SYNC Start=879621><P Class=ENUSCC>&nbsp;
+<SYNC Start=886078><P Class=ENUSCC>아, 맛있었다
+<SYNC Start=887980><P Class=ENUSCC>네에, 맛있었어요
+<SYNC Start=891125><P Class=ENUSCC>&nbsp;
+<SYNC Start=892510><P Class=ENUSCC>이제 싸움 그만해요
+<SYNC Start=894550><P Class=ENUSCC>싸움 같은 거<br>하지 않았다구~!
+<SYNC Start=897090><P Class=ENUSCC>&nbsp;
+<SYNC Start=898100><P Class=ENUSCC>그럼, 휴식 끝<br>또 놀자
+<SYNC Start=901866><P Class=ENUSCC>&nbsp;
+<SYNC Start=903290><P Class=ENUSCC>안 돼, 안돼요
+<SYNC Start=905040><P Class=ENUSCC>모처럼 맛있는 아이스<br>먹었으니까 이제 그만해요
+<SYNC Start=908334><P Class=ENUSCC>네?<br>그만...해으아앙!
+<SYNC Start=910420><P Class=ENUSCC>나, 아직 다 안 먹었..
+<SYNC Start=913490><P Class=ENUSCC>참, 이럴 때가 아냐
+<SYNC Start=916010><P Class=ENUSCC>우와, 빨라
+<SYNC Start=918895><P Class=ENUSCC>&nbsp;
+<SYNC Start=930549><P Class=ENUSCC>노, 노, 높아..!
+<SYNC Start=932730><P Class=ENUSCC>샤를, 샤를도 참..
+<SYNC Start=935318><P Class=ENUSCC>샤를?
+<SYNC Start=936490><P Class=ENUSCC>괘, 괜찮니?
+<SYNC Start=938470><P Class=ENUSCC>그럴 리 없잖니<br>정말, 무슨 생각인지
+<SYNC Start=942320><P Class=ENUSCC>아무튼, 이 모습<br>부끄러우니 빨리 도와줘
+<SYNC Start=945910><P Class=ENUSCC>그렇게 말해도<br>여기서는 좀
+<SYNC Start=948570><P Class=ENUSCC>안에서, 안에서 당겨
+<SYNC Start=950920><P Class=ENUSCC>으으, 응!
+<SYNC Start=953058><P Class=ENUSCC>&nbsp;
+<SYNC Start=956290><P Class=ENUSCC>아, 안 열려.. 샤를
+<SYNC Start=958691><P Class=ENUSCC>어째선데?
+<SYNC Start=960050><P Class=ENUSCC>앗, 온다!
+<SYNC Start=961290><P Class=ENUSCC>어떻게 좀 해봐
+<SYNC Start=963612><P Class=ENUSCC>&nbsp;
+<SYNC Start=965510><P Class=ENUSCC>우아아, 높은 곳<br>기분 참 좋다
+<SYNC Start=968590><P Class=ENUSCC>갈게
+<SYNC Start=970027><P Class=ENUSCC>하나, 둘!
+<SYNC Start=972514><P Class=ENUSCC>&nbsp;
+<SYNC Start=982020><P Class=ENUSCC>그만해요<br>부서질 거예요
+<SYNC Start=985607><P Class=ENUSCC>&nbsp;
+<SYNC Start=985730><P Class=ENUSCC>재밌어, 그럼<br>이번엔 좀 더 큰 거야
+<SYNC Start=990679><P Class=ENUSCC>&nbsp;
+<SYNC Start=991400><P Class=ENUSCC>싫어..!
+<SYNC Start=993908><P Class=ENUSCC>&nbsp;
+<SYNC Start=1000150><P Class=ENUSCC>히잉...!
+<SYNC Start=1002389><P Class=ENUSCC>&nbsp;
+<SYNC Start=1006200><P Class=ENUSCC>나츠 씨?
+<SYNC Start=1007880><P Class=ENUSCC>나츠?
+<SYNC Start=1008500><P Class=ENUSCC>비켜줘
+<SYNC Start=1011531><P Class=ENUSCC>어머, 어디서 온 걸까
+<SYNC Start=1015836><P Class=ENUSCC>&nbsp;
+<SYNC Start=1019400><P Class=ENUSCC>웨, 웬디<br>일단은 구했다
+<SYNC Start=1023010><P Class=ENUSCC>어쩐 일이세요<br>괜찮은 거예요?
+<SYNC Start=1025790><P Class=ENUSCC>괘, 괜찮지 않아
+<SYNC Start=1028700><P Class=ENUSCC>로키한테 엄청난<br>기세로 당해버렸어
+<SYNC Start=1032320><P Class=ENUSCC>아파라, 나 최근에<br>이런거 너무 많은데
+<SYNC Start=1035990><P Class=ENUSCC>해피, 해피
+<SYNC Start=1037887><P Class=ENUSCC>해피!
+<SYNC Start=1039582><P Class=ENUSCC>&nbsp;
+<SYNC Start=1040710><P Class=ENUSCC>샤를, 무사했구나
+<SYNC Start=1042780><P Class=ENUSCC>무사하지 않다구
+<SYNC Start=1044633><P Class=ENUSCC>보면 알잖니?<br>빨리 도와달라구
+<SYNC Start=1047830><P Class=ENUSCC>당연하지
+<SYNC Start=1049415><P Class=ENUSCC>&nbsp;
+<SYNC Start=1054710><P Class=ENUSCC>미안
+<SYNC Start=1055810><P Class=ENUSCC>빨리 해줘, 빨리..
+<SYNC Start=1059270><P Class=ENUSCC>그게, 나 엉망이라<br>이 이상 힘이 안 나와
+<SYNC Start=1064160><P Class=ENUSCC>정말..!
+<SYNC Start=1065616><P Class=ENUSCC>&nbsp;
+<SYNC Start=1066230><P Class=ENUSCC>이거, 탈 것?<br>속 안좋아
+<SYNC Start=1068840><P Class=ENUSCC>저기, 움직이고<br>있지 않아요
+<SYNC Start=1070720><P Class=ENUSCC>아, 응!
+<SYNC Start=1072310><P Class=ENUSCC>&nbsp;
+<SYNC Start=1072600><P Class=ENUSCC>나츠 오빠도 같이 놀자
+<SYNC Start=1075750><P Class=ENUSCC>나츠 오빠라고?
+<SYNC Start=1078210><P Class=ENUSCC>저 녀석<br>아쿠에리아스?
+<SYNC Start=1079908><P Class=ENUSCC>조그맣네
+<SYNC Start=1081561><P Class=ENUSCC>&nbsp;
+<SYNC Start=1086370><P Class=ENUSCC>야, 위험하잖아
+<SYNC Start=1088747><P Class=ENUSCC>&nbsp;
+<SYNC Start=1090010><P Class=ENUSCC><font color=#ff8080>화룡의 황염
+<SYNC Start=1092599><P Class=ENUSCC>&nbsp;
+<SYNC Start=1096070><P Class=ENUSCC>나츠 씨, 관람차<br>부서지고 있어요
+<SYNC Start=1099240><P Class=ENUSCC>젠장, 어떻게<br>해야 되는 거야
+<SYNC Start=1102480><P Class=ENUSCC>어쨌든 모두<br>여기서 내리죠
+<SYNC Start=1105178><P Class=ENUSCC>이대로라면..
+<SYNC Start=1106180><P Class=ENUSCC>빌어먹을
+<SYNC Start=1107590><P Class=ENUSCC>해피, 네가 모두를<br>아래로 데려가
+<SYNC Start=1110850><P Class=ENUSCC>샤를만 두고 갈 순 없다구
+<SYNC Start=1113770><P Class=ENUSCC>그보다 나 엉망이라<br>혼자서 나는 게 겨우고
+<SYNC Start=1117900><P Class=ENUSCC>정말이지<br>도움 안 된다니까
+<SYNC Start=1121279><P Class=ENUSCC>&nbsp;
+<SYNC Start=1126040><P Class=ENUSCC>얍, 얍!
+<SYNC Start=1127580><P Class=ENUSCC>어쩔 수 없네, 가자
+<SYNC Start=1129556><P Class=ENUSCC>웬디, 붙잡아
+<SYNC Start=1131389><P Class=ENUSCC>&nbsp;
+<SYNC Start=1136657><P Class=ENUSCC>됐다
+<SYNC Start=1137910><P Class=ENUSCC>좋아
+<SYNC Start=1139787><P Class=ENUSCC>&nbsp;
+<SYNC Start=1143170><P Class=ENUSCC>아쿠에리아스 씨
+<SYNC Start=1144780><P Class=ENUSCC>'씨' 는 안 붙여도 돼
+<SYNC Start=1146240><P Class=ENUSCC>이제 그만해요
+<SYNC Start=1148240><P Class=ENUSCC>거기 있으면<br>당신도 위험해요
+<SYNC Start=1150370><P Class=ENUSCC>심심해, 좀 더 놀자
+<SYNC Start=1153910><P Class=ENUSCC>어이, 너<br>진짜 위험하다고
+<SYNC Start=1156545><P Class=ENUSCC>빨리 내려
+<SYNC Start=1158949><P Class=ENUSCC>&nbsp;
+<SYNC Start=1166300><P Class=ENUSCC>좀 더, 좀 더!
+<SYNC Start=1168892><P Class=ENUSCC>&nbsp;
+<SYNC Start=1169180><P Class=ENUSCC>에이, 어쩔 수 없네
+<SYNC Start=1171094><P Class=ENUSCC><font color=#ff8080>화룡의 포효
+<SYNC Start=1173952><P Class=ENUSCC>&nbsp;
+<SYNC Start=1182190><P Class=ENUSCC>지지 않을 거니까
+<SYNC Start=1184890><P Class=ENUSCC>&nbsp;
+<SYNC Start=1191920><P Class=ENUSCC>됐어
+<SYNC Start=1193612><P Class=ENUSCC>&nbsp;
+<SYNC Start=1194403><P Class=ENUSCC>해냈어
+<SYNC Start=1196349><P Class=ENUSCC>&nbsp;
+<SYNC Start=1197860><P Class=ENUSCC>나츠 오빠는 심술쟁이
+<SYNC Start=1201226><P Class=ENUSCC>&nbsp;
+<SYNC Start=1206569><P Class=ENUSCC>거, 거기서 우냐?
+<SYNC Start=1208291><P Class=ENUSCC>네가 울렸네
+<SYNC Start=1209720><P Class=ENUSCC>그런 말 마!
+<SYNC Start=1211808><P Class=ENUSCC>&nbsp;
+<SYNC Start=1215218><P Class=ENUSCC>아쿠에리아스 씨
+<SYNC Start=1216751><P Class=ENUSCC>루시 씨가 늘 무섭다고<br>말씀하시기는 하는데..
+<SYNC Start=1221638><P Class=ENUSCC>&nbsp;
+<SYNC Start=1223540><P Class=ENUSCC>사실은..
+<SYNC Start=1225603><P Class=ENUSCC>&nbsp;
+<SYNC Start=1235970><P Class=ENUSCC>아쿠에리아스 씨
+<SYNC Start=1237520><P Class=ENUSCC>그래도 아직<br>더 놀 거야
+<SYNC Start=1240549><P Class=ENUSCC>&nbsp;
+<SYNC Start=1242820><P Class=ENUSCC>샤를
+<SYNC Start=1244250><P Class=ENUSCC>어이
+<SYNC Start=1245820><P Class=ENUSCC>아쿠에리아스 씨
+<SYNC Start=1248162><P Class=ENUSCC>&nbsp;
+<SYNC Start=1249180><P Class=ENUSCC>구해야 해
+<SYNC Start=1251210><P Class=ENUSCC><font color=#8080ff>천룡의 포효
+<SYNC Start=1255000><P Class=ENUSCC>&nbsp;
+<SYNC Start=1261650><P Class=ENUSCC>아쿠에리아스 씨
+<SYNC Start=1264003><P Class=ENUSCC>&nbsp;
+<SYNC Start=1270640><P Class=ENUSCC>해피
+<SYNC Start=1271790><P Class=ENUSCC>샤를, 다행이야
+<SYNC Start=1274743><P Class=ENUSCC>&nbsp;
+<SYNC Start=1274992><P Class=ENUSCC>야, 너 혼자서 나는 게<br>고작이라고 하지 않았냐
+<SYNC Start=1278770><P Class=ENUSCC>나, 샤를을 위해라면 날아!
+<SYNC Start=1281739><P Class=ENUSCC>고, 고마워
+<SYNC Start=1283659><P Class=ENUSCC>&nbsp;
+<SYNC Start=1283765><P Class=ENUSCC>그건 좀 아니잖아
+<SYNC Start=1287868><P Class=ENUSCC>&nbsp;
+<SYNC Start=1290340><P Class=ENUSCC>뭔가 납득이 안 돼
+<SYNC Start=1294453><P Class=ENUSCC>&nbsp;
+<SYNC Start=1295710><P Class=ENUSCC>우와, 구해준 거구나
+<SYNC Start=1298838><P Class=ENUSCC>고마워
+<SYNC Start=1300140><P Class=ENUSCC>더러워졌네요
+<SYNC Start=1301840><P Class=ENUSCC>아아, 괜찮아<br>즐거웠으니까
+<SYNC Start=1304540><P Class=ENUSCC>다음에는, 좀 더<br>안전한 놀이해요
+<SYNC Start=1308097><P Class=ENUSCC>&nbsp;
+<SYNC Start=1308462><P Class=ENUSCC>오늘 논 거<br>위험했어?
+<SYNC Start=1310530><P Class=ENUSCC>너무 위험했다구요
+<SYNC Start=1312770><P Class=ENUSCC>아쿠에리아스 씨<br>정말로 걱정했으니까요
+<SYNC Start=1316905><P Class=ENUSCC>&nbsp;
+<SYNC Start=1317690><P Class=ENUSCC>고마워, 그래도<br>또 놀아줄 거지?
+<SYNC Start=1320850><P Class=ENUSCC>네, 또 놀아요
+<SYNC Start=1323334><P Class=ENUSCC>&nbsp;
+<SYNC Start=1323920><P Class=ENUSCC>즐거웠어
+<SYNC Start=1325410><P Class=ENUSCC>저도에요
+<SYNC Start=1327103><P Class=ENUSCC>&nbsp;
+<SYNC Start=1328290><P Class=ENUSCC>화해하고 있잖아
+<SYNC Start=1330528><P Class=ENUSCC>&nbsp;
+<SYNC Start=1330650><P Class=ENUSCC>그럼, 슬슬<br>집으로 돌아가볼까요?
+<SYNC Start=1333520><P Class=ENUSCC>응, 또 보자
+<SYNC Start=1335580><P Class=ENUSCC>아이스 맛있었어요
+<SYNC Start=1337895><P Class=ENUSCC>그렇구나<br>그럼, 바이바이!
+<SYNC Start=1342118><P Class=ENUSCC>&nbsp;
+<SYNC Start=1345943><P Class=ENUSCC>뭐, 어떻게든 됐네<br><br><font color=#80ffff>페어리<font color=#ff8080> 테일 <font color=#ffff00>ED 주제가<br><font color=#00ff80>Artist<font color=#ffffff> : <font color=#ff8040>ROOT FIVE<br><font color=#00ff80>Title<font color=#ffffff> : <font color=#ff80ff>"キミノミライ(너의 미래)"
+<SYNC Start=1348130><P Class=ENUSCC>똑바로 하라구, 나츠<br>칠칠치 못하게..!<br><br><font color=#80ffff>페어리<font color=#ff8080> 테일 <font color=#ffff00>ED 주제가<br><font color=#00ff80>Artist<font color=#ffffff> : <font color=#ff8040>ROOT FIVE<br><font color=#00ff80>Title<font color=#ffffff> : <font color=#ff80ff>"キミノミライ(너의 미래)"
+<SYNC Start=1351700><P Class=ENUSCC>네가 그 소릴 하냐!<br><br><font color=#ffff80>Subtitled by 가이안트<br><font color=#ff8080>감상해주셔서 감사합니다^^<br><font color=#80ff00>페어리 테일 17기 ED
+<SYNC Start=1354860><P Class=ENUSCC>&nbsp;
+<SYNC Start=1355204><P Class=ENUSCC><font color=#00ffff>灯せ情熱のBlaze<br><font color=#8080ff>태워라 정열의 불꽃
+<SYNC Start=1358329><P Class=ENUSCC><font color=#00ffff>君だけのSpell<br><font color=#8080ff>너만의 주문
+<SYNC Start=1360839><P Class=ENUSCC><font color=#00ffff>予定調和のシナリオなら<br><font color=#8080ff>예정 조화의 각본이라면
+<SYNC Start=1363823><P Class=ENUSCC><font color=#00ffff>燃やして飲み込んじゃって<br><font color=#8080ff>불태워 집어삼켜버려
+<SYNC Start=1366022><P Class=ENUSCC><font color=#00ffff>オリジナルのプレーズで<br><font color=#8080ff>오리지널의 프레이즈로
+<SYNC Start=1368933><P Class=ENUSCC><font color=#00ffff>どこまでも続いてくWay<br><font color=#8080ff>어디까지나 계속되는 길
+<SYNC Start=1371449><P Class=ENUSCC><font color=#00ffff>いつまでも続いてくDays<br><font color=#8080ff>언제까지나 계속되는 나날들
+<SYNC Start=1374211><P Class=ENUSCC><font color=#00ffff>このままじゃ終わない Yeah yeah<br><font color=#8080ff>이대로라면 끝낼 수 없어 Yeah yeah
+<SYNC Start=1378553><P Class=ENUSCC><font color=#00ffff>一人ぼっちなんてきっと<br><font color=#8080ff>외톨이라니 분명
+<SYNC Start=1384029><P Class=ENUSCC><font color=#00ffff>この世界にありはしないよ<br><font color=#8080ff>이 세상엔 존재하지 않아
+<SYNC Start=1389414><P Class=ENUSCC><font color=#00ffff>僕が君を 君が僕を<br><font color=#8080ff>내가 너를 네가 나를
+<SYNC Start=1394739><P Class=ENUSCC><font color=#00ffff>見つけだしたその日から<br><font color=#8080ff>발견해낸 그 날부터
+<SYNC Start=1400152><P Class=ENUSCC><font color=#00ffff>おわりよりも続き探そう<br><font color=#8080ff>마지막보다는 이어짐을 찾자
+<SYNC Start=1405572><P Class=ENUSCC><font color=#00ffff>だれも知らないような<br><font color=#8080ff>누구도 모를만한
+<SYNC Start=1410620><P Class=ENUSCC><font color=#00ffff>灯せ情熱のBlaze<br><font color=#8080ff>태워라 정열의 불꽃
+<SYNC Start=1413529><P Class=ENUSCC><font color=#00ffff>君だけのSpell<br><font color=#8080ff>너만의 주문
+<SYNC Start=1416180><P Class=ENUSCC><font color=#00ffff>予定調和のシナリオなら<br><font color=#8080ff>예정 조화의 각본이라면
+<SYNC Start=1419126><P Class=ENUSCC><font color=#00ffff>燃やして飲み込んじゃって<br><font color=#8080ff>불태워 집어삼켜버려
+<SYNC Start=1421325><P Class=ENUSCC><font color=#00ffff>全力で Raise Your Hands<br><font color=#8080ff>힘껏 손을 치켜들어봐
+<SYNC Start=1424278><P Class=ENUSCC><font color=#00ffff>どこに居ても<br><font color=#8080ff>어디에 있어도
+<SYNC Start=1426762><P Class=ENUSCC><font color=#00ffff>見えるように届くように<br><font color=#8080ff>볼 수 있게 닿을 수 있게
+<SYNC Start=1429905><P Class=ENUSCC><font color=#00ffff>刻んでいく証明を<br><font color=#8080ff>증명을 각인해가
+<SYNC Start=1432183><P Class=ENUSCC><font color=#00ffff>オリジナルのプレーズで<br><font color=#8080ff>오리지널의 프레이즈로
+<SYNC Start=1434818><P Class=ENUSCC><font color=#00ffff>どこまでも続いてくWay<br><font color=#8080ff>어디까지나 계속되는 길
+<SYNC Start=1437763><P Class=ENUSCC><font color=#00ffff>いつまでも続いてくDays<br><font color=#8080ff>언제까지나 계속되는 나날들
+<SYNC Start=1440416><P Class=ENUSCC><font color=#00ffff>このままじゃ終わない Yeah yeah<br><font color=#8080ff>이대로라면 끝낼 수 없어 Yeah yeah
+<SYNC Start=1444854><P Class=ENUSCC>&nbsp;
+<SYNC Start=1446219><P Class=ENUSCC>스탠바이 시퀀스<br>요정의 턴
+<SYNC Start=1449720><P Class=ENUSCC>해, 해피<br>갑자기 뭔 소리야?
+<SYNC Start=1451790><P Class=ENUSCC>모르는 거야?<br>지금 한창인 카드 배틀이야
+<SYNC Start=1454670><P Class=ENUSCC>오오, 재밌어 보이네<br>어떻게 하는 건데?
+<SYNC Start=1457120><P Class=ENUSCC>나츠, 무슨 소리야<br>카드 배틀에 룰 같은 건 없어
+<SYNC Start=1461053><P Class=ENUSCC>엥, 뭐야 그게?
+<SYNC Start=1462061><P Class=ENUSCC>플레이 스타일은<br>스스로 찾아내야지!
+<SYNC Start=1464983><P Class=ENUSCC>그런 관계로 턴 앤드
+<SYNC Start=1466670><P Class=ENUSCC><font color=#80ffff>Episode 35<br><font color=#00ff00>길드덱 vs 성령덱
+<SYNC Start=1470080><P Class=ENUSCC>길드 배틀, 스탠바이!
+<SYNC Start=1471690><P Class=ENUSCC>그러니까<br>어떻게 하냐고!
+<SYNC Start=1474854><P Class=ENUSCC>&nbsp;
+</BODY>
+</SAMI>

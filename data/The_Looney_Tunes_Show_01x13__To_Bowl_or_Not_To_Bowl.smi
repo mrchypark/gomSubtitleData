@@ -1,0 +1,629 @@
+<SAMI>
+<HEAD>
+<TITLE>The Looney Tunes Show 01x13 - To Bowl or Not To Bowl</TITLE>
+<SAMIParam>
+  Metrics {time:ms;}
+  Spec {MSFT:1.0;}
+</SAMIParam>
+<STYLE TYPE="text/css">
+<!--
+  P { font-family: Arial; font-weight: normal; color: white; background-color: black; text-align: center; }
+  .ENUSCC { name: English; lang: en-US ; SAMIType: CC ; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<-- Open play menu, choose Captions and Subtiles, On if available -->
+<-- Open tools menu, Security, Show local captions when present -->
+<SYNC Start=13590><P Class=ENUSCC>지금 너 포어가 몇 개 들어갔지?
+<SYNC Start=15991><P Class=ENUSCC>&nbsp;
+<SYNC Start=16059><P Class=ENUSCC>대피,이건 체스야
+<SYNC Start=17627><P Class=ENUSCC>&nbsp;
+<SYNC Start=22577><P Class=ENUSCC>식량창고에서 촛대 들고 있는<br>스노우 대령이야?
+<SYNC Start=27290><P Class=ENUSCC>&nbsp;
+<SYNC Start=27358><P Class=ENUSCC>너 체스 두는 법 몰라?
+<SYNC Start=28746><P Class=ENUSCC>&nbsp;
+<SYNC Start=29287><P Class=ENUSCC>모를 리가 있어?
+<SYNC Start=30796><P Class=ENUSCC>&nbsp;
+<SYNC Start=33158><P Class=ENUSCC>진!
+<SYNC Start=33511><P Class=ENUSCC>&nbsp;
+<SYNC Start=49970><P Class=ENUSCC><font color="#ffff00">자막:태즈</font>
+<SYNC Start=51515><P Class=ENUSCC>&nbsp;
+<SYNC Start=59691><P Class=ENUSCC>체크
+<SYNC Start=60030><P Class=ENUSCC>&nbsp;
+<SYNC Start=61361><P Class=ENUSCC>저거 봐!
+<SYNC Start=62174><P Class=ENUSCC>싫어
+<SYNC Start=62743><P Class=ENUSCC>&nbsp;
+<SYNC Start=63058><P Class=ENUSCC>저것 좀 보라니까!
+<SYNC Start=64147><P Class=ENUSCC>&nbsp;
+<SYNC Start=64647><P Class=ENUSCC>내가 돌아보면 책상 뒤집은 다음에<br>지진 났다고 말할 거잖아
+<SYNC Start=68137><P Class=ENUSCC>&nbsp;
+<SYNC Start=68492><P Class=ENUSCC>안 그럴게,절대로
+<SYNC Start=70735><P Class=ENUSCC>&nbsp;
+<SYNC Start=70771><P Class=ENUSCC>잠깐 저것 좀 봐 줄래?
+<SYNC Start=71732><P Class=ENUSCC>부탁할게
+<SYNC Start=72999><P Class=ENUSCC>&nbsp;
+<SYNC Start=75477><P Class=ENUSCC>지진이다!
+<SYNC Start=75962><P Class=ENUSCC>&nbsp;
+<SYNC Start=78147><P Class=ENUSCC>이번엔 큰 녀석이었어
+<SYNC Start=79264><P Class=ENUSCC>&nbsp;
+<SYNC Start=81352><P Class=ENUSCC>이제 슬슬 가야겠다
+<SYNC Start=82435><P Class=ENUSCC>&nbsp;
+<SYNC Start=82674><P Class=ENUSCC>노래 수업에 늦으면 안되니까
+<SYNC Start=84729><P Class=ENUSCC>그건 목요일 밤에만 가는 거잖아
+<SYNC Start=86350><P Class=ENUSCC>&nbsp;
+<SYNC Start=86604><P Class=ENUSCC>게다가 너 노래하는 거<br>본 적이 없어
+<SYNC Start=87847><P Class=ENUSCC>&nbsp;
+<SYNC Start=88300><P Class=ENUSCC>랄랄랄랄라
+<SYNC Start=90135><P Class=ENUSCC>&nbsp;
+<SYNC Start=90386><P Class=ENUSCC>미미미미미
+<SYNC Start=91792><P Class=ENUSCC>&nbsp;
+<SYNC Start=92322><P Class=ENUSCC>라라라라리
+<SYNC Start=93738><P Class=ENUSCC>&nbsp;
+<SYNC Start=94666><P Class=ENUSCC>여기는 음향시설이 안 좋아
+<SYNC Start=96557><P Class=ENUSCC>&nbsp;
+<SYNC Start=100500><P Class=ENUSCC>오늘도 재밌게 해볼까!
+<SYNC Start=102121><P Class=ENUSCC>&nbsp;
+<SYNC Start=102673><P Class=ENUSCC>버,벅스가 볼링하러<br>오,오지 못하다니 아쉽다
+<SYNC Start=105517><P Class=ENUSCC>&nbsp;
+<SYNC Start=106106><P Class=ENUSCC>그러게,그런데 노래수업<br>받아야 한다잖아
+<SYNC Start=109087><P Class=ENUSCC>&nbsp;
+<SYNC Start=109882><P Class=ENUSCC>이,이상해<br>노래하는거 보,본적이 없는데
+<SYNC Start=112953><P Class=ENUSCC>&nbsp;
+<SYNC Start=119042><P Class=ENUSCC>헤어네트하니까 좋네요,팸
+<SYNC Start=120052><P Class=ENUSCC>&nbsp;
+<SYNC Start=120369><P Class=ENUSCC>커다란 이마가 돋보여요
+<SYNC Start=122046><P Class=ENUSCC>&nbsp;
+<SYNC Start=126280><P Class=ENUSCC>어이,대피!
+<SYNC Start=126692><P Class=ENUSCC>&nbsp;
+<SYNC Start=127264><P Class=ENUSCC>- 저기 가네<br>- 헤이!
+<SYNC Start=128799><P Class=ENUSCC>&nbsp;
+<SYNC Start=131019><P Class=ENUSCC>헤이!
+<SYNC Start=131543><P Class=ENUSCC>&nbsp;
+<SYNC Start=141351><P Class=ENUSCC>너희들 이것 좀<br>먹으면서 하는게 좋겠어
+<SYNC Start=143353><P Class=ENUSCC>&nbsp;
+<SYNC Start=143552><P Class=ENUSCC>내 진심을 담은 서비스야
+<SYNC Start=145499><P Class=ENUSCC>이렇게 우릴 챙겨주다니!
+<SYNC Start=146559><P Class=ENUSCC>&nbsp;
+<SYNC Start=146664><P Class=ENUSCC>고,고마워,대피!
+<SYNC Start=147781><P Class=ENUSCC>&nbsp;
+<SYNC Start=148159><P Class=ENUSCC>네 지갑에서 20불 썼어
+<SYNC Start=149427><P Class=ENUSCC>&nbsp;
+<SYNC Start=149832><P Class=ENUSCC>대피,넌 최고야!
+<SYNC Start=151944><P Class=ENUSCC>너같이 관대한<br>팀 대장은 없을거야
+<SYNC Start=155155><P Class=ENUSCC>&nbsp;
+<SYNC Start=155581><P Class=ENUSCC>원한다면 더 사줄 수 있어
+<SYNC Start=157505><P Class=ENUSCC>&nbsp;
+<SYNC Start=157928><P Class=ENUSCC>더 사줄 수 있는거 맞지?
+<SYNC Start=159363><P Class=ENUSCC>&nbsp;
+<SYNC Start=160753><P Class=ENUSCC>이제 시작해볼까?
+<SYNC Start=162832><P Class=ENUSCC>&nbsp;
+<SYNC Start=162900><P Class=ENUSCC>이번 주 너희들 모두의<br>닉네임을 정할 차례가 왔어!
+<SYNC Start=166209><P Class=ENUSCC>&nbsp;
+<SYNC Start=166468><P Class=ENUSCC>우와!<br>엄청 기대된다!
+<SYNC Start=169000><P Class=ENUSCC>&nbsp;
+<SYNC Start=169273><P Class=ENUSCC>포키,오늘 밤의 네 닉네임은..
+<SYNC Start=171818><P Class=ENUSCC>&nbsp;
+<SYNC Start=172609><P Class=ENUSCC>"더 포키네이터"!
+<SYNC Start=173343><P Class=ENUSCC>&nbsp;
+<SYNC Start=174786><P Class=ENUSCC>"더"
+<SYNC Start=176196><P Class=ENUSCC>&nbsp;
+<SYNC Start=177179><P Class=ENUSCC>피트,네 닉네임은..<br>"더 피티네이터"!
+<SYNC Start=180032><P Class=ENUSCC>&nbsp;
+<SYNC Start=180988><P Class=ENUSCC>"더"
+<SYNC Start=182336><P Class=ENUSCC>&nbsp;
+<SYNC Start=182527><P Class=ENUSCC>이 닉네임 너무 좋다!
+<SYNC Start=184422><P Class=ENUSCC>&nbsp;
+<SYNC Start=184490><P Class=ENUSCC>-저기,대,대피?<br>-가만있어봐
+<SYNC Start=186071><P Class=ENUSCC>&nbsp;
+<SYNC Start=186459><P Class=ENUSCC>마빈,네 닉네임은..
+<SYNC Start=188527><P Class=ENUSCC>&nbsp;
+<SYNC Start=188864><P Class=ENUSCC>"더 마비네이터"?
+<SYNC Start=190369><P Class=ENUSCC>&nbsp;
+<SYNC Start=190736><P Class=ENUSCC>아니,그거 말고..
+<SYNC Start=193041><P Class=ENUSCC>&nbsp;
+<SYNC Start=193567><P Class=ENUSCC>그래,그럼"더 마비네이터"!
+<SYNC Start=195632><P Class=ENUSCC>"더"
+<SYNC Start=196632><P Class=ENUSCC>&nbsp;
+<SYNC Start=197071><P Class=ENUSCC>대,대피?
+<SYNC Start=197469><P Class=ENUSCC>&nbsp;
+<SYNC Start=197647><P Class=ENUSCC>가만 있으랬잖아,<br>더 포키네이터
+<SYNC Start=200173><P Class=ENUSCC>&nbsp;
+<SYNC Start=200241><P Class=ENUSCC>마지막으로,내가 이 팀의 대장이니까
+<SYNC Start=202994><P Class=ENUSCC>&nbsp;
+<SYNC Start=203244><P Class=ENUSCC>내 닉네임은 "더 그랜드 푸바"!
+<SYNC Start=206526><P Class=ENUSCC>잠깐만,그거 말고
+<SYNC Start=208759><P Class=ENUSCC>"푸바 더 그랜드"!
+<SYNC Start=210987><P Class=ENUSCC>&nbsp;
+<SYNC Start=211410><P Class=ENUSCC>"푸"
+<SYNC Start=213519><P Class=ENUSCC>&nbsp;
+<SYNC Start=213587><P Class=ENUSCC>포키,마음이 바뀌었어<br>네가 플레이어4 해
+<SYNC Start=215959><P Class=ENUSCC>&nbsp;
+<SYNC Start=216900><P Class=ENUSCC>그럼 시작하자!
+<SYNC Start=218163><P Class=ENUSCC>&nbsp;
+<SYNC Start=221364><P Class=ENUSCC>알겠어,팀?
+<SYNC Start=222698><P Class=ENUSCC>&nbsp;
+<SYNC Start=222713><P Class=ENUSCC>올해 대회에서 우승하려면
+<SYNC Start=224996><P Class=ENUSCC>&nbsp;
+<SYNC Start=225064><P Class=ENUSCC>지금 하고 있는 거에서<br>진도를 더 나가야 해
+<SYNC Start=227932><P Class=ENUSCC>&nbsp;
+<SYNC Start=234372><P Class=ENUSCC>바로 이렇게 하는 거야!
+<SYNC Start=236774><P Class=ENUSCC>&nbsp;
+<SYNC Start=236841><P Class=ENUSCC>- 우와!<br>- 스코어!
+<SYNC Start=238142><P Class=ENUSCC>&nbsp;
+<SYNC Start=238210><P Class=ENUSCC>- 좋아!<br>- 굉장해,대피!
+<SYNC Start=240411><P Class=ENUSCC>&nbsp;
+<SYNC Start=241880><P Class=ENUSCC>이거,이거<br>대피 덕 아니야?
+<SYNC Start=244048><P Class=ENUSCC>&nbsp;
+<SYNC Start=247719><P Class=ENUSCC>아니면 찌질이 덕이라고 해야 하나?
+<SYNC Start=250487><P Class=ENUSCC>&nbsp;
+<SYNC Start=252324><P Class=ENUSCC>마음 껏 웃어,테리
+<SYNC Start=253492><P Class=ENUSCC>&nbsp;
+<SYNC Start=253592><P Class=ENUSCC>우리가 이번 대회에서 우승해서<br>질질 짜게 해 줄테니까
+<SYNC Start=257000><P Class=ENUSCC>&nbsp;
+<SYNC Start=257100><P Class=ENUSCC>과연 그렇게 될까?
+<SYNC Start=257880><P Class=ENUSCC>&nbsp;
+<SYNC Start=258528><P Class=ENUSCC>올해는 우리들의 해야
+<SYNC Start=259802><P Class=ENUSCC>&nbsp;
+<SYNC Start=262466><P Class=ENUSCC>너희들의 해 따윈 없어,테리
+<SYNC Start=264767><P Class=ENUSCC>&nbsp;
+<SYNC Start=264835><P Class=ENUSCC>네 차례야,푸
+<SYNC Start=266335><P Class=ENUSCC>&nbsp;
+<SYNC Start=288304><P Class=ENUSCC>잘 했어,푸
+<SYNC Start=288510><P Class=ENUSCC>&nbsp;
+<SYNC Start=288900><P Class=ENUSCC>대피?
+<SYNC Start=289426><P Class=ENUSCC>&nbsp;
+<SYNC Start=289500><P Class=ENUSCC>벅스?!
+<SYNC Start=290027><P Class=ENUSCC>&nbsp;
+<SYNC Start=290816><P Class=ENUSCC>너 여기서 뭐 해?
+<SYNC Start=291964><P Class=ENUSCC>&nbsp;
+<SYNC Start=291996><P Class=ENUSCC>노래 레슨 받으러 간 거 아니었어?
+<SYNC Start=293530><P Class=ENUSCC>&nbsp;
+<SYNC Start=294240><P Class=ENUSCC>그게,오늘 졸업했어
+<SYNC Start=295064><P Class=ENUSCC>&nbsp;
+<SYNC Start=295132><P Class=ENUSCC>선생이 나보고 천사의<br>목소리를 타고났대
+<SYNC Start=296800><P Class=ENUSCC>&nbsp;
+<SYNC Start=297557><P Class=ENUSCC>버,벅스?
+<SYNC Start=298133><P Class=ENUSCC>&nbsp;
+<SYNC Start=298202><P Class=ENUSCC>너,너 오늘 노래 레슨 받으러 간 거..
+<SYNC Start=300270><P Class=ENUSCC>&nbsp;
+<SYNC Start=301124><P Class=ENUSCC>여기서 뭐 하는 거야?
+<SYNC Start=302071><P Class=ENUSCC>&nbsp;
+<SYNC Start=302800><P Class=ENUSCC>어차피 집에 가도 할 일이 없으니까..
+<SYNC Start=303972><P Class=ENUSCC>&nbsp;
+<SYNC Start=304041><P Class=ENUSCC>무슨 일이야?
+<SYNC Start=306042><P Class=ENUSCC>&nbsp;
+<SYNC Start=306713><P Class=ENUSCC>이 둘한테 각자 다른 거짓말 했는데
+<SYNC Start=307976><P Class=ENUSCC>&nbsp;
+<SYNC Start=308045><P Class=ENUSCC>그게 지금..
+<SYNC Start=309145><P Class=ENUSCC>&nbsp;
+<SYNC Start=309212><P Class=ENUSCC>그,그러니까 다시 말하자면
+<SYNC Start=310446><P Class=ENUSCC>&nbsp;
+<SYNC Start=310514><P Class=ENUSCC>너,넌 노래 레슨 받으러 간 게 아니라..
+<SYNC Start=312715><P Class=ENUSCC>&nbsp;
+<SYNC Start=313628><P Class=ENUSCC>맞아
+<SYNC Start=314435><P Class=ENUSCC>대피는 나한테 자기가 노래 레슨..
+<SYNC Start=316790><P Class=ENUSCC>&nbsp;
+<SYNC Start=317434><P Class=ENUSCC>그러니까 대피는 계속 벅스한테<br>노래 레슨 받는다고 말해서
+<SYNC Start=320547><P Class=ENUSCC>볼링장 못 오도록..
+<SYNC Start=322558><P Class=ENUSCC>&nbsp;
+<SYNC Start=325060><P Class=ENUSCC>누가 노래 좀 불러줘!
+<SYNC Start=327063><P Class=ENUSCC>&nbsp;
+<SYNC Start=331116><P Class=ENUSCC>좋은 노래다!
+<SYNC Start=332635><P Class=ENUSCC>&nbsp;
+<SYNC Start=345734><P Class=ENUSCC>좋았어,벅스!
+<SYNC Start=347434><P Class=ENUSCC>&nbsp;
+<SYNC Start=347502><P Class=ENUSCC>잘했어,벅스!<br>굉장해!
+<SYNC Start=349202><P Class=ENUSCC>&nbsp;
+<SYNC Start=349270><P Class=ENUSCC>대피보다 잘하네!
+<SYNC Start=351471><P Class=ENUSCC>&nbsp;
+<SYNC Start=351539><P Class=ENUSCC>벅스,당장 내 사무실로 와!
+<SYNC Start=354022><P Class=ENUSCC>&nbsp;
+<SYNC Start=355210><P Class=ENUSCC>여기가 사무실?
+<SYNC Start=356276><P Class=ENUSCC>&nbsp;
+<SYNC Start=356792><P Class=ENUSCC>그래서 언제 말할 거지?
+<SYNC Start=358612><P Class=ENUSCC>&nbsp;
+<SYNC Start=358680><P Class=ENUSCC>무슨 말?
+<SYNC Start=359780><P Class=ENUSCC>&nbsp;
+<SYNC Start=359848><P Class=ENUSCC>사과의 말
+<SYNC Start=361348><P Class=ENUSCC>&nbsp;
+<SYNC Start=361416><P Class=ENUSCC>뭐?먼저 거짓말 한 건 너야!
+<SYNC Start=363117><P Class=ENUSCC>&nbsp;
+<SYNC Start=363185><P Class=ENUSCC>어째서 내가 너한테 사과해야 하는데?
+<SYNC Start=364919><P Class=ENUSCC>&nbsp;
+<SYNC Start=365503><P Class=ENUSCC>모르겠어?
+<SYNC Start=366586><P Class=ENUSCC>&nbsp;
+<SYNC Start=366655><P Class=ENUSCC>난 이제야 겨우 같이 다닐<br>친구들이 생겼고
+<SYNC Start=369257><P Class=ENUSCC>&nbsp;
+<SYNC Start=369324><P Class=ENUSCC>그 중에서 내가 쿨가이였는데<br>네가 그걸 망치고 있어
+<SYNC Start=373299><P Class=ENUSCC>&nbsp;
+<SYNC Start=373462><P Class=ENUSCC>대피
+<SYNC Start=374663><P Class=ENUSCC>&nbsp;
+<SYNC Start=374731><P Class=ENUSCC>왠지는 몰라도 모두들<br>네가 나보다 똑똑하고
+<SYNC Start=377266><P Class=ENUSCC>&nbsp;
+<SYNC Start=377333><P Class=ENUSCC>나보다 재능도 있고
+<SYNC Start=379201><P Class=ENUSCC>&nbsp;
+<SYNC Start=379269><P Class=ENUSCC>그리고 나보다 잘생겼다고 생각해
+<SYNC Start=382204><P Class=ENUSCC>&nbsp;
+<SYNC Start=382994><P Class=ENUSCC>난 별로 그렇게 생각 안 하지만
+<SYNC Start=384507><P Class=ENUSCC>&nbsp;
+<SYNC Start=384575><P Class=ENUSCC>하지만 내가 이 멍청이들이랑<br>어울릴 때 만큼은 내가 최고야
+<SYNC Start=388987><P Class=ENUSCC>&nbsp;
+<SYNC Start=389479><P Class=ENUSCC>난 이제서야 내가 있기<br>편안한 곳을 찾았어
+<SYNC Start=392373><P Class=ENUSCC>&nbsp;
+<SYNC Start=392818><P Class=ENUSCC>그곳이 바로 여기야
+<SYNC Start=395321><P Class=ENUSCC>&nbsp;
+<SYNC Start=401624><P Class=ENUSCC>그 녀석들이 나보다<br>널 더 좋아하게 되는 게 난 참을 수가 없어!
+<SYNC Start=405659><P Class=ENUSCC>&nbsp;
+<SYNC Start=406344><P Class=ENUSCC>그건 어디까지나 네 생각이지
+<SYNC Start=408486><P Class=ENUSCC>&nbsp;
+<SYNC Start=408697><P Class=ENUSCC>- 벅스!<br>- 벅스!
+<SYNC Start=410796><P Class=ENUSCC>&nbsp;
+<SYNC Start=410900><P Class=ENUSCC>알았어,그럼 가라데 수업받으러 갔다고 말해줘
+<SYNC Start=414770><P Class=ENUSCC>&nbsp;
+<SYNC Start=414837><P Class=ENUSCC>버,벅스는?
+<SYNC Start=416081><P Class=ENUSCC>&nbsp;
+<SYNC Start=416306><P Class=ENUSCC>현대무용 수업하러 가야된대
+<SYNC Start=418274><P Class=ENUSCC>&nbsp;
+<SYNC Start=419710><P Class=ENUSCC>하지만 너희들을 위해서 나초 사왔어!
+<SYNC Start=421811><P Class=ENUSCC>&nbsp;
+<SYNC Start=421879><P Class=ENUSCC>- 만세!<br>- 좋았어!
+<SYNC Start=423713><P Class=ENUSCC>&nbsp;
+<SYNC Start=424228><P Class=ENUSCC>지갑 받아,포키
+<SYNC Start=425748><P Class=ENUSCC>&nbsp;
+<SYNC Start=430188><P Class=ENUSCC>잘하는데?
+<SYNC Start=432189><P Class=ENUSCC>&nbsp;
+<SYNC Start=432615><P Class=ENUSCC>이 녀석은 이번에<br>내 팀에 새로 들어왔어
+<SYNC Start=435091><P Class=ENUSCC>&nbsp;
+<SYNC Start=442767><P Class=ENUSCC>아까 우리의 해 따윈 없다고 했지?
+<SYNC Start=446070><P Class=ENUSCC>&nbsp;
+<SYNC Start=447639><P Class=ENUSCC>대회에서 보자
+<SYNC Start=450274><P Class=ENUSCC>&nbsp;
+<SYNC Start=454812><P Class=ENUSCC>저,저렇게 볼링 자,잘 하는 사람 처음봤어
+<SYNC Start=458014><P Class=ENUSCC>&nbsp;
+<SYNC Start=458082><P Class=ENUSCC>무슨 수로 대회에서 이기지?
+<SYNC Start=460349><P Class=ENUSCC>&nbsp;
+<SYNC Start=467023><P Class=ENUSCC>무슨 수로 이기냐고?
+<SYNC Start=468590><P Class=ENUSCC>&nbsp;
+<SYNC Start=468657><P Class=ENUSCC>우리는 이제부터 그 누구보다도<br>열심히 훈련할거야
+<SYNC Start=473077><P Class=ENUSCC>&nbsp;
+<SYNC Start=473562><P Class=ENUSCC>이 주차장에서 내일 오전7시에 집합한다!
+<SYNC Start=477899><P Class=ENUSCC>&nbsp;
+<SYNC Start=482204><P Class=ENUSCC>빨리 와,포키<br>운전해야지
+<SYNC Start=484592><P Class=ENUSCC>&nbsp;
+<SYNC Start=497220><P Class=ENUSCC>지,지금 11시 반이야
+<SYNC Start=498787><P Class=ENUSCC>&nbsp;
+<SYNC Start=498855><P Class=ENUSCC>그런데 넌 7시 만나자고 했어
+<SYNC Start=502091><P Class=ENUSCC>&nbsp;
+<SYNC Start=502159><P Class=ENUSCC>훈련은 7시에 이미 시작했어
+<SYNC Start=505062><P Class=ENUSCC>&nbsp;
+<SYNC Start=505129><P Class=ENUSCC>1단계인 인내심 훈련이지
+<SYNC Start=508132><P Class=ENUSCC>&nbsp;
+<SYNC Start=508200><P Class=ENUSCC>너희 둘은 아주 잘 했어
+<SYNC Start=510201><P Class=ENUSCC>&nbsp;
+<SYNC Start=510268><P Class=ENUSCC>포키는 좀 더 노력하도록 해
+<SYNC Start=513037><P Class=ENUSCC>&nbsp;
+<SYNC Start=513104><P Class=ENUSCC>참고로 볼링장은 12시에 열어
+<SYNC Start=515305><P Class=ENUSCC>&nbsp;
+<SYNC Start=515373><P Class=ENUSCC>그럼 30분 뒤에 보자!
+<SYNC Start=517287><P Class=ENUSCC>&nbsp;
+<SYNC Start=517909><P Class=ENUSCC>- 안녕!<br>- 나중에 봐!
+<SYNC Start=519577><P Class=ENUSCC>&nbsp;
+<SYNC Start=520311><P Class=ENUSCC>볼링공이란
+<SYNC Start=521678><P Class=ENUSCC>&nbsp;
+<SYNC Start=521747><P Class=ENUSCC>사전에는 볼링에 쓰이는 공이라고 정의되어있지
+<SYNC Start=526350><P Class=ENUSCC>&nbsp;
+<SYNC Start=526418><P Class=ENUSCC>그렇기 때문에 사전은 멍청한거야
+<SYNC Start=530721><P Class=ENUSCC>&nbsp;
+<SYNC Start=530789><P Class=ENUSCC>왜냐하면 진정으로 볼링공을 이해하기 위해서는
+<SYNC Start=534759><P Class=ENUSCC>&nbsp;
+<SYNC Start=534827><P Class=ENUSCC>먼저 스스로가 볼링공이 될 필요가 있어
+<SYNC Start=538730><P Class=ENUSCC>&nbsp;
+<SYNC Start=539907><P Class=ENUSCC>이,이거 위험한 거 아니야?
+<SYNC Start=541934><P Class=ENUSCC>&nbsp;
+<SYNC Start=542001><P Class=ENUSCC>볼링공은 말하지 않아
+<SYNC Start=543869><P Class=ENUSCC>&nbsp;
+<SYNC Start=548775><P Class=ENUSCC>스트라이크!
+<SYNC Start=550008><P Class=ENUSCC>&nbsp;
+<SYNC Start=550076><P Class=ENUSCC>좋았어!
+<SYNC Start=550867><P Class=ENUSCC>&nbsp;
+<SYNC Start=551143><P Class=ENUSCC>내 방법에는 질문의 여지가 있어도
+<SYNC Start=552260><P Class=ENUSCC>&nbsp;
+<SYNC Start=552996><P Class=ENUSCC>결과에는 질문의 여지가 없지
+<SYNC Start=555547><P Class=ENUSCC>&nbsp;
+<SYNC Start=555614><P Class=ENUSCC>안 그래,포키?
+<SYNC Start=557782><P Class=ENUSCC>&nbsp;
+<SYNC Start=561472><P Class=ENUSCC>포키!혹시라도 내 말이 들린다면
+<SYNC Start=563442><P Class=ENUSCC>&nbsp;
+<SYNC Start=563951><P Class=ENUSCC>너한텐 그 아무것도 바라지<br>않는다고 말하고 싶어
+<SYNC Start=566347><P Class=ENUSCC>&nbsp;
+<SYNC Start=566358><P Class=ENUSCC>자,잘 들려
+<SYNC Start=567825><P Class=ENUSCC>&nbsp;
+<SYNC Start=567893><P Class=ENUSCC>하지만 대회에 나가려면 한 팀당 4명이 필요해
+<SYNC Start=572355><P Class=ENUSCC>&nbsp;
+<SYNC Start=572832><P Class=ENUSCC>자,잘 들린다고 했잖아
+<SYNC Start=574399><P Class=ENUSCC>&nbsp;
+<SYNC Start=574467><P Class=ENUSCC>네 목소리 저 복도까지 다 들리더라
+<SYNC Start=577036><P Class=ENUSCC>&nbsp;
+<SYNC Start=577103><P Class=ENUSCC>그러니 너에게 작은 부탁을 하나 할게
+<SYNC Start=582242><P Class=ENUSCC>&nbsp;
+<SYNC Start=582310><P Class=ENUSCC>침대에서 일어나서 붕대를 풀어
+<SYNC Start=586613><P Class=ENUSCC>&nbsp;
+<SYNC Start=586681><P Class=ENUSCC>팔과 다리와 머리를 감싼 붕대를 풀라고
+<SYNC Start=592661><P Class=ENUSCC>&nbsp;
+<SYNC Start=593087><P Class=ENUSCC>그것 뿐이야
+<SYNC Start=596656><P Class=ENUSCC>&nbsp;
+<SYNC Start=596723><P Class=ENUSCC>그,그냥 벅스 보고 대회 나가라고 하면 안돼?
+<SYNC Start=600128><P Class=ENUSCC>&nbsp;
+<SYNC Start=600327><P Class=ENUSCC>벅스는 우리 중에서<br>볼링을 가장 잘 해!
+<SYNC Start=602427><P Class=ENUSCC>&nbsp;
+<SYNC Start=602495><P Class=ENUSCC>그래!
+<SYNC Start=603619><P Class=ENUSCC>&nbsp;
+<SYNC Start=603696><P Class=ENUSCC>그것 참 좋은 생각이야!
+<SYNC Start=605730><P Class=ENUSCC>&nbsp;
+<SYNC Start=609735><P Class=ENUSCC>나는 벅스를 질투하고 있고<br>테리를 싫어하지
+<SYNC Start=614372><P Class=ENUSCC>&nbsp;
+<SYNC Start=614440><P Class=ENUSCC>질투냐,증오냐?
+<SYNC Start=617009><P Class=ENUSCC>&nbsp;
+<SYNC Start=617076><P Class=ENUSCC>마치 두 아이 중 하나를 고르라는 것 같아
+<SYNC Start=622016><P Class=ENUSCC>&nbsp;
+<SYNC Start=622383><P Class=ENUSCC>증오다!<br>의외로 엄청 쉽네
+<SYNC Start=624684><P Class=ENUSCC>&nbsp;
+<SYNC Start=624752><P Class=ENUSCC>벅스,볼링 하고싶어?
+<SYNC Start=626052><P Class=ENUSCC>&nbsp;
+<SYNC Start=626120><P Class=ENUSCC>물론
+<SYNC Start=627120><P Class=ENUSCC>&nbsp;
+<SYNC Start=627188><P Class=ENUSCC>- 예이!<br>- 만세!
+<SYNC Start=628288><P Class=ENUSCC>&nbsp;
+<SYNC Start=628356><P Class=ENUSCC>그렇다면 푸를 위해서 이기자!
+<SYNC Start=632058><P Class=ENUSCC>&nbsp;
+<SYNC Start=632126><P Class=ENUSCC>- 좋았어!<br>- 해보자고!
+<SYNC Start=634428><P Class=ENUSCC>&nbsp;
+<SYNC Start=636464><P Class=ENUSCC>어차피 병원에 있으니까<br>지갑은 필요없지?
+<SYNC Start=639142><P Class=ENUSCC>&nbsp;
+<SYNC Start=642797><P Class=ENUSCC>메리 멜로디즈
+<SYNC Start=645028><P Class=ENUSCC>&nbsp;
+<SYNC Start=645418><P Class=ENUSCC>"노란 새"
+<SYNC Start=647076><P Class=ENUSCC>&nbsp;
+<SYNC Start=655183><P Class=ENUSCC>노란 새
+<SYNC Start=657151><P Class=ENUSCC>&nbsp;
+<SYNC Start=657218><P Class=ENUSCC>바나나 나무 위에 있네
+<SYNC Start=659653><P Class=ENUSCC>&nbsp;
+<SYNC Start=659721><P Class=ENUSCC>노란 새
+<SYNC Start=661722><P Class=ENUSCC>&nbsp;
+<SYNC Start=661790><P Class=ENUSCC>나처럼 혼자 앉아있네
+<SYNC Start=664291><P Class=ENUSCC>&nbsp;
+<SYNC Start=664359><P Class=ENUSCC>혹시 네 여자친구가 네 둥지를 떠났니?
+<SYNC Start=666559><P Class=ENUSCC>&nbsp;
+<SYNC Start=666627><P Class=ENUSCC>정말 안됐다<br>정말 안타까워
+<SYNC Start=668828><P Class=ENUSCC>&nbsp;
+<SYNC Start=668896><P Class=ENUSCC>하지만 넌 날 수 있잖아<br>저 푸른 하늘을
+<SYNC Start=671064><P Class=ENUSCC>&nbsp;
+<SYNC Start=671132><P Class=ENUSCC>넌 정말 운이 좋아
+<SYNC Start=674267><P Class=ENUSCC>&nbsp;
+<SYNC Start=674335><P Class=ENUSCC>나한테도 멋진 남자친구가 있었어
+<SYNC Start=676937><P Class=ENUSCC>&nbsp;
+<SYNC Start=677005><P Class=ENUSCC>난 오늘 혼자 왔어
+<SYNC Start=678872><P Class=ENUSCC>&nbsp;
+<SYNC Start=678940><P Class=ENUSCC>하지만 남자들이란 다 똑같아
+<SYNC Start=681475><P Class=ENUSCC>&nbsp;
+<SYNC Start=681543><P Class=ENUSCC>둥지를 만들어 놓고는 날아가 버리지
+<SYNC Start=685680><P Class=ENUSCC>&nbsp;
+<SYNC Start=690486><P Class=ENUSCC>노란 새
+<SYNC Start=692822><P Class=ENUSCC>바나나 나무 위에 있네
+<SYNC Start=694543><P Class=ENUSCC>&nbsp;
+<SYNC Start=695544><P Class=ENUSCC>노란 새
+<SYNC Start=696544><P Class=ENUSCC>&nbsp;
+<SYNC Start=697334><P Class=ENUSCC>나처럼 혼자 앉아있네
+<SYNC Start=699452><P Class=ENUSCC>&nbsp;
+<SYNC Start=700046><P Class=ENUSCC>하지만 넌 날아갈 수 있잖아<br>저 푸른 하늘로
+<SYNC Start=702213><P Class=ENUSCC>&nbsp;
+<SYNC Start=702505><P Class=ENUSCC>누군가 널 잡으러 와<br>밤낮 가리지 않고
+<SYNC Start=704445><P Class=ENUSCC>&nbsp;
+<SYNC Start=704714><P Class=ENUSCC>노랗고 검은 넌<br>마치 바나나 같아
+<SYNC Start=706708><P Class=ENUSCC>&nbsp;
+<SYNC Start=707075><P Class=ENUSCC>그들이 널 잡으러 올지도 몰라
+<SYNC Start=707696><P Class=ENUSCC>&nbsp;
+<SYNC Start=710221><P Class=ENUSCC>나도 내가 노란 새였으면 좋겠어
+<SYNC Start=711354><P Class=ENUSCC>&nbsp;
+<SYNC Start=712354><P Class=ENUSCC>너와 함께 날고 싶어
+<SYNC Start=714112><P Class=ENUSCC>&nbsp;
+<SYNC Start=714801><P Class=ENUSCC>하지만 난 노란 새가 아니야
+<SYNC Start=716824><P Class=ENUSCC>&nbsp;
+<SYNC Start=717283><P Class=ENUSCC>그래서 이렇게 할일없이 <br>혼자 앉아있지
+<SYNC Start=719939.7917><P Class=ENUSCC>&nbsp;
+<SYNC Start=721985><P Class=ENUSCC>노란 새
+<SYNC Start=723538><P Class=ENUSCC>&nbsp;
+<SYNC Start=723995><P Class=ENUSCC>바나나 나무 위에 있네
+<SYNC Start=724995><P Class=ENUSCC>&nbsp;
+<SYNC Start=726417><P Class=ENUSCC>노란 새
+<SYNC Start=727417><P Class=ENUSCC>&nbsp;
+<SYNC Start=728148><P Class=ENUSCC>나처럼 혼자 앉아있네
+<SYNC Start=730378><P Class=ENUSCC>&nbsp;
+<SYNC Start=730955><P Class=ENUSCC>혹시 네 여자친구가 네 둥지를 떠났니?
+<SYNC Start=733023><P Class=ENUSCC>&nbsp;
+<SYNC Start=733258><P Class=ENUSCC>정말 안됐다<br>정말 안타까워
+<SYNC Start=735315><P Class=ENUSCC>&nbsp;
+<SYNC Start=735409><P Class=ENUSCC>하지만 넌 날 수 있잖아<br>저 푸른 하늘을
+<SYNC Start=737542><P Class=ENUSCC>&nbsp;
+<SYNC Start=737899><P Class=ENUSCC>넌 정말 운이 좋아
+<SYNC Start=740636><P Class=ENUSCC>&nbsp;
+<SYNC Start=750014><P Class=ENUSCC>일년에 한 번있는 레녹스 오크우드<br>레인스 볼링 토너번트는 정말 볼만하다네!
+<SYNC Start=755569><P Class=ENUSCC>마치 날아갈 것 같은 기분이네!
+<SYNC Start=757419><P Class=ENUSCC>&nbsp;
+<SYNC Start=757487><P Class=ENUSCC>그런데 자네는 땅다람쥐 아니었나?
+<SYNC Start=760668><P Class=ENUSCC>&nbsp;
+<SYNC Start=762692><P Class=ENUSCC>첫 번째 팀은 할머니가 대장인 실버 폭시스!
+<SYNC Start=767803><P Class=ENUSCC>&nbsp;
+<SYNC Start=768365><P Class=ENUSCC>두 번째 팀은 테리 델가도가<br>이끄는 럭키 스트라이커스!
+<SYNC Start=773914><P Class=ENUSCC>&nbsp;
+<SYNC Start=776318><P Class=ENUSCC>그리고 세 번째 팀은 대피 덕을<br>선두로 한 대피스 덕스!
+<SYNC Start=782217><P Class=ENUSCC>&nbsp;
+<SYNC Start=783647><P Class=ENUSCC>손에 땀이 많이 나나보네,대피?
+<SYNC Start=786448><P Class=ENUSCC>&nbsp;
+<SYNC Start=786516><P Class=ENUSCC>긴장돼?
+<SYNC Start=787749><P Class=ENUSCC>&nbsp;
+<SYNC Start=788670><P Class=ENUSCC>아니,난 그냥 보통 사람들보다<br>땀이 더 많이 나는 것 뿐이야
+<SYNC Start=791095><P Class=ENUSCC>몸이 떨리는데,<br>혹시 겁 먹은거야?
+<SYNC Start=793554><P Class=ENUSCC>&nbsp;
+<SYNC Start=793622><P Class=ENUSCC>아니,칼륨 부족이라서 그래
+<SYNC Start=795522><P Class=ENUSCC>&nbsp;
+<SYNC Start=795590><P Class=ENUSCC>그러면 왜 눈은 제대로<br>못 마주치는건데?
+<SYNC Start=798538><P Class=ENUSCC>역시 겁나는거 아니야?
+<SYNC Start=799850><P Class=ENUSCC>&nbsp;
+<SYNC Start=802601><P Class=ENUSCC>약시라 그래
+<SYNC Start=803213><P Class=ENUSCC>&nbsp;
+<SYNC Start=803332><P Class=ENUSCC>그럼 시작합니다!
+<SYNC Start=805066><P Class=ENUSCC>&nbsp;
+<SYNC Start=813610><P Class=ENUSCC>토너먼트에서 첫 번째로<br>던지는 건 할머니입니다
+<SYNC Start=816853><P Class=ENUSCC>&nbsp;
+<SYNC Start=819784><P Class=ENUSCC>준비를 하고 있군요
+<SYNC Start=821985><P Class=ENUSCC>&nbsp;
+<SYNC Start=824722><P Class=ENUSCC>천천히 시작하는군요
+<SYNC Start=827324><P Class=ENUSCC>&nbsp;
+<SYNC Start=831028><P Class=ENUSCC>정말로..천천히 시작하고 있군요
+<SYNC Start=836966><P Class=ENUSCC>&nbsp;
+<SYNC Start=837034><P Class=ENUSCC>오래 걸릴 것 같네요
+<SYNC Start=839414><P Class=ENUSCC>&nbsp;
+<SYNC Start=841705><P Class=ENUSCC>시간이 되었다<br>실력을 발휘하자
+<SYNC Start=844174><P Class=ENUSCC>&nbsp;
+<SYNC Start=844242><P Class=ENUSCC>도전장은 내놓았고<br>별들은 줄을 섰고
+<SYNC Start=847077><P Class=ENUSCC>&nbsp;
+<SYNC Start=847145><P Class=ENUSCC>승리의 순간이 멀지 않았어
+<SYNC Start=850949><P Class=ENUSCC>&nbsp;
+<SYNC Start=852585><P Class=ENUSCC>옛날의 기사들처럼 싸워보자
+<SYNC Start=855454><P Class=ENUSCC>&nbsp;
+<SYNC Start=855521><P Class=ENUSCC>이건 운명이야<br>예언은 이렇게 말하지
+<SYNC Start=858524><P Class=ENUSCC>&nbsp;
+<SYNC Start=858591><P Class=ENUSCC>승리는 네 손안에 있다고
+<SYNC Start=862494><P Class=ENUSCC>&nbsp;
+<SYNC Start=864331><P Class=ENUSCC>독수리처럼 날아올라
+<SYNC Start=867099><P Class=ENUSCC>&nbsp;
+<SYNC Start=867167><P Class=ENUSCC>험한 파도를 넘어<br>베짱을 가지고 영광을 차지하자
+<SYNC Start=872671><P Class=ENUSCC>&nbsp;
+<SYNC Start=875875><P Class=ENUSCC>안개 속의 영웅처럼
+<SYNC Start=878677><P Class=ENUSCC>&nbsp;
+<SYNC Start=878745><P Class=ENUSCC>신화의 전설처럼
+<SYNC Start=884116><P Class=ENUSCC>&nbsp;
+<SYNC Start=886887><P Class=ENUSCC>볼링을 하자
+<SYNC Start=890489><P Class=ENUSCC>&nbsp;
+<SYNC Start=892592><P Class=ENUSCC>볼링을 하자
+<SYNC Start=896362><P Class=ENUSCC>&nbsp;
+<SYNC Start=899661><P Class=ENUSCC>정말 재미있게 되는군!
+<SYNC Start=900799><P Class=ENUSCC>&nbsp;
+<SYNC Start=900867><P Class=ENUSCC>두 팀 모두 끝까지<br>막상막하로 왔다네
+<SYNC Start=902969><P Class=ENUSCC>&nbsp;
+<SYNC Start=903037><P Class=ENUSCC>럭키 스트라이커스는 현재 앞서고 있지만
+<SYNC Start=905238><P Class=ENUSCC>&nbsp;
+<SYNC Start=905305><P Class=ENUSCC>벅스 버니는 한 번 할 기회가 생겼고
+<SYNC Start=907407><P Class=ENUSCC>&nbsp;
+<SYNC Start=907474><P Class=ENUSCC>핀을 2개만 더 쓰러뜨리면 된다네
+<SYNC Start=909775><P Class=ENUSCC>&nbsp;
+<SYNC Start=909843><P Class=ENUSCC>그렇다면 대피스 덕스가 이기게 되겠군!
+<SYNC Start=912946><P Class=ENUSCC>&nbsp;
+<SYNC Start=913014><P Class=ENUSCC>우리가 여기서 정말 이길 수 있겠어!
+<SYNC Start=915848><P Class=ENUSCC>&nbsp;
+<SYNC Start=915916><P Class=ENUSCC>팀 이름도 벅시스 덕스라고<br>하는게 좋겠다!
+<SYNC Start=919219><P Class=ENUSCC>&nbsp;
+<SYNC Start=933202><P Class=ENUSCC>괜찮아?
+<SYNC Start=934436><P Class=ENUSCC>&nbsp;
+<SYNC Start=934504><P Class=ENUSCC>어,어떻게 된 거야?
+<SYNC Start=936038><P Class=ENUSCC>&nbsp;
+<SYNC Start=936106><P Class=ENUSCC>발목을 삔 것 같아
+<SYNC Start=937740><P Class=ENUSCC>&nbsp;
+<SYNC Start=937808><P Class=ENUSCC>볼링을 하기에는 무리일 것 같애
+<SYNC Start=941277><P Class=ENUSCC>&nbsp;
+<SYNC Start=941345><P Class=ENUSCC>그럼 토너먼트에서 우리가 어떻게 이겨?
+<SYNC Start=943646><P Class=ENUSCC>&nbsp;
+<SYNC Start=943713><P Class=ENUSCC>네가 내 대신에 볼링을 해야해
+<SYNC Start=945714><P Class=ENUSCC>&nbsp;
+<SYNC Start=945781><P Class=ENUSCC>애초에 우리 팀은 벅시스 덕스가<br>아닌 대피스 덕스잖아
+<SYNC Start=951252><P Class=ENUSCC>&nbsp;
+<SYNC Start=952657><P Class=ENUSCC>속임수 쓰는 거구나!
+<SYNC Start=954562><P Class=ENUSCC>&nbsp;
+<SYNC Start=955558><P Class=ENUSCC>속임수 맞지?
+<SYNC Start=957258><P Class=ENUSCC>&nbsp;
+<SYNC Start=957326><P Class=ENUSCC>맞아,속임수 쓰는거야
+<SYNC Start=959227><P Class=ENUSCC>&nbsp;
+<SYNC Start=959295><P Class=ENUSCC>이제 우리 팀을 위해 이기도록 해
+<SYNC Start=961562><P Class=ENUSCC>&nbsp;
+<SYNC Start=970044><P Class=ENUSCC>2핀
+<SYNC Start=970371><P Class=ENUSCC>&nbsp;
+<SYNC Start=970439><P Class=ENUSCC>그거면 돼
+<SYNC Start=972673><P Class=ENUSCC>&nbsp;
+<SYNC Start=995033><P Class=ENUSCC>우리들의 해다!
+<SYNC Start=996200><P Class=ENUSCC>&nbsp;
+<SYNC Start=997436><P Class=ENUSCC>네가 졌어,대피!
+<SYNC Start=998803><P Class=ENUSCC>&nbsp;
+<SYNC Start=1001006><P Class=ENUSCC>우리 최고!<br>우리 최고!
+<SYNC Start=1002640><P Class=ENUSCC>&nbsp;
+<SYNC Start=1003609><P Class=ENUSCC>잠깐만,잠깐만 기다려주세요
+<SYNC Start=1004674><P Class=ENUSCC>&nbsp;
+<SYNC Start=1004743><P Class=ENUSCC>지금보니 기술적인 문제가 있었습니다
+<SYNC Start=1007828><P Class=ENUSCC>&nbsp;
+<SYNC Start=1008379><P Class=ENUSCC>선수가 공을 던지기 전에 핀이<br>완전히 준비되지 않았습니다
+<SYNC Start=1012087><P Class=ENUSCC>&nbsp;
+<SYNC Start=1012182><P Class=ENUSCC>경기규칙에서는 어떤<br>기술적인 문제가 있을 경우
+<SYNC Start=1015450><P Class=ENUSCC>&nbsp;
+<SYNC Start=1015518><P Class=ENUSCC>바로 재시도를<br>할 수 있도록 되어있습니다
+<SYNC Start=1017585><P Class=ENUSCC>&nbsp;
+<SYNC Start=1020122><P Class=ENUSCC>그렇다면 또 한번<br>이길 기회가 있다는 거네!
+<SYNC Start=1022724><P Class=ENUSCC>&nbsp;
+<SYNC Start=1022792><P Class=ENUSCC>들었냐,테리?
+<SYNC Start=1024827><P Class=ENUSCC>&nbsp;
+<SYNC Start=1024895><P Class=ENUSCC>절대로 실망시키지 않을게
+<SYNC Start=1027363><P Class=ENUSCC>&nbsp;
+<SYNC Start=1027431><P Class=ENUSCC>저기,그냥 벅스가 하는게 좋지 않을까?
+<SYNC Start=1030800><P Class=ENUSCC>&nbsp;
+<SYNC Start=1030868><P Class=ENUSCC>그래,지금 많이 나아진 것 같아
+<SYNC Start=1033337><P Class=ENUSCC>&nbsp;
+<SYNC Start=1036675><P Class=ENUSCC>잠깐만,그건 내가 해야돼
+<SYNC Start=1039277><P Class=ENUSCC>&nbsp;
+<SYNC Start=1039345><P Class=ENUSCC>나는 팀을 위해서,그리고 나를 위해서<br>여기서 이겨야 해
+<SYNC Start=1045090><P Class=ENUSCC>&nbsp;
+<SYNC Start=1045693><P Class=ENUSCC>괜찮겠어?
+<SYNC Start=1046216><P Class=ENUSCC>&nbsp;
+<SYNC Start=1046729><P Class=ENUSCC>겨우 2핀이잖아
+<SYNC Start=1048150><P Class=ENUSCC>&nbsp;
+<SYNC Start=1048219><P Class=ENUSCC>난 보통 4개나 5개를 맞춰
+<SYNC Start=1052456><P Class=ENUSCC>&nbsp;
+<SYNC Start=1053667><P Class=ENUSCC>그럼 4개나 5개를 맞춰봐!
+<SYNC Start=1057693><P Class=ENUSCC>&nbsp;
+<SYNC Start=1057761><P Class=ENUSCC>적어도 2개는 맞추고
+<SYNC Start=1059862><P Class=ENUSCC>&nbsp;
+<SYNC Start=1079286><P Class=ENUSCC>럭키 스트라이커스가 이겼습니다!
+<SYNC Start=1082555><P Class=ENUSCC>&nbsp;
+<SYNC Start=1086325><P Class=ENUSCC>우리가 최고고<br>너희는 구려!
+<SYNC Start=1087826><P Class=ENUSCC>&nbsp;
+<SYNC Start=1087893><P Class=ENUSCC>우리는 최고!
+<SYNC Start=1089760><P Class=ENUSCC>&nbsp;
+<SYNC Start=1089828><P Class=ENUSCC>기분 최고다!
+<SYNC Start=1091962><P Class=ENUSCC>&nbsp;
+<SYNC Start=1124416><P Class=ENUSCC>로드 러너와<br>와일리 E. 코요테
+<SYNC Start=1126768><P Class=ENUSCC>"오토바이 질주"
+<SYNC Start=1128607><P Class=ENUSCC>&nbsp;
+<SYNC Start=1291905><P Class=ENUSCC>어떻게 된 거지?
+<SYNC Start=1293339><P Class=ENUSCC>&nbsp;
+<SYNC Start=1293407><P Class=ENUSCC>이건 말도 안되잖아
+<SYNC Start=1294841><P Class=ENUSCC>&nbsp;
+<SYNC Start=1294908><P Class=ENUSCC>그래서 발은 언제 낫는데,포키?
+<SYNC Start=1297210><P Class=ENUSCC>&nbsp;
+<SYNC Start=1297277><P Class=ENUSCC>이,이제 물리치료만 좀 더 하면<br>바,바로 볼링 할 수 있대
+<SYNC Start=1301898><P Class=ENUSCC>&nbsp;
+<SYNC Start=1301915><P Class=ENUSCC>행운의 공이 돌아왔다!
+<SYNC Start=1303712><P Class=ENUSCC>&nbsp;
+<SYNC Start=1305084><P Class=ENUSCC>나,나는 공이 아니야!
+<SYNC Start=1306518><P Class=ENUSCC>&nbsp;
+<SYNC Start=1307987><P Class=ENUSCC>스트라이크!
+<SYNC Start=1308919><P Class=ENUSCC>&nbsp;
+<SYNC Start=1340186><P Class=ENUSCC>-오늘은 이걸로 끝!<br>-오늘은 이걸로 끝!
+<SYNC Start=1341402><P Class=ENUSCC>&nbsp;
+<SYNC Start=1341766><P Class=ENUSCC>미안하네,자네가 먼저 하게
+<SYNC Start=1342637><P Class=ENUSCC>-아니네,자네가 먼저 하게<br>-괜찮네
+<SYNC Start=1343580><P Class=ENUSCC>&nbsp;
+<SYNC Start=1343620><P Class=ENUSCC>-아무도 막지 않는다네<br>-아니네,자네가 먼저 하게
+<SYNC Start=1344620><P Class=ENUSCC>&nbsp;
+<SYNC Start=1345002><P Class=ENUSCC>-자네 먼저<br>-자네 먼저
+<SYNC Start=1348481><P Class=ENUSCC>&nbsp;
+</BODY>
+</SAMI>

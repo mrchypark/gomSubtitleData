@@ -1,0 +1,1348 @@
+<SAMI>
+<HEAD>
+<TITLE>Hanbange 3.0 - (C) Breadu Soft 2003</TITLE>
+<STYLE TYPE="text/css">
+<!--
+P { margin-left:8pt; margin-right:8pt; margin-bottom:2pt;
+    margin-top:2pt; font-size:14pt; text-align:center;
+    font-family:굴림, Arial; font-weight:normal; color:white;
+    background-color:black; }
+.KRCC { Name:한국어; lang:ko-KR; SAMIType:CC; }
+#STDPrn { Name:Standard Print; }
+#LargePrn { Name:Large Print; font-size:20pt; }
+#SmallPrn { Name:Small Print; font-size:10pt; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<SYNC Start=4425><P Class=KRCC>
+아가씨
+<SYNC Start=5735><P Class=KRCC>
+헬싱 기관의 인원보충 건입니다만
+<SYNC Start=8837><P Class=KRCC>
+프로 용병을 고용하기로 했습니다
+<SYNC Start=11942><P Class=KRCC>
+용병?
+<SYNC Start=13489><P Class=KRCC>
+신뢰 할 수 있는가?
+<SYNC Start=15186><P Class=KRCC>
+돈으로 움직이는 놈들이 아닌가
+<SYNC Start=17233><P Class=KRCC>
+네, 그냥 용병이 아니라
+<SYNC Start=19446><P Class=KRCC>
+프로페셔널을 고용했으니까요
+<SYNC Start=22810><P Class=KRCC>
+계약을 하고 돈이 지불되는한
+<SYNC Start=25843><P Class=KRCC>
+그들은 결코 배신하지 않습니다
+<SYNC Start=28816><P Class=KRCC>&nbsp;
+<SYNC Start=35342><P Class=KRCC>
+자기편을 죽일 셈인가?<br>저 미친놈은
+<SYNC Start=38092><P Class=KRCC>
+분명 친척을 좋아하는<br>근친 성벽있는 자식일거야
+<SYNC Start=41566><P Class=KRCC>
+아마도 여동생이<br>12명은 있을거야
+<SYNC Start=44228><P Class=KRCC>
+휴일을 제쳐두고<br>하루에 두 명의 계산이냐
+<SYNC Start=47503><P Class=KRCC>
+울지마, 짖지마,<br>시끄럽게하지마
+<SYNC Start=49777><P Class=KRCC>&nbsp;
+<SYNC Start=50534><P Class=KRCC>
+우리들은 로스트 넘버즈다
+<SYNC Start=52413><P Class=KRCC>
+처음부터 저 자식들의<br>머리 갯수에 들어있지 않다고
+<SYNC Start=57148><P Class=KRCC>
+죽으면 보충하면 돼
+<SYNC Start=58969><P Class=KRCC>
+돈을 받고 사람을 죽이고<br>싶어하는 놈들은 천지니까 말이야
+<SYNC Start=62771><P Class=KRCC>
+그 것 참 말이지…
+<SYNC Start=64336><P Class=KRCC>&nbsp;
+<SYNC Start=65626><P Class=KRCC>
+대장, 살모덴큐로부터 입니다
+<SYNC Start=68382><P Class=KRCC>
+패기라곤 없구만<br>좀 더 저항해보라니깐
+<SYNC Start=72002><P Class=KRCC>
+이걸로 내전은 종결<br>우리들은 해고겠군요
+<SYNC Start=76673><P Class=KRCC>&nbsp;
+<SYNC Start=78163><P Class=KRCC>
+다음 고용지는 이미 있다구
+<SYNC Start=80668><P Class=KRCC>
+어디입니까?
+<SYNC Start=81946><P Class=KRCC>
+가능하다면 먼지투성이가<br>되지않는 장소가 좋겠습니다만
+<SYNC Start=84742><P Class=KRCC>&nbsp;
+<SYNC Start=93439><P Class=KRCC>
+그거라면 안심해도 돼
+<SYNC Start=96354><P Class=KRCC>
+이번에는<br>안개의 도시다
+<SYNC Start=100549><P Class=KRCC>&nbsp;
+<SYNC Start=101521><P Class=KRCC>
+<font color=#e90419><b>Hellsing</b></font><BR>Caption by <b>Dark.H</b><BR><font color=#ff8f0f>cyworld.com/darkhurricane</font>
+<SYNC Start=114080><P Class=KRCC>&nbsp;
+<SYNC Start=116640><P Class=KRCC>
+베르나도트 대장<br>어떻게 된겁니까?
+<SYNC Start=119420><P Class=KRCC>
+어?
+<SYNC Start=120796><P Class=KRCC>
+런던에서 전쟁이라도<br>벌리는겁니까?
+<SYNC Start=123686><P Class=KRCC>
+우리들 언제부터<br>경비원이 된겁니까?
+<SYNC Start=126349><P Class=KRCC>
+부자들의 오락용<br>사병놀이라던가?
+<SYNC Start=128741><P Class=KRCC>
+아니, 그게 참 뭐라고<br>해야할지 모르겠으니까
+<SYNC Start=132346><P Class=KRCC>
+한마디로 말하겠는데<br>우리들의 일거리는 괴물 퇴치란다
+<SYNC Start=137152><P Class=KRCC>
+- 괴물 퇴치?<br>- 하하, 또 그런 농담을
+<SYNC Start=141057><P Class=KRCC>
+사실이다
+<SYNC Start=143402><P Class=KRCC>&nbsp;
+<SYNC Start=143733><P Class=KRCC>
+너희들은 적은
+<SYNC Start=145213><P Class=KRCC>
+사람의 피를 빠는 것으로<br>불로불사가 되는 뱀파이어다
+<SYNC Start=149303><P Class=KRCC>
+마늘과 성수를 지니고 다니며,<br>나무 말뚝을 심장에 박고,
+<SYNC Start=153648><P Class=KRCC>
+목을 치고, 시체를 태우고,<br>십자로에 재를 뿌리는 것이 우리의 일이다
+<SYNC Start=159646><P Class=KRCC>
+자세한 내용은 불럼,<br>스토커를 읽도록
+<SYNC Start=162414><P Class=KRCC>
+무슨 바보같은…
+<SYNC Start=163781><P Class=KRCC>
+흡혈귀 따위가<br>이 세상에 존재할리가…
+<SYNC Start=166067><P Class=KRCC>
+네놈들이 모를뿐이다
+<SYNC Start=168600><P Class=KRCC>
+아니, 정확히는<br>알려져 있지 않을 뿐이지만
+<SYNC Start=171999><P Class=KRCC>
+100년전에 결성된<br>우리 왕립국교 기사단 헬싱은
+<SYNC Start=176022><P Class=KRCC>
+오랜 세월 남모르게<br>활동을 계속해온
+<SYNC Start=179131><P Class=KRCC>
+그 본래의 목적은…
+<SYNC Start=181294><P Class=KRCC>
+뱀파이어들과의 전쟁을 위해
+<SYNC Start=183964><P Class=KRCC>&nbsp;
+<SYNC Start=184803><P Class=KRCC>
+말을 덧붙여도 모르겠다면
+<SYNC Start=186996><P Class=KRCC>
+닥치고 보아라!
+<SYNC Start=188322><P Class=KRCC>&nbsp;
+<SYNC Start=189063><P Class=KRCC>
+저것이 너희들의<br>적인 뱀파이어다
+<SYNC Start=192763><P Class=KRCC>&nbsp;
+<SYNC Start=196085><P Class=KRCC>
+에, 뭐?
+<SYNC Start=199092><P Class=KRCC>
+에, 그 뭐냐 흡혈귀?
+<SYNC Start=202490><P Class=KRCC>
+아, 네 뭐, 그게…
+<SYNC Start=204788><P Class=KRCC>&nbsp;
+<SYNC Start=212209><P Class=KRCC>
+비웃음 당하고 있어요?<br>역시나
+<SYNC Start=214965><P Class=KRCC>
+그럼 증거를 보여줘라<br>여경
+<SYNC Start=218166><P Class=KRCC>
+라, 라져!
+<SYNC Start=219794><P Class=KRCC>
+자, 오세요!
+<SYNC Start=222623><P Class=KRCC>&nbsp;
+<SYNC Start=224821><P Class=KRCC>
+아가씨가 뱀파이어라면<br>나는 프랑켄슈타인이겠다!
+<SYNC Start=229113><P Class=KRCC>&nbsp;
+<SYNC Start=238293><P Class=KRCC>
+대, 대장!
+<SYNC Start=240230><P Class=KRCC>
+괴물이야! 저 녀석
+<SYNC Start=241985><P Class=KRCC>
+전혀 보이지 않아<br>기척도 읽을 수 없어
+<SYNC Start=244308><P Class=KRCC>
+단지 딱콩일 뿐인데<br>머리가 부서질거 같아
+<SYNC Start=247935><P Class=KRCC>
+정말로 흡혈귀인건가<br>저 애는
+<SYNC Start=251031><P Class=KRCC>
+그렇다마다
+<SYNC Start=253202><P Class=KRCC>
+흡혈귀 중에서는<br>하급중의 하급이지만
+<SYNC Start=256604><P Class=KRCC>
+엄연한 흡혈귀지
+<SYNC Start=260321><P Class=KRCC>
+간이 콩알만한 놈들이군
+<SYNC Start=262801><P Class=KRCC>
+쓸만한 놈들인건가?<br>이것들이
+<SYNC Start=265493><P Class=KRCC>&nbsp;
+<SYNC Start=266573><P Class=KRCC>
+죄송합니다, 아가씨
+<SYNC Start=269359><P Class=KRCC>
+말려보긴했지만
+<SYNC Start=270844><P Class=KRCC>
+내 잠자리를 지킬 녀석들이야
+<SYNC Start=273897><P Class=KRCC>
+어떤 놈들인지 봐두고 싶어
+<SYNC Start=276311><P Class=KRCC>&nbsp;
+<SYNC Start=280202><P Class=KRCC>
+그것보다 아가씨
+<SYNC Start=283131><P Class=KRCC>
+이런 물건이 와있었습니다
+<SYNC Start=286998><P Class=KRCC>
+편지?
+<SYNC Start=289003><P Class=KRCC>
+바티칸 특무국 제13과 이스칼리오테<br>기관장 엔리코 맥스웰이라고?
+<SYNC Start=297549><P Class=KRCC>&nbsp;
+<SYNC Start=300545><P Class=KRCC>
+지금 몇신가 월터?
+<SYNC Start=302529><P Class=KRCC>
+3시를 넘은 직후로군요
+<SYNC Start=305691><P Class=KRCC>
+그쪽에서 불러놓고는 늦다니
+<SYNC Start=309119><P Class=KRCC>
+우리들을 불러내기위한 함정인가
+<SYNC Start=311853><P Class=KRCC>
+아무리 녀석들이라도<br>대낮에 대중의 면전에서…
+<SYNC Start=315488><P Class=KRCC>
+그것도 적지 한가운데서<br>문제를 일으킬거라고는 생각되지 않군요
+<SYNC Start=321194><P Class=KRCC>
+이야, 그거로군요<br>역시 진품은 굉장해요
+<SYNC Start=324628><P Class=KRCC>
+과연 왕립 박물관
+<SYNC Start=326361><P Class=KRCC>
+손질이 잘 되어 있군요
+<SYNC Start=328711><P Class=KRCC>
+그렇군요, 네
+<SYNC Start=330408><P Class=KRCC>&nbsp;
+<SYNC Start=335767><P Class=KRCC>
+이런, 늦은걸까나?
+<SYNC Start=338027><P Class=KRCC>
+그런 것 같습니다
+<SYNC Start=339712><P Class=KRCC>
+이야, 이거 참<br>기다리게했…
+<SYNC Start=341829><P Class=KRCC>
+그 이상 가까이 오지마라
+<SYNC Start=345291><P Class=KRCC>
+바티칸이 대체 무슨 용건이지?
+<SYNC Start=347349><P Class=KRCC>
+그것도 우는 애도 닥치게 만드는<br>몰살기관 『이스칼리오테』가
+<SYNC Start=351827><P Class=KRCC>
+아, 이건 큰일이군요
+<SYNC Start=353227><P Class=KRCC>
+완전히 미움받아 버린거 같군요
+<SYNC Start=356050><P Class=KRCC>
+우선 인사부터 드리죠
+<SYNC Start=359485><P Class=KRCC>&nbsp;
+<SYNC Start=361218><P Class=KRCC>
+이스칼리오테의 장을 맡고있는<br>엔리코 맥스웰이라고 합니다
+<SYNC Start=365808><P Class=KRCC>
+앞으로 잘 부탁드립니다
+<SYNC Start=367197><P Class=KRCC>
+자기 소개 따위 무의미해<br>용건을 말해
+<SYNC Start=371115><P Class=KRCC>
+자, 자. 너무 그렇게<br>딱딱하게 하지 마시고
+<SYNC Start=373899><P Class=KRCC>
+오늘은 별로 당신들과<br>다투려온게 아니라구요
+<SYNC Start=377299><P Class=KRCC>
+믿을까보냐
+<SYNC Start=378885><P Class=KRCC>
+네놈들은 중대한 협정위반을 범하고
+<SYNC Start=381701><P Class=KRCC>
+북아일랜드 베이드릭에<br>에이전트 안데르센을 파견
+<SYNC Start=385752><P Class=KRCC>
+우리 에이전트를<br>공격해 2명을 살해했다
+<SYNC Start=389461><P Class=KRCC>
+이 나조차<br>죽이기 일보 직전이었다
+<SYNC Start=392945><P Class=KRCC>
+잊었다고는…!
+<SYNC Start=393749><P Class=KRCC>
+그게 어쨌다는건가?
+<SYNC Start=394956><P Class=KRCC>
+뭐라?!
+<SYNC Start=396564><P Class=KRCC>
+이 쪽에서 저자세로<br>가주니까 기어오르는구만
+<SYNC Start=399360><P Class=KRCC>
+너희 프로테스탄트 빌어먹을 걸레들이
+<SYNC Start=401591><P Class=KRCC>
+2명이 죽든 2천명이 죽든 내 알바 인가?
+<SYNC Start=405226><P Class=KRCC>
+법황 폐하 직달 명령만 없었으면
+<SYNC Start=407843><P Class=KRCC>
+더러운 네 놈들 따위하고 이야기따위 하지않는다!
+<SYNC Start=411051><P Class=KRCC>
+그 주둥아리 닥치고 들어라
+<SYNC Start=413855><P Class=KRCC>
+프로테스탄트의 암퇘지 년아
+<SYNC Start=417141><P Class=KRCC>
+암퇘지라고?
+<SYNC Start=419698><P Class=KRCC>
+과연 우는 애도 닥치는 13과
+<SYNC Start=422609><P Class=KRCC>
+말하는 것도 다르군
+<SYNC Start=424544><P Class=KRCC>
+2천년 전부터 항상 그렇지
+<SYNC Start=427217><P Class=KRCC>
+네놈들 로마는 아무것도 변하지 않아
+<SYNC Start=430419><P Class=KRCC>
+노스펠라드 아카드
+<SYNC Start=432449><P Class=KRCC>
+헬싱의 쓰레기 처리자
+<SYNC Start=434172><P Class=KRCC>
+살인의 조커
+<SYNC Start=435683><P Class=KRCC>
+실제로 보는건 처음이군
+<SYNC Start=438306><P Class=KRCC>
+만나서 반가워요 아카드 군
+<SYNC Start=440761><P Class=KRCC>
+반갑다 맥스웰
+<SYNC Start=442658><P Class=KRCC>
+그리고 잘 가거라 다
+<SYNC Start=445128><P Class=KRCC>
+네 놈은 나의 주인을 암퇘지라 불렀다
+<SYNC Start=448929><P Class=KRCC>
+네 놈, 여기서 살아서<br>돌아가겠다고 생각하지말거라
+<SYNC Start=452298><P Class=KRCC>
+부숴주겠다, 휴먼
+<SYNC Start=453964><P Class=KRCC>
+오오, 무서워요 무서워!
+<SYNC Start=456859><P Class=KRCC>
+저렇게 무서운 보디가드에게<br>조준당하고있으니 얘기도 못하겠군
+<SYNC Start=462941><P Class=KRCC>
+하지만, 그쪽이 그렇게 한다면<br>이쪽도 이렇게 하지
+<SYNC Start=467243><P Class=KRCC>
+긴급상황을 만들어 보자구
+<SYNC Start=469677><P Class=KRCC>&nbsp;
+<SYNC Start=471827><P Class=KRCC>
+안데르센!
+<SYNC Start=474532><P Class=KRCC>&nbsp;
+<SYNC Start=477386><P Class=KRCC>
+내게 구하라
+<SYNC Start=478982><P Class=KRCC>
+그러면 너희에게 모든 나라를 주고<br>땅끝까지 너희것으로 삼아주리라
+<SYNC Start=484674><P Class=KRCC>
+그대, 흑철의 지팡이를 가지고<br>그들을 쳐서 깨부셔라
+<SYNC Start=487673><P Class=KRCC>
+도공의 그릇처럼 산산이
+<SYNC Start=490165><P Class=KRCC>
+그러면 그대들 모든 왕이여,<br>땅의 심판인들이여, 가르침을 받으라.
+<SYNC Start=495041><P Class=KRCC>
+두려움을 가지고 주를 경배하라<br>떨며 기쁘게 입맞추라
+<SYNC Start=500443><P Class=KRCC>
+그는 분노를 놓아 너희를 멸망시키리니
+<SYNC Start=502132><P Class=KRCC>
+그 분노를 모든 것을 태우며…
+<SYNC Start=503232><P Class=KRCC>
+이, 이런<br>그만둬, 안데르센!
+<SYNC Start=503988><P Class=KRCC>
+그만둬, 안데르센!
+<SYNC Start=505379><P Class=KRCC>&nbsp;
+<SYNC Start=508180><P Class=KRCC>
+일격으로 이거고 저거고<br>모조리 끝장을 내겠다
+<SYNC Start=511486><P Class=KRCC>
+눈앞에 적을 방치하고<br>뭐가 이스칼리오데인가, 뭐가 바티칸인가
+<SYNC Start=516947><P Class=KRCC>&nbsp;
+<SYNC Start=528143><P Class=KRCC>
+그렇지, 그렇게 나와야지
+<SYNC Start=530914><P Class=KRCC>
+자, 해보자구 Judah's priest!
+<SYNC Start=534113><P Class=KRCC>&nbsp;
+<SYNC Start=534975><P Class=KRCC>
+저번처럼은 안될거야, 뱀파이어
+<SYNC Start=538630><P Class=KRCC>
+안돼, 멈춰 안데르센!
+<SYNC Start=540729><P Class=KRCC>
+네! 여러분 이쪽입니다
+<SYNC Start=544901><P Class=KRCC>&nbsp;
+<SYNC Start=548365><P Class=KRCC>
+네네 여러분 이쪽이에요~
+<SYNC Start=552635><P Class=KRCC>&nbsp;
+<SYNC Start=559386><P Class=KRCC>
+이쪽이에요~
+<SYNC Start=562725><P Class=KRCC>&nbsp;
+<SYNC Start=566316><P Class=KRCC>
+전쟁의 분위기는 아니구만
+<SYNC Start=568412><P Class=KRCC>
+아, 그런것 같구만
+<SYNC Start=571285><P Class=KRCC>
+돌아가서 잘래<br>대낮에 일어나있었더니 졸리군
+<SYNC Start=576896><P Class=KRCC>&nbsp;
+<SYNC Start=578475><P Class=KRCC>
+기관장, 로마에 돌아갑니다
+<SYNC Start=582431><P Class=KRCC>&nbsp;
+<SYNC Start=583158><P Class=KRCC>
+정말 멋진 박물관이로군요
+<SYNC Start=585332><P Class=KRCC>
+다음에는 고아원<br>아이들을 데리고 오죠
+<SYNC Start=589072><P Class=KRCC>
+아, 그러지
+<SYNC Start=592462><P Class=KRCC>
+다음엔 죽인다, 반드시 죽인다
+<SYNC Start=595267><P Class=KRCC>&nbsp;
+<SYNC Start=599742><P Class=KRCC>
+서로 멋진 부하를 둬서<br>고생을 하는구만
+<SYNC Start=603761><P Class=KRCC>
+응? 숫돼지 놈
+<SYNC Start=606342><P Class=KRCC>
+아까의 답례인가
+<SYNC Start=608608><P Class=KRCC>
+뭐, 좋아 참지요
+<SYNC Start=611424><P Class=KRCC>
+이야기는 바깥의 카페에서 어떤가?
+<SYNC Start=615804><P Class=KRCC>
+알았다
+<SYNC Start=617854><P Class=KRCC>&nbsp;
+<SYNC Start=623108><P Class=KRCC>
+정말 잘 했군요!
+<SYNC Start=624866><P Class=KRCC>
+감사함다!
+<SYNC Start=626549><P Class=KRCC>&nbsp;
+<SYNC Start=629115><P Class=KRCC>
+우리들은 너희들이 어떤 단어를<br>필사적으로 조사하고있다는 것을 알고있다
+<SYNC Start=633539><P Class=KRCC>
+그리고 그게 결실을 맺지<br>못하고 있다는 것도 말이지
+<SYNC Start=636797><P Class=KRCC>
+과연, 말그대로다
+<SYNC Start=640070><P Class=KRCC>
+『밀레니엄』이지?
+<SYNC Start=643281><P Class=KRCC>&nbsp;
+<SYNC Start=644922><P Class=KRCC>
+이건 소위 말하는 극비사항이라고<br>하는 놈인데 말이지
+<SYNC Start=648010><P Class=KRCC>
+우리는 『밀레니엄』이란<br>이름의 한 정보를 가지고 있지
+<SYNC Start=653833><P Class=KRCC>
+가르쳐주기를 바라나?<br>정말로 가르쳐주길 바래?
+<SYNC Start=658030><P Class=KRCC>
+정말? 정말로?
+<SYNC Start=661321><P Class=KRCC>&nbsp;
+<SYNC Start=670142><P Class=KRCC>
+please…
+<SYNC Start=672661><P Class=KRCC>&nbsp;
+<SYNC Start=683086><P Class=KRCC>
+이게 밀러니엄이다
+<SYNC Start=686106><P Class=KRCC>&nbsp;
+<SYNC Start=687523><P Class=KRCC>
+지금부터 거슬러올라가 50년 전,<br>제2차 세계 대전 때의 일이다
+<SYNC Start=692131><P Class=KRCC>
+패전한 나치스 독일에서 대량의<br>나치 군인들이 국외로 도주했다
+<SYNC Start=698923><P Class=KRCC>
+그들은 모두 독일 패전<br>직전부터 행동을 개시하고 있었다
+<SYNC Start=703085><P Class=KRCC>
+그거야 뭐, 전쟁도중에<br>도망친다면 탈주다, 그건…
+<SYNC Start=709704><P Class=KRCC>
+그리고 그들의 주 도피처는<br>친독일 국가군이 많은 남미
+<SYNC Start=715545><P Class=KRCC>&nbsp;
+<SYNC Start=717997><P Class=KRCC>
+그것이 『밀레니엄』
+<SYNC Start=720382><P Class=KRCC>
+그래, 우리가 알고 있는<br>『밀레니엄』이란 계획명, 그리고 부대명
+<SYNC Start=727515><P Class=KRCC>
+나치스의 극비물자<br>인원 이송 계획과 그 실행자들이다
+<SYNC Start=733605><P Class=KRCC>
+어째서 아냐는 얼굴이로군!
+<SYNC Start=736296><P Class=KRCC>
+그래 맞아! 도와줬거든
+<SYNC Start=738837><P Class=KRCC>
+우리들 바티칸이!
+<SYNC Start=740724><P Class=KRCC>
+그것도 아주 적극적으로!
+<SYNC Start=743610><P Class=KRCC>
+그들은 드디어 도달한 것 같습니다
+<SYNC Start=747621><P Class=KRCC>
+『밀레니엄』에…
+<SYNC Start=749733><P Class=KRCC>&nbsp;
+<SYNC Start=750411><P Class=KRCC>
+도달했다?
+<SYNC Start=752308><P Class=KRCC>
+그들은 아직 아무것도<br>모르는거나 마찬가지
+<SYNC Start=756202><P Class=KRCC>
+즐거워보이시는군요, 소령
+<SYNC Start=759423><P Class=KRCC>
+으음, 즐거워
+<SYNC Start=760914><P Class=KRCC>
+아주 즐거워
+<SYNC Start=762544><P Class=KRCC>
+전쟁이라고, 한번 생각해보라고 자네
+<SYNC Start=766039><P Class=KRCC>
+분명 피비린내 나는<br>전쟁이 될게 틀림없어
+<SYNC Start=769966><P Class=KRCC>
+멋지지?
+<SYNC Start=771545><P Class=KRCC>
+전쟁, 전쟁이라구
+<SYNC Start=774330><P Class=KRCC>&nbsp;
+<SYNC Start=778782><P Class=KRCC>
+들었는가?
+<SYNC Start=779930><P Class=KRCC>
+그래, 들었다
+<SYNC Start=781846><P Class=KRCC>
+설마 나치들이라니
+<SYNC Start=784401><P Class=KRCC>
+반세기도 전의 망령의<br>이름이 튀어나올줄은…
+<SYNC Start=787471><P Class=KRCC>
+흥, 글쎄다
+<SYNC Start=789778><P Class=KRCC>
+난 아무것도<br>아니란 느낌이 들었다
+<SYNC Start=793694><P Class=KRCC>
+그 암울한 느낌은<br>전에도 느껴봤던 적이 있어
+<SYNC Start=797450><P Class=KRCC>
+호오? 왜지?
+<SYNC Start=799844><P Class=KRCC>
+왜? 네 놈이 왜라니, 월터
+<SYNC Start=804017><P Class=KRCC>
+언데드를 실전에 투입하자는<br>생각따위 하는 것은 세 개 뿐이야
+<SYNC Start=809839><P Class=KRCC>
+하나는 너희들, 하나는 그들
+<SYNC Start=812295><P Class=KRCC>
+하나는 나
+<SYNC Start=814285><P Class=KRCC>
+그리고 그들의 언데드 연구기관은<br>50년 전에 완전히 분쇄당했다
+<SYNC Start=821138><P Class=KRCC>
+이 나와 네놈으로<br>몰살했지 않았나?
+<SYNC Start=825035><P Class=KRCC>&nbsp;
+<SYNC Start=826761><P Class=KRCC>
+그래, 그랬지! 생각났다
+<SYNC Start=830577><P Class=KRCC>
+이래서 늙는다는 건 무섭군
+<SYNC Start=834061><P Class=KRCC>
+늙음 조차 즐기는 몸이다
+<SYNC Start=836053><P Class=KRCC>
+우리들 영국인들은
+<SYNC Start=839075><P Class=KRCC>
+아카드, 날아가줘야겠어
+<SYNC Start=842065><P Class=KRCC>
+남미에
+<SYNC Start=844070><P Class=KRCC>
+여기까지 명백하게<br>싸움을 걸어오는데
+<SYNC Start=846366><P Class=KRCC>
+닥치고 있을 만큼<br>우리들은 좋은 사람이 아니지
+<SYNC Start=849518><P Class=KRCC>&nbsp;
+<SYNC Start=850726><P Class=KRCC>
+이래서 영국인들은…
+<SYNC Start=853536><P Class=KRCC>
+그러니까 쇠퇴하는거다
+<SYNC Start=855818><P Class=KRCC>
+의지없는 번영따위<br>이쪽에서 사절이다
+<SYNC Start=860594><P Class=KRCC>&nbsp;
+<SYNC Start=864467><P Class=KRCC>
+아카드, 월터로부터 들었겠지?
+<SYNC Start=868027><P Class=KRCC>&nbsp;
+<SYNC Start=869460><P Class=KRCC>
+명령은 오직 하나<br>"Search and Destroy(찾아서 깨부셔)"
+<SYNC Start=872884><P Class=KRCC>&nbsp;
+<SYNC Start=879553><P Class=KRCC>
+인식했다, my master
+<SYNC Start=882713><P Class=KRCC>&nbsp;
+<SYNC Start=894450><P Class=KRCC>
+흡혈귀가 대낮부터 와인 기울이면서
+<SYNC Start=897025><P Class=KRCC>
+유유자적 남미로의 여행을 만끽한다라
+<SYNC Start=900810><P Class=KRCC>
+듣던 것하곤 전혀 다르잖아
+<SYNC Start=903796><P Class=KRCC>
+듣던 것대로인 것도 있지만…
+<SYNC Start=906655><P Class=KRCC>&nbsp;
+<SYNC Start=909515><P Class=KRCC>
+흐흑, 누가 좀 열어주세요
+<SYNC Start=913723><P Class=KRCC>
+아무나 살려줘요!
+<SYNC Start=916860><P Class=KRCC>&nbsp;
+<SYNC Start=923859><P Class=KRCC>
+스위트룸을 예약해뒀던<br>사람이다만
+<SYNC Start=927367><P Class=KRCC>
+네, J.H.브래너 님이시죠?<br>예약 되어있습니다
+<SYNC Start=931856><P Class=KRCC>
+최상층의 스위트룸을<br>준비해드리도록 하겠습니다
+<SYNC Start=935263><P Class=KRCC>
+이쪽이야, 이쪽
+<SYNC Start=937640><P Class=KRCC>&nbsp;
+<SYNC Start=940011><P Class=KRCC>
+최상층 스위트룸이다
+<SYNC Start=942404><P Class=KRCC>
+라져
+<SYNC Start=943802><P Class=KRCC>
+어이, 이쪽이야 최상층이란다
+<SYNC Start=947291><P Class=KRCC>&nbsp;
+<SYNC Start=952271><P Class=KRCC>
+소, 손님 저 짐은…
+<SYNC Start=955792><P Class=KRCC>&nbsp;
+<SYNC Start=957124><P Class=KRCC>
+손님, 정말로 죄송합니다만
+<SYNC Start=960820><P Class=KRCC>
+본 호텔에서는 저 것처럼<br>큰 짐은 반입은…
+<SYNC Start=966635><P Class=KRCC>
+문제 없다
+<SYNC Start=967796><P Class=KRCC>&nbsp;
+<SYNC Start=968695><P Class=KRCC>
+그렇지만<br>제가 말씀드리기에는…
+<SYNC Start=972514><P Class=KRCC>
+그, 짐의 사이즈가…
+<SYNC Start=975268><P Class=KRCC>&nbsp;
+<SYNC Start=986458><P Class=KRCC>
+아무 문제도 없다
+<SYNC Start=989345><P Class=KRCC>&nbsp;
+<SYNC Start=995311><P Class=KRCC>
+아, 아무 문제 없다
+<SYNC Start=1000850><P Class=KRCC>
+아무 문제도 없다
+<SYNC Start=1003669><P Class=KRCC>
+아무 문제 없습니다
+<SYNC Start=1007226><P Class=KRCC>
+가자, 어서 옮겨라
+<SYNC Start=1009650><P Class=KRCC>&nbsp;
+<SYNC Start=1013799><P Class=KRCC>
+뭘 한거야? 마법인가?
+<SYNC Start=1017311><P Class=KRCC>
+혹시 에로 광선인가 뭔가입니까?
+<SYNC Start=1020754><P Class=KRCC>&nbsp;
+<SYNC Start=1024865><P Class=KRCC>
+헉, 엄청난 사이즈
+<SYNC Start=1027167><P Class=KRCC>
+나는 시가의 30달러짜리<br>싸구려 여관인데!
+<SYNC Start=1030479><P Class=KRCC>
+이 무슨 차별!<br>아 불공평해! 부르주아!
+<SYNC Start=1035328><P Class=KRCC>
+싸구려 여관이<br>좋은 점도 있어
+<SYNC Start=1037756><P Class=KRCC>
+아~ 그렇습니까~
+<SYNC Start=1040457><P Class=KRCC>
+빨간 장갑이 흰 양말에
+<SYNC Start=1042940><P Class=KRCC>
+'손님'이 지금 들어왔다
+<SYNC Start=1044407><P Class=KRCC>
+반복한다, 손님이 들어왔다
+<SYNC Start=1047249><P Class=KRCC>&nbsp;
+<SYNC Start=1048161><P Class=KRCC>
+그럼, 내일부터<br>조사하는 것으로 괜찮겠지
+<SYNC Start=1051289><P Class=KRCC>
+저녁 때 쯤 마중오겠어
+<SYNC Start=1053380><P Class=KRCC>
+저녁 때 쪽이 좋지?<br>당신들 뱀파이어는
+<SYNC Start=1056889><P Class=KRCC>&nbsp;
+<SYNC Start=1058414><P Class=KRCC>
+- 즐길 수 있겠군<br>- 어?
+<SYNC Start=1060709><P Class=KRCC>&nbsp;
+<SYNC Start=1063608><P Class=KRCC>
+꽤나 즐길 수 있겠군, 이 곳은
+<SYNC Start=1067411><P Class=KRCC>&nbsp;
+<SYNC Start=1069435><P Class=KRCC>
+그런가, 어쩔 수 없군
+<SYNC Start=1072590><P Class=KRCC>
+어쩔 수도 없는 이유로구먼
+<SYNC Start=1075783><P Class=KRCC>
+자네들은 고생을 해야겠네
+<SYNC Start=1078339><P Class=KRCC>
+이것또한 50년 전의 뒷수습이다
+<SYNC Start=1081927><P Class=KRCC>
+매번 더러운 일만을 시키는구먼
+<SYNC Start=1085432><P Class=KRCC>
+예하, 그런 얼굴하시지 마십시오
+<SYNC Start=1089106><P Class=KRCC>
+아무쪼록 이스칼리오데를<br>마음껏 써주십시오
+<SYNC Start=1093267><P Class=KRCC>
+그리고 죄인의 처리는
+<SYNC Start=1095223><P Class=KRCC>
+죄인들끼리 맞붙혀보도록<br>하는걸로 하죠
+<SYNC Start=1098121><P Class=KRCC>
+가능하다면 무덤과 장의의 준비까지…
+<SYNC Start=1101738><P Class=KRCC>&nbsp;
+<SYNC Start=1104611><P Class=KRCC>
+세라스야, 일어나거라
+<SYNC Start=1107297><P Class=KRCC>&nbsp;
+<SYNC Start=1108589><P Class=KRCC>
+세라스야
+<SYNC Start=1110613><P Class=KRCC>&nbsp;
+<SYNC Start=1114379><P Class=KRCC>
+당신, 누구?
+<SYNC Start=1116358><P Class=KRCC>
+난 너의 총
+<SYNC Start=1118352><P Class=KRCC>
+할콘델의 정령이야
+<SYNC Start=1120089><P Class=KRCC>&nbsp;
+<SYNC Start=1123377><P Class=KRCC>
+도망치지마!
+<SYNC Start=1124761><P Class=KRCC>
+도망치지마!<br>것보다 외면하지말라고!
+<SYNC Start=1127186><P Class=KRCC>
+오늘은 힘내는 너를<br>응원하기 위해 찾아왔다!
+<SYNC Start=1132421><P Class=KRCC>
+자, 이 정령님께<br>뭐든 물어보렴
+<SYNC Start=1137860><P Class=KRCC>
+그, 그럼 정령님!
+<SYNC Start=1140294><P Class=KRCC>
+한가지 묻고 싶은 것이 있어요
+<SYNC Start=1142581><P Class=KRCC>
+저 불행이 계속되서<br>정말 엄청난 꼴 당하고있어요
+<SYNC Start=1146050><P Class=KRCC>
+이 앞으로도 계속<br>이런 불행한 인생인가요?
+<SYNC Start=1149570><P Class=KRCC>&nbsp;
+<SYNC Start=1150327><P Class=KRCC>
+뭐, 그렇지
+<SYNC Start=1152373><P Class=KRCC>
+기, 기다리렴 세라스!
+<SYNC Start=1153545><P Class=KRCC>
+지금 건 무효!
+<SYNC Start=1155053><P Class=KRCC>
+노 카운트, 노 카운트!
+<SYNC Start=1157365><P Class=KRCC>
+세라스, 잘 듣거라
+<SYNC Start=1159318><P Class=KRCC>
+자고 있을 때가 아니란다
+<SYNC Start=1161396><P Class=KRCC>
+지금 너희들에게<br>굉장하고 Danger한 일이 일어나고 있다구
+<SYNC Start=1165406><P Class=KRCC>
+에? 굉장한 이라니 뭔가요?
+<SYNC Start=1168468><P Class=KRCC>
+엄청나다는 것
+<SYNC Start=1169955><P Class=KRCC>
+Danger 라는…
+<SYNC Start=1171222><P Class=KRCC>
+위험하다는 것
+<SYNC Start=1172588><P Class=KRCC>&nbsp;
+<SYNC Start=1176709><P Class=KRCC>
+일어나
+<SYNC Start=1179452><P Class=KRCC>
+안녕히 주무셨습니까
+<SYNC Start=1181563><P Class=KRCC>
+일어나, 재미있으니까<br>어서 일어나
+<SYNC Start=1185864><P Class=KRCC>&nbsp;
+<SYNC Start=1188022><P Class=KRCC>
+에? 불빛이…
+<SYNC Start=1190433><P Class=KRCC>&nbsp;
+<SYNC Start=1191504><P Class=KRCC>
+이 소리는?
+<SYNC Start=1193870><P Class=KRCC>
+뭐, 뭐… 뭐야?
+<SYNC Start=1196100><P Class=KRCC>&nbsp;
+<SYNC Start=1196964><P Class=KRCC>
+- NKT브라질의 쥬리아 에드워드가<br>- 뭐야? 뭐야?
+<SYNC Start=1199338><P Class=KRCC>
+소동이 벌어지고 있는
+<SYNC Start=1195542><P Class=KRCC>
+- 호텔 '리오데자네이루'앞에 나와 있습니다<br>- 도대체 뭐야?
+<SYNC Start=1203793><P Class=KRCC>
+30분 전 쯤 호텔 리오 최상층에<br>무장한 테러리스트 남녀 2인조가
+<SYNC Start=1209379><P Class=KRCC>
+종업원, 숙박객 수명을 살해하고<br>10여명의 인질들이 잡혀있는 상황입니다
+<SYNC Start=1214384><P Class=KRCC>&nbsp;
+<SYNC Start=1215954><P Class=KRCC>
+네, 그 일에 관해서는<br>지금 그들과 연락을 취해서 행동을…
+<SYNC Start=1222505><P Class=KRCC>
+네, 그런 일은<br>없을 거라고 생각됩니다만…
+<SYNC Start=1225816><P Class=KRCC>
+그렇게나 전쟁이 하고<br>싶은건가, 전쟁광놈들…
+<SYNC Start=1230427><P Class=KRCC>
+호텔 리오에서 발생한<br>테러리즘 사건의 속행입니다
+<SYNC Start=1234226><P Class=KRCC>&nbsp;
+<SYNC Start=1234719><P Class=KRCC>
+춤춰라 춤춰, Freaks
+<SYNC Start=1237034><P Class=KRCC>
+지옥을 보여줘라, 이 나에게…
+<SYNC Start=1240298><P Class=KRCC>&nbsp;
+<SYNC Start=1245119><P Class=KRCC>
+자, 전쟁의 시간이다
+<SYNC Start=1247615><P Class=KRCC>&nbsp;
+<SYNC Start=1248398><P Class=KRCC>
+스나이퍼, 배치 완료하였습니다
+<SYNC Start=1250080><P Class=KRCC>
+돌입대, 야단, 다가란<br>두 부대 모두 준비 완료
+<SYNC Start=1253877><P Class=KRCC>
+돌입, 돌입 개시
+<SYNC Start=1255952><P Class=KRCC>
+최상층의 두 명은<br>흉악한 무기로 무장하고 있다
+<SYNC Start=1259647><P Class=KRCC>
+일국의 여유도 없이<br>돌입을 개시
+<SYNC Start=1262164><P Class=KRCC>
+즉각 사살하라
+<SYNC Start=1263862><P Class=KRCC>
+반복한다
+<SYNC Start=1264860><P Class=KRCC>
+구속은 불필요<br>즉각 사살하라
+<SYNC Start=1267841><P Class=KRCC>
+이, 이것으로 괜찮은거죠?<br>Mr. 트바루카인
+<SYNC Start=1272714><P Class=KRCC>
+GOOD, GOOD
+<SYNC Start=1274633><P Class=KRCC>
+VERY GOOD
+<SYNC Start=1277003><P Class=KRCC>
+제대로 하고 있는 겁니다<br>제군들
+<SYNC Start=1279825><P Class=KRCC>
+늙음도 질병도 없는 나라에<br>가고 싶은 거라면
+<SYNC Start=1283238><P Class=KRCC>&nbsp;
+<SYNC Start=1284357><P Class=KRCC>
+다가란 대<br>12층 플로어 확보
+<SYNC Start=1286490><P Class=KRCC>
+준비 완료, 실행<br>12층 확보
+<SYNC Start=1289751><P Class=KRCC>&nbsp;
+<SYNC Start=1290971><P Class=KRCC>
+키트 부대<br>엘리베이터 플로어 확보
+<SYNC Start=1293346><P Class=KRCC>
+준비 완료, 실행<br>플로어 확보
+<SYNC Start=1297093><P Class=KRCC>
+경찰의 특수부대가<br>돌입했다는 것 같습니다
+<SYNC Start=1301543><P Class=KRCC>
+아카드는 그들을 어쩔 셈인지…
+<SYNC Start=1304984><P Class=KRCC>
+그에게 있어 목적달성에 방해되는<br>그저 장해물에 지나지 않습니다
+<SYNC Start=1311119><P Class=KRCC>
+싸우려는 의지로<br>그의 앞에 나타나는 것들을
+<SYNC Start=1314173><P Class=KRCC>
+그가 어떻게 할지 아시지 않습니까
+<SYNC Start=1317148><P Class=KRCC>
+그것이 인간이라도 말인가…
+<SYNC Start=1320288><P Class=KRCC>
+그저 평범한 인간이라도 말인가…
+<SYNC Start=1322574><P Class=KRCC>
+잊으셨나요? 아가씨
+<SYNC Start=1325137><P Class=KRCC>
+그는 명실상부한 괴물입니다
+<SYNC Start=1329213><P Class=KRCC>
+후위 준비 완료<br>전위 데이로 분대, 침투! 침투!
+<SYNC Start=1333064><P Class=KRCC>
+라져!
+<SYNC Start=1334002><P Class=KRCC>
+돌입 개시한다!
+<SYNC Start=1335475><P Class=KRCC>&nbsp;
+<SYNC Start=1368293><P Class=KRCC>
+개놈들…
+<SYNC Start=1370596><P Class=KRCC>&nbsp;
+<SYNC Start=1371673><P Class=KRCC>
+과연, 대단한 위력이야
+<SYNC Start=1374604><P Class=KRCC>
+하지만
+<SYNC Start=1378640><P Class=KRCC>&nbsp;
+<SYNC Start=1384896><P Class=KRCC>
+개로써는 날 쓰러트리지 못해
+<SYNC Start=1388894><P Class=KRCC>&nbsp;
+<SYNC Start=1393401><P Class=KRCC>
+괴물을 쓰러트리는건<br>언제나 인간이다
+<SYNC Start=1396977><P Class=KRCC>&nbsp;
+<SYNC Start=1412229><P Class=KRCC>
+못 연다
+<SYNC Start=1413378><P Class=KRCC>&nbsp;
+<SYNC Start=1419232><P Class=KRCC>
+괴, 괴물!!
+<SYNC Start=1421514><P Class=KRCC>&nbsp;
+<SYNC Start=1424597><P Class=KRCC>
+잘 지껄이는군
+<SYNC Start=1426627><P Class=KRCC>
+그럼, 이것과 대치하고 있는<br>넌 뭐냐
+<SYNC Start=1430058><P Class=KRCC>
+인간인가, 개인가, 괴물인가
+<SYNC Start=1435041><P Class=KRCC>&nbsp;
+<SYNC Start=1451197><P Class=KRCC>
+마, 마스터
+<SYNC Start=1453239><P Class=KRCC>
+세라스, 전투 준비를 해라
+<SYNC Start=1456071><P Class=KRCC>
+저, 저기…
+<SYNC Start=1457927><P Class=KRCC>
+뭔가, 꾸물대지마
+<SYNC Start=1460329><P Class=KRCC>
+아, 저… 마스터
+<SYNC Start=1464805><P Class=KRCC>
+그들은 인간이에요
+<SYNC Start=1466735><P Class=KRCC>
+그래서 뭔가
+<SYNC Start=1468266><P Class=KRCC>
+이, 인간이라구요!
+<SYNC Start=1469795><P Class=KRCC>
+그래서 뭐냔말이다, 드라큐리나
+<SYNC Start=1472442><P Class=KRCC>
+총대를 겨누고 전쟁을 시작한 자에게<br>인간이나 비인간이나 있을까보냐!
+<SYNC Start=1477277><P Class=KRCC>
+그들은 왔다 살해당하기 위해서,<br>쓰러트리기 위해서,
+<SYNC Start=1481507><P Class=KRCC>
+쓰러지기 위해서,<br>허망하게 죽기 위해서!
+<SYNC Start=1483556><P Class=KRCC>
+그것이 전부, 전부다
+<SYNC Start=1486001><P Class=KRCC>
+그것을 바꾸는 것은<br>불가능하다
+<SYNC Start=1488258><P Class=KRCC>
+아무도 할 수 없는<br>유일한 이치이다
+<SYNC Start=1491105><P Class=KRCC>
+신도, 악마도, 너도!
+<SYNC Start=1493497><P Class=KRCC>
+그, 그치만… 저, 그…
+<SYNC Start=1497800><P Class=KRCC>&nbsp;
+<SYNC Start=1500146><P Class=KRCC>
+아니, 그거다
+<SYNC Start=1502952><P Class=KRCC>
+그것이야말로…
+<SYNC Start=1505215><P Class=KRCC>&nbsp;
+<SYNC Start=1506751><P Class=KRCC>
+마스터?
+<SYNC Start=1509055><P Class=KRCC>
+가자, 세라스
+<SYNC Start=1511116><P Class=KRCC>
+어슴프레한 어둠을<br>두려워하며 쫓아와
+<SYNC Start=1515679><P Class=KRCC>
+마스터…
+<SYNC Start=1518173><P Class=KRCC>&nbsp;
+<SYNC Start=1519987><P Class=KRCC>
+네
+<SYNC Start=1521348><P Class=KRCC>&nbsp;
+<SYNC Start=1521793><P Class=KRCC>
+직통회선이라?
+<SYNC Start=1523975><P Class=KRCC>
+혹시…
+<SYNC Start=1525653><P Class=KRCC>&nbsp;
+<SYNC Start=1529832><P Class=KRCC>
+누구냐
+<SYNC Start=1531158><P Class=KRCC>
+당신의 충복이다, 인테그라
+<SYNC Start=1534118><P Class=KRCC>
+명령을 내려, my master
+<SYNC Start=1537618><P Class=KRCC>
+돌입한 특수부대는?
+<SYNC Start=1540092><P Class=KRCC>
+죽였어
+<SYNC Start=1542175><P Class=KRCC>
+전멸시켰다
+<SYNC Start=1543488><P Class=KRCC>
+단 하나도 남김없이
+<SYNC Start=1546159><P Class=KRCC>
+자, 인테그라 명령을 내려
+<SYNC Start=1549765><P Class=KRCC>
+경찰대의 상층부는 녀석들에게<br>지배당하고 있는거지?
+<SYNC Start=1554105><P Class=KRCC>
+이렇게 단지 명령을<br>실행하고만 있는 녀석들…
+<SYNC Start=1558147><P Class=KRCC>
+내가 지금부터 죽이려고하는<br>녀석들은 평범한 인간들이다
+<SYNC Start=1563586><P Class=KRCC>
+그러나 나는 죽인다
+<SYNC Start=1565680><P Class=KRCC>
+조금의 주저 없이,<br>한 조각의 후회 없이 몰살 가능하다
+<SYNC Start=1570649><P Class=KRCC>
+왜냐하면 나는 괴물이니까
+<SYNC Start=1573870><P Class=KRCC>
+그럼 너는 어떤가, 인테그라
+<SYNC Start=1576636><P Class=KRCC>
+총은 내가 잡는다,<br>조준도 내가 맡지,
+<SYNC Start=1580958><P Class=KRCC>
+총알을 넣어 장전하고<br>안전장치도 내가 풀지
+<SYNC Start=1586443><P Class=KRCC>
+하지만
+<SYNC Start=1587736><P Class=KRCC>
+죽이는 것은 너의 살의다
+<SYNC Start=1590903><P Class=KRCC>
+자, 어떡할거냐
+<SYNC Start=1592374><P Class=KRCC>
+명령을, 헬싱 국장<br>인테그라 팔브르케 윙게이츠 헬싱
+<SYNC Start=1599375><P Class=KRCC>&nbsp;
+<SYNC Start=1629249><P Class=KRCC>
+날 물로보지마라! 충복!
+<SYNC Start=1631158><P Class=KRCC>
+난 명령을 내렸어!<br>아무것도 변하지 않는다!
+<SYNC Start=1634184><P Class=KRCC>
+"Search and Destroy"
+<SYNC Start=1635913><P Class=KRCC>
+"Search and Destroy" 다!
+<SYNC Start=1637571><P Class=KRCC>
+우리들을 방해하는<br>모든 세력은 쳐부셔버려!
+<SYNC Start=1641187><P Class=KRCC>
+도망가지도 숨지도 말고<br>정면으로 치고 나가!
+<SYNC Start=1644612><P Class=KRCC>
+방해되는 건 모조리<br>쳐부수고 분쇄해버려!
+<SYNC Start=1648717><P Class=KRCC>&nbsp;
+<SYNC Start=1651193><P Class=KRCC>
+라져
+<SYNC Start=1652610><P Class=KRCC>
+그거다,<br>그게 최후의 무화가 나뭇잎…
+<SYNC Start=1655740><P Class=KRCC>
+이 얼마나 훌륭한가!
+<SYNC Start=1657448><P Class=KRCC>
+다시 의욕이 불붙는군,<br>인테그라
+<SYNC Start=1660387><P Class=KRCC>
+그럼 난 저지르러 간다
+<SYNC Start=1662241><P Class=KRCC>
+잘 봐둬, 헬싱경
+<SYNC Start=1665043><P Class=KRCC>&nbsp;
+<SYNC Start=1667447><P Class=KRCC>
+마, 마스터…
+<SYNC Start=1669669><P Class=KRCC>&nbsp;
+<SYNC Start=1674975><P Class=KRCC>
+월터, 내, 내 판단이<br>옳은 걸까 틀린 걸까
+<SYNC Start=1682010><P Class=KRCC>
+옳고 그름의 판단따위…
+<SYNC Start=1684267><P Class=KRCC>
+단지 집사인 저의 입장으로<br>말씀드리자면…
+<SYNC Start=1687930><P Class=KRCC>
+제가 모셔야 할 주군은<br>여기에 계십니다
+<SYNC Start=1692354><P Class=KRCC>
+그럼 차라도 내어올까요
+<SYNC Start=1694943><P Class=KRCC>&nbsp;
+<SYNC Start=1696774><P Class=KRCC>
+실론의 훌륭한 특품이<br>준비되어 있습니다
+<SYNC Start=1700405><P Class=KRCC>&nbsp;
+<SYNC Start=1743458><P Class=KRCC>
+본부! 본부!!
+<SYNC Start=1745707><P Class=KRCC>
+여기는 최상층,<br>재투입 부대
+<SYNC Start=1747868><P Class=KRCC>
+살려줘! 살려줘!!<br>괴물이!!! 제길!
+<SYNC Start=1751176><P Class=KRCC>
+본부! 본부! 젠장!!
+<SYNC Start=1753340><P Class=KRCC>
+여기는 지옥이라고! 젠장! 젠장!!
+<SYNC Start=1756884><P Class=KRCC>&nbsp;
+<SYNC Start=1757544><P Class=KRCC>
+역시 이렇게 되는건가요
+<SYNC Start=1759210><P Class=KRCC>
+이런걸로 끝날 것 같나
+<SYNC Start=1761453><P Class=KRCC>
+죽는다구, 한참 더죽어
+<SYNC Start=1763334><P Class=KRCC>
+그 남자가<br>이 정도로 끝날 것 같은가
+<SYNC Start=1766792><P Class=KRCC>
+그럼 어떻습니까?
+<SYNC Start=1768997><P Class=KRCC>
+원주민이 얼마나 죽든 상관은 없지만<br>이래선 제어가 풀리지 않아
+<SYNC Start=1773464><P Class=KRCC>
+무엇보다 조금도 재미가 없구만
+<SYNC Start=1775926><P Class=KRCC>
+큰 불을 가랑비로<br>끄려고하면 소용이 없지
+<SYNC Start=1779736><P Class=KRCC>
+트바루카인 알한브라에 전달
+<SYNC Start=1782301><P Class=KRCC>
+출격 준비
+<SYNC Start=1783465><P Class=KRCC>
+생각한 것처럼 제어를 풀도록!
+<SYNC Start=1785602><P Class=KRCC>
+서둘러 후퇴, 후퇴!
+<SYNC Start=1788525><P Class=KRCC>
+온다! 달려!
+<SYNC Start=1790589><P Class=KRCC>&nbsp;
+<SYNC Start=1802032><P Class=KRCC>
+어서 들어가!
+<SYNC Start=1803986><P Class=KRCC>&nbsp;
+<SYNC Start=1805670><P Class=KRCC>
+닫아! 서둘러!!
+<SYNC Start=1807471><P Class=KRCC>&nbsp;
+<SYNC Start=1822960><P Class=KRCC>
+벼, 병신 자식!
+<SYNC Start=1824047><P Class=KRCC>
+어이, 뭘 하는거야!
+<SYNC Start=1825941><P Class=KRCC>&nbsp;
+<SYNC Start=1834991><P Class=KRCC>
+닫아, 어서, 빨리!!
+<SYNC Start=1837332><P Class=KRCC>&nbsp;
+<SYNC Start=1849855><P Class=KRCC>
+열려라 참깨…
+<SYNC Start=1852869><P Class=KRCC>&nbsp;
+<SYNC Start=1854118><P Class=KRCC>
+헤이, 제군들!
+<SYNC Start=1855605><P Class=KRCC>
+임무 수고했네, 잘가게나
+<SYNC Start=1859304><P Class=KRCC>&nbsp;
+<SYNC Start=1889654><P Class=KRCC>
+경찰의 특수부대가 돌입하고<br>5분이 경과되었습니다만
+<SYNC Start=1892882><P Class=KRCC>
+내부의 상황은 불명입니다
+<SYNC Start=1894745><P Class=KRCC>&nbsp;
+<SYNC Start=1897729><P Class=KRCC>
+카메라 돌려!
+<SYNC Start=1899397><P Class=KRCC>&nbsp;
+<SYNC Start=1929786><P Class=KRCC>
+이야, 이 얼마나<br>멋진 선전포고인가
+<SYNC Start=1932743><P Class=KRCC>
+기쁘군, 전쟁이다
+<SYNC Start=1935363><P Class=KRCC>
+이걸로 다시 전쟁을 할 수 있어!
+<SYNC Start=1937592><P Class=KRCC>&nbsp;
+<SYNC Start=1938851><P Class=KRCC>
+봐라, 저 꼴을
+<SYNC Start=1940652><P Class=KRCC>
+몸서리 쳐질 정도로<br>불길하고 무서운!
+<SYNC Start=1942865><P Class=KRCC>
+저것이 우리가 소망하는 것이다
+<SYNC Start=1945206><P Class=KRCC>
+생과 사의 위에서<br>댄스를 춰대는 것!
+<SYNC Start=1947595><P Class=KRCC>
+광기와 제정신을 오가는 존재!
+<SYNC Start=1951085><P Class=KRCC>
+변함없이 건강해서 다행이군
+<SYNC Start=1954518><P Class=KRCC>
+암흑을 알고 있는<br>우리들과 같은 동류
+<SYNC Start=1958974><P Class=KRCC>
+인간이 아닌 죽지 않는 전우
+<SYNC Start=1962228><P Class=KRCC>
+나의 전우, 나의 흡혈귀
+<SYNC Start=1966493><P Class=KRCC>
+아, 전쟁 교향곡의<br>소리가 들려오는군
+<SYNC Start=1969320><P Class=KRCC>
+그 그리운 소리가
+<SYNC Start=1971168><P Class=KRCC>
+아비와 규환의 합창이 말이야!
+<SYNC Start=1974989><P Class=KRCC>&nbsp;
+<SYNC Start=1976139><P Class=KRCC>
+이야, 이거 참<br>정말 훌륭한 식사풍이군요
+<SYNC Start=1979587><P Class=KRCC>
+역시 그 고명한 아카드씨 답군요
+<SYNC Start=1982841><P Class=KRCC>&nbsp;
+<SYNC Start=1985811><P Class=KRCC>
+제 이름은 트바루카인 알한브라
+<SYNC Start=1989590><P Class=KRCC>
+친한 사람들에게는<br>'멋쟁이'라고 불리고 있죠
+<SYNC Start=1993517><P Class=KRCC>
+네놈이 저 가련한 놈들을<br>끌어들였냐?
+<SYNC Start=1997643><P Class=KRCC>
+아, 저 불쌍한 놈들인가
+<SYNC Start=2001003><P Class=KRCC>
+멍청한 상관을 가진 덕에<br>저꼴이지
+<SYNC Start=2004433><P Class=KRCC>
+놈들, 부하가 몰살되어도<br>원하는거다
+<SYNC Start=2007919><P Class=KRCC>
+영원한 생명이란 놈을…
+<SYNC Start=2010955><P Class=KRCC>
+머저리 병신놈들이구만
+<SYNC Start=2012633><P Class=KRCC>
+영원함이란건<br>이 세상에는 존재하지 않아
+<SYNC Start=2015986><P Class=KRCC>
+그런 가련한 놈들이라도<br>조금이지만서도 나에게 도움이 되었다
+<SYNC Start=2020958><P Class=KRCC>
+그 자랑의 특제 탄환은<br>앞으로 몇 발일까나?
+<SYNC Start=2024136><P Class=KRCC>
+아카드군
+<SYNC Start=2025672><P Class=KRCC>
+머리가 좋군,<br>그래 어쩔 건가?
+<SYNC Start=2028394><P Class=KRCC>
+'멋쟁이'
+<SYNC Start=2030114><P Class=KRCC>
+자네의 목숨은 우리가 가지겠네
+<SYNC Start=2033141><P Class=KRCC>
+자네는 우리들이 필요로 하는<br>샘플 중 하나가 되어줘야겠어
+<SYNC Start=2038867><P Class=KRCC>
+그래<br>우리들 『밀레니엄』에 있어
+<SYNC Start=2042614><P Class=KRCC>&nbsp;
+<SYNC Start=2050766><P Class=KRCC>
+그래, 그렇구만
+<SYNC Start=2052664><P Class=KRCC>
+그런가 거참 어쩔 수 없는<br>녀석들이군
+<SYNC Start=2057062><P Class=KRCC>
+그러면 이 몸이 상대해주지<br>않으면 안되겠군
+<SYNC Start=2062692><P Class=KRCC>
+한 번 망한거 정도로는<br>정신을 못차리는 건가
+<SYNC Start=2066589><P Class=KRCC>&nbsp;
+<SYNC Start=2094802><P Class=KRCC>
+무슨?!
+<SYNC Start=2096418><P Class=KRCC>&nbsp;
+<SYNC Start=2101762><P Class=KRCC>
+걸렸구만
+<SYNC Start=2103355><P Class=KRCC>&nbsp;
+<SYNC Start=2116967><P Class=KRCC>
+도망치겐 안둬
+<SYNC Start=2119196><P Class=KRCC>&nbsp;
+<SYNC Start=2122441><P Class=KRCC>
+흡혈귀 아카드<br>아무 것도 아니군
+<SYNC Start=2126633><P Class=KRCC>
+트바루카인님이<br>교전중이라는 듯 하다
+<SYNC Start=2128933><P Class=KRCC>
+바, 바보같은… 그에게 혹시<br>무슨일이라도 생기면 우리들과의 약속은?
+<SYNC Start=2133008><P Class=KRCC>
+현재의 보고에 의하면…
+<SYNC Start=2134318><P Class=KRCC>&nbsp;
+<SYNC Start=2165206><P Class=KRCC>
+급료에서는 아직 좀 부족하군
+<SYNC Start=2168509><P Class=KRCC>
+그럼 헬기로 가볼까
+<SYNC Start=2171432><P Class=KRCC>
+피가 멈추지 않아
+<SYNC Start=2173753><P Class=KRCC>
+평범한 카드도<br>능력도 아닌 것 같다만…
+<SYNC Start=2178357><P Class=KRCC>&nbsp;
+<SYNC Start=2178924><P Class=KRCC>
+재밌군, 재밌어
+<SYNC Start=2183071><P Class=KRCC>&nbsp;
+<SYNC Start=2184335><P Class=KRCC>
+그 녀석이다, 그 녀석들이야
+<SYNC Start=2187153><P Class=KRCC>
+굉장히 재미있군
+<SYNC Start=2188538><P Class=KRCC>&nbsp;
+<SYNC Start=2191315><P Class=KRCC>
+준비는 되었나요? 아카드군
+<SYNC Start=2194128><P Class=KRCC>
+자, 고향에 돌려보내주지<br>그리운 지옥의 바닥으로
+<SYNC Start=2199233><P Class=KRCC>&nbsp;
+<SYNC Start=2201564><P Class=KRCC>
+응? 뭐가 웃긴가
+<SYNC Start=2203559><P Class=KRCC>
+아주 기뻐
+<SYNC Start=2205809><P Class=KRCC>
+지금도 네놈들 같은 무서울 정도의<br>병신들이 존재한다니
+<SYNC Start=2210823><P Class=KRCC>
+밀레니엄? 최후의 대대?
+<SYNC Start=2214864><P Class=KRCC>
+그렇군, 돌아버린 소령에게<br>통솔되는 인간이 아닌 것들의 전투단
+<SYNC Start=2222074><P Class=KRCC>
+아직 세계는 광기에 미쳐있어
+<SYNC Start=2225761><P Class=KRCC>
+자, 간다
+<SYNC Start=2227426><P Class=KRCC>
+노래에 맞추어 춤을 추거라
+<SYNC Start=2230205><P Class=KRCC>
+돼지 같은 비명을 질러라
+<SYNC Start=2232926><P Class=KRCC>
+비명을 질러? 이 내가?
+<SYNC Start=2236025><P Class=KRCC>
+아직 아무것도 모르는건가<br>축하해야겠군 아카드 군
+<SYNC Start=2239917><P Class=KRCC>
+뇌수까지 완전히 축하해주고싶구만!
+<SYNC Start=2244140><P Class=KRCC>&nbsp;
+<SYNC Start=2251442><P Class=KRCC>
+또 도망치고 숨나? 쓸데없는…
+<SYNC Start=2254361><P Class=KRCC>&nbsp;
+<SYNC Start=2265053><P Class=KRCC>
+이, 여자애새끼가!
+<SYNC Start=2267086><P Class=KRCC>&nbsp;
+<SYNC Start=2274312><P Class=KRCC>
+물로보지 마라!
+<SYNC Start=2276008><P Class=KRCC>&nbsp;
+<SYNC Start=2278145><P Class=KRCC>
+아, 짜증나게 하는구만!
+<SYNC Start=2280515><P Class=KRCC>&nbsp;
+<SYNC Start=2306740><P Class=KRCC>
+비명을 질러라
+<SYNC Start=2308419><P Class=KRCC>
+돼지 같이 말이다!
+<SYNC Start=2310524><P Class=KRCC>&nbsp;
+<SYNC Start=2339009><P Class=KRCC>
+체크 메이트다, 트바루카인
+<SYNC Start=2344027><P Class=KRCC>&nbsp;
+<SYNC Start=2346875><P Class=KRCC>
+자, 나와의 약속을<br>이행하길바란다
+<SYNC Start=2351266><P Class=KRCC>
+내 사명을 이행하도록<br>해주길 바란다
+<SYNC Start=2354114><P Class=KRCC>
+있는 것 없는 것<br>전부 들어주겠다
+<SYNC Start=2356987><P Class=KRCC>
+그래, 네 놈의 목숨에게
+<SYNC Start=2361535><P Class=KRCC>&nbsp;
+<SYNC Start=2366383><P Class=KRCC>
+그런가, 전쟁인가
+<SYNC Start=2369210><P Class=KRCC>
+그렇다구, 전쟁이라구
+<SYNC Start=2371741><P Class=KRCC>
+대 전쟁이라구
+<SYNC Start=2374531><P Class=KRCC>&nbsp;
+<SYNC Start=2385478><P Class=KRCC>
+마스터, 마스터!
+<SYNC Start=2388157><P Class=KRCC>&nbsp;
+<SYNC Start=2389316><P Class=KRCC>
+이, 이건…
+<SYNC Start=2390538><P Class=KRCC>&nbsp;
+<SYNC Start=2400598><P Class=KRCC>
+마스터
+<SYNC Start=2401990><P Class=KRCC>&nbsp;
+<SYNC Start=2410334><P Class=KRCC>
+마스터…
+<SYNC Start=2411479><P Class=KRCC>&nbsp;
+<SYNC Start=2414366><P Class=KRCC>
+아카드 어르신! 세라스 양!
+<SYNC Start=2417041><P Class=KRCC>
+데리러 왔다구!
+<SYNC Start=2419775><P Class=KRCC>&nbsp;
+<SYNC Start=2421246><P Class=KRCC>
+적을 죽이고 아군을 죽이고
+<SYNC Start=2424065><P Class=KRCC>
+지켜야 할 국민도<br>다스려야 할 나라도
+<SYNC Start=2427900><P Class=KRCC>
+자신까지도 죽여도 아직 부족한가
+<SYNC Start=2432507><P Class=KRCC>
+나도 네 놈도 정말 어쩔 수 없구만
+<SYNC Start=2439964><P Class=KRCC>
+소령
+<SYNC Start=2440885><P Class=KRCC>
+어서 타라구!
+<SYNC Start=2442221><P Class=KRCC>
+랄까 어서 타주세요!
+<SYNC Start=2444572><P Class=KRCC>&nbsp;
+<SYNC Start=2449885><P Class=KRCC>
+저 알한브라가<br>마치 걸레가 아닌가!
+<SYNC Start=2453672><P Class=KRCC>
+역시 강하구만 저 녀석은!
+<SYNC Start=2456213><P Class=KRCC>
+엄청나게 강하구만!
+<SYNC Start=2458002><P Class=KRCC>
+존재를 믿을 수 없을<br>정도로 강하군!
+<SYNC Start=2460068><P Class=KRCC>&nbsp;
+<SYNC Start=2461108><P Class=KRCC>
+죄, 죄송합니다
+<SYNC Start=2463166><P Class=KRCC>
+역시, 우리들은<br>저… 아직 우리들은…
+<SYNC Start=2467213><P Class=KRCC>
+아니!<br>바보같은 소리하지마라
+<SYNC Start=2470493><P Class=KRCC>&nbsp;
+<SYNC Start=2471086><P Class=KRCC>
+오히려 대성공에 가깝다
+<SYNC Start=2473532><P Class=KRCC>
+저 아카드를 상대로<br>우리들은 이 정도의 성과를 올린거다
+<SYNC Start=2478149><P Class=KRCC>
+이것은 놀라운 존재에의 매개다
+<SYNC Start=2481228><P Class=KRCC>
+medium…<br>그것은 이미 인간이 아닌 medium!
+<SYNC Start=2485030><P Class=KRCC>
+즉, 우리는 반세기의 시간을 들여<br>그 업적을 이뤄낸 것이다!
+<SYNC Start=2490713><P Class=KRCC>
+괴물을 구축하고,<br>괴물을 지도하고,
+<SYNC Start=2493485><P Class=KRCC>
+괴물을 편성하고,<br>괴물을 병대로 만들고,
+<SYNC Start=2497956><P Class=KRCC>
+괴물을 운용하고,<br>괴물을 지휘한다
+<SYNC Start=2501183><P Class=KRCC>
+우리들이야 말로<br>『최후의 대대』,『Last battalion』!
+<SYNC Start=2504945><P Class=KRCC>
+- 훌륭해, 박사<br>- 감사합니다
+<SYNC Start=2509295><P Class=KRCC>
+자, 그럼 제군들!
+<SYNC Start=2512045><P Class=KRCC>&nbsp;
+<SYNC Start=2513004><P Class=KRCC>
+즐겁고 즐거운 쇼도<br>일단은 접어두자구
+<SYNC Start=2517679><P Class=KRCC>
+슬슬 돌아가야 하니까
+<SYNC Start=2520045><P Class=KRCC>
+사랑하는 나의 집으로
+<SYNC Start=2523512><P Class=KRCC>&nbsp;
+<SYNC Start=2524608><P Class=KRCC>
+함장, 회항의 준비를 해라
+<SYNC Start=2526857><P Class=KRCC>
+서둘러, 오페라 하우스의<br>노인네들이 기다리고 있어
+<SYNC Start=2531614><P Class=KRCC>
+부지런하게 서두르게나
+<SYNC Start=2533652><P Class=KRCC>
+분명 화가나서 얼굴을 벌겋게<br>하고있을거니까말이야
+<SYNC Start=2538201><P Class=KRCC>
+그렇군요<br>그거야말로 정말 큰일이군요
+<SYNC Start=2542069><P Class=KRCC>
+급회항하겠습니다<br>소령님
+<SYNC Start=2544220><P Class=KRCC>&nbsp;
+<SYNC Start=2545125><P Class=KRCC>
+목적지 확인!<br>프로펠라 기동!
+<SYNC Start=2547214><P Class=KRCC>
+전 프로펠라 기동 확인
+<SYNC Start=2549161><P Class=KRCC>
+코드 OK
+<SYNC Start=2550395><P Class=KRCC>
+- 방향타 20!<br>- 방향타 20!
+<SYNC Start=2554445><P Class=KRCC>&nbsp;
+<SYNC Start=2557489><P Class=KRCC>
+목표 쟈블!
+<SYNC Start=2559376><P Class=KRCC>
+카운테르 시아체!
+<SYNC Start=2561234><P Class=KRCC>
+간다구 노인네들아
+<SYNC Start=2563478><P Class=KRCC>
+나의 방해를 하는 놈이<br>몇 백, 몇 천, 몇 만, 몇 억이라도
+<SYNC Start=2568008><P Class=KRCC>
+내 알바 아니지
+<SYNC Start=2570833><P Class=KRCC>&nbsp;
+<SYNC Start=2571229><P Class=KRCC>
+알겠나?<br>내 앞을 막아서는 놈은 몰살이다
+<SYNC Start=2576199><P Class=KRCC>&nbsp;
+<SYNC Start=2577548><P Class=KRCC>
+Welcome to this crazy time!
+<SYNC Start=2581439><P Class=KRCC>
+이 미쳐버린 시대에 어서와요!
+<SYNC Start=2585977><P Class=KRCC>&nbsp;
+<SYNC Start=2590034><P Class=KRCC>
+<font color=#e90419><b>Hellsing</b></font><BR>Caption by <b>Dark.H</b><BR><font color=#ff8f0f>cyworld.com/darkhurricane</font>
+<SYNC Start=2605024><P Class=KRCC>&nbsp;
+</BODY>
+</SAMI>

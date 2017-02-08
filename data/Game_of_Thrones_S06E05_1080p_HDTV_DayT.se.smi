@@ -1,0 +1,960 @@
+<SAMI>
+<HEAD>
+<STYLE TYPE="text/css">
+<!--
+P { margin-left:8pt; margin-right:8pt; margin-bottom:2pt;
+    margin-top:2pt; font-size:14pt; text-align:center;
+    font-family:굴림, Arial; font-weight:normal; color:white;
+    background-color:black; }
+.KRCC { Name:Korean; lang:kr-KR; SAMIType:CC; }
+#STDPrn { Name:Standard Print; }
+#LargePrn { Name:Large Print; font-size:20pt; }
+#SmallPrn { Name:Small Print; font-size:10pt; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<SYNC Start=5941><P Class=KRCC><i>(theme music playing)</i>
+<SYNC Start=9094><P Class=KRCC>&nbsp;
+<SYNC Start=98206><P Class=KRCC><font color="Tomato">영자막: honeybunny<br>한글자막: Psyence Fictionist</font>
+<SYNC Start=108917><P Class=KRCC>&nbsp;
+<SYNC Start=166969><P Class=KRCC>전하, 좀 앉아 계시는 게..
+<SYNC Start=169671><P Class=KRCC>&nbsp;
+<SYNC Start=169722><P Class=KRCC>정오부터 기다렸잖나
+<SYNC Start=171974><P Class=KRCC>&nbsp;
+<SYNC Start=180766><P Class=KRCC>동부인들은 시간관념이 희박합니다
+<SYNC Start=184104><P Class=KRCC>제가 브라보스에서<br>살바도르 산을 기다렸을 땐
+<SYNC Start=188107><P Class=KRCC>&nbsp;
+<SYNC Start=189525><P Class=KRCC>둘이서 배 세 척 분량의<br>화물을 밀수하기로 했는데..
+<SYNC Start=193328><P Class=KRCC>&nbsp;
+<SYNC Start=220556><P Class=KRCC>강철은행에 잘 오셨습니다
+<SYNC Start=222775><P Class=KRCC>앉으시죠
+<SYNC Start=226028><P Class=KRCC>&nbsp;
+<SYNC Start=248717><P Class=KRCC>어떻게 도와드리면<br>되겠습니까, 스타니스 경?
+<SYNC Start=251170><P Class=KRCC>이분은 바라티언 가의<br>스타니스 전하십니다
+<SYNC Start=253172><P Class=KRCC>안달족과 최초인의 왕이시고
+<SYNC Start=255440><P Class=KRCC>칠왕국의 군주이자<br>왕국의 수호자이십니다
+<SYNC Start=258377><P Class=KRCC>&nbsp;
+<SYNC Start=262231><P Class=KRCC>현재 철왕좌에 앉은 건<br>바라티언 가의 토멘이죠
+<SYNC Start=266518><P Class=KRCC>안달족과 최초인의 왕이고
+<SYNC Start=268021><P Class=KRCC>칠왕국의 군주이자<br>왕국의 수호자죠
+<SYNC Start=270939><P Class=KRCC>&nbsp;
+<SYNC Start=270989><P Class=KRCC>그 아인 내 혈육이 아니요
+<SYNC Start=273692><P Class=KRCC>근친으로 태어난 서자요
+<SYNC Start=277112><P Class=KRCC>그 애 형도 마찬가지였고
+<SYNC Start=279198><P Class=KRCC>그런 풍문은 들었습니다
+<SYNC Start=281950><P Class=KRCC>&nbsp;
+<SYNC Start=282000><P Class=KRCC>풍문이 아니라 사실이요
+<SYNC Start=284620><P Class=KRCC>&nbsp;
+<SYNC Start=284670><P Class=KRCC>왕의 조부 얘기는 다르더군요
+<SYNC Start=288040><P Class=KRCC>왕권을 시기하는 삼촌이<br>왕위를 찬탈하려 들어
+<SYNC Start=292694><P Class=KRCC>왕국에 피바람과<br>자금난을 일으킨다죠
+<SYNC Start=297633><P Class=KRCC>&nbsp;
+<SYNC Start=297683><P Class=KRCC>당신들이 자금을 빌려줬잖소
+<SYNC Start=299385><P Class=KRCC>그래서 당신 핏줄이면<br>우리 자금을 얻을 수 있다는 건가요?
+<SYNC Start=303655><P Class=KRCC>나보다 적격인 사람은 없소
+<SYNC Start=306308><P Class=KRCC>협해 건너에선<br>귀공의 평판을
+<SYNC Start=309261><P Class=KRCC>왕위찬탈자, 광인,<br>피의 권리란 단어로 정의합니다
+<SYNC Start=314967><P Class=KRCC>여기선 모든 걸 숫자로 정의하죠
+<SYNC Start=318136><P Class=KRCC>저흰 토멘 측 주장을<br>더 선호합니다만
+<SYNC Start=320355><P Class=KRCC>더 무난하죠
+<SYNC Start=322307><P Class=KRCC>이견이 생길 여지가 적습니다
+<SYNC Start=325744><P Class=KRCC>&nbsp;
+<SYNC Start=327913><P Class=KRCC>수하에 전력이 몇이나 있습니까?
+<SYNC Start=330899><P Class=KRCC>4천이오
+<SYNC Start=332251><P Class=KRCC>&nbsp;
+<SYNC Start=332301><P Class=KRCC>함선은 몇 척 있으십니까?
+<SYNC Start=334253><P Class=KRCC>&nbsp;
+<SYNC Start=334303><P Class=KRCC>멀쩡히 떠 있는 걸로요, 다보스 경
+<SYNC Start=336588><P Class=KRCC>블랙워터 만에 침몰한 거 말고
+<SYNC Start=339057><P Class=KRCC>&nbsp;
+<SYNC Start=340676><P Class=KRCC>서른 두 척입니다
+<SYNC Start=342427><P Class=KRCC>&nbsp;
+<SYNC Start=342477><P Class=KRCC>드래곤스톤의 식량 생산량은<br>어떻게 되시는지요?
+<SYNC Start=346599><P Class=KRCC>4천 병력과 서른 두 척<br>함선을 유지할 식량 말입니다
+<SYNC Start=351386><P Class=KRCC>&nbsp;
+<SYNC Start=353572><P Class=KRCC>전무하오
+<SYNC Start=355440><P Class=KRCC>저의 관점에서 이 수치가<br>긍정적으로 보일 리 없겠죠?
+<SYNC Start=361446><P Class=KRCC>&nbsp;
+<SYNC Start=362848><P Class=KRCC>죄송하게 됐지만<br>요청은 거절해야겠습니다
+<SYNC Start=368337><P Class=KRCC>방문해주셔서 감사합니다
+<SYNC Start=371456><P Class=KRCC>&nbsp;
+<SYNC Start=380432><P Class=KRCC>공..
+<SYNC Start=381633><P Class=KRCC>&nbsp;
+<SYNC Start=381683><P Class=KRCC>전 공이 아닙니다<br>다보스 시워스 경
+<SYNC Start=384386><P Class=KRCC>&nbsp;
+<SYNC Start=384436><P Class=KRCC>경도 마찬가지지요
+<SYNC Start=386588><P Class=KRCC>브라보스에선 도둑에게<br>작위를 주지 않습니다
+<SYNC Start=391810><P Class=KRCC>따지자면 전 도둑이 아니라<br>밀수꾼이었습니다
+<SYNC Start=394980><P Class=KRCC>도둑들이 훔친 물건을<br>수송만 한 거죠
+<SYNC Start=398367><P Class=KRCC>&nbsp;
+<SYNC Start=399868><P Class=KRCC>스타니스 전하께서 그 죄를<br>물으신 결과가 이겁니다
+<SYNC Start=403238><P Class=KRCC>&nbsp;
+<SYNC Start=403288><P Class=KRCC>정당한 판결이죠
+<SYNC Start=405657><P Class=KRCC>&nbsp;
+<SYNC Start=405707><P Class=KRCC>전하는 정당하신 분이고
+<SYNC Start=407118><P Class=KRCC>당신들이 웨스테로스에 퍼부은 돈을<br>돌려받으려면 이 분이 최선입니다
+<SYNC Start=410663><P Class=KRCC>적지 않은 액수겠죠<br>전쟁은 돈이 많이 드니까요
+<SYNC Start=413465><P Class=KRCC>&nbsp;
+<SYNC Start=413565><P Class=KRCC>전쟁은 끝났습니다
+<SYNC Start=414834><P Class=KRCC>스타니스 전하가 살아계신 한<br>전쟁은 끝나지 않습니다
+<SYNC Start=417337><P Class=KRCC>킹스랜딩의 실세가 누굽니까?
+<SYNC Start=419339><P Class=KRCC>- 다보스 경..<br>- 들어봅시다
+<SYNC Start=421507><P Class=KRCC>- 타이윈 라니스터죠<br>- 타이윈 라니스터가 몇 살입니까?
+<SYNC Start=425177><P Class=KRCC>- 예순일곱이요<br>- 예순일곱인데, 죽으면 누가 통치합니까?
+<SYNC Start=428613><P Class=KRCC>근친으로 태어난<br>자라다 만 아이요?
+<SYNC Start=433051><P Class=KRCC>멸시받는 왕비<br>서세이 라니스터요?
+<SYNC Start=435855><P Class=KRCC>지키기로 맹세한 왕을<br>죽인 걸로 유명한 제이미 라니스터?
+<SYNC Start=440726><P Class=KRCC>타이윈이 죽으면<br>누굴 지지하실 겁니까?
+<SYNC Start=444363><P Class=KRCC>&nbsp;
+<SYNC Start=444413><P Class=KRCC>그건 그때 문제죠
+<SYNC Start=447032><P Class=KRCC>&nbsp;
+<SYNC Start=447082><P Class=KRCC>실례지만<br>지금 문제라고 보는데요
+<SYNC Start=449334><P Class=KRCC>&nbsp;
+<SYNC Start=450702><P Class=KRCC>지금 웨스테로스에 남은<br>믿을만한 지도자는 한 명뿐입니다
+<SYNC Start=453538><P Class=KRCC>스타니스 전하요
+<SYNC Start=455374><P Class=KRCC>왕가 적자고
+<SYNC Start=457209><P Class=KRCC>&nbsp;
+<SYNC Start=457259><P Class=KRCC>연세도 한창 때시고
+<SYNC Start=459378><P Class=KRCC>&nbsp;
+<SYNC Start=459428><P Class=KRCC>전쟁 경험도 있으십니다
+<SYNC Start=461129><P Class=KRCC>&nbsp;
+<SYNC Start=461179><P Class=KRCC>죗값은 반드시<br>치르게 하시는 분입니다
+<SYNC Start=464766><P Class=KRCC>&nbsp;
+<SYNC Start=468637><P Class=KRCC>망루에서 해적선이<br>다가오는 걸 본 거야
+<SYNC Start=471891><P Class=KRCC>선장은 일등 항해사에게 외치지
+<SYNC Start=473892><P Class=KRCC>&nbsp;
+<SYNC Start=473942><P Class=KRCC>내 빨간 셔츠 가져와!
+<SYNC Start=475811><P Class=KRCC>선장은 일등 항해사가<br>가져온 빨간 셔츠를 입어
+<SYNC Start=478814><P Class=KRCC>해적들이 승선하려고 할 때
+<SYNC Start=480733><P Class=KRCC>용감한 선장은<br>승리로 이끄는 거야
+<SYNC Start=483151><P Class=KRCC>며칠 뒤에<br>망루에서 외치는 거야
+<SYNC Start=486571><P Class=KRCC>해적선 두 척이다!
+<SYNC Start=488407><P Class=KRCC>선원들은<br>쥐새끼처럼 발발 떠는데
+<SYNC Start=492244><P Class=KRCC>용맹한 선장은 외치지
+<SYNC Start=494246><P Class=KRCC>내 빨간 셔츠 가져와!
+<SYNC Start=496081><P Class=KRCC>전투가 끝나고<br>일등 항해사가 묻는 거야
+<SYNC Start=498333><P Class=KRCC>선장님은 왜 전투 전에<br>빨간 셔츠를 찾으시는 겁니까?
+<SYNC Start=502170><P Class=KRCC>&nbsp;
+<SYNC Start=502220><P Class=KRCC>선장이 대답하지
+<SYNC Start=503755><P Class=KRCC>&nbsp;
+<SYNC Start=503805><P Class=KRCC>칼 맞았을 때<br>피 흘리는 거 모르게 하려고
+<SYNC Start=507592><P Class=KRCC>&nbsp;
+<SYNC Start=507642><P Class=KRCC>다음 날 아침<br>망루에서 외치는 거야
+<SYNC Start=509845><P Class=KRCC>&nbsp;
+<SYNC Start=509895><P Class=KRCC>해적선 열 척이다!
+<SYNC Start=512347><P Class=KRCC>&nbsp;
+<SYNC Start=512397><P Class=KRCC>완전 포위됐다!
+<SYNC Start=515183><P Class=KRCC>&nbsp;
+<SYNC Start=515267><P Class=KRCC>선원들은 입을 다물고
+<SYNC Start=517018><P Class=KRCC>용맹한 선장이 늘 하던<br>명령을 내리길 기다리는 거야
+<SYNC Start=521690><P Class=KRCC>선장은 여느 때처럼<br>침착하게 외치지
+<SYNC Start=523692><P Class=KRCC>&nbsp;
+<SYNC Start=523742><P Class=KRCC>내 갈색 바지 가져와!
+<SYNC Start=526111><P Class=KRCC>&nbsp;
+<SYNC Start=528947><P Class=KRCC>그 아가씨들이 해적들한테<br>그 농담 못 들어봤을 것 같나?
+<SYNC Start=532451><P Class=KRCC>다보스!
+<SYNC Start=535871><P Class=KRCC>&nbsp;
+<SYNC Start=535954><P Class=KRCC>드래곤스톤 지하감옥에서<br>썩고 있다고 들었는데
+<SYNC Start=538291><P Class=KRCC>썩다 말았다네
+<SYNC Start=540625><P Class=KRCC>&nbsp;
+<SYNC Start=543211><P Class=KRCC>같이 놀자고, 친구
+<SYNC Start=545380><P Class=KRCC>이쪽은 라라고..
+<SYNC Start=548301><P Class=KRCC>- 이쪽은..<br>- 제가 라란데요
+<SYNC Start=549901><P Class=KRCC>&nbsp;
+<SYNC Start=553139><P Class=KRCC>이 아가씨는 완전 예술가라니까
+<SYNC Start=555640><P Class=KRCC>그럴 시간 없어<br>우린 동 트면 출항할 거야
+<SYNC Start=558977><P Class=KRCC>&nbsp;
+<SYNC Start=559027><P Class=KRCC>우리?
+<SYNC Start=560479><P Class=KRCC>자네랑 나, 우리
+<SYNC Start=562647><P Class=KRCC>&nbsp;
+<SYNC Start=564816><P Class=KRCC>이 친구가 날<br>좋아하는 줄 알았는데
+<SYNC Start=567987><P Class=KRCC>이제 보니 날<br>우습게 여기는구만
+<SYNC Start=572158><P Class=KRCC>내가 개털도 없이<br>홀로 죽으라고..
+<SYNC Start=576545><P Class=KRCC>&nbsp;
+<SYNC Start=586505><P Class=KRCC>자넨 혼자가 아닐 거야
+<SYNC Start=588174><P Class=KRCC>개털도 아닐 거고
+<SYNC Start=589724><P Class=KRCC>&nbsp;
+<SYNC Start=597516><P Class=KRCC>자네 집 뒷편에<br>물건 한 상자를 놔뒀네
+<SYNC Start=600101><P Class=KRCC>&nbsp;
+<SYNC Start=600152><P Class=KRCC>자네 아내에게 줬어
+<SYNC Start=602020><P Class=KRCC>&nbsp;
+<SYNC Start=605323><P Class=KRCC>넌 내 친구 아니야, 친구
+<SYNC Start=607692><P Class=KRCC>&nbsp;
+<SYNC Start=609494><P Class=KRCC>동틀 녘에 보자고
+<SYNC Start=611329><P Class=KRCC>&nbsp;
+<SYNC Start=614332><P Class=KRCC>다음 만월까지 북부에서<br>강철군도 놈들을 철수하고
+<SYNC Start=620205><P Class=KRCC>&nbsp;
+<SYNC Start=620255><P Class=KRCC>네놈들의 똥칠갑한<br>바위섬으로 돌아가라
+<SYNC Start=623959><P Class=KRCC>다음 만월이 되는 즉시
+<SYNC Start=625961><P Class=KRCC>&nbsp;
+<SYNC Start=626011><P Class=KRCC>우리 땅에 남은<br>군도인을 모조리 잡아서
+<SYNC Start=628797><P Class=KRCC>산채로 가죽을 벗기겠다
+<SYNC Start=630716><P Class=KRCC>윈터펠에서 이미 군도인<br>스무 놈의 가죽을 벗겼듯이
+<SYNC Start=635020><P Class=KRCC>&nbsp;
+<SYNC Start=636271><P Class=KRCC>상자에 특별 선물을 담아 보낸다
+<SYNC Start=638890><P Class=KRCC>&nbsp;
+<SYNC Start=639941><P Class=KRCC>테온이 좋아라 하던 장난감이다
+<SYNC Start=642394><P Class=KRCC>&nbsp;
+<SYNC Start=642444><P Class=KRCC>이걸 뺏으니까 울더군
+<SYNC Start=645230><P Class=KRCC>&nbsp;
+<SYNC Start=646615><P Class=KRCC>당장 북부를 떠나지 않으면<br>상자를 계속 보내겠다
+<SYNC Start=649402><P Class=KRCC>테온을 한 조각씩 담아서
+<SYNC Start=651570><P Class=KRCC>&nbsp;
+<SYNC Start=651620><P Class=KRCC>램지 스노우 서명
+<SYNC Start=653655><P Class=KRCC>루즈 볼튼의 친자이자
+<SYNC Start=657076><P Class=KRCC>드레드포트의 군주이며
+<SYNC Start=659078><P Class=KRCC>북부의 수호자
+<SYNC Start=662080><P Class=KRCC>좋아!
+<SYNC Start=664049><P Class=KRCC>&nbsp;
+<SYNC Start=664132><P Class=KRCC>놈들은 군도인의 가죽을 벗기고
+<SYNC Start=666251><P Class=KRCC>내 동생의 신체를 절단했다
+<SYNC Start=669004><P Class=KRCC>&nbsp;
+<SYNC Start=669054><P Class=KRCC>제군들의 왕자를 말이다
+<SYNC Start=671423><P Class=KRCC>제군들의 왕자를!
+<SYNC Start=673508><P Class=KRCC>테온이 당한 일은
+<SYNC Start=676262><P Class=KRCC>제군들이 당한 것이나 진배없다!
+<SYNC Start=678346><P Class=KRCC>&nbsp;
+<SYNC Start=679848><P Class=KRCC>놈들이 왕자를 해치고도<br>벌을 받지 않는다면
+<SYNC Start=683769><P Class=KRCC>강철군도인이란 단어는 무의미하다
+<SYNC Start=687772><P Class=KRCC>&nbsp;
+<SYNC Start=711713><P Class=KRCC>좌측으로
+<SYNC Start=713632><P Class=KRCC>&nbsp;
+<SYNC Start=721974><P Class=KRCC>- 테온 그레이조이<br>- 난 모르는..
+<SYNC Start=724809><P Class=KRCC>&nbsp;
+<SYNC Start=724893><P Class=KRCC>테온 그레이조이 데리러 왔다
+<SYNC Start=726227><P Class=KRCC>지하감옥으로 안내해
+<SYNC Start=727562><P Class=KRCC>&nbsp;
+<SYNC Start=727612><P Class=KRCC>지하감옥에 없어요
+<SYNC Start=729814><P Class=KRCC>&nbsp;
+<SYNC Start=754172><P Class=KRCC>- 오른쪽 마지막 우리에요<br>- 고맙군
+<SYNC Start=756341><P Class=KRCC>&nbsp;
+<SYNC Start=759060><P Class=KRCC>이쪽이다!
+<SYNC Start=760845><P Class=KRCC>&nbsp;
+<SYNC Start=774693><P Class=KRCC>집으로 가자
+<SYNC Start=776244><P Class=KRCC>&nbsp;
+<SYNC Start=778079><P Class=KRCC>안돼!
+<SYNC Start=779998><P Class=KRCC>&nbsp;
+<SYNC Start=782200><P Class=KRCC>괜찮아, 누나야
+<SYNC Start=786204><P Class=KRCC>안 속아
+<SYNC Start=788373><P Class=KRCC>내가 안 속더라고 전해
+<SYNC Start=790543><P Class=KRCC>속이는 거 아니야<br>구하러 온 거야
+<SYNC Start=792378><P Class=KRCC>테온 아니야! 구린내야!
+<SYNC Start=793762><P Class=KRCC>&nbsp;
+<SYNC Start=793845><P Class=KRCC>- 구린내! 내 이름은 구린내야!<br>- 놈들이 왔습니다
+<SYNC Start=795548><P Class=KRCC>여기에서 맞닥뜨리면<br>퇴로가 없습니다
+<SYNC Start=797049><P Class=KRCC>같이 데려 나간다
+<SYNC Start=798717><P Class=KRCC>&nbsp;
+<SYNC Start=798767><P Class=KRCC>안 속아!
+<SYNC Start=800635><P Class=KRCC>&nbsp;
+<SYNC Start=800685><P Class=KRCC>- 안돼!<br>- 넌 테온 그레이조이야!
+<SYNC Start=802470><P Class=KRCC>아냐, 안 믿어!<br>난 내가 누군지 알아!
+<SYNC Start=806641><P Class=KRCC>난 구린내야!<br>충성스런 구린내!
+<SYNC Start=809894><P Class=KRCC>&nbsp;
+<SYNC Start=809944><P Class=KRCC>착한 구린내!<br>난 원래 구린내였어!
+<SYNC Start=812731><P Class=KRCC>&nbsp;
+<SYNC Start=823124><P Class=KRCC>오늘 저녁은 재미나겠구만
+<SYNC Start=826077><P Class=KRCC>&nbsp;
+<SYNC Start=842477><P Class=KRCC>난 구린내야!
+<SYNC Start=844012><P Class=KRCC>충성스런 구린내!
+<SYNC Start=845930><P Class=KRCC>&nbsp;
+<SYNC Start=854113><P Class=KRCC>테온!
+<SYNC Start=855356><P Class=KRCC>&nbsp;
+<SYNC Start=868442><P Class=KRCC>동생을 내놓으면<br>더 이상 죽이지 않겠다
+<SYNC Start=871782><P Class=KRCC>&nbsp;
+<SYNC Start=871838><P Class=KRCC>동생보다 불알(배짱)이 큰데?
+<SYNC Start=874841><P Class=KRCC>&nbsp;
+<SYNC Start=876726><P Class=KRCC>근데 그 큰 불알로..
+<SYNC Start=880596><P Class=KRCC>&nbsp;
+<SYNC Start=885601><P Class=KRCC>도망은 잘 치시려나?
+<SYNC Start=887770><P Class=KRCC>&nbsp;
+<SYNC Start=899332><P Class=KRCC>당장 본선으로 가라
+<SYNC Start=901284><P Class=KRCC>동생분은요!
+<SYNC Start=902952><P Class=KRCC>&nbsp;
+<SYNC Start=903002><P Class=KRCC>내 동생은 죽었다
+<SYNC Start=904954><P Class=KRCC>&nbsp;
+<SYNC Start=912545><P Class=KRCC>너한테 대접할 게 있다
+<SYNC Start=915465><P Class=KRCC>상이랄까
+<SYNC Start=917133><P Class=KRCC>&nbsp;
+<SYNC Start=917183><P Class=KRCC>상이요?
+<SYNC Start=919719><P Class=KRCC>&nbsp;
+<SYNC Start=920853><P Class=KRCC>그래, 구린내
+<SYNC Start=922055><P Class=KRCC>간밤에 왔던 놈들은
+<SYNC Start=924975><P Class=KRCC>널 데려가려고 했어
+<SYNC Start=927644><P Class=KRCC>그런데 넌 저항했지
+<SYNC Start=929645><P Class=KRCC>넌 충성을 지켰어
+<SYNC Start=932081><P Class=KRCC>전 따라가기 싫었습니다
+<SYNC Start=935985><P Class=KRCC>&nbsp;
+<SYNC Start=937320><P Class=KRCC>너무 무서웠습니다
+<SYNC Start=938738><P Class=KRCC>&nbsp;
+<SYNC Start=938788><P Class=KRCC>- 전 따라가기..<br>- 그래, 그래
+<SYNC Start=941074><P Class=KRCC>&nbsp;
+<SYNC Start=950083><P Class=KRCC>욕조다
+<SYNC Start=952335><P Class=KRCC>목욕해라
+<SYNC Start=954670><P Class=KRCC>&nbsp;
+<SYNC Start=957840><P Class=KRCC>그 넝마 벗어
+<SYNC Start=960393><P Class=KRCC>&nbsp;
+<SYNC Start=961594><P Class=KRCC>당장
+<SYNC Start=963429><P Class=KRCC>&nbsp;
+<SYNC Start=980079><P Class=KRCC>바지도
+<SYNC Start=982031><P Class=KRCC>&nbsp;
+<SYNC Start=982081><P Class=KRCC>벗어라
+<SYNC Start=983699><P Class=KRCC>&nbsp;
+<SYNC Start=1069952><P Class=KRCC>날 사랑하니, 구린내?
+<SYNC Start=1072622><P Class=KRCC>&nbsp;
+<SYNC Start=1078511><P Class=KRCC>물론입니다요, 나리
+<SYNC Start=1081130><P Class=KRCC>&nbsp;
+<SYNC Start=1082882><P Class=KRCC>잘됐네
+<SYNC Start=1084383><P Class=KRCC>&nbsp;
+<SYNC Start=1084433><P Class=KRCC>너한테 부탁할 게 있거든
+<SYNC Start=1086802><P Class=KRCC>아주 중요한 거야
+<SYNC Start=1088888><P Class=KRCC>성이 있거든?
+<SYNC Start=1092141><P Class=KRCC>&nbsp;
+<SYNC Start=1092191><P Class=KRCC>나쁜 놈들이 성을 차지하고 있어
+<SYNC Start=1095278><P Class=KRCC>&nbsp;
+<SYNC Start=1096646><P Class=KRCC>성을 탈환하게 도와줄래?
+<SYNC Start=1099482><P Class=KRCC>&nbsp;
+<SYNC Start=1103035><P Class=KRCC>제가 어떻게..
+<SYNC Start=1104787><P Class=KRCC>&nbsp;
+<SYNC Start=1107156><P Class=KRCC>흉내를 내줘
+<SYNC Start=1109325><P Class=KRCC>&nbsp;
+<SYNC Start=1110493><P Class=KRCC>다른 사람 행세를 하는 거야
+<SYNC Start=1113412><P Class=KRCC>&nbsp;
+<SYNC Start=1116999><P Class=KRCC>누구 행세를요?
+<SYNC Start=1119169><P Class=KRCC>테온 그레이조이
+<SYNC Start=1122004><P Class=KRCC>&nbsp;
+<SYNC Start=1190573><P Class=KRCC><font color="gold">앞에 계신 분은 타가리엔 가문의<br>폭풍의 딸 대너리스십니다</font>
+<SYNC Start=1194860><P Class=KRCC>&nbsp;
+<SYNC Start=1195233><P Class=KRCC><font color="gold">가문 제 일자시며</font>
+<SYNC Start=1196756><P Class=KRCC>&nbsp;
+<SYNC Start=1196875><P Class=KRCC><font color="gold">불에 타지 않는 자</font>
+<SYNC Start=1197754><P Class=KRCC>&nbsp;
+<SYNC Start=1197873><P Class=KRCC><font color="gold">미린의 여왕</font>
+<SYNC Start=1199525><P Class=KRCC>&nbsp;
+<SYNC Start=1199644><P Class=KRCC><font color="gold">안달족과 최초인의 여왕이시고</font>
+<SYNC Start=1201995><P Class=KRCC>&nbsp;
+<SYNC Start=1202254><P Class=KRCC><font color="gold">대초원의 칼리시</font>
+<SYNC Start=1204400><P Class=KRCC>&nbsp;
+<SYNC Start=1204519><P Class=KRCC><font color="gold">속박의 해방자이자<br>용의 어머니십니다</font>
+<SYNC Start=1208127><P Class=KRCC>&nbsp;
+<SYNC Start=1208742><P Class=KRCC><font color="gold">두려워 마오</font>
+<SYNC Start=1211175><P Class=KRCC>&nbsp;
+<SYNC Start=1213413><P Class=KRCC><font color="gold">전하께서 다가와<br>말 하시랍니다</font>
+<SYNC Start=1215547><P Class=KRCC>&nbsp;
+<SYNC Start=1228494><P Class=KRCC>염소치기입니다
+<SYNC Start=1229929><P Class=KRCC>전하께서 노예상을<br>물리치시길 기도했답니다
+<SYNC Start=1233499><P Class=KRCC>기도해줘서 고맙다고 해라
+<SYNC Start=1236102><P Class=KRCC>&nbsp;
+<SYNC Start=1251634><P Class=KRCC>전하의 용 짓이랍니다
+<SYNC Start=1253636><P Class=KRCC>오늘 아침에<br>염소떼를 찾아왔답니다
+<SYNC Start=1257189><P Class=KRCC>&nbsp;
+<SYNC Start=1261243><P Class=KRCC>심기를 거스르려는 건 아니지만
+<SYNC Start=1263346><P Class=KRCC>이제 빈털터리랍니다
+<SYNC Start=1264980><P Class=KRCC>&nbsp;
+<SYNC Start=1266399><P Class=KRCC>고생하게 해서 미안하다 해라
+<SYNC Start=1268234><P Class=KRCC>내가 염소를 되살릴 순 없지만
+<SYNC Start=1272088><P Class=KRCC>세 배에 달하는<br>돈을 보상하겠다 해라
+<SYNC Start=1276909><P Class=KRCC>&nbsp;
+<SYNC Start=1293309><P Class=KRCC>다음 알현자 들여라
+<SYNC Start=1295511><P Class=KRCC>&nbsp;
+<SYNC Start=1303363><P Class=KRCC><font color="gold">히즈다 조 로라크님께서<br>여왕님을 뵙습니다</font>
+<SYNC Start=1308628><P Class=KRCC>&nbsp;
+<SYNC Start=1309693><P Class=KRCC><font color="gold">히즈다 조 로라크님께<br>직접 말하라 해라</font>
+<SYNC Start=1316128><P Class=KRCC>&nbsp;
+<SYNC Start=1329512><P Class=KRCC>대너리스 여왕님
+<SYNC Start=1331213><P Class=KRCC>소문의 미모가<br>과장이 아니었군요
+<SYNC Start=1333299><P Class=KRCC>고맙소
+<SYNC Start=1335384><P Class=KRCC>저희 가문은 미린에서<br>가장 유서깊고 명망 높습니다
+<SYNC Start=1338421><P Class=KRCC>그런 이를 만나게 되어 영광이오
+<SYNC Start=1341090><P Class=KRCC>미린에서 가장 존경받는<br>제 부군께서는
+<SYNC Start=1345104><P Class=KRCC>&nbsp;
+<SYNC Start=1345174><P Class=KRCC>미린의 자랑인 시설물<br>복원 관리를 감독하셨습니다
+<SYNC Start=1349398><P Class=KRCC>이 피라미드도 해당됩니다
+<SYNC Start=1350950><P Class=KRCC>그 점은 감사해야겠군
+<SYNC Start=1353152><P Class=KRCC>부친을 기꺼이 뵙고 싶소
+<SYNC Start=1354854><P Class=KRCC>이미 뵈셨습니다
+<SYNC Start=1356338><P Class=KRCC>표지판에 못 박으셨죠
+<SYNC Start=1358140><P Class=KRCC>&nbsp;
+<SYNC Start=1360376><P Class=KRCC>전하께선 가족이 그런 잔혹한<br>취급 받는 일 없으시길 빕니다
+<SYNC Start=1364413><P Class=KRCC>&nbsp;
+<SYNC Start=1364463><P Class=KRCC>당신 부친은 무고한<br>어린이를 십자가에 못 박았소
+<SYNC Start=1367983><P Class=KRCC>&nbsp;
+<SYNC Start=1368050><P Class=KRCC>제 부친께선 어린이를<br>못 박는 것에 반대하셨습니다
+<SYNC Start=1371504><P Class=KRCC>죄악라 비난하셨지만<br>기각됐습니다
+<SYNC Start=1374740><P Class=KRCC>죄악을 죄악으로<br>답하는 것이 정의입니까?
+<SYNC Start=1378077><P Class=KRCC>&nbsp;
+<SYNC Start=1378144><P Class=KRCC>부친을 잃은 것은 안됐으나<br>내 노예상 처벌은 죄악이 아니요
+<SYNC Start=1383933><P Class=KRCC>&nbsp;
+<SYNC Start=1383983><P Class=KRCC>그 점은 잊지 않길 바라오
+<SYNC Start=1386785><P Class=KRCC>이미 지나간 일입니다
+<SYNC Start=1389772><P Class=KRCC>전하께선 여왕이시고<br>전 미린의 신하입니다
+<SYNC Start=1392942><P Class=KRCC>전 미린의 전통이<br>끊기지 않길 바랍니다
+<SYNC Start=1396613><P Class=KRCC>어떤 전통 말이오?
+<SYNC Start=1399449><P Class=KRCC>장례 전통입니다
+<SYNC Start=1401450><P Class=KRCC>&nbsp;
+<SYNC Start=1401500><P Class=KRCC>은혜의 사원에서<br>제대로 된 장례를 치르는 겁니다
+<SYNC Start=1403786><P Class=KRCC>&nbsp;
+<SYNC Start=1403836><P Class=KRCC>제 부친을 비롯한<br>162명의 귀족들이
+<SYNC Start=1408374><P Class=KRCC>&nbsp;
+<SYNC Start=1408424><P Class=KRCC>지금도 표지판에<br>못 박혀 있습니다
+<SYNC Start=1410793><P Class=KRCC>독수리가 뜯어 먹고<br>뙤약볕에 썩어갑니다
+<SYNC Start=1413963><P Class=KRCC>&nbsp;
+<SYNC Start=1423172><P Class=KRCC>전하, 시신을 내려<br>장례를 치르게 해주십시오
+<SYNC Start=1428310><P Class=KRCC>미린 귀족들이 못 박은<br>노예 어린이들은 어땠소?
+<SYNC Start=1432482><P Class=KRCC>그들도 뙤약볕에<br>썩어가고 있었소
+<SYNC Start=1434985><P Class=KRCC>그 애들의 장례를 치르게<br>해달라고 부탁했겠소?
+<SYNC Start=1438654><P Class=KRCC>&nbsp;
+<SYNC Start=1438704><P Class=KRCC>전 노예상들이 한 일을<br>변호하고자 하는 게 아닙니다
+<SYNC Start=1441407><P Class=KRCC>&nbsp;
+<SYNC Start=1441490><P Class=KRCC>그저 아버지를 사랑하는<br>아들로서 말씀드리는 겁니다
+<SYNC Start=1445411><P Class=KRCC>부친의 시신을<br>거두게 해주십시오
+<SYNC Start=1447664><P Class=KRCC>사원으로 모셔서<br>제대로 매장하게 해주십시오
+<SYNC Start=1452084><P Class=KRCC>&nbsp;
+<SYNC Start=1452134><P Class=KRCC>그래야 부친께서<br>내세에 편히 잠드십니다
+<SYNC Start=1454503><P Class=KRCC>&nbsp;
+<SYNC Start=1457740><P Class=KRCC>부친을 매장하시오<br>히즈다 조 로라크
+<SYNC Start=1461393><P Class=KRCC>&nbsp;
+<SYNC Start=1465180><P Class=KRCC>감사합니다, 여왕님
+<SYNC Start=1468400><P Class=KRCC>&nbsp;
+<SYNC Start=1479945><P Class=KRCC>얼마나 남았지?
+<SYNC Start=1481413><P Class=KRCC>탄원자 212명이 있습니다
+<SYNC Start=1484700><P Class=KRCC>&nbsp;
+<SYNC Start=1484783><P Class=KRCC>212명?
+<SYNC Start=1487536><P Class=KRCC>&nbsp;
+<SYNC Start=1495010><P Class=KRCC>다음 사람 들여라
+<SYNC Start=1497513><P Class=KRCC>&nbsp;
+<SYNC Start=1499431><P Class=KRCC>원래 회의를<br>이렇게 일찍 합니까?
+<SYNC Start=1502134><P Class=KRCC>&nbsp;
+<SYNC Start=1502184><P Class=KRCC>전 어제 늦게 잤습니다만
+<SYNC Start=1505304><P Class=KRCC>이제 저도 무슨<br>장관이 된 겁니까?
+<SYNC Start=1509308><P Class=KRCC>&nbsp;
+<SYNC Start=1509358><P Class=KRCC>재무관? 선박관?
+<SYNC Start=1511227><P Class=KRCC>타이윈 공과 전 이미<br>오래 전에 제가 선박관을 하기로..
+<SYNC Start=1516732><P Class=KRCC>&nbsp;
+<SYNC Start=1521570><P Class=KRCC>타이윈 공, 의회에 자리를<br>주셔서 감사합니다
+<SYNC Start=1526242><P Class=KRCC>재판은 오후에 시작할 거요
+<SYNC Start=1528243><P Class=KRCC>&nbsp;
+<SYNC Start=1528294><P Class=KRCC>이 문제를 논할 시간은<br>지금밖에 없소
+<SYNC Start=1530496><P Class=KRCC>바로 시작하겠소
+<SYNC Start=1531997><P Class=KRCC>리버랜즈에서 산도르<br>클레게인이 목격됐습니다
+<SYNC Start=1536835><P Class=KRCC>&nbsp;
+<SYNC Start=1536885><P Class=KRCC>비겁자에 반역자입니다
+<SYNC Start=1538253><P Class=KRCC>사냥개가 우리 병사<br>다섯을 학살했다는 첩보입니다
+<SYNC Start=1542508><P Class=KRCC>&nbsp;
+<SYNC Start=1542558><P Class=KRCC>왕 좆까라는 발언했다는군요
+<SYNC Start=1545261><P Class=KRCC>무엄한지고
+<SYNC Start=1547096><P Class=KRCC>일반병이 사냥개에게 맞서는<br>무모한 짓을 하게 하려면 얼마가 들겠나?
+<SYNC Start=1551266><P Class=KRCC>현상금으로 은화 10냥이면<br>충분하다 싶습니다
+<SYNC Start=1553869><P Class=KRCC>100냥으로 하게<br>다른 사안은?
+<SYNC Start=1556689><P Class=KRCC>&nbsp;
+<SYNC Start=1556739><P Class=KRCC>동쪽에서 첩보가<br>또 들어왔습니다
+<SYNC Start=1559274><P Class=KRCC>&nbsp;
+<SYNC Start=1559325><P Class=KRCC>타가리엔 계집 말인가?
+<SYNC Start=1560859><P Class=KRCC>&nbsp;
+<SYNC Start=1560909><P Class=KRCC>대러니스가 미린에<br>자리를 잡았답니다
+<SYNC Start=1563696><P Class=KRCC>&nbsp;
+<SYNC Start=1563746><P Class=KRCC>미린을 정복하고<br>여왕으로 군림 중입니다
+<SYNC Start=1567383><P Class=KRCC>뭘로 정복했단 말이죠?
+<SYNC Start=1568951><P Class=KRCC>&nbsp;
+<SYNC Start=1569001><P Class=KRCC>거세병을 거느리고 있습니다
+<SYNC Start=1570953><P Class=KRCC>장정 8천 명입니다
+<SYNC Start=1572988><P Class=KRCC>용병단도 있습니다
+<SYNC Start=1575291><P Class=KRCC>차남 용병단입니다
+<SYNC Start=1576709><P Class=KRCC>부관으로 기사 두 명이 있습니다
+<SYNC Start=1579161><P Class=KRCC>조라 모르몬트와<br>바리스탄 셀미입니다
+<SYNC Start=1582464><P Class=KRCC>용도 세 마리 있죠
+<SYNC Start=1584466><P Class=KRCC>&nbsp;
+<SYNC Start=1584516><P Class=KRCC>어린 용이잖아요
+<SYNC Start=1585968><P Class=KRCC>해마다 자라고 있습니다
+<SYNC Start=1588137><P Class=KRCC>모르몬트는 우리 첩자잖소
+<SYNC Start=1591640><P Class=KRCC>이제 아닙니다<br>지금은 대너리스에게 충성합니다
+<SYNC Start=1594643><P Class=KRCC>바리스탄 경으로 말하자면
+<SYNC Start=1597680><P Class=KRCC>국왕친위대에서 해임된 것에
+<SYNC Start=1600316><P Class=KRCC>예상보다 반감이 심했나 봅니다
+<SYNC Start=1602152><P Class=KRCC>노인이잖아요
+<SYNC Start=1604069><P Class=KRCC>&nbsp;
+<SYNC Start=1604119><P Class=KRCC>내 아들을 지킬<br>자격이 안 됐어요
+<SYNC Start=1606055><P Class=KRCC>바리스탄이 있을 땐<br>조프리가 죽지 않았다
+<SYNC Start=1608073><P Class=KRCC>&nbsp;
+<SYNC Start=1608123><P Class=KRCC>바리스탄을 해임한 건<br>어리석고도 모욕적이었다
+<SYNC Start=1611410><P Class=KRCC>&nbsp;
+<SYNC Start=1611460><P Class=KRCC>바다 건너에 있는<br>어린애를 걱정하시는 건 아니겠죠
+<SYNC Start=1614596><P Class=KRCC>그 어린애는 부관으로<br>노련한 전사 둘이 있고
+<SYNC Start=1618200><P Class=KRCC>강력한 군대를 보유하고 있습니다
+<SYNC Start=1621420><P Class=KRCC>&nbsp;
+<SYNC Start=1621470><P Class=KRCC>바리스 공 말이 맞습니다
+<SYNC Start=1623506><P Class=KRCC>전 에소스에서<br>거세병을 직접 봤습니다
+<SYNC Start=1626008><P Class=KRCC>&nbsp;
+<SYNC Start=1626058><P Class=KRCC>전장에서 실력이 상당합니다
+<SYNC Start=1629611><P Class=KRCC>침대에선 아니지만요
+<SYNC Start=1631347><P Class=KRCC>지난 300년간 용으로<br>전쟁을 이긴 적은 없다
+<SYNC Start=1634184><P Class=KRCC>항상 군대가 관건이다
+<SYNC Start=1636769><P Class=KRCC>그 계집을 처리해야 한다
+<SYNC Start=1639054><P Class=KRCC>어찌 말입니까?
+<SYNC Start=1641106><P Class=KRCC>무력으로요?
+<SYNC Start=1642441><P Class=KRCC>&nbsp;
+<SYNC Start=1642491><P Class=KRCC>결과적으론 그렇게 되겠지
+<SYNC Start=1644510><P Class=KRCC>&nbsp;
+<SYNC Start=1646662><P Class=KRCC>미린에 첩자를 심을 수 있나?
+<SYNC Start=1649648><P Class=KRCC>물론입니다, 수관님
+<SYNC Start=1651700><P Class=KRCC>티렐 공, 펜과 종이<br>가져다 주시겠소?
+<SYNC Start=1656371><P Class=KRCC>&nbsp;
+<SYNC Start=1677276><P Class=KRCC>오베린 대공
+<SYNC Start=1679478><P Class=KRCC>바리스 공
+<SYNC Start=1681898><P Class=KRCC>공은 빼 주세요<br>전 귀족이 아니랍니다
+<SYNC Start=1685167><P Class=KRCC>절 공이라 칭할 이유는 없답니다
+<SYNC Start=1687736><P Class=KRCC>하지만 다들 그리 부르잖습니까
+<SYNC Start=1689571><P Class=KRCC>&nbsp;
+<SYNC Start=1692074><P Class=KRCC>거세병에 대해<br>해박하시더군요
+<SYNC Start=1694576><P Class=KRCC>에소스에 오래 계셨나요?
+<SYNC Start=1696495><P Class=KRCC>&nbsp;
+<SYNC Start=1696578><P Class=KRCC>5년이요
+<SYNC Start=1699248><P Class=KRCC>이유를 여쭤도 될지?
+<SYNC Start=1700833><P Class=KRCC>&nbsp;
+<SYNC Start=1700883><P Class=KRCC>세상은 넓고 아름다운데
+<SYNC Start=1703752><P Class=KRCC>대부분은 태어난 곳에서 살다 죽고
+<SYNC Start=1708173><P Class=KRCC>세상 구경도 못해보잖습니까
+<SYNC Start=1711094><P Class=KRCC>전 그 대부분이 되기 싫습니다
+<SYNC Start=1713762><P Class=KRCC>대부분은 대공이 아니니까요
+<SYNC Start=1715764><P Class=KRCC>&nbsp;
+<SYNC Start=1717132><P Class=KRCC>에소스 출신이죠?
+<SYNC Start=1720602><P Class=KRCC>&nbsp;
+<SYNC Start=1721820><P Class=KRCC>어딥니까? 리스?
+<SYNC Start=1723489><P Class=KRCC>&nbsp;
+<SYNC Start=1724807><P Class=KRCC>억양을 들으면 알거든요
+<SYNC Start=1726525><P Class=KRCC>&nbsp;
+<SYNC Start=1726575><P Class=KRCC>제 억양은 완전히 없어졌습니다만
+<SYNC Start=1728277><P Class=KRCC>그것도 들으면 압니다
+<SYNC Start=1729778><P Class=KRCC>&nbsp;
+<SYNC Start=1731663><P Class=KRCC>여긴 어떻게 오셨습니까
+<SYNC Start=1733866><P Class=KRCC>말하자면 깁니다
+<SYNC Start=1735450><P Class=KRCC>&nbsp;
+<SYNC Start=1735534><P Class=KRCC>사람들에게 말하기 싫은 사연이군요
+<SYNC Start=1738453><P Class=KRCC>&nbsp;
+<SYNC Start=1738504><P Class=KRCC>제가 믿는 사람이라면야
+<SYNC Start=1741124><P Class=KRCC>제 정부 엘라리아는<br>귀공에게 흥미가 많더군요
+<SYNC Start=1744209><P Class=KRCC>&nbsp;
+<SYNC Start=1744259><P Class=KRCC>언제 환락소에 와서 만나보시죠
+<SYNC Start=1746545><P Class=KRCC>&nbsp;
+<SYNC Start=1746595><P Class=KRCC>고향에서 포도주를 가져왔답니다<br>여기 구정물과는 다르죠
+<SYNC Start=1749632><P Class=KRCC>종업원 중에<br>예쁘장한 남자애들도 있는데..
+<SYNC Start=1752801><P Class=KRCC>&nbsp;
+<SYNC Start=1755704><P Class=KRCC>예전엔 남자애 취향이셨소?
+<SYNC Start=1758106><P Class=KRCC>&nbsp;
+<SYNC Start=1760192><P Class=KRCC>정말입니까?
+<SYNC Start=1762060><P Class=KRCC>&nbsp;
+<SYNC Start=1762110><P Class=KRCC>여자 취향이라고요
+<SYNC Start=1763980><P Class=KRCC>실례가 될지 모르겠지만<br>전혀 예상 못 했군요
+<SYNC Start=1766648><P Class=KRCC>&nbsp;
+<SYNC Start=1766698><P Class=KRCC>실례는요, 무슨
+<SYNC Start=1768151><P Class=KRCC>하지만 여자 취향인 적도 없습니다
+<SYNC Start=1770986><P Class=KRCC>&nbsp;
+<SYNC Start=1771036><P Class=KRCC>- 그럼 어느 쪽이죠?<br>- 아무것도요
+<SYNC Start=1773488><P Class=KRCC>누구나 취향은 있잖습니까
+<SYNC Start=1776325><P Class=KRCC>전 아닙니다
+<SYNC Start=1778076><P Class=KRCC>&nbsp;
+<SYNC Start=1778126><P Class=KRCC>욕망이 사람과 나라에<br>미치는 영향을 봤을 때
+<SYNC Start=1782331><P Class=KRCC>제겐 욕구가 없어<br>다행이라 봅니다
+<SYNC Start=1785167><P Class=KRCC>&nbsp;
+<SYNC Start=1786301><P Class=KRCC>게다가 욕구가 없으면
+<SYNC Start=1789671><P Class=KRCC>다른 것을 추구할 수 있거든요
+<SYNC Start=1792758><P Class=KRCC>&nbsp;
+<SYNC Start=1792808><P Class=KRCC>가령?
+<SYNC Start=1794476><P Class=KRCC>&nbsp;
+<SYNC Start=1829595><P Class=KRCC>어디 보자<br>나 사면된 건가?
+<SYNC Start=1832681><P Class=KRCC>&nbsp;
+<SYNC Start=1848897><P Class=KRCC>진짜 이럴 거야?
+<SYNC Start=1850732><P Class=KRCC>&nbsp;
+<SYNC Start=1852234><P Class=KRCC>아버님 명령이야
+<SYNC Start=1853735><P Class=KRCC>&nbsp;
+<SYNC Start=1853785><P Class=KRCC>아버님을 실망시킬 순 없지
+<SYNC Start=1857572><P Class=KRCC>&nbsp;
+<SYNC Start=1867950><P Class=KRCC>왕시해자!
+<SYNC Start=1869918><P Class=KRCC>&nbsp;
+<SYNC Start=1915881><P Class=KRCC>나 바라티언 가문 국왕 토멘
+<SYNC Start=1919051><P Class=KRCC>&nbsp;
+<SYNC Start=1919101><P Class=KRCC>가문 제 일자
+<SYNC Start=1920802><P Class=KRCC>&nbsp;
+<SYNC Start=1920852><P Class=KRCC>안달족과 최초인의 왕
+<SYNC Start=1923138><P Class=KRCC>&nbsp;
+<SYNC Start=1923188><P Class=KRCC>칠왕국의 군주는
+<SYNC Start=1925808><P Class=KRCC>본 재판에 참여하지 않겠습니다
+<SYNC Start=1929561><P Class=KRCC>&nbsp;
+<SYNC Start=1929611><P Class=KRCC>수관이자 왕국의 수호자<br>라니스터 가문의 타이윈 공이
+<SYNC Start=1933770><P Class=KRCC>&nbsp;
+<SYNC Start=1933840><P Class=KRCC>내 대신 재판을 맡을 겁니다
+<SYNC Start=1936668><P Class=KRCC>&nbsp;
+<SYNC Start=1937986><P Class=KRCC>마르텔 가문의 오베린 대공과
+<SYNC Start=1940655><P Class=KRCC>티렐 가문의 메이스 공이<br>부재판관입니다
+<SYNC Start=1943975><P Class=KRCC>유죄가 인정되면
+<SYNC Start=1946328><P Class=KRCC>&nbsp;
+<SYNC Start=1948497><P Class=KRCC>신들께서 심판하실 겁니다
+<SYNC Start=1950248><P Class=KRCC>&nbsp;
+<SYNC Start=1985867><P Class=KRCC>라니스터 가문의 티리온
+<SYNC Start=1988286><P Class=KRCC>왕대비 섭정이 귀공을<br>왕시해 혐의자로 지목했다
+<SYNC Start=1992374><P Class=KRCC>&nbsp;
+<SYNC Start=1993675><P Class=KRCC>귀공이 조프리 왕을 죽였나?
+<SYNC Start=1996044><P Class=KRCC>&nbsp;
+<SYNC Start=1997379><P Class=KRCC>아닙니다
+<SYNC Start=1998713><P Class=KRCC>귀공의 부인 산사가 죽였나?
+<SYNC Start=2001050><P Class=KRCC>제가 아는 바론 아닙니다
+<SYNC Start=2003552><P Class=KRCC>그럼 왕이 어떻게 죽었나?
+<SYNC Start=2006888><P Class=KRCC>비둘기 파이에<br>사레가 들려 죽었습니다
+<SYNC Start=2009057><P Class=KRCC>&nbsp;
+<SYNC Start=2010525><P Class=KRCC>요리사 탓이라는 건가?
+<SYNC Start=2012561><P Class=KRCC>비둘기 탓이 거나요<br>하여간 전 아닙니다
+<SYNC Start=2014946><P Class=KRCC>&nbsp;
+<SYNC Start=2016948><P Class=KRCC>왕정은 첫 번째 증인을 들이시오
+<SYNC Start=2020903><P Class=KRCC>조프리 전하를 모시고<br>폭도들에게 빠져나왔을 때
+<SYNC Start=2023237><P Class=KRCC>꼬마악마는<br>전하를 비난하고
+<SYNC Start=2025074><P Class=KRCC>전하의 용안을 때리며
+<SYNC Start=2027409><P Class=KRCC>&nbsp;
+<SYNC Start=2027459><P Class=KRCC>악독한 멍청이라 했습니다
+<SYNC Start=2029911><P Class=KRCC>&nbsp;
+<SYNC Start=2031630><P Class=KRCC>꼬마악마는 그 전에도<br>전하를 위협한 적이 있습니다
+<SYNC Start=2033748><P Class=KRCC>바로 이 알현실에섭니다
+<SYNC Start=2035667><P Class=KRCC>그 계단으로 올라가서<br>전하에게 저능아라고 했습니다
+<SYNC Start=2038587><P Class=KRCC>전하를 미친왕과 비교하며
+<SYNC Start=2040922><P Class=KRCC>같은 운명을 맞이할 거라 했습니다
+<SYNC Start=2042758><P Class=KRCC>제가 왕을 변호하자
+<SYNC Start=2044594><P Class=KRCC>절 죽이겠다 협박했습니다
+<SYNC Start=2046928><P Class=KRCC>&nbsp;
+<SYNC Start=2046978><P Class=KRCC>조프리가 한 짓은<br>왜 말 안 하시나?
+<SYNC Start=2049014><P Class=KRCC>- 입 다물라<br>- 장전된 십자궁을 산사에게 겨눴잖나
+<SYNC Start=2051850><P Class=KRCC>자넨 산사 옷을 찢고<br>매질 했잖나
+<SYNC Start=2053518><P Class=KRCC>입 다물라!
+<SYNC Start=2056271><P Class=KRCC>발언허가 없이 말 하지 말도록
+<SYNC Start=2060158><P Class=KRCC>&nbsp;
+<SYNC Start=2061493><P Class=KRCC>물러나시오, 메린 경
+<SYNC Start=2063695><P Class=KRCC>&nbsp;
+<SYNC Start=2070118><P Class=KRCC>바실리스크 독
+<SYNC Start=2072787><P Class=KRCC>&nbsp;
+<SYNC Start=2072838><P Class=KRCC>과부의 피
+<SYNC Start=2075373><P Class=KRCC>투구꽃
+<SYNC Start=2077627><P Class=KRCC>까마중 농축액
+<SYNC Start=2079878><P Class=KRCC>단잠꽃
+<SYNC Start=2082797><P Class=KRCC>리스의 눈물
+<SYNC Start=2084883><P Class=KRCC>&nbsp;
+<SYNC Start=2084933><P Class=KRCC>악마의 춤사위..
+<SYNC Start=2087135><P Class=KRCC>&nbsp;
+<SYNC Start=2089354><P Class=KRCC>맹인꽃..
+<SYNC Start=2090889><P Class=KRCC>&nbsp;
+<SYNC Start=2090939><P Class=KRCC>알아들었습니다, 대문관
+<SYNC Start=2093142><P Class=KRCC>독약을 많이도 보유하셨군요
+<SYNC Start=2094976><P Class=KRCC>&nbsp;
+<SYNC Start=2095026><P Class=KRCC>보유했었죠, 오베린 대공
+<SYNC Start=2097062><P Class=KRCC>제 보관실에 도둑이 들었습니다
+<SYNC Start=2099982><P Class=KRCC>누군가?
+<SYNC Start=2101317><P Class=KRCC>피고 티리온 라니스터 짓입니다
+<SYNC Start=2104202><P Class=KRCC>&nbsp;
+<SYNC Start=2104286><P Class=KRCC>절 모함해서<br>수감한 후 한 짓입니다.
+<SYNC Start=2106656><P Class=KRCC>대문관
+<SYNC Start=2109157><P Class=KRCC>&nbsp;
+<SYNC Start=2109207><P Class=KRCC>자넨 조프리 왕의<br>시신을 검사했다
+<SYNC Start=2112244><P Class=KRCC>독살된 것이 틀림없는가?
+<SYNC Start=2116581><P Class=KRCC>확실합니다
+<SYNC Start=2119134><P Class=KRCC>&nbsp;
+<SYNC Start=2121469><P Class=KRCC>광대 돈토스 홀라드의 시신에서<br>이걸 발견했습니다
+<SYNC Start=2126658><P Class=KRCC>마지막으로 목격된 건<br>피고의 아내인 산사와
+<SYNC Start=2130679><P Class=KRCC>&nbsp;
+<SYNC Start=2130729><P Class=KRCC>동쪽으로 도주하던 모습이었습니다
+<SYNC Start=2134516><P Class=KRCC>산사는 혼인식날<br>이 목걸이를 하고 있었습니다
+<SYNC Start=2140189><P Class=KRCC>안에 희귀한 맹독약의<br>잔여물이 남아있었습니다
+<SYNC Start=2147529><P Class=KRCC>자네 보관실에서<br>도난당한 건가?
+<SYNC Start=2151533><P Class=KRCC>그렇습니다<br>교살자란 독입니다
+<SYNC Start=2154619><P Class=KRCC>칠왕국에 이 독을<br>가진 이는 얼마 없습니다
+<SYNC Start=2158490><P Class=KRCC>그 독으로 신들께서 선물하신<br>가장 고귀한 아이를 죽인 겁니다
+<SYNC Start=2165931><P Class=KRCC>&nbsp;
+<SYNC Start=2173822><P Class=KRCC>이 빚은 갚겠다고
+<SYNC Start=2176141><P Class=KRCC>&nbsp;
+<SYNC Start=2176191><P Class=KRCC>제가 안전하고 행복하다<br>느끼는 날이 오면
+<SYNC Start=2178977><P Class=KRCC>그 즐거움이<br>절망으로 변할 거고
+<SYNC Start=2181397><P Class=KRCC>그 때 자기가 빚을<br>갚았다는 걸 깨달을 거라고 했습니다
+<SYNC Start=2183566><P Class=KRCC>친동생이 그렇게 말했단 말이오?
+<SYNC Start=2187202><P Class=KRCC>&nbsp;
+<SYNC Start=2188486><P Class=KRCC>블랙워터 만 전투 직후였습니다
+<SYNC Start=2191406><P Class=KRCC>조프리를 선봉에 세운다는<br>동생 계획에 반대했거든요
+<SYNC Start=2195627><P Class=KRCC>&nbsp;
+<SYNC Start=2198163><P Class=KRCC>결국 적군이 왔을 때
+<SYNC Start=2199931><P Class=KRCC>조프리는 성벽에 남겠다고 했습니다
+<SYNC Start=2202251><P Class=KRCC>자신이 있어야<br>사기가 올라가니까요
+<SYNC Start=2206171><P Class=KRCC>&nbsp;
+<SYNC Start=2207422><P Class=KRCC>티리온이 빚을 갚겠다 했다고요
+<SYNC Start=2212010><P Class=KRCC>어떤 빚입니까?
+<SYNC Start=2214279><P Class=KRCC>&nbsp;
+<SYNC Start=2215730><P Class=KRCC>티리온이 수관탑에<br>창녀를 들였다는 걸 알게됐습니다
+<SYNC Start=2219101><P Class=KRCC>그런 음탕한 짓은<br>매음굴에서 해달라고 했죠
+<SYNC Start=2224273><P Class=KRCC>그 말에 화를 내더군요
+<SYNC Start=2226241><P Class=KRCC>&nbsp;
+<SYNC Start=2228860><P Class=KRCC>용기내어 증언해주어<br>감사하오, 왕대비
+<SYNC Start=2233331><P Class=KRCC>&nbsp;
+<SYNC Start=2248963><P Class=KRCC>그 위협을 정확히<br>기억하시오?
+<SYNC Start=2251383><P Class=KRCC>&nbsp;
+<SYNC Start=2251433><P Class=KRCC>그렇습니다
+<SYNC Start=2253968><P Class=KRCC>&nbsp;
+<SYNC Start=2254019><P Class=KRCC>그렇다면 자신에게<br>말 조심하라고
+<SYNC Start=2257973><P Class=KRCC>괴물은 위험하다고
+<SYNC Start=2259891><P Class=KRCC>&nbsp;
+<SYNC Start=2259941><P Class=KRCC>요샌 왕 목숨이<br>파리 목숨이라고 했습니다
+<SYNC Start=2262394><P Class=KRCC>그 말을 의회에서<br>했단 말이오?
+<SYNC Start=2265730><P Class=KRCC>그렇습니다
+<SYNC Start=2266982><P Class=KRCC>롭 스타크의 사망<br>소식을 들은 후였습니다
+<SYNC Start=2270151><P Class=KRCC>그 소식에 기뻐하진 않더군요
+<SYNC Start=2272404><P Class=KRCC>&nbsp;
+<SYNC Start=2272454><P Class=KRCC>산사 스타크와의 혼인 때문에
+<SYNC Start=2274906><P Class=KRCC>&nbsp;
+<SYNC Start=2274956><P Class=KRCC>북부의 명분에<br>공감대가 있었나 봅니다
+<SYNC Start=2277375><P Class=KRCC>&nbsp;
+<SYNC Start=2281496><P Class=KRCC>물러나도 좋소, 바리스 공
+<SYNC Start=2283832><P Class=KRCC>&nbsp;
+<SYNC Start=2285333><P Class=KRCC>아버님, 한 가지 질문해도 됩니까?
+<SYNC Start=2288920><P Class=KRCC>&nbsp;
+<SYNC Start=2294759><P Class=KRCC>딱 하나다
+<SYNC Start=2296678><P Class=KRCC>&nbsp;
+<SYNC Start=2299848><P Class=KRCC>귀공 이런 말을 했었소
+<SYNC Start=2301850><P Class=KRCC>내가 아니였다면<br>킹스랜딩은 필패했을 거라고
+<SYNC Start=2305603><P Class=KRCC>내 이름이 역사에 남진 않겠지만
+<SYNC Start=2309191><P Class=KRCC>공은 잊지 않겠다 했소
+<SYNC Start=2311860><P Class=KRCC>&nbsp;
+<SYNC Start=2313194><P Class=KRCC>잊어버린 거요, 바리스 공?
+<SYNC Start=2315830><P Class=KRCC>&nbsp;
+<SYNC Start=2318583><P Class=KRCC>슬프게도
+<SYNC Start=2320452><P Class=KRCC>&nbsp;
+<SYNC Start=2320502><P Class=KRCC>전 잊는 법이 없답니다
+<SYNC Start=2323204><P Class=KRCC>&nbsp;
+<SYNC Start=2332881><P Class=KRCC>잠시 휴정하겠소
+<SYNC Start=2335350><P Class=KRCC>&nbsp;
+<SYNC Start=2336718><P Class=KRCC>시간 되면 종을 치도록
+<SYNC Start=2339304><P Class=KRCC>&nbsp;
+<SYNC Start=2339354><P Class=KRCC>법정에서 나오십시오!
+<SYNC Start=2341523><P Class=KRCC>&nbsp;
+<SYNC Start=2361376><P Class=KRCC>아들에게 사형선고를<br>내리실 겁니까?
+<SYNC Start=2363995><P Class=KRCC>판결 아직 안 내렸다<br>재판은 진행 중이야
+<SYNC Start=2366164><P Class=KRCC>&nbsp;
+<SYNC Start=2366214><P Class=KRCC>이건 재판이 아니라<br>촌극입니다
+<SYNC Start=2367749><P Class=KRCC>서세이가 모조리<br>손을 써 둔 거 아시잖습니까
+<SYNC Start=2370084><P Class=KRCC>난 모르는 바다
+<SYNC Start=2371503><P Class=KRCC>&nbsp;
+<SYNC Start=2371553><P Class=KRCC>- 전부터 티리온을 미워하셨죠<br>- 왕을 죽인 놈이다!
+<SYNC Start=2374088><P Class=KRCC>저도 죽였습니다!
+<SYNC Start=2375925><P Class=KRCC>미친왕이 제게 내린<br>마지막 명이 뭔지 아십니까?
+<SYNC Start=2378543><P Class=KRCC>아버님 머리를 가져오랬습니다
+<SYNC Start=2381412><P Class=KRCC>&nbsp;
+<SYNC Start=2381479><P Class=KRCC>제가 살려 드렸더니<br>제 동생을 죽이시는 겁니까?
+<SYNC Start=2383933><P Class=KRCC>- 살인이 아니라 정의다<br>- 정의요?
+<SYNC Start=2386768><P Class=KRCC>난 수관의 의무를 행하는 거다
+<SYNC Start=2389939><P Class=KRCC>티리온이 유죄 판결되면<br>그에 따른 처벌을 해야 한다
+<SYNC Start=2393024><P Class=KRCC>&nbsp;
+<SYNC Start=2393074><P Class=KRCC>- 처형되겠죠<br>- 합당한 처벌을 내린다니까!
+<SYNC Start=2395643><P Class=KRCC>&nbsp;
+<SYNC Start=2397946><P Class=KRCC>남는 건 가문 뿐이라셨죠
+<SYNC Start=2401282><P Class=KRCC>가문이 전부라고
+<SYNC Start=2403285><P Class=KRCC>천년을 갈 왕조 얘길 하셨죠
+<SYNC Start=2406788><P Class=KRCC>&nbsp;
+<SYNC Start=2406838><P Class=KRCC>티리온이 죽으면<br>그 왕조는 어떻게 됩니까?
+<SYNC Start=2409707><P Class=KRCC>&nbsp;
+<SYNC Start=2410959><P Class=KRCC>전 국왕친위댑니다
+<SYNC Start=2412628><P Class=KRCC>서약 때문에<br>가문을 이을 수 없죠
+<SYNC Start=2414546><P Class=KRCC>&nbsp;
+<SYNC Start=2414596><P Class=KRCC>네 서약은 잘 알고 있다
+<SYNC Start=2416298><P Class=KRCC>가문은 어떻게 되는 겁니까?
+<SYNC Start=2418466><P Class=KRCC>앞으로 전장에서<br>사자 깃발은 누가 들죠?
+<SYNC Start=2421803><P Class=KRCC>&nbsp;
+<SYNC Start=2421853><P Class=KRCC>아버님 조카요?
+<SYNC Start=2423805><P Class=KRCC>&nbsp;
+<SYNC Start=2423855><P Class=KRCC>란슬 라니스터요?
+<SYNC Start=2425473><P Class=KRCC>아니면 제가 이름도<br>모르는 친척들이요?
+<SYNC Start=2427725><P Class=KRCC>손자를 죽인 놈을 살려두면<br>내 왕조는 어떻게 되나?
+<SYNC Start=2431696><P Class=KRCC>제가 잇겠습니다
+<SYNC Start=2434282><P Class=KRCC>&nbsp;
+<SYNC Start=2436818><P Class=KRCC>국왕친위대에서 물러나겠습니다
+<SYNC Start=2438654><P Class=KRCC>아버님의 후계자가 되겠습니다
+<SYNC Start=2441490><P Class=KRCC>티리온을 살려주시면요
+<SYNC Start=2444409><P Class=KRCC>좋다
+<SYNC Start=2445877><P Class=KRCC>&nbsp;
+<SYNC Start=2447412><P Class=KRCC>증언이 끝나고 평결을 마치면
+<SYNC Start=2451000><P Class=KRCC>티리온에게 발언기회가 있을 거다
+<SYNC Start=2452750><P Class=KRCC>&nbsp;
+<SYNC Start=2452800><P Class=KRCC>자비를 구하면<br>밤의 경비대에 입대시키겠다
+<SYNC Start=2456804><P Class=KRCC>&nbsp;
+<SYNC Start=2458556><P Class=KRCC>사흘 후, 검은 성으로 보내겠다
+<SYNC Start=2461342><P Class=KRCC>&nbsp;
+<SYNC Start=2461392><P Class=KRCC>여생을 장벽에서 살게 될 거다
+<SYNC Start=2463094><P Class=KRCC>넌 즉시 흰 망토를 벗는다
+<SYNC Start=2465681><P Class=KRCC>넌 킹스랜딩을 떠나서<br>카스털리 록의 군주가 된다
+<SYNC Start=2469934><P Class=KRCC>&nbsp;
+<SYNC Start=2469984><P Class=KRCC>베필을 만나서<br>라니스터 아이의 아버지가 된다
+<SYNC Start=2475523><P Class=KRCC>그리고 다시는<br>가족을 등지지 않는다
+<SYNC Start=2479410><P Class=KRCC>&nbsp;
+<SYNC Start=2484532><P Class=KRCC>약속드리죠
+<SYNC Start=2486035><P Class=KRCC>나도 약속한다
+<SYNC Start=2487869><P Class=KRCC>&nbsp;
+<SYNC Start=2511976><P Class=KRCC>잘 안풀리지?
+<SYNC Start=2514145><P Class=KRCC>- 넌 유죄 판결 받을 거야<br>- 어이쿠야, 그래?
+<SYNC Start=2516648><P Class=KRCC>판결 나오면 공식적으로<br>자비를 구하고
+<SYNC Start=2519400><P Class=KRCC>&nbsp;
+<SYNC Start=2519450><P Class=KRCC>장벽에 보내달라고 해
+<SYNC Start=2521736><P Class=KRCC>아버지랑 합의했어
+<SYNC Start=2523738><P Class=KRCC>널 살려주고<br>밤의 경비대에 입대 시킨대
+<SYNC Start=2526491><P Class=KRCC>네드 스타크도<br>똑같은 약속을 받았지
+<SYNC Start=2529160><P Class=KRCC>그 결과는 피차 잘 알잖아
+<SYNC Start=2531162><P Class=KRCC>아버지는 조프리랑 달라<br>약속은 지키셔
+<SYNC Start=2533082><P Class=KRCC>어떻게 알아?
+<SYNC Start=2534916><P Class=KRCC>&nbsp;
+<SYNC Start=2538720><P Class=KRCC>형 믿지?
+<SYNC Start=2540638><P Class=KRCC>&nbsp;
+<SYNC Start=2543591><P Class=KRCC>입 다물고<br>성깔 부리지 마
+<SYNC Start=2546177><P Class=KRCC>&nbsp;
+<SYNC Start=2546227><P Class=KRCC>금방 끝날 거야
+<SYNC Start=2548262><P Class=KRCC>&nbsp;
+<SYNC Start=2564195><P Class=KRCC>왕정은 다음 증인을 들이시오
+<SYNC Start=2567115><P Class=KRCC>&nbsp;
+<SYNC Start=2601599><P Class=KRCC>이름을 말하라
+<SYNC Start=2603652><P Class=KRCC>셰이입니다
+<SYNC Start=2605654><P Class=KRCC>신들께 진실하게<br>증언할 것을 맹세하는가?
+<SYNC Start=2610491><P Class=KRCC>맹세합니다
+<SYNC Start=2613327><P Class=KRCC>&nbsp;
+<SYNC Start=2613378><P Class=KRCC>이 자를 아나?
+<SYNC Start=2615163><P Class=KRCC>&nbsp;
+<SYNC Start=2622837><P Class=KRCC>네, 티리온 라니스터입니다
+<SYNC Start=2626107><P Class=KRCC>어떻게 아는가?
+<SYNC Start=2627925><P Class=KRCC>&nbsp;
+<SYNC Start=2627975><P Class=KRCC>전 저 자의 아내<br>산사 부인의 시종이었습니다
+<SYNC Start=2631262><P Class=KRCC>저 자는 국왕 조프리<br>시해 혐의자다
+<SYNC Start=2635350><P Class=KRCC>이에 대해 아는 바 있는가?
+<SYNC Start=2637568><P Class=KRCC>&nbsp;
+<SYNC Start=2639187><P Class=KRCC>티리온은 유죄입니다
+<SYNC Start=2641489><P Class=KRCC>&nbsp;
+<SYNC Start=2642824><P Class=KRCC>산사와 공모한 겁니다
+<SYNC Start=2644909><P Class=KRCC>&nbsp;
+<SYNC Start=2646195><P Class=KRCC>정숙하시오!
+<SYNC Start=2648696><P Class=KRCC>&nbsp;
+<SYNC Start=2648746><P Class=KRCC>계속 하라
+<SYNC Start=2651282><P Class=KRCC>산사는 가족의 복수를 원했습니다
+<SYNC Start=2655703><P Class=KRCC>&nbsp;
+<SYNC Start=2655753><P Class=KRCC>가족의 죽음이<br>국왕 탓이라 여겼습니다
+<SYNC Start=2658540><P Class=KRCC>티리온이 기꺼이 도왔습니다
+<SYNC Start=2660958><P Class=KRCC>&nbsp;
+<SYNC Start=2661008><P Class=KRCC>티리온은 조프리님과<br>왕대비님을 증오했습니다
+<SYNC Start=2664629><P Class=KRCC>&nbsp;
+<SYNC Start=2664679><P Class=KRCC>수관님도 증오했습니다
+<SYNC Start=2667732><P Class=KRCC>티리온은 대문관의 독을 훔쳐<br>조프리님의 술잔에 넣었습니다
+<SYNC Start=2672820><P Class=KRCC>그걸 자네가 어찌 아나?
+<SYNC Start=2675389><P Class=KRCC>그 계획을 아내의 시종에게<br>밝힐 이유가 없지 않나?
+<SYNC Start=2679193><P Class=KRCC>&nbsp;
+<SYNC Start=2680812><P Class=KRCC>전 단순한 시종이 아닙니다
+<SYNC Start=2683247><P Class=KRCC>&nbsp;
+<SYNC Start=2686067><P Class=KRCC>전 티리온의 창녀였습니다
+<SYNC Start=2687736><P Class=KRCC>뭐라고 했나?
+<SYNC Start=2690739><P Class=KRCC>자네가 티리온의..
+<SYNC Start=2692406><P Class=KRCC>&nbsp;
+<SYNC Start=2692457><P Class=KRCC>창녀요
+<SYNC Start=2694292><P Class=KRCC>&nbsp;
+<SYNC Start=2697161><P Class=KRCC>어쩌다 그렇게 됐나?
+<SYNC Start=2699664><P Class=KRCC>절 납치했습니다
+<SYNC Start=2700998><P Class=KRCC>전 전하 군대의<br>기사분을 모셨습니다
+<SYNC Start=2704086><P Class=KRCC>그런데 티리온이<br>주둔지에 와서는
+<SYNC Start=2706637><P Class=KRCC>&nbsp;
+<SYNC Start=2706721><P Class=KRCC>자기 깡패를<br>제 천막에 보냈습니다
+<SYNC Start=2708923><P Class=KRCC>그 깡패가 기사분 팔을 분지르고<br>절 티리온에게 끌고 갔습니다
+<SYNC Start=2713428><P Class=KRCC>전 이제 자기 것이라 했습니다
+<SYNC Start=2715930><P Class=KRCC>&nbsp;
+<SYNC Start=2715980><P Class=KRCC>내일 죽을 것 처럼<br>저랑 떡 치고 싶다고 했습니다
+<SYNC Start=2719934><P Class=KRCC>&nbsp;
+<SYNC Start=2722687><P Class=KRCC>정숙하시오!
+<SYNC Start=2725406><P Class=KRCC>&nbsp;
+<SYNC Start=2726691><P Class=KRCC>그래서 그렇게 했나?
+<SYNC Start=2728359><P Class=KRCC>뭘요?
+<SYNC Start=2730862><P Class=KRCC>&nbsp;
+<SYNC Start=2730912><P Class=KRCC>내일 죽을 것 처럼 떡 쳤냐고
+<SYNC Start=2733581><P Class=KRCC>&nbsp;
+<SYNC Start=2735616><P Class=KRCC>원하는 대로 다 했습니다
+<SYNC Start=2738119><P Class=KRCC>시킨 대로 다 했습니다
+<SYNC Start=2740171><P Class=KRCC>&nbsp;
+<SYNC Start=2740290><P Class=KRCC>바라는 대로 다 했습니다
+<SYNC Start=2742067><P Class=KRCC>&nbsp;
+<SYNC Start=2742305><P Class=KRCC>입 맞추란 곳에 입 맞췄고
+<SYNC Start=2744188><P Class=KRCC>&nbsp;
+<SYNC Start=2744307><P Class=KRCC>핥으란 곳을 핥았습니다
+<SYNC Start=2745710><P Class=KRCC>&nbsp;
+<SYNC Start=2745829><P Class=KRCC>원하는 곳에..<br>넣게 했습니다
+<SYNC Start=2749145><P Class=KRCC>&nbsp;
+<SYNC Start=2749195><P Class=KRCC>전 소유물이었습니다
+<SYNC Start=2751147><P Class=KRCC>전 티리온의 침소에서<br>몇 시간이고 기다리다
+<SYNC Start=2753399><P Class=KRCC>심심할 때 가지고 놀<br>장난감이 됐습니다
+<SYNC Start=2755235><P Class=KRCC>&nbsp;
+<SYNC Start=2755285><P Class=KRCC>자기를 우리 사자님이라<br>부르라 해서 그리 했습니다
+<SYNC Start=2759239><P Class=KRCC>전 티리온 얼굴을 잡고
+<SYNC Start=2762909><P Class=KRCC>&nbsp;
+<SYNC Start=2762959><P Class=KRCC>전 당신 거고<br>당신은 제 것이라 했습니다
+<SYNC Start=2765995><P Class=KRCC>&nbsp;
+<SYNC Start=2769716><P Class=KRCC>셰이
+<SYNC Start=2771251><P Class=KRCC>&nbsp;
+<SYNC Start=2774470><P Class=KRCC>그만해
+<SYNC Start=2776506><P Class=KRCC>&nbsp;
+<SYNC Start=2778725><P Class=KRCC>전 창녀에요
+<SYNC Start=2781094><P Class=KRCC>기억 안 나요?
+<SYNC Start=2783680><P Class=KRCC>&nbsp;
+<SYNC Start=2785648><P Class=KRCC>산사와 혼인 전 일입니다
+<SYNC Start=2787685><P Class=KRCC>혼인 후엔<br>산사만을 탐했습니다
+<SYNC Start=2790354><P Class=KRCC>하지만 산사는 침실에<br>티리온을 들이지 않았습니다 
+<SYNC Start=2792939><P Class=KRCC>&nbsp;
+<SYNC Start=2794407><P Class=KRCC>그래서 조프리를<br>죽여준다 약속한 겁니다
+<SYNC Start=2797193><P Class=KRCC>&nbsp;
+<SYNC Start=2808421><P Class=KRCC>자백하겠습니다
+<SYNC Start=2811040><P Class=KRCC>&nbsp;
+<SYNC Start=2812258><P Class=KRCC>자백.. 하겠습니다
+<SYNC Start=2815544><P Class=KRCC>&nbsp;
+<SYNC Start=2817713><P Class=KRCC>자백하겠다고?
+<SYNC Start=2820216><P Class=KRCC>&nbsp;
+<SYNC Start=2822101><P Class=KRCC>내가 당신들을 구했어
+<SYNC Start=2823719><P Class=KRCC>&nbsp;
+<SYNC Start=2825471><P Class=KRCC>내가 이 도시를 구했어
+<SYNC Start=2827807><P Class=KRCC>하찮은 당신들 목숨을
+<SYNC Start=2831310><P Class=KRCC>&nbsp;
+<SYNC Start=2831360><P Class=KRCC>스타니스한테 뒈지게<br>놔뒀어야 했는데
+<SYNC Start=2834864><P Class=KRCC>&nbsp;
+<SYNC Start=2835958><P Class=KRCC>티리온
+<SYNC Start=2837533><P Class=KRCC>&nbsp;
+<SYNC Start=2840403><P Class=KRCC>자백하겠나?
+<SYNC Start=2842905><P Class=KRCC>&nbsp;
+<SYNC Start=2846459><P Class=KRCC>하겠습니다, 아버님
+<SYNC Start=2849078><P Class=KRCC>전 죄인입니다
+<SYNC Start=2851614><P Class=KRCC>죄인요, 이 말이<br>듣고 싶으신 겁니까? 
+<SYNC Start=2854584><P Class=KRCC>왕을 독살한 걸 인정하나?
+<SYNC Start=2856752><P Class=KRCC>아니요, 그점은 무고합니다
+<SYNC Start=2859338><P Class=KRCC>전 훨씬 더 흉악한<br>죄악에 유죄입니다
+<SYNC Start=2863342><P Class=KRCC>&nbsp;
+<SYNC Start=2863392><P Class=KRCC>전 난쟁이라는 죄인입니다
+<SYNC Start=2866846><P Class=KRCC>&nbsp;
+<SYNC Start=2868013><P Class=KRCC>피고는 난쟁이라서<br>재판을 받는 것이 아니다
+<SYNC Start=2870433><P Class=KRCC>&nbsp;
+<SYNC Start=2870483><P Class=KRCC>사실 그렇습니다
+<SYNC Start=2872735><P Class=KRCC>전 평생 재판을 받고 있습니다
+<SYNC Start=2876939><P Class=KRCC>&nbsp;
+<SYNC Start=2878157><P Class=KRCC>자기변론할 말 없나?
+<SYNC Start=2879892><P Class=KRCC>할 말은 이것뿐입니다
+<SYNC Start=2881327><P Class=KRCC>전 안 했습니다
+<SYNC Start=2884281><P Class=KRCC>난 조프리 안 죽였어
+<SYNC Start=2887283><P Class=KRCC>내가 죽였으면 좋았을 텐데
+<SYNC Start=2889618><P Class=KRCC>네년의 악독한 사생아가<br>뒈지는 모습을 보는 건
+<SYNC Start=2892455><P Class=KRCC>&nbsp;
+<SYNC Start=2892505><P Class=KRCC>거짓말 하는 창녀<br>천 명보다 즐겁더군
+<SYNC Start=2896592><P Class=KRCC>&nbsp;
+<SYNC Start=2899545><P Class=KRCC>내가 당신들이 생각처럼 <br>괴물이라면 좋겠다
+<SYNC Start=2903966><P Class=KRCC>&nbsp;
+<SYNC Start=2905351><P Class=KRCC>당신들 다 죽일<br>독약이 있었으면 좋겠어
+<SYNC Start=2908971><P Class=KRCC>당신들이 독 마시는 모습만<br>볼 수 있다면 목숨도 안 아까워
+<SYNC Start=2913477><P Class=KRCC>메린 경! 
+<SYNC Start=2915528><P Class=KRCC>&nbsp;
+<SYNC Start=2915611><P Class=KRCC>죄수를 감옥으로 데려가라
+<SYNC Start=2919708><P Class=KRCC>조프리 살인죄로<br>개죽음당할 순 없습니다
+<SYNC Start=2924129><P Class=KRCC>이 재판에 정의 따윈<br>없다는 것도 압니다
+<SYNC Start=2927382><P Class=KRCC>그러니 신들께<br>운명을 맡기겠습니다.
+<SYNC Start=2930635><P Class=KRCC>&nbsp;
+<SYNC Start=2932054><P Class=KRCC>명예 결투를 요청하는 바입니다
+<SYNC Start=2935524><P Class=KRCC>&nbsp;
+<SYNC Start=2952724><P Class=KRCC><font color="Tomato">영자막: honeybunny<br>한글자막: Psyence Fictionist</font>
+<SYNC Start=2959803><P Class=KRCC>&nbsp;
+</BODY>
+</SAMI>

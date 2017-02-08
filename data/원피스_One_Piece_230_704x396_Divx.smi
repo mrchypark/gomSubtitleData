@@ -1,0 +1,797 @@
+<SAMI>
+<HEAD>
+<Title>Netshow 3.0 - Close Captioning Sample</Title>
+<STYLE TYPE="text/css">
+<!--
+P {margin-left:8pt; margin-right:8pt; margin-bottom:2pt; margin-top:2pt;
+   text-align:left; font-size:12pt; font-family:arial, sans-serif;
+   font-weight:normal; color:white;}
+.KRCC {Name:Korean; lang:kr-KR; SAMIType:CC;}
+#STDPrn {Name:Standard Print;}
+#LargePrn {Name:Large Print; font-size:20pt;}
+#SmallPrn {Name:Small Print; font-size:10pt;}
+-->
+</Style>
+</HEAD>
+<BODY>
+<SYNC Start=3871><P Class=KRCC>
+ÓÞíÛÜý! ªµª¡ îñªËòäªâª¦<BR>
+<Font Color=lightblue>ÀÚ ±¦Âú¾Æ. ¾ÕÀ¸·Î ³ª°¡ÀÚ.
+<SYNC Start=8043><P Class=KRCC>
+÷¼åÕªòª¤ªÄªâýØªË<BR>
+<Font Color=lightblue>ÅÂ¾çÀº ¾ðÁ¦³ª °¡½¿¿¡
+<SYNC Start=11491><P Class=KRCC>
+Í¨ª¤ªÀâ¢ ªÄª¿ªïªëPower<BR>
+<Font Color=lightblue>¸¶ÁÖÀâÀº ¼ÕÀ¸·Î ÀüÇØÁö´Â ÆÄ¿ö
+<SYNC Start=14860><P Class=KRCC>
+êÃª¤ªòªÄª«ªÞª¨ªèª¦ªè<BR>
+<Font Color=lightblue>¹Ù·¥À» ÀÌ·ç¾îºÁ¿ä.
+<SYNC Start=18554><P Class=KRCC>&nbsp;
+<SYNC Start=20154><P Class=KRCC>
+<Font Color=lightblue> N    E
+<SYNC Start=21438><P Class=KRCC>
+<Font Color=lightblue>ONEP ECE
+<SYNC Start=22937><P Class=KRCC>
+<Font Color=lightblue>ONEP<Font Color=red>I<Font Color=lightblue>ECE
+<SYNC Start=25998><P Class=KRCC>
+ªÇªÃª«ª¤÷îªËã«ªíª¦ «Á«««éùêªïª»ªÆ<BR>
+<Font Color=lightblue>Ä¿´Ù¶õ ÆÄµµ¸¦ Å¸°í¼­ ÈûÀ» ÇÕÃÄ
+<SYNC Start=33601><P Class=KRCC>
+ªÈª­ªáª­Û°ªØÐáª´ª¦ ã·ªÞªêªÎùêÓñ<BR>
+<Font Color=lightblue>¼³·¹ÀÌ´Â °÷À¸·Î ¼­µÎ¸£ÀÚ. ½ÃÀÛÀÇ ½ÅÈ£
+<SYNC Start=40681><P Class=KRCC>
+ÐÑª³ª½àÏõóªÎªÈª­ Ùáªòß¾ª²ª¿ªé<BR>
+<Font Color=lightblue>Áö±ÝÀÌ¾ß¸»·Î ÃâÇ×ÇÒ ½Ã°£ ´éÀ» ¿Ã¸®¸é
+<SYNC Start=47468><P Class=KRCC>
+öÒßäªÎù¦ªòï·ªê Ù³úÏªÎú­ªØ<BR>
+<Font Color=lightblue>ÀÏ°öºû±ò ¹Ù¶÷À» ¶Õ°í ¸ðÇèÀÇ ¹Ù´Ù¿¡
+<SYNC Start=54990><P Class=KRCC>
+ß¿ªÀªéª±ªÎª¿ªÓªÀª±ªÉ<BR>
+<Font Color=lightblue>»óÃ³ Åõ¼ºÀÌ ¿©ÇàÀÌÁö¸¸
+<SYNC Start=58543><P Class=KRCC>
+ÓÞÞÀªÊªâªÎª¬ª½ª³ªËª¢ªë<BR>
+<Font Color=lightblue>¼ÒÁßÇÑ °ÍÀÌ ±×°÷¿¡ ÀÖ¾î
+<SYNC Start=62276><P Class=KRCC>
+«Ô«ó«ÁªÊªéª¤ªÄªÀªÃªÆ<BR>
+<Font Color=lightblue>ÇÉÄ¡¶ó¸é ¾ðÁ¦¶óµµ
+<SYNC Start=66257><P Class=KRCC>
+«Ü«¯ª¬áúªëª«ªé<BR>
+<Font Color=lightblue>³»°¡ ÁöÅ³Å×´Ï
+<SYNC Start=69350><P Class=KRCC>
+ÓÞíÛÜý! ªµª¡ îñªËòäªâª¦<BR>
+<Font Color=lightblue>ÀÚ ±¦Âú¾Æ. ¾ÕÀ¸·Î ³ª°¡ÀÚ.
+<SYNC Start=73400><P Class=KRCC>
+÷¼åÕªòª¤ªÄªâýØªË<BR>
+<Font Color=lightblue>ÅÂ¾çÀº ¾ðÁ¦³ª °¡½¿¿¡
+<SYNC Start=76944><P Class=KRCC>
+Õ¹ª¬ÕÎª¿ªé Ì·ðÚªóªÇ<BR>
+<Font Color=lightblue>ÆøÇ³ÀÌ ¿À¸é ¾î±úµ¿¹«ÇÏ°í
+<SYNC Start=80530><P Class=KRCC>
+ª½ªÎà»ªÎýñØÐªòÌ¸ªèª¦<BR>
+<Font Color=lightblue>±× ¾ÕÀÇ Èñ¸ÁÀ» ºÁ¿ä
+<SYNC Start=84319><P Class=KRCC>
+ÙÓªÎ«««±«é ó¢ªÞªìªÐ<BR>
+<Font Color=lightblue>²ÞÀÇ Á¶°¢À» ¸ðÀ¸¸é
+<SYNC Start=87888><P Class=KRCC>
+Ú±ÕÎªËú¾ª«ª¦ ªÁªºªËªÊªë <BR>
+<Font Color=lightblue>¹Ì·¡¿¡ ÇâÇÏ´Â Áöµµ°¡ µÇ¿ä
+<SYNC Start=91551><P Class=KRCC>
+ªÀª«ªéÔÒª¸ÐýªÎù»<BR>
+<Font Color=lightblue>±×·¯´Ï ÇÑ ±ê¹ß ¾Æ·¡
+<SYNC Start=94790><P Class=KRCC>
+êÃª¤ªòªÄª«ªÞª¨ªèª¦ªè «Ü«¯ªéªÏªÒªÈªÄ<BR>
+<Font Color=lightblue>¹Ù·¥À» ÀÌ·ç¾îºÁ¿ä. ¿ì¸®´Â ÇÏ³ª
+<SYNC Start=100193><P Class=KRCC>
+One piece<BR>
+<SYNC Start=102418><P Class=KRCC>
+
+<SYNC Start=116510><P Class=KRCC>
+±×·±µ¥ ³ÊÈñµé ¾îµô °¡´Â°Ô³Ä?
+<SYNC Start=120115><P Class=KRCC>
+
+<SYNC Start=121003><P Class=KRCC>
+ÀúÈñµéÀº ¹è°¡ ÀÖÀ¸´Ï±î ¿­Â÷´Â Å¸Áö ¾ÊÀ»°Å¿¹¿ä. ·Î±×¸¦ µû¶ó¼­ °¥»ÓÀÌÁÒ.
+<SYNC Start=125287><P Class=KRCC>
+±×·±°¡? ±×°÷Àº ¿öÅÍ ¼¼ºìÀÌ±º. 
+
+<SYNC Start=128713><P Class=KRCC>
+¿öÅÍ¼¼ºì? 
+
+<SYNC Start=130341><P Class=KRCC>
+¹«¾ùº¸´Ù °Å±ä Á¶¼±¾÷À¸·Î À¯¸íÇÑ µµ½Ã¾ß.
+
+<SYNC Start=134191><P Class=KRCC>
+±× ±â¼úÀº ¼¼°è ÀÏ·ù.
+
+<SYNC Start=137043><P Class=KRCC>
+ÁÁ¾Æ! Á¤Çß´Ù. ±×°÷¿¡ °¡¼­ Á¶¼±°øÀ» ¹Ýµå½Ã µ¿·á·Î »ïÀÚ±¸
+<SYNC Start=141885><P Class=KRCC>
+
+<SYNC Start=143646><P Class=KRCC>
+¿À~ ¹¹¾ß ÀÌ°Ç~ 
+<SYNC Start=148026><P Class=KRCC>
+
+<SYNC Start=149366><P Class=KRCC>
+À½... ÀÌ ºÎ±ÙÀÌ ÁÁÁö ¾ÊÀ»±î?
+<SYNC Start=152462><P Class=KRCC>
+
+<SYNC Start=153771><P Class=KRCC>
+±ôÂ¦ÀÌ¾ß. ÀÌ·¸°Ô±îÁö ¸ÀÀÌ °¬¾ú³ª °íÀ×¸Þ¸®È£.
+
+<SYNC Start=158447><P Class=KRCC>
+ÀÌ°É °¡Á®°¡¿ä. 
+
+<SYNC Start=159631><P Class=KRCC>
+Áöµµ? »ì¾Ò¾î¿ä °í¸¶¿ö¿ä.
+
+<SYNC Start=163931><P Class=KRCC>
+¸¶Ä§ ÀßµÆ¾î. È¯±ÝÇÏ¸é ¹Ù·Î Á¶¼±¼Ò·Î °¡ÀÚ.
+
+<SYNC Start=167956><P Class=KRCC>
+ÀÌ°É·Î ¸¶Ä§³» °íÀ×¸Þ¸®È£µµ ¼ö¸®ÇÒ ¼ö ÀÖ°Ú±¸³ª.
+
+<SYNC Start=171844><P Class=KRCC>
+ÁÁ¾Æ °¡ÀÚ È«´ëÄ¡!!
+<SYNC Start=174472><P Class=KRCC>
+
+<SYNC Start=176825><P Class=KRCC>
+°¨»çÇÕ´Ï´Ù. Á¶½Éµé ÇÏ½Ã°Ô³ª 
+<SYNC Start=179019><P Class=KRCC>
+
+<SYNC Start=180056><P Class=KRCC>
+Á¶¼±¼¶À¸·Î Ãâ¹ßÇÏÀÚ ¾ßÈ£~
+<SYNC Start=185077><P Class=KRCC>
+
+<SYNC Start=192305><P Class=KRCC>
+¼ö»óµµ½ÃÀÇ ¸ðÇè ³ë·Á¶ó °Å´ë Á¶¼±°ø
+<SYNC Start=197254><P Class=KRCC>
+
+<SYNC Start=201444><P Class=KRCC>
+ÀÌ°ÅÂü ÁÁÀºµ¥ ÀÌºÁ Àß ºÎÅ¹ÇÑ´Ù±¸.
+
+<SYNC Start=207329><P Class=KRCC>
+ÀÌÈ÷~
+
+<SYNC Start=209266><P Class=KRCC>
+ÀÌ ¾È¿¡´Â ±²ÀåÇÑ µ¿¹°ÀÌ ÀÖ¾ú±¸³ª  
+<SYNC Start=212690><P Class=KRCC>
+º°·Î Èçµé¸®Áöµµ ¾Ê°í, Æí¾ÈÇØ
+<SYNC Start=215907><P Class=KRCC>
+¿À¸¥ÂÊÀÌ´Ù ¿À¸¥ÂÊ(¾ÖµéÀÌ ³î°í ÀÖ³×¿ä)
+<SYNC Start=225076><P Class=KRCC>
+
+<SYNC Start=229541><P Class=KRCC>
+Àç¹Ô´Ù 
+<SYNC Start=230847><P Class=KRCC>
+
+<SYNC Start=236064><P Class=KRCC>
+ÀÌ ºÎ±ÙÀº ÁÖÅÃ°¡ ÀÎ°Í °°Àºµ¥...
+<SYNC Start=239134><P Class=KRCC>
+
+<SYNC Start=241432><P Class=KRCC>
+Á¤¸»·Î ¼ö·ÎÁß½ÉÀ¸·Î ¸¶À»ÀÌ ÀÌ·ç¾î Á®ÀÖ³×...
+<SYNC Start=244165><P Class=KRCC>
+
+<SYNC Start=246405><P Class=KRCC>
+ÀÌºÁ ´ç½Å 
+
+<SYNC Start=247433><P Class=KRCC>
+¿Ö¿ä ¾ÆÁ®¾¾?
+
+<SYNC Start=249017><P Class=KRCC>
+¾îµð °¡´Â°ÅÁö? °ü±¤ÀÎ°¡?
+
+<SYNC Start=251818><P Class=KRCC>
+¹è¸¦ °íÄ¥¼ö ÀÖÀ»¸¸ÇÑ Á¶¼±¼Ò¿¡¿ä
+
+<SYNC Start=254832><P Class=KRCC>
+±×·¸´Ù¸é ¾îÂ·µç ¿ì¶ó¸¶À» Á¶¼±¼Ò·Î °¡´Â±¸³ª
+
+<SYNC Start=259133><P Class=KRCC>
+Ã¼Å©¸ÞÀÌÆ®
+
+<SYNC Start=260665><P Class=KRCC>
+°í¸¶¿ö¿ä
+
+<SYNC Start=261979><P Class=KRCC>
+À¸...ÀÀ
+
+<SYNC Start=263350><P Class=KRCC>
+¿ì¶ó¸¶À» Á¶¼±¼Ò ÀÌ ´ÙÀ½¿¡¼­ ¿À¸¥ÂÊÀÌ¾ß
+<SYNC Start=267787><P Class=KRCC>
+
+<SYNC Start=269184><P Class=KRCC>
+¾Æ~ ¾î¿©»Û ¸¶µå¸ð¾ÆÁ© ¿À´Ã¹ã ÃÊ´ë¿¡ ÀÀÇØÁÖ½Ã°Ú½À´Ï±î?
+<SYNC Start=272781><P Class=KRCC>
+
+<SYNC Start=279403><P Class=KRCC>
+½Å°æ¾²Áö ¸¶¼¼¿ä. ÀÌ°Ç ÄÚÄÚ¶ó¸¶À» ³²ÀÚµéÀÇ ***** ÀÏ »ÓÀÌ´Ï±î.
+<SYNC Start=285130><P Class=KRCC>
+À¸..ÀÀ
+<SYNC Start=286577><P Class=KRCC>
+
+<SYNC Start=288848><P Class=KRCC>
+ÀÌºÁ¿ä ´ç½Åµµ »¡¸® ÀÏÀÚ¸®¸¦ ±¸ÇØ¿ä. 
+<SYNC Start=292523><P Class=KRCC>
+¾Ë¾Ò´Ù±¸ ½Ã²ô·´°Ô...
+<SYNC Start=294209><P Class=KRCC>
+
+<SYNC Start=296176><P Class=KRCC>
+ÇÏÁö¸¸ ÀÌ ¸¶À»Àº ##$%#$%(ÁË¼Û)
+<SYNC Start=300848><P Class=KRCC>
+¿©~ÄÚÀïÀÌ
+<SYNC Start=302844><P Class=KRCC>
+¾î??
+<SYNC Start=303426><P Class=KRCC>
+¾Æ¹«°Íµµ ¾Æ´Ï¾ß~ ±×³É ºÒ·¯º»°Í »ÓÀÌ¾ß
+<SYNC Start=306546><P Class=KRCC>
+¶³¾îÁø´Ù°í ¾ÆÁ®¾¾
+<SYNC Start=308652><P Class=KRCC>
+
+<SYNC Start=314791><P Class=KRCC>
+¾î~¾ð´ö±æÀÌ´Ù. Èå¸§ÀÌ ¹Ý´ëÀÎµ¥ »ó°ü¾ø³ª?
+<SYNC Start=320575><P Class=KRCC>
+¸ø¿Ã¶ó°¡´Â°Å ¾Æ³Ä?
+
+<SYNC Start=322466><P Class=KRCC>
+ÀÌÈ÷~
+<SYNC Start=324394><P Class=KRCC>
+
+<SYNC Start=328430><P Class=KRCC>
+±æÀÌ Æ²·È¾î ¿À¸¥ÂÊÀÌ¾ß ¿À¸¥ÂÊ!!
+
+<SYNC Start=331006><P Class=KRCC>
+¹°ÀÌ ¹Ý´ë·Î Èê·¯µµ »ó°ü¾ø±¸³ª
+
+<SYNC Start=334420><P Class=KRCC>
+³ÊÈñµé Á¦¹ýÀÎµ¥!
+<SYNC Start=336256><P Class=KRCC>
+
+<SYNC Start=339566><P Class=KRCC>
+ÁöºØÀ§¿¡µµ ¼ö·Î°¡ ÀÖ´Ù±¸
+<SYNC Start=343221><P Class=KRCC>
+±æÀÌ Æ²·È´Ù°í ¿ì¼± Á¶¼±¼Ò¿¡ °¡Áö¾ÊÀ¸¸é
+
+<SYNC Start=346953><P Class=KRCC>
+±×·¸°Ô ¼­µÎ¸£Áö ¸»¶ó±¸ 
+
+<SYNC Start=348889><P Class=KRCC>
+¸ðÃ³·³ »êÃ¥ÀÌ³ª ÇÏÀÚ±¸
+
+<SYNC Start=351364><P Class=KRCC>
+ÀÌÈ÷~
+<SYNC Start=352327><P Class=KRCC>
+
+<SYNC Start=354004><P Class=KRCC>
+¾Æ¾Ç~~ ºÁ º¸¶ó±¸ ¾Õ¿¡..¾Õ¿¡...
+
+<SYNC Start=357573><P Class=KRCC>
+ÇÏÇÏ ±×·±°¡? ¿©±â´Â ¾Æ±î #%^*ÀÌ´Ù(ÁË¼Û)
+
+<SYNC Start=360664><P Class=KRCC>
+±×...±×·¸´Ù´Â°Ç
+<SYNC Start=363850><P Class=KRCC>
+
+<SYNC Start=374155><P Class=KRCC>
+Àç¹Ô´Ù
+
+<SYNC Start=375752><P Class=KRCC>
+Àç¹Ì¾ø¾î
+
+<SYNC Start=377212><P Class=KRCC>
+½È¾î
+<SYNC Start=379058><P Class=KRCC>
+
+<SYNC Start=391164><P Class=KRCC>
+¹Ì¾È
+<SYNC Start=392451><P Class=KRCC>
+
+<SYNC Start=400054><P Class=KRCC>
+¶³¾îÁø´Ù
+
+<SYNC Start=401793><P Class=KRCC>
+¶³¾î, ¶³¾î, ¶³¾î Áø´Ù¾Æ~
+
+<SYNC Start=404664><P Class=KRCC>
+¿Ö ÀÌ·¸°Ô µÇ´Â°Å¾ß?
+
+<SYNC Start=411002><P Class=KRCC>
+$%^ÇÏ´Â°Ô ¾Æ³Ä!(ÁË¼Û)
+<SYNC Start=419389><P Class=KRCC>
+
+<SYNC Start=426601><P Class=KRCC>
+¼Õ´Ô ½Ô´Ï´Ù(»ç¶÷µéÀÌ ½Ã²ø¹÷ ¬)
+<SYNC Start=430823><P Class=KRCC>
+(¾Èµé¸³´Ï´Ù ¤Ñ¤Ñ;;;)
+<SYNC Start=438834><P Class=KRCC>
+
+<SYNC Start=446900><P Class=KRCC>
+¿ÀÈ£~ ½Ã²ø¹÷ÀûÇÑµ¥...
+
+<SYNC Start=449907><P Class=KRCC>
+¾î¶ó? »óÁ¡°¡·Î ³ª¿Ô³×
+<SYNC Start=452105><P Class=KRCC>
+
+<SYNC Start=454358><P Class=KRCC>
+È¤½Ã Áö±Ý°Í Áö¸§±æ ÀÌ¿´´ø°Å¾ß?
+<SYNC Start=458531><P Class=KRCC>
+¹Ì¾ÈÇØ~ Á¤¸»·Î ¶È¶ÈÇÏ±¸³ª ³ÊÈñµé
+
+<SYNC Start=461922><P Class=KRCC>
+¿Í~ÀÌ·¸°Ô È°·Â³ÑÄ¡´Â »óÁ¡°¡ Ã³À½ÀÌ¾ß
+
+<SYNC Start=465891><P Class=KRCC>
+¾î~ Àú°ÍºÁ
+
+<SYNC Start=467437><P Class=KRCC>
+Å« ºÒÀÌ´Ù
+
+<SYNC Start=469259><P Class=KRCC>
+¿Í~ÀÌÂÊÀ¸·Î ¿Â´Ù
+<SYNC Start=472159><P Class=KRCC>
+
+<SYNC Start=479913><P Class=KRCC>
+¹«¼·´Ù ÀÌ³à¼®/<BR>Àâ¾Æ¸ÔÈú °Í °°¾Æ
+<SYNC Start=482443><P Class=KRCC>
+ÀÌ »çÀÌÁî´Â Å· »çÀÌÁî ÀÎ°¡ºÁ
+<SYNC Start=484759><P Class=KRCC>
+
+<SYNC Start=485664><P Class=KRCC>
+¾î? ¹¹¾ß Àú°Ç?
+
+<SYNC Start=488504><P Class=KRCC>
+°¡¸é?
+<SYNC Start=490311><P Class=KRCC>
+
+<SYNC Start=491796><P Class=KRCC>
+¿Í~ ÀÌ»Ú´Ù ¸¹ÀÌ ÀÖ³×.
+
+<SYNC Start=494456><P Class=KRCC>
+ÆÄÆ¼¶óµµ ÇÏ³ª?
+<SYNC Start=496064><P Class=KRCC>
+
+<SYNC Start=497917><P Class=KRCC>
+¹¹¾ß? ¹«½¼ÀÏÀÌ¾ß?
+<SYNC Start=499616><P Class=KRCC>
+
+<SYNC Start=500667><P Class=KRCC>
+³×..³×... Æ¢Å² ¹°¹°(â©â©) Å¸ÄÚ¾ßÅ° ÀÔ´Ï´Ù.
+
+<SYNC Start=505047><P Class=KRCC>
+¹°¹° °í·ÎÄÉ µå¼Åº¸¼¼¿ä!
+<SYNC Start=507786><P Class=KRCC>
+¾î´ÀÂÊÀÌµç ¸ÀÀÖ¾î º¸ÀÎ´Ù
+
+<SYNC Start=509219><P Class=KRCC>
+È«´ëÄ¡ ÀúÂÊÀ¸·Î °¡º¸ÀÚ
+<SYNC Start=511140><P Class=KRCC>
+
+<SYNC Start=512758><P Class=KRCC>
+¾ß ¾îµð·Î °¡´Â°Å¾ß?
+
+<SYNC Start=514671><P Class=KRCC>
+ÀÌºÁ ·çÇÇ ¾îµð °¡´Â°Å¾ß?
+
+<SYNC Start=516437><P Class=KRCC>
+È«´ëÄ¡¿¡°Ô ºÒ¾îºÁ
+<SYNC Start=518502><P Class=KRCC>
+
+<SYNC Start=525280><P Class=KRCC>
+¾î¼­¿À¼¼¿ä. ¹»·Î µå¸±±î¿ä?
+
+<SYNC Start=528102><P Class=KRCC>
+¹¹¾ß? ¹è°íÆÌ´ø°Å±¸³ª...
+
+<SYNC Start=531155><P Class=KRCC>
+È«´ëÄ¡´Â ¹°¹°°í±â¸¦ ¾ÆÁÖ ÁÁ¾ÆÇØ¿ä
+
+<SYNC Start=533505><P Class=KRCC>
+»ç¶÷ÀÇ ¸Ô°Å¸® ÀÌ±âµµ ÇÏÁö¸¸ ¸»ÀÌÁÒ
+
+<SYNC Start=535542><P Class=KRCC>
+¹°¹°??
+
+<SYNC Start=536734><P Class=KRCC>
+±×·³ ±×°Å 10°³ Áà¿ä
+<SYNC Start=537981><P Class=KRCC>
+
+<SYNC Start=539101><P Class=KRCC>
+***¸¶À» ¿ä¸®»çµéÀÌ ****
+<SYNC Start=544980><P Class=KRCC>
+
+<SYNC Start=547116><P Class=KRCC>
+ºÎ.µå.·¯.¿ö~
+
+<SYNC Start=552578><P Class=KRCC>
+¸ÀÀÖ´Ù
+
+<SYNC Start=553444><P Class=KRCC>
+ÀÀ? Á¤¸»? ³ªµµ ÇÑ°³¸¸ Áà
+
+<SYNC Start=556467><P Class=KRCC>
+¾ÈµÅ Á÷Á¢ »ç¸ÔÀ¸¶ó°í
+
+<SYNC Start=558379><P Class=KRCC>
+¿¡..? 
+
+<SYNC Start=560061><P Class=KRCC>
+¾ß ³ª¹Ì(ÁË¼Û)
+
+
+<SYNC Start=564219><P Class=KRCC>
+¶Ç´Ù
+<SYNC Start=565473><P Class=KRCC>
+
+<SYNC Start=566037><P Class=KRCC>
+ÀÚ¼¼È÷ º¸´Ï µµ½Ã ¿©±âÀú±â¿¡ ÀÖ´Â°Í °°³×
+
+<SYNC Start=567881><P Class=KRCC>
+³ª¹Ì
+<SYNC Start=569002><P Class=KRCC>
+
+<SYNC Start=570297><P Class=KRCC>
+Àú °¡¸é ¾´ »ç¶÷µé
+<SYNC Start=572130><P Class=KRCC>
+
+<SYNC Start=574079><P Class=KRCC>
+¾ß ³ª¹Ì
+<SYNC Start=576375><P Class=KRCC>
+
+<SYNC Start=579114><P Class=KRCC>
+ÀÌºÁ 1¹ø ºÎµÎ¿¡ ÇØÀûÀÌ ¼Ò¶õ¶³±â ½ÃÀÛÇß´Ù
+
+<SYNC Start=582176><P Class=KRCC>
+Á¤¸»ÀÌ¾ß?
+
+<SYNC Start=584190><P Class=KRCC>
+±×·¸´Ù¸é »¡¸®°¡Áö ¾ÊÀ¸¸é...
+<SYNC Start=586413><P Class=KRCC>
+¹«½¼¸»¾¸À» ÇÏ½Ã´Â °ÇÁö Àß ¸ð¸£°Ú´Âµ¥¿ä...
+<SYNC Start=589952><P Class=KRCC>
+¾Æ³Ä¾Æ³Ä ±×°Ô ÀÖ´Ù±¸ À¸ÇÏÇÏÇÏÇÏ
+<SYNC Start=595576><P Class=KRCC>
+°õ°õÈ÷ »ý°¢ÇØ ºÃ¾î
+<SYNC Start=598182><P Class=KRCC>
+¾ÆÁÖ °õ°õÈ÷ »ý°¢ÇØ ºÃ´Ù±¸!
+<SYNC Start=601396><P Class=KRCC>
+±×¾ß ¹è¸¦ ¼ö¸®ÇØ ÁÖ±ä Çß´Ù¸¸  
+<SYNC Start=604171><P Class=KRCC>
+¾î¶»°Ô »ý°¢ÇØ ºÁµµ °¡°ÝÀÌ ºñ½Î´Ü¸»¾ß
+<SYNC Start=609959><P Class=KRCC>
+ÀÛ¾÷¿¡ ¹æÇØµË´Ï´Ù.
+<SYNC Start=612467><P Class=KRCC>
+±×·¡¼­ 1º£¸®µµ ¾È³»±â·Î Çß´Ù ÀÌ°Å¾ß
+<SYNC Start=618817><P Class=KRCC>
+¿Ïº®ÇÏ°Ô ¼ö¸®ÇØÁØ°ÍÀº °í¸¿´Ù°í
+<SYNC Start=621376><P Class=KRCC>
+
+<SYNC Start=623251><P Class=KRCC>
+±×°Íµµ °øÂ¥·Î...
+<SYNC Start=626005><P Class=KRCC>
+
+<SYNC Start=634888><P Class=KRCC>
+ÂéÂé~
+<SYNC Start=636896><P Class=KRCC>
+À½¸Ó~ Ä®¸®ÆÄ Àú°Ç ¹¹¾ß?
+<SYNC Start=639521><P Class=KRCC>
+³× ¾ÆÀÌ½º¹ö±×¾¾ 1¹ø µµÅ©ÀÇ ¼Õ´ÔÀÎµ¥
+<SYNC Start=642898><P Class=KRCC>
+ÀÌÁ¦¿Í¼­ µ·À» ³¾ ¼ö¾ø´Ù°í...
+<SYNC Start=646167><P Class=KRCC>
+¼ºÈñ·Õ ÀÌ±º¿ä
+<SYNC Start=648663><P Class=KRCC>
+À½¸Ó~ ¼ºÈñ·Õ ÀÌ±º
+<SYNC Start=652694><P Class=KRCC>
+
+<SYNC Start=666482><P Class=KRCC>
+¼Õ´Ô ÀåÀÎÀ» ³Ê¹« ³î¸®¸é ¾ÈµË´Ï´Ù
+<SYNC Start=670955><P Class=KRCC>
+
+<SYNC Start=682161><P Class=KRCC>
+µÎ...µÎ¸ñ
+<SYNC Start=683833><P Class=KRCC>
+µÎ¸ñ
+<SYNC Start=686353><P Class=KRCC>
+¾î~ ½Ç·Ê
+<SYNC Start=687985><P Class=KRCC>
+³× ÀÌ³ð ÁÖÀ§¸¦ Àß º¸°í...
+<SYNC Start=695369><P Class=KRCC>
+¾Æ~ ½Ç·Ê
+<SYNC Start=696998><P Class=KRCC>
+ÀÌ...ÀÌ³ðµé ³Ê ÀÌÀÚ½Ä¾Æ
+<SYNC Start=699866><P Class=KRCC>
+¿ì¸®µéÀÌ ´©±ºµ¥ ÀÌ·¯´Â°Å¾ß?
+<SYNC Start=702016><P Class=KRCC>
+
+<SYNC Start=711531><P Class=KRCC>
+ÀÌº¸°Ô ±× ´ëÆ÷ Á¦´ë·Î ½ÃÇè¹ß»ç ÇØ º»°Å¾ß?
+<SYNC Start=714940><P Class=KRCC>
+¾ÆÁ÷ÀÔ´Ï´Ù
+<SYNC Start=717096><P Class=KRCC>
+
+<SYNC Start=720165><P Class=KRCC>
+Á¨Àå ¹¹¾ß ³ÊÈñµé??
+<SYNC Start=724565><P Class=KRCC>
+(´ëÆ÷¼Ò¸®¶«½Ã ;;;;)
+<SYNC Start=728968><P Class=KRCC>
+
+<SYNC Start=740127><P Class=KRCC>
+ÀåÀÎÀÇ ±¸¿ª¿¡¼­ ÇØÀûÀÇ¹ýµµ°¡ ¸ÔÈú¸® ¾ø´Â°ÅÁÒ
+
+<SYNC Start=745749><P Class=KRCC>
+ÀÚ¸· Á¦ÀÛ/½ÌÅ© Á¶Çö¿õ(crowwild@nate.com)<BR>
+(¼öÁ¤,¹èÆ÷ÀÚÀ¯)
+<SYNC Start=752821><P Class=KRCC>
+ÀÚ¸· Ã³À½ ¸¸µé¾î º¾´Ï´Ù ¤Ñ¤Ñ;;;
+<SYNC Start=759354><P Class=KRCC>
+
+<SYNC Start=766297><P Class=KRCC>
+±×·³ µåµð¾î Á¶¼±¼¶¿¡ ´Ù¿Ô´Ù ¼ö¹® ¿¤·¹º£ÀÌÅÍ·Î
+<SYNC Start=771648><P Class=KRCC>
+
+<SYNC Start=774106><P Class=KRCC>
+¼ö¹® ¿¤·¹º£ÀÌÅÍ??
+<SYNC Start=776062><P Class=KRCC>
+Àú Å¸¿öÃ³·³ º¸ÀÌ´Â°Ô ±×°Å¾ß
+<SYNC Start=778031><P Class=KRCC>
+
+<SYNC Start=784946><P Class=KRCC>
+¾î¼­ µé¾î¿À¼¼¿ä
+
+<SYNC Start=787816><P Class=KRCC>
+¿¤·¹º£ÀÌÅÍ´Â Á¶¼±¼¶...
+<SYNC Start=791704><P Class=KRCC>
+... Á¶¼±°øÀå ¹× ¿öÅÍ¼¼ºì Áß½É°¡¿¡ ÇâÇÕ´Ï´Ù
+<SYNC Start=800272><P Class=KRCC>
+Åë ¾ÈÀ¸·Î µé¾î°¡ ÁÖ¼¼¿ä Æó¹® 1ºÐ ³²¾Ò½À´Ï´Ù.
+<SYNC Start=807694><P Class=KRCC>
+¾È¿¡¼­ ¹«½¼ÀÏÀÌ ÀÏ¾î³ª´Â °É±î?
+<SYNC Start=810730><P Class=KRCC>
+
+<SYNC Start=816603><P Class=KRCC>
+¾î~ ¼ö¹®ÀÌ ´ÝÇû´Ù
+<SYNC Start=819252><P Class=KRCC>
+¿Í~ ¿Ã¶ó°£´Ù ¿Ã¶ó°¡~ ¿Ã¶ó°£´Ù±¸~
+<SYNC Start=822680><P Class=KRCC>
+
+<SYNC Start=826436><P Class=KRCC>
+°ú¿¬ ÀÌ·¡¼­ Àú·¡¼­ ÀÌ·¸°Ô Àú·¸°Ô ¼ö¹®¿¤·¹º£ÀÌÅÍ ÀÎ°¡
+<SYNC Start=833406><P Class=KRCC>
+¿À~ Àç¹Ô±¸³ª ¿öÅÍ¼¼ºì
+<SYNC Start=838741><P Class=KRCC>
+¹°·Î ¹¹µçÁö ÇÏ´Â±¸³ª
+<SYNC Start=842796><P Class=KRCC>
+
+<SYNC Start=847974><P Class=KRCC>
+¾ß~
+<SYNC Start=850502><P Class=KRCC>
+..´©°¡..¸¶¸®¸ð.. ¶ó´Â°Å¾ß..?..
+<SYNC Start=854369><P Class=KRCC>
+¾ß Á¶·Î
+<SYNC Start=857547><P Class=KRCC>
+·ÎºóÂ¯Àº? ¹è¿¡ ¾ø´Ù±¸
+<SYNC Start=860366><P Class=KRCC>
+ÀÀ? ¾Æ~ ¾ø¾î<BR>
+¾Æ±î ­hÆÄÇÏ°í ³ª°¬¾î
+<SYNC Start=866661><P Class=KRCC>
+¹¹¾ß?
+<SYNC Start=868001><P Class=KRCC>
+¼îÇÎÇÏ·¯ °¬´Ù°í
+<SYNC Start=870070><P Class=KRCC>
+ÀÌ·²¼ö°¡? ³Ê È¥ÀÚ ¹è¿¡ ÀÖ´Â°Å¾ß?
+<SYNC Start=874242><P Class=KRCC>
+ÀÌ ¹«½¼ µûºÐÇÏ±â ±×Áö¾ø´Â °ø°£ÀÌ¶õ ¸»ÀÌ³Ä??
+<SYNC Start=877023><P Class=KRCC>
+µ¿°¨ÀÌ¾ß
+<SYNC Start=880210><P Class=KRCC>
+ÁÁ¾Æ ³ªµµ ¼îÇÎÀÌ¶óµµ ÇÏ·¯°£´Ù
+<SYNC Start=884420><P Class=KRCC>
+¹è³ª Àß º¸°í ÀÖÀ¸¶ó±¸
+<SYNC Start=886485><P Class=KRCC>
+ZZZ
+<SYNC Start=889814><P Class=KRCC>
+¹ú½á ÀÚ³×...<br>
+ÀÚ ºÎÅ¹ÇÑ´Ù±¸~
+<SYNC Start=894895><P Class=KRCC>
+
+<SYNC Start=923688><P Class=KRCC>
+´Ù ¿Ô´Ù~
+<SYNC Start=926398><P Class=KRCC>
+
+<SYNC Start=929922><P Class=KRCC>
+¿©±â°¡ ¼¼°èÀÏ·ùÀÇ Á¶¼±¼Ò ¿öÅÍ¼¼ºìÀÇ Áß½É°¡±¸³ª
+<SYNC Start=935340><P Class=KRCC>
+
+<SYNC Start=941496><P Class=KRCC>
+¿©±ä Áö¸éÂÊÀÌ ´õ ¸¹±¸³ª ¿ª½Ã³ª~
+<SYNC Start=944321><P Class=KRCC>
+
+<SYNC Start=949007><P Class=KRCC>
+°Å´ëÇÏ±¸³ª ¿©±âÀú±â
+<SYNC Start=953290><P Class=KRCC>
+ÀÌ·¸°Ô Å« µµ½Ã´Â Ã³À½ÀÌ¾ß!!
+<SYNC Start=956237><P Class=KRCC>
+Àú ºÐ¼öµµ °¡±îÀÌ¼­ º¸´Ï±î ÇÑÃþ ´õ Ä¿º¸ÀÌ³×
+<SYNC Start=960664><P Class=KRCC>
+
+<SYNC Start=969731><P Class=KRCC>
+Àú±â ¸ð¿©ÀÖ´Â »ç¶÷µé<BR>
+Á¶¼±¼Ò º¸°í ÀÖ´Â°Å ¾Æ³Ä?
+<SYNC Start=973909><P Class=KRCC>
+°¡º¸ÀÚ °¡ÀÚ È«´ëÄ¡!
+<SYNC Start=976773><P Class=KRCC>
+
+<SYNC Start=984558><P Class=KRCC>
+ÀÚ ºÁ ³²ÀÚ. ·çÄ¡¾¾¶ó±¸ ¸ÚÁ®~
+<SYNC Start=988967><P Class=KRCC>
+ÆÄ¿ï¸®´Â ¾ø´Â°Å¾ß? <BR>
+·ç·ç°¡ ÀÖ¾î 
+<SYNC Start=991958><P Class=KRCC>
+Á×ÀÎ´Ù~³²ÀÚÁßÀÇ ³²ÀÚ¶ó±¸ ³à¼®Àº
+<SYNC Start=996498><P Class=KRCC>
+³²ÀÚ·Î ¸»ÇÏ¸é Å¸ÀÏ½ºÅæ ÀÌ¶ó°í
+<SYNC Start=1000998><P Class=KRCC>
+Àú±â ¾ÆÁ®¾¾ ¹«½¼ÀÏ ÀÖ¾ú¾î¿ä?
+<SYNC Start=1004363><P Class=KRCC>
+¾î~ ¿©±â 1¹ø ÅäÅ©¿¡¼­ ¶Ç ÇØÀûµéÀÌ ³¯ ¶Ù¾ú³ªºÁ
+<SYNC Start=1009603><P Class=KRCC>
+¹¹ °á°ú´Â ¾îÂ÷ÇÇ Á¶¼±°øµéÀÇ ¹âÈ÷°í ³¡³µÁö.
+<SYNC Start=1014297><P Class=KRCC>
+¹Ùº¸°°Àº ³à¼®µéÀÌ ³¡ÀÌ ¾ø¾î
+<SYNC Start=1016785><P Class=KRCC>
+Á¶¼±°øÀÌ ÇØÀûÀ» ÇØÄ¡¿ö ¹ö¸°°Å¾ß?
+<SYNC Start=1019946><P Class=KRCC>
+¾Æ~ ÀÚ³×´Â Å¸Áö »ç¶÷ÀÎ°¡?<BR>
+Àú »ç¶÷µéÀº ½±°Ô ¸»ÇØ ±¸°æ²ÛµéÀÌ¾ß
+<SYNC Start=1026486><P Class=KRCC>
+°¥·¼¶ó ÄÄÆä´ÏÀÇ Á¶¼±°øµéÀº ¸¶À» <BR>
+»ç¶÷µé ¸ðµÎ°¡ µ¿°æÇÏ´Â ´ë»óÀÌÁö.
+<SYNC Start=1031751><P Class=KRCC>
+°­ÇÏ°í ½Ç·Âµµ ¶Ù¾î³ª°í...
+<SYNC Start=1036038><P Class=KRCC>
+±×µéÀº ¿öÅÍ¼¼ºìÀÇ ±àÁö¾ß
+<SYNC Start=1039900><P Class=KRCC>
+
+<SYNC Start=1047019><P Class=KRCC>
+Çì¿¡~<BR>
+±×°Å Àç¹Õ°Ú´Ù
+<SYNC Start=1051116><P Class=KRCC>
+Àá±ñ ·çÇÇ »¡¸® È¯±Ý¼Ò¿¡ °¡ÀÚ±¸<BR>
+¿©±ä ³ªÁß¿¡ ´Ù½Ã¿Íµµ µÇ´Ï±î
+<SYNC Start=1059071><P Class=KRCC>
+ÀÀ
+<SYNC Start=1060244><P Class=KRCC>
+
+<SYNC Start=1072490><P Class=KRCC>
+¼ö»ó ¸¶À» »óÁ¡°¡³×¿ä
+<SYNC Start=1074686><P Class=KRCC>
+ÀÌ·¸°Ô ¹°À§¿¡ ÀÖ´Ù´Ï ¼ö»ó ¸¶À»ÀÌ¾ß
+<SYNC Start=1079399><P Class=KRCC>
+°É¾î´Ù´Ò ¼ö ÀÖ´Â Àå¼Òµµ ÀÖ³×
+<SYNC Start=1082228><P Class=KRCC>
+¹°µµ ¸¼°í °Å¸®µµ ±ú²ýÇÏ±¸³ª
+<SYNC Start=1084733><P Class=KRCC>
+¾Æ~
+<SYNC Start=1086203><P Class=KRCC>
+
+<SYNC Start=1088434><P Class=KRCC>
+¹«¼Å~
+<SYNC Start=1091482><P Class=KRCC>
+¿©¾î~ ¾öÃ»³ª°Ô ÀÌ»Û ·¹ÀÌµð~
+<SYNC Start=1094488><P Class=KRCC>
+±Ù100³â º»Àû¾ø´Â ¾Æ¸§´Ù¿òÀÌ¾ß
+<SYNC Start=1098854><P Class=KRCC>
+»óµð°¡ °¡µæÀÌ´Ù
+<SYNC Start=1101256><P Class=KRCC>
+
+<SYNC Start=1106465><P Class=KRCC>
+¾î~? Àú°Ç ¹¹¾ß?
+<SYNC Start=1108939><P Class=KRCC>
+°¡¸é °¡°Ô³×
+<SYNC Start=1112135><P Class=KRCC>
+¾Æ±îºÎÅÍ Àú°É ¾ó±¼¿¡ ¾´ »ç¶÷µéÀÌ °Å¸®¸¦
+µ¹¾Æ´Ù´Ï°í ÀÖ¾úÀÝ¾Æ..
+<SYNC Start=1116518><P Class=KRCC>
+¾Æ~ Àú°É ¾´ °Å¿´±¸³ª ÀÌ»óÇÑ ¾ó±¼ÀÌ¶ó°í »ý°¢Çß´Ù
+<SYNC Start=1123928><P Class=KRCC>
+¹Ù´Ù ¿­Â÷·Î ¿¬°áµÈ ¼¶ '»ê ÆÈµµ' ¿¡¼­ <BR>
+Áö±Ý ¸çÄ¥Â° °¡¸é Ä«´Ï¹ßÀÌ ¿­¸®°í ÀÖ³ªºÁ
+<SYNC Start=1129390><P Class=KRCC>
+¾î? ¾î¶»°Ô ±×·±°É ¾Ë°í ÀÖ¾î?
+<SYNC Start=1132367><P Class=KRCC>
+±æ°Å¸® »ç¶÷µéÀÌ ¾ê±âÇÏ°í ÀÖ¾úÀ¸´Ï±î
+<SYNC Start=1136070><P Class=KRCC>
+±×·±°É ¿ëÄÉ µé¾ú±¸³ª
+<SYNC Start=1138680><P Class=KRCC>
+¹ö¸©ÀÌ¾ß
+<SYNC Start=1141052><P Class=KRCC>
+¾î·ÈÀ»¶§ºÎÅÍ »ç¶÷¾ó±¼À» º¸¸é¼­ ¹«½¼ ¼Ò¸®¸¦
+ÇÏ´ÂÁö ±Í¸¦ ±Í¿ïÀÌ¸é¼­ »ì¾Æ¿ÔÀ¸´Ï±î...
+<SYNC Start=1147932><P Class=KRCC>
+±²ÀåÇÏ´Ù ·ÎºóÀº...
+<SYNC Start=1151026><P Class=KRCC>
+
+<SYNC Start=1156941><P Class=KRCC>
+¼±ÀÇ¾¾ Àú±â Ã¥¹æÀÌ ÀÖ¾î¿ä
+<SYNC Start=1161490><P Class=KRCC>
+Á¤¸»·Î??
+<SYNC Start=1163488><P Class=KRCC>
+µé·Áµµ µÇ´Â°Å¾ß?/<BR>
+¹°·Ð µé¾î°¡ ºÁ¿ä
+<SYNC Start=1168472><P Class=KRCC>
+µÆ´Ù
+<SYNC Start=1171527><P Class=KRCC>
+
+<SYNC Start=1183051><P Class=KRCC>
+CP9 ÀÔ´Ï´Ù
+<SYNC Start=1185229><P Class=KRCC>
+
+<SYNC Start=1200782><P Class=KRCC>
+·Îºó ³ª ¸ÕÀú µé¾î°£´Ù~
+<SYNC Start=1205022><P Class=KRCC>
+
+<SYNC Start=1231615><P Class=KRCC>
+ÀÎ°£ÀÇ ¸ð½ÀÀÌ´Ï±î ±¦Âú°ÚÁö?
+<SYNC Start=1236776><P Class=KRCC>
+¾ÆÀÌ±¸~ ¸ÚÁø °¡¸éÀÌ±º¿ä.<br>
+¾î¶² Å×¸¶ÁÒ?
+<SYNC Start=1241594><P Class=KRCC>
+ÀÀ? ÀÎ°£¼ø·ÏÀÌ¿ä
+<SYNC Start=1247095><P Class=KRCC>
+Àç¹ÔÀ¸¸é µÆÁö¿ä ¸Ó~
+<SYNC Start=1251337><P Class=KRCC>
+¾î¶ó??
+<SYNC Start=1253495><P Class=KRCC>
+
+<SYNC Start=1258889><P Class=KRCC>
+·Îºó?
+<SYNC Start=1261354><P Class=KRCC>
+¾îÀÌ~ ·Îºó~
+<SYNC Start=1268547><P Class=KRCC>
+
+<SYNC Start=1301759><P Class=KRCC>
+ÀáÀÚ´Â°É ±â½ÀÇÑ °Å¿´´Âµ¥...
+<SYNC Start=1305428><P Class=KRCC>
+
+<SYNC Start=1308710><P Class=KRCC>
+´©±¸³Ä? ³ÊÈñµéÀº?
+<SYNC Start=1311581><P Class=KRCC>
+ÀÌ¸§À» ´ë¶ó!!
+<SYNC Start=1313691><P Class=KRCC>
+OrangeßäªÎêÀªÊÚ±ÕÎª¨ÐÑìíªÎù¦ª¬ö£ª¯<BR>
+<Font Color=lightblue>¿À·£Áö »öÀÇ ¸Õ ¹Ì·¡ÀÇ ¿À´ÃÀÇ ¹Ù¶÷ÀÌ ºÒ°í
+<SYNC Start=1324000><P Class=KRCC>
+å¨Ù¥ª±ªÎú­ªÏÓ×ª¿ªÃªÆÕÎªë<BR>
+<Font Color=lightblue>»õº®ÀÇ ¹Ù´Ù¸¦ ¸ÂÀÌ ÇØ¿ä
+<SYNC Start=1327872><P Class=KRCC>
+ØùªìªÊª¤ªÛªÉÙ¥ìíªÀª±Ì¸ª¿<BR>
+<Font Color=lightblue>ÀáÀ» ÀÌ·çÁö ¸øÇÏ°í ³»ÀÏ ¸¸À» ¹Ù¶ó ºÃ´Ù.
+<SYNC Start=1333885><P Class=KRCC>
+ª¢ªóªÊï×æðªÏª¿ªìªÇªâò­ªáªéªìªÊª¤ª«ªé<BR>
+<Font Color=lightblue>±×·± Á¤·ÄÀº ¾Æ¹«µµ ¸·À» ¼ö ¾øÀ¸´Ï±î
+<SYNC Start=1341572><P Class=KRCC>
+ýñØÐªÈª«øÖàâªÈª«ª¤ªíª¤ªíª¢ªëª±ªÉ<BR>
+<Font Color=lightblue>Èñ¸ÁÀÌ¶óµç°¡ ±× ¿Ü ¸»µéÀº ¸¹Áö¸¸
+<SYNC Start=1348485><P Class=KRCC>
+êÀª¤üåª¨ÌæªëªÃª«ªÛªêªãª¤ª¤ªóªÀ<BR>
+<Font Color=lightblue>¸Õ °÷¿¡¼­ ¸¸³ª °Ü´©¾î º¸¸é ÁÁÀ»²¨¾ß
+<SYNC Start=1355183><P Class=KRCC>
+ª¤ªÄª«ÜÒªéª¬ªºªÃªÈÙÓÌ¸ªÆª¿«¢«ó«×«ëªòÏ´ªáªÆ<BR>
+<Font Color=lightblue>ÀüºÎÅÍ Âß º¸°í ÀÖ´ø ³ÐÀº ¼¼°è¸¦ ÇâÇØ
+<SYNC Start=1362931><P Class=KRCC>
+ÍÔª¯â¢ªòãßªÐª»ªÐª¤ªÄªâª³ªÎýØªËöØªÞªÊª¤<BR>
+<Font Color=lightblue>³ôÀÌ ¼ÕÀ» »¸¾î Ç×»ó ÀÌ °¡½¿¿¡ °¡¶ó¾ÉÀÌ ¾Ê´Â
+<SYNC Start=1373297><P Class=KRCC>
+÷¼åÕªòð¦ª¤ªÆª­ªÃªÈú¼ª±ªëªµ<BR>
+<Font Color=lightblue>ÅÂ¾çÀ» ³Ñ¾î ²À °¥ ¼ö ÀÖÀ»²¨¾ß
+<SYNC Start=1378723><P Class=KRCC>
+ª¢ªÎíÞá¶ª¨<BR>
+<Font Color=lightblue>±× °÷¿¡..
+
+
+
+
+
+</BODY>
+
+</SAMI>

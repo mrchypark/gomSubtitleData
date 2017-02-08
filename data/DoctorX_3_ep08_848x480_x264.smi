@@ -1,0 +1,874 @@
+﻿<SAMI>
+
+<HEAD>
+<TITLE>Untitled</TITLE>
+
+<SAMIParam>
+  Metrics {time:ms;}
+  Spec {MSFT:1.0;}
+</SAMIParam>
+
+<STYLE TYPE="text/css">
+<!--
+  P { font-family: Arial; font-weight: normal; color: white; background-color: black; text-align: center; }
+  .KRCC { name: Korean; lang: kr-KR ; SAMIType: CC ; }
+-->
+</STYLE>
+
+</HEAD>
+
+<BODY>
+
+<-- Open play menu, choose Captions and Subtiles, On if available -->
+<-- Open tools menu, Security, Show local captions when present -->
+
+<SYNC Start=1270><P Class=KRCC>(다이몬 미치코)론!<br>(울음)
+<SYNC Start=3340><P Class=KRCC>(칸바라 아키라)<br>적당히 알지.
+<SYNC Start=6380><P Class=KRCC>이제 철망 할 수 있는 나이가 아니야<br>미치코.
+<SYNC Start=9350><P Class=KRCC>&gt;<br>무리는 금물.<br>(하품)
+<SYNC Start=13340><P Class=KRCC>&gt;<br>저기 다른 사람들은?<br>벌써 돌아왔어요.
+<SYNC Start=17340><P Class=KRCC>&gt;<br>거짓말...
+<SYNC Start=19330><P Class=KRCC>&gt;<br>벌써 세 암각 드라 3!<br>당황했 것에 심한~.
+<SYNC Start=24350><P Class=KRCC>&gt;<br>파는 와중에 떨어진 것은<br>너겠지요.
+<SYNC Start=27370><P Class=KRCC>&gt;<br>이제 무리는 금물이에요~<br>몇번도 마라!<br>10
+<SYNC Start=30350><P Class=KRCC>&gt;<br>(에비 케이)어의!<br>11
+<SYNC Start=32350><P Class=KRCC>&nbsp;
+<SYNC Start=33360><P Class=KRCC>&gt;<br>♬~<br>12
+<SYNC Start=46340><P Class=KRCC>&gt;<br>대문 선생님.<br>13
+<SYNC Start=48350><P Class=KRCC>&gt;<br>야마모토 씨의 수술 전 검사의 결과가<br>나왔어요.<br>14
+<SYNC Start=51340><P Class=KRCC>&gt;<br>고마워.<br>CT도 찍어 놓을까요?<br>15
+<SYNC Start=53340><P Class=KRCC>&gt;<br>잘.<br>대문 선생님 기무라상 수술이지만 →<br>16
+<SYNC Start=56350><P Class=KRCC>&gt;<br>전의 수술이 길어지고 있으니<br>개시가 늦어질 것 같아요.<br>17
+<SYNC Start=58330><P Class=KRCC>&gt;<br>네~.<br>18
+<SYNC Start=60330><P Class=KRCC>&nbsp;
+<SYNC Start=65350><P Class=KRCC>&gt;<br>있잖아!<br>19
+<SYNC Start=67360><P Class=KRCC>&gt;<br>그런데, 이거!언니!<br>20
+<SYNC Start=71360><P Class=KRCC>&gt;<br>(에비나)뭐야?<br>21
+<SYNC Start=73350><P Class=KRCC>&gt;<br>더 떨어뜨렸다.<br>22
+<SYNC Start=75360><P Class=KRCC>&gt;<br>그런 귀여운 것이<br>제 것이라고 생각하는가?<br>23
+<SYNC Start=77370><P Class=KRCC>&gt;<br>(에비나)<br>미안해 좀 미안.<br>24
+<SYNC Start=79370><P Class=KRCC>&nbsp;
+<SYNC Start=80340><P Class=KRCC>&gt;<br>그렇군요.<br>25
+<SYNC Start=82340><P Class=KRCC>&nbsp;
+<SYNC Start=84320><P Class=KRCC>-&gt;<br>(시라키 준코)대문 선생님<br>환자 입실했습니다.<br>26
+<SYNC Start=86340><P Class=KRCC>&gt;<br>부탁 드립니다.<br>그런데, 이거...<br>27
+<SYNC Start=89340><P Class=KRCC>&nbsp;
+<SYNC Start=90350><P Class=KRCC>&gt;<br>뭐죠?<br>28
+<SYNC Start=92350><P Class=KRCC>&nbsp;
+<SYNC Start=97350><P Class=KRCC>&gt;<br>아니야.<br>29
+<SYNC Start=99350><P Class=KRCC>&nbsp;
+<SYNC Start=107350><P Class=KRCC>&gt;<br>〈 이는<br>독불 장군의 여의사의 이야기인 〉<br>30
+<SYNC Start=110370><P Class=KRCC>&gt;<br>?후지카와 부장이?<br>31
+<SYNC Start=112330><P Class=KRCC>&gt;<br>예 아까 오세요.<br>32
+<SYNC Start=114330><P Class=KRCC>&nbsp;
+<SYNC Start=116420><P Class=KRCC>-&gt;<br>(텐도오 요시토) 그렇습니까.<br>33
+<SYNC Start=118360><P Class=KRCC>&gt;<br>저 유하라 명인을<br>준신 자카 병원에서 집에.<br>34
+<SYNC Start=121460><P Class=KRCC>&gt;<br>병원을 옮기게요.<br>35
+<SYNC Start=123350><P Class=KRCC>&gt;<br>저의 수술에서 꼭 완치.<br>36
+<SYNC Start=126430><P Class=KRCC>&gt;<br>다음달 신사이바시 궁전에는<br>나오겠습니다.<br>37
+<SYNC Start=128350><P Class=KRCC>&gt;<br>과연.<br>38
+<SYNC Start=130340><P Class=KRCC>&gt;<br>국립 고도 의료 센터 수술 팀<br>명인을 부활 쯔치유우 →<br>39
+<SYNC Start=133340><P Class=KRCC>&gt;<br>시나리오요.<br>40
+<SYNC Start=135340><P Class=KRCC>&gt;<br>시나리오..<br>41
+<SYNC Start=138360><P Class=KRCC>&gt;<br>〈 2014년 하얀 거탑의 붕괴는<br>그칠 줄 모르→<br>42
+<SYNC Start=143370><P Class=KRCC>&gt;<br>생명의 주고받는 의료는 →<br>43
+<SYNC Start=146340><P Class=KRCC>&gt;<br>본래 있는 모습을<br>완전히 잊고 있던 〉<br>44
+<SYNC Start=149340><P Class=KRCC>&gt;<br>(에비나)제가 오늘 아침 9시에는<br>찾아뵙겠다고 했지?<br>45
+<SYNC Start=152340><P Class=KRCC>&gt;<br>네. 확실히 그것은<br>듣고는 있었습니다만.<br>46
+<SYNC Start=155360><P Class=KRCC>&gt;<br>이지. 자 이제 9시야.<br>47
+<SYNC Start=157360><P Class=KRCC>&gt;<br>라고 할까 9시 1분이야.<br>48
+<SYNC Start=159360><P Class=KRCC>&nbsp;
+<SYNC Start=160370><P Class=KRCC>&gt;<br>〈 그러나<br>그런 상황에도 불구하고 →<br>49
+<SYNC Start=163350><P Class=KRCC>&gt;<br>나라는 성장 전략의 일환으로서<br>일본의 최신 의료를 →<br>50
+<SYNC Start=167320><P Class=KRCC>-&gt;<br>적극적으로 수출하기로<br>종연…〉<br>51
+<SYNC Start=170360><P Class=KRCC>&gt;<br>아무것도 들리지 않은데.<br>52
+<SYNC Start=172340><P Class=KRCC>&gt;<br>〈 의학계는 추가<br>약육강식의 시대에 돌입한 〉<br>53
+<SYNC Start=176340><P Class=KRCC>&nbsp;
+<SYNC Start=177350><P Class=KRCC>&gt;<br>어떡해요?<br>54
+<SYNC Start=179350><P Class=KRCC>&nbsp;
+<SYNC Start=180350><P Class=KRCC>&gt;<br>기다릴게요.<br>기다리겠습니다요.<br>55
+<SYNC Start=183350><P Class=KRCC>&nbsp;
+<SYNC Start=185360><P Class=KRCC>&gt;<br>못 기다리겠어!<br>56
+<SYNC Start=187430><P Class=KRCC>&gt;<br>빨리 주머니 봉합기도 가져오구.<br>(간호사)네.<br>57
+<SYNC Start=189340><P Class=KRCC>&gt;<br>〈 그런 가운데 어느 대학 의국에도<br>속하지 않은 프리랜서 →<br>58
+<SYNC Start=193370><P Class=KRCC>&gt;<br>독불 장군의 닥터가 나타난 〉<br>59
+<SYNC Start=197370><P Class=KRCC>&nbsp;
+<SYNC Start=198320><P Class=KRCC>-&gt;<br>조직 실링 시스템은 아직? 서둘러.<br>(하시구치 예)네, 지금 당장.<br>60
+<SYNC Start=201340><P Class=KRCC>&gt;<br>(아츠코)대문 선생님.<br>그런 다음에서 다음으로 →<br>61
+<SYNC Start=203340><P Class=KRCC>&gt;<br>준비는 안 됩니다. 조금은<br>기다리지 않나요?<br>62
+<SYNC Start=205360><P Class=KRCC>&gt;<br>못 기다리겠어.<br>63
+<SYNC Start=207360><P Class=KRCC>&nbsp;
+<SYNC Start=211370><P Class=KRCC>&gt;<br>우와~에비나 선생님.<br>안녕하세요.<br>64
+<SYNC Start=213350><P Class=KRCC>&gt;<br>에비나 선생님 왜 그러세요?<br>이렇게 일찍.<br>65
+<SYNC Start=216340><P Class=KRCC>&gt;<br>네?아니...<br>논문이 완성되었으므로.<br>66
+<SYNC Start=219340><P Class=KRCC>&gt;<br>사례의 재발 대장 암의<br>Hybrid NOTES및 →<br>67
+<SYNC Start=222340><P Class=KRCC>&gt;<br>Bevacizumab이 미치는<br>유효성에 대해.<br>68
+<SYNC Start=224350><P Class=KRCC>&gt;<br>죄송하다.<br>다음 예정이 임박해 줘.<br>69
+<SYNC Start=227350><P Class=KRCC>&gt;<br>이 건은 또 후일.<br>70
+<SYNC Start=229350><P Class=KRCC>&gt;<br>미스터.<br>하하 하하... 그러네.<br>71
+<SYNC Start=232350><P Class=KRCC>&gt;<br>하하 하하... 그러네.<br>72
+<SYNC Start=234350><P Class=KRCC>&nbsp;
+<SYNC Start=237360><P Class=KRCC>&gt;<br>〈 가령 이 여자 〉<br>73
+<SYNC Start=240360><P Class=KRCC>&gt;<br>〈 무리를 싫어한다<br>권위를 싫어하는 속박을 싫어하→<br>74
+<SYNC Start=244370><P Class=KRCC>&gt;<br>전문의의 라이선스와<br>타타키상게의 스킬만 →<br>75
+<SYNC Start=247350><P Class=KRCC>&gt;<br>그녀의 무기다 〉<br>76
+<SYNC Start=249350><P Class=KRCC>&gt;<br>♬~<br>77
+<SYNC Start=256360><P Class=KRCC>&gt;<br>〈 외과 의사 다이몬 미치코 〉<br>78
+<SYNC Start=259360><P Class=KRCC>&gt;<br>〈 다른 이름을 닥터 X〉<br>79
+<SYNC Start=263350><P Class=KRCC>&gt;<br>이거...<br>80
+<SYNC Start=265350><P Class=KRCC>&gt;<br>♬~<br>81
+<SYNC Start=270350><P Class=KRCC>&nbsp;
+<SYNC Start=294300><P Class=KRCC>&gt;<br>(사회)외과 의사는 후지카와 선생님입니다.<br>82
+<SYNC Start=296350><P Class=KRCC>&gt;<br>에비나 부장 이 부분<br>밤새 계속될 것 같아.<br>83
+<SYNC Start=300360><P Class=KRCC>&gt;<br>논문<br>텐도오 총장에게 인정 받고 →<br>84
+<SYNC Start=302340><P Class=KRCC>&gt;<br>후지카와 부장을<br>낚아채고 싶어요<br>85
+<SYNC Start=304360><P Class=KRCC>&gt;<br>수수하다는?<br>할 일이 정공 법 너무 많아.<br>86
+<SYNC Start=308510><P Class=KRCC>&gt;<br>(후지 강)에 유하라 명인이라면 →<br>87
+<SYNC Start=311370><P Class=KRCC>&gt;<br>아시다 시피<br>장기계의 슈퍼 스타예요.<br>88
+<SYNC Start=314350><P Class=KRCC>&gt;<br>저의 집도로 이 정도의 종양 →<br>89
+<SYNC Start=317360><P Class=KRCC>&gt;<br>좀 잠깐의 잠깐 이거<br>걷어치우다 다음달의 궁전에는 →<br>90
+<SYNC Start=320360><P Class=KRCC>&gt;<br>아무쪼록 만전의 컨디션이<br>임해 준다고 생각합니다.<br>91
+<SYNC Start=324360><P Class=KRCC>&gt;<br>멋져!<br>유하라 명인 퇴원 시에는 →<br>92
+<SYNC Start=327370><P Class=KRCC>&gt;<br>각 언론을<br>부를 합시다.<br>93
+<SYNC Start=329370><P Class=KRCC>&gt;<br>(가치)퍼포먼스 능력은<br>에비나보다 후지 강이 어디?<br>94
+<SYNC Start=333360><P Class=KRCC>&gt;<br>밀기의 힘은<br>뭐라고 해도 관서 사람이니까.<br>95
+<SYNC Start=336340><P Class=KRCC>&gt;<br>그런데, 이것 잡았는데?<br>96
+<SYNC Start=340360><P Class=KRCC>&gt;<br>(카토)습득물이라면<br>관리과에 보내 주세요.<br>97
+<SYNC Start=343370><P Class=KRCC>&gt;<br>이 환자의 수술 저에게 시켜.<br>98
+<SYNC Start=345350><P Class=KRCC>&gt;<br>(가치) 있더라 또 한명<br>고집이 너무 강한 것이.<br>99
+<SYNC Start=348350><P Class=KRCC>&gt;<br>전에 입원하고 있지.<br>100
+<SYNC Start=350360><P Class=KRCC>&gt;<br>이것 뺐어<br>글씨의 느낌에서 보면 →<br>101
+<SYNC Start=352340><P Class=KRCC>&gt;<br>초등생 여자?<br>102
+<SYNC Start=354340><P Class=KRCC>&gt;<br>간호사 분들에게 물어도<br>분명치 않아.<br>103
+<SYNC Start=357360><P Class=KRCC>&gt;<br>좀 콘퍼런스 중입니다.<br>104
+<SYNC Start=359360><P Class=KRCC>&gt;<br>네.<br>105
+<SYNC Start=361370><P Class=KRCC>&gt;<br>아마<br>어머니와 필담이 사용하고 있구나.<br>106
+<SYNC Start=363350><P Class=KRCC>&gt;<br>즉 소리가 나오지 않아.<br>107
+<SYNC Start=365350><P Class=KRCC>&gt;<br>"목에 튜브가 "라고<br>적혀 있어서 →<br>108
+<SYNC Start=367370><P Class=KRCC>&gt;<br>아마도 기관 절개하는.<br>109
+<SYNC Start=369390><P Class=KRCC>&gt;<br>(카토)저...여보세요?<br>그래서 여기.<br>110
+<SYNC Start=371390><P Class=KRCC>&nbsp;
+<SYNC Start=373360><P Class=KRCC>&gt;<br>여기"휙휙 하고 싫다"<br>라고 쓰고 있어.<br>111
+<SYNC Start=375360><P Class=KRCC>&gt;<br>이는 천명의 것.<br>112
+<SYNC Start=377370><P Class=KRCC>&gt;<br>기침을 하고 숨이 답답하다.<br>흉통도 있고 현기증.<br>113
+<SYNC Start=381350><P Class=KRCC>&gt;<br>지난주는 실신도 하고 있어<br>(카토)대문 선생님.<br>114
+<SYNC Start=383360><P Class=KRCC>&gt;<br>이 아이는 폐 고혈압증.<br>115
+<SYNC Start=386360><P Class=KRCC>&gt;<br>부모 명답.<br>116
+<SYNC Start=389360><P Class=KRCC>&nbsp;
+<SYNC Start=390360><P Class=KRCC>&gt;<br>폐 고혈압증 중에서도 드문<br>폐 정맥 폐색증이나.<br>117
+<SYNC Start=395350><P Class=KRCC>&gt;<br>폐 정맥 폐색.<br>118
+<SYNC Start=397350><P Class=KRCC>&gt;<br>사무의 아저씨<br>진료 기록 카드 보고 싶은데.<br>119
+<SYNC Start=399350><P Class=KRCC>&gt;<br>(카토)뭐?<br>120
+<SYNC Start=401320><P Class=KRCC>-&gt;<br>(후지 강)이 환자는 나의 전임...<br>음 뭐에요?<br>121
+<SYNC Start=404360><P Class=KRCC>&gt;<br>만두...모나카.<br>122
+<SYNC Start=407360><P Class=KRCC>&gt;<br>당고 자카 선생님.<br>(후지 강)아 아 그래.<br>123
+<SYNC Start=409360><P Class=KRCC>&gt;<br>그 남자 선생님께<br>계승하는데 →<br>124
+<SYNC Start=411370><P Class=KRCC>&gt;<br>근처에 병원을 옮기고 받기로 하죠.<br>왜?<br>125
+<SYNC Start=413350><P Class=KRCC>&gt;<br>왜?라고 원인 불명의 난치병에<br>저산소 혈증 우심 부전을 →<br>126
+<SYNC Start=418360><P Class=KRCC>&gt;<br>합병하는 거야.<br>127
+<SYNC Start=420360><P Class=KRCC>&gt;<br>( 웅성거림)<br>128
+<SYNC Start=422360><P Class=KRCC>&gt;<br>그건 안 된다.<br>속수무책이다.<br>129
+<SYNC Start=425360><P Class=KRCC>&gt;<br>집에서 수술해<br>죽거나 하면 →<br>130
+<SYNC Start=427370><P Class=KRCC>&gt;<br>불쌍하지 이려나.<br>131
+<SYNC Start=429350><P Class=KRCC>&gt;<br>네. 그럼 그런 일로<br>잘 인수 방안을.<br>132
+<SYNC Start=431340><P Class=KRCC>&gt;<br>하지 않습니다.<br>133
+<SYNC Start=433340><P Class=KRCC>&nbsp;
+<SYNC Start=435360><P Class=KRCC>&gt;<br>이 환자 내가 자르다.<br>134
+<SYNC Start=438360><P Class=KRCC>&gt;<br>(후지 강)나중에 진료 기록 카드<br>천천히 보면 좋지만 →<br>135
+<SYNC Start=441360><P Class=KRCC>&gt;<br>지금 말한 일에 더해<br>심장은 비대하고 있고 →<br>136
+<SYNC Start=444370><P Class=KRCC>&gt;<br>통상의 폐 고혈압증의 치료 하면<br>폐수종의 위험성도 있다.<br>137
+<SYNC Start=450360><P Class=KRCC>&gt;<br>완치는 무리. 수단 있을 수 없는.<br>138
+<SYNC Start=452360><P Class=KRCC>&gt;<br>있다.<br>139
+<SYNC Start=455380><P Class=KRCC>&gt;<br>( 웅성거림)<br>140
+<SYNC Start=458360><P Class=KRCC>&gt;<br>폐 이식.<br>141
+<SYNC Start=460380><P Class=KRCC>&gt;<br>무슨 말을 꺼내더니.<br>142
+<SYNC Start=462350><P Class=KRCC>&gt;<br>그렇다면 이 아이는 완치된다.<br>143
+<SYNC Start=464350><P Class=KRCC>&gt;<br>(후지 강)그런 일은<br>선합니다!<br>144
+<SYNC Start=466350><P Class=KRCC>&gt;<br>다른 기증자는 어떻게 해요?<br>있습니까?<br>145
+<SYNC Start=469360><P Class=KRCC>&gt;<br>8세의 어린 아이의 몸에<br>적합하나가 →<br>146
+<SYNC Start=471360><P Class=KRCC>&gt;<br>굽실굽실 굽실굽실<br>사정게 나오시겠읍니까?<br>147
+<SYNC Start=473360><P Class=KRCC>&gt;<br>그래서 생체 폐이식.<br>148
+<SYNC Start=475410><P Class=KRCC>&gt;<br>(함성)<br>149
+<SYNC Start=480420><P Class=KRCC>-&gt;<br>8세 어린이의 생체 폐이식.<br>150
+<SYNC Start=485420><P Class=KRCC>&nbsp;
+<SYNC Start=486360><P Class=KRCC>&gt;<br>(후지 강)당신인<br>농담도 쉬엄쉬엄.<br>151
+<SYNC Start=488360><P Class=KRCC>&gt;<br>(카토)대문 선생님!<br>그 환자는 후지카와 선생님이 →<br>152
+<SYNC Start=491380><P Class=KRCC>&gt;<br>무리라고 판단했거든요.<br>그것을...<br>153
+<SYNC Start=493370><P Class=KRCC>&gt;<br>후지카와 선생님이 무리라고 판단했다<br>환자를 고쳐 →<br>154
+<SYNC Start=496350><P Class=KRCC>&gt;<br>후지카와 선생님의 코를<br>밝혀 준다는 둥.<br>155
+<SYNC Start=499350><P Class=KRCC>&nbsp;
+<SYNC Start=500360><P Class=KRCC>&gt;<br>나는 전혀 그럴 생각 없어서.<br>156
+<SYNC Start=503360><P Class=KRCC>&gt;<br>나는 이 환자를 돕고 싶을 뿐.<br>157
+<SYNC Start=506330><P Class=KRCC>&gt;<br>인간 관계나 상하 관계나<br>일체 관심 없습니다.<br>158
+<SYNC Start=510370><P Class=KRCC>&gt;<br>돌아갑니다.<br>159
+<SYNC Start=512370><P Class=KRCC>&nbsp;
+<SYNC Start=521360><P Class=KRCC>&gt;<br>(핫 카즈미)정말 딸을...<br>치히로를 고쳐 주실 건가요?<br>160
+<SYNC Start=525360><P Class=KRCC>&gt;<br>네.<br>161
+<SYNC Start=527360><P Class=KRCC>&nbsp;
+<SYNC Start=530350><P Class=KRCC>&gt;<br>이것을 내가 주운 것도<br>어떤 인연일까?<br>162
+<SYNC Start=534350><P Class=KRCC>&nbsp;
+<SYNC Start=535360><P Class=KRCC>&gt;<br>언제부터인가<br>없어져.<br>163
+<SYNC Start=539360><P Class=KRCC>&gt;<br>치히로 역시<br>어딘가에서 빠뜨맀었어.<br>164
+<SYNC Start=543350><P Class=KRCC>&gt;<br>발견되고 좋았다.<br>165
+<SYNC Start=545330><P Class=KRCC>&gt;<br>♬~<br>166
+<SYNC Start=556360><P Class=KRCC>&gt;<br>아버지?<br>167
+<SYNC Start=559360><P Class=KRCC>&gt;<br>네. 이 아이가 태어나서 곧<br>사고로...<br>168
+<SYNC Start=564360><P Class=KRCC>&nbsp;
+<SYNC Start=571430><P Class=KRCC>&gt;<br>(칸바라)<br>확실히 폐 이식밖에 없어.<br>169
+<SYNC Start=573360><P Class=KRCC>&gt;<br>증상은 진행성.<br>언제 돌변할지 모르는.<br>170
+<SYNC Start=577370><P Class=KRCC>&gt;<br>뇌사 폐이식로는<br>뇌사 기증자가 나올 때까지 못 기다리겠어.<br>171
+<SYNC Start=580340><P Class=KRCC>&gt;<br>열!<br>(츠츠이 마사 카즈) 빠르고도 3개월.<br>172
+<SYNC Start=583360><P Class=KRCC>&gt;<br>서투르고 6개월?<br>못 기다리겠어.<br>173
+<SYNC Start=585360><P Class=KRCC>&gt;<br>거기까지 기다릴 수 있을 리가 없잖아!<br>174
+<SYNC Start=587360><P Class=KRCC>&gt;<br>는~춤. 단지 환자는<br>아직 8세의 어린애라서 →<br>175
+<SYNC Start=591400><P Class=KRCC>&gt;<br>폐가 작다.<br>음 음 먹어.<br>176
+<SYNC Start=594370><P Class=KRCC>&gt;<br>어른의 기증자의 허파라고<br>가라앉지 않을 가능성이 비싸지.<br>177
+<SYNC Start=598350><P Class=KRCC>&gt;<br>그곳은 한쪽 생체 부분 폐 이식<br>생각해.<br>178
+<SYNC Start=602360><P Class=KRCC>&gt;<br>어른의 폐를 부분 이식네.<br>기증자는 어머니?<br>179
+<SYNC Start=606480><P Class=KRCC>&gt;<br>환자의 혈액형은 A.<br>어머니는 B.<br>180
+<SYNC Start=610350><P Class=KRCC>&gt;<br>응?아버지는?<br>7년 전 숨지는.<br>181
+<SYNC Start=613350><P Class=KRCC>&gt;<br>아아 그래.<br>친척의 도움도 안 되.<br>182
+<SYNC Start=617350><P Class=KRCC>&nbsp;
+<SYNC Start=621360><P Class=KRCC>&gt;<br>어머니 혼자 아무리 노력해도<br>안 되는 때가 있어요.<br>183
+<SYNC Start=626360><P Class=KRCC>&nbsp;
+<SYNC Start=630350><P Class=KRCC>&gt;<br>자!이거 먹으면<br>오늘은 톱 들어!<br>184
+<SYNC Start=633360><P Class=KRCC>&gt;<br>무엇을?<br>마작이야.<br>185
+<SYNC Start=636360><P Class=KRCC>&gt;<br>(미치코·츠츠이·미하라)아아……<br>186
+<SYNC Start=638360><P Class=KRCC>&gt;<br>질려에도 정도가 있습니다<br>187
+<SYNC Start=640360><P Class=KRCC>&gt;<br>그 수술 정키의<br>프리터 여자 →<br>188
+<SYNC Start=643370><P Class=KRCC>&gt;<br>실험대가 되는 환자가<br>정말 가엾어서...<br>189
+<SYNC Start=647340><P Class=KRCC>&gt;<br>후지카와 선생님.<br>(후지 강)네.<br>190
+<SYNC Start=650360><P Class=KRCC>&gt;<br>당신의 재생 의료에 관한<br>여러 논문 읽었습니다.<br>191
+<SYNC Start=655360><P Class=KRCC>&gt;<br>모두 훌륭한 논문입니다.<br>192
+<SYNC Start=657360><P Class=KRCC>&gt;<br>(후지 강) 죄송합니다.<br>193
+<SYNC Start=659360><P Class=KRCC>&gt;<br>그러나 모두 다 아직<br>단순한 시나리오에 불과합니다.<br>194
+<SYNC Start=664360><P Class=KRCC>&nbsp;
+<SYNC Start=665350><P Class=KRCC>&gt;<br>우리 나라의 기초 연구 수준은<br>세계 톱 클래스입니다.<br>195
+<SYNC Start=670340><P Class=KRCC>&gt;<br>즉 자기 자랑만은 훌륭하다.<br>196
+<SYNC Start=674340><P Class=KRCC>&nbsp;
+<SYNC Start=675360><P Class=KRCC>&gt;<br>그러나 그것을 현장에서<br>실천 가능한 솜씨와 담력을 지니→<br>197
+<SYNC Start=680350><P Class=KRCC>&gt;<br>닥터가 치명적으로 부족하다.<br>198
+<SYNC Start=683360><P Class=KRCC>&gt;<br>그것이<br>우리 나라의 의료 현실입니다.<br>199
+<SYNC Start=687360><P Class=KRCC>&gt;<br>하아….<br>200
+<SYNC Start=689360><P Class=KRCC>&nbsp;
+<SYNC Start=690360><P Class=KRCC>&gt;<br>총장.<br>201
+<SYNC Start=693350><P Class=KRCC>&gt;<br>즉 솜씨 좋은 닥터를 꼭둑<br>임상 예를 쌓아 가면…<br>202
+<SYNC Start=699350><P Class=KRCC>&gt;<br>우리 나라에서 세계를 향해 →<br>203
+<SYNC Start=701360><P Class=KRCC>&gt;<br>최첨단의 의료를 발신하는 것이<br>할 수…→<br>204
+<SYNC Start=706360><P Class=KRCC>&gt;<br>는 것이죠.<br>205
+<SYNC Start=709360><P Class=KRCC>&gt;<br>♬~<br>206
+<SYNC Start=717360><P Class=KRCC>&gt;<br>(이가와) 어떻게 해요?<br>아직 기다리시겠어요?<br>207
+<SYNC Start=721360><P Class=KRCC>&nbsp;
+<SYNC Start=723360><P Class=KRCC>&gt;<br>곧 회진 시간이거든요...<br>208
+<SYNC Start=726360><P Class=KRCC>&nbsp;
+<SYNC Start=730350><P Class=KRCC>&gt;<br>아직 1번<br>총장을 만나지 않더라 →<br>209
+<SYNC Start=732500><P Class=KRCC>&gt;<br>에비나 부장.<br>얼레.<br>210
+<SYNC Start=734340><P Class=KRCC>&gt;<br>(아치)결국 총장도 후지카와 부장에<br>후원 할 소리네. 으하하.<br>211
+<SYNC Start=738380><P Class=KRCC>&gt;<br>있어 그런 사람이.<br>212
+<SYNC Start=740360><P Class=KRCC>&gt;<br>무턱대고 뒷전<br>기다리고만 인생의 사람.<br>213
+<SYNC Start=743360><P Class=KRCC>&gt;<br>(일동의 웃음 소리)<br>214
+<SYNC Start=745350><P Class=KRCC>&gt;<br>(문 열리는 소리)<br>215
+<SYNC Start=747350><P Class=KRCC>&nbsp;
+<SYNC Start=748350><P Class=KRCC>&gt;<br>(에비나)너희들이랍니다.<br>216
+<SYNC Start=751350><P Class=KRCC>&nbsp;
+<SYNC Start=753360><P Class=KRCC>&gt;<br>있었니?<br>(에비나)너희들 →<br>217
+<SYNC Start=755360><P Class=KRCC>&gt;<br>" 기다리면 항해에 좋은 날씨가 있음"<br>라는 말 모르는가?<br>218
+<SYNC Start=758360><P Class=KRCC>&gt;<br>(가치)핫 팩?<br>219
+<SYNC Start=760370><P Class=KRCC>&gt;<br>당황하지 않고 떠들지 않고<br>오로지 기다리면 →<br>220
+<SYNC Start=763350><P Class=KRCC>&gt;<br>이윽고 항해에 나가서<br>절호의 날씨 날이 오→<br>221
+<SYNC Start=767560><P Class=KRCC>&gt;<br>라는<br>뭐 그런 의미 말이야.<br>222
+<SYNC Start=769340><P Class=KRCC>&gt;<br>요.<br>그렇죠.<br>223
+<SYNC Start=772480><P Class=KRCC>&gt;<br>?인생이란 것은<br>그런 일을 믿고 →<br>224
+<SYNC Start=775350><P Class=KRCC>&gt;<br>힘내다 보면 말야.<br>225
+<SYNC Start=777520><P Class=KRCC>-&gt;<br>그러네요.<br>226
+<SYNC Start=779350><P Class=KRCC>&gt;<br>(후지 강)그 말은 원래는 →<br>227
+<SYNC Start=781350><P Class=KRCC>&gt;<br>" 기다리면 감로의 날씨가 "<br>하는 이야기입니다.<br>228
+<SYNC Start=784360><P Class=KRCC>&gt;<br>간식 중?<br>" 달콤한 이슬"라고 써 감로.<br>229
+<SYNC Start=787360><P Class=KRCC>&gt;<br>아~<br>230
+<SYNC Start=789340><P Class=KRCC>&gt;<br>자리를 틀리게<br>개싰더라면 →<br>231
+<SYNC Start=791360><P Class=KRCC>&gt;<br>언젠가는 달콤한 이슬이 내려서<br>맛있는 눈에 만나→<br>232
+<SYNC Start=793360><P Class=KRCC>&gt;<br>쯔치유우 뜻이옵니다<br>233
+<SYNC Start=795370><P Class=KRCC>&gt;<br>사람 오라고.<br>일부러 고생하고 →<br>234
+<SYNC Start=798350><P Class=KRCC>&gt;<br>그런 긴 여행 1에서도<br>괜찮겠는데.(으하하.<br>235
+<SYNC Start=800360><P Class=KRCC>&gt;<br>(아치) 되는 정도로요.<br>236
+<SYNC Start=802360><P Class=KRCC>&gt;<br>요는 자리?<br>237
+<SYNC Start=804360><P Class=KRCC>&gt;<br>♬~<br>238
+<SYNC Start=819360><P Class=KRCC>&gt;<br>(에비나) 없네 수 없어요.<br>텐도오 총장 계십니까?<br>239
+<SYNC Start=823360><P Class=KRCC>&gt;<br>(이가와) 나가셨사옵니다.<br>240
+<SYNC Start=825360><P Class=KRCC>&gt;<br>수고하셨습니다.<br>241
+<SYNC Start=827360><P Class=KRCC>&nbsp;
+<SYNC Start=831350><P Class=KRCC>&gt;<br>후지카와 선생님이 무리라고 판단했다<br>환자를 고쳐 →<br>242
+<SYNC Start=835360><P Class=KRCC>&gt;<br>후지카와 선생님의 코를<br>밝혀 준다는 둥.<br>243
+<SYNC Start=838360><P Class=KRCC>&nbsp;
+<SYNC Start=843450><P Class=KRCC>&gt;<br>치히로의<br>기증자가 되어 줄 →<br>244
+<SYNC Start=845350><P Class=KRCC>&gt;<br>친척이에요?<br>없어?<br>245
+<SYNC Start=847350><P Class=KRCC>&nbsp;
+<SYNC Start=848400><P Class=KRCC>&gt;<br>전에 얼핏 들었는데요.<br>246
+<SYNC Start=851360><P Class=KRCC>&gt;<br>이로써<br>상당히 싸우는 것 같습니다.<br>247
+<SYNC Start=855360><P Class=KRCC>&gt;<br>이런 저런 사정으로 친척 교제도<br>못 될 같은.<br>248
+<SYNC Start=860370><P Class=KRCC>&gt;<br>빚인지.<br>(이와사키 유우코)나 봤어요.<br>249
+<SYNC Start=863400><P Class=KRCC>&gt;<br>공중 전화로.<br>그래 나도 봤다.<br>250
+<SYNC Start=866350><P Class=KRCC>&gt;<br>"돈 갚지 않습니다"라고 →<br>251
+<SYNC Start=868390><P Class=KRCC>&gt;<br>이제 불쌍한 정도<br>뻬코뻬코 하고.<br>252
+<SYNC Start=870380><P Class=KRCC>&gt;<br>(카즈미)정말 죄송합니다.<br>253
+<SYNC Start=872380><P Class=KRCC>&nbsp;
+<SYNC Start=874360><P Class=KRCC>&gt;<br>그래.<br>254
+<SYNC Start=876350><P Class=KRCC>&gt;<br>환자에게는 근거 없는 기대를<br>갖게 해선 안 됩니다.<br>255
+<SYNC Start=879350><P Class=KRCC>&gt;<br>말씀 드린 것입니다.<br>256
+<SYNC Start=881340><P Class=KRCC>&gt;<br>당신 같은 슈퍼 닥터가<br>가장 꼴불견이야.<br>257
+<SYNC Start=883470><P Class=KRCC>&gt;<br>사람의 이야기를 듣고 있잖아요.<br>정말 이제 저 사람은 벌써...<br>258
+<SYNC Start=886470><P Class=KRCC>&nbsp;
+<SYNC Start=890350><P Class=KRCC>&gt;<br>(카즈미)은 그 내일 보자.<br>259
+<SYNC Start=892350><P Class=KRCC>&nbsp;
+<SYNC Start=901360><P Class=KRCC>&gt;<br>어떻게든 공여자가<br>들키면 좋겠는데요.<br>260
+<SYNC Start=904360><P Class=KRCC>&gt;<br>(카즈미) 죄송합니다.<br>친척들과는 소원한 것이어서….<br>261
+<SYNC Start=908350><P Class=KRCC>&gt;<br>누군가 부탁할 사람.<br>262
+<SYNC Start=910370><P Class=KRCC>&gt;<br>없어요.<br>263
+<SYNC Start=912370><P Class=KRCC>&nbsp;
+<SYNC Start=913350><P Class=KRCC>&gt;<br>부탁 드립니다.<br>264
+<SYNC Start=915350><P Class=KRCC>&gt;<br>누군가...누군가<br>찾아 주시지 않겠습니까?<br>265
+<SYNC Start=920340><P Class=KRCC>&gt;<br>혈액형 A형의 사람은 세상에<br>많이 있잖아요?<br>266
+<SYNC Start=925360><P Class=KRCC>&gt;<br>딸에게 폐를 주시는 분<br>없습니까?<br>267
+<SYNC Start=929350><P Class=KRCC>&gt;<br>친족이<br>생체 기증자의 적응 기준입니다.<br>268
+<SYNC Start=934360><P Class=KRCC>&gt;<br>♬~<br>269
+<SYNC Start=953360><P Class=KRCC>&gt;<br>어차피..어차피 당신에게<br>이런 얘기 한 곳에서 →<br>270
+<SYNC Start=959360><P Class=KRCC>&gt;<br>흥미 없이 관계 없다고<br>말할 거죠.<br>271
+<SYNC Start=963360><P Class=KRCC>&nbsp;
+<SYNC Start=965350><P Class=KRCC>&gt;<br>좀….<br>272
+<SYNC Start=967360><P Class=KRCC>&gt;<br>입원비가 낼지<br>그런 환자랍니다.<br>273
+<SYNC Start=972380><P Class=KRCC>&gt;<br>만약 내지 못한다는 것이 되면 →<br>274
+<SYNC Start=976360><P Class=KRCC>&gt;<br>대문 선생님<br>책임 져 주실 건가요?<br>275
+<SYNC Start=982360><P Class=KRCC>&nbsp;
+<SYNC Start=983350><P Class=KRCC>&gt;<br>하지 않습니다.<br>276
+<SYNC Start=985360><P Class=KRCC>&gt;<br>♬~<br>277
+<SYNC Start=1005360><P Class=KRCC>&nbsp;
+<SYNC Start=1008350><P Class=KRCC>&gt;<br>무슨 일?<br>278
+<SYNC Start=1010350><P Class=KRCC>&nbsp;
+<SYNC Start=1011350><P Class=KRCC>&gt;<br>이거 전에도 복도에서 줏었는데.<br>279
+<SYNC Start=1015340><P Class=KRCC>&gt;<br>응? 잃은 게 아니라 →<br>280
+<SYNC Start=1019340><P Class=KRCC>&gt;<br>일부러 버린 거?<br>281
+<SYNC Start=1022350><P Class=KRCC>&gt;<br>♬~<br>282
+<SYNC Start=1038360><P Class=KRCC>&gt;<br>왜?그게 이거<br>어머니와의 대화에 중요한.<br>283
+<SYNC Start=1041430><P Class=KRCC>&gt;<br>♬~<br>284
+<SYNC Start=1047350><P Class=KRCC>&gt;<br>어이 없어!<br>아 미안 미안.<br>285
+<SYNC Start=1049360><P Class=KRCC>&gt;<br>필담에서 엄마와<br>싸움하는 느낌도 없지.<br>286
+<SYNC Start=1052340><P Class=KRCC>&gt;<br>그쵸?<br>287
+<SYNC Start=1054360><P Class=KRCC>&gt;<br>(노크)<br>응?누구?이런 시간에.<br>288
+<SYNC Start=1060350><P Class=KRCC>&gt;<br>♬~<br>289
+<SYNC Start=1067340><P Class=KRCC>&gt;<br>멜론?<br>아 아니...<br>290
+<SYNC Start=1069340><P Class=KRCC>&nbsp;
+<SYNC Start=1072350><P Class=KRCC>><br>망고입니다.<br>망고?<br>291
+<SYNC Start=1075360><P Class=KRCC>&gt;<br>무슨 일이야?<br>292
+<SYNC Start=1077360><P Class=KRCC>&nbsp;
+<SYNC Start=1084340><P Class=KRCC>&gt;<br>뭐 이렇게 해도 저러니까<br>히로미든지 불러 →<br>293
+<SYNC Start=1087360><P Class=KRCC>&gt;<br>반장 합니까?<br>할까요!<br>294
+<SYNC Start=1090350><P Class=KRCC>&gt;<br>저 자신...<br>마작은 본 적이 없어서.<br>295
+<SYNC Start=1094350><P Class=KRCC>&nbsp;
+<SYNC Start=1099340><P Class=KRCC>&gt;<br>저기 생체 폐이식의 기증자는<br>발견된 것?<br>296
+<SYNC Start=1104360><P Class=KRCC>&gt;<br>아직이지만.<br>혹시 A형?<br>297
+<SYNC Start=1109350><P Class=KRCC>&gt;<br>혹시 친척?<br>298
+<SYNC Start=1111350><P Class=KRCC>&gt;<br>저기 담배 안 피우고?<br>299
+<SYNC Start=1114340><P Class=KRCC>&gt;<br>아뇨 그런 게 아니라.<br>그럼 뭐야?<br>300
+<SYNC Start=1118340><P Class=KRCC>&nbsp;
+<SYNC Start=1119340><P Class=KRCC>&gt;<br>저 말야.<br>(한숨)<br>301
+<SYNC Start=1122350><P Class=KRCC>&gt;<br>만약 도너가 나와<br>뭐 오페라라고 하게 되면 →<br>302
+<SYNC Start=1127370><P Class=KRCC>&gt;<br>제가 집도하고 해도 좋다.<br>하아?<br>303
+<SYNC Start=1132340><P Class=KRCC>&gt;<br>뭐 전문 밖이지만 기술은 있다.<br>그래서 대문 →<br>304
+<SYNC Start=1137410><P Class=KRCC>&gt;<br>너를 조수에 달아 주어도 좋다.<br>무슨 소리야?<br>305
+<SYNC Start=1142410><P Class=KRCC>&nbsp;
+<SYNC Start=1143400><P Class=KRCC>&gt;<br>뭐 그런 상담을.<br>306
+<SYNC Start=1145350><P Class=KRCC>&gt;<br>상담이랄까?음<br>제안을 해 주고 싶어.<br>307
+<SYNC Start=1149360><P Class=KRCC>&gt;<br>그래서 온 것일 뿐이야.<br>하지 않습니다.<br>308
+<SYNC Start=1151360><P Class=KRCC>&nbsp;
+<SYNC Start=1153340><P Class=KRCC>&gt;<br>질색인 후지 강의 코를<br>밝히고 싶다.<br>309
+<SYNC Start=1157480><P Class=KRCC>&gt;<br>별로 그런 게 아냐.<br>310
+<SYNC Start=1159350><P Class=KRCC>&gt;<br>권력 다툼의 가담은 하지 않습니다!<br>311
+<SYNC Start=1162490><P Class=KRCC>&gt;<br>그러니까 그렇지 않대.<br>하니.<br>312
+<SYNC Start=1166490><P Class=KRCC>&nbsp;
+<SYNC Start=1170360><P Class=KRCC>&gt;<br>그래! 그렇지요.<br>313
+<SYNC Start=1174360><P Class=KRCC>&nbsp;
+<SYNC Start=1175350><P Class=KRCC>&gt;<br>나쁜?<br>314
+<SYNC Start=1177350><P Class=KRCC>&nbsp;
+<SYNC Start=1178330><P Class=KRCC>&gt;<br>저 당고 자카가 사라져<br>외과가 하나로 합쳐져 →<br>315
+<SYNC Start=1186330><P Class=KRCC>&gt;<br>겨우 내가 완전히 하는 시대가 온<br>했더니 그 후지 강이야.<br>316
+<SYNC Start=1192370><P Class=KRCC>&gt;<br>농담 아니야.<br>317
+<SYNC Start=1194370><P Class=KRCC>&nbsp;
+<SYNC Start=1196350><P Class=KRCC>&gt;<br>농담이 아니라고 생각지 않는가?<br>318
+<SYNC Start=1198350><P Class=KRCC>&gt;<br>생각하지 않습니다.<br>319
+<SYNC Start=1200360><P Class=KRCC>&gt;<br>프리터의 너에게<br>무얼 알어?<br>320
+<SYNC Start=1202360><P Class=KRCC>&gt;<br>프리랜서.<br>321
+<SYNC Start=1204360><P Class=KRCC>&nbsp;
+<SYNC Start=1205340><P Class=KRCC>&gt;<br>저기 에비나 선생님.<br>322
+<SYNC Start=1207340><P Class=KRCC>&nbsp;
+<SYNC Start=1209350><P Class=KRCC>&gt;<br>네.<br>좀 나오지 않습니까?<br>323
+<SYNC Start=1212350><P Class=KRCC>&nbsp;
+<SYNC Start=1213350><P Class=KRCC>&gt;<br>네?<br>324
+<SYNC Start=1215350><P Class=KRCC>&nbsp;
+<SYNC Start=1226350><P Class=KRCC>&gt;<br>(에비나)은 아~!<br>325
+<SYNC Start=1228350><P Class=KRCC>&nbsp;
+<SYNC Start=1231340><P Class=KRCC>&gt;<br>학창 시절에 자주 걷던 거예요.<br>326
+<SYNC Start=1234360><P Class=KRCC>&gt;<br>변하지 않는 이런 곳은.<br>327
+<SYNC Start=1237360><P Class=KRCC>&gt;<br>최근<br>슈퍼 목욕탕라는 것입니까?<br>328
+<SYNC Start=1240350><P Class=KRCC>&gt;<br>어?<br>정서라고 하는 것이 없지요<br>329
+<SYNC Start=1242350><P Class=KRCC>&nbsp;
+<SYNC Start=1244330><P Class=KRCC>&gt;<br>(칸바라)에비나 선생님.<br>330
+<SYNC Start=1246330><P Class=KRCC>&nbsp;
+<SYNC Start=1247350><P Class=KRCC>&gt;<br>(에비나)네.<br>331
+<SYNC Start=1249360><P Class=KRCC>&gt;<br>미치코가 왜 항상 →<br>332
+<SYNC Start=1251340><P Class=KRCC>&gt;<br>그런 무모한 짓을<br>입에 올리는 것 같아요?<br>333
+<SYNC Start=1254340><P Class=KRCC>&gt;<br>하아?<br>334
+<SYNC Start=1256360><P Class=KRCC>&gt;<br>나 실패하지 않으므로.<br>335
+<SYNC Start=1259370><P Class=KRCC>&gt;<br>아아……<br>336
+<SYNC Start=1261370><P Class=KRCC>&nbsp;
+<SYNC Start=1263340><P Class=KRCC>&gt;<br>각오입니다.<br>337
+<SYNC Start=1266340><P Class=KRCC>&gt;<br>환자는 1번 실패하시면<br>거기서 끝이에요.<br>338
+<SYNC Start=1272340><P Class=KRCC>&nbsp;
+<SYNC Start=1274350><P Class=KRCC>&gt;<br>가짜 의사는<br>다음에 실패하지 않으면 좋다.<br>339
+<SYNC Start=1278500><P Class=KRCC>&gt;<br>그렇게 생각한다.<br>340
+<SYNC Start=1280350><P Class=KRCC>&gt;<br>그래도 뭐 보통 의사라는 것은.<br>즉 오미 치코는 →<br>341
+<SYNC Start=1282340><P Class=KRCC>&gt;<br>그런 보통의 의사가 없다<br>는 것이죠.<br>342
+<SYNC Start=1286340><P Class=KRCC>&nbsp;
+<SYNC Start=1287360><P Class=KRCC>&gt;<br>그런 우리 미치코를 향해<br>내가 해 해?<br>343
+<SYNC Start=1293370><P Class=KRCC>&gt;<br>조수에 달아 주니?<br>까불지 말아 주세요.<br>344
+<SYNC Start=1298370><P Class=KRCC>&nbsp;
+<SYNC Start=1303360><P Class=KRCC>&gt;<br>미치코가 있는 곳에서는<br>할 수 없는 이야기.<br>345
+<SYNC Start=1308360><P Class=KRCC>&nbsp;
+<SYNC Start=1310330><P Class=KRCC>&gt;<br>(칸바라)은 아..<br>좋네요..목욕은.<br>346
+<SYNC Start=1316360><P Class=KRCC>&gt;<br>♬~<br>347
+<SYNC Start=1334360><P Class=KRCC>&gt;<br>무엇인가...<br>348
+<SYNC Start=1337360><P Class=KRCC>&gt;<br>♬~<br>349
+<SYNC Start=1364340><P Class=KRCC>&gt;<br>(한숨)<br>350
+<SYNC Start=1366340><P Class=KRCC>&nbsp;
+<SYNC Start=1369340><P Class=KRCC>&gt;<br>(문 열리는 소리)<br>351
+<SYNC Start=1371360><P Class=KRCC>&gt;<br>♬~<br>352
+<SYNC Start=1378330><P Class=KRCC>&gt;<br>놀랐다.<br>353
+<SYNC Start=1380330><P Class=KRCC>&nbsp;
+<SYNC Start=1383340><P Class=KRCC>&gt;<br>정말로?<br>(핫 니오)네.<br>354
+<SYNC Start=1387340><P Class=KRCC>&gt;<br>내가 치히로의 아버지입니다.<br>355
+<SYNC Start=1391360><P Class=KRCC>&gt;<br>왜?<br>356
+<SYNC Start=1393360><P Class=KRCC>&nbsp;
+<SYNC Start=1394370><P Class=KRCC>&gt;<br>도박에 빠져<br>빚을 만들고......→<br>357
+<SYNC Start=1400340><P Class=KRCC>&gt;<br>카즈미와 갓 태어난<br>치히로를 남기고 도망 쳤습니다.<br>358
+<SYNC Start=1406360><P Class=KRCC>&gt;<br>(한숨)<br>(하쯔타)그리고 7년 →<br>359
+<SYNC Start=1409420><P Class=KRCC>-&gt;<br>좀처럼 마땅한 생활이<br>못했는데 →<br>360
+<SYNC Start=1412350><P Class=KRCC>&gt;<br>작년 쯤에서<br>택시 운전사로 →<br>361
+<SYNC Start=1416360><P Class=KRCC>&gt;<br>겨우 제대로 된 생활이...<br>362
+<SYNC Start=1419490><P Class=KRCC>&gt;<br>그래서 먼 친척집에 →<br>363
+<SYNC Start=1423350><P Class=KRCC>&gt;<br>카즈미와 치히로의 모습을<br>들으러 갔어요.<br>364
+<SYNC Start=1427370><P Class=KRCC>&gt;<br>그러면 치히로가<br>중한 병에 걸린다고...<br>365
+<SYNC Start=1431350><P Class=KRCC>&gt;<br>입원할 곳을 찾는다<br>카즈미가 없을 때.<br>366
+<SYNC Start=1435350><P Class=KRCC>&nbsp;
+<SYNC Start=1440350><P Class=KRCC>&gt;<br>미안해. 놀래켜.<br>367
+<SYNC Start=1444350><P Class=KRCC>&nbsp;
+<SYNC Start=1446350><P Class=KRCC>&gt;<br>꼭.<br>누군지 모를텐데?<br>368
+<SYNC Start=1450360><P Class=KRCC>&gt;<br>♬~<br>369
+<SYNC Start=1493350><P Class=KRCC>&gt;<br>(핫타의 목소리)아내는 치히로에 →<br>370
+<SYNC Start=1495370><P Class=KRCC>&gt;<br>아버지는 치히로가 태어나서 곧<br>사고로 죽었다고 →<br>371
+<SYNC Start=1499340><P Class=KRCC>&gt;<br>그렇게 전해 있었습니다.<br>372
+<SYNC Start=1502360><P Class=KRCC>&gt;<br>그거야 그렇죠. 이런<br>대단찮은 남자가 아버지가 →<br>373
+<SYNC Start=1507350><P Class=KRCC>&gt;<br>치히로가 불쌍하죠.<br>374
+<SYNC Start=1510370><P Class=KRCC>&gt;<br>그리고 가끔 카즈미가 없는 틈에<br>몰래 치히로를 만나러.<br>375
+<SYNC Start=1515450><P Class=KRCC>&gt;<br>죄송합니다. 카페 라테 한잔.<br>(점원)네.<br>376
+<SYNC Start=1519340><P Class=KRCC>&gt;<br>(핫타의 목소리)언제든지 연락해 주었다<br>는, 핸드폰 번호를...<br>377
+<SYNC Start=1523360><P Class=KRCC>&gt;<br>♬~<br>378
+<SYNC Start=1529350><P Class=KRCC>&gt;<br>그것을 버리려고<br>하신 겁니까?치히로는.<br>379
+<SYNC Start=1531320><P Class=KRCC>-&gt;<br>죄송합니다.<br>카페 라테 서둘러 줘요?<br>380
+<SYNC Start=1534360><P Class=KRCC>&gt;<br>≪(점원)네.<br>381
+<SYNC Start=1536340><P Class=KRCC>&gt;<br>내가 만나러 오는 것을<br>어머니에게 깨닫지 않으려고 해.<br>382
+<SYNC Start=1540360><P Class=KRCC>&gt;<br>소용없을지도~<br>니 그럼 너무 커.<br>383
+<SYNC Start=1544330><P Class=KRCC>&gt;<br>으잉?<br>384
+<SYNC Start=1546350><P Class=KRCC>&gt;<br>일단 가.<br>385
+<SYNC Start=1548340><P Class=KRCC>&gt;<br>저기 못 기다리겠어.<br>카페 라테 취소.<br>386
+<SYNC Start=1551340><P Class=KRCC>&nbsp;
+<SYNC Start=1555340><P Class=KRCC>&gt;<br>(카즈미)오늘은 아버지의<br>무슨 말을 듣고 싶어?<br>387
+<SYNC Start=1558340><P Class=KRCC>&nbsp;
+<SYNC Start=1559350><P Class=KRCC>&gt;<br>어라?노트는?<br>388
+<SYNC Start=1562350><P Class=KRCC>&nbsp;
+<SYNC Start=1565340><P Class=KRCC>&gt;<br>어찌 된 걸까?<br>저것이 없으면 불편하지?<br>389
+<SYNC Start=1569360><P Class=KRCC>&gt;<br>새로운 것 사올께.<br>390
+<SYNC Start=1572360><P Class=KRCC>&nbsp;
+<SYNC Start=1574360><P Class=KRCC>&gt;<br>(카즈미)치히로?<br>391
+<SYNC Start=1577370><P Class=KRCC>&gt;<br>치히로 괜찮아?치히로?<br>392
+<SYNC Start=1580370><P Class=KRCC>&nbsp;
+<SYNC Start=1582350><P Class=KRCC>&gt;<br>(카즈미)대문 선생님 치히로가!<br>393
+<SYNC Start=1584350><P Class=KRCC>&nbsp;
+<SYNC Start=1586360><P Class=KRCC>&gt;<br>(간호사)"왜 그래요?"<br>에뽀 프로 스테 노루와 보셍탄 →<br>394
+<SYNC Start=1589360><P Class=KRCC>&gt;<br>시급 정주.<br>PCPS의 준비!빨리!<br>395
+<SYNC Start=1591360><P Class=KRCC>&nbsp;
+<SYNC Start=1593280><P Class=KRCC>&gt;<br>우심 부전이<br>상당히 진행되고 있습니다.<br>396
+<SYNC Start=1595350><P Class=KRCC>&gt;<br>최악<br>심장이 멎어 버릴 수도...<br>397
+<SYNC Start=1597440><P Class=KRCC>&gt;<br>네?<br>398
+<SYNC Start=1599360><P Class=KRCC>&gt;<br>벌써 한시도 못 기다리겠어요.<br>당장이라도 폐 이식을.<br>399
+<SYNC Start=1603360><P Class=KRCC>&nbsp;
+<SYNC Start=1604360><P Class=KRCC>&gt;<br>하지만…….<br>400
+<SYNC Start=1606360><P Class=KRCC>&gt;<br>기증자를 찾았어.401
+<SYNC Start=1608360><P Class=KRCC>&nbsp;
+<SYNC Start=1610350><P Class=KRCC>><br>정말인가요?아..!<br>402
+<SYNC Start=1614350><P Class=KRCC>&nbsp;
+<SYNC Start=1616340><P Class=KRCC>&gt;<br>어떤 분이세요?<br>익명 희망이래요...<br>403
+<SYNC Start=1620340><P Class=KRCC>&gt;<br>하아….<br>404
+<SYNC Start=1622340><P Class=KRCC>&nbsp;
+<SYNC Start=1624350><P Class=KRCC>&gt;<br>한쪽 생체 부분 폐이식.<br>405
+<SYNC Start=1626350><P Class=KRCC>&gt;<br>기증자의 오른쪽 아랫 잎을 떼어 내고<br>치히로의 우폐으로 이식.<br>406
+<SYNC Start=1630350><P Class=KRCC>&gt;<br>비교적 상태가 좋은 좌폐은<br>끊지 말고 살려라.<br>407
+<SYNC Start=1632340><P Class=KRCC>&gt;<br>(후지 강)네~선생님.<br>408
+<SYNC Start=1634360><P Class=KRCC>&gt;<br>아무리 그렇더라도 시민의 체격이<br>너무 커요?<br>409
+<SYNC Start=1638350><P Class=KRCC>&gt;<br>맞아.<br>기증자의 오른쪽 아랫 잎이라고 해도 →<br>410
+<SYNC Start=1641370><P Class=KRCC>&gt;<br>8세의 작은 여자 가슴에<br>들을는지.<br>411
+<SYNC Start=1644350><P Class=KRCC>&gt;<br>원래 심장이 우심 부전으로<br>비대해 →<br>412
+<SYNC Start=1647340><P Class=KRCC>&gt;<br>가뜩이나<br>흉강이 좁아지고 있어.<br>413
+<SYNC Start=1649360><P Class=KRCC>&gt;<br>(가치)무리야.<br>이 들지 않을 거야.<br>414
+<SYNC Start=1651360><P Class=KRCC>&gt;<br>조수는 2명. 1조교는.<br>415
+<SYNC Start=1654360><P Class=KRCC>&nbsp;
+<SYNC Start=1656360><P Class=KRCC>&gt;<br>내가 한다.<br>416
+<SYNC Start=1658350><P Class=KRCC>&gt;<br>(원·카지)뭐?<br>417
+<SYNC Start=1660350><P Class=KRCC>&gt;<br>하라 선생님 제2조수 잘.<br>하아….<br>418
+<SYNC Start=1663350><P Class=KRCC>&gt;<br>그럼.<br>기증자의 그라프트 적출은 당신.<br>419
+<SYNC Start=1665340><P Class=KRCC>&gt;<br>야 데이먼 그만둬요!<br>나를 끌어들이지 마!<br>420
+<SYNC Start=1668360><P Class=KRCC>&gt;<br>환자가 안전하게 마취 도입된 것을<br>확인하고 →<br>421
+<SYNC Start=1671350><P Class=KRCC>&gt;<br>도너 수술을 시작.<br>는 것으로 잘 부탁합니다.<br>422
+<SYNC Start=1674360><P Class=KRCC>&gt;<br>예수.<br>423
+<SYNC Start=1676350><P Class=KRCC>&gt;<br>(세키가하라 토모코)<br>에비나 부장!에비나 부장!<br>424
+<SYNC Start=1678350><P Class=KRCC>&gt;<br>앞으로 대대적인 수술로<br>바쁘구나..나중에 해 준다.<br>425
+<SYNC Start=1681360><P Class=KRCC>&gt;<br>텐도오 총장이...<br>426
+<SYNC Start=1683420><P Class=KRCC>-&gt;<br>텐도오 총장?<br>연락이 달라는 일이었지만 →<br>427
+<SYNC Start=1685360><P Class=KRCC>&gt;<br>그런 일이라면...<br>428
+<SYNC Start=1687360><P Class=KRCC>&nbsp;
+<SYNC Start=1688360><P Class=KRCC>&gt;<br>아니 좀 잠까…<br>잠깐 기다려!<br>429
+<SYNC Start=1690350><P Class=KRCC>&gt;<br>저에게 연락?그거…논문.<br>430
+<SYNC Start=1693380><P Class=KRCC>&gt;<br>오늘 6시에 몸이 납니다.<br>어떨까요?<br>431
+<SYNC Start=1697350><P Class=KRCC>&gt;<br>식사라도 하면서<br>그 논문 보겠습니다.<br>432
+<SYNC Start=1702340><P Class=KRCC>&gt;<br>분부입니다!<br>6시입니다.?<br>433
+<SYNC Start=1704340><P Class=KRCC>&gt;<br>이제 그 시간에는<br>수술은 끝나 버려 있사오니 →<br>434
+<SYNC Start=1707350><P Class=KRCC>&gt;<br>괜찮아요.<br>그래서 그 가게는 어디에?<br>435
+<SYNC Start=1710350><P Class=KRCC>&gt;<br>너가 자주 이용하고<br>좋은 가게 있습니까?<br>436
+<SYNC Start=1713350><P Class=KRCC>&gt;<br>오미야 다실 하시모토점!<br>어때요?<br>437
+<SYNC Start=1715360><P Class=KRCC>&gt;<br>오오...저기.<br>낯선 건가요?<br>438
+<SYNC Start=1719360><P Class=KRCC>&gt;<br>네.... 좀 잠까…<br>잠깐만요.<br>439
+<SYNC Start=1723360><P Class=KRCC>&gt;<br>세키가하라 군 세키가하라 군!<br>440
+<SYNC Start=1725370><P Class=KRCC>&gt;<br>오미야 다실 하시모토점<br>6시에 2명 예약. 본점이다!<br>441
+<SYNC Start=1729340><P Class=KRCC>&gt;<br>여보세요?저 저<br>6시 10분 전에는 →<br>442
+<SYNC Start=1732360><P Class=KRCC>&gt;<br>앞으로 타다 둡니다. 네!<br>443
+<SYNC Start=1734360><P Class=KRCC>&gt;<br>♬~<br>444
+<SYNC Start=1741370><P Class=KRCC>&gt;<br>괜찮아!꼭 괜찮으니까<br>445
+<SYNC Start=1744370><P Class=KRCC>&nbsp;
+<SYNC Start=1746350><P Class=KRCC>&gt;<br>(간호사)핫 치히로 씨입니다.<br>부탁 드립니다.<br>446
+<SYNC Start=1749350><P Class=KRCC>&nbsp;
+<SYNC Start=1750360><P Class=KRCC>&gt;<br>실례합니다.<br>슬슬 준비를.<br>447
+<SYNC Start=1753340><P Class=KRCC>&gt;<br>네.<br>448
+<SYNC Start=1755340><P Class=KRCC>&nbsp;
+<SYNC Start=1757350><P Class=KRCC>&gt;<br>자 척척<br>끝내 버리다 마 대문.<br>449
+<SYNC Start=1759330><P Class=KRCC>&gt;<br>넌 항상 일이 빠르니까?<br>450
+<SYNC Start=1761350><P Class=KRCC>&gt;<br>(하라) 신나요네 에비나 부장.<br>네?보통이야 보통.<br>451
+<SYNC Start=1766340><P Class=KRCC>&gt;<br>♬~"라라라라~"<br>452
+<SYNC Start=1769360><P Class=KRCC>&gt;<br>♬~<br>453
+<SYNC Start=1776360><P Class=KRCC>&nbsp;
+<SYNC Start=1778350><P Class=KRCC>&gt;<br>(히로미)마취 도입 특히 문제 없다.<br>454
+<SYNC Start=1781360><P Class=KRCC>&gt;<br>바이탈 안정.<br>455
+<SYNC Start=1783360><P Class=KRCC>&gt;<br>저쪽에 연락.<br>(아츠코)네!<br>456
+<SYNC Start=1785360><P Class=KRCC>&gt;<br>수술실 B에 연락합니다.<br>457
+<SYNC Start=1787360><P Class=KRCC>&gt;<br>(에비나)예 좀 더<br>삿사 빨리빨리 움직이다.<br>458
+<SYNC Start=1789430><P Class=KRCC>&gt;<br>(산 하미 나기 사진)네!<br>459
+<SYNC Start=1791350><P Class=KRCC>&gt;<br>(산 하미)이쪽 수술실 A입니다.<br>지금부터 시작입니다.<br>460
+<SYNC Start=1794350><P Class=KRCC>&nbsp;
+<SYNC Start=1795350><P Class=KRCC>&gt;<br>그러면 오른쪽 생체 부분 폐 이식<br>시작합니다.<br>461
+<SYNC Start=1798320><P Class=KRCC>-&gt;<br>우선 우폐 전적, 암컷.<br>(마나베 노조미)네.<br>462
+<SYNC Start=1802360><P Class=KRCC>&gt;<br>♬~<br>463
+<SYNC Start=1815360><P Class=KRCC>&gt;<br>(편안히 본 하루카)<br>수술실 A시작되었습니다.<br>464
+<SYNC Start=1817360><P Class=KRCC>&gt;<br>한쪽 엔진만으로 하는 그라후토 적출술을 시작합니다.<br>465
+<SYNC Start=1820340><P Class=KRCC>&gt;<br>오른쪽 제5늑간 후 측면 개흉으로 갑니다.<br>466
+<SYNC Start=1824480><P Class=KRCC>&gt;<br>잘.<br>잘 부탁 드립니다.<br>467
+<SYNC Start=1826370><P Class=KRCC>&gt;<br>메스.<br>(예)네.<br>468
+<SYNC Start=1828370><P Class=KRCC>&nbsp;
+<SYNC Start=1830340><P Class=KRCC>&gt;<br>검사 결과 나왔습니다.<br>부탁 드립니다.<br>469
+<SYNC Start=1833340><P Class=KRCC>&gt;<br>ACT 400 넘었습니다.<br>470
+<SYNC Start=1835360><P Class=KRCC>&gt;<br>메스.<br>네.<br>471
+<SYNC Start=1837360><P Class=KRCC>&gt;<br>♬~<br>472
+<SYNC Start=1849320><P Class=KRCC>-&gt;<br>인공 심폐 돌려.<br>( 시노 키 다이키)네.<br>473
+<SYNC Start=1852320><P Class=KRCC>&nbsp;
+<SYNC Start=1856350><P Class=KRCC>&gt;<br>환기합니다.<br>474
+<SYNC Start=1858350><P Class=KRCC>&nbsp;
+<SYNC Start=1860350><P Class=KRCC>&gt;<br>폐 정맥과 폐동맥을 분리합니다.<br>새틴 스키.<br>475
+<SYNC Start=1863350><P Class=KRCC>&gt;<br>(마나베)네.<br>476
+<SYNC Start=1865350><P Class=KRCC>&nbsp;
+<SYNC Start=1869340><P Class=KRCC>&gt;<br>멧츠에은.<br>(마나베)네.<br>477
+<SYNC Start=1871340><P Class=KRCC>&nbsp;
+<SYNC Start=1874350><P Class=KRCC>&gt;<br>(에비나)이야 후지 강의 포로<br>견학이나 와다는 거야.<br>478
+<SYNC Start=1878350><P Class=KRCC>&gt;<br>하하하하하...!<br>재밌어요!<br>479
+<SYNC Start=1881350><P Class=KRCC>&gt;<br>" 대단했어요 저것은 "<br>480
+<SYNC Start=1883340><P Class=KRCC>&gt;<br>잘 것 없는 하나도 거 없어!<br>하하하하하...!<br>481
+<SYNC Start=1886340><P Class=KRCC>&gt;<br>별거라 별거?<br>하하하하하...!<br>482
+<SYNC Start=1888350><P Class=KRCC>&gt;<br>관동의 코미디 최저이구나!<br>아하하 하하 하하...!<br>483
+<SYNC Start=1892350><P Class=KRCC>&nbsp;
+<SYNC Start=1893370><P Class=KRCC>&gt;<br>♬~<br>484
+<SYNC Start=1904330><P Class=KRCC>&gt;<br>우폐 적출 완료.<br>485
+<SYNC Start=1906350><P Class=KRCC>&gt;<br>과연이구나 빠르다.<br>486
+<SYNC Start=1908370><P Class=KRCC>&gt;<br>왠지 오늘 괜히 기분 좋네요<br>에비나 선생님.<br>487
+<SYNC Start=1910330><P Class=KRCC>&gt;<br>헛되고 뭐야<br>헛되이래.<br>488
+<SYNC Start=1912340><P Class=KRCC>&gt;<br>저기 그라프트 아직?<br>기다릴 수 없는데.<br>489
+<SYNC Start=1914350><P Class=KRCC>&gt;<br>대문 너야<br>조금 기다림을 기억해요.<br>490
+<SYNC Start=1917360><P Class=KRCC>&gt;<br>못 기다리겠어.<br>(에비나) 기다리니.<br>491
+<SYNC Start=1919360><P Class=KRCC>&nbsp;
+<SYNC Start=1922360><P Class=KRCC>&gt;<br>그라프트 발송됩니다.<br>492
+<SYNC Start=1924350><P Class=KRCC>&gt;<br>♬~<br>493
+<SYNC Start=1934340><P Class=KRCC>&gt;<br>야 이거...<br>494
+<SYNC Start=1936340><P Class=KRCC>&gt;<br>예상 이상으로 크네.<br>495
+<SYNC Start=1938340><P Class=KRCC>&nbsp;
+<SYNC Start=1940400><P Class=KRCC>&gt;<br>(에비나)이 아이의 가슴에<br>들어갈 수?<br>496
+<SYNC Start=1943400><P Class=KRCC>&nbsp;
+<SYNC Start=1944330><P Class=KRCC>&gt;<br>우선 기관지 일치합니다.<br>497
+<SYNC Start=1946340><P Class=KRCC>&gt;<br>4‐ 0흡수 실<br>(마나베)네.<br>498
+<SYNC Start=1948340><P Class=KRCC>&nbsp;
+<SYNC Start=1950470><P Class=KRCC>&gt;<br>멧츠에은.<br>(마나베)네.<br>499
+<SYNC Start=1952470><P Class=KRCC>&nbsp;
+<SYNC Start=1953360><P Class=KRCC>&gt;<br>문합 종료. 다음 폐 정맥.<br>500
+<SYNC Start=1956350><P Class=KRCC>&gt;<br>7‐ 0나일론.<br>(마나베)네.<br>501
+<SYNC Start=1958350><P Class=KRCC>&gt;<br>♬~<br>502
+<SYNC Start=1966340><P Class=KRCC>&gt;<br>빨리.<br>503
+<SYNC Start=1968360><P Class=KRCC>&gt;<br>좋아 5시에는 끝날 것이다.<br>504
+<SYNC Start=1971360><P Class=KRCC>&nbsp;
+<SYNC Start=1974350><P Class=KRCC>&gt;<br>폐동맥에 클램프. 혈류 재개.<br>505
+<SYNC Start=1977330><P Class=KRCC>&gt;<br>( 시노 키)네.<br>506
+<SYNC Start=1979340><P Class=KRCC>&gt;<br>다시 환기합니다.<br>507
+<SYNC Start=1981340><P Class=KRCC>&gt;<br>♬~<br>508
+<SYNC Start=1989360><P Class=KRCC>&gt;<br>좋아 좋아 좋아.<br>509
+<SYNC Start=1991350><P Class=KRCC>&gt;<br>이식한 폐에<br>공기가 투입된다.<br>510
+<SYNC Start=1993350><P Class=KRCC>&gt;<br>(하라) 붉은 빛을 띠었습니다.<br>511
+<SYNC Start=1995350><P Class=KRCC>&nbsp;
+<SYNC Start=1998340><P Class=KRCC>&gt;<br>서투른.<br>512
+<SYNC Start=2000340><P Class=KRCC>&nbsp;
+<SYNC Start=2001360><P Class=KRCC>&gt;<br>폐 그라후토의 팽창이<br>멈추지 않는다.<br>513
+<SYNC Start=2003360><P Class=KRCC>&nbsp;
+<SYNC Start=2004360><P Class=KRCC>&gt;<br>그런가?<br>514
+<SYNC Start=2006360><P Class=KRCC>&nbsp;
+<SYNC Start=2009370><P Class=KRCC>&gt;<br>이봐 이봐 이봐!<br>515
+<SYNC Start=2011330><P Class=KRCC>&gt;<br>팽팽하게 부풀어 왔다.<br>가슴에서 벗어나!<br>516
+<SYNC Start=2014350><P Class=KRCC>&gt;<br>그라프트가 크다.<br>517
+<SYNC Start=2016360><P Class=KRCC>&gt;<br>이것은 매우<br>이 아이의 가슴에 들어가지 않겠다.<br>518
+<SYNC Start=2018360><P Class=KRCC>&gt;<br>이대로라면<br>마감 일도 못한다.<br>519
+<SYNC Start=2020360><P Class=KRCC>&gt;<br>피 가스 확인해.<br>(하라)네.<br>520
+<SYNC Start=2022350><P Class=KRCC>&gt;<br>♬~<br>521
+<SYNC Start=2031400><P Class=KRCC>&gt;<br>(산 하미)피 가스 나왔습니다.<br>522
+<SYNC Start=2033320><P Class=KRCC>-&gt;<br>(히로미)CO2 42 O2 175.<br>523
+<SYNC Start=2037320><P Class=KRCC>&nbsp;
+<SYNC Start=2039350><P Class=KRCC>&gt;<br>비대한 심장이 폐를 압박하는.<br>524
+<SYNC Start=2042370><P Class=KRCC>&gt;<br>어떡할거야?<br>525
+<SYNC Start=2044370><P Class=KRCC>&nbsp;
+<SYNC Start=2047350><P Class=KRCC>&gt;<br>어떡해?<br>526
+<SYNC Start=2049350><P Class=KRCC>&nbsp;
+<SYNC Start=2050360><P Class=KRCC>&gt;<br>대문 어떻하지?<br>527
+<SYNC Start=2052340><P Class=KRCC>&gt;<br>♬~<br>528
+<SYNC Start=2065340><P Class=KRCC>&gt;<br>기다리다.<br>529
+<SYNC Start=2067360><P Class=KRCC>&gt;<br>기다리지?<br>530
+<SYNC Start=2069360><P Class=KRCC>&nbsp;
+<SYNC Start=2070340><P Class=KRCC>&gt;<br>기다리는…. 너구나!<br>531
+<SYNC Start=2073340><P Class=KRCC>&nbsp;
+<SYNC Start=2074350><P Class=KRCC>&gt;<br>(에비나)어이!대문!<br>532
+<SYNC Start=2077350><P Class=KRCC>&nbsp;
+<SYNC Start=2083760><P Class=KRCC>&gt;<br>≪(자동 문 열리는 소리)<br>533
+<SYNC Start=2085760><P Class=KRCC>&nbsp;
+<SYNC Start=2086760><P Class=KRCC>&gt;<br>대문.<br>534
+<SYNC Start=2088750><P Class=KRCC>&gt;<br>너는 기다리는.<br>535
+<SYNC Start=2091750><P Class=KRCC>&nbsp;
+<SYNC Start=2093740><P Class=KRCC>&gt;<br>어떻게 기다릴 생각이야?<br>536
+<SYNC Start=2095740><P Class=KRCC>&gt;<br>모르겠다.<br>537
+<SYNC Start=2097790><P Class=KRCC>&gt;<br>모른다구...너...<br>538
+<SYNC Start=2100790><P Class=KRCC>&nbsp;
+<SYNC Start=2103760><P Class=KRCC>&gt;<br>6시에 몸이 납니다.<br>그 논문 보겠습니다.<br>539
+<SYNC Start=2107760><P Class=KRCC>&nbsp;
+<SYNC Start=2113440><P Class=KRCC>&gt;<br>괜찮아 아직 1시간 이상 있다.<br>540
+<SYNC Start=2116440><P Class=KRCC>&nbsp;
+<SYNC Start=2128340><P Class=KRCC>&gt;<br>(간호사)부탁합니다.<br>541
+<SYNC Start=2130320><P Class=KRCC>-&gt;<br>안 변했네 피 가스는?<br>542
+<SYNC Start=2133340><P Class=KRCC>&gt;<br>CO2 40 O2 178.<br>543
+<SYNC Start=2135360><P Class=KRCC>&gt;<br>대문 앞 좌폐도 적출이다.<br>544
+<SYNC Start=2138360><P Class=KRCC>&gt;<br>그러면 폐 그라후토도 가라앉게 된다.<br>545
+<SYNC Start=2140370><P Class=KRCC>&gt;<br>좌폐는 남깁니다.<br>546
+<SYNC Start=2142350><P Class=KRCC>&gt;<br>왜?<br>이 아이의 좌폐는 기능한다.<br>547
+<SYNC Start=2144340><P Class=KRCC>&gt;<br>나쁘지도 않은 장기를 자르는 일은<br>하지 않습니다.<br>548
+<SYNC Start=2147340><P Class=KRCC>&nbsp;
+<SYNC Start=2152340><P Class=KRCC>&gt;<br>피부만 감아 줘.<br>549
+<SYNC Start=2154360><P Class=KRCC>&gt;<br>(에비나)조카 피부만 감고<br>어떻게 된다는 거야?<br>550
+<SYNC Start=2157370><P Class=KRCC>&gt;<br>30분 후에 뢴트겐.<br>(하라)30분 후!?<br>551
+<SYNC Start=2159330><P Class=KRCC>&gt;<br>그것까지 대기.<br>552
+<SYNC Start=2161340><P Class=KRCC>&gt;<br>(에비나)어이!<br>단지 아무것도 안 하고 기다리는 →<br>553
+<SYNC Start=2163350><P Class=KRCC>&gt;<br>무엇을 기다린다는 거야!<br>554
+<SYNC Start=2165360><P Class=KRCC>&gt;<br>그런 것 지금까지 너와<br>틀리 잖아 대문!<br>555
+<SYNC Start=2167360><P Class=KRCC>&gt;<br>♬~<br>556
+<SYNC Start=2181360><P Class=KRCC>&nbsp;
+<SYNC Start=2184380><P Class=KRCC>&gt;<br>(한숨)<br>557
+<SYNC Start=2186360><P Class=KRCC>&gt;<br>안 된다 이거.<br>558
+<SYNC Start=2188360><P Class=KRCC>&nbsp;
+<SYNC Start=2192330><P Class=KRCC>&gt;<br>(초침 소리)<br>559
+<SYNC Start=2199330><P Class=KRCC>&nbsp;
+<SYNC Start=2200340><P Class=KRCC>&gt;<br>(심전도 모니터의 소리)<br>560
+<SYNC Start=2203340><P Class=KRCC>&gt;<br>(초침 소리)<br>561
+<SYNC Start=2217760><P Class=KRCC>&gt;<br>야!<br>562
+<SYNC Start=2219760><P Class=KRCC>&nbsp;
+<SYNC Start=2221750><P Class=KRCC>&gt;<br>(칸바라)각오입니다.<br>563
+<SYNC Start=2223820><P Class=KRCC>-&gt;<br>환자는 1번 실패하시면<br>거기서 끝이에요.<br>564
+<SYNC Start=2228820><P Class=KRCC>&nbsp;
+<SYNC Start=2229760><P Class=KRCC>&gt;<br>(초침 소리)<br>565
+<SYNC Start=2238760><P Class=KRCC>&nbsp;
+<SYNC Start=2241730><P Class=KRCC>&gt;<br>좀..!<br>566
+<SYNC Start=2243740><P Class=KRCC>&gt;<br>♬~<br>567
+<SYNC Start=2251760><P Class=KRCC>&gt;<br>(하라)이거...<br>심장 비대가 개선된다.<br>568
+<SYNC Start=2254750><P Class=KRCC>&gt;<br>(에비나)설마.<br>폐 그라후토도 기능하기 시작했다.<br>569
+<SYNC Start=2257750><P Class=KRCC>&nbsp;
+<SYNC Start=2259740><P Class=KRCC>&gt;<br>(하라)이거면 들어간다.<br>순환이 개선되고 →<br>570
+<SYNC Start=2262750><P Class=KRCC>&gt;<br>심장도 허파도 작아진다.<br>571
+<SYNC Start=2264760><P Class=KRCC>&gt;<br>피부의 임시 봉합 발구해.<br>572
+<SYNC Start=2266760><P Class=KRCC>&nbsp;
+<SYNC Start=2270750><P Class=KRCC>&gt;<br>엄청..폐 그라후토이<br>흉강 내에 들어가는 걸고 있어.<br>573
+<SYNC Start=2274730><P Class=KRCC>&gt;<br>이것이라면 흉골도 내린다.<br>닫힌 가슴 합니다.<br>574
+<SYNC Start=2277740><P Class=KRCC>&gt;<br>와이어.<br>(마나베)네.<br>575
+<SYNC Start=2279740><P Class=KRCC>&gt;<br>♬~<br>576
+<SYNC Start=2314770><P Class=KRCC>&gt;<br>종료.<br>577
+<SYNC Start=2316740><P Class=KRCC>&gt;<br>♬~<br>578
+<SYNC Start=2329790><P Class=KRCC>&gt;<br>수고하셔.<br>579
+<SYNC Start=2331760><P Class=KRCC>&gt;<br>(일동)수고하셨습니다.<br>580
+<SYNC Start=2333760><P Class=KRCC>&nbsp;
+<SYNC Start=2336760><P Class=KRCC>&gt;<br>(하라)6시 반..결국 5시간?<br>581
+<SYNC Start=2341730><P Class=KRCC>&gt;<br>빠른 것인가? 늦니?<br>582
+<SYNC Start=2344730><P Class=KRCC>&nbsp;
+<SYNC Start=2345740><P Class=KRCC>&gt;<br>빠른 게 아닐까?<br>583
+<SYNC Start=2347760><P Class=KRCC>&gt;<br>♬~<br>584
+<SYNC Start=2354760><P Class=KRCC>&nbsp;
+<SYNC Start=2355750><P Class=KRCC>&gt;<br>과연.<br>585
+<SYNC Start=2358750><P Class=KRCC>&nbsp;
+<SYNC Start=2359840><P Class=KRCC>&gt;<br>고마워.<br>586
+<SYNC Start=2361840><P Class=KRCC>&nbsp;
+<SYNC Start=2369740><P Class=KRCC>&gt;<br>아직 끝나지 않아 거냐?<br>587
+<SYNC Start=2371760><P Class=KRCC>&gt;<br>에비나 부장이 조수 하는<br>생체 폐이식의 오페는.<br>588
+<SYNC Start=2375750><P Class=KRCC>&gt;<br>아까 끝났다던데요.<br>589
+<SYNC Start=2378740><P Class=KRCC>&gt;<br>너무 크다고 생각된<br>폐 그라후토이 →<br>590
+<SYNC Start=2381760><P Class=KRCC>&gt;<br>단지 1시간 기다린 게<br>심장 비대가 개선.<br>591
+<SYNC Start=2385760><P Class=KRCC>&gt;<br>깨끗이<br>흉강 내에 들어갔대요.<br>592
+<SYNC Start=2389730><P Class=KRCC>&gt;<br>흥...그저 기다릴 뿐야.<br>593
+<SYNC Start=2392730><P Class=KRCC>&gt;<br>이로써 다시<br>임상 사례가 1개 더해 졌습니다.<br>594
+<SYNC Start=2398730><P Class=KRCC>&nbsp;
+<SYNC Start=2399740><P Class=KRCC>&gt;<br>과연. 잘 알겠습니다.<br>595
+<SYNC Start=2404730><P Class=KRCC>&gt;<br>그 여자의 사용법이.<br>596
+<SYNC Start=2406730><P Class=KRCC>&nbsp;
+<SYNC Start=2408730><P Class=KRCC>&gt;<br>어디서 느낀 거인지 모르지만 →<br>597
+<SYNC Start=2411740><P Class=KRCC>&gt;<br>다이몬 미치코<br>네 능력 가지고 있어.<br>598
+<SYNC Start=2416740><P Class=KRCC>&gt;<br>분명히 그렇네요.<br>599
+<SYNC Start=2419740><P Class=KRCC>&nbsp;
+<SYNC Start=2422750><P Class=KRCC>&gt;<br>네가 버린 환자를<br>도와 버린 것이니까요.<br>600
+<SYNC Start=2428750><P Class=KRCC>&nbsp;
+<SYNC Start=2451760><P Class=KRCC>&gt;<br>♬~601
+<SYNC Start=2467740><P Class=KRCC>><br>아아..!<br>602
+<SYNC Start=2469740><P Class=KRCC>&gt;<br>미안 정말<br>나설 생각은.<br>603
+<SYNC Start=2474740><P Class=KRCC>&nbsp;
+<SYNC Start=2477750><P Class=KRCC>&gt;<br>하지만 역시...→<br>604
+<SYNC Start=2480740><P Class=KRCC>&gt;<br>카즈미 너를 원했다.<br>605
+<SYNC Start=2484740><P Class=KRCC>&nbsp;
+<SYNC Start=2487750><P Class=KRCC>&gt;<br>이 7년<br>어떤 고생해 왔는가 →<br>606
+<SYNC Start=2493750><P Class=KRCC>&gt;<br>상상이 된다?<br>607
+<SYNC Start=2496750><P Class=KRCC>&nbsp;
+<SYNC Start=2498760><P Class=KRCC>&gt;<br>치히로를 도와 준다고<br>그래서 죄 갚음으로는 안 된다.<br>608
+<SYNC Start=2505760><P Class=KRCC>&nbsp;
+<SYNC Start=2511740><P Class=KRCC>&gt;<br>이라니.<br>609
+<SYNC Start=2514740><P Class=KRCC>&gt;<br>라고 당연하죠<br>그 아이를 돕는 것은!<br>610
+<SYNC Start=2517740><P Class=KRCC>&nbsp;
+<SYNC Start=2520750><P Class=KRCC>&gt;<br>당신은.<br>611
+<SYNC Start=2522750><P Class=KRCC>&nbsp;
+<SYNC Start=2524750><P Class=KRCC>&gt;<br>아버지니까!<br>612
+<SYNC Start=2526750><P Class=KRCC>&nbsp;
+<SYNC Start=2532740><P Class=KRCC>&gt;<br>카즈미...!<br>613
+<SYNC Start=2534740><P Class=KRCC>&nbsp;
+<SYNC Start=2538760><P Class=KRCC>&gt;<br>고마워요 아빠.<br>614
+<SYNC Start=2541730><P Class=KRCC>&gt;<br>기다렸어...계속 기다렸다...!<br>615
+<SYNC Start=2546720><P Class=KRCC>-&gt;<br>카즈미...!<br>616
+<SYNC Start=2548720><P Class=KRCC>&nbsp;
+<SYNC Start=2551760><P Class=KRCC>&gt;<br>아버지...!<br>617
+<SYNC Start=2553750><P Class=KRCC>&gt;<br>♬~<br>618
+<SYNC Start=2574770><P Class=KRCC>&gt;<br>이번의 생체 폐이식의 증례를 바탕으로<br>논문을 마무리.<br>619
+<SYNC Start=2578750><P Class=KRCC>&gt;<br>오른 바<br>텐도오 총장에 약속을 잡아 준다.<br>620
+<SYNC Start=2580740><P Class=KRCC>&gt;<br>알겠습니다.<br>621
+<SYNC Start=2582760><P Class=KRCC>&gt;<br>그래도 총장은<br>많이 바쁘시겠어요...<br>622
+<SYNC Start=2585760><P Class=KRCC>&nbsp;
+<SYNC Start=2586730><P Class=KRCC>&gt;<br>어떤 틈에서도 좋다.<br>기다리겠습니다.<br>623
+<SYNC Start=2590770><P Class=KRCC>&gt;<br>기다리면 항해의 날씨이다.<br>624
+<SYNC Start=2593750><P Class=KRCC>&gt;<br>저는 그냥 입을 벌리고<br>기다리다니 마네는 않는다.<br>625
+<SYNC Start=2597750><P Class=KRCC>&nbsp;
+<SYNC Start=2599740><P Class=KRCC>&gt;<br>청구서에요.<br>626
+<SYNC Start=2601840><P Class=KRCC>&gt;<br>멜론입니다.<br>627
+<SYNC Start=2603840><P Class=KRCC>&nbsp;
+<SYNC Start=2605750><P Class=KRCC>&gt;<br>미하라 씨.<br>네.<br>628
+<SYNC Start=2608730><P Class=KRCC>&gt;<br>이 금액에 대해 다시 한번<br>다시 생각할 필요가 있을 것입니다.<br>629
+<SYNC Start=2615760><P Class=KRCC>&gt;<br>확실히 이번에는<br>금전적으로 넉넉지 못한 환자의 수술을 →<br>630
+<SYNC Start=2620760><P Class=KRCC>&gt;<br>우리가<br>마음대로 맡게 되었습니다.<br>631
+<SYNC Start=2623750><P Class=KRCC>&gt;<br>그렇다고...<br>실례합니다.<br>632
+<SYNC Start=2625730><P Class=KRCC>&gt;<br>미치코!<br>633
+<SYNC Start=2627750><P Class=KRCC>&gt;<br>아아…내가 불렀어요.<br>634
+<SYNC Start=2630750><P Class=KRCC>&nbsp;
+<SYNC Start=2631760><P Class=KRCC>&gt;<br>계약의 재검토에 대해서<br>말씀 드리고 싶으니까.<br>635
+<SYNC Start=2635740><P Class=KRCC>&gt;<br>아니아니.<br>이제 와서 그런 것….<br>636
+<SYNC Start=2637750><P Class=KRCC>&gt;<br>대문 선생님.<br>이번 수술도 훌륭했습니다.<br>637
+<SYNC Start=2641770><P Class=KRCC>&gt;<br>아무래도.<br>638
+<SYNC Start=2643750><P Class=KRCC>&gt;<br>당신은 매우 우수하다.<br>639
+<SYNC Start=2645750><P Class=KRCC>&gt;<br>앞으로도 우리 나라의 의료의 미래에 →<br>640
+<SYNC Start=2649760><P Class=KRCC>&gt;<br>틀림없이 기여하는 임상 예를<br>쌓아 줄 거예요.<br>641
+<SYNC Start=2653760><P Class=KRCC>&nbsp;
+<SYNC Start=2654760><P Class=KRCC>&gt;<br>향후는 계약금을<br>배는 것으로 하겠습니다.<br>642
+<SYNC Start=2660750><P Class=KRCC>&gt;<br>(2명)에?<br>643
+<SYNC Start=2662740><P Class=KRCC>&gt;<br>아무리 높은 사용료를 치르더라도<br>도입한 가치가 있습니다.<br>644
+<SYNC Start=2667740><P Class=KRCC>&gt;<br>도입?<br>645
+<SYNC Start=2669740><P Class=KRCC>&gt;<br>이른바 당신은<br>우수한 수술 기계입니다.<br>646
+<SYNC Start=2675730><P Class=KRCC>&gt;<br>(칸바라)머신?<br>647
+<SYNC Start=2677750><P Class=KRCC>&gt;<br>현 시점에서는<br>당신은 최신식의 머신입니다.<br>648
+<SYNC Start=2682790><P Class=KRCC>&gt;<br>(칸바라 저 그런….<br>649
+<SYNC Start=2684760><P Class=KRCC>&gt;<br>나도 취급 설명서?<br>취급 설명서에 따라 →<br>650
+<SYNC Start=2689750><P Class=KRCC>&gt;<br>적절히 다루겠습니다.<br>651
+<SYNC Start=2692880><P Class=KRCC>&gt;<br>그래서 주인님은.<br>(칸바라)주인?<br>652
+<SYNC Start=2694740><P Class=KRCC>&gt;<br>관리<br>확실히 해 두세요.<br>653
+<SYNC Start=2698740><P Class=KRCC>&nbsp;
+<SYNC Start=2699760><P Class=KRCC>&gt;<br>이상입니다.<br>654
+<SYNC Start=2701740><P Class=KRCC>&gt;<br>♬~<br>655
+<SYNC Start=2709740><P Class=KRCC>&nbsp;
+<SYNC Start=2710720><P Class=KRCC>-&gt;<br>♬~<br>656
+<SYNC Start=2720750><P Class=KRCC>&gt;<br>〈 무리를 싫어한다<br>권위를 싫어하는 속박을 싫어하는…〉<br>657
+<SYNC Start=2724750><P Class=KRCC>&nbsp;
+<SYNC Start=2725730><P Class=KRCC>&gt;<br>미치코.<br>658
+<SYNC Start=2727730><P Class=KRCC>&nbsp;
+<SYNC Start=2728740><P Class=KRCC>&gt;<br>〈 전문의 라이센스와<br>타타키상게의 스킬만 →<br>659
+<SYNC Start=2731760><P Class=KRCC>&gt;<br>그녀의 무기다 〉<br>660
+<SYNC Start=2733760><P Class=KRCC>&nbsp;
+<SYNC Start=2735740><P Class=KRCC>&gt;<br>무엇인가 그 말투.<br>사람을 일회용처럼.<br>661
+<SYNC Start=2740740><P Class=KRCC>&nbsp;
+<SYNC Start=2744740><P Class=KRCC>&gt;<br>아키라 씨.<br>응?<br>662
+<SYNC Start=2747740><P Class=KRCC>&nbsp;
+<SYNC Start=2750760><P Class=KRCC>&gt;<br>나를 유지 관리에 데리고 간 거.<br>663
+<SYNC Start=2752740><P Class=KRCC>&gt;<br>엥?<br>기름 끼얹지 않으면 기름.<br>664
+<SYNC Start=2756760><P Class=KRCC>&gt;<br>아..살? 기름진 고기.<br>665
+<SYNC Start=2760750><P Class=KRCC>&gt;<br>가 기름진 고기!<br>666
+<SYNC Start=2762740><P Class=KRCC>&gt;<br>좀 또<br>그것뿐이니까.<br>667
+<SYNC Start=2766740><P Class=KRCC>&gt;<br>♬~<br>668
+<SYNC Start=2776750><P Class=KRCC>&gt;<br>하라미~!뼈 갈비!<br>빨리!<br>669
+<SYNC Start=2779740><P Class=KRCC>&gt;<br>미치코! 기다리세요.<br>670
+<SYNC Start=2781740><P Class=KRCC>&gt;<br>못 기다리겠어!어서!<br>671
+<SYNC Start=2783730><P Class=KRCC>&gt;<br>아아, 이제 귀찮군.<br>이 아이는 왜 기다릴 수 없어.<br>672
+<SYNC Start=2787750><P Class=KRCC>&gt;<br>못 기다리겠어!어서!빨리!<br>673
+<SYNC Start=2791770><P Class=KRCC>&gt;<br>저기 저기 지금<br>고기 자르는 중이니까.<br>674
+<SYNC Start=2793740><P Class=KRCC>&gt;<br>〈 외과 의사 다이몬 미치코 〉<br>675
+<SYNC Start=2796740><P Class=KRCC>&gt;<br>〈 다른 이름을 닥터 X〉<br>676
+<SYNC Start=2799740><P Class=KRCC>&nbsp;
+<SYNC Start=2802740><P Class=KRCC>&gt;<br>(코코노 마야 스타일 좋군요<br>모델이 될 것 같아. 하지만 늙게.<br>677
+<SYNC Start=2804750><P Class=KRCC>&gt;<br>(가치)내가 실수했다고 생각하는 거잖아.<br>(마야)절망에 떨어뜨려 졌다.<br>678
+<SYNC Start=2807770><P Class=KRCC>&gt;<br>이번에는 실패하지 않고.<br>마지막 기회입니다.<br>679
+<SYNC Start=2810750><P Class=KRCC>&gt;<br>많은 사람들 중의 하날지도 모르지만<br>환자로 만들면 의사는 너 혼자!<br>680
+<SYNC Start=2813760><P Class=KRCC>&gt;<br>누구를 위한 수술이야!<br>681
+<SYNC Start=2815760><P Class=KRCC>&nbsp;
+<SYNC Start=2838110><P Class=KRCC>&gt;<br>본 프로그램은 동시 입력을 위해 오자 탈자<br>이 발생하는 경우가 있습니다.<br>682
+<SYNC Start=2843230><P Class=KRCC>&nbsp;
+<SYNC Start=2845570><P Class=KRCC>&gt;<br>≫ 안녕하세요.<br>683
+<SYNC Start=2847760><P Class=KRCC>&gt;<br>≫"닥터 X"에서<br>"보도 스테이션"과<br>684
+<SYNC Start=2850070><P Class=KRCC>&gt;<br>됩니다.<br>685
+<SYNC Start=2852490><P Class=KRCC>&gt;<br>어제 제 프로그램 속에서<br>전국적으로 화산 활동이<br>686
+<SYNC Start=2854680><P Class=KRCC>&gt;<br>활발해지고 있다는 식으로<br>했는데<br>687
+<SYNC Start=2856980><P Class=KRCC>&gt;<br>한 시청자 분들<br>지적을 받고<br>688
+<SYNC Start=2859430><P Class=KRCC>&gt;<br>전국 수준뿐만 아니라<br>세계적으로
+<SYNC Start=2861620><P Class=KRCC>&nbsp;
+</BODY>
+</SAMI>

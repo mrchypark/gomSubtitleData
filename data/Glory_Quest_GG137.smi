@@ -1,0 +1,805 @@
+<SAMI>
+<HEAD>
+<TITLE>Hanbange 3.0 - (C) Breadu Soft 2003</TITLE>
+<STYLE TYPE="text/css">
+<!--
+P { margin-left:8pt; margin-right:8pt; margin-bottom:2pt;
+    margin-top:2pt; font-size:14pt; text-align:center;
+    font-family:굴림, Arial; font-weight:normal; color:white;
+    background-color:black; }
+.KRCC { Name:한국어; lang:ko-KR; SAMIType:CC; }
+#STDPrn { Name:Standard Print; }
+#LargePrn { Name:Large Print; font-size:20pt; }
+#SmallPrn { Name:Small Print; font-size:10pt; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<SYNC Start=2501><P Class=KRCC>
+여러분
+<SYNC Start=3552><P Class=KRCC>
+델토라 퀘스트를 시청할 때에는 <br>
+방을 밝게 하고
+<SYNC Start=7027><P Class=KRCC>
+너무 가까이서 보지 않도록 해주세요
+<SYNC Start=9317><P Class=KRCC>&nbsp;
+<SYNC Start=17822><P Class=KRCC>
+<font color="#ee82ee">君は今 僕の太陽<br></font>그대는 지금 나의 태양인걸
+<SYNC Start=22411><P Class=KRCC>
+<font color="#ee82ee">델토라 퀘스트</font><br>the 99th subtitle of <font color="#ee82ee">Laputian</font><br>Http://laputian.net
+<SYNC Start=25300><P Class=KRCC>
+<font color="#ee82ee">嫌なことの　ひとつくらい<br></font>짜증나는 일 하나쯤은
+<SYNC Start=28300><P Class=KRCC>
+<font color="#ee82ee">誰にもある<br></font>누구에게나 있는 법이지
+<SYNC Start=31344><P Class=KRCC>&nbsp;
+<SYNC Start=31800><P Class=KRCC>
+<font color="#ee82ee">下を向いて　落ちこんでたってだめさ<br></font>내려다보며 좌절하면 안 돼
+<SYNC Start=36912><P Class=KRCC>&nbsp;
+<SYNC Start=38800><P Class=KRCC>
+<font color="#ee82ee">心のその空　晴れ渡るまで<br></font>마음속의 하늘이 활짝 개일 때까지
+<SYNC Start=45500><P Class=KRCC>
+<font color="#ee82ee">上を向くんだ<br></font>위쪽만 바라보는거야
+<SYNC Start=51800><P Class=KRCC>
+<font color="#ee82ee">君が世界のどこかで　泣きながら<br></font>그대가 이 세상 어딘가에서 울면서
+<SYNC Start=56200><P Class=KRCC>
+<font color="#ee82ee">孤どくに震えていたって<br></font>고독에 떨고 있다고 해도
+<SYNC Start=59800><P Class=KRCC>
+<font color="#ee82ee">必ず　僕が探す<br></font>내가 꼭 찾아낼거야
+<SYNC Start=65300><P Class=KRCC>
+<font color="#ee82ee">愛しさが目印さ<br></font>너를 아끼는 마음이 날 인도하지
+<SYNC Start=68940><P Class=KRCC>&nbsp;
+<SYNC Start=70200><P Class=KRCC>
+<font color="#ee82ee">太陽は何度も夢を見る<br></font>태양은 몇번이고 꿈을 꿔
+<SYNC Start=77100><P Class=KRCC>
+<font color="#ee82ee">永遠にあの地平線から<br></font>영원히 그 지평선으로부터
+<SYNC Start=84000><P Class=KRCC>
+<font color="#ee82ee">眩しい光はエネルギ一<br></font>눈부신 빛은 에너지
+<SYNC Start=91200><P Class=KRCC>
+<font color="#ee82ee">君は今　僕の太陽<br></font>그대는 지금 나의 태양인걸
+<SYNC Start=98471><P Class=KRCC>&nbsp;
+<SYNC Start=116278><P Class=KRCC>
+나는 리프
+<SYNC Start=117757><P Class=KRCC>
+그림자 대왕에게 빼앗긴 <br>
+보석을 되찾기 위해
+<SYNC Start=120568><P Class=KRCC>
+쟈스민, 발더와 같이<br>
+여행을 하고 있어
+<SYNC Start=122827><P Class=KRCC>
+남은 보석은 단 두개
+<SYNC Start=124898><P Class=KRCC>
+하지만 그림자 대왕은 <br>
+성인 남자와 소년
+<SYNC Start=127352><P Class=KRCC>
+검은 새를 가진, 야생에서 자란 <br>
+소녀를 추적하는 모양이다
+<SYNC Start=130897><P Class=KRCC>
+왜 나만 '야생에서 자랐다는 점'을 <br>
+강조하는거야?
+<SYNC Start=133205><P Class=KRCC>
+그림자 대왕은 왜 이리 <br>
+센스가 없는거지?
+<SYNC Start=135559><P Class=KRCC>&nbsp;
+<SYNC Start=136424><P Class=KRCC>
+앞으로의 여행은 <br>
+더욱 더 힘들어질거야
+<SYNC Start=139827><P Class=KRCC>
+지금 우리들은 <br>
+여섯번째 보석이 숨겨져있는
+<SYNC Start=142776><P Class=KRCC>
+마물의 동굴에 향하고 있어
+<SYNC Start=144910><P Class=KRCC>&nbsp;
+<SYNC Start=146538><P Class=KRCC>
+<font color="#cd853f">새로운 괴물, 올
+<SYNC Start=150460><P Class=KRCC>&nbsp;
+<SYNC Start=152699><P Class=KRCC>
+산을 내려온지 벌써 5일째다
+<SYNC Start=154894><P Class=KRCC>
+이제 강에 거의 다 왔을거야
+<SYNC Start=157523><P Class=KRCC>
+그 전에 추격자들에게 붙잡히지만 않으면 좋을텐데
+<SYNC Start=160980><P Class=KRCC>
+성인 남자와 소년, 검은 새를 소유한 소녀
+<SYNC Start=165805><P Class=KRCC>
+이 세명을 눈 부릅뜨고 찾으라고
+<SYNC Start=168157><P Class=KRCC>
+그림자 대왕이 명령해 놓았겠지
+<SYNC Start=170737><P Class=KRCC>&nbsp;
+<SYNC Start=174841><P Class=KRCC>
+미안해 크리, 날게 해주지 못해서
+<SYNC Start=178119><P Class=KRCC>&nbsp;
+<SYNC Start=181724><P Class=KRCC>
+쟈스민?
+<SYNC Start=183443><P Class=KRCC>&nbsp;
+<SYNC Start=189094><P Class=KRCC>
+뭔가 했더니 다람쥐였어?
+<SYNC Start=192091><P Class=KRCC>
+놀랐네
+<SYNC Start=193352><P Class=KRCC>&nbsp;
+<SYNC Start=195490><P Class=KRCC>
+기분 나쁜 숲이네
+<SYNC Start=197555><P Class=KRCC>
+말도 못 하는 주제에 항상 우릴 지켜보지
+<SYNC Start=201103><P Class=KRCC>
+숲 말하는거냐?
+<SYNC Start=202664><P Class=KRCC>
+나도 벌써 며칠째 이곳저곳에서 감시당하는 느낌이 들어
+<SYNC Start=206762><P Class=KRCC>&nbsp;
+<SYNC Start=209258><P Class=KRCC>
+살려줘!
+<SYNC Start=211287><P Class=KRCC>&nbsp;
+<SYNC Start=215288><P Class=KRCC>
+저거다
+<SYNC Start=216684><P Class=KRCC>&nbsp;
+<SYNC Start=217457><P Class=KRCC>
+마리, 마리
+<SYNC Start=224776><P Class=KRCC>
+넌 가까운 쪽의 아이를 구해라
+<SYNC Start=226872><P Class=KRCC>&nbsp;
+<SYNC Start=236736><P Class=KRCC>
+날 꽉 잡도록 해
+<SYNC Start=239010><P Class=KRCC>
+나, 어떤 이유에선지 여기 빠져서
+<SYNC Start=241449><P Class=KRCC>
+마리가 날 구해주려고 했었는데
+<SYNC Start=244446><P Class=KRCC>&nbsp;
+<SYNC Start=245427><P Class=KRCC>
+마리가 없어
+<SYNC Start=246734><P Class=KRCC>
+빠진거구나, 죽어버린거구나?
+<SYNC Start=249621><P Class=KRCC>&nbsp;
+<SYNC Start=271332><P Class=KRCC>
+이 애는 나에게 맡기고 발더를 도와줘
+<SYNC Start=274419><P Class=KRCC>&nbsp;
+<SYNC Start=276599><P Class=KRCC>
+나는 쟈스민이야, 네 이름은?
+<SYNC Start=279741><P Class=KRCC>
+아이다. 난 아이다 라고 해
+<SYNC Start=282514><P Class=KRCC>
+저기, 날 이 강에서 떨어진 곳으로 데려다 줘
+<SYNC Start=286391><P Class=KRCC>
+강은 싫어
+<SYNC Start=287639><P Class=KRCC>
+토르강 따윈 정말 싫어!
+<SYNC Start=289734><P Class=KRCC>
+알았어, 저쪽으로 가자
+<SYNC Start=292594><P Class=KRCC>&nbsp;
+<SYNC Start=304710><P Class=KRCC>
+봐라 리프, 아까 그 아이와 쌍둥이였던거야
+<SYNC Start=308198><P Class=KRCC>
+왜 이런 어린애 둘이 강에서 놀았던거지?
+<SYNC Start=312229><P Class=KRCC>&nbsp;
+<SYNC Start=316430><P Class=KRCC>
+아직 어린데, 저 애는 이걸로 혼자가 되는건가…
+<SYNC Start=320223><P Class=KRCC>&nbsp;
+<SYNC Start=333470><P Class=KRCC>
+그만둬!
+<SYNC Start=334993><P Class=KRCC>&nbsp;
+<SYNC Start=339150><P Class=KRCC>
+기다려
+<SYNC Start=340004><P Class=KRCC>&nbsp;
+<SYNC Start=345476><P Class=KRCC>
+올이야
+<SYNC Start=346428><P Class=KRCC>&nbsp;
+<SYNC Start=347398><P Class=KRCC>
+정말 모르겠어?
+<SYNC Start=348652><P Class=KRCC>
+저 쌍둥이는 올이다
+<SYNC Start=350780><P Class=KRCC>
+올이라고
+<SYNC Start=352184><P Class=KRCC>
+넌… 데인?
+<SYNC Start=354009><P Class=KRCC>&nbsp;
+<SYNC Start=357090><P Class=KRCC>
+기다려
+<SYNC Start=358088><P Class=KRCC>&nbsp;
+<SYNC Start=379138><P Class=KRCC>
+발더?
+<SYNC Start=380209><P Class=KRCC>&nbsp;
+<SYNC Start=399096><P Class=KRCC>
+제기랄
+<SYNC Start=400384><P Class=KRCC>&nbsp;
+<SYNC Start=401905><P Class=KRCC>
+심장을 노려, 맥을 끊지 않으면 발더는 죽을거야
+<SYNC Start=406502><P Class=KRCC>
+심장쪽은 이미 찔렀어, 하지만 쓰러지지 않는걸
+<SYNC Start=409804><P Class=KRCC>&nbsp;
+<SYNC Start=413040><P Class=KRCC>
+쟈스민!
+<SYNC Start=414003><P Class=KRCC>
+지금이야! 오른쪽을 노려!
+<SYNC Start=416618><P Class=KRCC>
+녀석의 심장은 왼쪽이 아닌 오른쪽에 있어
+<SYNC Start=419408><P Class=KRCC>&nbsp;
+<SYNC Start=441842><P Class=KRCC>
+발더는 운이 좋았어
+<SYNC Start=443622><P Class=KRCC>
+조금만 늦었으면 살 수 없었을거야
+<SYNC Start=447593><P Class=KRCC>
+조커의 동료인 데인이구나?
+<SYNC Start=450368><P Class=KRCC>
+왜 이런 곳에 있는거야?
+<SYNC Start=453161><P Class=KRCC>
+발더의 몸을 따뜻하게 해 줘, 쟈스민
+<SYNC Start=456734><P Class=KRCC>
+올에게 당하면 몸 속 깊이 얼어붙으니까
+<SYNC Start=461361><P Class=KRCC>&nbsp;
+<SYNC Start=472462><P Class=KRCC>
+미안, 우릴 구해줬는데
+<SYNC Start=474928><P Class=KRCC>&nbsp;
+<SYNC Start=476005><P Class=KRCC>
+그래, 네가 없었다면…
+<SYNC Start=478521><P Class=KRCC>&nbsp;
+<SYNC Start=480196><P Class=KRCC>
+말하지 않는 편이 좋아요
+<SYNC Start=482722><P Class=KRCC>&nbsp;
+<SYNC Start=485305><P Class=KRCC>
+이 꿀을 차에 섞어 마시면 좋습니다
+<SYNC Start=488001><P Class=KRCC>
+체력이 보강되고 진통 효과도 있지요
+<SYNC Start=490947><P Class=KRCC>
+굉장히 잘 듣습니다
+<SYNC Start=492581><P Class=KRCC>&nbsp;
+<SYNC Start=493721><P Class=KRCC>
+직접적 작용성 맛 좋은 오렌지, 매실, 장미, 힘의 근원
+<SYNC Start=499702><P Class=KRCC>
+꽤나 이름이 긴 꿀이구나
+<SYNC Start=502530><P Class=KRCC>
+뭐, 그렇지
+<SYNC Start=503855><P Class=KRCC>&nbsp;
+<SYNC Start=520910><P Class=KRCC>
+저기, 올이란건 대체 뭐야?
+<SYNC Start=524622><P Class=KRCC>
+그림자 왕국에서 온, 변신이 특기인 괴물이야
+<SYNC Start=529435><P Class=KRCC>
+너희들이 모르는 것도 놀라운 게 아니지
+<SYNC Start=533739><P Class=KRCC>
+그림자 대왕은 녀석들을 이용해서 여러 나쁜일을 저지르지
+<SYNC Start=538571><P Class=KRCC>&nbsp;
+<SYNC Start=539334><P Class=KRCC>
+올은 이 근처, 즉 델토라의 서쪽 지역에 자주 출현해
+<SYNC Start=544714><P Class=KRCC>
+너희들의 고향은…
+<SYNC Start=546741><P Class=KRCC>&nbsp;
+<SYNC Start=549090><P Class=KRCC>
+동쪽에 있는거지?
+<SYNC Start=551267><P Class=KRCC>&nbsp;
+<SYNC Start=557835><P Class=KRCC>
+그것보다 넌 어떻게 이런 곳으로 온거야?
+<SYNC Start=561844><P Class=KRCC>
+어떻게 우리들을 찾아낸거지?
+<SYNC Start=565109><P Class=KRCC>
+난 너희들을 찾고 있었던게 아냐
+<SYNC Start=568730><P Class=KRCC>
+레지스턴스의 은신처로 가는 중 우연히 올을 발견했지
+<SYNC Start=573450><P Class=KRCC>&nbsp;
+<SYNC Start=589577><P Class=KRCC>
+나는 녀석들을 쫓아가, 말살할 기회를 노리고 있었어
+<SYNC Start=594884><P Class=KRCC>
+거기서 너희들이 나타난거지
+<SYNC Start=598034><P Class=KRCC>
+녀석은 너희들을 뿔뿔이 흩어지게 하는 작전을 썼지
+<SYNC Start=603159><P Class=KRCC>
+만약 그렇게 됬다면 이길 수 없었을거야
+<SYNC Start=607095><P Class=KRCC>&nbsp;
+<SYNC Start=611514><P Class=KRCC>
+너, 의외로 강하구나?
+<SYNC Start=614682><P Class=KRCC>
+언제나 조커에게 훈련받으니까
+<SYNC Start=618243><P Class=KRCC>&nbsp;
+<SYNC Start=620927><P Class=KRCC>
+데인, 네 덕분에 살았다
+<SYNC Start=623761><P Class=KRCC>
+정말로 고맙다
+<SYNC Start=626236><P Class=KRCC>
+우리들이 너에게 의심을 품은 것을 용서받고 싶다
+<SYNC Start=630797><P Class=KRCC>
+언젠가 사람을 의심하고 보는 습관이 들어버렸거든
+<SYNC Start=635615><P Class=KRCC>
+저도 마찬가지입니다
+<SYNC Start=637705><P Class=KRCC>&nbsp;
+<SYNC Start=642212><P Class=KRCC>
+그럼 전 슬슬…
+<SYNC Start=644221><P Class=KRCC>&nbsp;
+<SYNC Start=646720><P Class=KRCC>
+부디 올을 조심하도록 해
+<SYNC Start=649801><P Class=KRCC>
+기다려
+<SYNC Start=651162><P Class=KRCC>&nbsp;
+<SYNC Start=652974><P Class=KRCC>
+혼자서 이런 위험한 곳에서 다닐 생각이야?
+<SYNC Start=656579><P Class=KRCC>
+넌 팔에 상처를 입었다
+<SYNC Start=659102><P Class=KRCC>
+걱정하지 마라, 은신처는 그리 멀지 않다
+<SYNC Start=663472><P Class=KRCC>
+하룻밤 묵고 가
+<SYNC Start=665282><P Class=KRCC>
+내일 아침 우리들과 같이 가자
+<SYNC Start=668260><P Class=KRCC>
+그래, 부상자를 내버려둘 수는 없지
+<SYNC Start=672175><P Class=KRCC>&nbsp;
+<SYNC Start=675593><P Class=KRCC>
+상냥하구나
+<SYNC Start=677465><P Class=KRCC>
+그 상냥함에 올이 들러붙은거야
+<SYNC Start=680369><P Class=KRCC>&nbsp;
+<SYNC Start=681619><P Class=KRCC>
+나는 반대야
+<SYNC Start=684248><P Class=KRCC>
+절대로 반대라고
+<SYNC Start=687317><P Class=KRCC>&nbsp;
+<SYNC Start=690525><P Class=KRCC>
+<font color="#cd853f">Deltora Quest</font> <br>
+is Subtitled by Laputian
+<SYNC Start=696016><P Class=KRCC>&nbsp;
+<SYNC Start=700257><P Class=KRCC>
+쟈스민, 나도 귀중한 시간을 함부로 하고 싶진 않아
+<SYNC Start=704642><P Class=KRCC>&nbsp;
+<SYNC Start=705346><P Class=KRCC>
+하지만 이대로라면 내가 상처입힌 생명의 은인을 홀로 보내는게 되어버려
+<SYNC Start=710885><P Class=KRCC>&nbsp;
+<SYNC Start=711462><P Class=KRCC>
+그런 짓은 할 수 없어
+<SYNC Start=713496><P Class=KRCC>
+하지만…
+<SYNC Start=715212><P Class=KRCC>
+이 사람도 믿을 수는 없어
+<SYNC Start=717509><P Class=KRCC>&nbsp;
+<SYNC Start=719281><P Class=KRCC>
+정답이야
+<SYNC Start=720520><P Class=KRCC>&nbsp;
+<SYNC Start=722348><P Class=KRCC>
+아무도 믿으면 안 돼
+<SYNC Start=725058><P Class=KRCC>
+아까의 쌍둥이보다 더 수준 높은 올도 있어
+<SYNC Start=728554><P Class=KRCC>
+그렇게 간단히 간파할 수 없는 녀석이지
+<SYNC Start=731988><P Class=KRCC>&nbsp;
+<SYNC Start=732489><P Class=KRCC>
+앉아라, 데인
+<SYNC Start=734866><P Class=KRCC>
+그리고 좀 더 자세히 들려주지 않겠나?
+<SYNC Start=739192><P Class=KRCC>
+알겠어, 호의를 받아들여 하룻밤 묵고 가지
+<SYNC Start=744028><P Class=KRCC>
+그리고 같이 우리들의 은신처로 가자
+<SYNC Start=748659><P Class=KRCC>
+하지만 우리들의 은신처는 여기서 남동쪽에 있어
+<SYNC Start=754035><P Class=KRCC>
+너희들 여행 경로와는 벗어나 있지 않은가?
+<SYNC Start=757834><P Class=KRCC>&nbsp;
+<SYNC Start=758701><P Class=KRCC>
+어떻게 그런걸 알고 있어?
+<SYNC Start=760780><P Class=KRCC>
+우리들은 한마디도 안 했는데
+<SYNC Start=763702><P Class=KRCC>
+그건… 그게…
+<SYNC Start=765833><P Class=KRCC>
+너희들은 아마도 토라에 갈 것 같아서…
+<SYNC Start=769408><P Class=KRCC>&nbsp;
+<SYNC Start=769863><P Class=KRCC>
+토라…
+<SYNC Start=771257><P Class=KRCC>&nbsp;
+<SYNC Start=772191><P Class=KRCC>
+서쪽의 대도시, 토라 말이야?
+<SYNC Start=774802><P Class=KRCC>
+그렇지만
+<SYNC Start=775936><P Class=KRCC>
+토라에 간다고 해도 오늘 밤엔 갈 수 없어
+<SYNC Start=779522><P Class=KRCC>&nbsp;
+<SYNC Start=783744><P Class=KRCC>
+올은 어딜가나 있어
+<SYNC Start=785785><P Class=KRCC>
+어떤 생물로도 변신할 수 있지만
+<SYNC Start=788110><P Class=KRCC>
+먹거나 마시지는 않아
+<SYNC Start=789571><P Class=KRCC>
+단지, 상급 올이 되면 먹고 마시는 척은 할 수 있어
+<SYNC Start=792353><P Class=KRCC>
+또 적절한 대응도 가능해서 정체 파악이 어려워
+<SYNC Start=799166><P Class=KRCC>&nbsp;
+<SYNC Start=800342><P Class=KRCC>
+하지만 어떤 올이라 해도 심장 부분엔 그림자 대왕의 증표가 있어
+<SYNC Start=805779><P Class=KRCC>
+그러니까 뭘로 변신한다해도 신체 어딘가에 그 증표가 있을거야
+<SYNC Start=811264><P Class=KRCC>&nbsp;
+<SYNC Start=812178><P Class=KRCC>
+우리가 퇴치한 마리와 아이다로 변신한 올에게도 점이 있었다
+<SYNC Start=816514><P Class=KRCC>
+그게 증표인가?
+<SYNC Start=817896><P Class=KRCC>&nbsp;
+<SYNC Start=819087><P Class=KRCC>
+하지만 교묘한 녀석일 수록 그마저도 파악이 힘들어
+<SYNC Start=823717><P Class=KRCC>
+다만, 한가지 확실한 방법이 있어
+<SYNC Start=826818><P Class=KRCC>
+녀석들은 3일 이상 같은 모습을 하고 있을 수는 없어
+<SYNC Start=830379><P Class=KRCC>
+3일간 한시도 눈을 떼지 않고 관찰하면 기회는 분명 찾아올거야
+<SYNC Start=836243><P Class=KRCC>
+어느 순간, 지니고 있던 모습이 뭉개지면서 요동치지
+<SYNC Start=840626><P Class=KRCC>&nbsp;
+<SYNC Start=840976><P Class=KRCC>
+이때를 '요동의 순간'이라고 부르고 있지
+<SYNC Start=844348><P Class=KRCC>&nbsp;
+<SYNC Start=845883><P Class=KRCC>
+요동의 순간…
+<SYNC Start=847592><P Class=KRCC>&nbsp;
+<SYNC Start=849751><P Class=KRCC>
+데인?
+<SYNC Start=850667><P Class=KRCC>
+아픈건가?
+<SYNC Start=852339><P Class=KRCC>
+오늘은 어찌되었든 쉬는 편이 좋아
+<SYNC Start=855558><P Class=KRCC>
+미안하다, 그렇게 하지
+<SYNC Start=858803><P Class=KRCC>&nbsp;
+<SYNC Start=866098><P Class=KRCC>
+데인, 괜찮아?
+<SYNC Start=868248><P Class=KRCC>
+왜 그래?
+<SYNC Start=869663><P Class=KRCC>
+데인을 좀 쉬게 해주자
+<SYNC Start=873439><P Class=KRCC>
+아니, 괜찮아
+<SYNC Start=875593><P Class=KRCC>
+은신처로 가면 쉴 수 있어
+<SYNC Start=878303><P Class=KRCC>
+거의 다 왔어
+<SYNC Start=879565><P Class=KRCC>&nbsp;
+<SYNC Start=881568><P Class=KRCC>
+여길 올라서 바위 틈으로 들어가면
+<SYNC Start=886294><P Class=KRCC>
+덤불 세개가 일렬로 서있어
+<SYNC Start=890078><P Class=KRCC>
+그 건너편에 입구가 바위로 감춰져서…
+<SYNC Start=896378><P Class=KRCC>
+암호는…
+<SYNC Start=898099><P Class=KRCC>&nbsp;
+<SYNC Start=900308><P Class=KRCC>
+데인, 정신차려
+<SYNC Start=902389><P Class=KRCC>
+꿀을 마시게 하자
+<SYNC Start=904303><P Class=KRCC>&nbsp;
+<SYNC Start=906897><P Class=KRCC>
+마지막 한 수저야
+<SYNC Start=908532><P Class=KRCC>&nbsp;
+<SYNC Start=910755><P Class=KRCC>
+틀렸나?
+<SYNC Start=912929><P Class=KRCC>
+은신처는 이 근처라고 했지?
+<SYNC Start=915744><P Class=KRCC>&nbsp;
+<SYNC Start=916597><P Class=KRCC>
+데인은 내가 업고 가겠다
+<SYNC Start=918476><P Class=KRCC>&nbsp;
+<SYNC Start=923114><P Class=KRCC>
+이게 바위 틈이군
+<SYNC Start=925057><P Class=KRCC>&nbsp;
+<SYNC Start=930701><P Class=KRCC>
+덤불이야
+<SYNC Start=931734><P Class=KRCC>
+덤불이 세개, 저게 입구로군
+<SYNC Start=935484><P Class=KRCC>&nbsp;
+<SYNC Start=937759><P Class=KRCC>
+우리들은 아군이다, 열어줘
+<SYNC Start=940623><P Class=KRCC>
+데인을 데려왔다, 상처를 입었어
+<SYNC Start=943628><P Class=KRCC>
+얼른 그를 쉬게 해줘
+<SYNC Start=945516><P Class=KRCC>&nbsp;
+<SYNC Start=948600><P Class=KRCC>
+암호는?
+<SYNC Start=950615><P Class=KRCC>&nbsp;
+<SYNC Start=951664><P Class=KRCC>
+조커를 내보내줘
+<SYNC Start=953626><P Class=KRCC>
+조커는 여기 없다
+<SYNC Start=955978><P Class=KRCC>
+암호는?
+<SYNC Start=957789><P Class=KRCC>
+말하지 못하면 죽이겠다!
+<SYNC Start=959563><P Class=KRCC>&nbsp;
+<SYNC Start=960732><P Class=KRCC>
+우리들은 조커와 아는 사이다
+<SYNC Start=963084><P Class=KRCC>
+너희들의 동료를 데려왔다고!
+<SYNC Start=965753><P Class=KRCC>
+말 안 해도 다 보여
+<SYNC Start=968085><P Class=KRCC>
+지금 이 순간에도 몇개나 되는 손이 너희를 노리고 있지
+<SYNC Start=973035><P Class=KRCC>
+꼼짝하지 마
+<SYNC Start=975082><P Class=KRCC>
+뭐라고?
+<SYNC Start=976254><P Class=KRCC>&nbsp;
+<SYNC Start=977213><P Class=KRCC>
+꼼짝하지 말라고 했잖아!
+<SYNC Start=979128><P Class=KRCC>
+그럼 네리다와 그록을 불러줘
+<SYNC Start=981733><P Class=KRCC>
+당신들의 동료잖아?
+<SYNC Start=983796><P Class=KRCC>
+그 둘이라면 우리 얼굴을 알고 있을거야
+<SYNC Start=987161><P Class=KRCC>
+과연… 하지만 이 근처에선 외형은 증거로 쓸 수 없어
+<SYNC Start=992433><P Class=KRCC>
+그러니 암호가 있는거지
+<SYNC Start=996229><P Class=KRCC>
+암호…
+<SYNC Start=997812><P Class=KRCC>
+그런게 있다면 매일 바꿀테지
+<SYNC Start=1001126><P Class=KRCC>
+그렇다면 데인도 여기 와서 암호를 알아낼 생각임에 틀림없어
+<SYNC Start=1007869><P Class=KRCC>&nbsp;
+<SYNC Start=1009098><P Class=KRCC>
+리프! 무슨 생각을…
+<SYNC Start=1010578><P Class=KRCC>&nbsp;
+<SYNC Start=1011977><P Class=KRCC>
+리프!
+<SYNC Start=1013110><P Class=KRCC>
+그런데에 숨으면 온몸이 불에 탈거야
+<SYNC Start=1017566><P Class=KRCC>
+화살을 쏘지 않는다
+<SYNC Start=1019501><P Class=KRCC>
+역시 이 덤불에 힌트가 있는거야
+<SYNC Start=1022114><P Class=KRCC>&nbsp;
+<SYNC Start=1025043><P Class=KRCC>
+있다
+<SYNC Start=1026097><P Class=KRCC>&nbsp;
+<SYNC Start=1028368><P Class=KRCC>
+적(te)이 있(i)을 때에 여(ko)기서 움(u)직이지 마라
+<SYNC Start=1032052><P Class=KRCC>
+이건…
+<SYNC Start=1033470><P Class=KRCC>&nbsp;
+<SYNC Start=1035549><P Class=KRCC>
+왜 그러지? 역시 암호를 모르는건가?
+<SYNC Start=1039195><P Class=KRCC>&nbsp;
+<SYNC Start=1041828><P Class=KRCC>
+아니, 지금 알아냈어
+<SYNC Start=1044264><P Class=KRCC>
+리프?
+<SYNC Start=1045808><P Class=KRCC>&nbsp;
+<SYNC Start=1047186><P Class=KRCC>
+암호는
+<SYNC Start=1048493><P Class=KRCC>&nbsp;
+<SYNC Start=1049006><P Class=KRCC>
+'저항(teikou)'이다(주: 각 줄의 앞 글자만 따왔다)
+<SYNC Start=1051007><P Class=KRCC>&nbsp;
+<SYNC Start=1070890><P Class=KRCC>
+용케도 도망친 꼬마가 상처 투성이로 돌아온건가?
+<SYNC Start=1074404><P Class=KRCC>
+하지만 뭐, 이렇게 될 것이라곤…
+<SYNC Start=1077893><P Class=KRCC>
+항상 조심하는 녀석인데
+<SYNC Start=1080437><P Class=KRCC>
+사루가스, 헤토론느, 내려와라
+<SYNC Start=1083323><P Class=KRCC>
+데인을 돌봐주도록 해라
+<SYNC Start=1084885><P Class=KRCC>&nbsp;
+<SYNC Start=1103472><P Class=KRCC>
+이거 발더아냐
+<SYNC Start=1104876><P Class=KRCC>
+오랜만이군
+<SYNC Start=1106560><P Class=KRCC>
+아는 사람이야?
+<SYNC Start=1108161><P Class=KRCC>&nbsp;
+<SYNC Start=1108854><P Class=KRCC>
+네놈은 그만 죽어버린줄 알고 있었는데 말이지
+<SYNC Start=1113098><P Class=KRCC>
+날 기억하고 있나?
+<SYNC Start=1115920><P Class=KRCC>
+징크스, 이런데서 너와 만나리라곤…
+<SYNC Start=1120311><P Class=KRCC>&nbsp;
+<SYNC Start=1121479><P Class=KRCC>
+언제까지 거기 서있을텐가?
+<SYNC Start=1124408><P Class=KRCC>
+찬 바람이 들어오잖나
+<SYNC Start=1126938><P Class=KRCC>&nbsp;
+<SYNC Start=1145384><P Class=KRCC>
+소개하지, 손님이다
+<SYNC Start=1148267><P Class=KRCC>
+여기 이분들은 부상당한 데인을 데려오셨다
+<SYNC Start=1151986><P Class=KRCC>
+데인은 주제도 모르게 대모험을 하고선 실패한 모양이군
+<SYNC Start=1156688><P Class=KRCC>&nbsp;
+<SYNC Start=1157459><P Class=KRCC>
+데인은 우리들을 올로부터 구해줬어
+<SYNC Start=1160745><P Class=KRCC>&nbsp;
+<SYNC Start=1161356><P Class=KRCC>
+용감하게도 말이지
+<SYNC Start=1162801><P Class=KRCC>&nbsp;
+<SYNC Start=1163936><P Class=KRCC>
+부슈타운의 바디와 체리인가
+<SYNC Start=1166696><P Class=KRCC>&nbsp;
+<SYNC Start=1169334><P Class=KRCC>
+넌 그록이구나?
+<SYNC Start=1170951><P Class=KRCC>&nbsp;
+<SYNC Start=1174068><P Class=KRCC>
+요전에 만났을 땐 리스메아의 경기장에서 헤롱거리는 채 끌려나갔었지
+<SYNC Start=1179362><P Class=KRCC>&nbsp;
+<SYNC Start=1186897><P Class=KRCC>
+누군가 온 모양이군
+<SYNC Start=1188668><P Class=KRCC>&nbsp;
+<SYNC Start=1189644><P Class=KRCC>
+암호는?
+<SYNC Start=1191724><P Class=KRCC>
+저항
+<SYNC Start=1193032><P Class=KRCC>&nbsp;
+<SYNC Start=1194981><P Class=KRCC>
+누구냐, 메모를 던져둔 녀석은?
+<SYNC Start=1197304><P Class=KRCC>&nbsp;
+<SYNC Start=1200761><P Class=KRCC>
+조커
+<SYNC Start=1202165><P Class=KRCC>
+네리다!
+<SYNC Start=1203279><P Class=KRCC>&nbsp;
+<SYNC Start=1206998><P Class=KRCC>
+여기에 있으면 안 되는 얼굴이 셋이나 보이는군
+<SYNC Start=1209669><P Class=KRCC>&nbsp;
+<SYNC Start=1211157><P Class=KRCC>
+조커, 그게 아닙니다
+<SYNC Start=1213076><P Class=KRCC>&nbsp;
+<SYNC Start=1214517><P Class=KRCC>
+데인
+<SYNC Start=1216408><P Class=KRCC>
+이제서야 돌아왔나?
+<SYNC Start=1218373><P Class=KRCC>&nbsp;
+<SYNC Start=1221557><P Class=KRCC>
+오랜만이야, 리프
+<SYNC Start=1223467><P Class=KRCC>&nbsp;
+<SYNC Start=1224738><P Class=KRCC>
+아니…
+<SYNC Start=1226099><P Class=KRCC>
+예정보다 이삼일 늦어진건 왜지?
+<SYNC Start=1229667><P Class=KRCC>
+어디에서 꾸물대고 있었어?
+<SYNC Start=1231398><P Class=KRCC>
+올을 봤습니다, 숲에서
+<SYNC Start=1234414><P Class=KRCC>
+그래서 쫓아가서…
+<SYNC Start=1236332><P Class=KRCC>
+혼자서?
+<SYNC Start=1237808><P Class=KRCC>
+우리들을 구해줬다고
+<SYNC Start=1240158><P Class=KRCC>
+난 데인에게 묻고 있다
+<SYNC Start=1242277><P Class=KRCC>&nbsp;
+<SYNC Start=1245625><P Class=KRCC>
+넌 명령을 거역하고
+<SYNC Start=1247623><P Class=KRCC>
+아직 감시받지 않고 있는 낯선 세명에게 아지트의 위치를 알려줘서
+<SYNC Start=1252493><P Class=KRCC>
+우리들 전체를 위험에 빠뜨렸다
+<SYNC Start=1255476><P Class=KRCC>
+뭐라고?
+<SYNC Start=1256293><P Class=KRCC>
+저 녀석들, 아직 감시도 받고 있지 않은건가?
+<SYNC Start=1258810><P Class=KRCC>
+그뿐만이 아니라 암호의 비밀까지 알려줬다
+<SYNC Start=1262339><P Class=KRCC>
+아냐
+<SYNC Start=1263315><P Class=KRCC>&nbsp;
+<SYNC Start=1264445><P Class=KRCC>
+암호는 내가 간파했다
+<SYNC Start=1267119><P Class=KRCC>
+뭐라고?
+<SYNC Start=1268279><P Class=KRCC>
+물론 힌트는 있었다
+<SYNC Start=1271852><P Class=KRCC>
+데인이 가지고 있었던 꿀병에
+<SYNC Start=1275055><P Class=KRCC>
+직(z)접 작용성 좋(yo)은 맛 오(o)렌지, 매(u)실, 장(ba)미, 힘(chi)의 근원
+<SYNC Start=1280731><P Class=KRCC>
+이라고 쓰여있었다
+<SYNC Start=1282122><P Class=KRCC>
+첫 글자만 따오면 여왕벌(zyo-oubachi)이 되지
+<SYNC Start=1285582><P Class=KRCC>
+덤불에 있던 메모도 같은 방식으로 첫 글자만 따오면
+<SYNC Start=1289812><P Class=KRCC>
+저항(teikou)이 되지
+<SYNC Start=1292245><P Class=KRCC>
+간단한 이치지
+<SYNC Start=1294470><P Class=KRCC>
+암호를 간파당하다니…
+<SYNC Start=1296719><P Class=KRCC>&nbsp;
+<SYNC Start=1303307><P Class=KRCC>
+잠깐만
+<SYNC Start=1304163><P Class=KRCC>&nbsp;
+<SYNC Start=1305910><P Class=KRCC>
+왜지? 내가 뭔가 하면 안될 짓이라도 했나?
+<SYNC Start=1309722><P Class=KRCC>
+말을 삼가라
+<SYNC Start=1312077><P Class=KRCC>
+너희는 우리들의 중요 비밀을 폭로했다
+<SYNC Start=1316050><P Class=KRCC>
+그리고 너희가 올이 아니라는 증거는 없지
+<SYNC Start=1320073><P Class=KRCC>&nbsp;
+<SYNC Start=1320982><P Class=KRCC>
+그게 아냐! 오해다!
+<SYNC Start=1323424><P Class=KRCC>
+이 녀석들을 감시실로 데려가
+<SYNC Start=1325406><P Class=KRCC>&nbsp;
+<SYNC Start=1326977><P Class=KRCC>
+3일 후에 내가 다시 심문하도록 하지
+<SYNC Start=1329319><P Class=KRCC>
+알겠습니다
+<SYNC Start=1330799><P Class=KRCC>
+기다려봐
+<SYNC Start=1331789><P Class=KRCC>&nbsp;
+<SYNC Start=1332686><P Class=KRCC>
+얼른 문을 열어
+<SYNC Start=1333838><P Class=KRCC>
+뭐야 정말
+<SYNC Start=1334623><P Class=KRCC>
+이거 놔, 우린 정말 올이 아니다
+<SYNC Start=1336660><P Class=KRCC>
+그래, 놓으란 말이야
+<SYNC Start=1339053><P Class=KRCC>
+얌전히 들어가!
+<SYNC Start=1340783><P Class=KRCC>&nbsp;
+<SYNC Start=1341955><P Class=KRCC>
+기다려
+<SYNC Start=1343246><P Class=KRCC>
+우리들은 올 따위가 아냐
+<SYNC Start=1345411><P Class=KRCC>&nbsp;
+<SYNC Start=1358700><P Class=KRCC>
+<font color="#cd853f">どのくらい時が過ぎて行ったのだろう<br></font>얼마나 많은 시간이 흘러갔던 것일까
+<SYNC Start=1367800><P Class=KRCC>
+<font color="#cd853f">ずっと月を見ていた　光の下 <br></font>그 빛 아래에서 줄곧 달을 바라보고 있었어
+<SYNC Start=1377695><P Class=KRCC>
+<font color="#cd853f">せまる二人の上を　女神が追い越して<br></font>다가가는 두 사람의 위를 여신이 지나가며
+<SYNC Start=1385200><P Class=KRCC>
+<font color="#cd853f">ほんの小さな夢　奪い去っていった<br></font>정말 작은 그 꿈을 빼앗아 가버렸어
+<SYNC Start=1394975><P Class=KRCC>&nbsp;
+<SYNC Start=1395800><P Class=KRCC>
+<font color="#cd853f">目にした夜空に君を映した<br></font>눈에 담은 밤하늘에 그대를 비췄어
+<SYNC Start=1400498><P Class=KRCC>
+<font color="#cd853f">振り返った今君に綴った<br></font>뒤 돌아본 지금 그대와 이어졌어
+<SYNC Start=1405057><P Class=KRCC>&nbsp;
+<SYNC Start=1405800><P Class=KRCC>
+<font color="#cd853f">一つの流れ星が<br></font>하나의 별똥별이
+<SYNC Start=1409400><P Class=KRCC>
+<font color="#cd853f">僕の上に消えてく<br></font>내 위에서 사라져가
+<SYNC Start=1413072><P Class=KRCC>&nbsp;
+<SYNC Start=1413800><P Class=KRCC>
+<font color="#cd853f">月明りが消えた時は<br></font>달빛이 사라져는 그때엔
+<SYNC Start=1418500><P Class=KRCC>
+<font color="#cd853f">けだるい朝の光の下<br></font>나른한 아침의 햇빛 아래에서
+<SYNC Start=1423128><P Class=KRCC>&nbsp;
+<SYNC Start=1424100><P Class=KRCC>
+<font color="#cd853f">あの頃と同じ月が<br></font>그때와 같은 달이
+<SYNC Start=1427300><P Class=KRCC>
+<font color="#cd853f">蘇った時　僕は動き始める<br></font>되살아났을 때 나는 다시 걸어가
+<SYNC Start=1436571><P Class=KRCC>&nbsp;
+<SYNC Start=1444378><P Class=KRCC>
+<font color="#cd853f">델토라 도감</font> <br>
+마리와 아이다
+<!--
+젠장.. 귀여워서 미치겠다.. 집으로 가져가고 싶다.. 하악
+-->
+<SYNC Start=1448162><P Class=KRCC>&nbsp;
+<SYNC Start=1448356><P Class=KRCC>
+정체는 그림자 왕국에서 온 괴물, 올
+<SYNC Start=1451601><P Class=KRCC>
+항상 둘이 한 조를 지어 움직이고
+<SYNC Start=1453776><P Class=KRCC>
+변신이 가능하지만 시간이 지나면 풀린다
+<SYNC Start=1456655><P Class=KRCC>
+실은 흐느적거리는 하얀 덩어리이다
+<SYNC Start=1459364><P Class=KRCC>&nbsp;
+<SYNC Start=1459690><P Class=KRCC>
+세명이서 여행중이던 우리에게 데인이 합류했다
+<SYNC Start=1463718><P Class=KRCC>
+이제부턴 네명이서 여행을 할 것이라고 생각했는데
+<SYNC Start=1466476><P Class=KRCC>
+한 사람이 빠져나가게 된다
+<SYNC Start=1468542><P Class=KRCC>
+난 어쩌면 좋지?
+<SYNC Start=1470788><P Class=KRCC>&nbsp;
+<SYNC Start=1471747><P Class=KRCC>
+<font color="#cd853f">다음화 </font><br>
+안녕, 쟈스민
+<SYNC Start=1474261><P Class=KRCC>&nbsp;
+</BODY>
+</SAMI>

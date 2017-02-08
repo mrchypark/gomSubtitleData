@@ -1,0 +1,668 @@
+<SAMI>
+<HEAD>
+<TITLE>Hanbange 3.0 - (C) Breadu Soft 2003</TITLE>
+<STYLE TYPE="text/css">
+<!--
+P { margin-left:8pt; margin-right:8pt; margin-bottom:2pt;
+    margin-top:2pt; font-size:14pt; text-align:center;
+    font-family:굴림, Arial; font-weight:normal; color:white;
+    background-color:black; }
+.KRCC { Name:한국어; lang:ko-KR; SAMIType:CC; }
+#STDPrn { Name:Standard Print; }
+#LargePrn { Name:Large Print; font-size:20pt; }
+#SmallPrn { Name:Small Print; font-size:10pt; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<SYNC Start=29900><P Class=KRCC>
+이것이 지구...
+<SYNC Start=31685><P Class=KRCC>
+예쁜별이구나
+<SYNC Start=33711><P Class=KRCC>
+목표는 여기 3차원
+<SYNC Start=36353><P Class=KRCC>
+고차원세계 사악제국의 궁극병기 <br>악의 구슬을 쓰는거야?
+<SYNC Start=41849><P Class=KRCC>
+음... 간단한일이지...
+<SYNC Start=44926><P Class=KRCC>&nbsp;
+<SYNC Start=52107><P Class=KRCC>
+<font color=darkseagreen>절
+<SYNC Start=53481><P Class=KRCC>
+<font color=darkseagreen>절대
+<SYNC Start=54812><P Class=KRCC>
+<font color=darkseagreen>절대무
+<SYNC Start=56365><P Class=KRCC>
+<font color=darkseagreen>절대무적
+<SYNC Start=58179><P Class=KRCC>
+<font color=lightblue>절대무적 <br><font color=red>라이징오
+<SYNC Start=62687><P Class=KRCC>
+<font color=darkseagreen>중요한 일 정도는 스스로 찾는거야<br><font color=palevioletred>大事なことなんて 自分で見つけるよ
+<SYNC Start=69402><P Class=KRCC>
+<font color=darkseagreen>교실 창문에서 보이는 푸른 하늘의 아래<br><font color=palevioletred>敎室の窓から 見てる 靑空の下
+<SYNC Start=76252><P Class=KRCC>
+<font color=darkseagreen>하고싶은 일만 많이 있는데<br><font color=palevioletred>やりたいことばかり たくさんありすぎて
+<SYNC Start=82818><P Class=KRCC>
+<font color=darkseagreen>책상 앞에 가만히 있을 순 없어<br><font color=palevioletred>机の前になんて じっと していられない
+<SYNC Start=89563><P Class=KRCC>
+<font color=darkseagreen>비상도어를 열 때마다<br><font color=palevioletred>非常ドアを 開けるたびに
+<SYNC Start=92929><P Class=KRCC>
+<font color=darkseagreen>가슴이 웬지 두근두근거려<br><font color=palevioletred>胸がなぜか ドキドキする
+<SYNC Start=96047><P Class=KRCC>
+<font color=darkseagreen>새로운 세계로 날아오르는 스릴<br><font color=palevioletred>新しい世界へ 飛び出す スリル
+<SYNC Start=103121><P Class=KRCC>
+<font color=darkseagreen>너에게도 가르쳐 주고 싶어<br><font color=palevioletred>君にも 敎えたいよ
+<SYNC Start=108006><P Class=KRCC>
+<font color=darkseagreen>혼자가 아니야<br><font color=palevioletred>ひとりじゃ ないさ
+<SYNC Start=111295><P Class=KRCC>
+<font color=darkseagreen>꺾일 듯한 때는<br><font color=palevioletred>くじけそうなときは
+<SYNC Start=114510><P Class=KRCC>
+<font color=darkseagreen>싸울 용기를 떠받쳐 줄게<br><font color=palevioletred>鬪かう勇氣を ささえてあげるよ
+<SYNC Start=121530><P Class=KRCC>
+<font color=darkseagreen>미래는 언제나<br><font color=palevioletred>未來は いつも
+<SYNC Start=125005><P Class=KRCC>
+<font color=darkseagreen>우리가 히어로<br><font color=palevioletred>僕らがヒ-ロ-
+<SYNC Start=127993><P Class=KRCC>
+<font color=darkseagreen>꿈꾸는 힘은<br><font color=palevioletred>夢みる力は
+<SYNC Start=131650><P Class=KRCC>
+<font color=darkseagreen>절대무적 라이징오<br><font color=palevioletred>絶對無敵ライジンオ-
+<SYNC Start=138461><P Class=KRCC>&nbsp;
+<SYNC Start=138462><P Class=KRCC>
+<font color=darkseagreen>추억의 애니클럽<br><font color=palevioletred>http://cafe.gample.net/mpmp113<br><font color=lightblue>대본 : 프레류드 제작&수정 : 제이데커
+<SYNC Start=140974><P Class=KRCC>&nbsp;
+<SYNC Start=141435><P Class=KRCC>
+<font color=green>라이징오 참전!
+<SYNC Start=145858><P Class=KRCC>&nbsp;
+<SYNC Start=148113><P Class=KRCC>
+이 세계에는 이해할 수 없는 <br>이상한일이 많이 있어
+<SYNC Start=152517><P Class=KRCC>
+하지만 우리들의 마을에는 <br>그런 이상한 일은 한번도 없었어
+<SYNC Start=158395><P Class=KRCC>
+적어도 오늘까진...
+<SYNC Start=160634><P Class=KRCC>&nbsp;
+<SYNC Start=162293><P Class=KRCC>
+안녕히 계세요
+<SYNC Start=163112><P Class=KRCC>&nbsp;
+<SYNC Start=163620><P Class=KRCC>
+잘가라
+<SYNC Start=165144><P Class=KRCC>&nbsp;
+<SYNC Start=165405><P Class=KRCC>
+선생님 다른 반은 모두 돌아갔는데...
+<SYNC Start=168795><P Class=KRCC>&nbsp;
+<SYNC Start=169087><P Class=KRCC>
+아직 안된다
+<SYNC Start=170706><P Class=KRCC>&nbsp;
+<SYNC Start=174159><P Class=KRCC>
+학습노트다 제대로 쓴 사람은
+<SYNC Start=177200><P Class=KRCC>
+시라토리 마리아와 코지마츠 <br>두사람 뿐이라구!
+<SYNC Start=180516><P Class=KRCC>
+나머지는 전부 다시 쓰는거다!
+<SYNC Start=182298><P Class=KRCC>
+말도 안되요~
+<SYNC Start=184971><P Class=KRCC>
+각 노트의 주인은 나와서 가져가라
+<SYNC Start=187988><P Class=KRCC>
+진심으로 하면 가벼운데 말이지~
+<SYNC Start=190140><P Class=KRCC>&nbsp;
+<SYNC Start=191533><P Class=KRCC>
+선생님은 말야 너희들을 생각해서 하는거라구
+<SYNC Start=195976><P Class=KRCC>
+시노다 선생님 어째서 안되요? <br>제대로 썼다구요
+<SYNC Start=199918><P Class=KRCC>&nbsp;
+<SYNC Start=200463><P Class=KRCC>
+제대로 썼다구?
+<SYNC Start=202636><P Class=KRCC>
+아 왜냐하면 저 제대로 <br>츠토무껄 보고 썼는데
+<SYNC Start=206309><P Class=KRCC>
+그러니까 안된다는거다!
+<SYNC Start=207870><P Class=KRCC>&nbsp;
+<SYNC Start=209178><P Class=KRCC>
+어라~ 토요일인데 <br>아직 수업중이시네요?
+<SYNC Start=213145><P Class=KRCC>
+아 예... 이제 곧 끝납니다만... <br>뭔가 하실 말씀이라도?
+<SYNC Start=217733><P Class=KRCC>
+아니요 누가 있나 <br>궁금했던것 뿐이예요
+<SYNC Start=221071><P Class=KRCC>
+그럼...
+<SYNC Start=222735><P Class=KRCC>&nbsp;
+<SYNC Start=226000><P Class=KRCC>
+아아!
+<SYNC Start=226871><P Class=KRCC>&nbsp;
+<SYNC Start=227989><P Class=KRCC>
+이봐 코우지! 또 UFO를 <br>찾고있는거냐?!
+<SYNC Start=231158><P Class=KRCC>
+아 저거!
+<SYNC Start=232452><P Class=KRCC>&nbsp;
+<SYNC Start=235619><P Class=KRCC>
+뭐야? 뭐야?
+<SYNC Start=236721><P Class=KRCC>
+거짓말이야
+<SYNC Start=239621><P Class=KRCC>
+그것이 모든것의 시작이었던것이다
+<SYNC Start=242206><P Class=KRCC>&nbsp;
+<SYNC Start=243380><P Class=KRCC>
+우리들 5학년 3반의 <br>싸움과 모험의 나날이...
+<SYNC Start=248384><P Class=KRCC>&nbsp;
+<SYNC Start=268572><P Class=KRCC>
+저 미사일에 잔뜩 담겨있는 <br>악의 구슬...
+<SYNC Start=272187><P Class=KRCC>
+한번 발동하면... 지구는 끝...
+<SYNC Start=276154><P Class=KRCC>&nbsp;
+<SYNC Start=277254><P Class=KRCC>
+타이다 발사준비는 됐는가?
+<SYNC Start=280178><P Class=KRCC>
+이제 조금남았습니다 베르제브님
+<SYNC Start=282781><P Class=KRCC>&nbsp;
+<SYNC Start=287607><P Class=KRCC>
+뭐냐?
+<SYNC Start=289423><P Class=KRCC>&nbsp;
+<SYNC Start=290334><P Class=KRCC>
+이제 그만 단념해라! 여기는 <br>고차원인이 넘볼곳이 아냐!
+<SYNC Start=296798><P Class=KRCC>
+누구냐 네녀석!
+<SYNC Start=298894><P Class=KRCC>
+위기에 빠진 지구를 지키는 전사 <br>번개의 전사... 라이징오!
+<SYNC Start=306801><P Class=KRCC>&nbsp;
+<SYNC Start=308205><P Class=KRCC>
+귀찮은... <br>타이다 미사일을 발사해라!
+<SYNC Start=312636><P Class=KRCC>
+하지만...
+<SYNC Start=314260><P Class=KRCC>
+발사!
+<SYNC Start=315133><P Class=KRCC>&nbsp;
+<SYNC Start=325306><P Class=KRCC>
+용납못한다!
+<SYNC Start=326670><P Class=KRCC>&nbsp;
+<SYNC Start=330516><P Class=KRCC>
+큿... 어떻게된 파워냐?
+<SYNC Start=333022><P Class=KRCC>&nbsp;
+<SYNC Start=350331><P Class=KRCC>
+라이징오라고 했던가?
+<SYNC Start=351859><P Class=KRCC>&nbsp;
+<SYNC Start=352063><P Class=KRCC>
+베르제브님 악의 구슬은 <br>어떻게 되는 겁니까?
+<SYNC Start=355596><P Class=KRCC>
+걱정하지 마라 가만히 내버려둬도 <br>지구는 엉망진창이 된다
+<SYNC Start=359357><P Class=KRCC>&nbsp;
+<SYNC Start=373319><P Class=KRCC>
+아? UFO다
+<SYNC Start=375220><P Class=KRCC>
+줘봐!
+<SYNC Start=376319><P Class=KRCC>&nbsp;
+<SYNC Start=379409><P Class=KRCC>
+뭐지? 저거?
+<SYNC Start=381316><P Class=KRCC>
+무거워...
+<SYNC Start=382619><P Class=KRCC>&nbsp;
+<SYNC Start=382965><P Class=KRCC>
+이쪽으로 오는거 아냐?
+<SYNC Start=385857><P Class=KRCC>&nbsp;
+<SYNC Start=386983><P Class=KRCC>
+우왓! 온다 온다!
+<SYNC Start=388061><P Class=KRCC>
+위험해 도망쳐라!
+<SYNC Start=389872><P Class=KRCC>&nbsp;
+<SYNC Start=398851><P Class=KRCC>
+뭐지? 이거?
+<SYNC Start=400495><P Class=KRCC>
+아아... 처...천국이다! <br>우리들... 죽어버린거야!
+<SYNC Start=405724><P Class=KRCC>&nbsp;
+<SYNC Start=405726><P Class=KRCC>
+도대체 어떻게 된거야?
+<SYNC Start=407951><P Class=KRCC>
+진! 진!
+<SYNC Start=409644><P Class=KRCC>
+응?
+<SYNC Start=410619><P Class=KRCC>
+이...이거 뭐야?
+<SYNC Start=412738><P Class=KRCC>
+아아! 로보트라구 이거!
+<SYNC Start=416594><P Class=KRCC>&nbsp;
+<SYNC Start=417634><P Class=KRCC>
+로보트?
+<SYNC Start=418722><P Class=KRCC>
+코우지쪽이 이런거 잘 알잖아?
+<SYNC Start=421598><P Class=KRCC>
+아아! 꾸...꿈이다! <br>이건 꿈인거야!
+<SYNC Start=424983><P Class=KRCC>&nbsp;
+<SYNC Start=429773><P Class=KRCC>
+뭐지 이거? 유...유령인가?
+<SYNC Start=432650><P Class=KRCC>
+꾸...꿈이다
+<SYNC Start=434456><P Class=KRCC>&nbsp;
+<SYNC Start=435599><P Class=KRCC>
+나는 엘드란
+<SYNC Start=436917><P Class=KRCC>
+태고의 옛날부터 <br>지구를 지켜온 전사!
+<SYNC Start=441407><P Class=KRCC>
+지금 이 지구는 악의 고차원세계 <br>사악제국에 노려지고 있다
+<SYNC Start=447551><P Class=KRCC>
+오늘부터는 나 대신에 그대들이 <br>이 지구를 지키는거다
+<SYNC Start=451944><P Class=KRCC>
+잠깐 기다려 엘란토카!
+<SYNC Start=454182><P Class=KRCC>
+엘드란
+<SYNC Start=455207><P Class=KRCC>
+어쨌든 상관없잖아 그런거!
+<SYNC Start=456728><P Class=KRCC>
+어이! 갑자기 나타나서 <br>학교를 부수고선 뭐~가
+<SYNC Start=460778><P Class=KRCC>
+"너희들이 이 지구를 <br>지키는거다..." 냐!
+<SYNC Start=463874><P Class=KRCC>
+우리들은 우주인과 <br>교신하고 있는걸지도 모른다구
+<SYNC Start=467707><P Class=KRCC>
+나...나는 믿어지지 않아!
+<SYNC Start=470013><P Class=KRCC>
+나는 이제 쉬지 않으면 안된다
+<SYNC Start=472083><P Class=KRCC>
+너희들의 힘을 빌리는 것 밖에<br>방법이 없다
+<SYNC Start=476636><P Class=KRCC>&nbsp;
+<SYNC Start=480702><P Class=KRCC>
+이...이번엔 뭐냐구!
+<SYNC Start=482833><P Class=KRCC>&nbsp;
+<SYNC Start=495787><P Class=KRCC>
+그 메달은 너희들이 지구를 지키는 전사라는 증표다
+<SYNC Start=500447><P Class=KRCC>
+때가되면 메달이 알려줄거다
+<SYNC Start=503431><P Class=KRCC>&nbsp;
+<SYNC Start=503697><P Class=KRCC>
+아 몸이 작아지고 있어
+<SYNC Start=505946><P Class=KRCC>&nbsp;
+<SYNC Start=506491><P Class=KRCC>
+뒤를 부탁한다 지구의 아이들...
+<SYNC Start=509920><P Class=KRCC>&nbsp;
+<SYNC Start=510130><P Class=KRCC>
+기다리라구 어이!
+<SYNC Start=511572><P Class=KRCC>&nbsp;
+<SYNC Start=521303><P Class=KRCC>
+으아아아아! 위험해 천장이! 응?
+<SYNC Start=525717><P Class=KRCC>&nbsp;
+<SYNC Start=531957><P Class=KRCC>
+으응? 이상하네 확실히 로봇같은게 떨어져서 천장이...
+<SYNC Start=539922><P Class=KRCC>
+아하하하! 좋아 오늘은 여기까지다
+<SYNC Start=543642><P Class=KRCC>
+학습노트는 월요일까지 <br>숙제로 해주마!
+<SYNC Start=546920><P Class=KRCC>&nbsp;
+<SYNC Start=552183><P Class=KRCC>
+뜨아아... 수업중에 기절하다니...
+<SYNC Start=555942><P Class=KRCC>
+보건실의 히메츠 <br>선생님께 라도 가볼까...
+<SYNC Start=559572><P Class=KRCC>&nbsp;
+<SYNC Start=560799><P Class=KRCC>
+아까는 뭐였던거지?
+<SYNC Start=562323><P Class=KRCC>&nbsp;
+<SYNC Start=563550><P Class=KRCC>
+꿈이야 우리들 꿈을 꾼거야
+<SYNC Start=567020><P Class=KRCC>&nbsp;
+<SYNC Start=567681><P Class=KRCC>
+꿈이라고 한다면 이것은 <br>도대체 뭡니까?
+<SYNC Start=572109><P Class=KRCC>
+꿈같은게 아니야
+<SYNC Start=573761><P Class=KRCC>&nbsp;
+<SYNC Start=575209><P Class=KRCC>
+뭐지? 이거
+<SYNC Start=577369><P Class=KRCC>&nbsp;
+<SYNC Start=588628><P Class=KRCC>
+[번쩍번쩍~]
+<SYNC Start=600785><P Class=KRCC>&nbsp;
+<SYNC Start=615456><P Class=KRCC>
+얼레? 선장~ 선장~
+<SYNC Start=617823><P Class=KRCC>&nbsp;
+<SYNC Start=618088><P Class=KRCC>
+타이다... 내 앞에서 나오지 마라!
+<SYNC Start=621050><P Class=KRCC>&nbsp;
+<SYNC Start=623602><P Class=KRCC>
+악의 구슬... 인간이 싫어하는걸 <br>민감하게 감지해서
+<SYNC Start=628299><P Class=KRCC>
+그 모습으로 메타몰 포세스 한다...
+<SYNC Start=631122><P Class=KRCC>&nbsp;
+<SYNC Start=631181><P Class=KRCC>
+메타모...르?
+<SYNC Start=632532><P Class=KRCC>
+사악차원수로 새로 태어나는거다
+<SYNC Start=635160><P Class=KRCC>
+인간이 좀 더 싫어하는걸로 변하지...
+<SYNC Start=638271><P Class=KRCC>
+인간이 싫어하는거 말이죠~ <br>싫어하는거 싫어하는거...
+<SYNC Start=644482><P Class=KRCC>
+응? 저것은 자전거가 아닙니까?
+<SYNC Start=648474><P Class=KRCC>&nbsp;
+<SYNC Start=649857><P Class=KRCC>
+음... 콜록콜록! <br>어떻게 된 배기가스냐
+<SYNC Start=656140><P Class=KRCC>
+이게 없으면 지구는 <br>더 깨끗해질텐데 말야
+<SYNC Start=660153><P Class=KRCC>
+배기가스 같은건 폐다! 꺼져버려!
+<SYNC Start=664035><P Class=KRCC>&nbsp;
+<SYNC Start=666547><P Class=KRCC>
+선장! 지구인은 배기가스를 <br>싫어하는 듯 합...
+<SYNC Start=670649><P Class=KRCC>
+악의 구슬 배기가스를 사용하는 <br>사악차원수가 되는거다
+<SYNC Start=675780><P Class=KRCC>&nbsp;
+<SYNC Start=687595><P Class=KRCC>
+가라!
+<SYNC Start=688591><P Class=KRCC>&nbsp;
+<SYNC Start=691160><P Class=KRCC>
+흐아아아!!
+<SYNC Start=693109><P Class=KRCC>&nbsp;
+<SYNC Start=704971><P Class=KRCC>
+사악파워 소사!
+<SYNC Start=707513><P Class=KRCC>&nbsp;
+<SYNC Start=721559><P Class=KRCC>
+뭐냐 저건!
+<SYNC Start=722644><P Class=KRCC>&nbsp;
+<SYNC Start=727984><P Class=KRCC>
+괴물이다!
+<SYNC Start=729315><P Class=KRCC>&nbsp;
+<SYNC Start=730705><P Class=KRCC>
+에키조스트
+<SYNC Start=734343><P Class=KRCC>&nbsp;
+<SYNC Start=737721><P Class=KRCC>
+<font color=darkseagreen>대본으로 새로만든 수정자막입니다<br><font color=lightblue>대본 만드신 프레류드님 수고 하셨습니다
+<SYNC Start=743218><P Class=KRCC>&nbsp;
+<SYNC Start=743558><P Class=KRCC>
+<font color=darkseagreen>추억의 애니클럽<br><font color=palevioletred>http://cafe.gample.net/mpmp113<br><font color=lightblue>대본 : 프레류드 제작&수정 : 제이데커
+<SYNC Start=748550><P Class=KRCC>&nbsp;
+<SYNC Start=752122><P Class=KRCC>
+(그 괴물이 엘드란이 <br>말했던 적인가?)
+<SYNC Start=754702><P Class=KRCC>&nbsp;
+<SYNC Start=758575><P Class=KRCC>
+에? 일요일인데 어떻게 된거야 모두?
+<SYNC Start=762146><P Class=KRCC>
+뉴스에서 괴물을 보고나서 우리들도 여기에 와야할듯한 기분이 들었어
+<SYNC Start=767133><P Class=KRCC>
+봐!
+<SYNC Start=768410><P Class=KRCC>
+어? 똑같아
+<SYNC Start=769858><P Class=KRCC>
+어떻게 된거야?
+<SYNC Start=771843><P Class=KRCC>
+모르겠습니다
+<SYNC Start=772977><P Class=KRCC>
+어이 모두 빨리 교실로 와봐
+<SYNC Start=777380><P Class=KRCC>
+코우지!
+<SYNC Start=778407><P Class=KRCC>&nbsp;
+<SYNC Start=780713><P Class=KRCC>
+봐 저거
+<SYNC Start=781902><P Class=KRCC>
+비...빛나고 있어
+<SYNC Start=783707><P Class=KRCC>
+내 책상
+<SYNC Start=788482><P Class=KRCC>
+이 빛 메달모양이야
+<SYNC Start=791644><P Class=KRCC>&nbsp;
+<SYNC Start=800534><P Class=KRCC>
+지...지진이다!
+<SYNC Start=802165><P Class=KRCC>&nbsp;
+<SYNC Start=811369><P Class=KRCC>
+바닥이 움직이기 시작했어
+<SYNC Start=812642><P Class=KRCC>&nbsp;
+<SYNC Start=813803><P Class=KRCC>
+어떻게된거냐... 아 책상도! 아악!
+<SYNC Start=818385><P Class=KRCC>&nbsp;
+<SYNC Start=823181><P Class=KRCC>
+어머님! 히이이이익!
+<SYNC Start=824909><P Class=KRCC>&nbsp;
+<SYNC Start=826975><P Class=KRCC>
+교...교실이 내려가고 있어
+<SYNC Start=829261><P Class=KRCC>&nbsp;
+<SYNC Start=858829><P Class=KRCC>
+아 칠판이!
+<SYNC Start=860297><P Class=KRCC>&nbsp;
+<SYNC Start=862038><P Class=KRCC>
+이건... 제 메달 모양입니다만...
+<SYNC Start=865664><P Class=KRCC>
+내것도
+<SYNC Start=866820><P Class=KRCC>
+내것도
+<SYNC Start=867877><P Class=KRCC>
+응?
+<SYNC Start=869045><P Class=KRCC>&nbsp;
+<SYNC Start=876252><P Class=KRCC>
+아앗! 책상이 이상한게 되어버렸어!
+<SYNC Start=879263><P Class=KRCC>&nbsp;
+<SYNC Start=880885><P Class=KRCC>
+또 이상한게 생겨나고 있어
+<SYNC Start=883925><P Class=KRCC>
+아니! 혹시 여기는 사령실일지도
+<SYNC Start=887316><P Class=KRCC>
+어이 아스카! 어디에 <br>넣으면 되는거냐?
+<SYNC Start=890608><P Class=KRCC>
+알것 같냐? 그런거 <br>자신이 생각하라구
+<SYNC Start=893785><P Class=KRCC>&nbsp;
+<SYNC Start=895308><P Class=KRCC>
+우왓!
+<SYNC Start=896442><P Class=KRCC>&nbsp;
+<SYNC Start=897249><P Class=KRCC>
+뭐...뭐야 이거!
+<SYNC Start=898942><P Class=KRCC>&nbsp;
+<SYNC Start=901537><P Class=KRCC>
+그런가? 여기에 넣는건가?
+<SYNC Start=904048><P Class=KRCC>&nbsp;
+<SYNC Start=905821><P Class=KRCC>
+뭐야 이걸로 되는건가? 하하하하
+<SYNC Start=908742><P Class=KRCC>&nbsp;
+<SYNC Start=910683><P Class=KRCC>
+응? 으아앗 아아아앗!
+<SYNC Start=913490><P Class=KRCC>&nbsp;
+<SYNC Start=943532><P Class=KRCC>
+[공중곡예!]
+<SYNC Start=947475><P Class=KRCC>&nbsp;
+<SYNC Start=948100><P Class=KRCC>
+응? 뭐지 이건?
+<SYNC Start=950480><P Class=KRCC>&nbsp;
+<SYNC Start=951417><P Class=KRCC>
+아앗! 또 뭔가 일어나는거야?!
+<SYNC Start=953963><P Class=KRCC>&nbsp;
+<SYNC Start=998796><P Class=KRCC>
+히에에 우리들이 파일럿인거야?
+<SYNC Start=1002370><P Class=KRCC>
+농담이지?
+<SYNC Start=1004158><P Class=KRCC>
+기분나빠...
+<SYNC Start=1005780><P Class=KRCC>&nbsp;
+<SYNC Start=1008382><P Class=KRCC>
+사자가 수왕 새가 봉왕 <br>사람모양이 검왕입니까?
+<SYNC Start=1013449><P Class=KRCC>
+저 로봇들이?
+<SYNC Start=1015083><P Class=KRCC>&nbsp;
+<SYNC Start=1016775><P Class=KRCC>
+우왓! 이번엔 뭐야?
+<SYNC Start=1018996><P Class=KRCC>&nbsp;
+<SYNC Start=1030595><P Class=KRCC>
+나...날았다!
+<SYNC Start=1031933><P Class=KRCC>&nbsp;
+<SYNC Start=1038535><P Class=KRCC>
+가버렸다
+<SYNC Start=1039481><P Class=KRCC>
+저 세명으로 괜찮을까요?
+<SYNC Start=1042077><P Class=KRCC>&nbsp;
+<SYNC Start=1044263><P Class=KRCC>
+괴...굉장해!
+<SYNC Start=1045745><P Class=KRCC>&nbsp;
+<SYNC Start=1056686><P Class=KRCC>
+흐아앗! 괴...괴물이다! 이...!!
+<SYNC Start=1060313><P Class=KRCC>&nbsp;
+<SYNC Start=1068819><P Class=KRCC>
+라이징오가 없어... 저건 <br>도대체 뭐하는 것들이냐?
+<SYNC Start=1073348><P Class=KRCC>
+물어봐도 모릅니다
+<SYNC Start=1074925><P Class=KRCC>
+큿... 아파라... 야이 독가스 괴물!<br>일요일인데 나오다니!
+<SYNC Start=1081965><P Class=KRCC>&nbsp;
+<SYNC Start=1089269><P Class=KRCC>
+뭐하고 있어 코우지 빨리 싸워
+<SYNC Start=1092345><P Class=KRCC>
+시...싫어... 난 돌아갈래
+<SYNC Start=1095483><P Class=KRCC>&nbsp;
+<SYNC Start=1096548><P Class=KRCC>
+아악! 코..코우지!
+<SYNC Start=1098417><P Class=KRCC>&nbsp;
+<SYNC Start=1106930><P Class=KRCC>
+우왓 뜨거워! 녹아버리고 말아! <br>앗! 앗뜨 앗뜨!
+<SYNC Start=1110960><P Class=KRCC>
+아스카군 뭐하고 있는거야? <br>빨리 진을 도와줘
+<SYNC Start=1114331><P Class=KRCC>
+그렇게 말해도... 어떻게하면...
+<SYNC Start=1116542><P Class=KRCC>
+그 봉왕으로 싸우면 되지 않아?
+<SYNC Start=1118999><P Class=KRCC>
+바...바보같은말 하지마! 그런거 <br>할 수 있을거 같아?
+<SYNC Start=1122118><P Class=KRCC>
+뭐야! 언제나 멋진말만 한 주제에 <br>당신 겉치레만 요란했던거네!
+<SYNC Start=1128272><P Class=KRCC>
+뭐? 나는... 나는... <br>겉치레만 요란한게 아냐!
+<SYNC Start=1135702><P Class=KRCC>&nbsp;
+<SYNC Start=1141544><P Class=KRCC>
+우왓! 붙잡혀 버렸다!
+<SYNC Start=1143146><P Class=KRCC>
+좋아 에키조스트 <br>단숨에 해치워버려라!
+<SYNC Start=1147287><P Class=KRCC>&nbsp;
+<SYNC Start=1153227><P Class=KRCC>
+어어? 뭘 할 셈인거지?
+<SYNC Start=1156212><P Class=KRCC>&nbsp;
+<SYNC Start=1156691><P Class=KRCC>
+(이봐 사자!) 어? 시노다 선생님?
+<SYNC Start=1158388><P Class=KRCC>
+(내버려 두지 말고 빨리 <br>모두를 구하라고!)
+<SYNC Start=1160340><P Class=KRCC>
+그런... 그런말한다고 해서...
+<SYNC Start=1163002><P Class=KRCC>
+이... 놔줘!
+<SYNC Start=1165290><P Class=KRCC>
+움직이지 않아!
+<SYNC Start=1167176><P Class=KRCC>&nbsp;
+<SYNC Start=1169004><P Class=KRCC>
+나...나한테는 나한테는 역시 무리야
+<SYNC Start=1173091><P Class=KRCC>
+- 너희들이 지구를 지키는거다 -
+<SYNC Start=1175921><P Class=KRCC>&nbsp;
+<SYNC Start=1177870><P Class=KRCC>
+코우지군!
+<SYNC Start=1179797><P Class=KRCC>&nbsp;
+<SYNC Start=1182537><P Class=KRCC>
+코우지! 코우지!
+<SYNC Start=1184702><P Class=KRCC>
+도와줘!
+<SYNC Start=1185901><P Class=KRCC>
+진! 아스카!
+<SYNC Start=1187222><P Class=KRCC>&nbsp;
+<SYNC Start=1193558><P Class=KRCC>
+그런가 알았습니다
+<SYNC Start=1195253><P Class=KRCC>
+뭘 알았다는거야?
+<SYNC Start=1197650><P Class=KRCC>
+저 3체(體)는 합체할 수 있어요
+<SYNC Start=1200042><P Class=KRCC>
+합체?
+<SYNC Start=1201103><P Class=KRCC>
+라이징 브레스의 버튼을 <br>누르는겁니다!
+<SYNC Start=1203566><P Class=KRCC>
+좋아! 알았어!
+<SYNC Start=1205809><P Class=KRCC>
+진군! 간다!
+<SYNC Start=1207211><P Class=KRCC>&nbsp;
+<SYNC Start=1215554><P Class=KRCC>
+좋아... 이렇게 된다면 해주겠다!
+<SYNC Start=1219101><P Class=KRCC>&nbsp;
+<SYNC Start=1272845><P Class=KRCC>
+저 3체(體)가 라이징오 였던건가?
+<SYNC Start=1275201><P Class=KRCC>&nbsp;
+<SYNC Start=1281029><P Class=KRCC>
+뭐야 이거?
+<SYNC Start=1282004><P Class=KRCC>
+미..미사일이다!
+<SYNC Start=1283522><P Class=KRCC>
+어떻게하면 좋지?
+<SYNC Start=1285517><P Class=KRCC>&nbsp;
+<SYNC Start=1285523><P Class=KRCC>
+응?
+<SYNC Start=1286590><P Class=KRCC>&nbsp;
+<SYNC Start=1336315><P Class=KRCC>
+절대무적 라이징오!
+<SYNC Start=1340995><P Class=KRCC>&nbsp;
+<SYNC Start=1344332><P Class=KRCC>
+해냈다
+<SYNC Start=1348190><P Class=KRCC>
+라이징오... 용서못한다!
+<SYNC Start=1351634><P Class=KRCC>&nbsp;
+<SYNC Start=1353292><P Class=KRCC>
+라이징오라고 했었나 그 로봇
+<SYNC Start=1356378><P Class=KRCC>&nbsp;
+<SYNC Start=1358036><P Class=KRCC>
+응? 아... 아까의 로봇이다
+<SYNC Start=1361491><P Class=KRCC>&nbsp;
+<SYNC Start=1362092><P Class=KRCC>
+선생님!
+<SYNC Start=1363127><P Class=KRCC>
+어...어째서 학교에 로봇이
+<SYNC Start=1366755><P Class=KRCC>
+어떻게 된거냐? 이 로봇
+<SYNC Start=1368397><P Class=KRCC>
+받았습니다~
+<SYNC Start=1370667><P Class=KRCC>
+뭐가뭔지 모르는 사람이 <br>맘대로 준거지만
+<SYNC Start=1374000><P Class=KRCC>
+뭐 우리들 지구방위반<br>이라는 걸까나?
+<SYNC Start=1377565><P Class=KRCC>&nbsp;
+<SYNC Start=1378540><P Class=KRCC>
+지구방위반이라면... <br>너희들이 싸우는거냐?
+<SYNC Start=1382544><P Class=KRCC>
+그래요 그런이유로 괴물과 싸우니까 학습노트는 패스해도 되는거겠죠?
+<SYNC Start=1388753><P Class=KRCC>
+응... 응?
+<SYNC Start=1390566><P Class=KRCC>
+그거와 그거는 이야기가 틀리다!
+<SYNC Start=1393004><P Class=KRCC>
+지구방위반이던 뭐던간에 <br>숙제는 반드시 해야한다!
+<SYNC Start=1398128><P Class=KRCC>
+그냥 넘어가 줘요!
+<SYNC Start=1400890><P Class=KRCC>
+이봐 진! 이리오지 못하겠냐!
+<SYNC Start=1404237><P Class=KRCC>
+<font color=darkseagreen>だれもがみんな 元氣になねる<br><font color=lightblue>누구나가 모두 건강하게 돼
+<SYNC Start=1407820><P Class=KRCC>&nbsp;
+<SYNC Start=1410330><P Class=KRCC>
+<font color=darkseagreen>子供のための 秘密の魔法<br><font color=lightblue>어린이를 위한 비밀의 마법
+<SYNC Start=1413970><P Class=KRCC>&nbsp;
+<SYNC Start=1416441><P Class=KRCC>
+<font color=darkseagreen>大人たちには ないしょにしよう<br><font color=lightblue>어른들에게는 비밀로 하자
+<SYNC Start=1420403><P Class=KRCC>&nbsp;
+<SYNC Start=1422137><P Class=KRCC>
+<font color=darkseagreen>遠い旅に 出掛けよう<br><font color=lightblue>멀리 여행을 떠나자
+<SYNC Start=1427871><P Class=KRCC>&nbsp;
+<SYNC Start=1428199><P Class=KRCC>
+<font color=darkseagreen>勇氣有れば 心 はずむ<br><font color=lightblue>용기가 있으면 마음이 들떠
+<SYNC Start=1434585><P Class=KRCC>&nbsp;
+<SYNC Start=1434672><P Class=KRCC>
+<font color=darkseagreen>冒險がはじまるぞ<br><font color=lightblue>모험이 시.작.한.다!
+<SYNC Start=1439209><P Class=KRCC>&nbsp;
+<SYNC Start=1440857><P Class=KRCC>
+<font color=darkseagreen>ドキドキワクワク<br><font color=lightblue>두근두근 울렁울렁
+<SYNC Start=1444409><P Class=KRCC>
+<font color=darkseagreen>これがかんじんなの<br><font color=lightblue>이게 느껴지니?
+<SYNC Start=1447169><P Class=KRCC>
+<font color=darkseagreen>ハラハラキュンキュン<br><font color=lightblue>조마조마 궁금궁금
+<SYNC Start=1450511><P Class=KRCC>
+<font color=darkseagreen>いつもしていたいだけ<br><font color=lightblue>언제나 알고싶을 뿐
+<SYNC Start=1455944><P Class=KRCC>
+<font color=darkseagreen>僕たち地球防衛組<br><font color=lightblue>우리들은 지구방위반
+<SYNC Start=1461023><P Class=KRCC>&nbsp;
+<SYNC Start=1466972><P Class=KRCC>
+[차회예고]
+<SYNC Start=1470280><P Class=KRCC>
+라이징오를 넘기라고?
+<SYNC Start=1472566><P Class=KRCC>
+어른들은 제멋대로야
+<SYNC Start=1474267><P Class=KRCC>
+다음회 절대무적 라이징오!
+<SYNC Start=1476628><P Class=KRCC>
+우리들은 지구 방위반
+<SYNC Start=1478678><P Class=KRCC>
+수업중에도 출동 OK?
+<SYNC Start=1480955><P Class=KRCC>&nbsp;
+</BODY>
+</SAMI>

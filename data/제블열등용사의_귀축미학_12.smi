@@ -1,0 +1,984 @@
+<SAMI>
+<HEAD>
+<TITLE>Hanbange 3.0 - (C) Breadu Soft 2008</TITLE>
+<STYLE TYPE="text/css">
+<!--
+P { margin-left:8pt; margin-right:8pt; margin-bottom:2pt;
+    margin-top:2pt; font-size:14pt; text-align:center;
+    font-family:굴림, Arial; font-weight:normal; color:white;
+    background-color:black; }
+.KRCC { Name:한국어; lang:ko-KR; SAMIType:CC; }
+#STDPrn { Name:Standard Print; }
+#LargePrn { Name:Large Print; font-size:20pt; }
+#SmallPrn { Name:Small Print; font-size:10pt; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<!--
+Subtitle by 레이시스
+(http://reisis1464.blog.me/)
+모든 지적은 감사히 받겠습니다 
+-->
+<SYNC Start=46376><P Class=KRCC>
+무사했구나
+<SYNC Start=47916><P Class=KRCC>
+&nbsp;
+<SYNC Start=69108><P Class=KRCC>
+<font color=#3021aa>I will change the world<br></font><font color=#285dba>I will change the world
+<SYNC Start=74149><P Class=KRCC>
+<font color=#3021aa>Your tear change real my soul<br></font><font color=#285dba>Your tear change real my soul
+<SYNC Start=79836><P Class=KRCC>
+&nbsp;
+<SYNC Start=82419><P Class=KRCC>
+<font color=#3021aa>流れる大氣から 世界を搖らす<br></font><font color=#285dba>흘러나오는 대기로 세계를 뒤흔들어
+<SYNC Start=87579><P Class=KRCC>
+<font color=#3021aa>タイムリミットは もう近いよ<br></font><font color=#285dba>타임리미트는 이제 가까워졌어
+<SYNC Start=90867><P Class=KRCC>
+<font color=#3021aa>どうする?<br></font><font color=#285dba>어쩌지?
+<SYNC Start=92539><P Class=KRCC>
+<font color=#3021aa>Shout!<br></font><font color=#285dba>Shout!
+<SYNC Start=94266><P Class=KRCC>
+<font color=#3021aa>深い漆黑の眼<br></font><font color=#285dba>깊은 칠흑의 눈
+<SYNC Start=97677><P Class=KRCC>
+<font color=#3021aa>Ah 消えない遺恨を背負うよ<br></font><font color=#285dba>Ah 사라지지 않는 원한을 짊어질게
+<SYNC Start=102667><P Class=KRCC>
+<font color=#3021aa>はばたく闇の勇者<br></font><font color=#285dba>날갯짓하는 어둠의 용사
+<SYNC Start=107755><P Class=KRCC>
+<font color=#3021aa>搔き立てる<br></font><font color=#285dba>불러일으켜
+<SYNC Start=110227><P Class=KRCC>
+<font color=#3021aa>Change the world Strong my heart<br></font><font color=#285dba>Change the world Strong my heart
+<SYNC Start=112659><P Class=KRCC>
+<font color=#3021aa>支配されても突き刺す<br></font><font color=#285dba>지배당해도 꿰뚫어
+<SYNC Start=115347><P Class=KRCC>
+<font color=#3021aa>賞贊は報酬で<br></font><font color=#285dba>칭찬은 보수고
+<SYNC Start=117690><P Class=KRCC>
+<font color=#3021aa>火照る美學鳴らす<br></font><font color=#285dba>달아오르는 미학을 울려
+<SYNC Start=120939><P Class=KRCC>
+<font color=#3021aa>淚は見せないで 今はまだ<br></font><font color=#285dba>눈물은 보이지 말고 지금은 아직
+<SYNC Start=126706><P Class=KRCC>
+<font color=#3021aa>護ると誓うよ<br></font><font color=#285dba>지키겠다고 맹세해
+<SYNC Start=130850><P Class=KRCC>
+<font color=#3021aa>解き放て<br></font><font color=#285dba>해방시켜줘
+<SYNC Start=132883><P Class=KRCC>
+<font color=#3021aa>Realize<br></font><font color=#285dba>Realize
+<SYNC Start=136291><P Class=KRCC>
+&nbsp;
+<SYNC Start=165834><P Class=KRCC>
+<font color=red>episode 12<br>세계가 너를 지켜보고 있어
+<SYNC Start=168012><P Class=KRCC>
+&nbsp;
+<SYNC Start=170956><P Class=KRCC>
+그런…
+<SYNC Start=172809><P Class=KRCC>
+&nbsp;
+<SYNC Start=185239><P Class=KRCC>
+인제 그만 해
+<SYNC Start=186318><P Class=KRCC>
+더는 무리야
+<SYNC Start=188382><P Class=KRCC>
+무기도 없는데 이대로 싸운다니<br>
+무리야, 절대로
+<SYNC Start=192550><P Class=KRCC>
+상관없어
+<SYNC Start=194462><P Class=KRCC>
+말이 된다든가<br>
+말이 안 된다든가
+<SYNC Start=196893><P Class=KRCC>
+무리라든가<br>
+무리가 아니라든가
+<SYNC Start=199309><P Class=KRCC>
+이건 말이야
+<SYNC Start=200510><P Class=KRCC>
+할지 안 할지
+<SYNC Start=202493><P Class=KRCC>
+믿을지 안 믿을지
+<SYNC Start=204518><P Class=KRCC>
+그것뿐인 얘기야
+<SYNC Start=206214><P Class=KRCC>
+하지만…
+<SYNC Start=207365><P Class=KRCC>
+믿어
+<SYNC Start=208445><P Class=KRCC>
+지금이야말로 나를
+<SYNC Start=210493><P Class=KRCC>
+이런 상황이잖아
+<SYNC Start=212294><P Class=KRCC>
+정말 믿어야만 할 때는
+<SYNC Start=214662><P Class=KRCC>
+유리할 때나 가능성 높은<br>
+때밖에 믿지 않는다면
+<SYNC Start=218221><P Class=KRCC>
+그런 건 믿는다고 하지 않아
+<SYNC Start=220662><P Class=KRCC>
+&nbsp;
+<SYNC Start=223101><P Class=KRCC>
+지금이야
+<SYNC Start=225405><P Class=KRCC>
+네가 나를<br>
+믿어야 할 때는 지금이야
+<SYNC Start=228599><P Class=KRCC>
+네가 자신이<br>
+있을 곳으로 고른 남자는
+<SYNC Start=231183><P Class=KRCC>
+이런 데서 지지 않는다고
+<SYNC Start=233633><P Class=KRCC>
+아니면 너는<br>
+나를 못 믿겠어?
+<SYNC Start=236946><P Class=KRCC>
+&nbsp;
+<SYNC Start=250562><P Class=KRCC>
+말도 안 되는 짓이나 무리를<br>
+하지 않았으면 하는 건 네가 걱정되니까
+<SYNC Start=255153><P Class=KRCC>
+하지만 믿어
+<SYNC Start=258066><P Class=KRCC>
+오사와 아카츠키
+<SYNC Start=259802><P Class=KRCC>
+&nbsp;
+<SYNC Start=264978><P Class=KRCC>
+막을 생각이라면 소용없어
+<SYNC Start=267274><P Class=KRCC>
+부회장
+<SYNC Start=269666><P Class=KRCC>
+아뇨
+<SYNC Start=270506><P Class=KRCC>
+저도 당신을<br>
+막을 생각은 없습니다
+<SYNC Start=273882><P Class=KRCC>
+이것을…
+<SYNC Start=275250><P Class=KRCC>
+뭔가 보험 정도는<br>
+될 거예요
+<SYNC Start=277602><P Class=KRCC>
+&nbsp;
+<SYNC Start=279058><P Class=KRCC>
+이별 인사는 끝났나요?
+<SYNC Start=281746><P Class=KRCC>
+&nbsp;
+<SYNC Start=282506><P Class=KRCC>
+그래
+<SYNC Start=283740><P Class=KRCC>
+&nbsp;
+<SYNC Start=284842><P Class=KRCC>
+이걸로 너와 이별이다
+<SYNC Start=287234><P Class=KRCC>
+&nbsp;
+<SYNC Start=287794><P Class=KRCC>
+간다
+<SYNC Start=289594><P Class=KRCC>
+&nbsp;
+<SYNC Start=294186><P Class=KRCC>
+이걸로 끝입니다
+<SYNC Start=296114><P Class=KRCC>
+&nbsp;
+<SYNC Start=306266><P Class=KRCC>
+잘 가라, 후배
+<SYNC Start=308410><P Class=KRCC>
+예, 잘 가십시오, 선배
+<SYNC Start=310834><P Class=KRCC>
+&nbsp;
+<SYNC Start=329627><P Class=KRCC>
+안 돼!
+<SYNC Start=331397><P Class=KRCC>
+&nbsp;
+<SYNC Start=338238><P Class=KRCC>
+너는 내가<br>
+있을 곳이라고 했잖아
+<SYNC Start=340950><P Class=KRCC>
+지는 건 싫어!
+<SYNC Start=342687><P Class=KRCC>
+아카츠키!
+<SYNC Start=345671><P Class=KRCC>
+&nbsp;
+<SYNC Start=351097><P Class=KRCC>
+하나 더!
+<SYNC Start=353328><P Class=KRCC>
+&nbsp;
+<SYNC Start=430414><P Class=KRCC>
+울어?
+<SYNC Start=432292><P Class=KRCC>
+&nbsp;
+<SYNC Start=450022><P Class=KRCC>
+<font color=yellow>Subtitle by 레이시스 -NO.452-<br>(http://reisis1464.blog.me/)
+<SYNC Start=454926><P Class=KRCC>
+&nbsp;
+<SYNC Start=461095><P Class=KRCC>
+이게 소문의 용사인가
+<SYNC Start=463902><P Class=KRCC>
+따분한 회의의<br>
+심심풀이치고는
+<SYNC Start=466558><P Class=KRCC>
+나쁘지 않은 여흥이었군
+<SYNC Start=469333><P Class=KRCC>
+예, 사실상
+<SYNC Start=471434><P Class=KRCC>
+고차원 생명체를<br>
+혼자서 쓰러트렸어
+<SYNC Start=474665><P Class=KRCC>
+마법을 못 쓰는 것도<br>
+걱정하지 않는 모양이고
+<SYNC Start=478057><P Class=KRCC>
+실력으로써도<br>
+나쁘지 않겠지
+<SYNC Start=480446><P Class=KRCC>
+하지만
+<SYNC Start=481653><P Class=KRCC>
+그래 봐야 상대는 인과율에<br>
+얽매인 가짜가 아닙니까
+<SYNC Start=486479><P Class=KRCC>
+뭐, 그런 형태에<br>
+불과한 고차원 생명체는
+<SYNC Start=489535><P Class=KRCC>
+영웅 놀이하는<br>
+아이에게라도 맡겨두면 돼
+<SYNC Start=492855><P Class=KRCC>
+우리의 목적은<br>
+그 정도의 것과는 차원이 달라
+<SYNC Start=496759><P Class=KRCC>
+세계의 이치를 관리하는<br>
+존재를 불러내 지배하는 것이니까
+<SYNC Start=501840><P Class=KRCC>
+바로 그것이지
+<SYNC Start=504120><P Class=KRCC>
+각국 바벨탑에 의한 지맥의<br>
+안정화는 순조롭게 진행되고 있어
+<SYNC Start=508937><P Class=KRCC>
+건설 중인 2기가 완성되면
+<SYNC Start=511248><P Class=KRCC>
+드디어 내 계획은<br>
+최종 단계다
+<SYNC Start=514136><P Class=KRCC>
+약속의 날까지<br>
+각자 준비를 게을리하지 마라
+<SYNC Start=517719><P Class=KRCC>
+주홍빛 황혼은 어쩌지?
+<SYNC Start=519727><P Class=KRCC>
+슬슬 해치워도 되는가?
+<SYNC Start=521631><P Class=KRCC>
+마음대로 해라
+<SYNC Start=523248><P Class=KRCC>
+우리의 계획을 방해하는 자는<br>
+전부 장애물로서 배제해도 상관없다
+<SYNC Start=528120><P Class=KRCC>
+하지만
+<SYNC Start=529351><P Class=KRCC>
+녀석들의 창설자
+<SYNC Start=531407><P Class=KRCC>
+그 남자만은 내가 처리한다
+<SYNC Start=533591><P Class=KRCC>
+아무도 손대지 마라
+<SYNC Start=535440><P Class=KRCC>
+그것은 내 먹이다
+<SYNC Start=537840><P Class=KRCC>
+&nbsp;
+<SYNC Start=542631><P Class=KRCC>
+본래라면 마법이 통하지 않는<br>
+고차원 생명체를 상처 입혔어
+<SYNC Start=547101><P Class=KRCC>
+세계의 이치를 담당하며<br>
+불가능을 가능으로 만드는 존재
+<SYNC Start=551694><P Class=KRCC>
+설마 이렇게 빨리<br>
+찬스가 돌아올 줄이야
+<SYNC Start=555390><P Class=KRCC>
+&nbsp;
+<SYNC Start=557683><P Class=KRCC>
+귀관
+<SYNC Start=559302><P Class=KRCC>&nbsp;
+<SYNC Start=559870><P Class=KRCC>
+미하일
+<SYNC Start=561313><P Class=KRCC>
+왜 네가 직접<br>
+손을 쓰지 않았지?
+<SYNC Start=564530><P Class=KRCC>
+&nbsp;
+<SYNC Start=566574><P Class=KRCC>
+그 고차원 생명체가 사용한<br>
+브레스의 파괴력은 낮지 않았어
+<SYNC Start=571979><P Class=KRCC>
+만약 직격을 맞았다면<br>
+바벨탑이라도 붕괴는 피할 수 없었겠지
+<SYNC Start=576987><P Class=KRCC>
+그렇게 되면 우리의 계획에<br>
+적지 않은 영향을 미쳤을 거다
+<SYNC Start=582253><P Class=KRCC>
+분명히 바벨의 빛을 쓰면
+<SYNC Start=584508><P Class=KRCC>
+당장에라도<br>
+문제는 해결됐겠죠
+<SYNC Start=587212><P Class=KRCC>
+하지만 동시에<br>
+반경 3km 부근도 소멸했을 겁니다
+<SYNC Start=591940><P Class=KRCC>
+게다가
+<SYNC Start=592996><P Class=KRCC>
+그 고차원 생명체의 주위에는
+<SYNC Start=595124><P Class=KRCC>
+아직 학생이<br>
+남아 있었으니까요
+<SYNC Start=597612><P Class=KRCC>
+저를 보좌하는<br>
+학생회 멤버도 말이죠
+<SYNC Start=600555><P Class=KRCC>
+&nbsp;
+<SYNC Start=601243><P Class=KRCC>
+내 계획의 실현은<br>
+모든 상황보다 우선돼야만 한다
+<SYNC Start=606747><P Class=KRCC>
+그 전에는 온갖<br>
+희생이 정당화된다
+<SYNC Start=609947><P Class=KRCC>
+그 희생 안에는
+<SYNC Start=612141><P Class=KRCC>
+남동생분도 포함돼 있나요?
+<SYNC Start=614948><P Class=KRCC>
+&nbsp;
+<SYNC Start=622363><P Class=KRCC>
+<font color=gray>결국 히카미 쿄야와는<br>
+못 싸우고 끝인가
+<SYNC Start=626303><P Class=KRCC>
+&nbsp;
+<SYNC Start=628022><P Class=KRCC>
+역시 여기 있었냐
+<SYNC Start=630368><P Class=KRCC>
+또 무슨 짓 저질렀냐, 앗키?
+<SYNC Start=632933><P Class=KRCC>
+부회장이<br>
+무서운 얼굴로 찾고 있었어
+<SYNC Start=636552><P Class=KRCC>
+&nbsp;
+<SYNC Start=637607><P Class=KRCC>
+빌린 상태였었지
+<SYNC Start=639863><P Class=KRCC>
+&nbsp;
+<SYNC Start=644888><P Class=KRCC>
+그래, 그래
+<SYNC Start=645960><P Class=KRCC>
+랭킹전 결과가 붙여져 있었어
+<SYNC Start=648231><P Class=KRCC>
+봤어?
+<SYNC Start=649208><P Class=KRCC>
+결과?
+<SYNC Start=650480><P Class=KRCC>
+결국 이틀째<br>
+이후는 중지됐다고
+<SYNC Start=653983><P Class=KRCC>
+시스템 트러블 이전만의<br>
+성적으로 평가했대
+<SYNC Start=657287><P Class=KRCC>
+그러면 조건은 똑같으니까
+<SYNC Start=659839><P Class=KRCC>
+덧붙여서 앗키 팀은 단독으로
+<SYNC Start=662287><P Class=KRCC>
+전원 A반 입성이래
+<SYNC Start=665271><P Class=KRCC>
+그래서 너는 어땠어?
+<SYNC Start=668015><P Class=KRCC>
+뭐, 어떻게든 된 정도지
+<SYNC Start=671008><P Class=KRCC>
+결국 너, 마지막까지<br>
+쫄랑쫄랑 돌아다녔구나
+<SYNC Start=674879><P Class=KRCC>
+무슨 소리야, 앗키?
+<SYNC Start=676928><P Class=KRCC>
+나는 너한테 오니즈카라는<br>
+녀석을 떠맡아서
+<SYNC Start=680303><P Class=KRCC>
+의료동까지 혼자서
+<SYNC Start=682231><P Class=KRCC>
+달리기 경주를 했다고
+<SYNC Start=684320><P Class=KRCC>
+거짓말하네
+<SYNC Start=685625><P Class=KRCC>
+가장 마지막에
+<SYNC Start=687167><P Class=KRCC>
+그 덩치의<br>
+움직임을 막은 쇠사슬
+<SYNC Start=690032><P Class=KRCC>
+그건 네 짓이잖아
+<SYNC Start=692719><P Class=KRCC>
+&nbsp;
+<SYNC Start=695255><P Class=KRCC>
+절대 안 들킬 거라고<br>
+생각했는데 말이야
+<SYNC Start=698102><P Class=KRCC>
+앗키의 문제 같아서<br>
+손댈 생각은 없었는데
+<SYNC Start=703054><P Class=KRCC>
+기분 상했어?
+<SYNC Start=704919><P Class=KRCC>
+아니
+<SYNC Start=706064><P Class=KRCC>
+어차피 결과는<br>
+똑같았을 테니까
+<SYNC Start=708584><P Class=KRCC>
+&nbsp;
+<SYNC Start=709360><P Class=KRCC>
+엄청난 자신감이네
+<SYNC Start=710975><P Class=KRCC>
+야, 카이도
+<SYNC Start=712431><P Class=KRCC>
+너, 내 문제라고 생각해서<br>
+손 안 댔다고 했지?
+<SYNC Start=717575><P Class=KRCC>
+내 문제가 아니었다면<br>
+네가 그 드래곤을 어떻게든 했다는 거로군
+<SYNC Start=722613><P Class=KRCC>
+&nbsp;
+<SYNC Start=725559><P Class=KRCC>
+설마
+<SYNC Start=726751><P Class=KRCC>
+누가 그런 괴물이랑 싸우냐?
+<SYNC Start=729167><P Class=KRCC>
+나는 평온한 학원 생활을
+<SYNC Start=731246><P Class=KRCC>
+누구보다 사랑하는 남자라고
+<SYNC Start=733231><P Class=KRCC>
+게다가 랭킹전이<br>
+시작되기 전에 분명히 말했잖아
+<SYNC Start=736639><P Class=KRCC>
+결과가 보이는 승부는<br>
+안 하는 주의라고 말이야
+<SYNC Start=739903><P Class=KRCC>
+그럼 간다
+<SYNC Start=741543><P Class=KRCC>
+&nbsp;
+<SYNC Start=745670><P Class=KRCC>
+별일이네, 단장
+<SYNC Start=747175><P Class=KRCC>
+그쪽에서 연락하다니
+<SYNC Start=749592><P Class=KRCC>
+&nbsp;
+<SYNC Start=752175><P Class=KRCC>
+솔직히 상상 이상의 실력이었어
+<SYNC Start=754983><P Class=KRCC>
+괴물 같은 사이즈의<br>
+고차원 생명체를
+<SYNC Start=757471><P Class=KRCC>
+겨우 혼자서 때려눕혔으니까
+<SYNC Start=760103><P Class=KRCC>
+코쿤의 히카미 쿄야랑<br>
+좋은 승부가 되지 않을까?
+<SYNC Start=763407><P Class=KRCC>
+다만 그 녀석이 우리한테<br>
+들어오고 싶어하리라고는
+<SYNC Start=765843><P Class=KRCC>
+좀 생각하기 어렵지만 말이야
+<SYNC Start=767695><P Class=KRCC>
+&nbsp;
+<SYNC Start=769975><P Class=KRCC>
+알았어
+<SYNC Start=771215><P Class=KRCC>
+계속해서 감시를 속행할게
+<SYNC Start=774175><P Class=KRCC>
+알겠어
+<SYNC Start=775005><P Class=KRCC>
+그럼 또 어딘가의 황혼에서
+<SYNC Start=778119><P Class=KRCC>
+&nbsp;
+<SYNC Start=778922><P Class=KRCC>
+자, 드디어<br>
+세계가 재미있어졌군
+<SYNC Start=783148><P Class=KRCC>
+&nbsp;
+<SYNC Start=788586><P Class=KRCC>
+악룡과 계약을 맺은 자를<br>
+새로운 용사로 인정한 것뿐만이 아니라
+<SYNC Start=793181><P Class=KRCC>
+그 사실을 숨기고<br>
+중요 임무에 추천하다니
+<SYNC Start=797175><P Class=KRCC>
+제대로 설명을<br>
+해주실까요, 바람 폐하?
+<SYNC Start=801190><P Class=KRCC>
+상대는 마왕의 딸이다
+<SYNC Start=803271><P Class=KRCC>
+독으로 독을<br>
+제압하는 것에
+<SYNC Start=805207><P Class=KRCC>
+무슨 문제가 있는가
+<SYNC Start=807375><P Class=KRCC>
+그런 폭론이 통할 것이라고
+<SYNC Start=809638><P Class=KRCC>
+진심으로<br>
+생각하시는 것입니까?
+<SYNC Start=811823><P Class=KRCC>
+자하크의 힘을 빌리는 것의<br>
+대체 뭐가 그렇게 불만인 것이냐
+<SYNC Start=817159><P Class=KRCC>
+악룡의 힘이라 할지라도
+<SYNC Start=819189><P Class=KRCC>
+소유자가 올바르게<br>
+쓰면 아무 문제도 없다
+<SYNC Start=823370><P Class=KRCC>
+허울 좋은<br>
+말만 되풀이해서는
+<SYNC Start=825544><P Class=KRCC>
+사태는 아무것도<br>
+해결되지 않는다
+<SYNC Start=828322><P Class=KRCC>
+&nbsp;
+<SYNC Start=831052><P Class=KRCC>
+하지만 그러면
+<SYNC Start=832517><P Class=KRCC>
+필 버넷의 선악은
+<SYNC Start=834372><P Class=KRCC>
+어떻게 증명한다는 것이죠?
+<SYNC Start=837140><P Class=KRCC>
+그런 것은 뻔하지
+<SYNC Start=839317><P Class=KRCC>
+결과다
+<SYNC Start=841094><P Class=KRCC>
+여태까지 역사가 그러했듯이
+<SYNC Start=843306><P Class=KRCC>
+모든 것은 결과만이<br>
+증명할 수 있다
+<SYNC Start=846523><P Class=KRCC>
+마왕의 딸을<br>
+잡아 돌아오면
+<SYNC Start=849005><P Class=KRCC>
+필을 용사로서<br>
+의심하는 자는 없어지겠지
+<SYNC Start=852911><P Class=KRCC>
+훌륭한 생각이십니다<br>
+바람 폐하
+<SYNC Start=856137><P Class=KRCC>
+하지만 괜찮으시겠습니까?
+<SYNC Start=858401><P Class=KRCC>
+만약 그가 마왕의 딸을<br>
+데려오지 못한다면
+<SYNC Start=862584><P Class=KRCC>
+상관없다
+<SYNC Start=863784><P Class=KRCC>
+그때는 발언의<br>
+책임을 지고
+<SYNC Start=866544><P Class=KRCC>
+리스트 여왕의<br>
+직성이 풀릴 때까지
+<SYNC Start=868752><P Class=KRCC>
+얼마든지 무례를 사과하지
+<SYNC Start=871440><P Class=KRCC>
+&nbsp;
+<SYNC Start=872625><P Class=KRCC>
+무슨 일이야, 둘 다
+<SYNC Start=874000><P Class=KRCC>
+지금은 중요한 회의 중이야
+<SYNC Start=876056><P Class=KRCC>
+&nbsp;
+<SYNC Start=877361><P Class=KRCC>
+미안, 긴급한 사안이라
+<SYNC Start=879647><P Class=KRCC>
+보고할게
+<SYNC Start=881024><P Class=KRCC>
+지금 막 블랙 마운틴에 대한<br>
+정보가 들어왔어
+<SYNC Start=884769><P Class=KRCC>
+섬의 마수들이 갑자기<br>
+싸우기 시작했다고 해
+<SYNC Start=888320><P Class=KRCC>
+전문가의 말에 따르면
+<SYNC Start=889904><P Class=KRCC>
+아마도 산의 주인인<br>
+자하크가 죽음으로써
+<SYNC Start=893041><P Class=KRCC>
+지배하에서 해방돼
+<SYNC Start=894599><P Class=KRCC>
+질서가 붕괴한 것이라고<br>
+예측된다고 해
+<SYNC Start=898208><P Class=KRCC>
+바보 같은…
+<SYNC Start=899472><P Class=KRCC>
+저희의 조사 결과에<br>
+의의가 있다면
+<SYNC Start=902512><P Class=KRCC>
+디스디아에서도<br>
+조사해도 상관없습니다
+<SYNC Start=905696><P Class=KRCC>
+말도 안 된다
+<SYNC Start=906949><P Class=KRCC>
+필과 자하크가 패배하였다니
+<SYNC Start=910000><P Class=KRCC>
+그럼 어떡하면 좋을까나, 바람 공?
+<SYNC Start=914009><P Class=KRCC>
+&nbsp;
+<SYNC Start=916337><P Class=KRCC>
+아무래도 결과가<br>나온 모양이군
+<SYNC Start=919041><P Class=KRCC>
+이제 남은 것은<br>자네가 아카츠키를
+<SYNC Start=922537><P Class=KRCC>
+마왕을 쓰러트린 용사를<br>비하한 발언만이 남게 됐다만
+<SYNC Start=927441><P Class=KRCC>
+어쩔 텐가?
+<SYNC Start=929864><P Class=KRCC>
+&nbsp;
+<SYNC Start=933248><P Class=KRCC>
+<font color=gray>아카츠키
+<SYNC Start=934904><P Class=KRCC>
+&nbsp;
+<SYNC Start=936888><P Class=KRCC>
+보고해야만 하는 게<br>하나 더 있어
+<SYNC Start=939960><P Class=KRCC>
+국경 근처에<br>주류해 있던
+<SYNC Start=941952><P Class=KRCC>
+우리와 디스디아의<br>혼성 부대가
+<SYNC Start=944184><P Class=KRCC>
+괴멸당했어
+<SYNC Start=946160><P Class=KRCC>
+&nbsp;
+<SYNC Start=947600><P Class=KRCC>
+보고에 의하면
+<SYNC Start=948793><P Class=KRCC>
+야영 중에 돌연히<br>마족한테 습격받았다고 해
+<SYNC Start=952272><P Class=KRCC>
+&nbsp;
+<SYNC Start=961000><P Class=KRCC>
+고마워
+<SYNC Start=962456><P Class=KRCC>
+나와 그를 도와줘서
+<SYNC Start=965784><P Class=KRCC>
+정말, 감기 걸린다고
+<SYNC Start=968569><P Class=KRCC>
+&nbsp;
+<SYNC Start=973136><P Class=KRCC>
+치사해
+<SYNC Start=974656><P Class=KRCC>
+자는 척을 하다니
+<SYNC Start=976576><P Class=KRCC>
+&nbsp;
+<SYNC Start=980361><P Class=KRCC>
+제36 기병대
+<SYNC Start=982065><P Class=KRCC>
+출격 준비 완료했습니다
+<SYNC Start=985056><P Class=KRCC>
+마도사 대군 출격 준비 완료
+<SYNC Start=988080><P Class=KRCC>
+서둘러라
+<SYNC Start=988985><P Class=KRCC>
+마족은 기다려주지 않는다!
+<SYNC Start=991661><P Class=KRCC>
+&nbsp;
+<SYNC Start=993412><P Class=KRCC>
+그날 내가 한 말을 잊지 마
+<SYNC Start=996642><P Class=KRCC>
+만약 무슨 일 있으면 날 불러
+<SYNC Start=999130><P Class=KRCC>
+네가 믿어준다면
+<SYNC Start=1001050><P Class=KRCC>
+그때는 반드시 달려갈 테니까
+<SYNC Start=1003420><P Class=KRCC>
+&nbsp;
+<SYNC Start=1005669><P Class=KRCC>
+<font color=gray>아카츠키
+<SYNC Start=1007827><P Class=KRCC>
+&nbsp;
+<SYNC Start=1011820><P Class=KRCC>
+갈 수밖에 없나
+<SYNC Start=1013332><P Class=KRCC>
+&nbsp;
+<SYNC Start=1015908><P Class=KRCC>
+저기 있지
+<SYNC Start=1018532><P Class=KRCC>
+좀 길어질지도 모르는데
+<SYNC Start=1021547><P Class=KRCC>
+들어줄래?
+<SYNC Start=1024083><P Class=KRCC>
+왜 랭킹전이 그렇게 됐는지
+<SYNC Start=1028548><P Class=KRCC>
+내가 누구인지
+<SYNC Start=1031707><P Class=KRCC>
+&nbsp;
+<SYNC Start=1034331><P Class=KRCC>
+부드럽네
+<SYNC Start=1036027><P Class=KRCC>
+이렇게 분위기가 딱딱해서
+<SYNC Start=1037763><P Class=KRCC>
+분명 가슴도 분위기를 파악해서<br>
+조금은 딱딱해졌을 줄 알았는데
+<SYNC Start=1042396><P Class=KRCC>
+너야말로 조금은<br>
+분위기 파악 좀 해!
+<SYNC Start=1045772><P Class=KRCC>
+&nbsp;
+<SYNC Start=1046684><P Class=KRCC>
+어떤 분위기에서도<br>
+가슴은 부드러워
+<SYNC Start=1050195><P Class=KRCC>
+뭐야
+<SYNC Start=1051012><P Class=KRCC>
+목소리 제대로<br>
+낼 줄 알잖아
+<SYNC Start=1053179><P Class=KRCC>
+&nbsp;
+<SYNC Start=1054139><P Class=KRCC>
+쉽게 말할 수 없다는<br>
+네 마음은 알겠지만
+<SYNC Start=1058140><P Class=KRCC>
+이즈미와 반장은<br>
+네 이야기를 듣기로 결심하고
+<SYNC Start=1061539><P Class=KRCC>
+일부러 와줬다고
+<SYNC Start=1063678><P Class=KRCC>&nbsp;
+<SYNC Start=1065930><P Class=KRCC>
+미안
+<SYNC Start=1067314><P Class=KRCC>
+나…
+<SYNC Start=1068577><P Class=KRCC>
+사과할 필요는 없어
+<SYNC Start=1070620><P Class=KRCC>
+그리고 초조해할 필요도
+<SYNC Start=1072890><P Class=KRCC>
+미우가 스스로<br>
+말해주는 말을
+<SYNC Start=1075507><P Class=KRCC>
+나와 반장은<br>
+들으러 온 거니까
+<SYNC Start=1078108><P Class=KRCC>
+오사와 군, 마음은 고맙지만
+<SYNC Start=1080726><P Class=KRCC>
+재촉하지는 말아줘
+<SYNC Start=1083083><P Class=KRCC>
+그녀가 마음의<br>
+준비를 완벽히 할 때까지
+<SYNC Start=1086028><P Class=KRCC>
+우리는 기다리고 싶어
+<SYNC Start=1088268><P Class=KRCC>
+그래
+<SYNC Start=1089299><P Class=KRCC>
+그거 미안했네
+<SYNC Start=1091339><P Class=KRCC>
+&nbsp;
+<SYNC Start=1093515><P Class=KRCC>
+저기 있지
+<SYNC Start=1094835><P Class=KRCC>
+&nbsp;
+<SYNC Start=1099467><P Class=KRCC>
+잘됐구나
+<SYNC Start=1100835><P Class=KRCC>
+그럼…
+<SYNC Start=1102132><P Class=KRCC>
+&nbsp;
+<SYNC Start=1103955><P Class=KRCC>
+들어줘
+<SYNC Start=1105611><P Class=KRCC>
+나는 앞으로<br>
+볼일이 있어서
+<SYNC Start=1107252><P Class=KRCC>
+가야만 하는 곳이 있어
+<SYNC Start=1109604><P Class=KRCC>
+뭐, 하지만 가서<br>
+돌아오는 건 한순간이지만
+<SYNC Start=1113419><P Class=KRCC>
+한순간이라니…
+<SYNC Start=1114852><P Class=KRCC>
+설마 아레이저드로?
+<SYNC Start=1117243><P Class=KRCC>
+선수를 치겠어
+<SYNC Start=1119101><P Class=KRCC>
+네가 있는 곳이<br>
+들킨 게 너무 빨라
+<SYNC Start=1121779><P Class=KRCC>
+마치 이쪽 세계에<br>
+데려오는 것까지
+<SYNC Start=1124347><P Class=KRCC>
+누군가에게<br>
+계획된 것처럼 말이야
+<SYNC Start=1126676><P Class=KRCC>
+무슨 뜻이야?
+<SYNC Start=1128403><P Class=KRCC>
+아마도 저쪽에서 뭔가<br>
+귀찮은 일이 일어나 있어
+<SYNC Start=1131803><P Class=KRCC>
+그걸 확인하러 가겠어
+<SYNC Start=1133795><P Class=KRCC>
+&nbsp;
+<SYNC Start=1137027><P Class=KRCC>
+올 거야?
+<SYNC Start=1138403><P Class=KRCC>
+&nbsp;
+<SYNC Start=1142476><P Class=KRCC>
+너희…
+<SYNC Start=1144148><P Class=KRCC>
+&nbsp;
+<SYNC Start=1146211><P Class=KRCC>
+알겠어
+<SYNC Start=1147644><P Class=KRCC>
+&nbsp;
+<SYNC Start=1152396><P Class=KRCC>
+정말이지
+<SYNC Start=1153540><P Class=KRCC>
+왜 제가 이런 짓을…
+<SYNC Start=1155549><P Class=KRCC>
+이래선 마치<br>
+수상한 사람 같잖아요
+<SYNC Start=1158196><P Class=KRCC>
+&nbsp;
+<SYNC Start=1158884><P Class=KRCC>
+부회장이잖아?
+<SYNC Start=1160612><P Class=KRCC>
+&nbsp;
+<SYNC Start=1162124><P Class=KRCC>
+카이도 모토하루
+<SYNC Start=1164156><P Class=KRCC>
+어떻게 당신이 이곳에?
+<SYNC Start=1165868><P Class=KRCC>
+당신이야말로
+<SYNC Start=1167300><P Class=KRCC>
+앗키 집 앞에서<br>
+뭐 하고 있던 거야?
+<SYNC Start=1170469><P Class=KRCC>
+저는…
+<SYNC Start=1171956><P Class=KRCC>
+쿠보타 박사님이 맡기신<br>
+물건을 전해주러 온 것뿐이에요
+<SYNC Start=1175899><P Class=KRCC>
+&nbsp;
+<SYNC Start=1178307><P Class=KRCC>
+혹시 보고 있었나요?
+<SYNC Start=1181228><P Class=KRCC>
+뭐가?
+<SYNC Start=1182339><P Class=KRCC>
+아뇨
+<SYNC Start=1183323><P Class=KRCC>
+그렇겠죠
+<SYNC Start=1184643><P Class=KRCC>
+방금 왔으니까요
+<SYNC Start=1186396><P Class=KRCC>
+아니
+<SYNC Start=1187428><P Class=KRCC>
+30분 정도<br>
+보고 있었지만
+<SYNC Start=1189348><P Class=KRCC>
+그럼 말을<br>
+걸어주면 될 텐데…
+<SYNC Start=1192700><P Class=KRCC>
+아니
+<SYNC Start=1193668><P Class=KRCC>
+부회장이 수상한 사람처럼<br>
+구는 게 너무 재미있어서
+<SYNC Start=1197364><P Class=KRCC>
+당신…
+<SYNC Start=1198636><P Class=KRCC>
+못 본 걸로 해주는<br>
+섬세함은 없나요?
+<SYNC Start=1202332><P Class=KRCC>
+&nbsp;
+<SYNC Start=1206270><P Class=KRCC>
+설마
+<SYNC Start=1207533><P Class=KRCC>
+차원 이동?
+<SYNC Start=1209534><P Class=KRCC>
+그렇게 나왔냐
+<SYNC Start=1211119><P Class=KRCC>
+기다리세요!
+<SYNC Start=1212843><P Class=KRCC>
+&nbsp;
+<SYNC Start=1218205><P Class=KRCC>
+그래
+<SYNC Start=1219755><P Class=KRCC>
+천천히 호흡을 깊게 쉬면서
+<SYNC Start=1222260><P Class=KRCC>
+강하게 아레이저드의<br>
+정경을 떠올려
+<SYNC Start=1225973><P Class=KRCC>
+&nbsp;
+<SYNC Start=1228514><P Class=KRCC>
+좋아
+<SYNC Start=1230205><P Class=KRCC>
+당신들, 뭐 하는 건가요?
+<SYNC Start=1233486><P Class=KRCC>
+부회장님
+<SYNC Start=1235001><P Class=KRCC>
+게다가 카이도 군도?
+<SYNC Start=1236863><P Class=KRCC>
+&nbsp;
+<SYNC Start=1237903><P Class=KRCC>
+배웅하느라 수고한다
+<SYNC Start=1239688><P Class=KRCC>
+잠깐 다녀올게
+<SYNC Start=1241153><P Class=KRCC>
+&nbsp;
+<SYNC Start=1249736><P Class=KRCC>
+미안, 앗키
+<SYNC Start=1251288><P Class=KRCC>
+난생처음으로 말할게
+<SYNC Start=1253057><P Class=KRCC>
+손이 미끄러졌어
+<SYNC Start=1255192><P Class=KRCC>
+무슨 바보 같은 짓을…
+<SYNC Start=1257625><P Class=KRCC>
+&nbsp;
+<SYNC Start=1260089><P Class=KRCC>
+부회장까지
+<SYNC Start=1261720><P Class=KRCC>
+수렁이네
+<SYNC Start=1263169><P Class=KRCC>
+너희 말이야
+<SYNC Start=1264753><P Class=KRCC>
+소풍 가는 거 아니라고
+<SYNC Start=1267401><P Class=KRCC>
+&nbsp;
+<SYNC Start=1271777><P Class=KRCC>
+걱정하지 마
+<SYNC Start=1272848><P Class=KRCC>
+믿어
+<SYNC Start=1274160><P Class=KRCC>
+무슨 일이 있더라도<br>
+내가 어떻게든 할 테니까
+<SYNC Start=1277065><P Class=KRCC>
+&nbsp;
+<SYNC Start=1280577><P Class=KRCC>
+좋았어
+<SYNC Start=1281849><P Class=KRCC>
+가자
+<SYNC Start=1283697><P Class=KRCC>
+&nbsp;
+<SYNC Start=1314623><P Class=KRCC>
+<font color=#eb638b>戀のように目覺めたいの<br></font><font color=#f185b5>사랑처럼 눈 뜨고 싶어
+<SYNC Start=1320312><P Class=KRCC>
+<font color=#eb638b>ちゃんと全部目覺めさせて<br></font><font color=#f185b5>제대로 전부 눈 뜨게 해줘
+<SYNC Start=1326005><P Class=KRCC>
+<font color=#eb638b>いじらしく 言えないのが blue<br></font><font color=#f185b5>안쓰럽게 말 못 하는 게 우울해
+<SYNC Start=1331308><P Class=KRCC>
+<font color=#eb638b>冷たく扉閉じる<br></font><font color=#f185b5>차갑게 문을 닫아
+<SYNC Start=1336983><P Class=KRCC>
+<font color=#eb638b>違うよ<br></font><font color=#f185b5>아니야
+<SYNC Start=1338343><P Class=KRCC>
+<font color=#eb638b>辛いよ<br></font><font color=#f185b5>괴로워
+<SYNC Start=1339815><P Class=KRCC>
+<font color=#eb638b>馱目でも…<br></font><font color=#f185b5>안 돼도…
+<SYNC Start=1341951><P Class=KRCC>
+<font color=#eb638b>スキダヨ!<br></font><font color=#f185b5>좋아해!
+<SYNC Start=1345191><P Class=KRCC>
+<font color=#eb638b>my story あるstory<br></font><font color=#f185b5>내 이야기 어떤 이야기
+<SYNC Start=1348016><P Class=KRCC>
+<font color=#eb638b>お伽話で<br></font><font color=#f185b5>옛날이야기로
+<SYNC Start=1351103><P Class=KRCC>
+<font color=#eb638b>寢かしつけるほど<br></font><font color=#f185b5>재울 수 있을 정도로
+<SYNC Start=1353687><P Class=KRCC>
+<font color=#eb638b>子供じゃない<br></font><font color=#f185b5>어린애가 아냐
+<SYNC Start=1356616><P Class=KRCC>
+<font color=#eb638b>my story あるstory<br></font><font color=#f185b5>내 이야기 어떤 이야기
+<SYNC Start=1359392><P Class=KRCC>
+<font color=#eb638b>キミのことだけ 考える日びは<br></font><font color=#f185b5>너만을 생각하는 나날은
+<SYNC Start=1365311><P Class=KRCC>
+<font color=#eb638b>眠れないよ 會いたいよ<br></font><font color=#f185b5>잠 못 들어 만나고 싶어
+<SYNC Start=1367927><P Class=KRCC>
+<font color=#eb638b>I'm crazy もうcrazy<br></font><font color=#f185b5>난 미쳤어 정말 미쳤어
+<SYNC Start=1370856><P Class=KRCC>
+<font color=#eb638b>夢見ることで<br></font><font color=#f185b5>꿈꾸는 걸로
+<SYNC Start=1373872><P Class=KRCC>
+<font color=#eb638b>滿たされるなんてあり得ない<br></font><font color=#f185b5>만족한다는 건 있을 수 없어
+<SYNC Start=1379407><P Class=KRCC>
+<font color=#eb638b>I'm crazy もうcrazy<br></font><font color=#f185b5>난 미쳤어 정말 미쳤어
+<SYNC Start=1382151><P Class=KRCC>
+<font color=#eb638b>キミがほしいよ<br></font><font color=#f185b5>널 원해
+<SYNC Start=1385304><P Class=KRCC>
+<font color=#eb638b>捕まえてみてもスルリと逃げそう…<br></font><font color=#f185b5>잡아봐도 미끄러지듯 도망갈 것 같아…
+<SYNC Start=1394271><P Class=KRCC>
+<font color=#eb638b>No!!<br></font><font color=#f185b5>No!!
+<SYNC Start=1397080><P Class=KRCC>
+&nbsp;
+<SYNC Start=1401280><P Class=KRCC>&nbsp;
+</BODY>
+</SAMI>

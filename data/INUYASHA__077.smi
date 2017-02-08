@@ -1,0 +1,838 @@
+<SAMI>
+<HEAD>
+<TITLE>Netshow 3.0 - Close Captioning Sample</TITLE>
+<STYLE TYPE="text/css">
+<!--
+P { margin-left:8pt; margin-right:8pt; margin-bottom:2pt;
+    margin-top:2pt; font-size:12pt; text-align:left;
+    font-family:arial, sans-serif; font-weight:normal; color:white;
+    }
+.KRCC { Name:Korean; lang:kr-KR; SAMIType:CC; }
+#STDPrn { Name:Standard Print; }
+#LargePrn { Name:Large Print; font-size:20pt; }
+#SmallPrn { Name:Small Print; font-size:10pt; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<SYNC Start=200><P Class=KRCC>
+3rd Opening Song <font color="F2FB68"><br>「끝나지 않는 꿈」</font>
+<SYNC Start=3420><P Class=KRCC>&nbsp;
+<SYNC Start=5674><P Class=KRCC>
+<font color="F2FB68">心の中のジオラマの街は</font><br>마음속의 디오라마 거리는
+<SYNC Start=11705><P Class=KRCC>
+<font color="F2FB68">希望の光できらめいている</font><br>희망의 빛으로 빛나고 있어
+<SYNC Start=18125><P Class=KRCC>
+<font color="F2FB68">かげろうの翼で羽ばたいた夢は</font><br>잠자리 날개로 날개짓 했던 꿈은
+<SYNC Start=24502><P Class=KRCC>
+<font color="F2FB68">君と僕との探し物</font><br>너와 내가 찾아 헤메이던 것
+<SYNC Start=31397><P Class=KRCC>
+<font color="F2FB68">眞實はいつも瞳に潛んでいる 蒼く</font><br>진실은 언제나 그 눈동자 속에 푸르게 숨어있어
+<SYNC Start=47995><P Class=KRCC>
+<font color="F2FB68">僕らは何處まで行こう</font><br>우리들은 어디까지라도 갈 수 있어
+<SYNC Start=54329><P Class=KRCC>
+<font color="F2FB68">２人の未來今流離って</font><br>2사람의 미래는 지금 방황하고 있지만
+<SYNC Start=60517><P Class=KRCC>
+<font color="F2FB68">僕らは旅を續ける</font><br>우리들은 여행을 계속해
+<SYNC Start=66874><P Class=KRCC>
+<font color="F2FB68">永遠の在り處 終りない夢</font><br>영원이 있는 곳을 찾아 끝없는 꿈을 꾸며
+<SYNC Start=73123><P Class=KRCC>
+<font color="F2FB68">この手を離さず追いかけていきたい ずっと</font><br>이 손을 놓지 않고 쫓아가고 싶어 언제까지나
+<SYNC Start=83243><P Class=KRCC>&nbsp;
+<SYNC Start=86491><P Class=KRCC>
+이누야샤는 이하의 스폰서의 <br>제공으로 보내드립니다.
+<SYNC Start=91689><P Class=KRCC>&nbsp;
+<SYNC Start=102646><P Class=KRCC>
+그래 맞어
+<SYNC Start=103268><P Class=KRCC>
+우리는 효네꼬족이 채어간 카고메를 구하러 온거야
+<SYNC Start=107530><P Class=KRCC>&nbsp;
+<SYNC Start=109026><P Class=KRCC>
+코오가나 셋쇼마루도 나타나가지고
+<SYNC Start=111123><P Class=KRCC>
+효네꼬족과 싸워서
+<SYNC Start=112918><P Class=KRCC>&nbsp;
+<SYNC Start=114057><P Class=KRCC>
+그렇다면 우리 성으로 와라
+<SYNC Start=116840><P Class=KRCC>
+되찾으로 말이야
+<SYNC Start=118229><P Class=KRCC>&nbsp;
+<SYNC Start=118880><P Class=KRCC>
+기다릴께. 이누야샤
+<SYNC Start=120951><P Class=KRCC>&nbsp;
+<SYNC Start=127452><P Class=KRCC>
+셋쇼마루!?
+<SYNC Start=128654><P Class=KRCC>&nbsp;
+<SYNC Start=140011><P Class=KRCC>
+미로쿠!!
+<SYNC Start=141429><P Class=KRCC>
+상고!!
+<SYNC Start=142401><P Class=KRCC>&nbsp;
+<SYNC Start=143140><P Class=KRCC>
+무사했느냐? 싯포
+<SYNC Start=145043><P Class=KRCC>
+묘오가 할아범. 모두들 어디로 갔어?
+<SYNC Start=147528><P Class=KRCC>
+아마 고양이들 성으로 갔겠지
+<SYNC Start=150451><P Class=KRCC>&nbsp;
+<SYNC Start=151388><P Class=KRCC>
+얼른 비키지않으면 용서 안 하겠다
+<SYNC Start=154746><P Class=KRCC>
+지나갈 수 있다면 가봐
+<SYNC Start=157819><P Class=KRCC>
+네 놈
+<SYNC Start=158697><P Class=KRCC>&nbsp;
+<SYNC Start=162944><P Class=KRCC>
+효네꼬족과 두 엄니 칼
+<SYNC Start=166181><P Class=KRCC>&nbsp;
+<SYNC Start=171178><P Class=KRCC>
+뭐라고!?
+<SYNC Start=173610><P Class=KRCC>&nbsp;
+<SYNC Start=176822><P Class=KRCC>
+뭐야?
+<SYNC Start=178974><P Class=KRCC>
+이......
+<SYNC Start=180255><P Class=KRCC>&nbsp;
+<SYNC Start=189571><P Class=KRCC>
+비켜라.네 놈
+<SYNC Start=191256><P Class=KRCC>
+그렇게는 안 되지
+<SYNC Start=193244><P Class=KRCC>&nbsp;
+<SYNC Start=198612><P Class=KRCC>
+먹어라!!
+<SYNC Start=199490><P Class=KRCC>&nbsp;
+<SYNC Start=205858><P Class=KRCC>
+로오야칸이
+<SYNC Start=206891><P Class=KRCC>
+뭐야?! 저것 번개야?
+<SYNC Start=209275><P Class=KRCC>
+내 번개를 잘 피했구만
+<SYNC Start=212589><P Class=KRCC>&nbsp;
+<SYNC Start=214418><P Class=KRCC>
+(저 녀석 빠르지는 않지만 번개는 위험한데)
+<SYNC Start=218189><P Class=KRCC>&nbsp;
+<SYNC Start=221352><P Class=KRCC>
+내 불꽃을 받아라!
+<SYNC Start=223304><P Class=KRCC>&nbsp;
+<SYNC Start=246544><P Class=KRCC>
+언니
+<SYNC Start=247398><P Class=KRCC>
+생각외다
+<SYNC Start=249274><P Class=KRCC>
+전보다 약해졌다고 생각했었는데
+<SYNC Start=251710><P Class=KRCC>
+무슨 뜻이냐?
+<SYNC Start=253654><P Class=KRCC>
+그 팔 말이야
+<SYNC Start=255684><P Class=KRCC>
+네 팔을 베다니
+<SYNC Start=257524><P Class=KRCC>
+대체 누구 짓이니?
+<SYNC Start=259846><P Class=KRCC>&nbsp;
+<SYNC Start=275204><P Class=KRCC>
+연회가 시작할 시간이 이제 다 됐네
+<SYNC Start=277582><P Class=KRCC>
+천천히 와
+<SYNC Start=279490><P Class=KRCC>&nbsp;
+<SYNC Start=288964><P Class=KRCC>
+왜 그래?
+<SYNC Start=290070><P Class=KRCC>
+마음껏 싸우지 그래?
+<SYNC Start=291447><P Class=KRCC>
+어디서든지 덤벼라
+<SYNC Start=293945><P Class=KRCC>
+번개는 빠르지만
+<SYNC Start=295525><P Class=KRCC>
+그걸 발사하는 건 그 녀석이지
+<SYNC Start=297007><P Class=KRCC>&nbsp;
+<SYNC Start=297534><P Class=KRCC>
+자.
+<SYNC Start=298655><P Class=KRCC>&nbsp;
+<SYNC Start=299264><P Class=KRCC>
+간다
+<SYNC Start=300863><P Class=KRCC>
+늦어
+<SYNC Start=302029><P Class=KRCC>&nbsp;
+<SYNC Start=302904><P Class=KRCC>
+늦는건
+<SYNC Start=304505><P Class=KRCC>&nbsp;
+<SYNC Start=307005><P Class=KRCC>
+너야!!
+<SYNC Start=308176><P Class=KRCC>&nbsp;
+<SYNC Start=311443><P Class=KRCC>
+헹 이제 끝이야?
+<SYNC Start=313762><P Class=KRCC>
+모두들 물러가라
+<SYNC Start=316207><P Class=KRCC>&nbsp;
+<SYNC Start=320385><P Class=KRCC>
+헹 꼴이 좋군
+<SYNC Start=322907><P Class=KRCC>
+거기 쓰러져 있는 녀석은 어때?
+<SYNC Start=325272><P Class=KRCC>
+숨은 쉬고 있어
+<SYNC Start=326750><P Class=KRCC>
+기절했다기보다 자는 것 같어
+<SYNC Start=329575><P Class=KRCC>
+그럼 놔둬
+<SYNC Start=331738><P Class=KRCC>
+가자
+<SYNC Start=333582><P Class=KRCC>&nbsp;
+<SYNC Start=334030><P Class=KRCC>
+카고메는 거기에 있을거야
+<SYNC Start=336599><P Class=KRCC>&nbsp;
+<SYNC Start=344171><P Class=KRCC>
+젠장. 어떤게 진짜야?
+<SYNC Start=346034><P Class=KRCC>&nbsp;
+<SYNC Start=346817><P Class=KRCC>
+뭘 하고 있어? 이누야샤
+<SYNC Start=348692><P Class=KRCC>
+시끄러워
+<SYNC Start=350476><P Class=KRCC>
+정말 골치거리네
+<SYNC Start=351861><P Class=KRCC>&nbsp;
+<SYNC Start=358883><P Class=KRCC>
+쟤가 진짜야?
+<SYNC Start=360175><P Class=KRCC>
+응
+<SYNC Start=361262><P Class=KRCC>
+음.
+<SYNC Start=362061><P Class=KRCC>
+꽤 하는 군
+<SYNC Start=363559><P Class=KRCC>
+간사할 사에다 볼 견자로 자켄(邪見)
+<SYNC Start=365885><P Class=KRCC>
+나를 깔보지마
+<SYNC Start=368145><P Class=KRCC>
+정체만 나타난다면
+<SYNC Start=369575><P Class=KRCC>&nbsp;
+<SYNC Start=374380><P Class=KRCC>
+이제 성에서 싸우자
+<SYNC Start=376577><P Class=KRCC>&nbsp;
+<SYNC Start=379627><P Class=KRCC>
+시시하게 방해나 해가지고
+<SYNC Start=381582><P Class=KRCC>&nbsp;
+<SYNC Start=389664><P Class=KRCC>
+드디어 때가 왔습니다
+<SYNC Start=391652><P Class=KRCC>
+오야카타사마 이제 곧
+<SYNC Start=394274><P Class=KRCC>&nbsp;
+<SYNC Start=396739><P Class=KRCC>
+이제 곧 달이 중간으로 옵니다
+<SYNC Start=399037><P Class=KRCC>&nbsp;
+<SYNC Start=399568><P Class=KRCC>
+드디어 미운 이누야샤 일족을 죽이고
+<SYNC Start=402482><P Class=KRCC>
+우리 효네꼬족이 이 땅을 다스릴 때가 왔습니다
+<SYNC Start=406302><P Class=KRCC>&nbsp;
+<SYNC Start=418099><P Class=KRCC>
+(결계라)
+<SYNC Start=419484><P Class=KRCC>&nbsp;
+<SYNC Start=425804><P Class=KRCC>
+이제 곧 오야카타사마가 되살아날거야
+<SYNC Start=428532><P Class=KRCC>
+셋쇼마루
+<SYNC Start=429760><P Class=KRCC>
+각오해라
+<SYNC Start=431013><P Class=KRCC>&nbsp;
+<SYNC Start=451202><P Class=KRCC>
+오오. 오야카타님이
+<SYNC Start=452919><P Class=KRCC>&nbsp;
+<SYNC Start=455927><P Class=KRCC>
+내게 피를 살을 혼을 바쳐라
+<SYNC Start=460193><P Class=KRCC>&nbsp;
+<SYNC Start=468389><P Class=KRCC>
+이건?!
+<SYNC Start=469513><P Class=KRCC>
+고양이 들이 있어
+<SYNC Start=470828><P Class=KRCC>&nbsp;
+<SYNC Start=471410><P Class=KRCC>
+여기가 어디지?
+<SYNC Start=472466><P Class=KRCC>
+카고메~~!!
+<SYNC Start=474093><P Class=KRCC>&nbsp;
+<SYNC Start=475210><P Class=KRCC>
+아. 코오가군?!
+<SYNC Start=475643><P Class=KRCC>&nbsp;
+<SYNC Start=480416><P Class=KRCC>
+젠장. 뭐냐?
+<SYNC Start=482006><P Class=KRCC>&nbsp;
+<SYNC Start=483628><P Class=KRCC>
+오야카타사마의 결계를 너희들이 깰 수 있다고 생각을 하냐?
+<SYNC Start=487260><P Class=KRCC>
+거기서 산 제물들이 먹히는 걸 잘 봐
+<SYNC Start=490636><P Class=KRCC>&nbsp;
+<SYNC Start=494292><P Class=KRCC>
+우리를 먹을 생각이로구나
+<SYNC Start=496680><P Class=KRCC>&nbsp;
+<SYNC Start=503688><P Class=KRCC>
+법사님
+<SYNC Start=504569><P Class=KRCC>&nbsp;
+<SYNC Start=505103><P Class=KRCC>
+내게 피를....
+<SYNC Start=507263><P Class=KRCC>&nbsp;
+<SYNC Start=509176><P Class=KRCC>
+카고메!!!
+<SYNC Start=511274><P Class=KRCC>&nbsp;
+<SYNC Start=513619><P Class=KRCC>
+(뭐야? 저 철쇄아 색은)
+<SYNC Start=516689><P Class=KRCC>&nbsp;
+<SYNC Start=531021><P Class=KRCC>
+기다렸지?
+<SYNC Start=532685><P Class=KRCC>
+저 녀석 오야카타사마의 결계를?!
+<SYNC Start=535353><P Class=KRCC>&nbsp;
+<SYNC Start=535979><P Class=KRCC>
+놀랍다
+<SYNC Start=537430><P Class=KRCC>
+셋쇼마루님
+<SYNC Start=538654><P Class=KRCC>
+셋쇼마루님!!
+<SYNC Start=540916><P Class=KRCC>&nbsp;
+<SYNC Start=541875><P Class=KRCC>
+찾았습니다. 셋쇼마루님
+<SYNC Start=545391><P Class=KRCC>
+그건 그렇고.이누야샤 저 녀석
+<SYNC Start=546916><P Class=KRCC>
+철쇄아에 어느샌가 저런 힘을 가했다니 놀랍습니다
+<SYNC Start=552772><P Class=KRCC>&nbsp;
+<SYNC Start=553964><P Class=KRCC>
+이누야샤
+<SYNC Start=554956><P Class=KRCC>
+카고메. 괜찮아?
+<SYNC Start=556450><P Class=KRCC>
+응. 꼭 와줄거라고 믿었어
+<SYNC Start=559225><P Class=KRCC>&nbsp;
+<SYNC Start=561906><P Class=KRCC>
+이제 걱정 안 해도 된다. 카고메
+<SYNC Start=563843><P Class=KRCC>&nbsp;
+<SYNC Start=564411><P Class=KRCC>
+엥?
+<SYNC Start=565230><P Class=KRCC>
+코코코..코오가.자식!
+<SYNC Start=566695><P Class=KRCC>&nbsp;
+<SYNC Start=567176><P Class=KRCC>
+내게 피를......
+<SYNC Start=568364><P Class=KRCC>&nbsp;
+<SYNC Start=572036><P Class=KRCC>
+이누야샤!!
+<SYNC Start=573334><P Class=KRCC>
+안심해.카고메
+<SYNC Start=575115><P Class=KRCC>
+너를 구해주는건 쉬워
+<SYNC Start=577327><P Class=KRCC>
+그렇게는 안 돼!!코오가군
+<SYNC Start=579358><P Class=KRCC>&nbsp;
+<SYNC Start=588649><P Class=KRCC>
+저 녀석. 오야카타사마를!!
+<SYNC Start=590656><P Class=KRCC>&nbsp;
+<SYNC Start=591125><P Class=KRCC>
+이누야샤. 사혼의 조각은 저 녀석 목에 있어
+<SYNC Start=593666><P Class=KRCC>&nbsp;
+<SYNC Start=594281><P Class=KRCC>
+알았다
+<SYNC Start=595211><P Class=KRCC>
+되찾을거야
+<SYNC Start=596594><P Class=KRCC>
+응
+<SYNC Start=597402><P Class=KRCC>&nbsp;
+<SYNC Start=597839><P Class=KRCC>
+자.모두 함께 달려요
+<SYNC Start=600034><P Class=KRCC>&nbsp;
+<SYNC Start=600742><P Class=KRCC>
+이쪽으로!! 빨리!!
+<SYNC Start=601950><P Class=KRCC>&nbsp;
+<SYNC Start=604083><P Class=KRCC>
+너희들 산 제물은 놓치지마
+<SYNC Start=606494><P Class=KRCC>&nbsp;
+<SYNC Start=610219><P Class=KRCC>
+아아아..안돼....
+<SYNC Start=611226><P Class=KRCC>&nbsp;
+<SYNC Start=611715><P Class=KRCC>
+도망칠 수가 없어
+<SYNC Start=613432><P Class=KRCC>
+뭐야? 너희들
+<SYNC Start=615238><P Class=KRCC>
+우리는 소중한 산 제물이잖아
+<SYNC Start=617962><P Class=KRCC>
+죽이면 안 되는거잖아
+<SYNC Start=619997><P Class=KRCC>
+자 비켜!!
+<SYNC Start=621379><P Class=KRCC>
+대단하다. 누님
+<SYNC Start=622996><P Class=KRCC>
+과연 훌륭해
+<SYNC Start=624297><P Class=KRCC>
+자. 멍하게 있지말고 카고메를 보호해
+<SYNC Start=627527><P Class=KRCC>&nbsp;
+<SYNC Start=636750><P Class=KRCC>
+정신들었어요? 법사님
+<SYNC Start=638805><P Class=KRCC>&nbsp;
+<SYNC Start=640117><P Class=KRCC>
+미로쿠 나리~~
+<SYNC Start=641999><P Class=KRCC>
+상고!!
+<SYNC Start=643416><P Class=KRCC>
+고맙다
+<SYNC Start=644853><P Class=KRCC>
+자. 가자
+<SYNC Start=645911><P Class=KRCC>&nbsp;
+<SYNC Start=650951><P Class=KRCC>
+모두들 빨리.
+<SYNC Start=651777><P Class=KRCC>
+지금이야
+<SYNC Start=652723><P Class=KRCC>&nbsp;
+<SYNC Start=654309><P Class=KRCC>
+먹어라!!
+<SYNC Start=655668><P Class=KRCC>&nbsp;
+<SYNC Start=664753><P Class=KRCC>
+오야카타사마
+<SYNC Start=667125><P Class=KRCC>
+내게 피를.......영혼을...
+<SYNC Start=670399><P Class=KRCC>&nbsp;
+<SYNC Start=672350><P Class=KRCC>
+부디 잠깐 기다리세요
+<SYNC Start=675127><P Class=KRCC>
+미운 원수의 목을
+<SYNC Start=677493><P Class=KRCC>
+지금 오야카타사마 앞에 바쳐 드리지요
+<SYNC Start=680307><P Class=KRCC>&nbsp;
+<SYNC Start=681118><P Class=KRCC>
+켁. 오야카타사만지 뭔지 모르지만
+<SYNC Start=684244><P Class=KRCC>
+사람 피와 살로 되살아낸다니 용서 못해!!
+<SYNC Start=687149><P Class=KRCC>&nbsp;
+<SYNC Start=688331><P Class=KRCC>
+이렇게 된 이상 너를 먼저 해치우겠다
+<SYNC Start=692013><P Class=KRCC>&nbsp;
+<SYNC Start=692726><P Class=KRCC>
+덤벼라
+<SYNC Start=694051><P Class=KRCC>
+철쇄아의 희생물이 되라고
+<SYNC Start=696442><P Class=KRCC>&nbsp;
+<SYNC Start=707935><P Class=KRCC>
+아니.역시 훌륭합니다. 셋쇼마루님
+<SYNC Start=711411><P Class=KRCC>
+전투에 승리했습니다
+<SYNC Start=713044><P Class=KRCC>
+뭐가 승리...
+<SYNC Start=714797><P Class=KRCC>
+녀석들을 놓쳤어
+<SYNC Start=716589><P Class=KRCC>&nbsp;
+<SYNC Start=717680><P Class=KRCC>
+이 칼. 쓸모가 없어
+<SYNC Start=719552><P Class=KRCC>&nbsp;
+<SYNC Start=720105><P Class=KRCC>
+천생아는 치료의 칼
+<SYNC Start=722361><P Class=KRCC>
+적을 해치울 수가 없어
+<SYNC Start=724390><P Class=KRCC>&nbsp;
+<SYNC Start=725853><P Class=KRCC>
+아버님이 남기신 또 하나의 칼. 철쇄아
+<SYNC Start=730964><P Class=KRCC>&nbsp;
+<SYNC Start=734800><P Class=KRCC>
+바람의 상처!!
+<SYNC Start=736693><P Class=KRCC>&nbsp;
+<SYNC Start=737691><P Class=KRCC>
+그 철쇄아는 내가 쓸 수 없는 칼이라니
+<SYNC Start=742229><P Class=KRCC>&nbsp;
+<SYNC Start=748058><P Class=KRCC>
+잡았어
+<SYNC Start=749239><P Class=KRCC>
+붙잡고 있으면 그 칼을 쓸 수가 없지
+<SYNC Start=752895><P Class=KRCC>&nbsp;
+<SYNC Start=769171><P Class=KRCC>
+야. 너 뭘하는거야!!
+<SYNC Start=770784><P Class=KRCC>
+잠자코 있어라. 이누야샤.
+<SYNC Start=773363><P Class=KRCC>
+이 녀석들은 내 사냥감이다
+<SYNC Start=775940><P Class=KRCC>&nbsp;
+<SYNC Start=776424><P Class=KRCC>
+그렇게는 안 되지
+<SYNC Start=777906><P Class=KRCC>
+너야말로 가만히 있어
+<SYNC Start=779456><P Class=KRCC>
+끈덕지다
+<SYNC Start=780493><P Class=KRCC>&nbsp;
+<SYNC Start=785546><P Class=KRCC>
+네 놈. 방해하지마
+<SYNC Start=788496><P Class=KRCC>&nbsp;
+<SYNC Start=790698><P Class=KRCC>
+이럴 땐 힘을 합쳐서 싸우면 좋을텐데
+<SYNC Start=793769><P Class=KRCC>&nbsp;
+<SYNC Start=797344><P Class=KRCC>
+네 놈
+<SYNC Start=798198><P Class=KRCC>
+참견하지 말랬다
+<SYNC Start=800416><P Class=KRCC>
+시끄러워
+<SYNC Start=801789><P Class=KRCC>&nbsp;
+<SYNC Start=806185><P Class=KRCC>
+저 녀석들 이상해
+<SYNC Start=808200><P Class=KRCC>
+정말로 친형제야?
+<SYNC Start=810149><P Class=KRCC>
+무슨 생각으로 저러지?
+<SYNC Start=812666><P Class=KRCC>
+저쪽이 따로따로 온다면 우리는 힘을 합치자
+<SYNC Start=817488><P Class=KRCC>
+자신있는 기술로 한꺼번에 공격하는거야
+<SYNC Start=820453><P Class=KRCC>
+하자고
+<SYNC Start=821647><P Class=KRCC>
+그래
+<SYNC Start=822194><P Class=KRCC>&nbsp;
+<SYNC Start=827482><P Class=KRCC>
+내게 생명을...
+<SYNC Start=829367><P Class=KRCC>&nbsp;
+<SYNC Start=829988><P Class=KRCC>
+오야카타사마
+<SYNC Start=831222><P Class=KRCC>
+바로 저 녀석들의 생명을
+<SYNC Start=832898><P Class=KRCC>
+오야카타사마에게 바치겠습니다
+<SYNC Start=834924><P Class=KRCC>&nbsp;
+<SYNC Start=836022><P Class=KRCC>
+내게 영혼을....
+<SYNC Start=837601><P Class=KRCC>&nbsp;
+<SYNC Start=844413><P Class=KRCC>
+카랑!!
+<SYNC Start=845352><P Class=KRCC>&nbsp;
+<SYNC Start=853691><P Class=KRCC>
+오야카타사마....
+<SYNC Start=855249><P Class=KRCC>&nbsp;
+<SYNC Start=873575><P Class=KRCC>
+저 녀석
+<SYNC Start=874681><P Class=KRCC>
+동료 생명을 빼앗아 되살아났어
+<SYNC Start=878139><P Class=KRCC>&nbsp;
+<SYNC Start=881876><P Class=KRCC>
+이누 대장 아들들아
+<SYNC Start=884844><P Class=KRCC>
+너희들 생명도  모두 빨아들이겠다
+<SYNC Start=890422><P Class=KRCC>
+자막제작 yamamoyo hitomi<br>hitomi0312@simmani.com<br>수정 도와주신분들 감사요^^
+<SYNC Start=895781><P Class=KRCC>&nbsp;
+<SYNC Start=901244><P Class=KRCC>
+슝랑...카랑....슈랑....
+<SYNC Start=905535><P Class=KRCC>
+이런....
+<SYNC Start=907234><P Class=KRCC>&nbsp;
+<SYNC Start=912256><P Class=KRCC>
+개새끼들
+<SYNC Start=914412><P Class=KRCC>
+여러 해 쌓인 원한 풀겠다
+<SYNC Start=918491><P Class=KRCC>
+아직 잠이 덜 깼나보네
+<SYNC Start=921296><P Class=KRCC>
+깨워주마
+<SYNC Start=923236><P Class=KRCC>&nbsp;
+<SYNC Start=930935><P Class=KRCC>
+비켜라
+<SYNC Start=932143><P Class=KRCC>
+바람의 상처
+<SYNC Start=934055><P Class=KRCC>&nbsp;
+<SYNC Start=937999><P Class=KRCC>
+해치웠나?
+<SYNC Start=940176><P Class=KRCC>&nbsp;
+<SYNC Start=941075><P Class=KRCC>
+소용없다
+<SYNC Start=942857><P Class=KRCC>&nbsp;
+<SYNC Start=943646><P Class=KRCC>
+과연 아버지랑 싸웠을만하네
+<SYNC Start=947296><P Class=KRCC>
+핫. 그렇지만 내게는
+<SYNC Start=949818><P Class=KRCC>
+우쭐하지마. 이누야샤.
+<SYNC Start=952418><P Class=KRCC>
+니가 쓰러뜨린 류코쯔세이랑 같다고 생각하지마
+<SYNC Start=955925><P Class=KRCC>
+녀석은 지금 사혼의 조각의 힘을 빌리고 있다
+<SYNC Start=959384><P Class=KRCC>&nbsp;
+<SYNC Start=967564><P Class=KRCC>
+커다랑 고양이 요괴야
+<SYNC Start=970449><P Class=KRCC>&nbsp;
+<SYNC Start=973339><P Class=KRCC>
+저 녀석 되살아난거야?
+<SYNC Start=976281><P Class=KRCC>
+그러나 되살이기 위해서는 산 제물이 필요하다고 했었는데
+<SYNC Start=980365><P Class=KRCC>
+개새끼가 당한것 아냐?
+<SYNC Start=982713><P Class=KRCC>
+그럴리가 없어!
+<SYNC Start=984011><P Class=KRCC>&nbsp;
+<SYNC Start=989173><P Class=KRCC>
+죽어라
+<SYNC Start=990242><P Class=KRCC>&nbsp;
+<SYNC Start=994521><P Class=KRCC>
+앗. 셋쇼마루님
+<SYNC Start=996091><P Class=KRCC>&nbsp;
+<SYNC Start=1002320><P Class=KRCC>
+너도 내 피와 살이 되라
+<SYNC Start=1006312><P Class=KRCC>&nbsp;
+<SYNC Start=1011174><P Class=KRCC>
+셋쇼마루님
+<SYNC Start=1012755><P Class=KRCC>&nbsp;
+<SYNC Start=1013556><P Class=KRCC>
+셋쇼....마루..님...
+<SYNC Start=1015700><P Class=KRCC>&nbsp;
+<SYNC Start=1020147><P Class=KRCC>
+네 놈.....
+<SYNC Start=1021507><P Class=KRCC>&nbsp;
+<SYNC Start=1034328><P Class=KRCC>
+천생아...
+<SYNC Start=1035705><P Class=KRCC>&nbsp;
+<SYNC Start=1039740><P Class=KRCC>
+뽑으라는건가?
+<SYNC Start=1041399><P Class=KRCC>&nbsp;
+<SYNC Start=1045534><P Class=KRCC>
+(아버님..왜 당신이 이 천생아를 내게 남기신건지)
+<SYNC Start=1050352><P Class=KRCC>
+(아직도 모르겠습니다.)
+<SYNC Start=1052397><P Class=KRCC>
+(하지만..)
+<SYNC Start=1054743><P Class=KRCC>&nbsp;
+<SYNC Start=1067049><P Class=KRCC>
+아...저건...
+<SYNC Start=1068701><P Class=KRCC>&nbsp;
+<SYNC Start=1078220><P Class=KRCC>
+뭐야? 그 칼은?
+<SYNC Start=1080192><P Class=KRCC>
+아무 소용없다. 꼬마야
+<SYNC Start=1082125><P Class=KRCC>
+무딘 칼로구나
+<SYNC Start=1085251><P Class=KRCC>&nbsp;
+<SYNC Start=1086281><P Class=KRCC>
+죽어라
+<SYNC Start=1087682><P Class=KRCC>&nbsp;
+<SYNC Start=1091102><P Class=KRCC>
+어째서.....내 힘이...
+<SYNC Start=1093795><P Class=KRCC>&nbsp;
+<SYNC Start=1095619><P Class=KRCC>
+내 힘이...
+<SYNC Start=1097325><P Class=KRCC>&nbsp;
+<SYNC Start=1098089><P Class=KRCC>
+힘이 빠진다...
+<SYNC Start=1101181><P Class=KRCC>&nbsp;
+<SYNC Start=1106506><P Class=KRCC>
+꼬마. 뭘 했어?
+<SYNC Start=1108889><P Class=KRCC>&nbsp;
+<SYNC Start=1110058><P Class=KRCC>
+나머지는 너와 철쇄아가 할 일만 남았다
+<SYNC Start=1112498><P Class=KRCC>
+기다려라
+<SYNC Start=1113668><P Class=KRCC>
+나를...
+<SYNC Start=1116104><P Class=KRCC>
+내게 그 영혼을....
+<SYNC Start=1119299><P Class=KRCC>&nbsp;
+<SYNC Start=1120218><P Class=KRCC>
+바람의 상처!!
+<SYNC Start=1121788><P Class=KRCC>&nbsp;
+<SYNC Start=1135349><P Class=KRCC>
+내게 생명을...
+<SYNC Start=1138792><P Class=KRCC>&nbsp;
+<SYNC Start=1145413><P Class=KRCC>
+이건 돌려 받겠다
+<SYNC Start=1147258><P Class=KRCC>&nbsp;
+<SYNC Start=1156137><P Class=KRCC>
+누나
+<SYNC Start=1158078><P Class=KRCC>&nbsp;
+<SYNC Start=1161587><P Class=KRCC>
+너희들..
+<SYNC Start=1163372><P Class=KRCC>
+우리..어떻게 된거야?
+<SYNC Start=1165961><P Class=KRCC>
+오야카타사마에게 살해 당했다고 생각했었는데
+<SYNC Start=1169233><P Class=KRCC>
+대체 어째서...
+<SYNC Start=1170867><P Class=KRCC>
+그건 셋쇼마루님의 힘이다
+<SYNC Start=1173875><P Class=KRCC>
+엥?
+<SYNC Start=1174958><P Class=KRCC>
+너희들의 총대장이 빼앗은 목숨을
+<SYNC Start=1178261><P Class=KRCC>
+셋쇼마루님이 천쇄아로 해방시켜준거야
+<SYNC Start=1182109><P Class=KRCC>
+셋쇼마루가?
+<SYNC Start=1184706><P Class=KRCC>
+저 녀석
+<SYNC Start=1185759><P Class=KRCC>
+야. 고맙다는 인사도 못하냐?
+<SYNC Start=1188375><P Class=KRCC>
+그렇지요? 셋쇼마루님
+<SYNC Start=1189868><P Class=KRCC>
+오라? 셋쇼마루님?!
+<SYNC Start=1191961><P Class=KRCC>
+아. 정말 두고 가지 마세요
+<SYNC Start=1194856><P Class=KRCC>&nbsp;
+<SYNC Start=1197970><P Class=KRCC>
+자. 이제 어쩔래?
+<SYNC Start=1199914><P Class=KRCC>&nbsp;
+<SYNC Start=1200518><P Class=KRCC>
+아직 할거야?
+<SYNC Start=1202248><P Class=KRCC>&nbsp;
+<SYNC Start=1207401><P Class=KRCC>
+아니..우리는 서쪽으로 돌아가겠다
+<SYNC Start=1209900><P Class=KRCC>&nbsp;
+<SYNC Start=1210582><P Class=KRCC>
+언니?
+<SYNC Start=1211399><P Class=KRCC>&nbsp;
+<SYNC Start=1213697><P Class=KRCC>
+됐어.이제 원수를 갚을 이유도 없잖아
+<SYNC Start=1218905><P Class=KRCC>
+셋쇼마루에게도 그렇게 전해줘
+<SYNC Start=1221861><P Class=KRCC>
+우리는 그렇게 좋은 사이가 아냐
+<SYNC Start=1224576><P Class=KRCC>
+알고 있잖아
+<SYNC Start=1225814><P Class=KRCC>&nbsp;
+<SYNC Start=1227437><P Class=KRCC>
+마음이 내키면 전해줘
+<SYNC Start=1229253><P Class=KRCC>&nbsp;
+<SYNC Start=1231048><P Class=KRCC>
+앙
+<SYNC Start=1232247><P Class=KRCC>&nbsp;
+<SYNC Start=1237026><P Class=KRCC>
+정말 살았습니다
+<SYNC Start=1239296><P Class=KRCC>
+고양이들도 이제 나타나지 않는다니까 괜찮을 거에요
+<SYNC Start=1242824><P Class=KRCC>
+고맙습니다
+<SYNC Start=1244697><P Class=KRCC>
+덕분에 앞으로는 안심해서 이 마을에서 살 수 있습니다
+<SYNC Start=1248796><P Class=KRCC>
+그럼 저희들은 이만..
+<SYNC Start=1250917><P Class=KRCC>&nbsp;
+<SYNC Start=1252626><P Class=KRCC>
+아.....또 셋쇼마루님을 도울 수가 없었어..ㅠ.ㅠ
+<SYNC Start=1256177><P Class=KRCC>&nbsp;
+<SYNC Start=1257017><P Class=KRCC>
+이제와서 늦었지 뭐
+<SYNC Start=1258921><P Class=KRCC>
+뭐. 어쩔 수 없었으니까
+<SYNC Start=1261422><P Class=KRCC>&nbsp;
+<SYNC Start=1263295><P Class=KRCC>
+이  녀석들이 있으니까 인간들이 무서워한다는건 이해가 가는데
+<SYNC Start=1267881><P Class=KRCC>
+우리까지 여기 있어야한다는데 억울하네
+<SYNC Start=1271058><P Class=KRCC>
+정말요
+<SYNC Start=1272209><P Class=KRCC>&nbsp;
+<SYNC Start=1273307><P Class=KRCC>
+개새끼야. 뭐 감사의 선물이라도 받고 싶어서 그러냐?
+<SYNC Start=1277269><P Class=KRCC>
+뭐라고? 자식
+<SYNC Start=1278650><P Class=KRCC>
+그러고 보니 아직 안 갚은게 있는데
+<SYNC Start=1281248><P Class=KRCC>&nbsp;
+<SYNC Start=1282411><P Class=KRCC>
+언제라도 던벼라
+<SYNC Start=1284146><P Class=KRCC>
+후해하지마로
+<SYNC Start=1285830><P Class=KRCC>
+이누야샤. 오스와리!!
+<SYNC Start=1287769><P Class=KRCC>&nbsp;
+<SYNC Start=1289589><P Class=KRCC>
+참나. 뭐하고 있는거야
+<SYNC Start=1291772><P Class=KRCC>
+너는 말이야...
+<SYNC Start=1293929><P Class=KRCC>&nbsp;
+<SYNC Start=1294488><P Class=KRCC>
+산속~~♩
+<SYNC Start=1296622><P Class=KRCC>
+숲속~~♪
+<SYNC Start=1298857><P Class=KRCC>
+바람 속~~♩
+<SYNC Start=1301125><P Class=KRCC>
+꿈 속~~♬
+<SYNC Start=1303360><P Class=KRCC>
+셋쇼마루님 어디 있지?
+<SYNC Start=1307975><P Class=KRCC>
+자켄님을 데리고
+<SYNC Start=1312012><P Class=KRCC>
+링
+<SYNC Start=1312900><P Class=KRCC>&nbsp;
+<SYNC Start=1314297><P Class=KRCC>
+앗. 셋쇼마루님
+<SYNC Start=1315872><P Class=KRCC>
+가자
+<SYNC Start=1316887><P Class=KRCC>
+가자
+<SYNC Start=1318479><P Class=KRCC>
+네
+<SYNC Start=1320629><P Class=KRCC>
+나는 혼자 기다리지요~~~.♬
+<SYNC Start=1324646><P Class=KRCC>
+셋쇼마루님이 오시는 걸~~♬
+<SYNC Start=1329342><P Class=KRCC>&nbsp;
+<SYNC Start=1331205><P Class=KRCC>
+Every Heart-ミンナノキモチ  보아
+<SYNC Start=1332754><P Class=KRCC>&nbsp;
+<SYNC Start=1334104><P Class=KRCC>
+いくつ淚を流したら</font><br>얼마나 눈물을 흘리면
+<SYNC Start=1340875><P Class=KRCC>
+Every Heart 素直になれるだろう</font><br>Every Heart 솔직해 질 수 있을까?
+<SYNC Start=1347723><P Class=KRCC>
+誰に想いを傳えたら</font><br>누구에게 마음을 전해야
+<SYNC Start=1354443><P Class=KRCC>
+Every Heart 心滿たされるのだろう</font><br>Every Heart 이 마음을 채울 수 있을까?
+<SYNC Start=1360798><P Class=KRCC>
+長い長い夜におびえていた</font><br>기나긴 밤에 겁내고 있었어
+<SYNC Start=1367466><P Class=KRCC>
+遠い星に 祈ってた</font><br>머나먼 별에 기도했었어
+<SYNC Start=1374813><P Class=KRCC>
+めぐるめぐる時の中で</font><br>돌고 도는 시간 속에서
+<SYNC Start=1381499><P Class=KRCC>
+僕たちは愛を探している</font><br>우리들은 사랑을 찾고 있어
+<SYNC Start=1388250><P Class=KRCC>
+强く强くなりたいから</font><br>강하게 강하게 되고 싶으니까
+<SYNC Start=1394946><P Class=KRCC>
+今日も 高い空見上げている</font><br>오늘도 높은 하늘을 올려다보고 있어
+<SYNC Start=1401802><P Class=KRCC>
+めぐるめぐる時の中で</font><br>돌고 도는 시간 속에서
+<SYNC Start=1408508><P Class=KRCC>
+僕たちは 生きて何かを知る</font><br>우리들은 살아가며 무언가를 알아가
+<SYNC Start=1414937><P Class=KRCC>&nbsp;
+<SYNC Start=1416430><P Class=KRCC>
+이누야샤는 이하의 스폰서의</font><br>제공으로 보내드렸습니다.
+<SYNC Start=1421501><P Class=KRCC>&nbsp;
+<SYNC Start=1425840><P Class=KRCC>
+영화 이누야샤『거울 속(무겐조)무환성』
+<SYNC Start=1427966><P Class=KRCC>
+올해 예매권 캠페인은 2단계
+<SYNC Start=1430476><P Class=KRCC>
+어느쪽 선물을 GET할래?
+<SYNC Start=1432406><P Class=KRCC>
+제 일단 타카하시 루미꼬선생님이 그리신 포스터부 예매권은
+<SYNC Start=1435899><P Class=KRCC>
+이번주 토요일 발매
+<SYNC Start=1437494><P Class=KRCC>
+전국 극장에서 예매하세요
+<SYNC Start=1439604><P Class=KRCC>&nbsp;
+<SYNC Start=1440741><P Class=KRCC>
+상고짱이 영주님한테 프로포즈를 받았어!?
+<SYNC Start=1443150><P Class=KRCC>
+그렇습니다.
+<SYNC Start=1444089><P Class=KRCC>
+상고도 바람둥이입니다
+<SYNC Start=1445764><P Class=KRCC>
+어떻게 할거야? 상고짱
+<SYNC Start=1447478><P Class=KRCC>
+다음회 이누야샤
+<SYNC Start=1449009><P Class=KRCC>
+상고를 노리고 온니 유(only you)
+<SYNC Start=1450959><P Class=KRCC>&nbsp;
+<SYNC Start=1450957><P Class=KRCC>
+상고.내가 있잖아...
+<SYNC Start=1453122><P Class=KRCC>&nbsp;
+<SYNC Start=1455897><P Class=KRCC>
+이누야샤의 포인트
+<SYNC Start=1457514><P Class=KRCC>
+#77 오야카타사마 효네꼬족의 총대장. 이누야샤의 아버지에 패배하고
+<SYNC Start=1461149><P Class=KRCC>
+미이라가 되지만, 사혼의 조각 힘으로 부활
+<SYNC Start=1464028><P Class=KRCC>&nbsp;
+</BODY>
+</SAMI>

@@ -1,0 +1,3489 @@
+﻿<SAMI>
+<HEAD>
+<TITLE>http://uzys.net Uzys SRT converter</TITLE>
+<STYLE TYPE="text/css">
+<!--
+P { margin-left:2pt; margin-right:2pt; margin-bottom:1pt;
+    margin-top:1pt; font-size:20pt; text-align:center;
+    font-family:Arial, Sans-serif; font-weight:bold; color:white;
+    }
+.KRCC { Name:Korean; lang:ko-KR; SAMIType:CC; }
+.ENCC {Name: English; lang:en-US; SAMI_TYPE: CC;}-->
+</STYLE>
+<!--
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+-->
+<!--
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+-->
+</HEAD>
+<BODY>
+<SYNC Start=9914><P Class=KRCC>
+(brakes hiss)
+<SYNC Start=11914><P Class=KRCC>&nbsp;
+<SYNC Start=20141><P Class=KRCC>
+(car approaching)
+<SYNC Start=22141><P Class=KRCC>&nbsp;
+<SYNC Start=42697><P Class=KRCC>
+(silenced gunshot)
+<SYNC Start=44030><P Class=KRCC>&nbsp;
+<SYNC Start=46668><P Class=KRCC>
+(knocking)
+<SYNC Start=47746><P Class=KRCC>&nbsp;
+<SYNC Start=47777><P Class=KRCC>
+Martin: General Arsanov,<br>it's Dmitry Petrovich.
+<SYNC Start=50369><P Class=KRCC>&nbsp;
+<SYNC Start=52507><P Class=KRCC>
+(gun clicks)
+<SYNC Start=54757><P Class=KRCC>&nbsp;
+<SYNC Start=58012><P Class=KRCC>
+What's happening?
+<SYNC Start=59530><P Class=KRCC>&nbsp;
+<SYNC Start=59687><P Class=KRCC>
+American cop tried to stop truck<br>a few kilometers back.
+<SYNC Start=62381><P Class=KRCC>&nbsp;
+<SYNC Start=62383><P Class=KRCC>
+He shot Musa, but Musa was brave,
+<SYNC Start=64434><P Class=KRCC>&nbsp;
+<SYNC Start=64469><P Class=KRCC>
+kept driving to protect you.
+<SYNC Start=66219><P Class=KRCC>&nbsp;
+<SYNC Start=66221><P Class=KRCC>
+- So why do we stop?<br>- Cop shot tires.
+<SYNC Start=68438><P Class=KRCC>&nbsp;
+<SYNC Start=68473><P Class=KRCC>
+Musa stopped to fix, but he was too hurt.
+<SYNC Start=71524><P Class=KRCC>&nbsp;
+<SYNC Start=71559><P Class=KRCC>
+He's dead.
+<SYNC Start=72692><P Class=KRCC>&nbsp;
+<SYNC Start=74612><P Class=KRCC>
+And you are not hurt at all, yeah?
+<SYNC Start=77563><P Class=KRCC>&nbsp;
+<SYNC Start=77615><P Class=KRCC>
+I stay behind, shoot cop.
+<SYNC Start=79565><P Class=KRCC>&nbsp;
+<SYNC Start=79617><P Class=KRCC>
+Take his car, catch up to you.
+<SYNC Start=81651><P Class=KRCC>&nbsp;
+<SYNC Start=81703><P Class=KRCC>
+Maybe you are lying.
+<SYNC Start=84070><P Class=KRCC>&nbsp;
+<SYNC Start=84122><P Class=KRCC>
+It's business, General.
+<SYNC Start=86289><P Class=KRCC>&nbsp;
+<SYNC Start=86324><P Class=KRCC>
+Your cargo.
+<SYNC Start=87573><P Class=KRCC>&nbsp;
+<SYNC Start=87625><P Class=KRCC>
+I don't deliver, I don't get paid.
+<SYNC Start=89709><P Class=KRCC>&nbsp;
+<SYNC Start=89744><P Class=KRCC>
+Come on, let's go.
+<SYNC Start=91627><P Class=KRCC>&nbsp;
+<SYNC Start=92997><P Class=KRCC>
+Only room for one in trunk.
+<SYNC Start=95414><P Class=KRCC>&nbsp;
+<SYNC Start=95467><P Class=KRCC>
+Come.
+<SYNC Start=97083><P Class=KRCC>&nbsp;
+<SYNC Start=97085><P Class=KRCC>
+Or I leave you here for police to find you.
+<SYNC Start=99418><P Class=KRCC>&nbsp;
+<SYNC Start=121092><P Class=KRCC>
+(quietly): I see sign for petrol station,
+<SYNC Start=123442><P Class=KRCC>&nbsp;
+<SYNC Start=123444><P Class=KRCC>
+maybe two kilometer.
+<SYNC Start=124660><P Class=KRCC>&nbsp;
+<SYNC Start=124696><P Class=KRCC>
+Someone will meet you there.
+<SYNC Start=126696><P Class=KRCC>&nbsp;
+<SYNC Start=128032><P Class=KRCC>
+(engine starts)
+<SYNC Start=129949><P Class=KRCC>&nbsp;
+<SYNC Start=130001><P Class=KRCC>
+(tires screech)
+<SYNC Start=132001><P Class=KRCC>&nbsp;
+<SYNC Start=141083><P Class=KRCC>
+It's all gone to hell.
+<SYNC Start=142261><P Class=KRCC>&nbsp;
+<SYNC Start=142297><P Class=KRCC>
+Terrence: The package?
+<SYNC Start=143596><P Class=KRCC>&nbsp;
+<SYNC Start=143631><P Class=KRCC>
+I've got it, but you've<br>got a mess to clean up.
+<SYNC Start=145598><P Class=KRCC>&nbsp;
+<SYNC Start=145633><P Class=KRCC>
+What happened?
+<SYNC Start=146599><P Class=KRCC>&nbsp;
+<SYNC Start=146634><P Class=KRCC>
+Ballard got in the way.
+<SYNC Start=148134><P Class=KRCC>&nbsp;
+<SYNC Start=148186><P Class=KRCC>
+I shot him.
+<SYNC Start=149435><P Class=KRCC>&nbsp;
+<SYNC Start=149470><P Class=KRCC>
+Christ.
+<SYNC Start=151137><P Class=KRCC>&nbsp;
+<SYNC Start=151139><P Class=KRCC>
+- Is he dead?<br>- I don't know.
+<SYNC Start=152688><P Class=KRCC>&nbsp;
+<SYNC Start=152724><P Class=KRCC>
+But you got to send Steve to<br>pick up Ilyana and the girl.
+<SYNC Start=155191><P Class=KRCC>&nbsp;
+<SYNC Start=155226><P Class=KRCC>
+Petrol station three kilometers<br>west of Brno on Highway 13.
+<SYNC Start=159111><P Class=KRCC>&nbsp;
+<SYNC Start=159147><P Class=KRCC>
+You just shot an American federal agent.
+<SYNC Start=161280><P Class=KRCC>&nbsp;
+<SYNC Start=161316><P Class=KRCC>
+Everyone in Prague is looking for you.
+<SYNC Start=163232><P Class=KRCC>&nbsp;
+<SYNC Start=163284><P Class=KRCC>
+Complete your mission, deliver the package,
+<SYNC Start=165651><P Class=KRCC>&nbsp;
+<SYNC Start=165703><P Class=KRCC>
+and get yourself to the bloody exfil site.
+<SYNC Start=168654><P Class=KRCC>&nbsp;
+<SYNC Start=168706><P Class=KRCC>
+No, I'm not going anywhere<br>till I know you have the girls.
+<SYNC Start=171490><P Class=KRCC>&nbsp;
+<SYNC Start=171492><P Class=KRCC>
+Bring them to the safe<br>house. I'll meet you there.
+<SYNC Start=173826><P Class=KRCC>&nbsp;
+<SYNC Start=184263><P Class=KRCC>
+Curtis!
+<SYNC Start=185380><P Class=KRCC>&nbsp;
+<SYNC Start=187435><P Class=KRCC>
+Curtis!
+<SYNC Start=188174><P Class=KRCC>&nbsp;
+<SYNC Start=188226><P Class=KRCC>
+Oh, my God.
+<SYNC Start=189559><P Class=KRCC>&nbsp;
+<SYNC Start=189594><P Class=KRCC>
+Dmitry...
+<SYNC Start=190676><P Class=KRCC>&nbsp;
+<SYNC Start=192997><P Class=KRCC>
+took my car.
+<SYNC Start=194146><P Class=KRCC>&nbsp;
+<SYNC Start=194182><P Class=KRCC>
+It's all right.
+<SYNC Start=196015><P Class=KRCC>&nbsp;
+<SYNC Start=196067><P Class=KRCC>
+(groans)
+<SYNC Start=197450><P Class=KRCC>&nbsp;
+<SYNC Start=210698><P Class=KRCC>
+Curtis, stay with me.
+<SYNC Start=212114><P Class=KRCC>&nbsp;
+<SYNC Start=212166><P Class=KRCC>
+Are you with me?
+<SYNC Start=213532><P Class=KRCC>&nbsp;
+<SYNC Start=213534><P Class=KRCC>
+You're going to be okay.
+<SYNC Start=215451><P Class=KRCC>&nbsp;
+<SYNC Start=228683><P Class=KRCC>
+(guns clicking)
+<SYNC Start=231300><P Class=KRCC>&nbsp;
+<SYNC Start=246401><P Class=KRCC>
+(engines starting, doors closing)
+<SYNC Start=248367><P Class=KRCC>&nbsp;
+<SYNC Start=248405><P Class=KRCC>
+Synced & Corrected by - robtor-<br>www.addic7ed.com
+<SYNC Start=253631><P Class=KRCC>&nbsp;
+<SYNC Start=255880><P Class=KRCC>
+Gabi: Tamir Zakayev obtained
+<SYNC Start=257193><P Class=KRCC>&nbsp;
+<SYNC Start=257247><P Class=KRCC>
+work visas for three Russian men.
+<SYNC Start=259245><P Class=KRCC>&nbsp;
+<SYNC Start=259297><P Class=KRCC>
+We talked to two of<br>them, both from Chechnya.
+<SYNC Start=261080><P Class=KRCC>&nbsp;
+<SYNC Start=261132><P Class=KRCC>
+They were clean.
+<SYNC Start=262248><P Class=KRCC>&nbsp;
+<SYNC Start=262250><P Class=KRCC>
+But the third guy, Vahka Baiev,
+<SYNC Start=265217><P Class=KRCC>&nbsp;
+<SYNC Start=265253><P Class=KRCC>
+is still at large.
+<SYNC Start=266585><P Class=KRCC>&nbsp;
+<SYNC Start=266587><P Class=KRCC>
+They all worked at the Rezlev
+<SYNC Start=267753><P Class=KRCC>&nbsp;
+<SYNC Start=267805><P Class=KRCC>
+air conditioning factory in Liber.
+<SYNC Start=269588><P Class=KRCC>&nbsp;
+<SYNC Start=269590><P Class=KRCC>
+Vahka's coworkers say he<br>didn't speak a word of Russian
+<SYNC Start=272973><P Class=KRCC>&nbsp;
+<SYNC Start=272998><P Class=KRCC>
+or Chechen.
+<SYNC Start=273759><P Class=KRCC>&nbsp;
+<SYNC Start=273811><P Class=KRCC>
+Six weeks after he<br>started to work, he quit.
+<SYNC Start=276312><P Class=KRCC>&nbsp;
+<SYNC Start=276347><P Class=KRCC>
+No one's seen him since.
+<SYNC Start=277513><P Class=KRCC>&nbsp;
+<SYNC Start=277565><P Class=KRCC>
+Guy doesn't look Russian or Chechen.
+<SYNC Start=278931><P Class=KRCC>&nbsp;
+<SYNC Start=278933><P Class=KRCC>
+He looks Middle Eastern.
+<SYNC Start=280683><P Class=KRCC>&nbsp;
+<SYNC Start=280735><P Class=KRCC>
+I'll share the photo with our<br>Egyptian and Saudi liaisons,
+<SYNC Start=282768><P Class=KRCC>&nbsp;
+<SYNC Start=282820><P Class=KRCC>
+see if anyone knows him.
+<SYNC Start=284520><P Class=KRCC>&nbsp;
+<SYNC Start=315240><P Class=KRCC>
+Gabi...
+<SYNC Start=315943><P Class=KRCC>&nbsp;
+<SYNC Start=331849><P Class=KRCC>
+Malika: You must eat, Katya.
+<SYNC Start=333347><P Class=KRCC>&nbsp;
+<SYNC Start=333372><P Class=KRCC>
+You haven't touched anything for days.
+<SYNC Start=335740><P Class=KRCC>&nbsp;
+<SYNC Start=336396><P Class=KRCC>
+I'd rather starve to death<br>than marry that old man.
+<SYNC Start=338457><P Class=KRCC>&nbsp;
+<SYNC Start=341479><P Class=KRCC>
+How can you let this happen?
+<SYNC Start=342828><P Class=KRCC>&nbsp;
+<SYNC Start=348260><P Class=KRCC>
+I'm going to tell you a secret.
+<SYNC Start=350302><P Class=KRCC>&nbsp;
+<SYNC Start=352555><P Class=KRCC>
+You will not have to marry him.
+<SYNC Start=354306><P Class=KRCC>&nbsp;
+<SYNC Start=356071><P Class=KRCC>
+What do you mean?
+<SYNC Start=356696><P Class=KRCC>&nbsp;
+<SYNC Start=356876><P Class=KRCC>
+Your Uncle Tamir
+<SYNC Start=357760><P Class=KRCC>&nbsp;
+<SYNC Start=357812><P Class=KRCC>
+will come here from Prague,
+<SYNC Start=360229><P Class=KRCC>&nbsp;
+<SYNC Start=360264><P Class=KRCC>
+but the president will not return.
+<SYNC Start=364567><P Class=KRCC>&nbsp;
+<SYNC Start=365030><P Class=KRCC>
+Ever.
+<SYNC Start=365901><P Class=KRCC>&nbsp;
+<SYNC Start=372577><P Class=KRCC>
+♪
+<SYNC Start=374577><P Class=KRCC>&nbsp;
+<SYNC Start=393848><P Class=KRCC>
+(tires screech)
+<SYNC Start=395798><P Class=KRCC>&nbsp;
+<SYNC Start=405059><P Class=KRCC>
+(vibrates)
+<SYNC Start=406809><P Class=KRCC>&nbsp;
+<SYNC Start=408396><P Class=KRCC>
+On schedule. Track the signal.
+<SYNC Start=410404><P Class=KRCC>&nbsp;
+<SYNC Start=410568><P Class=KRCC>
+- On it.<br>- Could be Beslan.
+<SYNC Start=412232><P Class=KRCC>&nbsp;
+<SYNC Start=412334><P Class=KRCC>
+Could be anyone.
+<SYNC Start=413449><P Class=KRCC>&nbsp;
+<SYNC Start=413484><P Class=KRCC>
+Whoever it is doesn't know Tamir is dead.
+<SYNC Start=415568><P Class=KRCC>&nbsp;
+<SYNC Start=415620><P Class=KRCC>
+Got him.
+<SYNC Start=416819><P Class=KRCC>&nbsp;
+<SYNC Start=416871><P Class=KRCC>
+On the move near Republic Square.
+<SYNC Start=419038><P Class=KRCC>&nbsp;
+<SYNC Start=419073><P Class=KRCC>
+Call a police unit to meet us there.
+<SYNC Start=420739><P Class=KRCC>&nbsp;
+<SYNC Start=420741><P Class=KRCC>
+(woman speaks Czech over phone)
+<SYNC Start=422708><P Class=KRCC>&nbsp;
+<SYNC Start=422743><P Class=KRCC>
+(speaks Czech)
+<SYNC Start=425244><P Class=KRCC>&nbsp;
+<SYNC Start=425296><P Class=KRCC>
+(trolley bell dinging)
+<SYNC Start=427296><P Class=KRCC>&nbsp;
+<SYNC Start=432920><P Class=KRCC>
+(tires screeching)
+<SYNC Start=434920><P Class=KRCC>&nbsp;
+<SYNC Start=437308><P Class=KRCC>
+(trolley bell dinging)
+<SYNC Start=439091><P Class=KRCC>&nbsp;
+<SYNC Start=450738><P Class=KRCC>
+(electronic tone chimes)
+<SYNC Start=452855><P Class=KRCC>&nbsp;
+<SYNC Start=465404><P Class=KRCC>
+We're looking for a white<br>male, 20s, with a beard.
+<SYNC Start=467411><P Class=KRCC>&nbsp;
+<SYNC Start=468872><P Class=KRCC>
+What do you got?
+<SYNC Start=469588><P Class=KRCC>&nbsp;
+<SYNC Start=472426><P Class=KRCC>
+(trolley bell dinging)
+<SYNC Start=474093><P Class=KRCC>&nbsp;
+<SYNC Start=475747><P Class=KRCC>
+He's heading south, moving pretty fast.
+<SYNC Start=477596><P Class=KRCC>&nbsp;
+<SYNC Start=477632><P Class=KRCC>
+- Could be driving.<br>- He's heading south.
+<SYNC Start=479014><P Class=KRCC>&nbsp;
+<SYNC Start=480468><P Class=KRCC>
+The tram. The tram!
+<SYNC Start=481977><P Class=KRCC>&nbsp;
+<SYNC Start=482055><P Class=KRCC>
+- Stop it!<br>- (speaking Czech)
+<SYNC Start=483802><P Class=KRCC>&nbsp;
+<SYNC Start=483855><P Class=KRCC>
+(tires screech)
+<SYNC Start=485304><P Class=KRCC>&nbsp;
+<SYNC Start=487975><P Class=KRCC>
+(shouting in Czech)
+<SYNC Start=489808><P Class=KRCC>&nbsp;
+<SYNC Start=502487><P Class=KRCC>
+Call the phone.
+<SYNC Start=503229><P Class=KRCC>&nbsp;
+<SYNC Start=508546><P Class=KRCC>
+(cell phone ringing)
+<SYNC Start=511664><P Class=KRCC>&nbsp;
+<SYNC Start=516837><P Class=KRCC>
+(ringing continues)
+<SYNC Start=518587><P Class=KRCC>&nbsp;
+<SYNC Start=543498><P Class=KRCC>
+(siren wailing)
+<SYNC Start=547133><P Class=KRCC>&nbsp;
+<SYNC Start=569689><P Class=KRCC>
+Come.
+<SYNC Start=571106><P Class=KRCC>&nbsp;
+<SYNC Start=571158><P Class=KRCC>
+Ilyana: We were taken from our home
+<SYNC Start=572524><P Class=KRCC>&nbsp;
+<SYNC Start=572576><P Class=KRCC>
+by that man.
+<SYNC Start=575326><P Class=KRCC>&nbsp;
+<SYNC Start=575362><P Class=KRCC>
+He had gun.
+<SYNC Start=576911><P Class=KRCC>&nbsp;
+<SYNC Start=576947><P Class=KRCC>
+DALEK: How did you get away from him?
+<SYNC Start=578613><P Class=KRCC>&nbsp;
+<SYNC Start=578665><P Class=KRCC>
+Someone open truck.
+<SYNC Start=580665><P Class=KRCC>&nbsp;
+<SYNC Start=580700><P Class=KRCC>
+There was yelling and shooting.
+<SYNC Start=583918><P Class=KRCC>&nbsp;
+<SYNC Start=583954><P Class=KRCC>
+I'm afraid, so I keep Katya inside with me.
+<SYNC Start=586204><P Class=KRCC>&nbsp;
+<SYNC Start=586256><P Class=KRCC>
+When it's quiet again, we come out.
+<SYNC Start=588206><P Class=KRCC>&nbsp;
+<SYNC Start=588258><P Class=KRCC>
+I see that man is dead, so we run.
+<SYNC Start=590875><P Class=KRCC>&nbsp;
+<SYNC Start=590927><P Class=KRCC>
+This is horrible night.
+<SYNC Start=593044><P Class=KRCC>&nbsp;
+<SYNC Start=593096><P Class=KRCC>
+Can someone take us home please?
+<SYNC Start=595430><P Class=KRCC>&nbsp;
+<SYNC Start=597184><P Class=KRCC>
+(speaks Czech)
+<SYNC Start=598466><P Class=KRCC>&nbsp;
+<SYNC Start=609563><P Class=KRCC>
+We have a problem.
+<SYNC Start=611729><P Class=KRCC>&nbsp;
+<SYNC Start=613700><P Class=KRCC>
+We'll need you to come to the<br>police station in the morning
+<SYNC Start=616451><P Class=KRCC>&nbsp;
+<SYNC Start=616486><P Class=KRCC>
+to give a full statement.
+<SYNC Start=618736><P Class=KRCC>&nbsp;
+<SYNC Start=618738><P Class=KRCC>
+Of course.
+<SYNC Start=620155><P Class=KRCC>&nbsp;
+<SYNC Start=625579><P Class=KRCC>
+(kisses)
+<SYNC Start=626744><P Class=KRCC>&nbsp;
+<SYNC Start=640260><P Class=KRCC>
+Tamir: Ilyana.
+<SYNC Start=642260><P Class=KRCC>&nbsp;
+<SYNC Start=643814><P Class=KRCC>
+How are you here?
+<SYNC Start=645480><P Class=KRCC>&nbsp;
+<SYNC Start=645515><P Class=KRCC>
+Wh... where's General Arsanov?
+<SYNC Start=646904><P Class=KRCC>&nbsp;
+<SYNC Start=648193><P Class=KRCC>
+How dare you try to ship me<br>to Chechnya like piece of meat.
+<SYNC Start=651102><P Class=KRCC>&nbsp;
+<SYNC Start=651154><P Class=KRCC>
+General order it.
+<SYNC Start=653438><P Class=KRCC>&nbsp;
+<SYNC Start=653440><P Class=KRCC>
+I was carrying out his wishes.
+<SYNC Start=655273><P Class=KRCC>&nbsp;
+<SYNC Start=655275><P Class=KRCC>
+Doku would have wanted it.
+<SYNC Start=656210><P Class=KRCC>&nbsp;
+<SYNC Start=656256><P Class=KRCC>
+Doku is dead.
+<SYNC Start=657575><P Class=KRCC>&nbsp;
+<SYNC Start=657611><P Class=KRCC>
+This house belongs to me now.
+<SYNC Start=659661><P Class=KRCC>&nbsp;
+<SYNC Start=660389><P Class=KRCC>
+I want you out by morning.
+<SYNC Start=662163><P Class=KRCC>&nbsp;
+<SYNC Start=666536><P Class=KRCC>
+Great. Thanks.
+<SYNC Start=669321><P Class=KRCC>&nbsp;
+<SYNC Start=669360><P Class=KRCC>
+- (elevator bell dings)<br>- Fantastic. Okay.
+<SYNC Start=670586><P Class=KRCC>&nbsp;
+<SYNC Start=673164><P Class=KRCC>
+The FBI agent's in critical condition.
+<SYNC Start=676127><P Class=KRCC>&nbsp;
+<SYNC Start=676819><P Class=KRCC>
+Where are Ilyana and Katya?
+<SYNC Start=678037><P Class=KRCC>&nbsp;
+<SYNC Start=679397><P Class=KRCC>
+Czech police found them<br>before Steve got there.
+<SYNC Start=682383><P Class=KRCC>&nbsp;
+<SYNC Start=682435><P Class=KRCC>
+Detective interviewed<br>them; they're at home.
+<SYNC Start=684046><P Class=KRCC>&nbsp;
+<SYNC Start=684304><P Class=KRCC>
+I'm gonna get them.
+<SYNC Start=685514><P Class=KRCC>&nbsp;
+<SYNC Start=686866><P Class=KRCC>
+How?
+<SYNC Start=687639><P Class=KRCC>&nbsp;
+<SYNC Start=687968><P Class=KRCC>
+Dmitry!
+<SYNC Start=689686><P Class=KRCC>&nbsp;
+<SYNC Start=690227><P Class=KRCC>
+What happened? Ilyana will tell me nothing.
+<SYNC Start=691776><P Class=KRCC>&nbsp;
+<SYNC Start=691811><P Class=KRCC>
+We were ambushed, by Russians.
+<SYNC Start=694229><P Class=KRCC>&nbsp;
+<SYNC Start=694281><P Class=KRCC>
+Why did you make me transport girls?
+<SYNC Start=696281><P Class=KRCC>&nbsp;
+<SYNC Start=696316><P Class=KRCC>
+Screwed up everything.
+<SYNC Start=697532><P Class=KRCC>&nbsp;
+<SYNC Start=697567><P Class=KRCC>
+Crazy FBI guy looking for them.
+<SYNC Start=699317><P Class=KRCC>&nbsp;
+<SYNC Start=699369><P Class=KRCC>
+I had to shoot him.
+<SYNC Start=700535><P Class=KRCC>&nbsp;
+<SYNC Start=700570><P Class=KRCC>
+I am in big trouble.
+<SYNC Start=703371><P Class=KRCC>&nbsp;
+<SYNC Start=703406><P Class=KRCC>
+I have to leave Prague.
+<SYNC Start=704839><P Class=KRCC>&nbsp;
+<SYNC Start=705753><P Class=KRCC>
+Now.
+<SYNC Start=706541><P Class=KRCC>&nbsp;
+<SYNC Start=706576><P Class=KRCC>
+I need money.
+<SYNC Start=707659><P Class=KRCC>&nbsp;
+<SYNC Start=707711><P Class=KRCC>
+My trucks,
+<SYNC Start=708826><P Class=KRCC>&nbsp;
+<SYNC Start=708828><P Class=KRCC>
+my club... they are yours.
+<SYNC Start=710378><P Class=KRCC>&nbsp;
+<SYNC Start=710413><P Class=KRCC>
+Buy me out. I give you good price,
+<SYNC Start=711616><P Class=KRCC>&nbsp;
+<SYNC Start=711665><P Class=KRCC>
+but I need cash now.
+<SYNC Start=713498><P Class=KRCC>&nbsp;
+<SYNC Start=713500><P Class=KRCC>
+Let me see how much I have in the safe.
+<SYNC Start=715500><P Class=KRCC>&nbsp;
+<SYNC Start=718638><P Class=KRCC>
+(door opens, closes)
+<SYNC Start=721556><P Class=KRCC>&nbsp;
+<SYNC Start=726179><P Class=KRCC>
+Go to this address.
+<SYNC Start=727345><P Class=KRCC>&nbsp;
+<SYNC Start=727347><P Class=KRCC>
+6:00 this morning.
+<SYNC Start=729430><P Class=KRCC>&nbsp;
+<SYNC Start=796299><P Class=KRCC>
+(sighs)
+<SYNC Start=798249><P Class=KRCC>&nbsp;
+<SYNC Start=840691><P Class=KRCC>
+Welcome to Prague, Mr. President.
+<SYNC Start=842343><P Class=KRCC>&nbsp;
+<SYNC Start=842379><P Class=KRCC>
+I am honored to be at this crucial summit.
+<SYNC Start=844512><P Class=KRCC>&nbsp;
+<SYNC Start=844547><P Class=KRCC>
+The war against terror is a global fight.
+<SYNC Start=847215><P Class=KRCC>&nbsp;
+<SYNC Start=848237><P Class=KRCC>
+(reporters murmuring)
+<SYNC Start=850685><P Class=KRCC>&nbsp;
+<SYNC Start=850720><P Class=KRCC>
+Egyptian intelligence just I.D.'d our man.
+<SYNC Start=852854><P Class=KRCC>&nbsp;
+<SYNC Start=852889><P Class=KRCC>
+Real name is Omar Wasem.
+<SYNC Start=854389><P Class=KRCC>&nbsp;
+<SYNC Start=854441><P Class=KRCC>
+He's a bloody bomb maker.
+<SYNC Start=855523><P Class=KRCC>&nbsp;
+<SYNC Start=855558><P Class=KRCC>
+Who works at an air-conditioning factory
+<SYNC Start=857141><P Class=KRCC>&nbsp;
+<SYNC Start=857193><P Class=KRCC>
+that ships units all over Prague.
+<SYNC Start=858380><P Class=KRCC>&nbsp;
+<SYNC Start=858412><P Class=KRCC>
+He could've planted<br>explosives in any of them.
+<SYNC Start=860478><P Class=KRCC>&nbsp;
+<SYNC Start=862282><P Class=KRCC>
+(cash register clicking)
+<SYNC Start=864232><P Class=KRCC>&nbsp;
+<SYNC Start=864284><P Class=KRCC>
+(dialing)
+<SYNC Start=866984><P Class=KRCC>&nbsp;
+<SYNC Start=866986><P Class=KRCC>
+(line ringing)
+<SYNC Start=868986><P Class=KRCC>&nbsp;
+<SYNC Start=870185><P Class=KRCC>
+Malika: Hello?
+<SYNC Start=871083><P Class=KRCC>&nbsp;
+<SYNC Start=871122><P Class=KRCC>
+I think Tamir is dead.
+<SYNC Start=872623><P Class=KRCC>&nbsp;
+<SYNC Start=877410><P Class=KRCC>
+What happened?
+<SYNC Start=878663><P Class=KRCC>&nbsp;
+<SYNC Start=880633><P Class=KRCC>
+Tamir found out who killed his brother.
+<SYNC Start=883334><P Class=KRCC>&nbsp;
+<SYNC Start=883336><P Class=KRCC>
+Russian pig called Dmitry.
+<SYNC Start=885336><P Class=KRCC>&nbsp;
+<SYNC Start=885338><P Class=KRCC>
+So Tamir went to kill him.
+<SYNC Start=886838><P Class=KRCC>&nbsp;
+<SYNC Start=886890><P Class=KRCC>
+But Dmitry came after me.
+<SYNC Start=888556><P Class=KRCC>&nbsp;
+<SYNC Start=888591><P Class=KRCC>
+The only way Dmitry is<br>alive is if he killed Tamir.
+<SYNC Start=892260><P Class=KRCC>&nbsp;
+<SYNC Start=893346><P Class=KRCC>
+My God.
+<SYNC Start=894762><P Class=KRCC>&nbsp;
+<SYNC Start=894814><P Class=KRCC>
+What do we do?
+<SYNC Start=896347><P Class=KRCC>&nbsp;
+<SYNC Start=896349><P Class=KRCC>
+What do we do?
+<SYNC Start=897849><P Class=KRCC>&nbsp;
+<SYNC Start=900770><P Class=KRCC>
+President Arsanov wishes<br>to marry your cousin Katya.
+<SYNC Start=904989><P Class=KRCC>&nbsp;
+<SYNC Start=905483><P Class=KRCC>
+Katya?
+<SYNC Start=906407><P Class=KRCC>&nbsp;
+<SYNC Start=906788><P Class=KRCC>
+Why?
+<SYNC Start=907608><P Class=KRCC>&nbsp;
+<SYNC Start=907660><P Class=KRCC>
+He will take a second wife.
+<SYNC Start=909610><P Class=KRCC>&nbsp;
+<SYNC Start=910374><P Class=KRCC>
+Like the Prophet.
+<SYNC Start=911612><P Class=KRCC>&nbsp;
+<SYNC Start=911664><P Class=KRCC>
+If Tamir isn't here to protect us,
+<SYNC Start=914665><P Class=KRCC>&nbsp;
+<SYNC Start=914701><P Class=KRCC>
+this will keep us safe.
+<SYNC Start=917251><P Class=KRCC>&nbsp;
+<SYNC Start=917287><P Class=KRCC>
+Make us important people in Chechnya.
+<SYNC Start=919504><P Class=KRCC>&nbsp;
+<SYNC Start=919539><P Class=KRCC>
+Yes, but Arsanov won't be...
+<SYNC Start=921339><P Class=KRCC>&nbsp;
+<SYNC Start=921374><P Class=KRCC>
+Beslan.
+<SYNC Start=923257><P Class=KRCC>&nbsp;
+<SYNC Start=923293><P Class=KRCC>
+Listen to me.
+<SYNC Start=925760><P Class=KRCC>&nbsp;
+<SYNC Start=925795><P Class=KRCC>
+You must keep the president alive.
+<SYNC Start=929630><P Class=KRCC>&nbsp;
+<SYNC Start=929682><P Class=KRCC>
+Those men... they are already<br>on their way to kill him.
+<SYNC Start=932600><P Class=KRCC>&nbsp;
+<SYNC Start=932635><P Class=KRCC>
+You must stop them.
+<SYNC Start=934552><P Class=KRCC>&nbsp;
+<SYNC Start=935605><P Class=KRCC>
+How?
+<SYNC Start=937605><P Class=KRCC>&nbsp;
+<SYNC Start=947284><P Class=KRCC>
+I need to speak someone in charge.
+<SYNC Start=948900><P Class=KRCC>&nbsp;
+<SYNC Start=955487><P Class=KRCC>
+MAN: Yes? (speaks Czech)
+<SYNC Start=957432><P Class=KRCC>&nbsp;
+<SYNC Start=957721><P Class=KRCC>
+I have information
+<SYNC Start=958793><P Class=KRCC>&nbsp;
+<SYNC Start=958828><P Class=KRCC>
+about a plot to kill the<br>president of Chechnya.
+<SYNC Start=962246><P Class=KRCC>&nbsp;
+<SYNC Start=969146><P Class=KRCC>
+A list of all the air-conditioning units
+<SYNC Start=970813><P Class=KRCC>&nbsp;
+<SYNC Start=970848><P Class=KRCC>
+the Egyptian may have worked on.
+<SYNC Start=973515><P Class=KRCC>&nbsp;
+<SYNC Start=974401><P Class=KRCC>
+Christ, that's huge.
+<SYNC Start=975184><P Class=KRCC>&nbsp;
+<SYNC Start=975186><P Class=KRCC>
+They ship 50 units per week.
+<SYNC Start=977019><P Class=KRCC>&nbsp;
+<SYNC Start=977021><P Class=KRCC>
+(phone ringing)
+<SYNC Start=979021><P Class=KRCC>&nbsp;
+<SYNC Start=982513><P Class=KRCC>
+Miskova.
+<SYNC Start=983193><P Class=KRCC>&nbsp;
+<SYNC Start=993621><P Class=KRCC>
+Okay, thank you.
+<SYNC Start=996005><P Class=KRCC>&nbsp;
+<SYNC Start=996040><P Class=KRCC>
+That was Gabi's office.
+<SYNC Start=998173><P Class=KRCC>&nbsp;
+<SYNC Start=998209><P Class=KRCC>
+Beslan's turned himself in.
+<SYNC Start=999898><P Class=KRCC>&nbsp;
+<SYNC Start=1001882><P Class=KRCC>
+He can tell us where Kate is.
+<SYNC Start=1003132><P Class=KRCC>&nbsp;
+<SYNC Start=1003210><P Class=KRCC>
+Get me in to see him.
+<SYNC Start=1004597><P Class=KRCC>&nbsp;
+<SYNC Start=1004632><P Class=KRCC>
+Well, you're gonna have to wait your turn.
+<SYNC Start=1006186><P Class=KRCC>&nbsp;
+<SYNC Start=1006225><P Class=KRCC>
+Simon and Gabi are taking a crack at him.
+<SYNC Start=1007800><P Class=KRCC>&nbsp;
+<SYNC Start=1007852><P Class=KRCC>
+Well, call them back, Nina.
+<SYNC Start=1009018><P Class=KRCC>&nbsp;
+<SYNC Start=1009053><P Class=KRCC>
+Tell them to ask him about Kate.
+<SYNC Start=1011272><P Class=KRCC>&nbsp;
+<SYNC Start=1011459><P Class=KRCC>
+Martin, they will.
+<SYNC Start=1012221><P Class=KRCC>&nbsp;
+<SYNC Start=1012223><P Class=KRCC>
+But apparently, he's got a different story
+<SYNC Start=1014023><P Class=KRCC>&nbsp;
+<SYNC Start=1014058><P Class=KRCC>
+he wants to tell first.
+<SYNC Start=1015347><P Class=KRCC>&nbsp;
+<SYNC Start=1017121><P Class=KRCC>
+Beslan: My uncle Tamir asked me
+<SYNC Start=1018560><P Class=KRCC>&nbsp;
+<SYNC Start=1018562><P Class=KRCC>
+to help two men, Chechens,
+<SYNC Start=1020195><P Class=KRCC>&nbsp;
+<SYNC Start=1020231><P Class=KRCC>
+get into the country.
+<SYNC Start=1021730><P Class=KRCC>&nbsp;
+<SYNC Start=1021732><P Class=KRCC>
+They are workers, he tells me,
+<SYNC Start=1023649><P Class=KRCC>&nbsp;
+<SYNC Start=1023701><P Class=KRCC>
+coming to Prague to get jobs.
+<SYNC Start=1025618><P Class=KRCC>&nbsp;
+<SYNC Start=1025653><P Class=KRCC>
+I give them passports, that's all.
+<SYNC Start=1027736><P Class=KRCC>&nbsp;
+<SYNC Start=1027788><P Class=KRCC>
+But then I hear them talking.
+<SYNC Start=1030156><P Class=KRCC>&nbsp;
+<SYNC Start=1031258><P Class=KRCC>
+They say they are here<br>to kill President Arsanov.
+<SYNC Start=1034076><P Class=KRCC>&nbsp;
+<SYNC Start=1035169><P Class=KRCC>
+He's a great man.
+<SYNC Start=1036078><P Class=KRCC>&nbsp;
+<SYNC Start=1036849><P Class=KRCC>
+I knew I had to stop this.
+<SYNC Start=1038130><P Class=KRCC>&nbsp;
+<SYNC Start=1038896><P Class=KRCC>
+You must warn him.
+<SYNC Start=1040416><P Class=KRCC>&nbsp;
+<SYNC Start=1051646><P Class=KRCC>
+We thought Tamir was<br>planning a terror attack.
+<SYNC Start=1053345><P Class=KRCC>&nbsp;
+<SYNC Start=1053397><P Class=KRCC>
+It was actually an assassination.
+<SYNC Start=1054763><P Class=KRCC>&nbsp;
+<SYNC Start=1054815><P Class=KRCC>
+No, he's trying to get us
+<SYNC Start=1056098><P Class=KRCC>&nbsp;
+<SYNC Start=1056150><P Class=KRCC>
+to pull security away<br>from the signing ceremony.
+<SYNC Start=1058067><P Class=KRCC>&nbsp;
+<SYNC Start=1058102><P Class=KRCC>
+We call in the threat,<br>the police rush there,
+<SYNC Start=1059768><P Class=KRCC>&nbsp;
+<SYNC Start=1059770><P Class=KRCC>
+and the bomb goes off someplace else.
+<SYNC Start=1061442><P Class=KRCC>&nbsp;
+<SYNC Start=1061653><P Class=KRCC>
+Maybe.
+<SYNC Start=1062294><P Class=KRCC>&nbsp;
+<SYNC Start=1063567><P Class=KRCC>
+But we still have to notify<br>Arsanov's security team.
+<SYNC Start=1066191><P Class=KRCC>&nbsp;
+<SYNC Start=1068779><P Class=KRCC>
+Thank you for informing us.
+<SYNC Start=1070329><P Class=KRCC>&nbsp;
+<SYNC Start=1070364><P Class=KRCC>
+Chechnya is new land of opportunity.
+<SYNC Start=1072476><P Class=KRCC>&nbsp;
+<SYNC Start=1073890><P Class=KRCC>
+Excuse me, Mr. President.
+<SYNC Start=1075084><P Class=KRCC>&nbsp;
+<SYNC Start=1087414><P Class=KRCC>
+Excuse me, gentlemen.
+<SYNC Start=1088630><P Class=KRCC>&nbsp;
+<SYNC Start=1089688><P Class=KRCC>
+Simon: I'll let you in on a little secret.
+<SYNC Start=1091300><P Class=KRCC>&nbsp;
+<SYNC Start=1091302><P Class=KRCC>
+We've been watching you and Tamir
+<SYNC Start=1093185><P Class=KRCC>&nbsp;
+<SYNC Start=1093220><P Class=KRCC>
+for the last six months.
+<SYNC Start=1095637><P Class=KRCC>&nbsp;
+<SYNC Start=1095639><P Class=KRCC>
+We know you drove Kate Crawford from Paris.
+<SYNC Start=1097960><P Class=KRCC>&nbsp;
+<SYNC Start=1098242><P Class=KRCC>
+Where is she?
+<SYNC Start=1099257><P Class=KRCC>&nbsp;
+<SYNC Start=1100406><P Class=KRCC>
+I don't know.
+<SYNC Start=1101777><P Class=KRCC>&nbsp;
+<SYNC Start=1104281><P Class=KRCC>
+You're going to prison, Beslan.
+<SYNC Start=1106442><P Class=KRCC>&nbsp;
+<SYNC Start=1106481><P Class=KRCC>
+President will help me when he knows
+<SYNC Start=1108117><P Class=KRCC>&nbsp;
+<SYNC Start=1108152><P Class=KRCC>
+I'm the one who saved his life.
+<SYNC Start=1109622><P Class=KRCC>&nbsp;
+<SYNC Start=1109653><P Class=KRCC>
+Whatever Tamir was<br>planning, you were in on it.
+<SYNC Start=1111870><P Class=KRCC>&nbsp;
+<SYNC Start=1111906><P Class=KRCC>
+We'll make sure Arsanov knows that.
+<SYNC Start=1113455><P Class=KRCC>&nbsp;
+<SYNC Start=1113491><P Class=KRCC>
+He's not going to save you.
+<SYNC Start=1116241><P Class=KRCC>&nbsp;
+<SYNC Start=1116293><P Class=KRCC>
+He's going to have you killed.
+<SYNC Start=1118243><P Class=KRCC>&nbsp;
+<SYNC Start=1120755><P Class=KRCC>
+Gabi: You want to stay alive?
+<SYNC Start=1122081><P Class=KRCC>&nbsp;
+<SYNC Start=1123388><P Class=KRCC>
+We need details.
+<SYNC Start=1124388><P Class=KRCC>&nbsp;
+<SYNC Start=1124653><P Class=KRCC>
+Who are these men? What are they planning?
+<SYNC Start=1127263><P Class=KRCC>&nbsp;
+<SYNC Start=1127317><P Class=KRCC>
+When will it happen?
+<SYNC Start=1128387><P Class=KRCC>&nbsp;
+<SYNC Start=1133344><P Class=KRCC>
+Tamir asked me to get hotel room for them.
+<SYNC Start=1135894><P Class=KRCC>&nbsp;
+<SYNC Start=1137010><P Class=KRCC>
+And a vehicle.
+<SYNC Start=1137813><P Class=KRCC>&nbsp;
+<SYNC Start=1138776><P Class=KRCC>
+Well, what kind of vehicle?
+<SYNC Start=1139932><P Class=KRCC>&nbsp;
+<SYNC Start=1155143><P Class=KRCC>
+Gabi: This must be some kind of cover.
+<SYNC Start=1156448><P Class=KRCC>&nbsp;
+<SYNC Start=1156500><P Class=KRCC>
+(quietly): For what?
+<SYNC Start=1158083><P Class=KRCC>&nbsp;
+<SYNC Start=1158119><P Class=KRCC>
+An accident, an emergency.
+<SYNC Start=1159952><P Class=KRCC>&nbsp;
+<SYNC Start=1160004><P Class=KRCC>
+An ambulance wouldn't be out of place.
+<SYNC Start=1161954><P Class=KRCC>&nbsp;
+<SYNC Start=1162006><P Class=KRCC>
+Simon: The bomb maker could cause
+<SYNC Start=1163422><P Class=KRCC>&nbsp;
+<SYNC Start=1163457><P Class=KRCC>
+a pretty big emergency, couldn't he?
+<SYNC Start=1165207><P Class=KRCC>&nbsp;
+<SYNC Start=1165259><P Class=KRCC>
+So an explosion is<br>supposed to kill Arsanov.
+<SYNC Start=1167259><P Class=KRCC>&nbsp;
+<SYNC Start=1167294><P Class=KRCC>
+But if it doesn't...
+<SYNC Start=1169428><P Class=KRCC>&nbsp;
+<SYNC Start=1169463><P Class=KRCC>
+Simon: There are two killers<br>waiting for him in an ambulance
+<SYNC Start=1172131><P Class=KRCC>&nbsp;
+<SYNC Start=1172183><P Class=KRCC>
+as he evacuates the signing ceremony.
+<SYNC Start=1174133><P Class=KRCC>&nbsp;
+<SYNC Start=1174185><P Class=KRCC>
+Gabi: And what if the signing<br>ceremony is the big diversion,
+<SYNC Start=1176051><P Class=KRCC>&nbsp;
+<SYNC Start=1176103><P Class=KRCC>
+and they're going to kill<br>Arsanov somewhere else?
+<SYNC Start=1178270><P Class=KRCC>&nbsp;
+<SYNC Start=1178676><P Class=KRCC>
+Where, his motorcade?
+<SYNC Start=1179805><P Class=KRCC>&nbsp;
+<SYNC Start=1182348><P Class=KRCC>
+Or his hotel.
+<SYNC Start=1183275><P Class=KRCC>&nbsp;
+<SYNC Start=1191819><P Class=KRCC>
+(phone beeps)
+<SYNC Start=1193569><P Class=KRCC>&nbsp;
+<SYNC Start=1196290><P Class=KRCC>
+(crowd screaming)
+<SYNC Start=1198490><P Class=KRCC>&nbsp;
+<SYNC Start=1221932><P Class=KRCC>
+(tires screeching)
+<SYNC Start=1224016><P Class=KRCC>&nbsp;
+<SYNC Start=1226937><P Class=KRCC>
+(alarm ringing, people clamoring)
+<SYNC Start=1228270><P Class=KRCC>&nbsp;
+<SYNC Start=1230570><P Class=KRCC>
+(coughing)
+<SYNC Start=1231601><P Class=KRCC>&nbsp;
+<SYNC Start=1232328><P Class=KRCC>
+(sirens wailing)
+<SYNC Start=1233942><P Class=KRCC>&nbsp;
+<SYNC Start=1251128><P Class=KRCC>
+(phone ringing)
+<SYNC Start=1252294><P Class=KRCC>&nbsp;
+<SYNC Start=1252296><P Class=KRCC>
+What was your security<br>protocol for exiting the hotel?
+<SYNC Start=1255130><P Class=KRCC>&nbsp;
+<SYNC Start=1255132><P Class=KRCC>
+Leave through the loading dock.
+<SYNC Start=1256431><P Class=KRCC>&nbsp;
+<SYNC Start=1256467><P Class=KRCC>
+But we are already out.
+<SYNC Start=1257633><P Class=KRCC>&nbsp;
+<SYNC Start=1258519><P Class=KRCC>
+Why are you asking?
+<SYNC Start=1259518><P Class=KRCC>&nbsp;
+<SYNC Start=1259553><P Class=KRCC>
+Loading dock.
+<SYNC Start=1260552><P Class=KRCC>&nbsp;
+<SYNC Start=1262056><P Class=KRCC>
+(sirens wailing)
+<SYNC Start=1263856><P Class=KRCC>&nbsp;
+<SYNC Start=1276654><P Class=KRCC>
+(guns clicking)
+<SYNC Start=1278654><P Class=KRCC>&nbsp;
+<SYNC Start=1287164><P Class=KRCC>
+(tires screech)
+<SYNC Start=1289164><P Class=KRCC>&nbsp;
+<SYNC Start=1304315><P Class=KRCC>
+(speaking Czech)
+<SYNC Start=1306348><P Class=KRCC>&nbsp;
+<SYNC Start=1306350><P Class=KRCC>
+Go.
+<SYNC Start=1307399><P Class=KRCC>&nbsp;
+<SYNC Start=1307434><P Class=KRCC>
+Go!
+<SYNC Start=1308350><P Class=KRCC>&nbsp;
+<SYNC Start=1309353><P Class=KRCC>
+Police!
+<SYNC Start=1310569><P Class=KRCC>&nbsp;
+<SYNC Start=1310604><P Class=KRCC>
+Hands in the air! Hands in the air!
+<SYNC Start=1313071><P Class=KRCC>&nbsp;
+<SYNC Start=1321532><P Class=KRCC>
+(gunfire continues)
+<SYNC Start=1323532><P Class=KRCC>&nbsp;
+<SYNC Start=1342269><P Class=KRCC>
+(officers shouting)
+<SYNC Start=1343268><P Class=KRCC>&nbsp;
+<SYNC Start=1354357><P Class=KRCC>
+(officers shouting)
+<SYNC Start=1356685><P Class=KRCC>&nbsp;
+<SYNC Start=1369546><P Class=KRCC>
+(panting)
+<SYNC Start=1372331><P Class=KRCC>&nbsp;
+<SYNC Start=1386646><P Class=KRCC>
+Curtis.
+<SYNC Start=1387950><P Class=KRCC>&nbsp;
+<SYNC Start=1388349><P Class=KRCC>
+It's me. I'm here.
+<SYNC Start=1390732><P Class=KRCC>&nbsp;
+<SYNC Start=1392646><P Class=KRCC>
+(weakly): Did you catch him?
+<SYNC Start=1393841><P Class=KRCC>&nbsp;
+<SYNC Start=1395302><P Class=KRCC>
+Not yet.
+<SYNC Start=1395982><P Class=KRCC>&nbsp;
+<SYNC Start=1396849><P Class=KRCC>
+But we're looking.
+<SYNC Start=1397833><P Class=KRCC>&nbsp;
+<SYNC Start=1398982><P Class=KRCC>
+(groans softly)
+<SYNC Start=1399688><P Class=KRCC>&nbsp;
+<SYNC Start=1401469><P Class=KRCC>
+My leg is killing me.
+<SYNC Start=1403344><P Class=KRCC>&nbsp;
+<SYNC Start=1408887><P Class=KRCC>
+Curtis, the bullet destroyed the bone,
+<SYNC Start=1412410><P Class=KRCC>&nbsp;
+<SYNC Start=1413777><P Class=KRCC>
+cut through the arteries.
+<SYNC Start=1415611><P Class=KRCC>&nbsp;
+<SYNC Start=1417143><P Class=KRCC>
+The doctors had no choice.
+<SYNC Start=1418728><P Class=KRCC>&nbsp;
+<SYNC Start=1420680><P Class=KRCC>
+They had to remove your leg.
+<SYNC Start=1423731><P Class=KRCC>&nbsp;
+<SYNC Start=1426414><P Class=KRCC>
+No.
+<SYNC Start=1427154><P Class=KRCC>&nbsp;
+<SYNC Start=1428536><P Class=KRCC>
+No, I can feel it.
+<SYNC Start=1429818><P Class=KRCC>&nbsp;
+<SYNC Start=1440312><P Class=KRCC>
+They say it's called phantom pain.
+<SYNC Start=1442453><P Class=KRCC>&nbsp;
+<SYNC Start=1444992><P Class=KRCC>
+I'm... I'm so sorry.
+<SYNC Start=1448088><P Class=KRCC>&nbsp;
+<SYNC Start=1451918><P Class=KRCC>
+Please leave me alone.
+<SYNC Start=1453246><P Class=KRCC>&nbsp;
+<SYNC Start=1468449><P Class=KRCC>
+(elevator bell dings)
+<SYNC Start=1469261><P Class=KRCC>&nbsp;
+<SYNC Start=1485995><P Class=KRCC>
+(sighs)
+<SYNC Start=1487411><P Class=KRCC>&nbsp;
+<SYNC Start=1499776><P Class=KRCC>
+(knocking)
+<SYNC Start=1500378><P Class=KRCC>&nbsp;
+<SYNC Start=1502182><P Class=KRCC>
+I need to talk to Ilyana. Where is she?
+<SYNC Start=1504682><P Class=KRCC>&nbsp;
+<SYNC Start=1515825><P Class=KRCC>
+Mrs. Zakayeva?
+<SYNC Start=1517825><P Class=KRCC>&nbsp;
+<SYNC Start=1535861><P Class=KRCC>
+Dmitry sent me.
+<SYNC Start=1537031><P Class=KRCC>&nbsp;
+<SYNC Start=1551560><P Class=KRCC>
+Hello, Ilyana.
+<SYNC Start=1552695><P Class=KRCC>&nbsp;
+<SYNC Start=1553529><P Class=KRCC>
+Katya.
+<SYNC Start=1554895><P Class=KRCC>&nbsp;
+<SYNC Start=1554947><P Class=KRCC>
+I'm a friend of Dmitry's.
+<SYNC Start=1555742><P Class=KRCC>&nbsp;
+<SYNC Start=1555812><P Class=KRCC>
+My name's Terrence.
+<SYNC Start=1557125><P Class=KRCC>&nbsp;
+<SYNC Start=1558296><P Class=KRCC>
+He never mentioned you.
+<SYNC Start=1559570><P Class=KRCC>&nbsp;
+<SYNC Start=1559656><P Class=KRCC>
+I'm based in London.
+<SYNC Start=1561093><P Class=KRCC>&nbsp;
+<SYNC Start=1561187><P Class=KRCC>
+He's asked me to help get you there safely.
+<SYNC Start=1563983><P Class=KRCC>&nbsp;
+<SYNC Start=1564319><P Class=KRCC>
+My company's handling<br>all of your of travel...
+<SYNC Start=1566045><P Class=KRCC>&nbsp;
+<SYNC Start=1566070><P Class=KRCC>
+accommodation, passports.
+<SYNC Start=1567795><P Class=KRCC>&nbsp;
+<SYNC Start=1567897><P Class=KRCC>
+It's all taken care of.
+<SYNC Start=1568889><P Class=KRCC>&nbsp;
+<SYNC Start=1578627><P Class=KRCC>
+Simon: You took care of<br>everything, didn't you?
+<SYNC Start=1579846><P Class=KRCC>&nbsp;
+<SYNC Start=1580487><P Class=KRCC>
+Passports, the guns, the ambulance?
+<SYNC Start=1582530><P Class=KRCC>&nbsp;
+<SYNC Start=1582835><P Class=KRCC>
+Beslan: No, I told you,
+<SYNC Start=1583818><P Class=KRCC>&nbsp;
+<SYNC Start=1583857><P Class=KRCC>
+- not the guns.<br>- I'm not done here!
+<SYNC Start=1585631><P Class=KRCC>&nbsp;
+<SYNC Start=1586701><P Class=KRCC>
+- Where's Kate?!<br>- Easy!
+<SYNC Start=1588562><P Class=KRCC>&nbsp;
+<SYNC Start=1588597><P Class=KRCC>
+Martin: Huh?
+<SYNC Start=1589513><P Class=KRCC>&nbsp;
+<SYNC Start=1589565><P Class=KRCC>
+Who are you?
+<SYNC Start=1590927><P Class=KRCC>&nbsp;
+<SYNC Start=1590982><P Class=KRCC>
+Tell me where she is, or I<br>swear by Christ, I'll kill you.
+<SYNC Start=1595235><P Class=KRCC>&nbsp;
+<SYNC Start=1595271><P Class=KRCC>
+Get him off of me!
+<SYNC Start=1596372><P Class=KRCC>&nbsp;
+<SYNC Start=1596997><P Class=KRCC>
+Let's go get a cup of coffee.
+<SYNC Start=1598239><P Class=KRCC>&nbsp;
+<SYNC Start=1599608><P Class=KRCC>
+(panting)
+<SYNC Start=1601241><P Class=KRCC>&nbsp;
+<SYNC Start=1602816><P Class=KRCC>
+Nobody gives a shit what happens to you.
+<SYNC Start=1605199><P Class=KRCC>&nbsp;
+<SYNC Start=1605488><P Class=KRCC>
+Now tell me where she is.
+<SYNC Start=1607394><P Class=KRCC>&nbsp;
+<SYNC Start=1612457><P Class=KRCC>
+Chechnya.
+<SYNC Start=1613652><P Class=KRCC>&nbsp;
+<SYNC Start=1614871><P Class=KRCC>
+At the president's country house.
+<SYNC Start=1616949><P Class=KRCC>&nbsp;
+<SYNC Start=1622464><P Class=KRCC>
+But you'll never get her.
+<SYNC Start=1624848><P Class=KRCC>&nbsp;
+<SYNC Start=1626011><P Class=KRCC>
+She's going to marry the president.
+<SYNC Start=1628300><P Class=KRCC>&nbsp;
+<SYNC Start=1634706><P Class=KRCC>
+(woman speaking Russian over TV)
+<SYNC Start=1636560><P Class=KRCC>&nbsp;
+<SYNC Start=1643474><P Class=KRCC>
+(women murmuring)
+<SYNC Start=1645285><P Class=KRCC>&nbsp;
+<SYNC Start=1645951><P Class=KRCC>
+What?
+<SYNC Start=1646646><P Class=KRCC>&nbsp;
+<SYNC Start=1646787><P Class=KRCC>
+What are they saying?
+<SYNC Start=1647552><P Class=KRCC>&nbsp;
+<SYNC Start=1647638><P Class=KRCC>
+Someone tried to kill the president.
+<SYNC Start=1649927><P Class=KRCC>&nbsp;
+<SYNC Start=1649974><P Class=KRCC>
+But he survived, praise Allah.
+<SYNC Start=1651482><P Class=KRCC>&nbsp;
+<SYNC Start=1652747><P Class=KRCC>
+He's coming home.
+<SYNC Start=1653919><P Class=KRCC>&nbsp;
+<SYNC Start=1656380><P Class=KRCC>
+Leaving nine dead and 33 wounded.
+<SYNC Start=1659114><P Class=KRCC>&nbsp;
+<SYNC Start=1659450><P Class=KRCC>
+The cell phone believed to have been used
+<SYNC Start=1660778><P Class=KRCC>&nbsp;
+<SYNC Start=1660803><P Class=KRCC>
+to detonate the bomb was<br>found in the gunmen's vehicle,
+<SYNC Start=1663098><P Class=KRCC>&nbsp;
+<SYNC Start=1663278><P Class=KRCC>
+leading authorities to believe
+<SYNC Start=1664457><P Class=KRCC>&nbsp;
+<SYNC Start=1664676><P Class=KRCC>
+that the two Chechens acted alone.
+<SYNC Start=1666434><P Class=KRCC>&nbsp;
+<SYNC Start=1688038><P Class=KRCC>
+Gabi: Curtis?
+<SYNC Start=1689863><P Class=KRCC>&nbsp;
+<SYNC Start=1689915><P Class=KRCC>
+What are you doing?
+<SYNC Start=1691365><P Class=KRCC>&nbsp;
+<SYNC Start=1693354><P Class=KRCC>
+Uh...
+<SYNC Start=1694229><P Class=KRCC>&nbsp;
+<SYNC Start=1694541><P Class=KRCC>
+It's nothing. Just...
+<SYNC Start=1695924><P Class=KRCC>&nbsp;
+<SYNC Start=1703026><P Class=KRCC>
+Who's Hanson?
+<SYNC Start=1704143><P Class=KRCC>&nbsp;
+<SYNC Start=1708764><P Class=KRCC>
+He was my Mormon mission companion
+<SYNC Start=1711108><P Class=KRCC>&nbsp;
+<SYNC Start=1711756><P Class=KRCC>
+when I was a kid.
+<SYNC Start=1712623><P Class=KRCC>&nbsp;
+<SYNC Start=1716678><P Class=KRCC>
+He was murdered.
+<SYNC Start=1719142><P Class=KRCC>&nbsp;
+<SYNC Start=1722481><P Class=KRCC>
+I'm sorry.
+<SYNC Start=1723615><P Class=KRCC>&nbsp;
+<SYNC Start=1731459><P Class=KRCC>
+It was my fault.
+<SYNC Start=1732556><P Class=KRCC>&nbsp;
+<SYNC Start=1733900><P Class=KRCC>
+After Hanson died, I made a vow to God
+<SYNC Start=1738236><P Class=KRCC>&nbsp;
+<SYNC Start=1739236><P Class=KRCC>
+to become a cop and get justice.
+<SYNC Start=1743076><P Class=KRCC>&nbsp;
+<SYNC Start=1744670><P Class=KRCC>
+Fight the bad guys.
+<SYNC Start=1746670><P Class=KRCC>&nbsp;
+<SYNC Start=1748590><P Class=KRCC>
+It was a big joke, right?
+<SYNC Start=1751091><P Class=KRCC>&nbsp;
+<SYNC Start=1753442><P Class=KRCC>
+I think God would understand<br>if you let Dmitry go.
+<SYNC Start=1757184><P Class=KRCC>&nbsp;
+<SYNC Start=1759068><P Class=KRCC>
+'Cause if you keep trying to catch him...
+<SYNC Start=1761251><P Class=KRCC>&nbsp;
+<SYNC Start=1763978><P Class=KRCC>
+it's going to kill you.
+<SYNC Start=1765274><P Class=KRCC>&nbsp;
+<SYNC Start=1768616><P Class=KRCC>
+And I don't think God would want that.
+<SYNC Start=1772079><P Class=KRCC>&nbsp;
+<SYNC Start=1776661><P Class=KRCC>
+(women speaking Czech)
+<SYNC Start=1778418><P Class=KRCC>&nbsp;
+<SYNC Start=1783521><P Class=KRCC>
+(man speaking Czech<br>over TV, crowd murmuring)
+<SYNC Start=1786426><P Class=KRCC>&nbsp;
+<SYNC Start=1805490><P Class=KRCC>
+(gasps softly)
+<SYNC Start=1808565><P Class=KRCC>&nbsp;
+<SYNC Start=1823335><P Class=KRCC>
+You need to come home, Agent Ballard.
+<SYNC Start=1825020><P Class=KRCC>&nbsp;
+<SYNC Start=1825074><P Class=KRCC>
+I'm not going anywhere<br>until I find Petrovich.
+<SYNC Start=1827671><P Class=KRCC>&nbsp;
+<SYNC Start=1827706><P Class=KRCC>
+I need more resources, a bigger team...
+<SYNC Start=1829623><P Class=KRCC>&nbsp;
+<SYNC Start=1829625><P Class=KRCC>
+Have you been watching the news?
+<SYNC Start=1831291><P Class=KRCC>&nbsp;
+<SYNC Start=1831343><P Class=KRCC>
+Nobody gives a shit about
+<SYNC Start=1832626><P Class=KRCC>&nbsp;
+<SYNC Start=1832678><P Class=KRCC>
+Russian mobsters anymore, Curtis.
+<SYNC Start=1834761><P Class=KRCC>&nbsp;
+<SYNC Start=1834796><P Class=KRCC>
+(line clicks, dial tone hums)
+<SYNC Start=1836796><P Class=KRCC>&nbsp;
+<SYNC Start=1845103><P Class=KRCC>
+I brought lunch.
+<SYNC Start=1846369><P Class=KRCC>&nbsp;
+<SYNC Start=1846947><P Class=KRCC>
+An American hamburger place.
+<SYNC Start=1848692><P Class=KRCC>&nbsp;
+<SYNC Start=1848727><P Class=KRCC>
+Instead of hospital food.
+<SYNC Start=1850310><P Class=KRCC>&nbsp;
+<SYNC Start=1850312><P Class=KRCC>
+They ordered me back to D.C.
+<SYNC Start=1852279><P Class=KRCC>&nbsp;
+<SYNC Start=1853472><P Class=KRCC>
+Hmm.
+<SYNC Start=1854314><P Class=KRCC>&nbsp;
+<SYNC Start=1857355><P Class=KRCC>
+Since when does Agent Curtis Ballard
+<SYNC Start=1859369><P Class=KRCC>&nbsp;
+<SYNC Start=1859404><P Class=KRCC>
+follow orders?
+<SYNC Start=1860898><P Class=KRCC>&nbsp;
+<SYNC Start=1862155><P Class=KRCC>
+I have a friend who works at Interpol.
+<SYNC Start=1863952><P Class=KRCC>&nbsp;
+<SYNC Start=1864726><P Class=KRCC>
+Maybe you could get a job there,
+<SYNC Start=1865825><P Class=KRCC>&nbsp;
+<SYNC Start=1865827><P Class=KRCC>
+keep looking for Dmitry.
+<SYNC Start=1867377><P Class=KRCC>&nbsp;
+<SYNC Start=1868968><P Class=KRCC>
+Why do you keep coming here?
+<SYNC Start=1870630><P Class=KRCC>&nbsp;
+<SYNC Start=1871296><P Class=KRCC>
+Bringing me food, trying to cheer me up.
+<SYNC Start=1873166><P Class=KRCC>&nbsp;
+<SYNC Start=1873218><P Class=KRCC>
+I don't need your pity.
+<SYNC Start=1874668><P Class=KRCC>&nbsp;
+<SYNC Start=1880918><P Class=KRCC>
+You really don't get it, do you?
+<SYNC Start=1882475><P Class=KRCC>&nbsp;
+<SYNC Start=1885480><P Class=KRCC>
+I don't pity you, Curtis.
+<SYNC Start=1887480><P Class=KRCC>&nbsp;
+<SYNC Start=1899361><P Class=KRCC>
+I like you.
+<SYNC Start=1900164><P Class=KRCC>&nbsp;
+<SYNC Start=1920936><P Class=KRCC>
+Marry me, Gabi.
+<SYNC Start=1922215><P Class=KRCC>&nbsp;
+<SYNC Start=1922905><P Class=KRCC>
+What?
+<SYNC Start=1924267><P Class=KRCC>&nbsp;
+<SYNC Start=1924303><P Class=KRCC>
+I can stay here and get a job.
+<SYNC Start=1926269><P Class=KRCC>&nbsp;
+<SYNC Start=1926305><P Class=KRCC>
+At Interpol, fine, I don't care.
+<SYNC Start=1928221><P Class=KRCC>&nbsp;
+<SYNC Start=1928223><P Class=KRCC>
+We can start a family.
+<SYNC Start=1929805><P Class=KRCC>&nbsp;
+<SYNC Start=1931751><P Class=KRCC>
+(chuckles softly)
+<SYNC Start=1933276><P Class=KRCC>&nbsp;
+<SYNC Start=1933312><P Class=KRCC>
+Curtis, I said I liked you,<br>I didn't say I'd marry you.
+<SYNC Start=1937731><P Class=KRCC>&nbsp;
+<SYNC Start=1940702><P Class=KRCC>
+It's just...
+<SYNC Start=1942569><P Class=KRCC>&nbsp;
+<SYNC Start=1945032><P Class=KRCC>
+I'm not... I'm not the marrying type.
+<SYNC Start=1947624><P Class=KRCC>&nbsp;
+<SYNC Start=1960255><P Class=KRCC>
+Kate: You said I wouldn't<br>have to marry him.
+<SYNC Start=1962722><P Class=KRCC>&nbsp;
+<SYNC Start=1962867><P Class=KRCC>
+That I'd never see him again.
+<SYNC Start=1963922><P Class=KRCC>&nbsp;
+<SYNC Start=1964000><P Class=KRCC>
+Things don't always go as planned.
+<SYNC Start=1965925><P Class=KRCC>&nbsp;
+<SYNC Start=1965977><P Class=KRCC>
+Now we move forward.
+<SYNC Start=1967977><P Class=KRCC>&nbsp;
+<SYNC Start=1971744><P Class=KRCC>
+You told me he wasn't coming back.
+<SYNC Start=1973322><P Class=KRCC>&nbsp;
+<SYNC Start=1974963><P Class=KRCC>
+That means you knew<br>someone was gonna kill him.
+<SYNC Start=1977049><P Class=KRCC>&nbsp;
+<SYNC Start=1977533><P Class=KRCC>
+Maybe I should tell him that.
+<SYNC Start=1979322><P Class=KRCC>&nbsp;
+<SYNC Start=1983236><P Class=KRCC>
+If you do that,
+<SYNC Start=1984444><P Class=KRCC>&nbsp;
+<SYNC Start=1985385><P Class=KRCC>
+I will tell him that<br>when Tamir's plan failed,
+<SYNC Start=1988415><P Class=KRCC>&nbsp;
+<SYNC Start=1988953><P Class=KRCC>
+you offered to kill him<br>on your wedding night.
+<SYNC Start=1991055><P Class=KRCC>&nbsp;
+<SYNC Start=1992719><P Class=KRCC>
+- That's ridiculous.<br>- Really?
+<SYNC Start=1994454><P Class=KRCC>&nbsp;
+<SYNC Start=1994773><P Class=KRCC>
+Aren't you the terrorist<br>girl from the Paris attack?
+<SYNC Start=1997234><P Class=KRCC>&nbsp;
+<SYNC Start=2001469><P Class=KRCC>
+It will be a beautiful wedding.
+<SYNC Start=2002906><P Class=KRCC>&nbsp;
+<SYNC Start=2013776><P Class=KRCC>
+Arsanov's people are denying any<br>knowledge of Kate's whereabouts.
+<SYNC Start=2016476><P Class=KRCC>&nbsp;
+<SYNC Start=2016478><P Class=KRCC>
+He's already in the air,<br>heading back to Chechnya.
+<SYNC Start=2018389><P Class=KRCC>&nbsp;
+<SYNC Start=2020006><P Class=KRCC>
+CIA could send an extraction team.
+<SYNC Start=2021781><P Class=KRCC>&nbsp;
+<SYNC Start=2021817><P Class=KRCC>
+Martin, the U.S. government<br>is about to sign an agreement
+<SYNC Start=2023867><P Class=KRCC>&nbsp;
+<SYNC Start=2023902><P Class=KRCC>
+of cooperation on global<br>terror with the Russians.
+<SYNC Start=2026132><P Class=KRCC>&nbsp;
+<SYNC Start=2026390><P Class=KRCC>
+(scoffs) You think they're gonna
+<SYNC Start=2027115><P Class=KRCC>&nbsp;
+<SYNC Start=2027140><P Class=KRCC>
+authorize an armed incursion
+<SYNC Start=2028488><P Class=KRCC>&nbsp;
+<SYNC Start=2028490><P Class=KRCC>
+into the sovereign territory of an ally?
+<SYNC Start=2029956><P Class=KRCC>&nbsp;
+<SYNC Start=2029991><P Class=KRCC>
+So that's it, then?
+<SYNC Start=2030953><P Class=KRCC>&nbsp;
+<SYNC Start=2031945><P Class=KRCC>
+After all the promises,<br>you're just gonna let her rot?
+<SYNC Start=2034599><P Class=KRCC>&nbsp;
+<SYNC Start=2035755><P Class=KRCC>
+Been going through that material you got us
+<SYNC Start=2037247><P Class=KRCC>&nbsp;
+<SYNC Start=2037299><P Class=KRCC>
+off Tamir's computer.
+<SYNC Start=2038665><P Class=KRCC>&nbsp;
+<SYNC Start=2039161><P Class=KRCC>
+Some interesting stuff.
+<SYNC Start=2040396><P Class=KRCC>&nbsp;
+<SYNC Start=2042091><P Class=KRCC>
+Money transfers.
+<SYNC Start=2043253><P Class=KRCC>&nbsp;
+<SYNC Start=2043305><P Class=KRCC>
+From a bank in Moscow.
+<SYNC Start=2044846><P Class=KRCC>&nbsp;
+<SYNC Start=2045721><P Class=KRCC>
+Encrypted comms from the FSB.
+<SYNC Start=2047724><P Class=KRCC>&nbsp;
+<SYNC Start=2047925><P Class=KRCC>
+Their puppet Arsanov became a loose Cannon,
+<SYNC Start=2049642><P Class=KRCC>&nbsp;
+<SYNC Start=2049678><P Class=KRCC>
+so they paid Tamir to take him out,
+<SYNC Start=2051344><P Class=KRCC>&nbsp;
+<SYNC Start=2051396><P Class=KRCC>
+pin it on Chechen separatists.
+<SYNC Start=2053170><P Class=KRCC>&nbsp;
+<SYNC Start=2053397><P Class=KRCC>
+They even promised him a big position
+<SYNC Start=2054931><P Class=KRCC>&nbsp;
+<SYNC Start=2054983><P Class=KRCC>
+in the new Chechen government.
+<SYNC Start=2056266><P Class=KRCC>&nbsp;
+<SYNC Start=2056318><P Class=KRCC>
+- Oh.<br>- Someone who needed
+<SYNC Start=2058035><P Class=KRCC>&nbsp;
+<SYNC Start=2058060><P Class=KRCC>
+to get into Chechnya might be able
+<SYNC Start=2059185><P Class=KRCC>&nbsp;
+<SYNC Start=2059237><P Class=KRCC>
+to use that information.
+<SYNC Start=2060437><P Class=KRCC>&nbsp;
+<SYNC Start=2062774><P Class=KRCC>
+I got to run out for a bit.
+<SYNC Start=2064524><P Class=KRCC>&nbsp;
+<SYNC Start=2064576><P Class=KRCC>
+Cleaning team will be<br>here in about ten minutes
+<SYNC Start=2066609><P Class=KRCC>&nbsp;
+<SYNC Start=2066661><P Class=KRCC>
+to shred the files.
+<SYNC Start=2068661><P Class=KRCC>&nbsp;
+<SYNC Start=2084990><P Class=KRCC>
+Martin: I'm going to Chechnya
+<SYNC Start=2086346><P Class=KRCC>&nbsp;
+<SYNC Start=2086381><P Class=KRCC>
+to bring Kate home.
+<SYNC Start=2087964><P Class=KRCC>&nbsp;
+<SYNC Start=2088016><P Class=KRCC>
+Why are you doing this?
+<SYNC Start=2090266><P Class=KRCC>&nbsp;
+<SYNC Start=2090302><P Class=KRCC>
+She's not your daughter.
+<SYNC Start=2092170><P Class=KRCC>&nbsp;
+<SYNC Start=2093722><P Class=KRCC>
+You don't even remember her.
+<SYNC Start=2095722><P Class=KRCC>&nbsp;
+<SYNC Start=2098354><P Class=KRCC>
+You don't remember any of it.
+<SYNC Start=2099692><P Class=KRCC>&nbsp;
+<SYNC Start=2101897><P Class=KRCC>
+I remember little things.
+<SYNC Start=2103897><P Class=KRCC>&nbsp;
+<SYNC Start=2107658><P Class=KRCC>
+Kate on a swing.
+<SYNC Start=2108736><P Class=KRCC>&nbsp;
+<SYNC Start=2110181><P Class=KRCC>
+The feeling of home.
+<SYNC Start=2111654><P Class=KRCC>&nbsp;
+<SYNC Start=2113375><P Class=KRCC>
+When I'm with her and you...
+<SYNC Start=2115790><P Class=KRCC>&nbsp;
+<SYNC Start=2119790><P Class=KRCC>
+I feel it again.
+<SYNC Start=2120876><P Class=KRCC>&nbsp;
+<SYNC Start=2131513><P Class=KRCC>
+Ilyana.
+<SYNC Start=2132683><P Class=KRCC>&nbsp;
+<SYNC Start=2134855><P Class=KRCC>
+It's all right.
+<SYNC Start=2135929><P Class=KRCC>&nbsp;
+<SYNC Start=2135931><P Class=KRCC>
+I can't be who you want me to be.
+<SYNC Start=2138097><P Class=KRCC>&nbsp;
+<SYNC Start=2138099><P Class=KRCC>
+I never was.
+<SYNC Start=2139293><P Class=KRCC>&nbsp;
+<SYNC Start=2141434><P Class=KRCC>
+Didn't you love me?
+<SYNC Start=2142676><P Class=KRCC>&nbsp;
+<SYNC Start=2144605><P Class=KRCC>
+Very much.
+<SYNC Start=2145905><P Class=KRCC>&nbsp;
+<SYNC Start=2147137><P Class=KRCC>
+And now?
+<SYNC Start=2148078><P Class=KRCC>&nbsp;
+<SYNC Start=2151906><P Class=KRCC>
+You have a husband.
+<SYNC Start=2152945><P Class=KRCC>&nbsp;
+<SYNC Start=2153898><P Class=KRCC>
+Children.
+<SYNC Start=2154734><P Class=KRCC>&nbsp;
+<SYNC Start=2157505><P Class=KRCC>
+Go back to London.
+<SYNC Start=2158552><P Class=KRCC>&nbsp;
+<SYNC Start=2160208><P Class=KRCC>
+Be with them.
+<SYNC Start=2160954><P Class=KRCC>&nbsp;
+<SYNC Start=2166161><P Class=KRCC>
+Please bring Kate back to me.
+<SYNC Start=2167710><P Class=KRCC>&nbsp;
+<SYNC Start=2183255><P Class=KRCC>
+(metal detector beeps)
+<SYNC Start=2184944><P Class=KRCC>&nbsp;
+<SYNC Start=2186755><P Class=KRCC>
+My name is Martin Odum.
+<SYNC Start=2188114><P Class=KRCC>&nbsp;
+<SYNC Start=2188149><P Class=KRCC>
+I worked for British<br>and American intelligence
+<SYNC Start=2189732><P Class=KRCC>&nbsp;
+<SYNC Start=2189784><P Class=KRCC>
+for more than a decade.
+<SYNC Start=2191618><P Class=KRCC>&nbsp;
+<SYNC Start=2191653><P Class=KRCC>
+I have top secret information<br>for your chief of directorate.
+<SYNC Start=2194954><P Class=KRCC>&nbsp;
+<SYNC Start=2196490><P Class=KRCC>
+I'm guessing he'll want to talk to me.
+<SYNC Start=2198708><P Class=KRCC>&nbsp;
+<SYNC Start=2222451><P Class=KRCC>
+I know it looks a little cold,
+<SYNC Start=2224146><P Class=KRCC>&nbsp;
+<SYNC Start=2224295><P Class=KRCC>
+but, uh, once we get some furniture in here
+<SYNC Start=2226076><P Class=KRCC>&nbsp;
+<SYNC Start=2226263><P Class=KRCC>
+and flowers in the window boxes,<br>it'll be... it'll be quite cozy.
+<SYNC Start=2229076><P Class=KRCC>&nbsp;
+<SYNC Start=2232028><P Class=KRCC>
+Kate: Dmitry!
+<SYNC Start=2233286><P Class=KRCC>&nbsp;
+<SYNC Start=2233311><P Class=KRCC>
+Hey! (speaks Russian)
+<SYNC Start=2236497><P Class=KRCC>&nbsp;
+<SYNC Start=2239050><P Class=KRCC>
+(chuckles)
+<SYNC Start=2240394><P Class=KRCC>&nbsp;
+<SYNC Start=2242605><P Class=KRCC>
+Welcome home.
+<SYNC Start=2243527><P Class=KRCC>&nbsp;
+<SYNC Start=2244112><P Class=KRCC>
+(both laugh)
+<SYNC Start=2246140><P Class=KRCC>&nbsp;
+<SYNC Start=2251931><P Class=KRCC>
+Gabi: You're going home?
+<SYNC Start=2253115><P Class=KRCC>&nbsp;
+<SYNC Start=2254651><P Class=KRCC>
+I can't stay here, Gabi.
+<SYNC Start=2256604><P Class=KRCC>&nbsp;
+<SYNC Start=2256643><P Class=KRCC>
+I have to let Petrovich go.
+<SYNC Start=2258729><P Class=KRCC>&nbsp;
+<SYNC Start=2262175><P Class=KRCC>
+You know, my boss was right.
+<SYNC Start=2263424><P Class=KRCC>&nbsp;
+<SYNC Start=2264595><P Class=KRCC>
+Nobody cares about<br>Russian mobsters anymore.
+<SYNC Start=2266478><P Class=KRCC>&nbsp;
+<SYNC Start=2266513><P Class=KRCC>
+There's a bigger threat now.
+<SYNC Start=2268513><P Class=KRCC>&nbsp;
+<SYNC Start=2271401><P Class=KRCC>
+I have a duty to my country.
+<SYNC Start=2273401><P Class=KRCC>&nbsp;
+<SYNC Start=2275939><P Class=KRCC>
+Is this because of duty to your country
+<SYNC Start=2278073><P Class=KRCC>&nbsp;
+<SYNC Start=2278108><P Class=KRCC>
+or because I said I wouldn't get married?
+<SYNC Start=2280442><P Class=KRCC>&nbsp;
+<SYNC Start=2285857><P Class=KRCC>
+We're too different, Gabi.
+<SYNC Start=2287380><P Class=KRCC>&nbsp;
+<SYNC Start=2289119><P Class=KRCC>
+(chuckles): Curtis.
+<SYNC Start=2290585><P Class=KRCC>&nbsp;
+<SYNC Start=2295292><P Class=KRCC>
+I'll miss my flight.
+<SYNC Start=2296783><P Class=KRCC>&nbsp;
+<SYNC Start=2301231><P Class=KRCC>
+Good-bye, Gabi.
+<SYNC Start=2302302><P Class=KRCC>&nbsp;
+<SYNC Start=2308606><P Class=KRCC>
+(speaks Czech)
+<SYNC Start=2309747><P Class=KRCC>&nbsp;
+<SYNC Start=2324655><P Class=KRCC>
+(door opens, closes)
+<SYNC Start=2327656><P Class=KRCC>&nbsp;
+<SYNC Start=2349612><P Class=KRCC>
+(groans)
+<SYNC Start=2351179><P Class=KRCC>&nbsp;
+<SYNC Start=2378508><P Class=KRCC>
+♪
+<SYNC Start=2380508><P Class=KRCC>&nbsp;
+<SYNC Start=2400113><P Class=KRCC>
+(door opens)
+<SYNC Start=2401312><P Class=KRCC>&nbsp;
+<SYNC Start=2412325><P Class=KRCC>
+I'm told you have some information
+<SYNC Start=2415460><P Class=KRCC>&nbsp;
+<SYNC Start=2415495><P Class=KRCC>
+you'd like to share with us.
+<SYNC Start=2418129><P Class=KRCC>&nbsp;
+<SYNC Start=2421718><P Class=KRCC>
+I have proof linking<br>Russian security services
+<SYNC Start=2425637><P Class=KRCC>&nbsp;
+<SYNC Start=2425672><P Class=KRCC>
+to the assassination plot against Arsanov.
+<SYNC Start=2428377><P Class=KRCC>&nbsp;
+<SYNC Start=2429245><P Class=KRCC>
+These show Tamir Zakayev
+<SYNC Start=2432343><P Class=KRCC>&nbsp;
+<SYNC Start=2432396><P Class=KRCC>
+received multiple payments<br>from accounts traced to the FSB.
+<SYNC Start=2435764><P Class=KRCC>&nbsp;
+<SYNC Start=2435816><P Class=KRCC>
+One of three copies.
+<SYNC Start=2437386><P Class=KRCC>&nbsp;
+<SYNC Start=2437941><P Class=KRCC>
+Anything happens to me,<br>press get the other two.
+<SYNC Start=2440332><P Class=KRCC>&nbsp;
+<SYNC Start=2441496><P Class=KRCC>
+So...
+<SYNC Start=2443271><P Class=KRCC>&nbsp;
+<SYNC Start=2443323><P Class=KRCC>
+what do you want?
+<SYNC Start=2445323><P Class=KRCC>&nbsp;
+<SYNC Start=2447381><P Class=KRCC>
+A girl named Kate Crawford
+<SYNC Start=2448959><P Class=KRCC>&nbsp;
+<SYNC Start=2448990><P Class=KRCC>
+is being held against her will by Arsanov.
+<SYNC Start=2451045><P Class=KRCC>&nbsp;
+<SYNC Start=2451920><P Class=KRCC>
+I want your people to help me
+<SYNC Start=2453615><P Class=KRCC>&nbsp;
+<SYNC Start=2453667><P Class=KRCC>
+get her out of Chechnya,<br>so I can get her back home.
+<SYNC Start=2456454><P Class=KRCC>&nbsp;
+<SYNC Start=2457946><P Class=KRCC>
+You really don't remember me, do you?
+<SYNC Start=2460288><P Class=KRCC>&nbsp;
+<SYNC Start=2465115><P Class=KRCC>
+You and I have a long history together...
+<SYNC Start=2468756><P Class=KRCC>&nbsp;
+<SYNC Start=2469529><P Class=KRCC>
+Alexei.
+<SYNC Start=2471382><P Class=KRCC>&nbsp;
+<SYNC Start=2478772><P Class=KRCC>
+Welcome back, comrade.
+<SYNC Start=2480475><P Class=KRCC>&nbsp;
+<SYNC Start=2485476><P Class=KRCC>
+Synced & Corrected by -robtor-<br>www.addic7ed.com
+<SYNC Start=2488016><P Class=KRCC>&nbsp;
+
+<SYNC Start=653><P Class=ENCC>
+<i>체코 공화국<br>2001년</i>
+<SYNC Start=1653><P Class=ENCC>&nbsp;
+<SYNC Start=9914><P Class=ENCC>
+
+<SYNC Start=11914><P Class=ENCC>&nbsp;
+<SYNC Start=20141><P Class=ENCC>
+
+<SYNC Start=22141><P Class=ENCC>&nbsp;
+<SYNC Start=42697><P Class=ENCC>
+
+<SYNC Start=44030><P Class=ENCC>&nbsp;
+<SYNC Start=46668><P Class=ENCC>
+
+<SYNC Start=47746><P Class=ENCC>&nbsp;
+<SYNC Start=47777><P Class=ENCC>
+알사노브 장군<br>드미트리요
+<SYNC Start=50369><P Class=ENCC>&nbsp;
+<SYNC Start=52507><P Class=ENCC>
+
+<SYNC Start=54757><P Class=ENCC>&nbsp;
+<SYNC Start=58012><P Class=ENCC>
+아까 무슨 일이었지?
+<SYNC Start=59530><P Class=ENCC>&nbsp;
+<SYNC Start=59687><P Class=ENCC>
+몇 마일 전에 미국 경찰 놈이<br>트럭을 멈추게 했었소
+<SYNC Start=62381><P Class=ENCC>&nbsp;
+<SYNC Start=62383><P Class=ENCC>
+그 자식이 무사를 쐈지만<br>용감하게 전사했소
+<SYNC Start=64434><P Class=ENCC>&nbsp;
+<SYNC Start=64469><P Class=ENCC>
+당신을 보호하려고<br>트럭을 멈추지 않았지
+<SYNC Start=66219><P Class=ENCC>&nbsp;
+<SYNC Start=66221><P Class=ENCC>
+- 근데 지금 왜 멈춘거지?<br>- 경찰이 따라 붙었소
+<SYNC Start=68438><P Class=ENCC>&nbsp;
+<SYNC Start=68473><P Class=ENCC>
+타이어를 교체하려고 했는데<br>무사는 큰 부상을 당했고
+<SYNC Start=71524><P Class=ENCC>&nbsp;
+<SYNC Start=71559><P Class=ENCC>
+죽었소
+<SYNC Start=72692><P Class=ENCC>&nbsp;
+<SYNC Start=74612><P Class=ENCC>
+자네는 다친데가 전혀 없고?
+<SYNC Start=77563><P Class=ENCC>&nbsp;
+<SYNC Start=77615><P Class=ENCC>
+뒤에서 경찰을 쐈소
+<SYNC Start=79565><P Class=ENCC>&nbsp;
+<SYNC Start=79617><P Class=ENCC>
+그 자식 차를 타고<br>당신을 따라 온거요
+<SYNC Start=81651><P Class=ENCC>&nbsp;
+<SYNC Start=81703><P Class=ENCC>
+거짓말일 수도 있지
+<SYNC Start=84070><P Class=ENCC>&nbsp;
+<SYNC Start=84122><P Class=ENCC>
+이건 사업일 뿐이오, 장군
+<SYNC Start=86289><P Class=ENCC>&nbsp;
+<SYNC Start=86324><P Class=ENCC>
+당신 물건을 옮기지 못하면<br>나도 돈을 못받겠지
+<SYNC Start=89709><P Class=ENCC>&nbsp;
+<SYNC Start=89744><P Class=ENCC>
+어서 출발하지
+<SYNC Start=91627><P Class=ENCC>&nbsp;
+<SYNC Start=92997><P Class=ENCC>
+트렁크에 한 사람만 탈 수 있소
+<SYNC Start=95414><P Class=ENCC>&nbsp;
+<SYNC Start=95467><P Class=ENCC>
+어서
+<SYNC Start=97083><P Class=ENCC>&nbsp;
+<SYNC Start=97085><P Class=ENCC>
+아니면 경찰한테 잡히게<br>그냥 두고 가겠소
+<SYNC Start=99418><P Class=ENCC>&nbsp;
+<SYNC Start=121092><P Class=ENCC>
+주유소 간판을 봤소
+<SYNC Start=123442><P Class=ENCC>&nbsp;
+<SYNC Start=123444><P Class=ENCC>
+2킬로 정도 떨어진 곳에서
+<SYNC Start=124660><P Class=ENCC>&nbsp;
+<SYNC Start=124696><P Class=ENCC>
+누군가 그곳에 당신을 만나러 갈거요
+<SYNC Start=126696><P Class=ENCC>&nbsp;
+<SYNC Start=128032><P Class=ENCC>
+
+<SYNC Start=129949><P Class=ENCC>&nbsp;
+<SYNC Start=130001><P Class=ENCC>
+
+<SYNC Start=132001><P Class=ENCC>&nbsp;
+<SYNC Start=141083><P Class=ENCC>
+상황이 완전 꼬였어요
+<SYNC Start=142261><P Class=ENCC>&nbsp;
+<SYNC Start=142297><P Class=ENCC>
+물건은?
+<SYNC Start=143596><P Class=ENCC>&nbsp;
+<SYNC Start=143631><P Class=ENCC>
+데리고 있어요<br>이쪽 정리 좀 해줘요
+<SYNC Start=145598><P Class=ENCC>&nbsp;
+<SYNC Start=145633><P Class=ENCC>
+무슨 일인가?
+<SYNC Start=146599><P Class=ENCC>&nbsp;
+<SYNC Start=146634><P Class=ENCC>
+발러드가 또 방해해서
+<SYNC Start=148134><P Class=ENCC>&nbsp;
+<SYNC Start=148186><P Class=ENCC>
+총을 쐈어요
+<SYNC Start=149435><P Class=ENCC>&nbsp;
+<SYNC Start=149470><P Class=ENCC>
+제기랄
+<SYNC Start=151137><P Class=ENCC>&nbsp;
+<SYNC Start=151139><P Class=ENCC>
+- 죽은거야?<br>- 나도 몰라요
+<SYNC Start=152688><P Class=ENCC>&nbsp;
+<SYNC Start=152724><P Class=ENCC>
+그리고 일리아나랑 딸을 데리러<br>스티브를 보내요
+<SYNC Start=155191><P Class=ENCC>&nbsp;
+<SYNC Start=155226><P Class=ENCC>
+13번 고속도록에서 브르노 서쪽 방향으로<br>3 킬로미터 떨어진 주유소에 있을거예요
+<SYNC Start=159111><P Class=ENCC>&nbsp;
+<SYNC Start=159147><P Class=ENCC>
+자넨 미연방 요원을 쏜거야
+<SYNC Start=161280><P Class=ENCC>&nbsp;
+<SYNC Start=161316><P Class=ENCC>
+프라하에 있는 모든 사람이<br>자넬 찾을거라고
+<SYNC Start=163232><P Class=ENCC>&nbsp;
+<SYNC Start=163284><P Class=ENCC>
+미션을 완료하고 물건을 옮긴 후
+<SYNC Start=165651><P Class=ENCC>&nbsp;
+<SYNC Start=165703><P Class=ENCC>
+빌어먹을 그곳에서 당장 빠져나와
+<SYNC Start=168654><P Class=ENCC>&nbsp;
+<SYNC Start=168706><P Class=ENCC>
+아뇨, 당신이 일리아나와 딸을 데려가기 전까지<br>아무데도 가지 않을 거예요
+<SYNC Start=171490><P Class=ENCC>&nbsp;
+<SYNC Start=171492><P Class=ENCC>
+안전한 곳으로 데려가고<br>거기서 만나죠
+<SYNC Start=173826><P Class=ENCC>&nbsp;
+<SYNC Start=184263><P Class=ENCC>
+커티스!
+<SYNC Start=185380><P Class=ENCC>&nbsp;
+<SYNC Start=187435><P Class=ENCC>
+커티스!
+<SYNC Start=188174><P Class=ENCC>&nbsp;
+<SYNC Start=188226><P Class=ENCC>
+세상에
+<SYNC Start=189559><P Class=ENCC>&nbsp;
+<SYNC Start=189594><P Class=ENCC>
+드미트리가...
+<SYNC Start=190676><P Class=ENCC>&nbsp;
+<SYNC Start=192997><P Class=ENCC>
+내 차를 가져갔어
+<SYNC Start=194146><P Class=ENCC>&nbsp;
+<SYNC Start=194182><P Class=ENCC>
+걱정마
+<SYNC Start=196015><P Class=ENCC>&nbsp;
+<SYNC Start=196067><P Class=ENCC>
+
+<SYNC Start=197450><P Class=ENCC>&nbsp;
+<SYNC Start=203661><P Class=ENCC>
+당장 구급차 보내
+<SYNC Start=205654><P Class=ENCC>&nbsp;
+<SYNC Start=210698><P Class=ENCC>
+커티스, 조금만 참아
+<SYNC Start=212114><P Class=ENCC>&nbsp;
+<SYNC Start=212166><P Class=ENCC>
+알았지?
+<SYNC Start=213532><P Class=ENCC>&nbsp;
+<SYNC Start=213534><P Class=ENCC>
+괜찮을거야
+<SYNC Start=215451><P Class=ENCC>&nbsp;
+<SYNC Start=228683><P Class=ENCC>
+
+<SYNC Start=231300><P Class=ENCC>&nbsp;
+<SYNC Start=232832><P Class=ENCC>
+이게 무슨 짓이야?
+<SYNC Start=235144><P Class=ENCC>&nbsp;
+<SYNC Start=244410><P Class=ENCC>
+이자는 살려줘
+<SYNC Start=246160><P Class=ENCC>&nbsp;
+<SYNC Start=246401><P Class=ENCC>
+
+<SYNC Start=248367><P Class=ENCC>&nbsp;
+<SYNC Start=248605><P Class=ENCC>
+Synced & Corrected by - robtor-<br>www.addic7ed.com
+<SYNC Start=250218><P Class=ENCC>&nbsp;
+<SYNC Start=250243><P Class=ENCC>
+번역: 레전드<br>www.bunyuc.com<br>www.tailorcontents.com
+<SYNC Start=253455><P Class=ENCC>&nbsp;
+<SYNC Start=254134><P Class=ENCC>
+<i>프라하<br>현재</i>
+<SYNC Start=255134><P Class=ENCC>&nbsp;
+<SYNC Start=255880><P Class=ENCC>
+타미르 자카에브가
+<SYNC Start=257193><P Class=ENCC>&nbsp;
+<SYNC Start=257247><P Class=ENCC>
+여기 세명의 러시아인의 비자를 받았습니다
+<SYNC Start=259245><P Class=ENCC>&nbsp;
+<SYNC Start=259297><P Class=ENCC>
+이 중 체첸니아에서 온<br>두명은 조사했고
+<SYNC Start=261080><P Class=ENCC>&nbsp;
+<SYNC Start=261132><P Class=ENCC>
+아무 이상 없었죠
+<SYNC Start=262248><P Class=ENCC>&nbsp;
+<SYNC Start=262250><P Class=ENCC>
+세번째 남자, 바카 바에브는
+<SYNC Start=265217><P Class=ENCC>&nbsp;
+<SYNC Start=265253><P Class=ENCC>
+아직까지 확인되지 않고 있습니다
+<SYNC Start=266585><P Class=ENCC>&nbsp;
+<SYNC Start=266587><P Class=ENCC>
+이들 모두 리베르에 있는
+<SYNC Start=267753><P Class=ENCC>&nbsp;
+<SYNC Start=267805><P Class=ENCC>
+레즈레브 에어컨 생산 공장에서 일했고
+<SYNC Start=269588><P Class=ENCC>&nbsp;
+<SYNC Start=269590><P Class=ENCC>
+동료들의 증언에 따르면 이자는 러시아나<br>체첸말을 할줄 모른다고 합니다
+<SYNC Start=273759><P Class=ENCC>&nbsp;
+<SYNC Start=273811><P Class=ENCC>
+일을 시작한지 6주 후에<br>그만둔 뒤로
+<SYNC Start=276312><P Class=ENCC>&nbsp;
+<SYNC Start=276347><P Class=ENCC>
+이자를 본 사람이 없습니다
+<SYNC Start=277513><P Class=ENCC>&nbsp;
+<SYNC Start=277565><P Class=ENCC>
+저 남자는 러시아나 체첸 사람으로는 안보이는군요
+<SYNC Start=278931><P Class=ENCC>&nbsp;
+<SYNC Start=278933><P Class=ENCC>
+중동쪽 사람 같은데
+<SYNC Start=280683><P Class=ENCC>&nbsp;
+<SYNC Start=280735><P Class=ENCC>
+저 사진을 이집트와 사우디쪽 담당자한테<br>보내도록 하지요
+<SYNC Start=282768><P Class=ENCC>&nbsp;
+<SYNC Start=282820><P Class=ENCC>
+알아보는 사람이 있는지 찾아봐야겠어요
+<SYNC Start=284520><P Class=ENCC>&nbsp;
+<SYNC Start=291141><P Class=ENCC>
+그럼 시작하죠
+<SYNC Start=292141><P Class=ENCC>&nbsp;
+<SYNC Start=300070><P Class=ENCC>
+여기서 뭐하는거야?
+<SYNC Start=301070><P Class=ENCC>&nbsp;
+<SYNC Start=301297><P Class=ENCC>
+너무 열심히 일하길래<br>커피가 필요할 것 같아서
+<SYNC Start=303710><P Class=ENCC>&nbsp;
+<SYNC Start=304789><P Class=ENCC>
+뭔가 찾았어?
+<SYNC Start=305789><P Class=ENCC>&nbsp;
+<SYNC Start=311577><P Class=ENCC>
+집에 가있어, 크리스토프
+<SYNC Start=313678><P Class=ENCC>&nbsp;
+<SYNC Start=315240><P Class=ENCC>
+가비...
+<SYNC Start=315943><P Class=ENCC>&nbsp;
+<SYNC Start=316693><P Class=ENCC>
+난 이번일과 관련없어, 알았어?
+<SYNC Start=317693><P Class=ENCC>&nbsp;
+<SYNC Start=329383><P Class=ENCC>
+<i>체첸니아<br>현재</i>
+<SYNC Start=330383><P Class=ENCC>&nbsp;
+<SYNC Start=331849><P Class=ENCC>
+좀 먹어, 카트야
+<SYNC Start=333347><P Class=ENCC>&nbsp;
+<SYNC Start=333372><P Class=ENCC>
+며칠동안 아무것도 안먹었잖니
+<SYNC Start=335740><P Class=ENCC>&nbsp;
+<SYNC Start=336396><P Class=ENCC>
+저 늙은이랑 결혼할 바에야<br>굶어죽는게 나아요
+<SYNC Start=338457><P Class=ENCC>&nbsp;
+<SYNC Start=341479><P Class=ENCC>
+어떻게 그냥 내버려둘수 있죠?
+<SYNC Start=342828><P Class=ENCC>&nbsp;
+<SYNC Start=348260><P Class=ENCC>
+너한테 한가지 비밀을 말해주마
+<SYNC Start=350302><P Class=ENCC>&nbsp;
+<SYNC Start=352555><P Class=ENCC>
+저 사람과 결혼하지 않을거야
+<SYNC Start=354306><P Class=ENCC>&nbsp;
+<SYNC Start=356071><P Class=ENCC>
+무슨 말이죠?
+<SYNC Start=356696><P Class=ENCC>&nbsp;
+<SYNC Start=356876><P Class=ENCC>
+네 삼촌은
+<SYNC Start=357760><P Class=ENCC>&nbsp;
+<SYNC Start=357812><P Class=ENCC>
+프라하에서 여기로 오겠지만
+<SYNC Start=360229><P Class=ENCC>&nbsp;
+<SYNC Start=360264><P Class=ENCC>
+대통령은 다시 돌아오지 못할거야
+<SYNC Start=364567><P Class=ENCC>&nbsp;
+<SYNC Start=365030><P Class=ENCC>
+절대
+<SYNC Start=365901><P Class=ENCC>&nbsp;
+<SYNC Start=368948><P Class=ENCC>
+<i>프라하<br>현재</i>
+<SYNC Start=369948><P Class=ENCC>&nbsp;
+<SYNC Start=372577><P Class=ENCC>
+
+<SYNC Start=374577><P Class=ENCC>&nbsp;
+<SYNC Start=393848><P Class=ENCC>
+
+<SYNC Start=395798><P Class=ENCC>&nbsp;
+<SYNC Start=400661><P Class=ENCC>
+<i>예정대로</i>
+<SYNC Start=402328><P Class=ENCC>&nbsp;
+<SYNC Start=405059><P Class=ENCC>
+
+<SYNC Start=406809><P Class=ENCC>&nbsp;
+<SYNC Start=408396><P Class=ENCC>
+예정대로라..<br>위치 추적해
+<SYNC Start=410404><P Class=ENCC>&nbsp;
+<SYNC Start=410568><P Class=ENCC>
+- 알겠습니다<br>- 베슬란일거야
+<SYNC Start=412232><P Class=ENCC>&nbsp;
+<SYNC Start=412334><P Class=ENCC>
+다른 사람일 수도 있죠
+<SYNC Start=413449><P Class=ENCC>&nbsp;
+<SYNC Start=413484><P Class=ENCC>
+그게 누구든지 아직 타미르가<br>죽은걸 모른다는거지
+<SYNC Start=415568><P Class=ENCC>&nbsp;
+<SYNC Start=415620><P Class=ENCC>
+찾았습니다
+<SYNC Start=416819><P Class=ENCC>&nbsp;
+<SYNC Start=416871><P Class=ENCC>
+공화국 광장 근처에서 이동 중 입니다
+<SYNC Start=419038><P Class=ENCC>&nbsp;
+<SYNC Start=419073><P Class=ENCC>
+그쪽으로 오라고 경찰에 알려
+<SYNC Start=420739><P Class=ENCC>&nbsp;
+<SYNC Start=420741><P Class=ENCC>
+
+<SYNC Start=422708><P Class=ENCC>&nbsp;
+<SYNC Start=422743><P Class=ENCC>
+
+<SYNC Start=425244><P Class=ENCC>&nbsp;
+<SYNC Start=425296><P Class=ENCC>
+
+<SYNC Start=427296><P Class=ENCC>&nbsp;
+<SYNC Start=432920><P Class=ENCC>
+
+<SYNC Start=434920><P Class=ENCC>&nbsp;
+<SYNC Start=437308><P Class=ENCC>
+
+<SYNC Start=439091><P Class=ENCC>&nbsp;
+<SYNC Start=450738><P Class=ENCC>
+
+<SYNC Start=452855><P Class=ENCC>&nbsp;
+<SYNC Start=458977><P Class=ENCC>
+안타요?
+<SYNC Start=459977><P Class=ENCC>&nbsp;
+<SYNC Start=465404><P Class=ENCC>
+20대, 수염을 기른<br>백인 남자를 찾고 있다
+<SYNC Start=467411><P Class=ENCC>&nbsp;
+<SYNC Start=468872><P Class=ENCC>
+뭐 찾은거 없어?
+<SYNC Start=469588><P Class=ENCC>&nbsp;
+<SYNC Start=472426><P Class=ENCC>
+
+<SYNC Start=474093><P Class=ENCC>&nbsp;
+<SYNC Start=475747><P Class=ENCC>
+남쪽으로 빠르게 이동 중이에요
+<SYNC Start=477596><P Class=ENCC>&nbsp;
+<SYNC Start=477632><P Class=ENCC>
+- 차로 움직이는 것 같아요<br>- 남쪽으로 이동 중이래요
+<SYNC Start=479014><P Class=ENCC>&nbsp;
+<SYNC Start=480468><P Class=ENCC>
+전차!<br>저 전차야!
+<SYNC Start=481977><P Class=ENCC>&nbsp;
+<SYNC Start=482055><P Class=ENCC>
+저거 세워!
+<SYNC Start=483802><P Class=ENCC>&nbsp;
+<SYNC Start=483855><P Class=ENCC>
+
+<SYNC Start=485304><P Class=ENCC>&nbsp;
+<SYNC Start=487975><P Class=ENCC>
+
+<SYNC Start=489808><P Class=ENCC>&nbsp;
+<SYNC Start=502487><P Class=ENCC>
+전화해봐
+<SYNC Start=503229><P Class=ENCC>&nbsp;
+<SYNC Start=508546><P Class=ENCC>
+
+<SYNC Start=511664><P Class=ENCC>&nbsp;
+<SYNC Start=516837><P Class=ENCC>
+
+<SYNC Start=518587><P Class=ENCC>&nbsp;
+<SYNC Start=528899><P Class=ENCC>
+<i>체코 공화국<br>2001년</i>
+<SYNC Start=529899><P Class=ENCC>&nbsp;
+<SYNC Start=533844><P Class=ENCC>
+혈압이 80/52로 떨어지고 있어요
+<SYNC Start=535844><P Class=ENCC>&nbsp;
+<SYNC Start=537439><P Class=ENCC>
+용의자가 초록색 스코다를 훔쳐 달아났어<br>찾아내
+<SYNC Start=540689><P Class=ENCC>&nbsp;
+<SYNC Start=543498><P Class=ENCC>
+
+<SYNC Start=547133><P Class=ENCC>&nbsp;
+<SYNC Start=569689><P Class=ENCC>
+나오세요
+<SYNC Start=571106><P Class=ENCC>&nbsp;
+<SYNC Start=571158><P Class=ENCC>
+어떤 남자가 저희를 집으로 데리고 가려고 했어요
+<SYNC Start=572524><P Class=ENCC>&nbsp;
+<SYNC Start=572576><P Class=ENCC>
+
+<SYNC Start=575326><P Class=ENCC>&nbsp;
+<SYNC Start=575362><P Class=ENCC>
+총을 가지고 있었죠
+<SYNC Start=576911><P Class=ENCC>&nbsp;
+<SYNC Start=576947><P Class=ENCC>
+어떻게 도망친거죠?
+<SYNC Start=578613><P Class=ENCC>&nbsp;
+<SYNC Start=578665><P Class=ENCC>
+누군가 트럭문을 열었어요
+<SYNC Start=580665><P Class=ENCC>&nbsp;
+<SYNC Start=580700><P Class=ENCC>
+싸우는 소리와 총소리가 들렸죠
+<SYNC Start=583918><P Class=ENCC>&nbsp;
+<SYNC Start=583954><P Class=ENCC>
+너무 무서워서, 딸을 데리고 안에 숨어있었어요
+<SYNC Start=586204><P Class=ENCC>&nbsp;
+<SYNC Start=586256><P Class=ENCC>
+그리고 다시 조용해졌을때<br>빠져나왔죠
+<SYNC Start=588206><P Class=ENCC>&nbsp;
+<SYNC Start=588258><P Class=ENCC>
+저 남자가 죽은 걸 알고<br>바로 도망쳤어요
+<SYNC Start=590875><P Class=ENCC>&nbsp;
+<SYNC Start=590927><P Class=ENCC>
+너무 끔찍했어요
+<SYNC Start=593044><P Class=ENCC>&nbsp;
+<SYNC Start=593096><P Class=ENCC>
+집에 데려다 줄수 있나요?
+<SYNC Start=595430><P Class=ENCC>&nbsp;
+<SYNC Start=597184><P Class=ENCC>
+
+<SYNC Start=598466><P Class=ENCC>&nbsp;
+<SYNC Start=609563><P Class=ENCC>
+문제가 생겼어요
+<SYNC Start=611729><P Class=ENCC>&nbsp;
+<SYNC Start=613700><P Class=ENCC>
+내일 아침에 경찰서로 와주셔야겠어요
+<SYNC Start=616451><P Class=ENCC>&nbsp;
+<SYNC Start=616486><P Class=ENCC>
+서류를 작성해야 되서요
+<SYNC Start=618736><P Class=ENCC>&nbsp;
+<SYNC Start=618738><P Class=ENCC>
+물론이죠
+<SYNC Start=620155><P Class=ENCC>&nbsp;
+<SYNC Start=625579><P Class=ENCC>
+
+<SYNC Start=626744><P Class=ENCC>&nbsp;
+<SYNC Start=640260><P Class=ENCC>
+일리아나
+<SYNC Start=642260><P Class=ENCC>&nbsp;
+<SYNC Start=643814><P Class=ENCC>
+어떻게 여기 있는거예요?
+<SYNC Start=645480><P Class=ENCC>&nbsp;
+<SYNC Start=645515><P Class=ENCC>
+아..아, 알사노브 장군은?
+<SYNC Start=646904><P Class=ENCC>&nbsp;
+<SYNC Start=648193><P Class=ENCC>
+어떻게 감히 날 물건마냥<br>체첸니아로 보내려고 한거야?
+<SYNC Start=651102><P Class=ENCC>&nbsp;
+<SYNC Start=651154><P Class=ENCC>
+장군 명령이었어요
+<SYNC Start=653438><P Class=ENCC>&nbsp;
+<SYNC Start=653440><P Class=ENCC>
+그분이 원하는걸 한 것 뿐이에요
+<SYNC Start=655273><P Class=ENCC>&nbsp;
+<SYNC Start=655275><P Class=ENCC>
+형이 원하는 것이기도 했죠
+<SYNC Start=656210><P Class=ENCC>&nbsp;
+<SYNC Start=656256><P Class=ENCC>
+도쿠는 죽었어
+<SYNC Start=657575><P Class=ENCC>&nbsp;
+<SYNC Start=657611><P Class=ENCC>
+이 집은 이제 내 소유야
+<SYNC Start=659661><P Class=ENCC>&nbsp;
+<SYNC Start=660389><P Class=ENCC>
+아침에 나가주면 좋겠어
+<SYNC Start=662163><P Class=ENCC>&nbsp;
+<SYNC Start=666536><P Class=ENCC>
+잘했네, 고맙군
+<SYNC Start=669321><P Class=ENCC>&nbsp;
+<SYNC Start=669360><P Class=ENCC>
+잘됐어, 알았네
+<SYNC Start=670586><P Class=ENCC>&nbsp;
+<SYNC Start=673164><P Class=ENCC>
+FBI 요원이 위독한 상태라는군
+<SYNC Start=676127><P Class=ENCC>&nbsp;
+<SYNC Start=676819><P Class=ENCC>
+일리아나랑 카트야는요?
+<SYNC Start=678037><P Class=ENCC>&nbsp;
+<SYNC Start=679397><P Class=ENCC>
+스티브가 가기전에<br>체코 경찰이 먼저 발견했네
+<SYNC Start=682383><P Class=ENCC>&nbsp;
+<SYNC Start=682435><P Class=ENCC>
+형사가 간단하게 면담을 하고<br>집으로 보냈다네
+<SYNC Start=684046><P Class=ENCC>&nbsp;
+<SYNC Start=684304><P Class=ENCC>
+데리러 가야겠어요
+<SYNC Start=685514><P Class=ENCC>&nbsp;
+<SYNC Start=686866><P Class=ENCC>
+어떻게?
+<SYNC Start=687639><P Class=ENCC>&nbsp;
+<SYNC Start=687968><P Class=ENCC>
+드미트리!
+<SYNC Start=689686><P Class=ENCC>&nbsp;
+<SYNC Start=690227><P Class=ENCC>
+무슨 일이야?<br>일리아나는 아무말도 안해
+<SYNC Start=691776><P Class=ENCC>&nbsp;
+<SYNC Start=691811><P Class=ENCC>
+매복을 당했어, 러시아 놈들한테
+<SYNC Start=694229><P Class=ENCC>&nbsp;
+<SYNC Start=694281><P Class=ENCC>
+왜 나한테 여자를 옮기게 한거야?
+<SYNC Start=696281><P Class=ENCC>&nbsp;
+<SYNC Start=696316><P Class=ENCC>
+모든게 틀었어
+<SYNC Start=697532><P Class=ENCC>&nbsp;
+<SYNC Start=697567><P Class=ENCC>
+미친 FBI 남자가 놈들을 쫒고 있었고
+<SYNC Start=699317><P Class=ENCC>&nbsp;
+<SYNC Start=699369><P Class=ENCC>
+난 그자를 쏠 수밖에 없었다고
+<SYNC Start=700535><P Class=ENCC>&nbsp;
+<SYNC Start=700570><P Class=ENCC>
+상황이 안좋아
+<SYNC Start=703371><P Class=ENCC>&nbsp;
+<SYNC Start=703406><P Class=ENCC>
+프라하를 떠나야겠어
+<SYNC Start=704839><P Class=ENCC>&nbsp;
+<SYNC Start=705753><P Class=ENCC>
+지금 당장
+<SYNC Start=706541><P Class=ENCC>&nbsp;
+<SYNC Start=706576><P Class=ENCC>
+돈이 필요해
+<SYNC Start=707659><P Class=ENCC>&nbsp;
+<SYNC Start=707711><P Class=ENCC>
+내 트럭이랑
+<SYNC Start=708826><P Class=ENCC>&nbsp;
+<SYNC Start=708828><P Class=ENCC>
+내 클럽...모두 이제 자네거야
+<SYNC Start=710378><P Class=ENCC>&nbsp;
+<SYNC Start=710413><P Class=ENCC>
+자네가 사<br>가격은 잘 쳐줄게
+<SYNC Start=711616><P Class=ENCC>&nbsp;
+<SYNC Start=711665><P Class=ENCC>
+대신 당장 현금이 필요해
+<SYNC Start=713498><P Class=ENCC>&nbsp;
+<SYNC Start=713500><P Class=ENCC>
+지금 얼마나 있는지 확인해볼게
+<SYNC Start=715500><P Class=ENCC>&nbsp;
+<SYNC Start=718638><P Class=ENCC>
+
+<SYNC Start=721556><P Class=ENCC>&nbsp;
+<SYNC Start=726179><P Class=ENCC>
+이 주소로
+<SYNC Start=727345><P Class=ENCC>&nbsp;
+<SYNC Start=727347><P Class=ENCC>
+아침 6시까지 가시오
+<SYNC Start=729430><P Class=ENCC>&nbsp;
+<SYNC Start=736910><P Class=ENCC>
+<i>슬로바키아/우크라이나 경계<br>2001년</i>
+<SYNC Start=739332><P Class=ENCC>&nbsp;
+<SYNC Start=747959><P Class=ENCC>
+넌 누구야?
+<SYNC Start=748959><P Class=ENCC>&nbsp;
+<SYNC Start=750107><P Class=ENCC>
+우리가 누군지 알텐데, 장군
+<SYNC Start=752075><P Class=ENCC>&nbsp;
+<SYNC Start=754107><P Class=ENCC>
+체첸니아에서 너무 많이 피를 뿌렸지
+<SYNC Start=757880><P Class=ENCC>&nbsp;
+<SYNC Start=758505><P Class=ENCC>
+체첸 사람들...<br>러시아 사람들 피...
+<SYNC Start=760607><P Class=ENCC>&nbsp;
+<SYNC Start=762607><P Class=ENCC>
+러시아는 체첸이 평화롭길 바라네
+<SYNC Start=765482><P Class=ENCC>&nbsp;
+<SYNC Start=766631><P Class=ENCC>
+사람들한테 존경을 받는 사람의 지배 아래
+<SYNC Start=770778><P Class=ENCC>&nbsp;
+<SYNC Start=771232><P Class=ENCC>
+바로 영웅 말일세
+<SYNC Start=772256><P Class=ENCC>&nbsp;
+<SYNC Start=773029><P Class=ENCC>
+그 사람의 말에 귀를 귀울리고
+<SYNC Start=774865><P Class=ENCC>&nbsp;
+<SYNC Start=776119><P Class=ENCC>
+함께 일을 해나갈 그런 사람
+<SYNC Start=778884><P Class=ENCC>&nbsp;
+<SYNC Start=780635><P Class=ENCC>
+우리는 그런 사람한테 힘을 줄수 있지
+<SYNC Start=782463><P Class=ENCC>&nbsp;
+<SYNC Start=783182><P Class=ENCC>
+그를 지원하고
+<SYNC Start=784182><P Class=ENCC>&nbsp;
+<SYNC Start=785099><P Class=ENCC>
+보호하고
+<SYNC Start=786099><P Class=ENCC>&nbsp;
+<SYNC Start=786841><P Class=ENCC>
+대신에...
+<SYNC Start=787833><P Class=ENCC>&nbsp;
+<SYNC Start=789982><P Class=ENCC>
+우리에게 협력하길 바라네
+<SYNC Start=792606><P Class=ENCC>&nbsp;
+<SYNC Start=796299><P Class=ENCC>
+
+<SYNC Start=798249><P Class=ENCC>&nbsp;
+<SYNC Start=803544><P Class=ENCC>
+난 당신들 꼭두각시가 아냐
+<SYNC Start=805208><P Class=ENCC>&nbsp;
+<SYNC Start=815782><P Class=ENCC>
+자네는 우리가 주는걸 받고<br>체첸을 통치할 수 있네
+<SYNC Start=820724><P Class=ENCC>&nbsp;
+<SYNC Start=821224><P Class=ENCC>
+아니면...
+<SYNC Start=822224><P Class=ENCC>&nbsp;
+<SYNC Start=829405><P Class=ENCC>
+그럼...
+<SYNC Start=830405><P Class=ENCC>&nbsp;
+<SYNC Start=830787><P Class=ENCC>
+어떻게 하겠나, 장군?
+<SYNC Start=833319><P Class=ENCC>&nbsp;
+<SYNC Start=839211><P Class=ENCC>
+<i>프라하<br>현재</i>
+<SYNC Start=840211><P Class=ENCC>&nbsp;
+<SYNC Start=840691><P Class=ENCC>
+프라하에 온걸 환영합니다<br>대통령 각하
+<SYNC Start=842343><P Class=ENCC>&nbsp;
+<SYNC Start=842379><P Class=ENCC>
+이런 중대한 회담에 오게 되서 영광이오
+<SYNC Start=844512><P Class=ENCC>&nbsp;
+<SYNC Start=844547><P Class=ENCC>
+테러에 대응하는건 전세계적인 전쟁이요
+<SYNC Start=847215><P Class=ENCC>&nbsp;
+<SYNC Start=848237><P Class=ENCC>
+
+<SYNC Start=850685><P Class=ENCC>&nbsp;
+<SYNC Start=850720><P Class=ENCC>
+이집트 요원이 그 남자의 신원을 밝혀냈어요
+<SYNC Start=852854><P Class=ENCC>&nbsp;
+<SYNC Start=852889><P Class=ENCC>
+진짜 이름은 오마르 와셈
+<SYNC Start=854389><P Class=ENCC>&nbsp;
+<SYNC Start=854441><P Class=ENCC>
+망할 폭탄 제조자지
+<SYNC Start=855523><P Class=ENCC>&nbsp;
+<SYNC Start=855558><P Class=ENCC>
+그 에어컨 생산 공장에서 생산된 물건들이
+<SYNC Start=857141><P Class=ENCC>&nbsp;
+<SYNC Start=857193><P Class=ENCC>
+프라하 전역에 공급됐어요
+<SYNC Start=858380><P Class=ENCC>&nbsp;
+<SYNC Start=858412><P Class=ENCC>
+거기에 폭탄을 심어놨을 거예요
+<SYNC Start=860478><P Class=ENCC>&nbsp;
+<SYNC Start=862282><P Class=ENCC>
+
+<SYNC Start=864232><P Class=ENCC>&nbsp;
+<SYNC Start=864284><P Class=ENCC>
+
+<SYNC Start=866984><P Class=ENCC>&nbsp;
+<SYNC Start=866986><P Class=ENCC>
+
+<SYNC Start=868986><P Class=ENCC>&nbsp;
+<SYNC Start=870185><P Class=ENCC>
+여보세요?
+<SYNC Start=871083><P Class=ENCC>&nbsp;
+<SYNC Start=871122><P Class=ENCC>
+타미르가 죽은것 같아요
+<SYNC Start=872623><P Class=ENCC>&nbsp;
+<SYNC Start=877410><P Class=ENCC>
+무슨 일이야?
+<SYNC Start=878663><P Class=ENCC>&nbsp;
+<SYNC Start=880633><P Class=ENCC>
+삼촌 형을 죽인 놈을 찾았어요
+<SYNC Start=883334><P Class=ENCC>&nbsp;
+<SYNC Start=883336><P Class=ENCC>
+드미트리라는 러시아 새끼죠
+<SYNC Start=885336><P Class=ENCC>&nbsp;
+<SYNC Start=885338><P Class=ENCC>
+삼촌이 그자를 죽이러 갔는데
+<SYNC Start=886838><P Class=ENCC>&nbsp;
+<SYNC Start=886890><P Class=ENCC>
+드미트리가 제 뒤를 쫓고 있어요
+<SYNC Start=888556><P Class=ENCC>&nbsp;
+<SYNC Start=888591><P Class=ENCC>
+드미트리가 살아있다는건<br>그자식이 삼촌을 죽인거예요
+<SYNC Start=892260><P Class=ENCC>&nbsp;
+<SYNC Start=893346><P Class=ENCC>
+세상에
+<SYNC Start=894762><P Class=ENCC>&nbsp;
+<SYNC Start=894814><P Class=ENCC>
+이제 어쩌죠?
+<SYNC Start=896347><P Class=ENCC>&nbsp;
+<SYNC Start=896349><P Class=ENCC>
+어떻게 하냐고요?
+<SYNC Start=897849><P Class=ENCC>&nbsp;
+<SYNC Start=900770><P Class=ENCC>
+알사노브 대통령이 네 사촌 카트야랑<br>결혼하려고해
+<SYNC Start=904989><P Class=ENCC>&nbsp;
+<SYNC Start=905483><P Class=ENCC>
+카트야?
+<SYNC Start=906407><P Class=ENCC>&nbsp;
+<SYNC Start=906788><P Class=ENCC>
+왜요?
+<SYNC Start=907608><P Class=ENCC>&nbsp;
+<SYNC Start=907660><P Class=ENCC>
+두번째 아내로 삼으려고
+<SYNC Start=909610><P Class=ENCC>&nbsp;
+<SYNC Start=910374><P Class=ENCC>
+선지자처럼
+<SYNC Start=911612><P Class=ENCC>&nbsp;
+<SYNC Start=911664><P Class=ENCC>
+타미르가 우릴 보호하지 못하면
+<SYNC Start=914665><P Class=ENCC>&nbsp;
+<SYNC Start=914701><P Class=ENCC>
+우린 얌전히 있어야 돼
+<SYNC Start=917251><P Class=ENCC>&nbsp;
+<SYNC Start=917287><P Class=ENCC>
+체첸니아에서 우리를 필요로 하게<br>만드는 수밖에 없어
+<SYNC Start=919504><P Class=ENCC>&nbsp;
+<SYNC Start=919539><P Class=ENCC>
+알아요, 하지만 알사노브는...
+<SYNC Start=921339><P Class=ENCC>&nbsp;
+<SYNC Start=921374><P Class=ENCC>
+베슬란
+<SYNC Start=923257><P Class=ENCC>&nbsp;
+<SYNC Start=923293><P Class=ENCC>
+내 말 잘들어
+<SYNC Start=925760><P Class=ENCC>&nbsp;
+<SYNC Start=925795><P Class=ENCC>
+대통령이 죽게 내버려둬선 안돼
+<SYNC Start=929630><P Class=ENCC>&nbsp;
+<SYNC Start=929682><P Class=ENCC>
+그 사람들은...이미 암살계획을<br>실행에 옮기고 있다고요
+<SYNC Start=932600><P Class=ENCC>&nbsp;
+<SYNC Start=932635><P Class=ENCC>
+네가 못하게 막아
+<SYNC Start=934552><P Class=ENCC>&nbsp;
+<SYNC Start=935605><P Class=ENCC>
+어떻게요?
+<SYNC Start=937605><P Class=ENCC>&nbsp;
+<SYNC Start=947284><P Class=ENCC>
+담당자와 얘기하러 왔어요
+<SYNC Start=948900><P Class=ENCC>&nbsp;
+<SYNC Start=955487><P Class=ENCC>
+네?
+<SYNC Start=957432><P Class=ENCC>&nbsp;
+<SYNC Start=957721><P Class=ENCC>
+체첸니아 대통령을 암살하려는
+<SYNC Start=958793><P Class=ENCC>&nbsp;
+<SYNC Start=958828><P Class=ENCC>
+정보를 가지고 있어요
+<SYNC Start=962246><P Class=ENCC>&nbsp;
+<SYNC Start=969146><P Class=ENCC>
+그 이집트 사람이 작업했을 걸로
+<SYNC Start=970813><P Class=ENCC>&nbsp;
+<SYNC Start=970848><P Class=ENCC>
+추정되는 에어컨 목록이에요
+<SYNC Start=973515><P Class=ENCC>&nbsp;
+<SYNC Start=974401><P Class=ENCC>
+세상에, 너무 많아
+<SYNC Start=975184><P Class=ENCC>&nbsp;
+<SYNC Start=975186><P Class=ENCC>
+일주일에 50개는 운반했어요
+<SYNC Start=977019><P Class=ENCC>&nbsp;
+<SYNC Start=977021><P Class=ENCC>
+
+<SYNC Start=979021><P Class=ENCC>&nbsp;
+<SYNC Start=982513><P Class=ENCC>
+미스코바입니다
+<SYNC Start=983193><P Class=ENCC>&nbsp;
+<SYNC Start=988679><P Class=ENCC>
+곧 그리로 가죠
+<SYNC Start=989679><P Class=ENCC>&nbsp;
+<SYNC Start=993621><P Class=ENCC>
+알겠어요
+<SYNC Start=996005><P Class=ENCC>&nbsp;
+<SYNC Start=996040><P Class=ENCC>
+가비 사무실이에요
+<SYNC Start=998173><P Class=ENCC>&nbsp;
+<SYNC Start=998209><P Class=ENCC>
+베슬란이 자수했어요
+<SYNC Start=999898><P Class=ENCC>&nbsp;
+<SYNC Start=1001882><P Class=ENCC>
+그자식이 케이트가 어딨는지 말할거요
+<SYNC Start=1003132><P Class=ENCC>&nbsp;
+<SYNC Start=1003210><P Class=ENCC>
+내가 그자를 보러 가겠소
+<SYNC Start=1004597><P Class=ENCC>&nbsp;
+<SYNC Start=1004632><P Class=ENCC>
+당신 차례를 기다려요
+<SYNC Start=1006186><P Class=ENCC>&nbsp;
+<SYNC Start=1006225><P Class=ENCC>
+사이먼과 가비가 먼저 심문할거니까
+<SYNC Start=1007800><P Class=ENCC>&nbsp;
+<SYNC Start=1007852><P Class=ENCC>
+그럼 다시 전화해요, 니나
+<SYNC Start=1009018><P Class=ENCC>&nbsp;
+<SYNC Start=1009053><P Class=ENCC>
+케이트에 대해 물어보라고 전해요
+<SYNC Start=1011272><P Class=ENCC>&nbsp;
+<SYNC Start=1011459><P Class=ENCC>
+마틴, 그 사람들이 알아서 할거예요
+<SYNC Start=1012221><P Class=ENCC>&nbsp;
+<SYNC Start=1012223><P Class=ENCC>
+아무래도 그자가 먼저 얘기하는건
+<SYNC Start=1014023><P Class=ENCC>&nbsp;
+<SYNC Start=1014058><P Class=ENCC>
+다른 것과 관련된 것 같아요
+<SYNC Start=1015347><P Class=ENCC>&nbsp;
+<SYNC Start=1017121><P Class=ENCC>
+내 삼촌, 타미르가
+<SYNC Start=1018560><P Class=ENCC>&nbsp;
+<SYNC Start=1018562><P Class=ENCC>
+두명의 체첸 사라을 도와달라고 했어요
+<SYNC Start=1020195><P Class=ENCC>&nbsp;
+<SYNC Start=1020231><P Class=ENCC>
+이 나라로 들어올 수 있게요
+<SYNC Start=1021730><P Class=ENCC>&nbsp;
+<SYNC Start=1021732><P Class=ENCC>
+저한테는 그냥 노동자라고 했어요
+<SYNC Start=1023649><P Class=ENCC>&nbsp;
+<SYNC Start=1023701><P Class=ENCC>
+프라하에 일자리를 구하러 온거라고요
+<SYNC Start=1025618><P Class=ENCC>&nbsp;
+<SYNC Start=1025653><P Class=ENCC>
+제가 그들의 여권을 줬죠, 그게 다예요
+<SYNC Start=1027736><P Class=ENCC>&nbsp;
+<SYNC Start=1027788><P Class=ENCC>
+하지만 그자들이 말하는걸 들었는데
+<SYNC Start=1030156><P Class=ENCC>&nbsp;
+<SYNC Start=1031258><P Class=ENCC>
+알사노브 대통령을 죽이려고 왔다고 했어요
+<SYNC Start=1034076><P Class=ENCC>&nbsp;
+<SYNC Start=1035169><P Class=ENCC>
+대통령은 아주 훌륭한 사람이라서
+<SYNC Start=1036078><P Class=ENCC>&nbsp;
+<SYNC Start=1036849><P Class=ENCC>
+이걸 막아야겠다는 생각이 들었죠
+<SYNC Start=1038130><P Class=ENCC>&nbsp;
+<SYNC Start=1038896><P Class=ENCC>
+당신들이 경고해줘야 되요
+<SYNC Start=1040416><P Class=ENCC>&nbsp;
+<SYNC Start=1051646><P Class=ENCC>
+우리는 타미르가 테러 공격을<br>꾸민다고 생각했는데
+<SYNC Start=1053345><P Class=ENCC>&nbsp;
+<SYNC Start=1053397><P Class=ENCC>
+실제로는 암살 계획이었던 거예요
+<SYNC Start=1054763><P Class=ENCC>&nbsp;
+<SYNC Start=1054815><P Class=ENCC>
+아니요, 저자는 지금
+<SYNC Start=1056098><P Class=ENCC>&nbsp;
+<SYNC Start=1056150><P Class=ENCC>
+조인식에 보안요원을 더 밀어넣으려고 하는 거예요
+<SYNC Start=1058067><P Class=ENCC>&nbsp;
+<SYNC Start=1058102><P Class=ENCC>
+위협에 대해 경고하고 경찰을 보내면
+<SYNC Start=1059768><P Class=ENCC>&nbsp;
+<SYNC Start=1059770><P Class=ENCC>
+폭탄은 다른 곳에서 터지겠죠
+<SYNC Start=1061442><P Class=ENCC>&nbsp;
+<SYNC Start=1061653><P Class=ENCC>
+그럴 수도 있죠
+<SYNC Start=1062294><P Class=ENCC>&nbsp;
+<SYNC Start=1063567><P Class=ENCC>
+하지만 알사노브 보안팀에 알려야겠어요
+<SYNC Start=1066191><P Class=ENCC>&nbsp;
+<SYNC Start=1068779><P Class=ENCC>
+알려줘서 감사합니다
+<SYNC Start=1070329><P Class=ENCC>&nbsp;
+<SYNC Start=1070364><P Class=ENCC>
+체첸니아는 새로운 기회의 땅입니다
+<SYNC Start=1072476><P Class=ENCC>&nbsp;
+<SYNC Start=1073890><P Class=ENCC>
+실례하겠습니다, 대통령 각하
+<SYNC Start=1075084><P Class=ENCC>&nbsp;
+<SYNC Start=1076601><P Class=ENCC>
+대통령 각하를 노린다는 정보를 받았습니다<br>안전한 장소로 이동하셔야 될것 같습니다
+<SYNC Start=1083521><P Class=ENCC>&nbsp;
+<SYNC Start=1087414><P Class=ENCC>
+실례하죠, 여러분
+<SYNC Start=1088630><P Class=ENCC>&nbsp;
+<SYNC Start=1089688><P Class=ENCC>
+비밀 하나를 알려주지
+<SYNC Start=1091300><P Class=ENCC>&nbsp;
+<SYNC Start=1091302><P Class=ENCC>
+우리는 너와 타미르르
+<SYNC Start=1093185><P Class=ENCC>&nbsp;
+<SYNC Start=1093220><P Class=ENCC>
+지난 6달동안 감시하고 있었어
+<SYNC Start=1095637><P Class=ENCC>&nbsp;
+<SYNC Start=1095639><P Class=ENCC>
+네가 케이트 크로포드를 파리에서 꺼내온걸 알아
+<SYNC Start=1097960><P Class=ENCC>&nbsp;
+<SYNC Start=1098242><P Class=ENCC>
+지금 어딨지?
+<SYNC Start=1099257><P Class=ENCC>&nbsp;
+<SYNC Start=1100406><P Class=ENCC>
+나도 몰라요
+<SYNC Start=1101777><P Class=ENCC>&nbsp;
+<SYNC Start=1104281><P Class=ENCC>
+감옥에 가야겠군, 베슬란
+<SYNC Start=1106442><P Class=ENCC>&nbsp;
+<SYNC Start=1106481><P Class=ENCC>
+내가 대통령의 목숨을 살린걸 안다면
+<SYNC Start=1108117><P Class=ENCC>&nbsp;
+<SYNC Start=1108152><P Class=ENCC>
+날 도와줄거예요
+<SYNC Start=1109622><P Class=ENCC>&nbsp;
+<SYNC Start=1109653><P Class=ENCC>
+타미르가 뭘 꾸몄던간에<br>너도 연관되어 있지
+<SYNC Start=1111870><P Class=ENCC>&nbsp;
+<SYNC Start=1111906><P Class=ENCC>
+우리가 알사노브에게 확실히 알려줄거야
+<SYNC Start=1113455><P Class=ENCC>&nbsp;
+<SYNC Start=1113491><P Class=ENCC>
+네가 그를 살린게 아니라
+<SYNC Start=1116241><P Class=ENCC>&nbsp;
+<SYNC Start=1116293><P Class=ENCC>
+네가 죽이려 했다고 말야
+<SYNC Start=1118243><P Class=ENCC>&nbsp;
+<SYNC Start=1120755><P Class=ENCC>
+살길 원해?
+<SYNC Start=1122081><P Class=ENCC>&nbsp;
+<SYNC Start=1123388><P Class=ENCC>
+그럼 아는대로 전부 얘기해
+<SYNC Start=1124388><P Class=ENCC>&nbsp;
+<SYNC Start=1124653><P Class=ENCC>
+이 남자들이 누구고<br>뭘 꾸미고 있는거지?
+<SYNC Start=1127263><P Class=ENCC>&nbsp;
+<SYNC Start=1127317><P Class=ENCC>
+언제 진행할거고?
+<SYNC Start=1128387><P Class=ENCC>&nbsp;
+<SYNC Start=1133344><P Class=ENCC>
+삼촌 부탁으로 그 사람들 호텔방을 예약했어요
+<SYNC Start=1135894><P Class=ENCC>&nbsp;
+<SYNC Start=1137010><P Class=ENCC>
+차량도요
+<SYNC Start=1137813><P Class=ENCC>&nbsp;
+<SYNC Start=1138776><P Class=ENCC>
+어떤거지?
+<SYNC Start=1139932><P Class=ENCC>&nbsp;
+<SYNC Start=1155143><P Class=ENCC>
+뭔가 속임수를 쓸거예요
+<SYNC Start=1156448><P Class=ENCC>&nbsp;
+<SYNC Start=1156500><P Class=ENCC>
+뭘요?
+<SYNC Start=1158083><P Class=ENCC>&nbsp;
+<SYNC Start=1158119><P Class=ENCC>
+사고, 비상사태
+<SYNC Start=1159952><P Class=ENCC>&nbsp;
+<SYNC Start=1160004><P Class=ENCC>
+구급차 모두 속임수가 될수 있어요
+<SYNC Start=1161954><P Class=ENCC>&nbsp;
+<SYNC Start=1162006><P Class=ENCC>
+폭탄 제조자가
+<SYNC Start=1163422><P Class=ENCC>&nbsp;
+<SYNC Start=1163457><P Class=ENCC>
+큰 비상사태를 만들 수 있죠, 안그래요?
+<SYNC Start=1165207><P Class=ENCC>&nbsp;
+<SYNC Start=1165259><P Class=ENCC>
+폭발로 알사노브가 죽을수도 있죠
+<SYNC Start=1167259><P Class=ENCC>&nbsp;
+<SYNC Start=1167294><P Class=ENCC>
+아니면...
+<SYNC Start=1169428><P Class=ENCC>&nbsp;
+<SYNC Start=1169463><P Class=ENCC>
+두명의 암살자가 구급차에서 대기하고 있을거예요
+<SYNC Start=1172131><P Class=ENCC>&nbsp;
+<SYNC Start=1172183><P Class=ENCC>
+조인식에서 대피시킬때 말이죠
+<SYNC Start=1174133><P Class=ENCC>&nbsp;
+<SYNC Start=1174185><P Class=ENCC>
+조인식에서 주의를 딴데로 돌리고
+<SYNC Start=1176051><P Class=ENCC>&nbsp;
+<SYNC Start=1176103><P Class=ENCC>
+알사노르를 다른 곳에서 죽이려고 한다면요?
+<SYNC Start=1178270><P Class=ENCC>&nbsp;
+<SYNC Start=1178676><P Class=ENCC>
+어디요?<br>차량 행렬할떄?
+<SYNC Start=1179805><P Class=ENCC>&nbsp;
+<SYNC Start=1182348><P Class=ENCC>
+아니면 호텔에서요
+<SYNC Start=1183275><P Class=ENCC>&nbsp;
+<SYNC Start=1185778><P Class=ENCC>
+당장 인터콘티넨셜에 연락해서<br>즉시 대피시키라고 해
+<SYNC Start=1188887><P Class=ENCC>&nbsp;
+<SYNC Start=1191819><P Class=ENCC>
+
+<SYNC Start=1193569><P Class=ENCC>&nbsp;
+<SYNC Start=1196290><P Class=ENCC>
+
+<SYNC Start=1198490><P Class=ENCC>&nbsp;
+<SYNC Start=1221932><P Class=ENCC>
+
+<SYNC Start=1224016><P Class=ENCC>&nbsp;
+<SYNC Start=1226937><P Class=ENCC>
+
+<SYNC Start=1228270><P Class=ENCC>&nbsp;
+<SYNC Start=1230570><P Class=ENCC>
+
+<SYNC Start=1231601><P Class=ENCC>&nbsp;
+<SYNC Start=1232328><P Class=ENCC>
+
+<SYNC Start=1233942><P Class=ENCC>&nbsp;
+<SYNC Start=1251128><P Class=ENCC>
+
+<SYNC Start=1252294><P Class=ENCC>&nbsp;
+<SYNC Start=1252296><P Class=ENCC>
+호텔을 벗어날 보안 프로토콜이 뭐죠?
+<SYNC Start=1255130><P Class=ENCC>&nbsp;
+<SYNC Start=1255132><P Class=ENCC>
+하역장쪽으로 탈출하는 겁니다
+<SYNC Start=1256431><P Class=ENCC>&nbsp;
+<SYNC Start=1256467><P Class=ENCC>
+이미 탈출했고요
+<SYNC Start=1257633><P Class=ENCC>&nbsp;
+<SYNC Start=1258519><P Class=ENCC>
+왜 물으시는 거죠?
+<SYNC Start=1259518><P Class=ENCC>&nbsp;
+<SYNC Start=1259553><P Class=ENCC>
+하역장으로 가
+<SYNC Start=1260552><P Class=ENCC>&nbsp;
+<SYNC Start=1262056><P Class=ENCC>
+
+<SYNC Start=1263856><P Class=ENCC>&nbsp;
+<SYNC Start=1267456><P Class=ENCC>
+어떤 놈이 날 죽이려는지 알아내
+<SYNC Start=1270026><P Class=ENCC>&nbsp;
+<SYNC Start=1276654><P Class=ENCC>
+
+<SYNC Start=1278654><P Class=ENCC>&nbsp;
+<SYNC Start=1283494><P Class=ENCC>
+대통령은 어디에 있어?
+<SYNC Start=1284588><P Class=ENCC>&nbsp;
+<SYNC Start=1287164><P Class=ENCC>
+
+<SYNC Start=1289164><P Class=ENCC>&nbsp;
+<SYNC Start=1291631><P Class=ENCC>
+하역장으로 어떻게 가죠?
+<SYNC Start=1293443><P Class=ENCC>&nbsp;
+<SYNC Start=1295021><P Class=ENCC>
+따라와
+<SYNC Start=1296038><P Class=ENCC>&nbsp;
+<SYNC Start=1304315><P Class=ENCC>
+
+<SYNC Start=1306348><P Class=ENCC>&nbsp;
+<SYNC Start=1306350><P Class=ENCC>
+그냥 가세요
+<SYNC Start=1307399><P Class=ENCC>&nbsp;
+<SYNC Start=1307434><P Class=ENCC>
+가라고!
+<SYNC Start=1308350><P Class=ENCC>&nbsp;
+<SYNC Start=1309353><P Class=ENCC>
+경찰이다!
+<SYNC Start=1310569><P Class=ENCC>&nbsp;
+<SYNC Start=1310604><P Class=ENCC>
+손 들어!
+<SYNC Start=1313071><P Class=ENCC>&nbsp;
+<SYNC Start=1313780><P Class=ENCC>
+총을 가지고 있다!
+<SYNC Start=1315139><P Class=ENCC>&nbsp;
+<SYNC Start=1321532><P Class=ENCC>
+
+<SYNC Start=1323532><P Class=ENCC>&nbsp;
+<SYNC Start=1342269><P Class=ENCC>
+
+<SYNC Start=1343268><P Class=ENCC>&nbsp;
+<SYNC Start=1354357><P Class=ENCC>
+
+<SYNC Start=1356685><P Class=ENCC>&nbsp;
+<SYNC Start=1369546><P Class=ENCC>
+
+<SYNC Start=1372331><P Class=ENCC>&nbsp;
+<SYNC Start=1376717><P Class=ENCC>
+<i>프라하<br>2001년</i>
+<SYNC Start=1379912><P Class=ENCC>&nbsp;
+<SYNC Start=1386646><P Class=ENCC>
+커티스
+<SYNC Start=1387950><P Class=ENCC>&nbsp;
+<SYNC Start=1388349><P Class=ENCC>
+나야, 나 여기있어
+<SYNC Start=1390732><P Class=ENCC>&nbsp;
+<SYNC Start=1392646><P Class=ENCC>
+그자 잡았어?
+<SYNC Start=1393841><P Class=ENCC>&nbsp;
+<SYNC Start=1395302><P Class=ENCC>
+아직
+<SYNC Start=1395982><P Class=ENCC>&nbsp;
+<SYNC Start=1396849><P Class=ENCC>
+찾고 있어
+<SYNC Start=1397833><P Class=ENCC>&nbsp;
+<SYNC Start=1398982><P Class=ENCC>
+
+<SYNC Start=1399688><P Class=ENCC>&nbsp;
+<SYNC Start=1401469><P Class=ENCC>
+다리가 너무 아파
+<SYNC Start=1403344><P Class=ENCC>&nbsp;
+<SYNC Start=1408887><P Class=ENCC>
+커티스<br>총알이 뼈를 작살내고
+<SYNC Start=1412410><P Class=ENCC>&nbsp;
+<SYNC Start=1413777><P Class=ENCC>
+동맥을 끊었어
+<SYNC Start=1415611><P Class=ENCC>&nbsp;
+<SYNC Start=1417143><P Class=ENCC>
+의사는 다른 방법이 없었데
+<SYNC Start=1418728><P Class=ENCC>&nbsp;
+<SYNC Start=1420680><P Class=ENCC>
+네 다리를 자를 수밖에 없었어
+<SYNC Start=1423731><P Class=ENCC>&nbsp;
+<SYNC Start=1426414><P Class=ENCC>
+아냐
+<SYNC Start=1427154><P Class=ENCC>&nbsp;
+<SYNC Start=1428536><P Class=ENCC>
+그럴리 없어, 느껴져
+<SYNC Start=1429818><P Class=ENCC>&nbsp;
+<SYNC Start=1440312><P Class=ENCC>
+그걸 환상통이라고 부른데
+<SYNC Start=1442453><P Class=ENCC>&nbsp;
+<SYNC Start=1444992><P Class=ENCC>
+정말...정말 유감이야
+<SYNC Start=1448088><P Class=ENCC>&nbsp;
+<SYNC Start=1451918><P Class=ENCC>
+나 혼자 있게 해줘
+<SYNC Start=1453246><P Class=ENCC>&nbsp;
+<SYNC Start=1468449><P Class=ENCC>
+
+<SYNC Start=1469261><P Class=ENCC>&nbsp;
+<SYNC Start=1477785><P Class=ENCC>
+상태는 어때?
+<SYNC Start=1478785><P Class=ENCC>&nbsp;
+<SYNC Start=1480875><P Class=ENCC>
+어떨것 같아요?
+<SYNC Start=1482694><P Class=ENCC>&nbsp;
+<SYNC Start=1483609><P Class=ENCC>
+괜찮아?
+<SYNC Start=1484609><P Class=ENCC>&nbsp;
+<SYNC Start=1485995><P Class=ENCC>
+
+<SYNC Start=1487411><P Class=ENCC>&nbsp;
+<SYNC Start=1487659><P Class=ENCC>
+현장에서 찾은거 없나요?
+<SYNC Start=1489432><P Class=ENCC>&nbsp;
+<SYNC Start=1490581><P Class=ENCC>
+어떤 단서도?
+<SYNC Start=1491581><P Class=ENCC>&nbsp;
+<SYNC Start=1492589><P Class=ENCC>
+드미트리에 대한 흔적은 없네<br>근처에서 일리아나와 그녀 딸을 발견했지
+<SYNC Start=1497913><P Class=ENCC>&nbsp;
+<SYNC Start=1499776><P Class=ENCC>
+
+<SYNC Start=1500378><P Class=ENCC>&nbsp;
+<SYNC Start=1502182><P Class=ENCC>
+일리아나랑 얘기 좀 해야겠어<br>어딨어?
+<SYNC Start=1504682><P Class=ENCC>&nbsp;
+<SYNC Start=1515825><P Class=ENCC>
+자카에바 부인
+<SYNC Start=1517825><P Class=ENCC>&nbsp;
+<SYNC Start=1535861><P Class=ENCC>
+드미트리가 보냈어요
+<SYNC Start=1537031><P Class=ENCC>&nbsp;
+<SYNC Start=1551560><P Class=ENCC>
+안녕하신가, 일리아나
+<SYNC Start=1552695><P Class=ENCC>&nbsp;
+<SYNC Start=1553529><P Class=ENCC>
+카트야
+<SYNC Start=1554895><P Class=ENCC>&nbsp;
+<SYNC Start=1554947><P Class=ENCC>
+난 드미트리 친구 중 한명이고
+<SYNC Start=1555742><P Class=ENCC>&nbsp;
+<SYNC Start=1555812><P Class=ENCC>
+테렌스라고 하네
+<SYNC Start=1557125><P Class=ENCC>&nbsp;
+<SYNC Start=1558296><P Class=ENCC>
+당신에 대해 말한 적이 없는데요
+<SYNC Start=1559570><P Class=ENCC>&nbsp;
+<SYNC Start=1559656><P Class=ENCC>
+내가 런던에 기반을 두고 있어서
+<SYNC Start=1561093><P Class=ENCC>&nbsp;
+<SYNC Start=1561187><P Class=ENCC>
+당신을 안전하게 도와달라고 부탁하더군
+<SYNC Start=1563983><P Class=ENCC>&nbsp;
+<SYNC Start=1564319><P Class=ENCC>
+내 회사가 당신들 여행에 관한 모든걸<br>처리할거네
+<SYNC Start=1566045><P Class=ENCC>&nbsp;
+<SYNC Start=1566070><P Class=ENCC>
+숙소, 여권
+<SYNC Start=1567795><P Class=ENCC>&nbsp;
+<SYNC Start=1567897><P Class=ENCC>
+모두 준비됐네
+<SYNC Start=1568889><P Class=ENCC>&nbsp;
+<SYNC Start=1576034><P Class=ENCC>
+<i>프라하<br>현재</i>
+<SYNC Start=1578307><P Class=ENCC>&nbsp;
+<SYNC Start=1578627><P Class=ENCC>
+네가 준비했지, 안그래?
+<SYNC Start=1579846><P Class=ENCC>&nbsp;
+<SYNC Start=1580487><P Class=ENCC>
+여권, 총, 구급차 모두?
+<SYNC Start=1582530><P Class=ENCC>&nbsp;
+<SYNC Start=1582835><P Class=ENCC>
+아뇨, 말했잖아요
+<SYNC Start=1583818><P Class=ENCC>&nbsp;
+<SYNC Start=1583857><P Class=ENCC>
+- 총은 모른다고요<br>- 아직 안 끝났어!
+<SYNC Start=1585631><P Class=ENCC>&nbsp;
+<SYNC Start=1586701><P Class=ENCC>
+- 케이트 어딨어?!<br>- 진정해!
+<SYNC Start=1588562><P Class=ENCC>&nbsp;
+<SYNC Start=1588597><P Class=ENCC>
+
+<SYNC Start=1589513><P Class=ENCC>&nbsp;
+<SYNC Start=1589565><P Class=ENCC>
+넌 누구야?
+<SYNC Start=1590927><P Class=ENCC>&nbsp;
+<SYNC Start=1590982><P Class=ENCC>
+당장 어딨는지 말해<br>안그러면 맹세코 네놈을 죽여버리겠어
+<SYNC Start=1595235><P Class=ENCC>&nbsp;
+<SYNC Start=1595271><P Class=ENCC>
+이 사람 좀 치워줘요!
+<SYNC Start=1596372><P Class=ENCC>&nbsp;
+<SYNC Start=1596997><P Class=ENCC>
+커피나 한잔 하러 가지
+<SYNC Start=1598239><P Class=ENCC>&nbsp;
+<SYNC Start=1599608><P Class=ENCC>
+
+<SYNC Start=1601241><P Class=ENCC>&nbsp;
+<SYNC Start=1602816><P Class=ENCC>
+네놈한테 무슨짓을 해도 아무도 관심없어
+<SYNC Start=1605199><P Class=ENCC>&nbsp;
+<SYNC Start=1605488><P Class=ENCC>
+어딨는지 말해
+<SYNC Start=1607394><P Class=ENCC>&nbsp;
+<SYNC Start=1612457><P Class=ENCC>
+체첸니아
+<SYNC Start=1613652><P Class=ENCC>&nbsp;
+<SYNC Start=1614871><P Class=ENCC>
+대통령 별장에 있어
+<SYNC Start=1616949><P Class=ENCC>&nbsp;
+<SYNC Start=1622464><P Class=ENCC>
+절대 못 데리고 올거야
+<SYNC Start=1624848><P Class=ENCC>&nbsp;
+<SYNC Start=1626011><P Class=ENCC>
+대통령이랑 결혼할거거든
+<SYNC Start=1628300><P Class=ENCC>&nbsp;
+<SYNC Start=1632300><P Class=ENCC>
+<i>체첸니아<br>현재</i>
+<SYNC Start=1634151><P Class=ENCC>&nbsp;
+<SYNC Start=1634706><P Class=ENCC>
+
+<SYNC Start=1636560><P Class=ENCC>&nbsp;
+<SYNC Start=1643474><P Class=ENCC>
+
+<SYNC Start=1645285><P Class=ENCC>&nbsp;
+<SYNC Start=1645951><P Class=ENCC>
+네?
+<SYNC Start=1646646><P Class=ENCC>&nbsp;
+<SYNC Start=1646787><P Class=ENCC>
+뭐라고 하는 거예요?
+<SYNC Start=1647552><P Class=ENCC>&nbsp;
+<SYNC Start=1647638><P Class=ENCC>
+누가 대통령을 죽이려고 했지만
+<SYNC Start=1649927><P Class=ENCC>&nbsp;
+<SYNC Start=1649974><P Class=ENCC>
+살아남았데, 신이시여
+<SYNC Start=1651482><P Class=ENCC>&nbsp;
+<SYNC Start=1652747><P Class=ENCC>
+여기고 오고 있단다
+<SYNC Start=1653919><P Class=ENCC>&nbsp;
+<SYNC Start=1656380><P Class=ENCC>
+<i>9명이 사망하고<br>33명이 중상을 입었습니다</i>
+<SYNC Start=1659114><P Class=ENCC>&nbsp;
+<SYNC Start=1659450><P Class=ENCC>
+<i>폭탄을 작동시키는데 사용한 핸드폰은</i>
+<SYNC Start=1660778><P Class=ENCC>&nbsp;
+<SYNC Start=1660803><P Class=ENCC>
+<i>무장 괴한들 차량에서 발견됐으며</i>
+<SYNC Start=1663098><P Class=ENCC>&nbsp;
+<SYNC Start=1663278><P Class=ENCC>
+<i>지휘 당국에 따르면</i>
+<SYNC Start=1664457><P Class=ENCC>&nbsp;
+<SYNC Start=1664676><P Class=ENCC>
+<i>두명의 체첸인의 소행으로 밝혀졌습니다</i>
+<SYNC Start=1666434><P Class=ENCC>&nbsp;
+<SYNC Start=1668754><P Class=ENCC>
+<i>프라하<br>2001년</i>
+<SYNC Start=1671458><P Class=ENCC>&nbsp;
+<SYNC Start=1672825><P Class=ENCC>
+<i>엘더 핸샌<br>말일 성도 예수 그리스도 교회</i>
+<SYNC Start=1675887><P Class=ENCC>&nbsp;
+<SYNC Start=1688038><P Class=ENCC>
+커티스?
+<SYNC Start=1689863><P Class=ENCC>&nbsp;
+<SYNC Start=1689915><P Class=ENCC>
+뭐하는거야?
+<SYNC Start=1691365><P Class=ENCC>&nbsp;
+<SYNC Start=1693354><P Class=ENCC>
+
+<SYNC Start=1694229><P Class=ENCC>&nbsp;
+<SYNC Start=1694541><P Class=ENCC>
+아무것도, 그냥...
+<SYNC Start=1695924><P Class=ENCC>&nbsp;
+<SYNC Start=1703026><P Class=ENCC>
+핸슨이 누구야?
+<SYNC Start=1704143><P Class=ENCC>&nbsp;
+<SYNC Start=1708764><P Class=ENCC>
+내 모르몬 교회 동반자였어
+<SYNC Start=1711108><P Class=ENCC>&nbsp;
+<SYNC Start=1711756><P Class=ENCC>
+내가 어렸을때
+<SYNC Start=1712623><P Class=ENCC>&nbsp;
+<SYNC Start=1716678><P Class=ENCC>
+살해당했지
+<SYNC Start=1719142><P Class=ENCC>&nbsp;
+<SYNC Start=1722481><P Class=ENCC>
+유감이야
+<SYNC Start=1723615><P Class=ENCC>&nbsp;
+<SYNC Start=1731459><P Class=ENCC>
+내 잘못이였어
+<SYNC Start=1732556><P Class=ENCC>&nbsp;
+<SYNC Start=1733900><P Class=ENCC>
+핸슨이 죽고 신에게 맹세했지
+<SYNC Start=1738236><P Class=ENCC>&nbsp;
+<SYNC Start=1739236><P Class=ENCC>
+경찰이 되서 정의를 바로 세우겠다고
+<SYNC Start=1743076><P Class=ENCC>&nbsp;
+<SYNC Start=1744670><P Class=ENCC>
+나쁜 놈들과 싸우겠다고
+<SYNC Start=1746670><P Class=ENCC>&nbsp;
+<SYNC Start=1748590><P Class=ENCC>
+순 거짓말이지, 안그래?
+<SYNC Start=1751091><P Class=ENCC>&nbsp;
+<SYNC Start=1753442><P Class=ENCC>
+드미트리를 놓친걸 신이 이해해줄거라 생각해
+<SYNC Start=1757184><P Class=ENCC>&nbsp;
+<SYNC Start=1759068><P Class=ENCC>
+왜냐면 그자를 잡으려고 했다가
+<SYNC Start=1761251><P Class=ENCC>&nbsp;
+<SYNC Start=1763978><P Class=ENCC>
+너가 죽었을거야
+<SYNC Start=1765274><P Class=ENCC>&nbsp;
+<SYNC Start=1768616><P Class=ENCC>
+신이 그걸 원하지는 않았을거야
+<SYNC Start=1772079><P Class=ENCC>&nbsp;
+<SYNC Start=1776661><P Class=ENCC>
+
+<SYNC Start=1778418><P Class=ENCC>&nbsp;
+<SYNC Start=1783521><P Class=ENCC>
+
+<SYNC Start=1786426><P Class=ENCC>&nbsp;
+<SYNC Start=1805490><P Class=ENCC>
+
+<SYNC Start=1808565><P Class=ENCC>&nbsp;
+<SYNC Start=1817984><P Class=ENCC>
+<i>워싱턴 D.C<br>2001년</i>
+<SYNC Start=1820905><P Class=ENCC>&nbsp;
+<SYNC Start=1823335><P Class=ENCC>
+돌아와야겠네, 발러드 요원
+<SYNC Start=1825020><P Class=ENCC>&nbsp;
+<SYNC Start=1825074><P Class=ENCC>
+페트로비치를 잡기 전까지 돌아가지 않을겁니다
+<SYNC Start=1827671><P Class=ENCC>&nbsp;
+<SYNC Start=1827706><P Class=ENCC>
+더 많은 자원과 더 큰 팀을...
+<SYNC Start=1829623><P Class=ENCC>&nbsp;
+<SYNC Start=1829625><P Class=ENCC>
+뉴스를 보기는 했나?
+<SYNC Start=1831291><P Class=ENCC>&nbsp;
+<SYNC Start=1831343><P Class=ENCC>
+누구도 러시아 조직 폭력배 따위에<br>관심이 없네, 커티스
+<SYNC Start=1834761><P Class=ENCC>&nbsp;
+<SYNC Start=1834796><P Class=ENCC>
+
+<SYNC Start=1836796><P Class=ENCC>&nbsp;
+<SYNC Start=1845103><P Class=ENCC>
+점심 사왔어
+<SYNC Start=1846369><P Class=ENCC>&nbsp;
+<SYNC Start=1846947><P Class=ENCC>
+미국 햄버거 가게에서
+<SYNC Start=1848692><P Class=ENCC>&nbsp;
+<SYNC Start=1848727><P Class=ENCC>
+병원 음식 대신에...
+<SYNC Start=1850310><P Class=ENCC>&nbsp;
+<SYNC Start=1850312><P Class=ENCC>
+위에서 D.C로 돌아오래
+<SYNC Start=1852279><P Class=ENCC>&nbsp;
+<SYNC Start=1853472><P Class=ENCC>
+
+<SYNC Start=1854314><P Class=ENCC>&nbsp;
+<SYNC Start=1857355><P Class=ENCC>
+언제부터 발러드 요원이
+<SYNC Start=1859369><P Class=ENCC>&nbsp;
+<SYNC Start=1859404><P Class=ENCC>
+명령에 복종했어?
+<SYNC Start=1860898><P Class=ENCC>&nbsp;
+<SYNC Start=1862155><P Class=ENCC>
+인터폴에 친구가 있어
+<SYNC Start=1863952><P Class=ENCC>&nbsp;
+<SYNC Start=1864726><P Class=ENCC>
+거기서 일할수 있을거야
+<SYNC Start=1865825><P Class=ENCC>&nbsp;
+<SYNC Start=1865827><P Class=ENCC>
+드미트리를 계속 찾을 수 있고
+<SYNC Start=1867377><P Class=ENCC>&nbsp;
+<SYNC Start=1868968><P Class=ENCC>
+왜 계속 여기에 오는거야?
+<SYNC Start=1870630><P Class=ENCC>&nbsp;
+<SYNC Start=1871296><P Class=ENCC>
+음식을 가져오고 날 격려해주고
+<SYNC Start=1873166><P Class=ENCC>&nbsp;
+<SYNC Start=1873218><P Class=ENCC>
+난 동정은 필요없어
+<SYNC Start=1874668><P Class=ENCC>&nbsp;
+<SYNC Start=1880918><P Class=ENCC>
+정말 모르는구나, 그렇지?
+<SYNC Start=1882475><P Class=ENCC>&nbsp;
+<SYNC Start=1885480><P Class=ENCC>
+널 동정하는게 아냐, 커티스
+<SYNC Start=1887480><P Class=ENCC>&nbsp;
+<SYNC Start=1899361><P Class=ENCC>
+널 좋아해
+<SYNC Start=1900164><P Class=ENCC>&nbsp;
+<SYNC Start=1920936><P Class=ENCC>
+나랑 결혼하자, 가비
+<SYNC Start=1922215><P Class=ENCC>&nbsp;
+<SYNC Start=1922905><P Class=ENCC>
+뭐?
+<SYNC Start=1924267><P Class=ENCC>&nbsp;
+<SYNC Start=1924303><P Class=ENCC>
+이곳에 머물고 일자리를 구할 수 있어
+<SYNC Start=1926269><P Class=ENCC>&nbsp;
+<SYNC Start=1926305><P Class=ENCC>
+인터폴도 괜찮아<br>상관없어
+<SYNC Start=1928221><P Class=ENCC>&nbsp;
+<SYNC Start=1928223><P Class=ENCC>
+아이를 가질수도 있지
+<SYNC Start=1929805><P Class=ENCC>&nbsp;
+<SYNC Start=1931751><P Class=ENCC>
+
+<SYNC Start=1933276><P Class=ENCC>&nbsp;
+<SYNC Start=1933312><P Class=ENCC>
+커티스, 널 좋아한다고 했지<br>너와 결혼하겠다고 말한건 아냐
+<SYNC Start=1937731><P Class=ENCC>&nbsp;
+<SYNC Start=1940702><P Class=ENCC>
+그냥...
+<SYNC Start=1942569><P Class=ENCC>&nbsp;
+<SYNC Start=1945032><P Class=ENCC>
+난...결혼이랑 어울리는 체질이 아냐
+<SYNC Start=1947624><P Class=ENCC>&nbsp;
+<SYNC Start=1958818><P Class=ENCC>
+<i>체첸니아<br>현재</i>
+<SYNC Start=1959818><P Class=ENCC>&nbsp;
+<SYNC Start=1960255><P Class=ENCC>
+그 사람이랑 결혼할 필요없다고 했잖아요
+<SYNC Start=1962722><P Class=ENCC>&nbsp;
+<SYNC Start=1962867><P Class=ENCC>
+다시 볼일 절대 없다고
+<SYNC Start=1963922><P Class=ENCC>&nbsp;
+<SYNC Start=1964000><P Class=ENCC>
+항상 계획대로 되는게 아니란다
+<SYNC Start=1965925><P Class=ENCC>&nbsp;
+<SYNC Start=1965977><P Class=ENCC>
+이제 앞으로 나아가야지
+<SYNC Start=1967977><P Class=ENCC>&nbsp;
+<SYNC Start=1971744><P Class=ENCC>
+그 사람이 돌아오지 못할거라고 했잖아요
+<SYNC Start=1973322><P Class=ENCC>&nbsp;
+<SYNC Start=1974963><P Class=ENCC>
+그 말은 누군가 그사람을 죽일거라는걸<br>알고 있었다는 거죠
+<SYNC Start=1977049><P Class=ENCC>&nbsp;
+<SYNC Start=1977533><P Class=ENCC>
+제가 그걸 말할 수도 있어요
+<SYNC Start=1979322><P Class=ENCC>&nbsp;
+<SYNC Start=1983236><P Class=ENCC>
+네가 그렇게 한다면
+<SYNC Start=1984444><P Class=ENCC>&nbsp;
+<SYNC Start=1985385><P Class=ENCC>
+난 타미르의 계획이 실패하면
+<SYNC Start=1988415><P Class=ENCC>&nbsp;
+<SYNC Start=1988953><P Class=ENCC>
+네가 결혼식 첫날에 죽인다고 했다고 말한거란다
+<SYNC Start=1991055><P Class=ENCC>&nbsp;
+<SYNC Start=1992719><P Class=ENCC>
+- 말도 안되요<br>- 그럴까?
+<SYNC Start=1994454><P Class=ENCC>&nbsp;
+<SYNC Start=1994773><P Class=ENCC>
+넌 파리에서 테러 공격을 했던 아이잖니?
+<SYNC Start=1997234><P Class=ENCC>&nbsp;
+<SYNC Start=2001469><P Class=ENCC>
+아름다운 결혼식이 될거야
+<SYNC Start=2002906><P Class=ENCC>&nbsp;
+<SYNC Start=2010636><P Class=ENCC>
+<i>프라하<br>현재</i>
+<SYNC Start=2012909><P Class=ENCC>&nbsp;
+<SYNC Start=2013776><P Class=ENCC>
+알사노브쪽에서는 케이트에 대해<br>부인하고 있어요
+<SYNC Start=2016476><P Class=ENCC>&nbsp;
+<SYNC Start=2016478><P Class=ENCC>
+이미 비행기로<br>체첸니아로 돌아가는 길이죠
+<SYNC Start=2018389><P Class=ENCC>&nbsp;
+<SYNC Start=2020006><P Class=ENCC>
+CIA에서 구조팀을 보내면 되지 않소
+<SYNC Start=2021781><P Class=ENCC>&nbsp;
+<SYNC Start=2021817><P Class=ENCC>
+마틴, 미국은 러시아와 전세계 테러조직과
+<SYNC Start=2023867><P Class=ENCC>&nbsp;
+<SYNC Start=2023902><P Class=ENCC>
+관련해서 협력하는데 동의 했어요
+<SYNC Start=2026132><P Class=ENCC>&nbsp;
+<SYNC Start=2026390><P Class=ENCC>
+그런 상황에서
+<SYNC Start=2027115><P Class=ENCC>&nbsp;
+<SYNC Start=2027140><P Class=ENCC>
+동맹국 영토에
+<SYNC Start=2028488><P Class=ENCC>&nbsp;
+<SYNC Start=2028490><P Class=ENCC>
+무력 침공이라도 허가해야된다고<br>생각하는건가요?
+<SYNC Start=2029956><P Class=ENCC>&nbsp;
+<SYNC Start=2029991><P Class=ENCC>
+바로 그거요, 아니면?
+<SYNC Start=2030953><P Class=ENCC>&nbsp;
+<SYNC Start=2031945><P Class=ENCC>
+약속을 해놓고선<br>그냥 이래도 방치하겠단 말이오?
+<SYNC Start=2034599><P Class=ENCC>&nbsp;
+<SYNC Start=2035755><P Class=ENCC>
+당신이 타미르 컴퓨터에서
+<SYNC Start=2037247><P Class=ENCC>&nbsp;
+<SYNC Start=2037299><P Class=ENCC>
+빼내온 걸 조사해보니
+<SYNC Start=2038665><P Class=ENCC>&nbsp;
+<SYNC Start=2039161><P Class=ENCC>
+흥미러운 점을 발견했어요
+<SYNC Start=2040396><P Class=ENCC>&nbsp;
+<SYNC Start=2042091><P Class=ENCC>
+자금이 송금됐어요
+<SYNC Start=2043253><P Class=ENCC>&nbsp;
+<SYNC Start=2043305><P Class=ENCC>
+모스코바의 은행에서 말이죠
+<SYNC Start=2044846><P Class=ENCC>&nbsp;
+<SYNC Start=2045721><P Class=ENCC>
+FSB의 암호화된 언어로
+<SYNC Start=2047724><P Class=ENCC>&nbsp;
+<SYNC Start=2047925><P Class=ENCC>
+그들 꼭두각시인 알사노브는<br>어디로 튈지 모르는 사람이 됐고
+<SYNC Start=2049642><P Class=ENCC>&nbsp;
+<SYNC Start=2049678><P Class=ENCC>
+그래서 타미르에게 그자를 없애라고<br>돈을 보낸 거예요
+<SYNC Start=2051344><P Class=ENCC>&nbsp;
+<SYNC Start=2051396><P Class=ENCC>
+체첸 분리주의자들한테 덮어씌우는 거죠
+<SYNC Start=2053170><P Class=ENCC>&nbsp;
+<SYNC Start=2053397><P Class=ENCC>
+심지어 새로운 체첸 정부의
+<SYNC Start=2054931><P Class=ENCC>&nbsp;
+<SYNC Start=2054983><P Class=ENCC>
+큰 자리 하나를 약속했어요
+<SYNC Start=2056266><P Class=ENCC>&nbsp;
+<SYNC Start=2056318><P Class=ENCC>
+누군가...
+<SYNC Start=2057835><P Class=ENCC>&nbsp;
+<SYNC Start=2057860><P Class=ENCC>
+체첸니아에 가려는 사람이 있다면
+<SYNC Start=2059185><P Class=ENCC>&nbsp;
+<SYNC Start=2059237><P Class=ENCC>
+이 정보를 이용할 수 있겠죠
+<SYNC Start=2060437><P Class=ENCC>&nbsp;
+<SYNC Start=2062774><P Class=ENCC>
+전 잠깐 자리를 비울거예요
+<SYNC Start=2064524><P Class=ENCC>&nbsp;
+<SYNC Start=2064576><P Class=ENCC>
+처리반이 10분 뒤에 여기 올거고
+<SYNC Start=2066609><P Class=ENCC>&nbsp;
+<SYNC Start=2066661><P Class=ENCC>
+파일들을 전부 폐기할거예요
+<SYNC Start=2068661><P Class=ENCC>&nbsp;
+<SYNC Start=2084990><P Class=ENCC>
+내가 체첸니아로 갈거요
+<SYNC Start=2086346><P Class=ENCC>&nbsp;
+<SYNC Start=2086381><P Class=ENCC>
+케이트를 데리러
+<SYNC Start=2087964><P Class=ENCC>&nbsp;
+<SYNC Start=2088016><P Class=ENCC>
+대체 왜 그렇게까지 하는거예요?
+<SYNC Start=2090266><P Class=ENCC>&nbsp;
+<SYNC Start=2090302><P Class=ENCC>
+당신 딸이 아니잖아요
+<SYNC Start=2092170><P Class=ENCC>&nbsp;
+<SYNC Start=2093722><P Class=ENCC>
+심지어 그 애를 기억도 못하고 있죠
+<SYNC Start=2095722><P Class=ENCC>&nbsp;
+<SYNC Start=2098354><P Class=ENCC>
+다른 어느것도 기억을 못하잖아요
+<SYNC Start=2099692><P Class=ENCC>&nbsp;
+<SYNC Start=2101897><P Class=ENCC>
+몇가지 기억하는게 있소
+<SYNC Start=2103897><P Class=ENCC>&nbsp;
+<SYNC Start=2107658><P Class=ENCC>
+그네를 타는 케이트
+<SYNC Start=2108736><P Class=ENCC>&nbsp;
+<SYNC Start=2110181><P Class=ENCC>
+집에서 느낀 감정들
+<SYNC Start=2111654><P Class=ENCC>&nbsp;
+<SYNC Start=2113375><P Class=ENCC>
+내가 당신과 당신 딸과 함께 했을때...
+<SYNC Start=2115790><P Class=ENCC>&nbsp;
+<SYNC Start=2119790><P Class=ENCC>
+그걸 다시 느끼게 됐소
+<SYNC Start=2120876><P Class=ENCC>&nbsp;
+<SYNC Start=2131513><P Class=ENCC>
+일리아나
+<SYNC Start=2132683><P Class=ENCC>&nbsp;
+<SYNC Start=2134855><P Class=ENCC>
+괜찮아요
+<SYNC Start=2135929><P Class=ENCC>&nbsp;
+<SYNC Start=2135931><P Class=ENCC>
+당신이 원하는 그런 사람이 될수 없소
+<SYNC Start=2138097><P Class=ENCC>&nbsp;
+<SYNC Start=2138099><P Class=ENCC>
+그런 적도 없었지
+<SYNC Start=2139293><P Class=ENCC>&nbsp;
+<SYNC Start=2141434><P Class=ENCC>
+날 사랑했었나요?
+<SYNC Start=2142676><P Class=ENCC>&nbsp;
+<SYNC Start=2144605><P Class=ENCC>
+아주 많이
+<SYNC Start=2145905><P Class=ENCC>&nbsp;
+<SYNC Start=2147137><P Class=ENCC>
+지금은요?
+<SYNC Start=2148078><P Class=ENCC>&nbsp;
+<SYNC Start=2151906><P Class=ENCC>
+당신은 남편이 있잖소
+<SYNC Start=2152945><P Class=ENCC>&nbsp;
+<SYNC Start=2153898><P Class=ENCC>
+아이들도..
+<SYNC Start=2154734><P Class=ENCC>&nbsp;
+<SYNC Start=2157505><P Class=ENCC>
+런던으로 돌아가서
+<SYNC Start=2158552><P Class=ENCC>&nbsp;
+<SYNC Start=2160208><P Class=ENCC>
+그 사람들과 함께 보내야겠지
+<SYNC Start=2160954><P Class=ENCC>&nbsp;
+<SYNC Start=2166161><P Class=ENCC>
+케이트를 꼭 데리고 와줘요
+<SYNC Start=2167710><P Class=ENCC>&nbsp;
+<SYNC Start=2176435><P Class=ENCC>
+<i>체코 공화국<br>러시아 대사관</i>
+<SYNC Start=2180232><P Class=ENCC>&nbsp;
+<SYNC Start=2183255><P Class=ENCC>
+
+<SYNC Start=2184944><P Class=ENCC>&nbsp;
+<SYNC Start=2186755><P Class=ENCC>
+내 이름은 마틴 오덤이요
+<SYNC Start=2188114><P Class=ENCC>&nbsp;
+<SYNC Start=2188149><P Class=ENCC>
+수십년 넘게<br>영국과 미국 정보부에서 일했었소
+<SYNC Start=2191618><P Class=ENCC>&nbsp;
+<SYNC Start=2191653><P Class=ENCC>
+당신들 책임자에게 제공할<br>중요 비밀 정보를 가지고 있소
+<SYNC Start=2194954><P Class=ENCC>&nbsp;
+<SYNC Start=2196490><P Class=ENCC>
+그 사람도 나와 얘기하길 원할거요
+<SYNC Start=2198708><P Class=ENCC>&nbsp;
+<SYNC Start=2222451><P Class=ENCC>
+좀 춥다는건 알지만
+<SYNC Start=2224146><P Class=ENCC>&nbsp;
+<SYNC Start=2224295><P Class=ENCC>
+여기에 가구를 좀 놓고
+<SYNC Start=2226076><P Class=ENCC>&nbsp;
+<SYNC Start=2226263><P Class=ENCC>
+창가에 꽃을 가져다 놓으면...<br>아늑해질거네
+<SYNC Start=2229076><P Class=ENCC>&nbsp;
+<SYNC Start=2232028><P Class=ENCC>
+드미트리 아저씨!
+<SYNC Start=2233286><P Class=ENCC>&nbsp;
+<SYNC Start=2233311><P Class=ENCC>
+
+<SYNC Start=2236497><P Class=ENCC>&nbsp;
+<SYNC Start=2239050><P Class=ENCC>
+
+<SYNC Start=2240394><P Class=ENCC>&nbsp;
+<SYNC Start=2242605><P Class=ENCC>
+어서 오시오
+<SYNC Start=2243527><P Class=ENCC>&nbsp;
+<SYNC Start=2244112><P Class=ENCC>
+
+<SYNC Start=2246140><P Class=ENCC>&nbsp;
+<SYNC Start=2249615><P Class=ENCC>
+<i>프라하<br>2001년</i>
+<SYNC Start=2251591><P Class=ENCC>&nbsp;
+<SYNC Start=2251931><P Class=ENCC>
+돌아가게?
+<SYNC Start=2253115><P Class=ENCC>&nbsp;
+<SYNC Start=2254651><P Class=ENCC>
+여기에 있을수 없어, 가비
+<SYNC Start=2256604><P Class=ENCC>&nbsp;
+<SYNC Start=2256643><P Class=ENCC>
+페트로비치는 놓아줘야지
+<SYNC Start=2258729><P Class=ENCC>&nbsp;
+<SYNC Start=2262175><P Class=ENCC>
+너도 알잖아<br>내 보스 말이 맞아
+<SYNC Start=2263424><P Class=ENCC>&nbsp;
+<SYNC Start=2264595><P Class=ENCC>
+러시아 조직 폭력배에 아무도 관심 없지
+<SYNC Start=2266478><P Class=ENCC>&nbsp;
+<SYNC Start=2266513><P Class=ENCC>
+더 큰 위협이 있잖아
+<SYNC Start=2268513><P Class=ENCC>&nbsp;
+<SYNC Start=2271401><P Class=ENCC>
+내 나라에서 내 의무를 다해야지
+<SYNC Start=2273401><P Class=ENCC>&nbsp;
+<SYNC Start=2275939><P Class=ENCC>
+정말 그것때문이야?
+<SYNC Start=2278073><P Class=ENCC>&nbsp;
+<SYNC Start=2278108><P Class=ENCC>
+아니면 내가 결혼하지 않는다고 해서 그러는거야?
+<SYNC Start=2280442><P Class=ENCC>&nbsp;
+<SYNC Start=2285857><P Class=ENCC>
+우리는 서로 너무 달라, 가비
+<SYNC Start=2287380><P Class=ENCC>&nbsp;
+<SYNC Start=2289119><P Class=ENCC>
+커티스
+<SYNC Start=2290585><P Class=ENCC>&nbsp;
+<SYNC Start=2295292><P Class=ENCC>
+비행기 놓치겠다
+<SYNC Start=2296783><P Class=ENCC>&nbsp;
+<SYNC Start=2301231><P Class=ENCC>
+잘있어, 가비
+<SYNC Start=2302302><P Class=ENCC>&nbsp;
+<SYNC Start=2308606><P Class=ENCC>
+
+<SYNC Start=2309747><P Class=ENCC>&nbsp;
+<SYNC Start=2322949><P Class=ENCC>
+<i>프라하<br>현재</i>
+<SYNC Start=2324371><P Class=ENCC>&nbsp;
+<SYNC Start=2324655><P Class=ENCC>
+
+<SYNC Start=2327656><P Class=ENCC>&nbsp;
+<SYNC Start=2332442><P Class=ENCC>
+내 아내...
+<SYNC Start=2333840><P Class=ENCC>&nbsp;
+<SYNC Start=2335684><P Class=ENCC>
+영웅을 위해
+<SYNC Start=2337410><P Class=ENCC>&nbsp;
+<SYNC Start=2342042><P Class=ENCC>
+당신이 비자를 받게 한 사람이<br>호텔 폭발 계획을 세웠어
+<SYNC Start=2345416><P Class=ENCC>&nbsp;
+<SYNC Start=2347401><P Class=ENCC>
+9명의 무고한 사람이 죽었고
+<SYNC Start=2349409><P Class=ENCC>&nbsp;
+<SYNC Start=2349612><P Class=ENCC>
+
+<SYNC Start=2351179><P Class=ENCC>&nbsp;
+<SYNC Start=2353754><P Class=ENCC>
+날 믿어줘...난 전혀 몰랐다고
+<SYNC Start=2356363><P Class=ENCC>&nbsp;
+<SYNC Start=2361270><P Class=ENCC>
+이제 어떻게 하려고?
+<SYNC Start=2362519><P Class=ENCC>&nbsp;
+<SYNC Start=2368359><P Class=ENCC>
+잘거야
+<SYNC Start=2370078><P Class=ENCC>&nbsp;
+<SYNC Start=2375016><P Class=ENCC>
+<i>체첸니아<br>현재</i>
+<SYNC Start=2378109><P Class=ENCC>&nbsp;
+<SYNC Start=2378508><P Class=ENCC>
+
+<SYNC Start=2380508><P Class=ENCC>&nbsp;
+<SYNC Start=2396379><P Class=ENCC>
+<i>프라하<br>현재</i>
+<SYNC Start=2398882><P Class=ENCC>&nbsp;
+<SYNC Start=2400113><P Class=ENCC>
+
+<SYNC Start=2401312><P Class=ENCC>&nbsp;
+<SYNC Start=2412325><P Class=ENCC>
+자네가 정보를 가지고 있다고 들었네
+<SYNC Start=2415460><P Class=ENCC>&nbsp;
+<SYNC Start=2415495><P Class=ENCC>
+우리한테 알려주겠다던데..
+<SYNC Start=2418129><P Class=ENCC>&nbsp;
+<SYNC Start=2421718><P Class=ENCC>
+러시아 비밀 정보부가 이번 알사노브 암살과
+<SYNC Start=2425637><P Class=ENCC>&nbsp;
+<SYNC Start=2425672><P Class=ENCC>
+관련됐다는 증거를 가지고 있소
+<SYNC Start=2428377><P Class=ENCC>&nbsp;
+<SYNC Start=2429245><P Class=ENCC>
+여기에 타미르 자카에브가
+<SYNC Start=2432343><P Class=ENCC>&nbsp;
+<SYNC Start=2432396><P Class=ENCC>
+FSB에서 다수의 자금을 받은게 기록되어 있지
+<SYNC Start=2435764><P Class=ENCC>&nbsp;
+<SYNC Start=2435816><P Class=ENCC>
+3개의 복사본 중 하나로
+<SYNC Start=2437386><P Class=ENCC>&nbsp;
+<SYNC Start=2437941><P Class=ENCC>
+나한테 무슨 일 일어난다면<br>언론에 퍼질거요
+<SYNC Start=2440332><P Class=ENCC>&nbsp;
+<SYNC Start=2441496><P Class=ENCC>
+그럼...
+<SYNC Start=2443271><P Class=ENCC>&nbsp;
+<SYNC Start=2443323><P Class=ENCC>
+원하는게 뭔가?
+<SYNC Start=2445323><P Class=ENCC>&nbsp;
+<SYNC Start=2447381><P Class=ENCC>
+케이트 크로포드라는 여자애가
+<SYNC Start=2448959><P Class=ENCC>&nbsp;
+<SYNC Start=2448990><P Class=ENCC>
+자신의 의지와 상관없이 알사노브에게<br>감금되어 있소
+<SYNC Start=2451045><P Class=ENCC>&nbsp;
+<SYNC Start=2451920><P Class=ENCC>
+당신들이 내가 그 애를
+<SYNC Start=2453615><P Class=ENCC>&nbsp;
+<SYNC Start=2453667><P Class=ENCC>
+체첸니아에서 꺼내게 도와주시오<br>그럼 난 그 애를 대리고 돌아가겠소
+<SYNC Start=2456454><P Class=ENCC>&nbsp;
+<SYNC Start=2457946><P Class=ENCC>
+자넨 정말 날 기억 못하는군, 안그래?
+<SYNC Start=2460288><P Class=ENCC>&nbsp;
+<SYNC Start=2465115><P Class=ENCC>
+자네와 난 아주 긴 시간을 함께 했지
+<SYNC Start=2468756><P Class=ENCC>&nbsp;
+<SYNC Start=2469529><P Class=ENCC>
+알렉세이
+<SYNC Start=2471382><P Class=ENCC>&nbsp;
+<SYNC Start=2478772><P Class=ENCC>
+돌아온걸 환영하네, 동무
+<SYNC Start=2480475><P Class=ENCC>&nbsp;
+<SYNC Start=2485476><P Class=ENCC>
+
+<SYNC Start=2488016><P Class=ENCC>&nbsp;
+</BODY>
+</SAMI>

@@ -1,0 +1,647 @@
+<SAMI>
+
+<HEAD>
+<TITLE>The Looney Tunes Show 01x10 - Eligible Bachelors</TITLE>
+
+<SAMIParam>
+  Metrics {time:ms;}
+  Spec {MSFT:1.0;}
+</SAMIParam>
+
+<STYLE TYPE="text/css">
+<!--
+  P { font-family: Arial; font-weight: normal; color: white; background-color: black; text-align: center; }
+  .ENUSCC { name: English; lang: en-US ; SAMIType: CC ; }
+-->
+</STYLE>
+
+</HEAD>
+
+<BODY>
+
+<-- Open play menu, choose Captions and Subtiles, On if available -->
+<-- Open tools menu, Security, Show local captions when present -->
+
+<SYNC Start=4620><P Class=ENUSCC>알았어,할게
+<SYNC Start=6180><P Class=ENUSCC>&nbsp;
+<SYNC Start=6690><P Class=ENUSCC>뭘 해?
+<SYNC Start=7480><P Class=ENUSCC>&nbsp;
+<SYNC Start=7560><P Class=ENUSCC>내가 자선금 마,마련을 위한<br>데이트권 경매 호스팅을 하거든
+<SYNC Start=9809><P Class=ENUSCC>&nbsp;
+<SYNC Start=9810><P Class=ENUSCC>그래서 지금 버,벅스가 나가줄 수<br>있냐고 물어본거야
+<SYNC Start=11798><P Class=ENUSCC>&nbsp;
+<SYNC Start=11900><P Class=ENUSCC>왜 나는 무시하는건데?
+<SYNC Start=13251><P Class=ENUSCC>&nbsp;
+<SYNC Start=13274><P Class=ENUSCC>나도 데이트 해줄 수 있어
+<SYNC Start=15149><P Class=ENUSCC>&nbsp;
+<SYNC Start=15280><P Class=ENUSCC>무슨 자선인데?
+<SYNC Start=16360><P Class=ENUSCC>&nbsp;
+<SYNC Start=16470><P Class=ENUSCC>시,식자 관련 자선이야
+<SYNC Start=17759><P Class=ENUSCC>&nbsp;
+<SYNC Start=17760><P Class=ENUSCC>그거 좋은 자선이네!
+<SYNC Start=19408><P Class=ENUSCC>&nbsp;
+<SYNC Start=19416><P Class=ENUSCC>요즘 세상엔 식자능력들이<br>너무 높아!
+<SYNC Start=21686><P Class=ENUSCC>&nbsp;
+<SYNC Start=21694><P Class=ENUSCC>그러니 식자능력을 낮춰야 돼!
+<SYNC Start=23640><P Class=ENUSCC>&nbsp;
+<SYNC Start=23700><P Class=ENUSCC>이,이건 식자능력을 높이기<br>위한 자선이야
+<SYNC Start=27474><P Class=ENUSCC>&nbsp;
+<SYNC Start=27552><P Class=ENUSCC>뭐야?
+<SYNC Start=28529><P Class=ENUSCC>&nbsp;
+<SYNC Start=28530><P Class=ENUSCC>왜 식자능력을 높여?
+<SYNC Start=29970><P Class=ENUSCC>&nbsp;
+<SYNC Start=30040><P Class=ENUSCC>고속도로도 길거리도 식자능력들이<br>높으니까 쓰레기 천지잖아
+<SYNC Start=32935><P Class=ENUSCC>&nbsp;
+<SYNC Start=32942><P Class=ENUSCC>쓰레기 버리는 건 범죄인데
+<SYNC Start=35410><P Class=ENUSCC>&nbsp;
+<SYNC Start=35712><P Class=ENUSCC>그건 범죄가 맞아
+<SYNC Start=37282><P Class=ENUSCC>&nbsp;
+<SYNC Start=37290><P Class=ENUSCC>그래서 네가 전에 체포당했잖아
+<SYNC Start=38670><P Class=ENUSCC>&nbsp;
+<SYNC Start=39040><P Class=ENUSCC>식자능력 이라는 건 글을<br>읽고 쓰는 능력을 말하는 거야
+<SYNC Start=42280><P Class=ENUSCC>&nbsp;
+<SYNC Start=42350><P Class=ENUSCC>그러면 내가 설마 가야겠네!
+<SYNC Start=45021><P Class=ENUSCC>&nbsp;
+<SYNC Start=45029><P Class=ENUSCC>설마!
+<SYNC Start=46950><P Class=ENUSCC>&nbsp;
+<SYNC Start=71264.6666><P Class=ENUSCC><font color="#ffff00">자막:태즈</font>
+<SYNC Start=73024.9166><P Class=ENUSCC>&nbsp;
+<SYNC Start=77878><P Class=ENUSCC>식자 데이트권 경매
+<SYNC Start=78459><P Class=ENUSCC>&nbsp;
+<SYNC Start=78589><P Class=ENUSCC>200달러!
+<SYNC Start=79275><P Class=ENUSCC>&nbsp;
+<SYNC Start=79457><P Class=ENUSCC>이,200달러<br>나,낙찰 되었습니다
+<SYNC Start=82020><P Class=ENUSCC>&nbsp;
+<SYNC Start=86708><P Class=ENUSCC>다,다음은 버,벅스 버니!
+<SYNC Start=90130><P Class=ENUSCC>&nbsp;
+<SYNC Start=96127><P Class=ENUSCC>900달러!
+<SYNC Start=97565><P Class=ENUSCC>&nbsp;
+<SYNC Start=97566><P Class=ENUSCC>내가 쟤꺼 살거야!
+<SYNC Start=98377><P Class=ENUSCC>&nbsp;
+<SYNC Start=98400><P Class=ENUSCC>1500!
+<SYNC Start=99508><P Class=ENUSCC>&nbsp;
+<SYNC Start=99515><P Class=ENUSCC>2천!
+<SYNC Start=100203><P Class=ENUSCC>&nbsp;
+<SYNC Start=100204><P Class=ENUSCC>3천!
+<SYNC Start=101233><P Class=ENUSCC>&nbsp;
+<SYNC Start=101258><P Class=ENUSCC>그냥 포기하시지?
+<SYNC Start=102227><P Class=ENUSCC>&nbsp;
+<SYNC Start=102290><P Class=ENUSCC>4천!
+<SYNC Start=103007><P Class=ENUSCC>&nbsp;
+<SYNC Start=103216><P Class=ENUSCC>웃기지마,5천!
+<SYNC Start=104334><P Class=ENUSCC>&nbsp;
+<SYNC Start=105189><P Class=ENUSCC>붙어보자는거야?
+<SYNC Start=106710><P Class=ENUSCC>&nbsp;
+<SYNC Start=108378><P Class=ENUSCC>여,여러분 모,모두 진정해주세요
+<SYNC Start=111448><P Class=ENUSCC>&nbsp;
+<SYNC Start=111753><P Class=ENUSCC>10만 달러!
+<SYNC Start=113175><P Class=ENUSCC>&nbsp;
+<SYNC Start=115041><P Class=ENUSCC>번번!
+<SYNC Start=115832><P Class=ENUSCC>&nbsp;
+<SYNC Start=115833><P Class=ENUSCC>나 돌아왔어!
+<SYNC Start=116820><P Class=ENUSCC>&nbsp;
+<SYNC Start=117140><P Class=ENUSCC>롤라?
+<SYNC Start=118015><P Class=ENUSCC>&nbsp;
+<SYNC Start=118016><P Class=ENUSCC>나,낙찰!
+<SYNC Start=118853><P Class=ENUSCC>&nbsp;
+<SYNC Start=118869><P Class=ENUSCC>널 위해서 돌아왔어!
+<SYNC Start=120202><P Class=ENUSCC>&nbsp;
+<SYNC Start=120876><P Class=ENUSCC>하루 데이트이긴 하지만
+<SYNC Start=122290><P Class=ENUSCC>&nbsp;
+<SYNC Start=122305><P Class=ENUSCC>자선모금 하는거라서<br>거절할 수가 없잖아!
+<SYNC Start=125652><P Class=ENUSCC>&nbsp;
+<SYNC Start=126900><P Class=ENUSCC>다,다음분은<br>대,대피 덕입니다
+<SYNC Start=130753><P Class=ENUSCC>&nbsp;
+<SYNC Start=130768><P Class=ENUSCC>저 때문에 너무 싸우지들 마세요,여러분
+<SYNC Start=133525><P Class=ENUSCC>&nbsp;
+<SYNC Start=133595><P Class=ENUSCC>대,대피는 무직이고
+<SYNC Start=135728><P Class=ENUSCC>&nbsp;
+<SYNC Start=135729><P Class=ENUSCC>그,그리고 학력이 없습니다
+<SYNC Start=137126><P Class=ENUSCC>&nbsp;
+<SYNC Start=137134><P Class=ENUSCC>그리고 시,신용점수는 마,마이너스 13입니다
+<SYNC Start=140780><P Class=ENUSCC>&nbsp;
+<SYNC Start=140850><P Class=ENUSCC>그,그럼 50달러부터 시,시작해보죠
+<SYNC Start=144180><P Class=ENUSCC>&nbsp;
+<SYNC Start=146052><P Class=ENUSCC>아,아무도 없나요?
+<SYNC Start=147119><P Class=ENUSCC>&nbsp;
+<SYNC Start=152024><P Class=ENUSCC>자,자선 모금을 위해서라도..
+<SYNC Start=154227><P Class=ENUSCC>&nbsp;
+<SYNC Start=155086><P Class=ENUSCC>세,세금 공제도 가능해요
+<SYNC Start=156630><P Class=ENUSCC>&nbsp;
+<SYNC Start=157028><P Class=ENUSCC>징그러
+<SYNC Start=157860><P Class=ENUSCC>&nbsp;
+<SYNC Start=158121><P Class=ENUSCC>그,그래도 시도는 했잖아
+<SYNC Start=159520><P Class=ENUSCC>&nbsp;
+<SYNC Start=159543><P Class=ENUSCC>다,다음 분은..
+<SYNC Start=160566><P Class=ENUSCC>&nbsp;
+<SYNC Start=160567><P Class=ENUSCC>25센트!
+<SYNC Start=161900><P Class=ENUSCC>&nbsp;
+<SYNC Start=162940><P Class=ENUSCC>낙찰!
+<SYNC Start=163807><P Class=ENUSCC>&nbsp;
+<SYNC Start=167228><P Class=ENUSCC>어머나,어서 들어오렴
+<SYNC Start=169196><P Class=ENUSCC>&nbsp;
+<SYNC Start=169220><P Class=ENUSCC>예의 안 차려도 돼요,할머니
+<SYNC Start=171024><P Class=ENUSCC>&nbsp;
+<SYNC Start=171032><P Class=ENUSCC>빨리 데이트 끝내요
+<SYNC Start=172765><P Class=ENUSCC>&nbsp;
+<SYNC Start=172773><P Class=ENUSCC>무슨 계획 있어요?
+<SYNC Start=174117><P Class=ENUSCC>&nbsp;
+<SYNC Start=174118><P Class=ENUSCC>저녁식사?영화보기?
+<SYNC Start=175116><P Class=ENUSCC>&nbsp;
+<SYNC Start=175132><P Class=ENUSCC>달빛아래서 해변산책?
+<SYNC Start=176851><P Class=ENUSCC>&nbsp;
+<SYNC Start=176858><P Class=ENUSCC>우선 다락방부터 청소하는게 좋겠어
+<SYNC Start=179390><P Class=ENUSCC>&nbsp;
+<SYNC Start=179676><P Class=ENUSCC>다락방이요?
+<SYNC Start=180855><P Class=ENUSCC>&nbsp;
+<SYNC Start=180863><P Class=ENUSCC>다락방이 뭐가 로맨틱한데요?
+<SYNC Start=182560><P Class=ENUSCC>&nbsp;
+<SYNC Start=182620><P Class=ENUSCC>나는 90살 먹은 노인이야
+<SYNC Start=184198><P Class=ENUSCC>&nbsp;
+<SYNC Start=184939><P Class=ENUSCC>쓸데없는 생각은<br>하지 않았으면 좋겠어
+<SYNC Start=187260><P Class=ENUSCC>&nbsp;
+<SYNC Start=190605><P Class=ENUSCC>거기보다 거실부터<br>청소하는 게 어때요?
+<SYNC Start=193206><P Class=ENUSCC>&nbsp;
+<SYNC Start=197019><P Class=ENUSCC>나가요!
+<SYNC Start=197940><P Class=ENUSCC>&nbsp;
+<SYNC Start=199050><P Class=ENUSCC>나간다고 했잖아요!
+<SYNC Start=200532><P Class=ENUSCC>&nbsp;
+<SYNC Start=202125><P Class=ENUSCC>하여간..
+<SYNC Start=203241><P Class=ENUSCC>&nbsp;
+<SYNC Start=205758><P Class=ENUSCC>집에 있었구나!
+<SYNC Start=206850><P Class=ENUSCC>&nbsp;
+<SYNC Start=207795><P Class=ENUSCC>그래,맞아
+<SYNC Start=209287><P Class=ENUSCC>&nbsp;
+<SYNC Start=209288><P Class=ENUSCC>난 집에 있었어
+<SYNC Start=210130><P Class=ENUSCC>&nbsp;
+<SYNC Start=210146><P Class=ENUSCC>하지만 이제 나가야지?
+<SYNC Start=211716><P Class=ENUSCC>&nbsp;
+<SYNC Start=211732><P Class=ENUSCC>이제부터 프랑스 파리로<br>갈 거니까!
+<SYNC Start=214386><P Class=ENUSCC>&nbsp;
+<SYNC Start=214402><P Class=ENUSCC>- 뭐?!<br>- 오늘 데이트잖아!
+<SYNC Start=215589><P Class=ENUSCC>&nbsp;
+<SYNC Start=215605><P Class=ENUSCC>파리로 가기로 했어
+<SYNC Start=216572><P Class=ENUSCC>&nbsp;
+<SYNC Start=216588><P Class=ENUSCC>연인들의 도시 말이야
+<SYNC Start=218769><P Class=ENUSCC>&nbsp;
+<SYNC Start=218792><P Class=ENUSCC>안돼,안돼,안돼
+<SYNC Start=219744><P Class=ENUSCC>&nbsp;
+<SYNC Start=219745><P Class=ENUSCC>그건 데이트가 아니야
+<SYNC Start=220730><P Class=ENUSCC>&nbsp;
+<SYNC Start=220800><P Class=ENUSCC>그냥 식당에서<br>저녁 먹는정도가 데이트야
+<SYNC Start=223500><P Class=ENUSCC>&nbsp;
+<SYNC Start=223827><P Class=ENUSCC>그럼 파리 식당에서<br>저녁먹으면 되겠네?
+<SYNC Start=226767><P Class=ENUSCC>&nbsp;
+<SYNC Start=226845><P Class=ENUSCC>롤라,내가 굳이 출국까지 해야돼?
+<SYNC Start=228970><P Class=ENUSCC>&nbsp;
+<SYNC Start=229173><P Class=ENUSCC>그야 당연하지
+<SYNC Start=230376><P Class=ENUSCC>&nbsp;
+<SYNC Start=230377><P Class=ENUSCC>여기 5면에 확실하게 나와있어
+<SYNC Start=231860><P Class=ENUSCC>&nbsp;
+<SYNC Start=231868><P Class=ENUSCC>데이트 신청권 경매조약<br>3항에는,낙찰자..
+<SYNC Start=234585><P Class=ENUSCC>&nbsp;
+<SYNC Start=234601><P Class=ENUSCC>바로 나지
+<SYNC Start=235235><P Class=ENUSCC>&nbsp;
+<SYNC Start=235236><P Class=ENUSCC>낙찰자는 데이트 대상과의<br>데이트의 장소 결정권이 있다
+<SYNC Start=237907><P Class=ENUSCC>&nbsp;
+<SYNC Start=237923><P Class=ENUSCC>데이트 대상,바로 너는<br>반드시 낙찰자를 호위해야한다
+<SYNC Start=239405><P Class=ENUSCC>&nbsp;
+<SYNC Start=239421><P Class=ENUSCC>바로 날 말하는거지
+<SYNC Start=240484><P Class=ENUSCC>&nbsp;
+<SYNC Start=240499><P Class=ENUSCC>데이트 시간은<br>24시간을 넘으면 안된다
+<SYNC Start=242874><P Class=ENUSCC>&nbsp;
+<SYNC Start=242882><P Class=ENUSCC>다시말해,상품은 너고
+<SYNC Start=244843><P Class=ENUSCC>&nbsp;
+<SYNC Start=244844><P Class=ENUSCC>낙찰자는 나야
+<SYNC Start=245878><P Class=ENUSCC>&nbsp;
+<SYNC Start=245893><P Class=ENUSCC>그리고 이건 규칙이야
+<SYNC Start=247047><P Class=ENUSCC>&nbsp;
+<SYNC Start=247048><P Class=ENUSCC>이건 메가폰이고!
+<SYNC Start=248260><P Class=ENUSCC>&nbsp;
+<SYNC Start=257219><P Class=ENUSCC>아,심심해
+<SYNC Start=258910><P Class=ENUSCC>&nbsp;
+<SYNC Start=259515><P Class=ENUSCC>잡지들은 다 읽었고
+<SYNC Start=261335><P Class=ENUSCC>&nbsp;
+<SYNC Start=261336><P Class=ENUSCC>크로스워드 퍼즐도 다 했고
+<SYNC Start=263140><P Class=ENUSCC>&nbsp;
+<SYNC Start=264721><P Class=ENUSCC>땅콩까지 다 먹었어
+<SYNC Start=265924><P Class=ENUSCC>&nbsp;
+<SYNC Start=265925><P Class=ENUSCC>네것까지 다 먹었어
+<SYNC Start=267158><P Class=ENUSCC>&nbsp;
+<SYNC Start=267939><P Class=ENUSCC>화장실도 4번 갔고
+<SYNC Start=269050><P Class=ENUSCC>&nbsp;
+<SYNC Start=269073><P Class=ENUSCC>나 이 비행기에 너무<br>오래 있는것 같아
+<SYNC Start=271610><P Class=ENUSCC>&nbsp;
+<SYNC Start=271633><P Class=ENUSCC>승무원 여러분
+<SYNC Start=273360><P Class=ENUSCC>&nbsp;
+<SYNC Start=273375><P Class=ENUSCC>비행기가 이륙합니다<br>대비해 주시기 바랍니다
+<SYNC Start=275227><P Class=ENUSCC>&nbsp;
+<SYNC Start=275399><P Class=ENUSCC>도착까지 몇 시간 걸린다고 했지?
+<SYNC Start=276819><P Class=ENUSCC>&nbsp;
+<SYNC Start=276990><P Class=ENUSCC>10시간
+<SYNC Start=278061><P Class=ENUSCC>&nbsp;
+<SYNC Start=278062><P Class=ENUSCC>가는 데 10시간,
+<SYNC Start=279109><P Class=ENUSCC>&nbsp;
+<SYNC Start=279110><P Class=ENUSCC>돌아가는 데 10시간
+<SYNC Start=280089><P Class=ENUSCC>&nbsp;
+<SYNC Start=280331><P Class=ENUSCC>24시간에서 20시간을 쓰는 셈이지
+<SYNC Start=282656><P Class=ENUSCC>&nbsp;
+<SYNC Start=282827><P Class=ENUSCC>우와,너 정말 암산 잘하는구나!
+<SYNC Start=285952><P Class=ENUSCC>&nbsp;
+<SYNC Start=286944><P Class=ENUSCC>그래서 나는 네가 좋아
+<SYNC Start=288388><P Class=ENUSCC>&nbsp;
+<SYNC Start=288646><P Class=ENUSCC>네가 웃는 얼굴도
+<SYNC Start=290037><P Class=ENUSCC>&nbsp;
+<SYNC Start=290435><P Class=ENUSCC>찡그린 얼굴도
+<SYNC Start=291507><P Class=ENUSCC>&nbsp;
+<SYNC Start=291812><P Class=ENUSCC>웃는듯 찡그린듯 하는 얼굴도
+<SYNC Start=294170><P Class=ENUSCC>&nbsp;
+<SYNC Start=294952><P Class=ENUSCC>그리고 옆모습도!
+<SYNC Start=296480><P Class=ENUSCC>&nbsp;
+<SYNC Start=297740><P Class=ENUSCC>뒤통수도 너무 좋아!
+<SYNC Start=299013><P Class=ENUSCC>&nbsp;
+<SYNC Start=299021><P Class=ENUSCC>네 귀도 너무 멋져!
+<SYNC Start=300630><P Class=ENUSCC>&nbsp;
+<SYNC Start=300958><P Class=ENUSCC>그게 뭐죠?
+<SYNC Start=302146><P Class=ENUSCC>&nbsp;
+<SYNC Start=302161><P Class=ENUSCC>소음방지용 헤드폰이에요
+<SYNC Start=303661><P Class=ENUSCC>&nbsp;
+<SYNC Start=304974><P Class=ENUSCC>혹시 그거 또 하나 있나요?
+<SYNC Start=307390><P Class=ENUSCC>&nbsp;
+<SYNC Start=328600><P Class=ENUSCC>여기가 내 다락방이란다
+<SYNC Start=331000><P Class=ENUSCC>&nbsp;
+<SYNC Start=331015><P Class=ENUSCC>이런 세상에나!
+<SYNC Start=332890><P Class=ENUSCC>&nbsp;
+<SYNC Start=333671><P Class=ENUSCC>이런 것들을 언제 다 모은 거에요?
+<SYNC Start=336905><P Class=ENUSCC>&nbsp;
+<SYNC Start=337139><P Class=ENUSCC>혹시 부서진 게 있으면 버려줘
+<SYNC Start=339662><P Class=ENUSCC>&nbsp;
+<SYNC Start=339678><P Class=ENUSCC>일단 여기 있는 것들은<br>모두 닦고 정리해줘
+<SYNC Start=343298><P Class=ENUSCC>&nbsp;
+<SYNC Start=343544><P Class=ENUSCC>나는 차를 만들어 올게
+<SYNC Start=345572><P Class=ENUSCC>&nbsp;
+<SYNC Start=348951><P Class=ENUSCC>이것 좀 마시렴
+<SYNC Start=350302><P Class=ENUSCC>&nbsp;
+<SYNC Start=350608><P Class=ENUSCC>휴,이제 살았다
+<SYNC Start=351889><P Class=ENUSCC>&nbsp;
+<SYNC Start=351890><P Class=ENUSCC>땀 범벅이에요
+<SYNC Start=353108><P Class=ENUSCC>&nbsp;
+<SYNC Start=354790><P Class=ENUSCC>뭐하는 거에요?
+<SYNC Start=356211><P Class=ENUSCC>&nbsp;
+<SYNC Start=356215><P Class=ENUSCC>여기가 얼마나 더운지 알아요?
+<SYNC Start=358105><P Class=ENUSCC>&nbsp;
+<SYNC Start=358106><P Class=ENUSCC>좀 차가운 거 없어요?
+<SYNC Start=360446><P Class=ENUSCC>&nbsp;
+<SYNC Start=360479><P Class=ENUSCC>차가운 건 몸에 안 좋아
+<SYNC Start=362509><P Class=ENUSCC>&nbsp;
+<SYNC Start=364775><P Class=ENUSCC>어머,이 사진 정말 오랜만에 보네!
+<SYNC Start=368143><P Class=ENUSCC>&nbsp;
+<SYNC Start=370010><P Class=ENUSCC>이런,이런..
+<SYNC Start=371298><P Class=ENUSCC>&nbsp;
+<SYNC Start=371306><P Class=ENUSCC>그냥 내가 그 손녀분이랑<br>데이트하는 건 어때요?
+<SYNC Start=374032><P Class=ENUSCC>&nbsp;
+<SYNC Start=374063><P Class=ENUSCC>이건 나야
+<SYNC Start=375618><P Class=ENUSCC>&nbsp;
+<SYNC Start=375619><P Class=ENUSCC>전쟁 때였어
+<SYNC Start=376883><P Class=ENUSCC>&nbsp;
+<SYNC Start=376930><P Class=ENUSCC>난 WAAC 소속이었거든
+<SYNC Start=378216><P Class=ENUSCC>&nbsp;
+<SYNC Start=378358><P Class=ENUSCC>'왁'이라는 건 정신나간 사람<br>말하는 거 아닌가요?
+<SYNC Start=380698><P Class=ENUSCC>&nbsp;
+<SYNC Start=382525><P Class=ENUSCC>아니,그렇지 않아
+<SYNC Start=384255><P Class=ENUSCC>&nbsp;
+<SYNC Start=384263><P Class=ENUSCC>WAAC는 육군 여자 보조 부대를<br>말하는거야
+<SYNC Start=387403><P Class=ENUSCC>&nbsp;
+<SYNC Start=387481><P Class=ENUSCC>그럼 군대 나오셨어요?
+<SYNC Start=388824><P Class=ENUSCC>&nbsp;
+<SYNC Start=389087><P Class=ENUSCC>그래
+<SYNC Start=390251><P Class=ENUSCC>&nbsp;
+<SYNC Start=390252><P Class=ENUSCC>나는 스파이였어
+<SYNC Start=391985><P Class=ENUSCC>&nbsp;
+<SYNC Start=393731><P Class=ENUSCC>제2차 세계 대전이<br>끝날 무렵이었지
+<SYNC Start=397331><P Class=ENUSCC>&nbsp;
+<SYNC Start=400789><P Class=ENUSCC>독일이 아직 파리를<br>점령하고 있던 때였어
+<SYNC Start=403531><P Class=ENUSCC>&nbsp;
+<SYNC Start=404325><P Class=ENUSCC>나는 루브르 박물관에서<br>연락원과 접촉하기로 했었어
+<SYNC Start=409035><P Class=ENUSCC>&nbsp;
+<SYNC Start=409041><P Class=ENUSCC>모나리자 앞에서
+<SYNC Start=411241><P Class=ENUSCC>&nbsp;
+<SYNC Start=411366><P Class=ENUSCC>잠깐만요
+<SYNC Start=412241><P Class=ENUSCC>&nbsp;
+<SYNC Start=412242><P Class=ENUSCC>연락원이 뭐에요?
+<SYNC Start=413397><P Class=ENUSCC>&nbsp;
+<SYNC Start=413420><P Class=ENUSCC>루브르는 또 뭐죠?
+<SYNC Start=414444><P Class=ENUSCC>&nbsp;
+<SYNC Start=414445><P Class=ENUSCC>모나리자는 또 뭐에요?
+<SYNC Start=415782><P Class=ENUSCC>&nbsp;
+<SYNC Start=415938><P Class=ENUSCC>일단 들어보렴
+<SYNC Start=417336><P Class=ENUSCC>&nbsp;
+<SYNC Start=429710><P Class=ENUSCC>앞으로 모든 거래는 에펠탑에서
+<SYNC Start=433233><P Class=ENUSCC>&nbsp;
+<SYNC Start=433239><P Class=ENUSCC>전령 비둘기를<br>통해 이루어질 것이다
+<SYNC Start=436205><P Class=ENUSCC>&nbsp;
+<SYNC Start=436212><P Class=ENUSCC>전령 비둘기?
+<SYNC Start=437524><P Class=ENUSCC>&nbsp;
+<SYNC Start=437547><P Class=ENUSCC>새는 싫은데
+<SYNC Start=438820><P Class=ENUSCC>&nbsp;
+<SYNC Start=443507><P Class=ENUSCC>나는 가보도록 하지
+<SYNC Start=444680><P Class=ENUSCC>&nbsp;
+<SYNC Start=475984><P Class=ENUSCC>빨리빨리 옮겨!
+<SYNC Start=477007><P Class=ENUSCC>&nbsp;
+<SYNC Start=484311><P Class=ENUSCC>이제 곧 미군이 오겠지
+<SYNC Start=485756><P Class=ENUSCC>&nbsp;
+<SYNC Start=487237><P Class=ENUSCC>우리는 파리를 포기하고 떠난다
+<SYNC Start=489151><P Class=ENUSCC>&nbsp;
+<SYNC Start=489471><P Class=ENUSCC>하지만 빈손으로<br>떠나지는 않을거다
+<SYNC Start=492093><P Class=ENUSCC>&nbsp;
+<SYNC Start=492101><P Class=ENUSCC>이곳의 모든 미술품을<br>가져갈 것이다
+<SYNC Start=494913><P Class=ENUSCC>&nbsp;
+<SYNC Start=500480><P Class=ENUSCC>어서 옮겨!
+<SYNC Start=501484><P Class=ENUSCC>&nbsp;
+<SYNC Start=510114><P Class=ENUSCC>스파이다!
+<SYNC Start=511145><P Class=ENUSCC>&nbsp;
+<SYNC Start=511146><P Class=ENUSCC>잡아라!
+<SYNC Start=511794><P Class=ENUSCC>&nbsp;
+<SYNC Start=511810><P Class=ENUSCC>그래서 잡혔어요?
+<SYNC Start=512935><P Class=ENUSCC>&nbsp;
+<SYNC Start=512936><P Class=ENUSCC>혹시 죽었어요?
+<SYNC Start=514161><P Class=ENUSCC>&nbsp;
+<SYNC Start=514177><P Class=ENUSCC>잡혀서 죽은 거 맞죠?
+<SYNC Start=515479><P Class=ENUSCC>&nbsp;
+<SYNC Start=516725><P Class=ENUSCC>맞잖아요!
+<SYNC Start=517358><P Class=ENUSCC>&nbsp;
+<SYNC Start=517359><P Class=ENUSCC>아무리 봐도 뻔한 전개인데
+<SYNC Start=518701><P Class=ENUSCC>&nbsp;
+<SYNC Start=520500><P Class=ENUSCC>어디까지 얘기했지?
+<SYNC Start=522460><P Class=ENUSCC>&nbsp;
+<SYNC Start=522484><P Class=ENUSCC>스파이다!
+<SYNC Start=523593><P Class=ENUSCC>&nbsp;
+<SYNC Start=523594><P Class=ENUSCC>잡아라!
+<SYNC Start=524242><P Class=ENUSCC>&nbsp;
+<SYNC Start=537450><P Class=ENUSCC>세상에!
+<SYNC Start=538637><P Class=ENUSCC>&nbsp;
+<SYNC Start=538645><P Class=ENUSCC>여기 너무 좋다!
+<SYNC Start=540612><P Class=ENUSCC>&nbsp;
+<SYNC Start=540628><P Class=ENUSCC>루브르야!
+<SYNC Start=541566><P Class=ENUSCC>&nbsp;
+<SYNC Start=541567><P Class=ENUSCC>루브르 너무 좋아
+<SYNC Start=542850><P Class=ENUSCC>&nbsp;
+<SYNC Start=542858><P Class=ENUSCC>루브르는 너무 멋져!
+<SYNC Start=545418><P Class=ENUSCC>&nbsp;
+<SYNC Start=545426><P Class=ENUSCC>한번 루브르에<br>가보면 헤어 나오지를 못해
+<SYNC Start=548075><P Class=ENUSCC>&nbsp;
+<SYNC Start=548090><P Class=ENUSCC>주위에 너무<br>멋진 것들이 많잖아
+<SYNC Start=551192><P Class=ENUSCC>&nbsp;
+<SYNC Start=551208><P Class=ENUSCC>아름답고,비싼 것들
+<SYNC Start=554124><P Class=ENUSCC>&nbsp;
+<SYNC Start=554139><P Class=ENUSCC>루브르는 세상에서 가장 멋진 곳이야!
+<SYNC Start=557811><P Class=ENUSCC>&nbsp;
+<SYNC Start=558001><P Class=ENUSCC>난 루브르가<br>백화점인 줄 알았어
+<SYNC Start=560211><P Class=ENUSCC>&nbsp;
+<SYNC Start=560570><P Class=ENUSCC>그렇구나
+<SYNC Start=561349><P Class=ENUSCC>&nbsp;
+<SYNC Start=562085><P Class=ENUSCC>로마 법에 따라야지
+<SYNC Start=563867><P Class=ENUSCC>&nbsp;
+<SYNC Start=565275><P Class=ENUSCC>잠깐만..
+<SYNC Start=566148><P Class=ENUSCC>&nbsp;
+<SYNC Start=566156><P Class=ENUSCC>여기 로마 아니지?
+<SYNC Start=567322><P Class=ENUSCC>&nbsp;
+<SYNC Start=567323><P Class=ENUSCC>로마도 가야하는데!
+<SYNC Start=568540><P Class=ENUSCC>&nbsp;
+<SYNC Start=568564><P Class=ENUSCC>그보다는 그냥 여기서<br>여유롭게 걷자
+<SYNC Start=571880><P Class=ENUSCC>&nbsp;
+<SYNC Start=573412><P Class=ENUSCC>로마에는 미국 마트가 있다고 들었어
+<SYNC Start=576349><P Class=ENUSCC>&nbsp;
+<SYNC Start=576350><P Class=ENUSCC>아니지,그건 캐나다고<br>우리 캐나다도 가야해!
+<SYNC Start=579021><P Class=ENUSCC>&nbsp;
+<SYNC Start=582760><P Class=ENUSCC>나는 독일군들을 따돌렸어
+<SYNC Start=584916><P Class=ENUSCC>&nbsp;
+<SYNC Start=586011><P Class=ENUSCC>따돌렸다고 생각했었지
+<SYNC Start=587807><P Class=ENUSCC>&nbsp;
+<SYNC Start=622140><P Class=ENUSCC>넌 전령 비둘기 같지는 않은데?
+<SYNC Start=623796><P Class=ENUSCC>&nbsp;
+<SYNC Start=623805><P Class=ENUSCC>비둘기가 다 떨어졌다네
+<SYNC Start=625444><P Class=ENUSCC>&nbsp;
+<SYNC Start=625471><P Class=ENUSCC>군대에서는 쓸 수 있는<br>모든 새를 쓰고 있지
+<SYNC Start=627729><P Class=ENUSCC>&nbsp;
+<SYNC Start=629907><P Class=ENUSCC>어서 가
+<SYNC Start=630602><P Class=ENUSCC>&nbsp;
+<SYNC Start=631950><P Class=ENUSCC>가라고!
+<SYNC Start=635050><P Class=ENUSCC>&nbsp;
+<SYNC Start=638550><P Class=ENUSCC>잘해보게
+<SYNC Start=639596><P Class=ENUSCC>&nbsp;
+<SYNC Start=640755><P Class=ENUSCC>이 필름을 동맹군에 전해줘
+<SYNC Start=642776><P Class=ENUSCC>&nbsp;
+<SYNC Start=645729><P Class=ENUSCC>가!
+<SYNC Start=646689><P Class=ENUSCC>&nbsp;
+<SYNC Start=680213><P Class=ENUSCC>그래서 떨어졌어요?
+<SYNC Start=681163><P Class=ENUSCC>&nbsp;
+<SYNC Start=681766><P Class=ENUSCC>떨어져서 죽었어요?
+<SYNC Start=683178><P Class=ENUSCC>&nbsp;
+<SYNC Start=683343><P Class=ENUSCC>떨어져서 죽은거죠?
+<SYNC Start=684842><P Class=ENUSCC>&nbsp;
+<SYNC Start=684897><P Class=ENUSCC>이제 낮잠 자야겠다
+<SYNC Start=687084><P Class=ENUSCC>&nbsp;
+<SYNC Start=687100><P Class=ENUSCC>일어나면 나머지 얘기해줄게
+<SYNC Start=690107><P Class=ENUSCC>&nbsp;
+<SYNC Start=691659><P Class=ENUSCC>역시 떨어져서 죽은거야
+<SYNC Start=693362><P Class=ENUSCC>&nbsp;
+<SYNC Start=704510><P Class=ENUSCC>스톤헨지
+<SYNC Start=706080><P Class=ENUSCC>&nbsp;
+<SYNC Start=706094><P Class=ENUSCC>세계에서 가장 오래된 건축물 중 하나
+<SYNC Start=708454><P Class=ENUSCC>&nbsp;
+<SYNC Start=709830><P Class=ENUSCC>- 롤라..<br>- 드루이드가 지었는지
+<SYNC Start=711642><P Class=ENUSCC>&nbsp;
+<SYNC Start=711650><P Class=ENUSCC>외계인이 지었는지
+<SYNC Start=713588><P Class=ENUSCC>&nbsp;
+<SYNC Start=713746><P Class=ENUSCC>아직까지도 밝혀진 바가 없다
+<SYNC Start=716113><P Class=ENUSCC>&nbsp;
+<SYNC Start=717020><P Class=ENUSCC>이건 에펠탑이야
+<SYNC Start=718527><P Class=ENUSCC>&nbsp;
+<SYNC Start=718827><P Class=ENUSCC>아직까지도 밝혀진 바가 없다
+<SYNC Start=722272><P Class=ENUSCC>&nbsp;
+<SYNC Start=723777><P Class=ENUSCC>세상에,서둘러!
+<SYNC Start=724659><P Class=ENUSCC>&nbsp;
+<SYNC Start=724667><P Class=ENUSCC>이제 2시간밖에 안 남았는데<br>우린 아직도 사랑에 빠지지 않았잖아!
+<SYNC Start=727708><P Class=ENUSCC>&nbsp;
+<SYNC Start=729394><P Class=ENUSCC>지금은 사랑에 빠졌어?
+<SYNC Start=730800><P Class=ENUSCC>&nbsp;
+<SYNC Start=731842><P Class=ENUSCC>그럼 스톤헨지 그만보고<br>거리 좀 돌아다니자!
+<SYNC Start=734685><P Class=ENUSCC>&nbsp;
+<SYNC Start=745150><P Class=ENUSCC>일어나요!
+<SYNC Start=745813><P Class=ENUSCC>&nbsp;
+<SYNC Start=747745><P Class=ENUSCC>얘,노인들은 놀라서 죽을 수도 있어!
+<SYNC Start=751424><P Class=ENUSCC>&nbsp;
+<SYNC Start=751431><P Class=ENUSCC>이 긴장감 때문에<br>더 이상 못 참아요!
+<SYNC Start=753409><P Class=ENUSCC>&nbsp;
+<SYNC Start=753424><P Class=ENUSCC>그래서 에펠탑에서<br>어떻게 됐어요?
+<SYNC Start=755314><P Class=ENUSCC>&nbsp;
+<SYNC Start=755322><P Class=ENUSCC>에펠탑?
+<SYNC Start=757060><P Class=ENUSCC>&nbsp;
+<SYNC Start=757092><P Class=ENUSCC>아,그랬었지
+<SYNC Start=758433><P Class=ENUSCC>&nbsp;
+<SYNC Start=758542><P Class=ENUSCC>난 살기 위해서 탑에 매달렸어
+<SYNC Start=761424><P Class=ENUSCC>&nbsp;
+<SYNC Start=761440><P Class=ENUSCC>프랑스의 최고 걸작 에펠탑을<br>안 가지고 갈 수는 없지
+<SYNC Start=767293><P Class=ENUSCC>&nbsp;
+<SYNC Start=773920><P Class=ENUSCC>살려줘!
+<SYNC Start=774496><P Class=ENUSCC>&nbsp;
+<SYNC Start=776826><P Class=ENUSCC>너를 구할 자는 없어!
+<SYNC Start=779256><P Class=ENUSCC>&nbsp;
+<SYNC Start=779276><P Class=ENUSCC>아니,있어!
+<SYNC Start=780236><P Class=ENUSCC>&nbsp;
+<SYNC Start=788347><P Class=ENUSCC>내 목숨을 구했구나
+<SYNC Start=789697><P Class=ENUSCC>&nbsp;
+<SYNC Start=792207><P Class=ENUSCC>도망가고 있어!
+<SYNC Start=793550><P Class=ENUSCC>&nbsp;
+<SYNC Start=793554><P Class=ENUSCC>저걸 멈춰야 해!
+<SYNC Start=795185><P Class=ENUSCC>&nbsp;
+<SYNC Start=805980><P Class=ENUSCC>우와..
+<SYNC Start=807442><P Class=ENUSCC>&nbsp;
+<SYNC Start=807484><P Class=ENUSCC>백악관이네
+<SYNC Start=809062><P Class=ENUSCC>&nbsp;
+<SYNC Start=809547><P Class=ENUSCC>-롤라..<br>- 좀 더 하얀색인 줄 알았어
+<SYNC Start=811656><P Class=ENUSCC>&nbsp;
+<SYNC Start=811679><P Class=ENUSCC>좀 더 집 같이 생기고
+<SYNC Start=813476><P Class=ENUSCC>&nbsp;
+<SYNC Start=814160><P Class=ENUSCC>대통령도 불쌍해
+<SYNC Start=815710><P Class=ENUSCC>&nbsp;
+<SYNC Start=815729><P Class=ENUSCC>매일 아침 10시간이나 통근해야하고
+<SYNC Start=818158><P Class=ENUSCC>&nbsp;
+<SYNC Start=818160><P Class=ENUSCC>하루종일 수많은 정치 일을 하잖아
+<SYNC Start=820131><P Class=ENUSCC>&nbsp;
+<SYNC Start=820139><P Class=ENUSCC>그리고는 또 10시간동안<br>비행기에 타서 여기까지 오잖아
+<SYNC Start=825740><P Class=ENUSCC>&nbsp;
+<SYNC Start=826173><P Class=ENUSCC>- 누군가 도와줘야 해!<br>- 롤라!
+<SYNC Start=828454><P Class=ENUSCC>&nbsp;
+<SYNC Start=828462><P Class=ENUSCC>반짝이는 별로 장식된
+<SYNC Start=832333><P Class=ENUSCC>&nbsp;
+<SYNC Start=832340><P Class=ENUSCC>깃발이 휘날리고 있는가..
+<SYNC Start=835835><P Class=ENUSCC>&nbsp;
+<SYNC Start=835843><P Class=ENUSCC>롤라, 그만 해!
+<SYNC Start=837310><P Class=ENUSCC>&nbsp;
+<SYNC Start=837491><P Class=ENUSCC>이제 얘기는 그만하자
+<SYNC Start=839052><P Class=ENUSCC>&nbsp;
+<SYNC Start=839065><P Class=ENUSCC>우리는 지금 세상에서<br>가장 아름다운 도시에 와 있어
+<SYNC Start=842265><P Class=ENUSCC>&nbsp;
+<SYNC Start=842599><P Class=ENUSCC>숨을 깊게 들이쉬고
+<SYNC Start=844622><P Class=ENUSCC>&nbsp;
+<SYNC Start=844623><P Class=ENUSCC>주위를 돌아 봐
+<SYNC Start=845918><P Class=ENUSCC>&nbsp;
+<SYNC Start=845941><P Class=ENUSCC>지금 이 순간에 집중하는거야
+<SYNC Start=847706><P Class=ENUSCC>&nbsp;
+<SYNC Start=848160><P Class=ENUSCC>그거 좋은..
+<SYNC Start=848949><P Class=ENUSCC>&nbsp;
+<SYNC Start=849207><P Class=ENUSCC>말은 하지 말고
+<SYNC Start=851547><P Class=ENUSCC>&nbsp;
+<SYNC Start=933297><P Class=ENUSCC>역시 이게 그냥 얘기하는<br>것보다 훨씬 낫구나
+<SYNC Start=936367><P Class=ENUSCC>&nbsp;
+<SYNC Start=960416><P Class=ENUSCC>죽여버려!
+<SYNC Start=961986><P Class=ENUSCC>&nbsp;
+<SYNC Start=970029><P Class=ENUSCC>멍청한 놈!
+<SYNC Start=970951><P Class=ENUSCC>&nbsp;
+<SYNC Start=970952><P Class=ENUSCC>내가 직접 할거야!
+<SYNC Start=972613><P Class=ENUSCC>&nbsp;
+<SYNC Start=984315><P Class=ENUSCC>조금만 더
+<SYNC Start=986447><P Class=ENUSCC>&nbsp;
+<SYNC Start=987034><P Class=ENUSCC>지금이야!
+<SYNC Start=988605><P Class=ENUSCC>&nbsp;
+<SYNC Start=996151><P Class=ENUSCC>너!
+<SYNC Start=997165><P Class=ENUSCC>&nbsp;
+<SYNC Start=997172><P Class=ENUSCC>비행선을 멈춰,<br>프랑켄하이머!
+<SYNC Start=999861><P Class=ENUSCC>&nbsp;
+<SYNC Start=999877><P Class=ENUSCC>나는 여자의 말은 듣지 않아!
+<SYNC Start=1002744><P Class=ENUSCC>&nbsp;
+<SYNC Start=1002775><P Class=ENUSCC>나는 그냥 여자가 아니야
+<SYNC Start=1004986><P Class=ENUSCC>&nbsp;
+<SYNC Start=1004987><P Class=ENUSCC>나는 WAAC이야!
+<SYNC Start=1006925><P Class=ENUSCC>&nbsp;
+<SYNC Start=1023767><P Class=ENUSCC>그 작품들은 당신 것이 아니야!
+<SYNC Start=1026062><P Class=ENUSCC>&nbsp;
+<SYNC Start=1026078><P Class=ENUSCC>이젠 내꺼야
+<SYNC Start=1027344><P Class=ENUSCC>&nbsp;
+<SYNC Start=1027345><P Class=ENUSCC>독일 국경을 넘어가면 내 것이 되지
+<SYNC Start=1030226><P Class=ENUSCC>&nbsp;
+<SYNC Start=1034714><P Class=ENUSCC>네놈은 뭐냐?
+<SYNC Start=1035893><P Class=ENUSCC>&nbsp;
+<SYNC Start=1036123><P Class=ENUSCC>너의 저승사자다!
+<SYNC Start=1038083><P Class=ENUSCC>&nbsp;
+<SYNC Start=1052770><P Class=ENUSCC>너는 전령 비둘기로 있기엔 아까워
+<SYNC Start=1055020><P Class=ENUSCC>&nbsp;
+<SYNC Start=1055027><P Class=ENUSCC>넌 굉장히 용감한 새야
+<SYNC Start=1057230><P Class=ENUSCC>&nbsp;
+<SYNC Start=1058405><P Class=ENUSCC>그럼,프랑스로 돌아가자!
+<SYNC Start=1061319><P Class=ENUSCC>&nbsp;
+<SYNC Start=1062339><P Class=ENUSCC>그래서 비행선이 폭발했어요?
+<SYNC Start=1063909><P Class=ENUSCC>&nbsp;
+<SYNC Start=1063916><P Class=ENUSCC>터져서 가루가 된 거죠?
+<SYNC Start=1065870><P Class=ENUSCC>&nbsp;
+<SYNC Start=1065886><P Class=ENUSCC>아무튼 폭발해서 죽은거죠?<br>아니에요?
+<SYNC Start=1068071><P Class=ENUSCC>&nbsp;
+<SYNC Start=1068681><P Class=ENUSCC>넌 그렇게 똑똑한 아이는 아니구나
+<SYNC Start=1071029><P Class=ENUSCC>&nbsp;
+<SYNC Start=1071465><P Class=ENUSCC>네?
+<SYNC Start=1072149><P Class=ENUSCC>&nbsp;
+<SYNC Start=1072555><P Class=ENUSCC>우리는 파리로 돌아가서<br>큰 환영을 받았어
+<SYNC Start=1076860><P Class=ENUSCC>&nbsp;
+<SYNC Start=1077369><P Class=ENUSCC>나머지 미술품은 루브르로 돌아갔지
+<SYNC Start=1080732><P Class=ENUSCC>연합군은 프랑스를 해방시켜주고
+<SYNC Start=1083002><P Class=ENUSCC>&nbsp;
+<SYNC Start=1083010><P Class=ENUSCC>프랑켄하이머 대령은<br>감옥으로 보내졌어
+<SYNC Start=1086210><P Class=ENUSCC>&nbsp;
+<SYNC Start=1086504><P Class=ENUSCC>그리고 나는 특별한 선물을 받았지
+<SYNC Start=1090444><P Class=ENUSCC>&nbsp;
+<SYNC Start=1090451><P Class=ENUSCC>선물이요?
+<SYNC Start=1091490><P Class=ENUSCC>&nbsp;
+<SYNC Start=1091491><P Class=ENUSCC>그게 뭐에요?
+<SYNC Start=1092435><P Class=ENUSCC>&nbsp;
+<SYNC Start=1102650><P Class=ENUSCC>지금까지 여기에<br>이런 게 있는 줄 전혀 몰랐어요
+<SYNC Start=1104820><P Class=ENUSCC>&nbsp;
+<SYNC Start=1104930><P Class=ENUSCC>그럼 지금 프랑스에 있는 건 뭐죠?
+<SYNC Start=1106890><P Class=ENUSCC>&nbsp;
+<SYNC Start=1106960><P Class=ENUSCC>그건 가짜야
+<SYNC Start=1108384><P Class=ENUSCC>&nbsp;
+<SYNC Start=1110001><P Class=ENUSCC>와오!
+<SYNC Start=1111321><P Class=ENUSCC>&nbsp;
+<SYNC Start=1112357><P Class=ENUSCC>맞다,할머니 다락방 마저 청소해야죠
+<SYNC Start=1115115><P Class=ENUSCC>&nbsp;
+<SYNC Start=1115263><P Class=ENUSCC>사실대로 말하자면
+<SYNC Start=1117155><P Class=ENUSCC>&nbsp;
+<SYNC Start=1117171><P Class=ENUSCC>나는 너에게 청소시키려고<br>경매에서 값을 부른게 아니었어
+<SYNC Start=1120049><P Class=ENUSCC>&nbsp;
+<SYNC Start=1120455><P Class=ENUSCC>그냥 누군가와 이야기를<br>나누고 싶었을 뿐이야
+<SYNC Start=1124219><P Class=ENUSCC>&nbsp;
+<SYNC Start=1124234><P Class=ENUSCC>언제든 불러요
+<SYNC Start=1125422><P Class=ENUSCC>&nbsp;
+<SYNC Start=1125423><P Class=ENUSCC>전 데이트 재밌었어요
+<SYNC Start=1126414><P Class=ENUSCC>&nbsp;
+<SYNC Start=1127381><P Class=ENUSCC>저랑 같이 집까지 걸어갈래요?
+<SYNC Start=1129085><P Class=ENUSCC>&nbsp;
+<SYNC Start=1130237><P Class=ENUSCC>농담이에요
+<SYNC Start=1132012><P Class=ENUSCC>&nbsp;
+<SYNC Start=1141365><P Class=ENUSCC>-헤이<br>-헤이
+<SYNC Start=1142212><P Class=ENUSCC>&nbsp;
+<SYNC Start=1151754><P Class=ENUSCC>로드 러너와<br>와일리 E. 코요테
+<SYNC Start=1154198><P Class=ENUSCC>&nbsp;
+<SYNC Start=1154489><P Class=ENUSCC>"겨울동산"
+<SYNC Start=1155489><P Class=ENUSCC>&nbsp;
+<SYNC Start=1180132><P Class=ENUSCC>애크미<br>겨울제조기
+<SYNC Start=1181995><P Class=ENUSCC>&nbsp;
+<SYNC Start=1309772><P Class=ENUSCC>그러니까 다시 말하면..
+<SYNC Start=1311654><P Class=ENUSCC>&nbsp;
+<SYNC Start=1312287><P Class=ENUSCC>네가 2차대전 때 참전했다는 얘기지?
+<SYNC Start=1314429><P Class=ENUSCC>&nbsp;
+<SYNC Start=1315062><P Class=ENUSCC>맞아
+<SYNC Start=1315608><P Class=ENUSCC>&nbsp;
+<SYNC Start=1315616><P Class=ENUSCC>그럼 넌 몇 살이야?
+<SYNC Start=1317250><P Class=ENUSCC>&nbsp;
+<SYNC Start=1317570><P Class=ENUSCC>절대로 알려주지 않을거야
+<SYNC Start=1319230><P Class=ENUSCC>&nbsp;
+<SYNC Start=1319383><P Class=ENUSCC>그럼 적어도 네가 남잔지<br>여잔지만이라도 말해줄래?
+<SYNC Start=1322828><P Class=ENUSCC>&nbsp;
+<SYNC Start=1327438><P Class=ENUSCC>내가 잘못 생각하고 있었네
+<SYNC Start=1329227><P Class=ENUSCC>&nbsp;
+<SYNC Start=1357991><P Class=ENUSCC>오,오,오늘은 여기까지!
+<SYNC Start=1359986><P Class=ENUSCC>&nbsp;
+</BODY>
+</SAMI>

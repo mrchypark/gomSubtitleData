@@ -1,0 +1,907 @@
+﻿<SAMI>
+
+<HEAD>
+<TITLE>도s형사5</TITLE>
+
+<SAMIParam>
+  Metrics {time:ms;}
+  Spec {MSFT:1.0;}
+</SAMIParam>
+
+<STYLE TYPE="text/css">
+<!--
+P { margin-left:8pt; margin-right:8pt; margin-bottom:2pt;
+    margin-top:2pt; font-size:14pt; text-align:center;
+    font-family:굴림, Arial; font-weight:normal; color:white;
+    background-color:black; }
+.KRCC { Name:한국어; lang:ko-KR; SAMIType:CC; }
+#STDPrn { Name:Standard Print; }
+#LargePrn { Name:Large Print; font-size:20pt; }
+#SmallPrn { Name:Small Print; font-size:10pt; }
+-->
+</STYLE>
+
+</HEAD>
+
+<BODY>
+
+<-- Open play menu, choose Captions and Subtiles, On if available -->
+<-- Open tools menu, Security, Show local captions when present -->
+
+<SYNC Start=6837><P Class=KRCC>아~!!
+<SYNC Start=8839><P Class=KRCC>아~!!!!
+<SYNC Start=10340><P Class=KRCC>&nbsp;
+<SYNC Start=20334><P Class=KRCC>-아리스카와 계장!<br>-네
+<SYNC Start=22352><P Class=KRCC>왜 떨고 있는거죠?
+<SYNC Start=24338><P Class=KRCC>아니 저.. 저는 그게..<br>평소와 다를게 없는데요?
+<SYNC Start=27841><P Class=KRCC>-나카네 순경!<br>-네!
+<SYNC Start=29860><P Class=KRCC>-왜 웃고 있습니까?<br>-네? 아.. 그게..
+<SYNC Start=33363><P Class=KRCC>-하마다 순경!<br>-네!
+<SYNC Start=35399><P Class=KRCC>당신은<br>왜 그런 얼굴이죠?
+<SYNC Start=37835><P Class=KRCC>네?
+<SYNC Start=38852><P Class=KRCC>전부터 생각했지만
+<SYNC Start=40838><P Class=KRCC>당신의 눈썹과 눈의 간격이<br>가끔 사람에게 불쾌한 기분이 들게해요
+<SYNC Start=44341><P Class=KRCC>그러니 조심하도록
+<SYNC Start=46360><P Class=KRCC>조심하겠습니다..
+<SYNC Start=48360><P Class=KRCC>&nbsp;
+<SYNC Start=49363><P Class=KRCC>아.. 아직도 그러는구만..
+<SYNC Start=54401><P Class=KRCC>작년보다 더 심해지지 않았습니까?
+<SYNC Start=56436><P Class=KRCC>그야<br>올해는 드디어 그 선이 깨진거니까
+<SYNC Start=59339><P Class=KRCC>아 ~!
+<SYNC Start=60841><P Class=KRCC>선이 깨져요?
+<SYNC Start=62342><P Class=KRCC>어쨌든 오늘 하루는<br>어떻게든 넘기자고
+<SYNC Start=66342><P Class=KRCC>&nbsp;
+<SYNC Start=67364><P Class=KRCC>응?
+<SYNC Start=68866><P Class=KRCC>해피 버스데이 투 유~
+<SYNC Start=72336><P Class=KRCC>-해피 버스데이 투 유~<br>-하아..
+<SYNC Start=76423><P Class=KRCC>-해피 버스~<br>-음치네!
+<SYNC Start=79843><P Class=KRCC>귀가 썩을거 같아
+<SYNC Start=81845><P Class=KRCC>아.. 죄송합니다
+<SYNC Start=84331><P Class=KRCC>해피 버스~~<br>아!!!
+<SYNC Start=86850><P Class=KRCC>&nbsp;
+<SYNC Start=103350><P Class=KRCC>과연 과장님!!
+<SYNC Start=105853><P Class=KRCC>-대단해요<br>-멋지십니다!!
+<SYNC Start=108338><P Class=KRCC>아.. 서프라이즈~!
+<SYNC Start=110858><P Class=KRCC>생일 축하드립니다<br>과장님
+<SYNC Start=112843><P Class=KRCC>늦어서 죄송합니다
+<SYNC Start=114878><P Class=KRCC>촛불 붙이는데<br>시간이 걸려서요
+<SYNC Start=117431><P Class=KRCC>뭐 40개나 되니까요
+<SYNC Start=120931><P Class=KRCC>&nbsp;
+<SYNC Start=122853><P Class=KRCC>당신에게 생일 축하 받을 이유는<br>없습니다
+<SYNC Start=125856><P Class=KRCC>평소의 감사한 마음을 담은겁니다
+<SYNC Start=127841><P Class=KRCC>감사? 당신이 나에게?
+<SYNC Start=129843><P Class=KRCC>아! 초가 다 타고 있어요
+<SYNC Start=132346><P Class=KRCC>빨랑빨랑 불어주세요
+<SYNC Start=134348><P Class=KRCC>-빨랑빨랑?<br>-아 어쨌든지 침착하게요
+<SYNC Start=136366><P Class=KRCC>자아~ 심호흡
+<SYNC Start=137885><P Class=KRCC>후우~ 아!
+<SYNC Start=140385><P Class=KRCC>&nbsp;
+<SYNC Start=144858><P Class=KRCC>어째서 당신이 끄는겁니까?
+<SYNC Start=147858><P Class=KRCC>&nbsp;
+<SYNC Start=149429><P Class=KRCC>스스로 끄고 싶으셨나보네요
+<SYNC Start=153429><P Class=KRCC>&nbsp;
+<SYNC Start=155852><P Class=KRCC>늦겠다 늦겠어
+<SYNC Start=157852><P Class=KRCC>&nbsp;
+<SYNC Start=160357><P Class=KRCC>-치즈 좋아하세요?<br>-네 좋아해요
+<SYNC Start=162843><P Class=KRCC>듬뿍 넣어드릴게요
+<SYNC Start=164843><P Class=KRCC>&nbsp;
+<SYNC Start=165846><P Class=KRCC>축하합니다!!
+<SYNC Start=168849><P Class=KRCC>여기 봐주세요 오른쪽 OK OK!
+<SYNC Start=171385><P Class=KRCC>1,2,3
+<SYNC Start=173437><P Class=KRCC>&nbsp;
+<SYNC Start=175355><P Class=KRCC>오~ 꽤하네 너희들
+<SYNC Start=177341><P Class=KRCC>정말이지 결혼식도 아니고
+<SYNC Start=180341><P Class=KRCC>&nbsp;
+<SYNC Start=186366><P Class=KRCC>오늘은 모두들<br>나 때문에 와줘서 고마워!
+<SYNC Start=188335><P Class=KRCC>최고의 날이야!
+<SYNC Start=190387><P Class=KRCC>&nbsp;
+<SYNC Start=192940><P Class=KRCC>-부장님, 아 아니 전무님<br>-응
+<SYNC Start=195842><P Class=KRCC>마지막으로 모두들의<br>선물이 있습니다
+<SYNC Start=197844><P Class=KRCC>-뭔데?<br>-가시죠
+<SYNC Start=199863><P Class=KRCC>-가시죠 가시죠<br>-응? 뭔데
+<SYNC Start=201848><P Class=KRCC>전무님!
+<SYNC Start=203350><P Class=KRCC>전무님 전무님 전무님 전무님!
+<SYNC Start=206853><P Class=KRCC>-전무님 전무님!<br>-자! 여시죠!
+<SYNC Start=209339><P Class=KRCC>-어차피 뭔가 들어있겠지?<br>-아니예요~ 또 그러신다~
+<SYNC Start=213427><P Class=KRCC>그럼 준비 됐어?
+<SYNC Start=216363><P Class=KRCC>둘~ 셋~ 우악!
+<SYNC Start=219366><P Class=KRCC>둘~ 셋~
+<SYNC Start=221852><P Class=KRCC>이봐 그만해!~
+<SYNC Start=225355><P Class=KRCC>아무것도 안보여!
+<SYNC Start=228842><P Class=KRCC>&nbsp;
+<SYNC Start=231395><P Class=KRCC>스톱 스톱!
+<SYNC Start=233430><P Class=KRCC>어?<br>안보여 아무것도 안보여
+<SYNC Start=236350><P Class=KRCC>-어떻게 된거야?<br>-무슨 소리나지 않았어?
+<SYNC Start=238352><P Class=KRCC>&nbsp;
+<SYNC Start=240337><P Class=KRCC>뭐야? 뭔가 이상한데
+<SYNC Start=242339><P Class=KRCC>응? 부장님
+<SYNC Start=244358><P Class=KRCC>부장님?
+<SYNC Start=245859><P Class=KRCC>-부장님.. 부장님!<br>-큰일났다!
+<SYNC Start=248862><P Class=KRCC>괜찮으세요? 부장님 부장님!
+<SYNC Start=250864><P Class=KRCC>이봐 구급차! 구급차 불러!
+<SYNC Start=252899><P Class=KRCC>부장님 괜찮으십니까?<br>누가 구급차 좀 불러!
+<SYNC Start=254951><P Class=KRCC>-구급차 불러!<br>-구급차 부르라고!
+<SYNC Start=256837><P Class=KRCC>이렇게 할까?<br>음~ 어떻게 자르지?
+<SYNC Start=259840><P Class=KRCC>저기 7등분은 어떻게 자르면 됩니까?
+<SYNC Start=262359><P Class=KRCC>그거야 뭐<br>8등분해서 과장님 2개 드리면..
+<SYNC Start=265362><P Class=KRCC>됐습니다
+<SYNC Start=267330><P Class=KRCC>과장님, 파티 중에<br>남성이 쓰러져 의식 불명의 중태로
+<SYNC Start=271351><P Class=KRCC>현재 병원으로 이송 중이랍니다
+<SYNC Start=273403><P Class=KRCC>-장소는?<br>-야스나쵸 2가 입니다
+<SYNC Start=275939><P Class=KRCC>가죠
+<SYNC Start=277939><P Class=KRCC>&nbsp;
+<SYNC Start=282362><P Class=KRCC>쿠로이 순사 부장
+<SYNC Start=284331><P Class=KRCC>뭘 하고 있는겁니까?
+<SYNC Start=286831><P Class=KRCC>&nbsp;
+<SYNC Start=288351><P Class=KRCC>독이 들었는지 확인했습니다
+<SYNC Start=290337><P Class=KRCC>&nbsp;
+<SYNC Start=296359><P Class=KRCC>쿠로이 상!<br>빨리 오세요!
+<SYNC Start=298912><P Class=KRCC>&nbsp;
+<SYNC Start=306937><P Class=KRCC>도S 형사
+<SYNC Start=310937><P Class=KRCC>&nbsp;
+<SYNC Start=313962><P Class=KRCC><font color="#0080ff">제작:루벤스<br>( blog.naver.com/kunter )<br>의역,오역 너그럽게 이해해주세요</font>
+<SYNC Start=320962><P Class=KRCC>&nbsp;
+<SYNC Start=335365><P Class=KRCC>죄송합니다
+<SYNC Start=337851><P Class=KRCC>-감사합니다<br>-과장님
+<SYNC Start=340403><P Class=KRCC>이송 후에 숨진<br>오오토나리 시로 상 말입니다만
+<SYNC Start=343340><P Class=KRCC>사업 추진부 부장이었습니다
+<SYNC Start=345342><P Class=KRCC>넥스트 에지<br>신흥 IT기업이죠?
+<SYNC Start=348862><P Class=KRCC>네 오늘은 그 사람의<br>승진 축하 파티가 열렸던 것 같습니다
+<SYNC Start=353333><P Class=KRCC>상당히 성대한<br>이벤트였던 것 같네요
+<SYNC Start=356336><P Class=KRCC>이른바 서프라이즈 파티 같은겁니다
+<SYNC Start=358889><P Class=KRCC>서프라이즈?
+<SYNC Start=360924><P Class=KRCC>그래서 샴페인이 이렇게
+<SYNC Start=363844><P Class=KRCC>오오토나리 상은<br>이런 서프라이즈를 좋아했다고 합니다
+<SYNC Start=366847><P Class=KRCC>과연, 이번 뿐만이 아니라<br>서프라이즈에 서프라이즈를 계속 하다보니
+<SYNC Start=370350><P Class=KRCC>심장 마비를 일으킨 걸까요?
+<SYNC Start=373353><P Class=KRCC>-다른 것좀 찾아보겠습니다<br>-부탁드립니다
+<SYNC Start=376356><P Class=KRCC>&nbsp;
+<SYNC Start=377858><P Class=KRCC>-과장님!<br>-네
+<SYNC Start=379893><P Class=KRCC>이 분이 파티의 모습을<br>비디오 카메라로 촬영하고 있었다고 합니다
+<SYNC Start=383346><P Class=KRCC>-보여 주시겠습니까?<br>-네, 보세요
+<SYNC Start=385846><P Class=KRCC>&nbsp;
+<SYNC Start=388869><P Class=KRCC>가까워!
+<SYNC Start=390353><P Class=KRCC>안 보인다고!
+<SYNC Start=391853><P Class=KRCC>&nbsp;
+<SYNC Start=392856><P Class=KRCC>제대로 못 찍네<br>쓸모없어
+<SYNC Start=395342><P Class=KRCC>당신은 일할때<br>중요한 순간에 실수하는 타입의 인간이네
+<SYNC Start=399396><P Class=KRCC>죄송합니다..
+<SYNC Start=401396><P Class=KRCC>&nbsp;
+<SYNC Start=402449><P Class=KRCC>실례했습니다<br>마음에 두지 않으셔도 됩니다
+<SYNC Start=405449><P Class=KRCC>&nbsp;
+<SYNC Start=406353><P Class=KRCC>오늘의 요리를<br>준비하신 분이죠?
+<SYNC Start=408839><P Class=KRCC>나중에 잠시<br>이야기를 들을 수 있을까요?
+<SYNC Start=411842><P Class=KRCC>네..
+<SYNC Start=413343><P Class=KRCC>안색이 상당히 안좋아 보이시네요
+<SYNC Start=416346><P Class=KRCC>-괜찮으십니까?<br>-네?
+<SYNC Start=418865><P Class=KRCC>그거야 놀라서 그러시겠죠
+<SYNC Start=420367><P Class=KRCC>설마 일하는 중에<br>이런 일이 일어날지 모르셨을테니까요
+<SYNC Start=423937><P Class=KRCC>네..
+<SYNC Start=425856><P Class=KRCC>아리타 상 아리타 상<br>오늘이요
+<SYNC Start=427858><P Class=KRCC>오오토나리 상이<br>새로운 부장을 발표할 예정이었죠?
+<SYNC Start=431344><P Class=KRCC>그런거 이미 정해져 있었어<br>정해져 있었다구
+<SYNC Start=433864><P Class=KRCC>네? 누구? 누구로요?
+<SYNC Start=435849><P Class=KRCC>뭐? 그런거 와키모토로 정해진게 당연하잖아
+<SYNC Start=438835><P Class=KRCC>응? 누구야 당신?
+<SYNC Start=441905><P Class=KRCC>누나가 3명 있습니다<br>걸즈 토크는 이 나카네에게 맡겨주세요
+<SYNC Start=445859><P Class=KRCC>기분 나빠
+<SYNC Start=447859><P Class=KRCC>&nbsp;
+<SYNC Start=449346><P Class=KRCC>저.. 와키모토 상이시죠?
+<SYNC Start=452849><P Class=KRCC>오늘의 파티는<br>모두 당신이 총괄했다고 들었는데요
+<SYNC Start=457349><P Class=KRCC>&nbsp;
+<SYNC Start=458855><P Class=KRCC>내 탓입니다
+<SYNC Start=461408><P Class=KRCC>내 탓으로 이런 일이..
+<SYNC Start=463908><P Class=KRCC>&nbsp;
+<SYNC Start=465362><P Class=KRCC>저.. 너무 낙심하지 마세요
+<SYNC Start=469349><P Class=KRCC>-이건?<br>-네?
+<SYNC Start=471849><P Class=KRCC>&nbsp;
+<SYNC Start=474371><P Class=KRCC>오오토나리 부장님 것입니다
+<SYNC Start=477841><P Class=KRCC>그래요?
+<SYNC Start=479341><P Class=KRCC>&nbsp;
+<SYNC Start=481411><P Class=KRCC>아.. 죄송합니다
+<SYNC Start=483446><P Class=KRCC>-자, 여기요<br>-감사합니다
+<SYNC Start=485849><P Class=KRCC>-계장님<br>-그래
+<SYNC Start=487834><P Class=KRCC>-기다리셨습니다 도쿠 상<br>-응
+<SYNC Start=490353><P Class=KRCC>-다이칸사마<br>-감사합니다
+<SYNC Start=492339><P Class=KRCC>-기다리셨습니다<br>-네
+<SYNC Start=494339><P Class=KRCC>&nbsp;
+<SYNC Start=497861><P Class=KRCC>돌아가신 오오토나리 상은<br>상당한 실적을 쌓으셨습니다
+<SYNC Start=502415><P Class=KRCC>다만 일하는 방식에<br>약간 문제가 있었던 걸로..
+<SYNC Start=505352><P Class=KRCC>약간의 문제라니?
+<SYNC Start=506853><P Class=KRCC>이른바 공포 정치라는 겁니다<br>자신의 말은 절대적이다 라는..
+<SYNC Start=511358><P Class=KRCC>항상 위에 서려는 상사는<br>싫어하기 마련이죠
+<SYNC Start=513843><P Class=KRCC>항상 위에 서려는 부하도<br>싫어하기 마련입니다
+<SYNC Start=516343><P Class=KRCC>&nbsp;
+<SYNC Start=518348><P Class=KRCC>-저~ 제가 말해도 될까요?<br>-물론이지! 아.. 아니..
+<SYNC Start=521918><P Class=KRCC>제 걸즈 토크가 주효해서
+<SYNC Start=524354><P Class=KRCC>-하나의 중요한 증언을 들을 수 있었습니다<br>-뭔데?
+<SYNC Start=526840><P Class=KRCC>같은 부서의 아리타 사츠 상
+<SYNC Start=528842><P Class=KRCC>그녀는 오오토나리 상을<br>노골적으로 싫어했습니다
+<SYNC Start=532342><P Class=KRCC>&nbsp;
+<SYNC Start=533863><P Class=KRCC>아~ 그 위압적이고<br>어려워보이는 여자말인가
+<SYNC Start=537851><P Class=KRCC>위압적이고 어려워보이는 여자..
+<SYNC Start=540351><P Class=KRCC>&nbsp;
+<SYNC Start=541921><P Class=KRCC>아..
+<SYNC Start=543840><P Class=KRCC>아닙니다! 아니예요!
+<SYNC Start=546340><P Class=KRCC>&nbsp;
+<SYNC Start=548345><P Class=KRCC>아리타 상은 과거에<br>오오토나리 상에게 일을 빼앗겨
+<SYNC Start=551865><P Class=KRCC>출세에 손해를 본 적이 있다고 합니다
+<SYNC Start=554351><P Class=KRCC>오오토나리 상이<br>전무로 승진하는게 정해지고 나서
+<SYNC Start=557354><P Class=KRCC>그녀의 좌절감이 심해졌다고 합니다
+<SYNC Start=559889><P Class=KRCC>술집에서, 오오토나리 열받는 놈!<br>그 자식 죽이고 싶어!
+<SYNC Start=563860><P Class=KRCC>라고 말하는 것을<br>누군가 목격했다고 합니다
+<SYNC Start=566863><P Class=KRCC>-뭐 마시다보면 그 정도야...<br>-말하나요?
+<SYNC Start=568832><P Class=KRCC>-아.. 아니 과장님..<br>-말하는군요?
+<SYNC Start=570850><P Class=KRCC>-말하는군요<br>-과장님...
+<SYNC Start=573336><P Class=KRCC>파티의 마지막에
+<SYNC Start=574838><P Class=KRCC>오오토나리 상의 후임인<br>새로운 부장을 발표하려고 했답니다
+<SYNC Start=578375><P Class=KRCC>그런데 발표하기 전에<br>죽어버렸네
+<SYNC Start=580927><P Class=KRCC>아 그런데 오오토나리 상의<br>직속 부하인
+<SYNC Start=583847><P Class=KRCC>와키모토 츠카사 상으로<br>정해졌다고 하는 것 같습니다
+<SYNC Start=586833><P Class=KRCC>-저요!<br>-네
+<SYNC Start=589352><P Class=KRCC>와키모토 상은 오오토나리 상 밑에서<br>9년 간 일하고 있었습니다
+<SYNC Start=593356><P Class=KRCC>파티 준비도<br>항상 와키모토 상 혼자서 했구요
+<SYNC Start=596343><P Class=KRCC>-혼자서?<br>-네, 매번 오오토나리 상이 만족할만한
+<SYNC Start=599896><P Class=KRCC>서프라이즈를<br>생각하는게 상당히 힘들어서
+<SYNC Start=602432><P Class=KRCC>어제도 밤새 그 준비로<br>철야를 하고
+<SYNC Start=605352><P Class=KRCC>-30분 정도 잠을 잤다고 합니다<br>-네, 그 외에 정보는?
+<SYNC Start=609856><P Class=KRCC>-과장님<br>-네
+<SYNC Start=611858><P Class=KRCC>-한가지 걸리는게 있습니다<br>-뭐죠?
+<SYNC Start=615345><P Class=KRCC>당일의 식사를 준비한 레스토랑<br>카이토 바루의
+<SYNC Start=618882><P Class=KRCC>사에키 유미카 상 말입니다만
+<SYNC Start=621935><P Class=KRCC>그녀는 가게를 오픈할 때<br>오오토나리 상에게 돈을 빌렸습니다
+<SYNC Start=627340><P Class=KRCC>분명 그 오오토나리 상과<br>깊은 관계가 있는걸로 보입니다만
+<SYNC Start=632862><P Class=KRCC>그 사실을 숨겼습니다
+<SYNC Start=635865><P Class=KRCC>좀 더<br>알아볼 필요가 있는게 아닐지요
+<SYNC Start=638351><P Class=KRCC>음..
+<SYNC Start=639853><P Class=KRCC>오오토나리 상의<br>관계자를 계속 탐문해주세요
+<SYNC Start=642372><P Class=KRCC>네
+<SYNC Start=643872><P Class=KRCC>&nbsp;
+<SYNC Start=645975><P Class=KRCC>저.. 저희는?
+<SYNC Start=648845><P Class=KRCC>-서프라이즈<br>-네?
+<SYNC Start=651345><P Class=KRCC>&nbsp;
+<SYNC Start=652365><P Class=KRCC>-갈거야<br>-네
+<SYNC Start=654865><P Class=KRCC>&nbsp;
+<SYNC Start=660340><P Class=KRCC>그럼 당신은<br>오오토나리 상과 교제하고 있었군요
+<SYNC Start=665412><P Class=KRCC>네
+<SYNC Start=666946><P Class=KRCC>어째서 그걸<br>주위 사람들에게 숨기고 있던거죠?
+<SYNC Start=670366><P Class=KRCC>뭔가 말할 수 없는 사정이 있다든가?
+<SYNC Start=673366><P Class=KRCC>&nbsp;
+<SYNC Start=674354><P Class=KRCC>아.. 그.. 그건..
+<SYNC Start=677357><P Class=KRCC>뭐 그런거<br>보통은 말하지 않지요
+<SYNC Start=681344><P Class=KRCC>저.. 슬슬 괜찮을까요?
+<SYNC Start=683863><P Class=KRCC>아~ 실례했습니다<br>협조해주셔서 감사합니다
+<SYNC Start=686916><P Class=KRCC>감사합니다
+<SYNC Start=688916><P Class=KRCC>&nbsp;
+<SYNC Start=695859><P Class=KRCC>왜 그러세요? 도쿠 상
+<SYNC Start=697859><P Class=KRCC>&nbsp;
+<SYNC Start=699345><P Class=KRCC>혹시 도쿠 상<br>저 사람이 타입이세요?
+<SYNC Start=702845><P Class=KRCC>&nbsp;
+<SYNC Start=704868><P Class=KRCC>아직 저 사람에게<br>뭔가 비밀이 있는 것 같구만
+<SYNC Start=708338><P Class=KRCC>네?
+<SYNC Start=709838><P Class=KRCC>&nbsp;
+<SYNC Start=713476><P Class=KRCC>그런거 말안하면 모르는거야?
+<SYNC Start=715845><P Class=KRCC>됐어 내가 돌아가서 할테니까
+<SYNC Start=718331><P Class=KRCC>그래 그래, 쳇
+<SYNC Start=721851><P Class=KRCC>미안해요<br>부하인 남자애가 쓸모가 없어서요
+<SYNC Start=726339><P Class=KRCC>&nbsp;
+<SYNC Start=728358><P Class=KRCC>어라? 과장님께서 직접 사정청취하시는 겁니까?
+<SYNC Start=731377><P Class=KRCC>당신네 남자들도<br>믿음직하지 않나보네요
+<SYNC Start=734377><P Class=KRCC>&nbsp;
+<SYNC Start=735849><P Class=KRCC>-오늘 뵙고자 한 것은..<br>-오오토나리 일이죠? 맞아요
+<SYNC Start=739349><P Class=KRCC>&nbsp;
+<SYNC Start=741337><P Class=KRCC>죽어서 기뻐요
+<SYNC Start=743837><P Class=KRCC>&nbsp;
+<SYNC Start=744858><P Class=KRCC>상당히 솔직한 분이시네요
+<SYNC Start=746843><P Class=KRCC>당신도 죽이고 싶은 인간이<br>1명이나 2명 있겠죠?
+<SYNC Start=750413><P Class=KRCC>5명 정도 일까요
+<SYNC Start=751931><P Class=KRCC>첫번째부터<br>죽이고 싶은 우선 순위로 말씀해주세요
+<SYNC Start=753850><P Class=KRCC>-말할리가 없잖아요<br>-그럼 저부터 말할게요
+<SYNC Start=756352><P Class=KRCC>1번째 회계부의 나카야마 과장
+<SYNC Start=759339><P Class=KRCC>내가 신입 사원 때<br>여자 주제에 라면서 조롱했어요
+<SYNC Start=762859><P Class=KRCC>2번째는<br>시스템 개발부의 이즈타 부장
+<SYNC Start=765345><P Class=KRCC>그 남자는..<br>이봐요! 메모 제대로 하고 있어요?
+<SYNC Start=768915><P Class=KRCC>-좀 더 천천히 부탁드립니다..<br>-쓸모없네
+<SYNC Start=772915><P Class=KRCC>&nbsp;
+<SYNC Start=775338><P Class=KRCC>기다리셨습니다
+<SYNC Start=777857><P Class=KRCC>하실 말씀이라니?
+<SYNC Start=780343><P Class=KRCC>앉으세요 앉으세요
+<SYNC Start=782845><P Class=KRCC>파티 당일의 자세한 상황을<br>다시 가르쳐 주실 수 있을까요?
+<SYNC Start=786849><P Class=KRCC>네, 그건..
+<SYNC Start=788835><P Class=KRCC>트릭 가르쳐 줄래요?
+<SYNC Start=790870><P Class=KRCC>-네?<br>-쿠로이 상, 무슨 말씀이세요?
+<SYNC Start=792922><P Class=KRCC>-빵!<br>-우왁!!
+<SYNC Start=794440><P Class=KRCC>저기 쿠로이 상!<br>놀라게 하지마세요!
+<SYNC Start=796843><P Class=KRCC>폭발한 케이크<br>어떤 장치죠?
+<SYNC Start=800830><P Class=KRCC>-케이크?<br>-알고 싶어요, 서프라이즈
+<SYNC Start=803833><P Class=KRCC>지금까지의 파티 영상<br>남아있나요?
+<SYNC Start=806836><P Class=KRCC>네.. DVD로 정리해두고 있습니다만..
+<SYNC Start=809472><P Class=KRCC>그럼 여기로 보내요
+<SYNC Start=811972><P Class=KRCC>&nbsp;
+<SYNC Start=815845><P Class=KRCC>뭐 때문에 서프라이즈 트릭을<br>알고 싶으세요?
+<SYNC Start=818915><P Class=KRCC>아~!
+<SYNC Start=820950><P Class=KRCC>안돼죠 그건!
+<SYNC Start=823853><P Class=KRCC>이번에는 과장님 생일 케이크를
+<SYNC Start=826856><P Class=KRCC>폭발시킬 생각이신거죠?
+<SYNC Start=828841><P Class=KRCC>바보 아냐?
+<SYNC Start=830841><P Class=KRCC>&nbsp;
+<SYNC Start=834364><P Class=KRCC>오오토나리 상의 사인이<br>과민성 쇼크로
+<SYNC Start=836849><P Class=KRCC>질식사했다는 것으로 밝혀졌습니다
+<SYNC Start=838885><P Class=KRCC>-아나.. 아나..<br>-아나필락시 쇼크 (과민성 쇼크)
+<SYNC Start=841955><P Class=KRCC>알레르기 증상의<br>가장 위험한 것입니다
+<SYNC Start=843840><P Class=KRCC>알레르기? 알레르기에 사람이 죽기도 합니까?
+<SYNC Start=847343><P Class=KRCC>알레르기를 무시해서는 안됩니다<br>혈압의 저하, 의식 장애, 호흡 곤란으로
+<SYNC Start=851347><P Class=KRCC>죽음에 이르는 경우가<br>적지 않게 있습니다
+<SYNC Start=853349><P Class=KRCC>융통성 없는 직장 상사와의 대화로<br>두드러기가 나는 사람도 있어요
+<SYNC Start=858905><P Class=KRCC>저기 쿠로이 상?
+<SYNC Start=861841><P Class=KRCC>개념없는 부하와의 대화로<br>열불이 나는 사람도 있습니다
+<SYNC Start=864844><P Class=KRCC>아니 저.. 그러니까..
+<SYNC Start=868348><P Class=KRCC>그럼 파티 음식에<br>알레르기 물질이 있었다는 걸까요?
+<SYNC Start=873353><P Class=KRCC>그럼 가장 수상한 사람은<br>연인이자 거기다가 요리사인
+<SYNC Start=876873><P Class=KRCC>사에키 유미카 상
+<SYNC Start=878908><P Class=KRCC>과연, 연인이라면<br>뭔가 알레르기 같은거 알고 있어도 이상하지 않네요
+<SYNC Start=883863><P Class=KRCC>-시로가네 과장님<br>-네
+<SYNC Start=886349><P Class=KRCC>사에키 유미카는<br>저도 다시 한번 확인해보고 싶은게 있습니다
+<SYNC Start=889352><P Class=KRCC>알겠습니다
+<SYNC Start=891354><P Class=KRCC>사에키 유미카를 임의 동행해<br>얘기를 들어보죠 이상
+<SYNC Start=894857><P Class=KRCC>네
+<SYNC Start=896357><P Class=KRCC>&nbsp;
+<SYNC Start=901848><P Class=KRCC><font color="#ff8080">준비 됐어?</font>
+<SYNC Start=903850><P Class=KRCC><font color="#ff8080">-둘~ 셋~ 우왁!<br><font color="#ffffff">-쿠로이 상</font></font>
+<SYNC Start=906853><P Class=KRCC>또 파티 영상보세요?
+<SYNC Start=908855><P Class=KRCC><font color="#ff8080">뭐야 이건..</font>
+<SYNC Start=911858><P Class=KRCC><font color="#ff8080">아무것도 안보여!</font>
+<SYNC Start=915858><P Class=KRCC>&nbsp;
+<SYNC Start=918448><P Class=KRCC><font color="#ff8080">뭐야 이건..</font>
+<SYNC Start=920448><P Class=KRCC>&nbsp;
+<SYNC Start=926874><P Class=KRCC>몰랐다구요?
+<SYNC Start=929427><P Class=KRCC>네, 그 사람에게<br>알레르기가 있었다니.. 몰랐어요
+<SYNC Start=932814><P Class=KRCC>오오토나리 상과<br>2년이나 사귀었는데
+<SYNC Start=934832><P Class=KRCC>아무것도 몰랐다는게<br>말이 됩니까?
+<SYNC Start=936834><P Class=KRCC>-하지만 정말이에요<br>-당신 말이야
+<SYNC Start=938820><P Class=KRCC>사에키 상
+<SYNC Start=940320><P Class=KRCC>&nbsp;
+<SYNC Start=944826><P Class=KRCC>이제 오오토나리 상을<br>두둔할 필요는 없어요
+<SYNC Start=948826><P Class=KRCC>&nbsp;
+<SYNC Start=950398><P Class=KRCC>그 사람 덕분에<br>가게를 오픈할 수 있었던 당신은
+<SYNC Start=954335><P Class=KRCC>아무리 힘들어도<br>그에게서 벗어날 수 없었죠
+<SYNC Start=958823><P Class=KRCC>그걸 알고 있던 그 사람은<br>당신을 계속 폭행했습니다
+<SYNC Start=964323><P Class=KRCC>&nbsp;
+<SYNC Start=968332><P Class=KRCC>그건 비열한 범죄입니다
+<SYNC Start=971832><P Class=KRCC>&nbsp;
+<SYNC Start=992823><P Class=KRCC>이거 너무하네..
+<SYNC Start=996894><P Class=KRCC>그런 DV (가정 폭력) 에<br>내몰린 당신은
+<SYNC Start=1002833><P Class=KRCC>오오토나리 상을...
+<SYNC Start=1004335><P Class=KRCC>-죽이지 않았습니다<br>-죽이지 않아.. 네?
+<SYNC Start=1007338><P Class=KRCC>믿어주세요!
+<SYNC Start=1009323><P Class=KRCC>그래도 저는<br>그 사람을 사랑했어요
+<SYNC Start=1015329><P Class=KRCC>믿어주세요!
+<SYNC Start=1017829><P Class=KRCC>&nbsp;
+<SYNC Start=1020418><P Class=KRCC><font color="#ff8080">축하합니다!</font>
+<SYNC Start=1021836><P Class=KRCC><font color="#ff8080">부장님 생신 축하드립니다!</font>
+<SYNC Start=1024336><P Class=KRCC>&nbsp;
+<SYNC Start=1032330><P Class=KRCC><font color="#ff8080">-너희들..<br>-축하합니다!</font>
+<SYNC Start=1034849><P Class=KRCC><font color="#ff8080">해피 할로윈~ 예~!</font>
+<SYNC Start=1037401><P Class=KRCC>저.. 쿠로이 상
+<SYNC Start=1039320><P Class=KRCC>그 DVD 주소를<br>왜 여기로 한거예요?
+<SYNC Start=1043341><P Class=KRCC>그리고 여기서 보지 않아도...
+<SYNC Start=1046841><P Class=KRCC>&nbsp;
+<SYNC Start=1048829><P Class=KRCC>과연
+<SYNC Start=1051332><P Class=KRCC>뭔가 단서라도?
+<SYNC Start=1053851><P Class=KRCC>서프라이즈 파티라는거
+<SYNC Start=1056904><P Class=KRCC>-재밌네<br>-그게 뭐예요
+<SYNC Start=1059404><P Class=KRCC>&nbsp;
+<SYNC Start=1064345><P Class=KRCC><font color="#ff8080">메리 크리스마스~</font>
+<SYNC Start=1067345><P Class=KRCC>&nbsp;
+<SYNC Start=1069317><P Class=KRCC>쿠로이 상, 뭔가 마실래요?
+<SYNC Start=1071852><P Class=KRCC>부르고뉴 화이트 샤르도네 12도<br>차가운거 있어요?
+<SYNC Start=1076340><P Class=KRCC>엄마 그거 있어?
+<SYNC Start=1077875><P Class=KRCC>응? 소주 밖에 없는데
+<SYNC Start=1080428><P Class=KRCC>-보리 소주라면 OK입니다<br>-따뜻한 물에 매실 장아찌 넣은걸로 괜찮아요?
+<SYNC Start=1083331><P Class=KRCC>-항상 마시던 방법이에요<br>-그랬죠?
+<SYNC Start=1086331><P Class=KRCC>&nbsp;
+<SYNC Start=1089837><P Class=KRCC>아~ 빨래 집어넣는 것 까먹었네<br>잠시..
+<SYNC Start=1092840><P Class=KRCC>오빠 빨래 넣고 와
+<SYNC Start=1095843><P Class=KRCC>왜 내가..
+<SYNC Start=1097345><P Class=KRCC>어쩔 수 없네<br>도와줄게
+<SYNC Start=1099380><P Class=KRCC>사이가 좋은 건지 나쁜 건지<br>모르겠네
+<SYNC Start=1102833><P Class=KRCC>-저..<br>-안주는 땅콩과자 밖에 없어요
+<SYNC Start=1106333><P Class=KRCC>&nbsp;
+<SYNC Start=1107838><P Class=KRCC>그것도 엄청 좋아해요
+<SYNC Start=1109824><P Class=KRCC>&nbsp;
+<SYNC Start=1111325><P Class=KRCC>아 잠깐<br>물수건 좀 가져올게요~
+<SYNC Start=1115325><P Class=KRCC>&nbsp;
+<SYNC Start=1116847><P Class=KRCC>오오토나리 상의<br>과민성 쇼크의 원인
+<SYNC Start=1120418><P Class=KRCC>채취한 혈액을 조사해서 알았어
+<SYNC Start=1123320><P Class=KRCC>-뭐였어?<br>-마야야가 좋아하는거
+<SYNC Start=1127341><P Class=KRCC>-응?<br>-채찍입니까?
+<SYNC Start=1129326><P Class=KRCC>땡~
+<SYNC Start=1130828><P Class=KRCC>-검은 색 옷<br>-땡
+<SYNC Start=1132830><P Class=KRCC>-회전 놀이기구<br>-땡~
+<SYNC Start=1136350><P Class=KRCC>아 알았다! 범죄자!
+<SYNC Start=1139370><P Class=KRCC>바보 아냐?
+<SYNC Start=1141422><P Class=KRCC>어라, 다른 뭔가가 있나요?
+<SYNC Start=1143922><P Class=KRCC>&nbsp;
+<SYNC Start=1147328><P Class=KRCC>땅콩이야
+<SYNC Start=1149828><P Class=KRCC>&nbsp;
+<SYNC Start=1153334><P Class=KRCC>죄송합니다, 오늘은 아직..
+<SYNC Start=1156334><P Class=KRCC>&nbsp;
+<SYNC Start=1159323><P Class=KRCC>뭐죠?
+<SYNC Start=1161342><P Class=KRCC>수색 영장이 나왔습니다
+<SYNC Start=1164395><P Class=KRCC>-이봐<br>-네
+<SYNC Start=1166395><P Class=KRCC>&nbsp;
+<SYNC Start=1167331><P Class=KRCC>지난 6개월 간의 매입 전표를<br>신속하게 제출해 주세요
+<SYNC Start=1170334><P Class=KRCC>그리고<br>파티 당일의 레시피도요
+<SYNC Start=1172837><P Class=KRCC>알겠습니다
+<SYNC Start=1174837><P Class=KRCC>&nbsp;
+<SYNC Start=1184415><P Class=KRCC>저.. 그 사람의 알레르기의 원인을<br>알아낸건가요?
+<SYNC Start=1189837><P Class=KRCC>역시 모르고 계셨습니까?
+<SYNC Start=1192323><P Class=KRCC>몰랐습니다
+<SYNC Start=1194825><P Class=KRCC>아~
+<SYNC Start=1196827><P Class=KRCC>있습니다<br>땅콩 페이스트에요!
+<SYNC Start=1200815><P Class=KRCC>땅콩 페이스트?
+<SYNC Start=1202815><P Class=KRCC>&nbsp;
+<SYNC Start=1205386><P Class=KRCC>땅콩..
+<SYNC Start=1207421><P Class=KRCC>혹시 그게<br>그 사람의 알레르기 원인인가요?
+<SYNC Start=1209824><P Class=KRCC>아직도 시치미를 때는 겁니까?
+<SYNC Start=1211826><P Class=KRCC>아! 이걸 봐주세요!<br>그날 레시피에
+<SYNC Start=1214328><P Class=KRCC>땅콩 페이스트는<br>사용하지 않았습니다
+<SYNC Start=1216330><P Class=KRCC>그런 건 얼마든지<br>고쳐 쓸 수 있잖습니까!
+<SYNC Start=1218816><P Class=KRCC>그런..
+<SYNC Start=1220816><P Class=KRCC>&nbsp;
+<SYNC Start=1222837><P Class=KRCC>과장님, 어째서 사에키 유미카를<br>잡지 않는겁니까?
+<SYNC Start=1226373><P Class=KRCC>파티의 식사를 과수연에서<br>분석하고있어요
+<SYNC Start=1228959><P Class=KRCC>-감정 결과를 기다려보죠<br>-하지만 과장님..
+<SYNC Start=1231328><P Class=KRCC>수고하셨습니다
+<SYNC Start=1233814><P Class=KRCC>-아리스카와 계장<br>-네
+<SYNC Start=1236817><P Class=KRCC>그녀가 오오토나리 상을<br>살해했다면
+<SYNC Start=1239336><P Class=KRCC>증거가 되는 땅콩 페이스트를<br>그런 곳에 둘까요?
+<SYNC Start=1242339><P Class=KRCC>-네?<br>-벌써 처분했을겁니다
+<SYNC Start=1244825><P Class=KRCC>하지만 과장님<br>그녀는 동기가 있습니다
+<SYNC Start=1247895><P Class=KRCC>오오토나리 상의 거듭되는 DV
+<SYNC Start=1250831><P Class=KRCC>오오토나리 시로는 극도의 편식으로
+<SYNC Start=1253834><P Class=KRCC>편의점의 도시락이나 패스트 푸드 밖에<br>먹지 않는 사람이었어요
+<SYNC Start=1257838><P Class=KRCC>-네?<br>-이봐 쿠로이 군
+<SYNC Start=1259840><P Class=KRCC>쿠로이 순사 부장, 그 정보는 언제?
+<SYNC Start=1262326><P Class=KRCC>저.. 지금 보고하려고 했습니다
+<SYNC Start=1265362><P Class=KRCC>그렇다면 파티의 식사는<br>손을 대지 않았을 가능성도 있네요
+<SYNC Start=1268816><P Class=KRCC>그럴리 없잖아!
+<SYNC Start=1270317><P Class=KRCC>그렇다면 범인은 어떻게<br>오오토나리 상에게
+<SYNC Start=1272336><P Class=KRCC>땅콩을 먹인거냐고!
+<SYNC Start=1274338><P Class=KRCC>쿠로이 순사 부장
+<SYNC Start=1276323><P Class=KRCC>-다이칸사마, 갈거야<br>-아.. 네
+<SYNC Start=1279323><P Class=KRCC>&nbsp;
+<SYNC Start=1280344><P Class=KRCC>앞으로도 잘 부탁드립니다
+<SYNC Start=1282844><P Class=KRCC>&nbsp;
+<SYNC Start=1288836><P Class=KRCC>뭡니까? 또 가르쳐 달라는 겁니까?<br>서프라이즈의 트릭
+<SYNC Start=1293336><P Class=KRCC>&nbsp;
+<SYNC Start=1296327><P Class=KRCC>빵!
+<SYNC Start=1298327><P Class=KRCC>&nbsp;
+<SYNC Start=1299330><P Class=KRCC>어라? 놀라지 않네요
+<SYNC Start=1301348><P Class=KRCC>2번째니까요<br>학습하죠 보통
+<SYNC Start=1303901><P Class=KRCC>학습 능력 제로인 사람도 있어요
+<SYNC Start=1306837><P Class=KRCC>-네?<br>-아~ 깜짝 놀랐다
+<SYNC Start=1309323><P Class=KRCC>저기 이제 그만 하시겠어요?
+<SYNC Start=1310824><P Class=KRCC>모두가 이렇다면<br>간단하고 좋을텐데 말이죠
+<SYNC Start=1313827><P Class=KRCC>이거 돌려드릴게요
+<SYNC Start=1317331><P Class=KRCC>뭔가 도움이 됐습니까?
+<SYNC Start=1320851><P Class=KRCC>당신은 항상<br>새로운 서프라이즈를 생각
+<SYNC Start=1324922><P Class=KRCC>똑같은 서프라이즈를 하지 않았다
+<SYNC Start=1328342><P Class=KRCC>그거야 뭐 그렇죠
+<SYNC Start=1331345><P Class=KRCC>오오토나리 상은 어떤 서프라이즈에도<br>항상 완벽한 리액션
+<SYNC Start=1336845><P Class=KRCC>&nbsp;
+<SYNC Start=1338352><P Class=KRCC>파티 당일 오오토나리 상은<br>지갑과 휴대 전화, 시계를
+<SYNC Start=1342890><P Class=KRCC>테이블에 두고 있었다
+<SYNC Start=1345390><P Class=KRCC>&nbsp;
+<SYNC Start=1350331><P Class=KRCC>그래서 샴페인에 젖지 않았다
+<SYNC Start=1353331><P Class=KRCC>&nbsp;
+<SYNC Start=1355819><P Class=KRCC>다행이네요
+<SYNC Start=1358339><P Class=KRCC>아..
+<SYNC Start=1360841><P Class=KRCC>이제 그 사람에게는 필요없겠지만 말이죠
+<SYNC Start=1363841><P Class=KRCC>&nbsp;
+<SYNC Start=1365879><P Class=KRCC>아.. 좀..<br>지금부터 미팅이 있어서요
+<SYNC Start=1368933><P Class=KRCC>와키모토 상
+<SYNC Start=1370933><P Class=KRCC>&nbsp;
+<SYNC Start=1374338><P Class=KRCC><font color="#ff8080">준비 됐어?</font>
+<SYNC Start=1375839><P Class=KRCC><font color="#ff8080">둘~ 셋~ 우왁!</font>
+<SYNC Start=1377825><P Class=KRCC>저.. 쿠로이 상은<br>와키모토 상을 의심하시는거죠?
+<SYNC Start=1382313><P Class=KRCC>그 이유를 가르쳐 주시겠어요?
+<SYNC Start=1384832><P Class=KRCC>무슨 냄새야?
+<SYNC Start=1387351><P Class=KRCC>안녕하세요~<br>야식 가지고 왔습니다!
+<SYNC Start=1389903><P Class=KRCC>다이칸사마, 이번에는 뭘 주문한거야?
+<SYNC Start=1392840><P Class=KRCC>-그러니까..<br>-기다리셨습니다
+<SYNC Start=1395926><P Class=KRCC>마늘 3배 김치 5배<br>켄 특제 볶음밥입니다
+<SYNC Start=1399926><P Class=KRCC>&nbsp;
+<SYNC Start=1400814><P Class=KRCC>저쪽에서 먹고<br>반경 2m 이내에 접근하지 마
+<SYNC Start=1404835><P Class=KRCC>아~ 네~
+<SYNC Start=1406820><P Class=KRCC>-저쪽에 부탁드립니다<br>-네
+<SYNC Start=1409340><P Class=KRCC>오늘은 외상으로 부탁드립니다
+<SYNC Start=1411825><P Class=KRCC>네
+<SYNC Start=1413844><P Class=KRCC>-그럼 또 부탁드립니다<br>-네
+<SYNC Start=1415844><P Class=KRCC>&nbsp;
+<SYNC Start=1416864><P Class=KRCC>냄새!
+<SYNC Start=1418399><P Class=KRCC>그래요?
+<SYNC Start=1420899><P Class=KRCC>&nbsp;
+<SYNC Start=1426824><P Class=KRCC><font color="#ff8080">그만..<br>아무것도 안보인다고!</font>
+<SYNC Start=1431328><P Class=KRCC><font color="#ff8080">그만해! 그만해!</font>
+<SYNC Start=1435833><P Class=KRCC><font color="#ff8080">그만해!</font>
+<SYNC Start=1437833><P Class=KRCC>&nbsp;
+<SYNC Start=1439853><P Class=KRCC>그래, 그렇네
+<SYNC Start=1443424><P Class=KRCC>이게 흉기
+<SYNC Start=1445342><P Class=KRCC>네!? 흉기요?
+<SYNC Start=1447828><P Class=KRCC>멈춰!
+<SYNC Start=1449328><P Class=KRCC>&nbsp;
+<SYNC Start=1455823><P Class=KRCC><font color="#ff8080">둘~ 셋~ 우왁!</font>
+<SYNC Start=1458826><P Class=KRCC>이 영상이 어떻다는거죠?
+<SYNC Start=1460845><P Class=KRCC>-멈춰!<br>-네
+<SYNC Start=1463331><P Class=KRCC>-아니야<br>-아 죄송합니다
+<SYNC Start=1465816><P Class=KRCC><font color="#ff8080">우왁!</font>
+<SYNC Start=1468369><P Class=KRCC>-거기!<br>-네!
+<SYNC Start=1469869><P Class=KRCC>&nbsp;
+<SYNC Start=1471822><P Class=KRCC>안개 속에서 오오토나리 상에게<br>뭔가를 내미는 손이 보일겁니다
+<SYNC Start=1475843><P Class=KRCC>저건 손수건입니다
+<SYNC Start=1478329><P Class=KRCC>손수건?
+<SYNC Start=1479830><P Class=KRCC>오오토나리 상은<br>연기를 마시지 않도록
+<SYNC Start=1482316><P Class=KRCC>이 손수건을 받았습니다
+<SYNC Start=1484335><P Class=KRCC>하지만 연기가 아닌<br>다른 것을 흡입하게 됐죠
+<SYNC Start=1488406><P Class=KRCC>쿠로이 군<br>대체 무슨 말이 하고 싶은거야?
+<SYNC Start=1491325><P Class=KRCC>범인은 오오토나리 상에게<br>땅콩을 먹인게 아닙니다
+<SYNC Start=1495813><P Class=KRCC>빨아들이게 했죠
+<SYNC Start=1497314><P Class=KRCC>빨아들이게?
+<SYNC Start=1498816><P Class=KRCC>-땅콩을?<br>-빨아드려?
+<SYNC Start=1501335><P Class=KRCC>또 무슨 엉뚱한 소리를
+<SYNC Start=1504822><P Class=KRCC>땅콩을 빨아들이다니
+<SYNC Start=1507875><P Class=KRCC>이 손수건에는<br>땅콩 성분이 묻어 있었어요
+<SYNC Start=1511846><P Class=KRCC>그것을 흡입한 오오토나리 상은
+<SYNC Start=1514331><P Class=KRCC>알레르기 증상을 일으켜<br>숨졌습니다
+<SYNC Start=1517334><P Class=KRCC>쿠로이 순사 부장
+<SYNC Start=1519336><P Class=KRCC>그럼 이 손은 누구의 것입니까?
+<SYNC Start=1521836><P Class=KRCC>&nbsp;
+<SYNC Start=1525843><P Class=KRCC>직전의 영상을 보면
+<SYNC Start=1527895><P Class=KRCC>오오토나리 상에게 달려들 수 있는<br>거리에 있던 사람은
+<SYNC Start=1530831><P Class=KRCC>총 4명
+<SYNC Start=1534335><P Class=KRCC>4명 중 3명은 기혼자
+<SYNC Start=1536320><P Class=KRCC>그 3 명은<br>항상 결혼 반지를 끼고 있었습니다
+<SYNC Start=1539320><P Class=KRCC>&nbsp;
+<SYNC Start=1541842><P Class=KRCC>오오토나리 상에게 손수건을 내밀었던<br>왼손에는
+<SYNC Start=1544845><P Class=KRCC>결혼 반지가 끼워져 있지 않았습니다
+<SYNC Start=1548416><P Class=KRCC>4명 가운데 유일한 독신자의 손
+<SYNC Start=1552916><P Class=KRCC>&nbsp;
+<SYNC Start=1555823><P Class=KRCC>이 남자가<br>오오토나리 상을 죽인 범인입니다
+<SYNC Start=1560323><P Class=KRCC>&nbsp;
+<SYNC Start=1570337><P Class=KRCC>현장 검증 결과<br>손수건은 압수되지 않았습니다
+<SYNC Start=1573908><P Class=KRCC>사건 직후 와키모토 츠카사가<br>가져간 것으로 생각됩니다
+<SYNC Start=1578829><P Class=KRCC>그렇다는건 당신의 추측은<br>아무런 증거도 없다는거군요?
+<SYNC Start=1581832><P Class=KRCC>그렇다면 동기는 뭐야?<br>그 와키모토 라는 남자는
+<SYNC Start=1585820><P Class=KRCC>오오토나리 상의 직속 부하 직원으로<br>가장 신뢰할 수있는 사람이라고
+<SYNC Start=1589840><P Class=KRCC>다른 직원 분들도 말했어요
+<SYNC Start=1591826><P Class=KRCC>오오토나리 상과 와키모토 상의<br>인연은 상당하다구요
+<SYNC Start=1594879><P Class=KRCC>게다가 그 파티의 마지막에<br>오오토나리 상은 자신의 후임으로
+<SYNC Start=1598332><P Class=KRCC>와키모토 상을<br>지명하려고 했는데요?
+<SYNC Start=1601332><P Class=KRCC>&nbsp;
+<SYNC Start=1604839><P Class=KRCC>쿠로이 순사 부장
+<SYNC Start=1607842><P Class=KRCC>모두 기각합니다
+<SYNC Start=1610342><P Class=KRCC>&nbsp;
+<SYNC Start=1611829><P Class=KRCC>흉기도 없고 물증도 없다<br>동기도 모른다
+<SYNC Start=1615916><P Class=KRCC>이 상태로 용의자로<br>단정하는 건 불가능합니다
+<SYNC Start=1619837><P Class=KRCC>당신이 밝혀낸 사실은<br>그 정도입니까?
+<SYNC Start=1623837><P Class=KRCC>&nbsp;
+<SYNC Start=1626327><P Class=KRCC>유감이네요, 쿠로이 순사 부장
+<SYNC Start=1629830><P Class=KRCC>&nbsp;
+<SYNC Start=1658342><P Class=KRCC>쿠로이 상 타세요!
+<SYNC Start=1660842><P Class=KRCC>&nbsp;
+<SYNC Start=1662413><P Class=KRCC>자! 돌자구요!
+<SYNC Start=1664331><P Class=KRCC>돌면 뭔가 번쩍일지도 몰라요!
+<SYNC Start=1666350><P Class=KRCC>자 평소보다 빠르게 가겠습니다!
+<SYNC Start=1667850><P Class=KRCC>&nbsp;
+<SYNC Start=1671322><P Class=KRCC>-실례합니다 실례합니다<br>-어서오세요
+<SYNC Start=1673841><P Class=KRCC>뭐야 쿠로이 상<br>배고프셨군요
+<SYNC Start=1676343><P Class=KRCC>와~ 뭘로 할까나~
+<SYNC Start=1678345><P Class=KRCC>-타코? 타코? 아 타코 라이스<br>-그라시아스! (감사합니다)
+<SYNC Start=1681916><P Class=KRCC>-그래서 뭔가 알았어?<br>-네?
+<SYNC Start=1686320><P Class=KRCC>-아!<br>-올라! (안녕!)
+<SYNC Start=1688820><P Class=KRCC>&nbsp;
+<SYNC Start=1690341><P Class=KRCC>오오토나리 상이 서프라이즈를 좋아하는 사람인건<br>거래처에도 익히 알려져 있었습니다
+<SYNC Start=1694845><P Class=KRCC>거래처는 계약을 따내기 위해
+<SYNC Start=1696830><P Class=KRCC>그 수단으로<br>그에게 서프라이즈를 했습니다
+<SYNC Start=1699850><P Class=KRCC>그래, 그래서?
+<SYNC Start=1702403><P Class=KRCC>서프라이즈를 해 준 회사에 대해서<br>오오토나리 상은
+<SYNC Start=1705823><P Class=KRCC>답례로 반드시<br>어떤 일을 했습니다
+<SYNC Start=1709810><P Class=KRCC>어떤?
+<SYNC Start=1711312><P Class=KRCC>예를 들면 모든 직원을 모아<br>로비에서 춤을 추게한다거나
+<SYNC Start=1715816><P Class=KRCC>-네?<br>-뭐야 도대체 그게
+<SYNC Start=1718819><P Class=KRCC>서프라이즈 답례입니다
+<SYNC Start=1721372><P Class=KRCC>서프라이즈 답례?
+<SYNC Start=1723924><P Class=KRCC>눈에는 눈<br>서프라이즈에는 서프라이즈
+<SYNC Start=1728924><P Class=KRCC>&nbsp;
+<SYNC Start=1732316><P Class=KRCC>저... 아직 제가<br>의심받고 있는건가요?
+<SYNC Start=1736337><P Class=KRCC>서프라이즈 답례입니까?
+<SYNC Start=1738822><P Class=KRCC>-네?<br>-아.. 아니 파티 날에
+<SYNC Start=1740841><P Class=KRCC>오오토나리 상에게<br>뭔가 부탁 받은 게 있습니까?
+<SYNC Start=1744341><P Class=KRCC>&nbsp;
+<SYNC Start=1748916><P Class=KRCC>혹시 이거 말씀이신가요?
+<SYNC Start=1752416><P Class=KRCC>&nbsp;
+<SYNC Start=1754338><P Class=KRCC>오오토나리 상이<br>파티의 마지막에 내도록
+<SYNC Start=1757341><P Class=KRCC>부탁했던 와인이에요
+<SYNC Start=1759827><P Class=KRCC>상당히 비싼 와인이네요
+<SYNC Start=1762313><P Class=KRCC>아! 35년 산!
+<SYNC Start=1764832><P Class=KRCC>누구랑 동갑이네
+<SYNC Start=1767835><P Class=KRCC>아~ 와키모토 상?
+<SYNC Start=1770387><P Class=KRCC>그럼 이건<br>새로운 부장 취임 축하일까요?
+<SYNC Start=1774387><P Class=KRCC>&nbsp;
+<SYNC Start=1775826><P Class=KRCC>응? 하지만 이게<br>와키모토 상에 대한 서프라이즈 답례?
+<SYNC Start=1779847><P Class=KRCC>왠지 평범하네요
+<SYNC Start=1782333><P Class=KRCC>직원들 춤을 추게하는<br>오오토나리 상 치고는
+<SYNC Start=1785336><P Class=KRCC>이거 맡아도 될까요?
+<SYNC Start=1788322><P Class=KRCC>그러세요
+<SYNC Start=1789822><P Class=KRCC>&nbsp;
+<SYNC Start=1792376><P Class=KRCC>그러니까 어제도 말했잖아<br>같은 말을 몇번이나 하게 하지마!
+<SYNC Start=1795829><P Class=KRCC>-저기..<br>-정말 머리 아프게시리~
+<SYNC Start=1797848><P Class=KRCC>잠시 여쭙고 싶은게 있는데요
+<SYNC Start=1799817><P Class=KRCC>-뭐?<br>-아..
+<SYNC Start=1802317><P Class=KRCC>&nbsp;
+<SYNC Start=1804838><P Class=KRCC>저기, 아직 내가 의심받는거야?
+<SYNC Start=1809326><P Class=KRCC>아까 들은 듯한 문구네
+<SYNC Start=1811879><P Class=KRCC>뭐?
+<SYNC Start=1813379><P Class=KRCC>&nbsp;
+<SYNC Start=1814431><P Class=KRCC>남자끼리의 주종 관계는<br>정말 기분 나빠요
+<SYNC Start=1818335><P Class=KRCC>그렇게 부려먹여도<br>와키모토는 오오토나리 욕같은건
+<SYNC Start=1821338><P Class=KRCC>한번도 한 적이 없다니까요
+<SYNC Start=1822840><P Class=KRCC>9년간 단 한 번도!
+<SYNC Start=1825840><P Class=KRCC>&nbsp;
+<SYNC Start=1827845><P Class=KRCC>와키모토가 아직도 독신인건
+<SYNC Start=1829830><P Class=KRCC>사생활을 희생하면서<br>오오토나리를 모시고 있기 때문이에요
+<SYNC Start=1834418><P Class=KRCC>아아~ 그래요?
+<SYNC Start=1836837><P Class=KRCC>그러고 보니<br>뭔가 우울했어요 와키모토
+<SYNC Start=1839840><P Class=KRCC>파티 전날에
+<SYNC Start=1842326><P Class=KRCC>파티 전날?
+<SYNC Start=1843827><P Class=KRCC>간신히 자신의 고생이<br>보답 받는 날이
+<SYNC Start=1846330><P Class=KRCC>내일로 다가왔는데 말이죠
+<SYNC Start=1849330><P Class=KRCC>&nbsp;
+<SYNC Start=1857341><P Class=KRCC>실례합니다
+<SYNC Start=1859341><P Class=KRCC>&nbsp;
+<SYNC Start=1861845><P Class=KRCC>축하합니다
+<SYNC Start=1864331><P Class=KRCC>새로운 부장님~
+<SYNC Start=1866350><P Class=KRCC>또 당신들입니까?
+<SYNC Start=1868318><P Class=KRCC>이번에는 뭐죠?
+<SYNC Start=1870337><P Class=KRCC>당신과 오오토나리 상은<br>끈끈한 인연으로 맺어져 있었으니
+<SYNC Start=1875337><P Class=KRCC>&nbsp;
+<SYNC Start=1876844><P Class=KRCC>기뻐서 견딜 수 없었겠네요
+<SYNC Start=1880831><P Class=KRCC>오오토나리 상은<br>전무로 승진
+<SYNC Start=1884351><P Class=KRCC>당신은 새로운 부장에 임명되니까
+<SYNC Start=1888351><P Class=KRCC>&nbsp;
+<SYNC Start=1890858><P Class=KRCC>그 파티의 전날에는 특히 말이죠
+<SYNC Start=1894928><P Class=KRCC>네?
+<SYNC Start=1896346><P Class=KRCC>그런 당신이 우울해 했다니
+<SYNC Start=1901835><P Class=KRCC>뭔가 잘못 알고 있는거겠죠?
+<SYNC Start=1905835><P Class=KRCC>&nbsp;
+<SYNC Start=1907324><P Class=KRCC>네 그래요
+<SYNC Start=1910324><P Class=KRCC>&nbsp;
+<SYNC Start=1912396><P Class=KRCC>죄송합니다, 일이 있어서
+<SYNC Start=1914896><P Class=KRCC>&nbsp;
+<SYNC Start=1922840><P Class=KRCC>갑시다! 돌립니다!
+<SYNC Start=1925325><P Class=KRCC>-뭘 그렇게 들뜬거야?<br>-그러지말고요~
+<SYNC Start=1929346><P Class=KRCC>자! 빨리 타자구요!
+<SYNC Start=1931832><P Class=KRCC>자자!
+<SYNC Start=1933333><P Class=KRCC>&nbsp;
+<SYNC Start=1936870><P Class=KRCC>-시끄러워!<br>-네
+<SYNC Start=1938870><P Class=KRCC>&nbsp;
+<SYNC Start=1940841><P Class=KRCC>파티 중에 사망 한건<br>넥스트 에지의 부장, 오오토나리 시로
+<SYNC Start=1945813><P Class=KRCC>사인은 땅콩 알레르기에 의한<br>과민성 쇼크
+<SYNC Start=1949833><P Class=KRCC>범인은 땅콩의 성분을 묻힌<br>손수건을 오오토나리에게 내밀어
+<SYNC Start=1954371><P Class=KRCC>그 성분을 빨아들이게했다
+<SYNC Start=1957424><P Class=KRCC>그것이 가능했던건<br>오오토나리의 부하 와키모토 츠카사
+<SYNC Start=1963814><P Class=KRCC>오오토나리 밑에서 9년간 일했던<br>와키모토는, 그날
+<SYNC Start=1967334><P Class=KRCC>오오토나리에게 자신의 후계자로<br>지명되기로 정해져 있었다
+<SYNC Start=1971321><P Class=KRCC><font color="#ff8080">와키모토인게 당연하잖아!</font>
+<SYNC Start=1973323><P Class=KRCC>9년 간의 고생이<br>드디어 보답 받는 날인데
+<SYNC Start=1976844><P Class=KRCC>어째서 와키모토는<br>그런 짓을 했을까?
+<SYNC Start=1979844><P Class=KRCC>&nbsp;
+<SYNC Start=1981398><P Class=KRCC>-느려!<br>-죄송합니다
+<SYNC Start=1983398><P Class=KRCC>&nbsp;
+<SYNC Start=1984818><P Class=KRCC>-왜?<br>-왜?
+<SYNC Start=1987337><P Class=KRCC>-왜?<br>-왜!
+<SYNC Start=1989323><P Class=KRCC>왜?
+<SYNC Start=1990824><P Class=KRCC><font color="#ff8080">눈에는 눈<br>서프라이즈에는 서프라이즈</font>
+<SYNC Start=1995312><P Class=KRCC><font color="#ff8080">뭔가 우울해 보였어요 와키모토</font>
+<SYNC Start=1997848><P Class=KRCC><font color="#ff8080">파티 전날에</font>
+<SYNC Start=1999333><P Class=KRCC><font color="#ff8080">이게 와키모토 상에 대한 서프라이즈 답례?<br>왠지 평범하네요</font>
+<SYNC Start=2003420><P Class=KRCC>멈춰!
+<SYNC Start=2004920><P Class=KRCC>&nbsp;
+<SYNC Start=2010327><P Class=KRCC>멈춰!
+<SYNC Start=2011827><P Class=KRCC>&nbsp;
+<SYNC Start=2019319><P Class=KRCC>저기 쿠로이 상<br>뭐하는거에요?
+<SYNC Start=2022319><P Class=KRCC>&nbsp;
+<SYNC Start=2030330><P Class=KRCC>응? 왜 그러세요? 쿠로이 상
+<SYNC Start=2033330><P Class=KRCC>&nbsp;
+<SYNC Start=2040324><P Class=KRCC>다이칸사마
+<SYNC Start=2042843><P Class=KRCC>네
+<SYNC Start=2044344><P Class=KRCC>굿 잡!
+<SYNC Start=2046380><P Class=KRCC>네?
+<SYNC Start=2047880><P Class=KRCC>&nbsp;
+<SYNC Start=2063333><P Class=KRCC>당신은 어째서<br>날 의심하는겁니까?
+<SYNC Start=2066837><P Class=KRCC>실례합니다
+<SYNC Start=2068837><P Class=KRCC>&nbsp;
+<SYNC Start=2080333><P Class=KRCC>-뭐야 이게!<br>-죄송합니다
+<SYNC Start=2083336><P Class=KRCC>-그거에요<br>-네?
+<SYNC Start=2085336><P Class=KRCC>&nbsp;
+<SYNC Start=2086339><P Class=KRCC>그게 리얼한 서프라이즈 리액션이에요
+<SYNC Start=2089339><P Class=KRCC>&nbsp;
+<SYNC Start=2091828><P Class=KRCC>뭐라는거야
+<SYNC Start=2094881><P Class=KRCC>멋 내기로 유명한 오오토나리 상이<br>자신의 승진 축하 파티에
+<SYNC Start=2100320><P Class=KRCC>싸구려 정장을 입고 있었다
+<SYNC Start=2103824><P Class=KRCC>지갑과 휴대 전화, 시계는 빼서
+<SYNC Start=2107344><P Class=KRCC>테이블에 두고 있었다
+<SYNC Start=2110814><P Class=KRCC>오오토나리 상의 반응은<br>항상 완벽했다
+<SYNC Start=2114334><P Class=KRCC>그런데 그 사람 리액션<br>꽤 촌스럽지 않았어?
+<SYNC Start=2119834><P Class=KRCC>&nbsp;
+<SYNC Start=2123326><P Class=KRCC>어째서 그건<br>가르쳐 주지 않은거야?
+<SYNC Start=2126326><P Class=KRCC>&nbsp;
+<SYNC Start=2130333><P Class=KRCC>이봐..
+<SYNC Start=2132319><P Class=KRCC>도대체 뭐라는거야
+<SYNC Start=2134337><P Class=KRCC>와키모토 상<br>당신
+<SYNC Start=2135856><P Class=KRCC>사전에 서프라이즈 내용을<br>오오토나리 상에게 알려주고 있었죠?
+<SYNC Start=2140356><P Class=KRCC>&nbsp;
+<SYNC Start=2144314><P Class=KRCC>그게 뭐 어쨌다는거야?
+<SYNC Start=2147317><P Class=KRCC>뭐야 그런걸로 너희들은 날 의심하는거야?
+<SYNC Start=2152839><P Class=KRCC>그러니까..
+<SYNC Start=2154839><P Class=KRCC>&nbsp;
+<SYNC Start=2157828><P Class=KRCC>연기가 내뿜어진 순간
+<SYNC Start=2160881><P Class=KRCC>당신은 오오토나리 상에게<br>손수건을 내밀었다
+<SYNC Start=2163450><P Class=KRCC>오오토나리 상은 약속대로<br>그걸 받아 입을 막았다
+<SYNC Start=2168338><P Class=KRCC>설마 땅콩 성분이 묻어있는 것도 모르고
+<SYNC Start=2173338><P Class=KRCC>&nbsp;
+<SYNC Start=2175846><P Class=KRCC>신뢰하는 부하에게
+<SYNC Start=2179833><P Class=KRCC>죽는 줄도 모르고
+<SYNC Start=2183403><P Class=KRCC>&nbsp;
+<SYNC Start=2192345><P Class=KRCC>후우..
+<SYNC Start=2193847><P Class=KRCC>어마어마한 추리네요
+<SYNC Start=2197317><P Class=KRCC>그런 엉뚱한 추리를 한 이상
+<SYNC Start=2200837><P Class=KRCC>-뭔가 증거가 있습니까?<br>-그건..
+<SYNC Start=2204337><P Class=KRCC>&nbsp;
+<SYNC Start=2207878><P Class=KRCC>이제 됐죠?
+<SYNC Start=2209378><P Class=KRCC>&nbsp;
+<SYNC Start=2211848><P Class=KRCC>-나도 바쁜 몸입니다<br>-아 잠시만요
+<SYNC Start=2214334><P Class=KRCC>뭡니까?<br>미팅에 늦습니다
+<SYNC Start=2216336><P Class=KRCC>-실례합니다<br>-콘도 상
+<SYNC Start=2218839><P Class=KRCC>와카모토 상<br>당신
+<SYNC Start=2223326><P Class=KRCC>땅콩 기름을 구입했군요
+<SYNC Start=2226880><P Class=KRCC>네?
+<SYNC Start=2228915><P Class=KRCC>보여드리고 싶은게 있습니다<br>잠시 앉으시죠
+<SYNC Start=2232915><P Class=KRCC>&nbsp;
+<SYNC Start=2234337><P Class=KRCC>-앉으세요<br>-아..
+<SYNC Start=2237337><P Class=KRCC>&nbsp;
+<SYNC Start=2239826><P Class=KRCC>파티 전날<br>가게의 보안 카메라에
+<SYNC Start=2244331><P Class=KRCC>당신의 모습이 찍혔습니다
+<SYNC Start=2246831><P Class=KRCC>&nbsp;
+<SYNC Start=2257844><P Class=KRCC>그래서 그게 뭐 어쨌다는 겁니까
+<SYNC Start=2260330><P Class=KRCC>땅콩 기름은<br>요리에 사용하기 위해서..
+<SYNC Start=2263330><P Class=KRCC>&nbsp;
+<SYNC Start=2264834><P Class=KRCC>아니... 여러분<br>중요한 걸 잊으셨습니까?
+<SYNC Start=2268338><P Class=KRCC>애초에 나에게는<br>오오토나리 부장을 죽일 동기가 없어요
+<SYNC Start=2272859><P Class=KRCC>-동기가 없다구요<br>-저기 말이야
+<SYNC Start=2275412><P Class=KRCC>당신도<br>중요한거 잊은거 아니야?
+<SYNC Start=2278331><P Class=KRCC>뭐요?
+<SYNC Start=2279833><P Class=KRCC>오오토나리 상의<br>서프라이즈 답례
+<SYNC Start=2283333><P Class=KRCC>&nbsp;
+<SYNC Start=2285822><P Class=KRCC>파티는 아직 끝나지 않았어요
+<SYNC Start=2289342><P Class=KRCC>과장님
+<SYNC Start=2290842><P Class=KRCC>&nbsp;
+<SYNC Start=2294881><P Class=KRCC>-다이칸사마<br>-네
+<SYNC Start=2297834><P Class=KRCC>&nbsp;
+<SYNC Start=2307344><P Class=KRCC>이건 그 파티에서
+<SYNC Start=2309312><P Class=KRCC>오오토나리 상이<br>마지막으로 내도록 한 와인입니다
+<SYNC Start=2311812><P Class=KRCC>&nbsp;
+<SYNC Start=2314384><P Class=KRCC>-다이칸사마<br>-네
+<SYNC Start=2316884><P Class=KRCC>&nbsp;
+<SYNC Start=2319339><P Class=KRCC>쿠로이 군, 뭐하는거야?
+<SYNC Start=2321825><P Class=KRCC>&nbsp;
+<SYNC Start=2336323><P Class=KRCC>-잔을 돌려주세요<br>-뭐?
+<SYNC Start=2339826><P Class=KRCC>-계장님 부탁드립니다<br>-무슨 말하는거야?
+<SYNC Start=2342312><P Class=KRCC>아르스카와 계장<br>모처럼이니까 받죠
+<SYNC Start=2345315><P Class=KRCC>-괜찮습니까? 과장님<br>-뭐 오늘은 괜찮은걸로
+<SYNC Start=2347834><P Class=KRCC>&nbsp;
+<SYNC Start=2360830><P Class=KRCC>여러분 받으셨죠?
+<SYNC Start=2363316><P Class=KRCC>그럼 와키모토 상의<br>승진을 축하하며
+<SYNC Start=2367316><P Class=KRCC>&nbsp;
+<SYNC Start=2369823><P Class=KRCC>건배
+<SYNC Start=2371841><P Class=KRCC>건배!
+<SYNC Start=2373841><P Class=KRCC>&nbsp;
+<SYNC Start=2378915><P Class=KRCC>와키모토, 내 후계자는<br>네가 아니야
+<SYNC Start=2383415><P Class=KRCC>&nbsp;
+<SYNC Start=2384838><P Class=KRCC>파티 전날
+<SYNC Start=2387323><P Class=KRCC>오오토나리에게 불려 간 당신은<br>그런 말을 들었다
+<SYNC Start=2390326><P Class=KRCC><font color="#ff8080">내일 파티 후에<br>내 후계자를 지명할거야</font>
+<SYNC Start=2394347><P Class=KRCC><font color="#ff8080">네?</font>
+<SYNC Start=2395847><P Class=KRCC>&nbsp;
+<SYNC Start=2397350><P Class=KRCC><font color="#ff8080">-와키모토 자네<br>-네</font>
+<SYNC Start=2401905><P Class=KRCC><font color="#ff8080">자네가 아닌 것만은<br>분명히 말해두지</font>
+<SYNC Start=2404841><P Class=KRCC><font color="#ff8080">네?</font>
+<SYNC Start=2406341><P Class=KRCC>&nbsp;
+<SYNC Start=2407844><P Class=KRCC>오오토나리 상이 자신의 후계자로<br>당신을 지명할거라는걸
+<SYNC Start=2412348><P Class=KRCC>당신은 믿어 의심치 않고 있었다
+<SYNC Start=2415885><P Class=KRCC>하지만 그래서야<br>서프라이즈가 되지 않잖아?
+<SYNC Start=2420323><P Class=KRCC>그래서 오오토나리 상은
+<SYNC Start=2422842><P Class=KRCC>거짓말을 했다
+<SYNC Start=2425328><P Class=KRCC>거짓말?
+<SYNC Start=2427347><P Class=KRCC>당신을 놀라게 해
+<SYNC Start=2429833><P Class=KRCC>진심으로 기뻐하게 하기위해서
+<SYNC Start=2432833><P Class=KRCC>&nbsp;
+<SYNC Start=2434337><P Class=KRCC><font color="#ff8080">자네가 아닌 것만은<br>분명히 말해두지</font>
+<SYNC Start=2437907><P Class=KRCC><font color="#ff8080">네?</font>
+<SYNC Start=2439407><P Class=KRCC>&nbsp;
+<SYNC Start=2443847><P Class=KRCC>서프라이즈~
+<SYNC Start=2446347><P Class=KRCC>&nbsp;
+<SYNC Start=2447834><P Class=KRCC>이것이 오오토나리 상의<br>서프라이즈 답례였어요
+<SYNC Start=2451334><P Class=KRCC>&nbsp;
+<SYNC Start=2455341><P Class=KRCC>아!
+<SYNC Start=2456841><P Class=KRCC>&nbsp;
+<SYNC Start=2460396><P Class=KRCC>아..
+<SYNC Start=2461431><P Class=KRCC><font color="#ff8000">와키모토<br>내 후계자는 너 밖에 없어!</font>
+<SYNC Start=2466431><P Class=KRCC>&nbsp;
+<SYNC Start=2472342><P Class=KRCC>9년간의 고생이<br>모두 짓밟히고
+<SYNC Start=2477330><P Class=KRCC>오오토나리에게 배신당했다고<br>생각한 당신은
+<SYNC Start=2480316><P Class=KRCC>오오토나리 상에 대한 존경이<br>증오로 바뀌었다
+<SYNC Start=2484316><P Class=KRCC>&nbsp;
+<SYNC Start=2486956><P Class=KRCC>당신은 오오토나리 상에게<br>지명되어
+<SYNC Start=2490343><P Class=KRCC>정식으로 새로운 부장이 될 수 있었어
+<SYNC Start=2493346><P Class=KRCC>왜냐하면 애초에<br>배신당한게 아니었으니까
+<SYNC Start=2498846><P Class=KRCC>&nbsp;
+<SYNC Start=2501838><P Class=KRCC>쓸데없는 살인을 해버렸네
+<SYNC Start=2504838><P Class=KRCC>&nbsp;
+<SYNC Start=2516319><P Class=KRCC>-와키모토!<br>-와키모토 상!
+<SYNC Start=2517821><P Class=KRCC>오지마!
+<SYNC Start=2519322><P Class=KRCC>-위험해 위험해..<br>-다이칸사마, 싸워!
+<SYNC Start=2521841><P Class=KRCC>아.. 네!
+<SYNC Start=2524844><P Class=KRCC>좀 위험하잖아
+<SYNC Start=2526863><P Class=KRCC>위험해 위험해 위험해!
+<SYNC Start=2528898><P Class=KRCC>-그만둬 위험해!<br>-오지말라고!
+<SYNC Start=2531835><P Class=KRCC>그만둬!
+<SYNC Start=2534320><P Class=KRCC>-그만둬!<br>-오지마! 가까이 오지마!
+<SYNC Start=2537323><P Class=KRCC>오지마!
+<SYNC Start=2539323><P Class=KRCC>&nbsp;
+<SYNC Start=2558328><P Class=KRCC>죽게 해줘..
+<SYNC Start=2561331><P Class=KRCC>죽게 해줘!
+<SYNC Start=2563331><P Class=KRCC>&nbsp;
+<SYNC Start=2565318><P Class=KRCC>죽게 해줘....
+<SYNC Start=2567320><P Class=KRCC>&nbsp;
+<SYNC Start=2569339><P Class=KRCC>-확보!<br>-네!
+<SYNC Start=2571839><P Class=KRCC>&nbsp;
+<SYNC Start=2575828><P Class=KRCC>오오토나리 상은 죽기 직전까지<br>당신을 믿었어
+<SYNC Start=2581334><P Class=KRCC>하지만 당신은
+<SYNC Start=2583319><P Class=KRCC>끝까지 그 사람을<br>믿지 못했네
+<SYNC Start=2587819><P Class=KRCC>&nbsp;
+<SYNC Start=2592412><P Class=KRCC>바보 아냐?
+<SYNC Start=2594912><P Class=KRCC>&nbsp;
+<SYNC Start=2614918><P Class=KRCC>상사와 부하
+<SYNC Start=2616836><P Class=KRCC>서로가 서로를<br>어떻게 생각하고 있는지
+<SYNC Start=2620340><P Class=KRCC>좀처럼 모르는거네요
+<SYNC Start=2623343><P Class=KRCC>그러게 말이에요
+<SYNC Start=2625843><P Class=KRCC>&nbsp;
+<SYNC Start=2627847><P Class=KRCC>와키모토가 땅콩 기름을<br>구입한 사실을 밝혀낸 사람은
+<SYNC Start=2632885><P Class=KRCC>사실 과장님이었다..
+<SYNC Start=2635822><P Class=KRCC>그건 입다물고 있는 편이<br>좋을까요?
+<SYNC Start=2640326><P Class=KRCC>&nbsp;
+<SYNC Start=2650336><P Class=KRCC>안녕하세요~<br>기다리게해서 죄송합니다!
+<SYNC Start=2652836><P Class=KRCC>&nbsp;
+<SYNC Start=2654924><P Class=KRCC>나는 별로 기다리고 있지 않았는데
+<SYNC Start=2657424><P Class=KRCC>&nbsp;
+<SYNC Start=2663850><P Class=KRCC>서프라이즈~
+<SYNC Start=2666836><P Class=KRCC>또 부탁드립니다
+<SYNC Start=2668338><P Class=KRCC>기다리셨습니다<br>파티를 계속하겠습니다
+<SYNC Start=2671341><P Class=KRCC>나는 기다리지 않았는데
+<SYNC Start=2673326><P Class=KRCC>나는 무서워서 과장님 얼굴을 못 보고 있는데<br>과장님 기뻐하시지?
+<SYNC Start=2677380><P Class=KRCC>자 어떨까요?<br>직접 확인하세요
+<SYNC Start=2680433><P Class=KRCC>뭐! 뭐하는거야 바보야!
+<SYNC Start=2683820><P Class=KRCC>고마워요<br>마음만 받겠습니다
+<SYNC Start=2686823><P Class=KRCC>아! 과장님 녹고있어요<br>끄세요!
+<SYNC Start=2690326><P Class=KRCC>다이칸사마가 끄는게 어때?
+<SYNC Start=2693329><P Class=KRCC>네? 괜찮아요?
+<SYNC Start=2695348><P Class=KRCC>&nbsp;
+<SYNC Start=2702422><P Class=KRCC>저기 쿠로이 상!
+<SYNC Start=2704922><P Class=KRCC>&nbsp;
+<SYNC Start=2707343><P Class=KRCC>이게 진짜 서프라이즈 답례
+<SYNC Start=2710830><P Class=KRCC>아파 아파 아파!
+<SYNC Start=2713816><P Class=KRCC>&nbsp;
+</BODY>
+</SAMI>

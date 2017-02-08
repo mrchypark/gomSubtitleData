@@ -1,0 +1,2038 @@
+﻿<SAMI>
+<HEAD>
+<TITLE>http://uzys.net Uzys SRT converter</TITLE>
+<STYLE TYPE="text/css">
+<!--
+P { margin-left:2pt; margin-right:2pt; margin-bottom:1pt;
+    margin-top:1pt; font-size:20pt; text-align:center;
+    font-family:Arial, Sans-serif; font-weight:bold; color:white;
+    }
+.ENCC {Name: English; lang:en-US; SAMI_TYPE: CC;}-->
+</STYLE>
+</HEAD>
+<BODY>
+<SYNC Start=310><P Class=ENCC>
+<font color="gold">오펜하이머는 북아일랜드에서 활동한<br>폭탄 전문가의 코드 네임이다</font>
+<SYNC Start=4183><P Class=ENCC>&nbsp;
+<SYNC Start=4268><P Class=ENCC>
+<font color="gold">그놈이 권과 리나와 손을 잡는다면...</font>
+<SYNC Start=6296><P Class=ENCC>&nbsp;
+<SYNC Start=6380><P Class=ENCC>
+<font color="gold">무슨 짓을 꾸밀지 아무도 알 수 없어</font>
+<SYNC Start=7451><P Class=ENCC>&nbsp;
+<SYNC Start=7606><P Class=ENCC>
+<font color="gold">이 모든 가족과 아이들이<br>어떻게 될지 생각해 보게</font>
+<SYNC Start=11205><P Class=ENCC>&nbsp;
+<SYNC Start=11332><P Class=ENCC>
+<font color="gold">네 업보로 인해...</font>
+<SYNC Start=12515><P Class=ENCC>&nbsp;
+<SYNC Start=14529><P Class=ENCC>
+<font color="gold">폭탄이다!!<br>대피, 대피!!</font>
+<SYNC Start=16220><P Class=ENCC>&nbsp;
+<SYNC Start=18140><P Class=ENCC>
+<font color="gold">그쪽 목표물을 발견했다</font>
+<SYNC Start=19991><P Class=ENCC>&nbsp;
+<SYNC Start=19992><P Class=ENCC>
+<font color="gold">추적하겠다</font>
+<SYNC Start=21140><P Class=ENCC>&nbsp;
+<SYNC Start=21203><P Class=ENCC>
+<font color="gold">이 년은 연방보안국 년이야<br>오랫동안 날 쫓아다녔지</font>
+<SYNC Start=24203><P Class=ENCC>&nbsp;
+<SYNC Start=26578><P Class=ENCC>
+<font color="gold">우리가 원하는 건 단 하나입니다</font>
+<SYNC Start=28197><P Class=ENCC>&nbsp;
+<SYNC Start=28282><P Class=ENCC>
+<font color="gold">금고로 데려가 주십시오</font>
+<SYNC Start=29718><P Class=ENCC>&nbsp;
+<SYNC Start=32142><P Class=ENCC>
+<font color="gold">이겁니다<br>동무가 해냈어요</font>
+<SYNC Start=33810><P Class=ENCC>&nbsp;
+<SYNC Start=52354><P Class=ENCC>
+잠시만
+<SYNC Start=53466><P Class=ENCC>&nbsp;
+<SYNC Start=53494><P Class=ENCC>
+- 어디가?<br>- 잠깐만!
+<SYNC Start=55325><P Class=ENCC>&nbsp;
+<SYNC Start=56847><P Class=ENCC>
+제길
+<SYNC Start=57753><P Class=ENCC>&nbsp;
+<SYNC Start=57873><P Class=ENCC>
+거기 너!<br>이리 와!!
+<SYNC Start=59633><P Class=ENCC>&nbsp;
+<SYNC Start=59753><P Class=ENCC>
+어서!!
+<SYNC Start=60565><P Class=ENCC>&nbsp;
+<SYNC Start=60678><P Class=ENCC>
+- 찾았다!<br>- 문 열어!
+<SYNC Start=62753><P Class=ENCC>&nbsp;
+<SYNC Start=62873><P Class=ENCC>
+이쪽에선 못 열어요!
+<SYNC Start=64185><P Class=ENCC>&nbsp;
+<SYNC Start=64325><P Class=ENCC>
+ 여기서도 못 연단 말야!!
+<SYNC Start=66185><P Class=ENCC>&nbsp;
+<SYNC Start=66332><P Class=ENCC>
+- 연장 좀 챙겨왔어<br>- 거기 비키쇼!
+<SYNC Start=68839><P Class=ENCC>&nbsp;
+<SYNC Start=68896><P Class=ENCC>
+자
+<SYNC Start=69913><P Class=ENCC>&nbsp;
+<SYNC Start=72457><P Class=ENCC>
+됐어
+<SYNC Start=73273><P Class=ENCC>&nbsp;
+<SYNC Start=78756><P Class=ENCC>
+폭파
+<SYNC Start=79953><P Class=ENCC>&nbsp;
+<SYNC Start=86558><P Class=ENCC>
+<font color="gold">절대 못 쫓아오게 해!</font>
+<SYNC Start=87995><P Class=ENCC>&nbsp;
+<SYNC Start=92082><P Class=ENCC>
+<font color="gold">타!</font>
+<SYNC Start=92899><P Class=ENCC>&nbsp;
+<SYNC Start=98668><P Class=ENCC>
+이제 20과만 우리를 쫓는 게 아닐 겁니다
+<SYNC Start=100569><P Class=ENCC>&nbsp;
+<SYNC Start=100752><P Class=ENCC>
+조국의 당에서도...
+<SYNC Start=101513><P Class=ENCC>&nbsp;
+<SYNC Start=101626><P Class=ENCC>
+당은 행동을 취하는 것을 두려워합니다
+<SYNC Start=103654><P Class=ENCC>&nbsp;
+<SYNC Start=103738><P Class=ENCC>
+우린 다르죠
+<SYNC Start=104598><P Class=ENCC>&nbsp;
+<SYNC Start=104823><P Class=ENCC>
+그리고 이제 우리는 코드를 손에 넣었습니다
+<SYNC Start=107073><P Class=ENCC>&nbsp;
+<SYNC Start=112228><P Class=ENCC>
+진압 완료
+<SYNC Start=112847><P Class=ENCC>&nbsp;
+<SYNC Start=114397><P Class=ENCC>
+- 스콧, 전환!<br>- 그래
+<SYNC Start=115974><P Class=ENCC>&nbsp;
+<SYNC Start=118030><P Class=ENCC>
+이상 무
+<SYNC Start=118847><P Class=ENCC>&nbsp;
+<SYNC Start=119354><P Class=ENCC>
+- 마이크<br>- 어?
+<SYNC Start=120256><P Class=ENCC>&nbsp;
+<SYNC Start=120312><P Class=ENCC>
+이것 봐
+<SYNC Start=121153><P Class=ENCC>&nbsp;
+<SYNC Start=130053><P Class=ENCC>
+<font color="gold">조금 있으면 넌 연방보안국에서 나에 대해 알고 있는 모든 걸 다 털어놓을 거야</font>
+<SYNC Start=135799><P Class=ENCC>&nbsp;
+<SYNC Start=137547><P Class=ENCC>
+리나 어디로 간 거야?
+<SYNC Start=139012><P Class=ENCC>&nbsp;
+<SYNC Start=139097><P Class=ENCC>
+이 길로 갔을 거야 분명
+<SYNC Start=141463><P Class=ENCC>&nbsp;
+<SYNC Start=145941><P Class=ENCC>
+- 니나 맡을게!<br>- 난 리나 쫓을게!
+<SYNC Start=148233><P Class=ENCC>&nbsp;
+<SYNC Start=163195><P Class=ENCC>
+빨리!
+<SYNC Start=164022><P Class=ENCC>&nbsp;
+<SYNC Start=168139><P Class=ENCC>
+- 괜찮아?<br>- 괜찮아
+<SYNC Start=169843><P Class=ENCC>&nbsp;
+<SYNC Start=170041><P Class=ENCC>
+죽이지 마<br>산 채로 필요하니까
+<SYNC Start=172361><P Class=ENCC>&nbsp;
+<SYNC Start=173210><P Class=ENCC>
+너한테도 말이야
+<SYNC Start=175027><P Class=ENCC>&nbsp;
+<SYNC Start=175181><P Class=ENCC>
+안 죽여
+<SYNC Start=176280><P Class=ENCC>&nbsp;
+<SYNC Start=176421><P Class=ENCC>
+쉬운 죽음은 놈한테 절대 아까우니까
+<SYNC Start=178193><P Class=ENCC>&nbsp;
+<SYNC Start=185553><P Class=ENCC>
+아, 젠장!
+<SYNC Start=186513><P Class=ENCC>&nbsp;
+<SYNC Start=189370><P Class=ENCC>
+난 괜찮아
+<SYNC Start=190384><P Class=ENCC>&nbsp;
+<SYNC Start=190469><P Class=ENCC>
+- 가!<br>- 예, 마님
+<SYNC Start=191737><P Class=ENCC>&nbsp;
+<SYNC Start=191821><P Class=ENCC>
+있다가 합류하자고
+<SYNC Start=193113><P Class=ENCC>&nbsp;
+<SYNC Start=210465><P Class=ENCC>
+헬멧 벗어!
+<SYNC Start=212753><P Class=ENCC>&nbsp;
+<SYNC Start=214553><P Class=ENCC>
+알겠수다!
+<SYNC Start=215515><P Class=ENCC>&nbsp;
+<SYNC Start=218815><P Class=ENCC>
+제길...
+<SYNC Start=219491><P Class=ENCC>&nbsp;
+<SYNC Start=220273><P Class=ENCC>
+자리 맡아 놨어
+<SYNC Start=221998><P Class=ENCC>&nbsp;
+<SYNC Start=253973><P Class=ENCC>
+사람 잘못 잡는 겁니다, 이거
+<SYNC Start=255473><P Class=ENCC>&nbsp;
+<SYNC Start=255477><P Class=ENCC>
+잡아야 될 놈들은 보내고<br>이 등신 같은 똥구멍들아
+<SYNC Start=258018><P Class=ENCC>&nbsp;
+<SYNC Start=258108><P Class=ENCC>
+- 똥구멍?<br>- 그래
+<SYNC Start=260003><P Class=ENCC>&nbsp;
+<SYNC Start=261747><P Class=ENCC>
+저는 아무 말도 안 했습니다만<br>쟤가 했지
+<SYNC Start=263747><P Class=ENCC>&nbsp;
+<SYNC Start=266840><P Class=ENCC>
+미안, 친구
+<SYNC Start=267637><P Class=ENCC>&nbsp;
+<SYNC Start=268223><P Class=ENCC>
+정체가 뭐지?
+<SYNC Start=270012><P Class=ENCC>&nbsp;
+<SYNC Start=270013><P Class=ENCC>
+왜 이 은행을 털었어?
+<SYNC Start=271772><P Class=ENCC>&nbsp;
+<SYNC Start=271892><P Class=ENCC>
+난 은행 안 털었어
+<SYNC Start=274238><P Class=ENCC>&nbsp;
+<SYNC Start=274359><P Class=ENCC>
+- 우린 아무도 아닙니다<br>- 과연?
+<SYNC Start=276349><P Class=ENCC>&nbsp;
+<SYNC Start=276469><P Class=ENCC>
+누구나 기록은 있지
+<SYNC Start=277896><P Class=ENCC>&nbsp;
+<SYNC Start=278013><P Class=ENCC>
+너희 얼굴을 우리 시스템에<br>돌려봤을 때 뭐가 나올지 궁금하군
+<SYNC Start=281715><P Class=ENCC>&nbsp;
+<SYNC Start=281866><P Class=ENCC>
+돌아
+<SYNC Start=282618><P Class=ENCC>&nbsp;
+<SYNC Start=282678><P Class=ENCC>
+어서
+<SYNC Start=283429><P Class=ENCC>&nbsp;
+<SYNC Start=290565><P Class=ENCC>
+사진 찍히는 거 진짜 싫어
+<SYNC Start=292389><P Class=ENCC>&nbsp;
+<SYNC Start=293873><P Class=ENCC>
+- 악감정은 없습니다<br>- 여기
+<SYNC Start=295873><P Class=ENCC>&nbsp;
+<SYNC Start=295963><P Class=ENCC>
+우리 경찰 좋아해
+<SYNC Start=296895><P Class=ENCC>&nbsp;
+<SYNC Start=297016><P Class=ENCC>
+이것도 훔치는 거 아닙니다
+<SYNC Start=298309><P Class=ENCC>&nbsp;
+<SYNC Start=298377><P Class=ENCC>
+사진 찍힌 거 시스템에 올라갈지도 몰라
+<SYNC Start=300001><P Class=ENCC>&nbsp;
+<SYNC Start=300061><P Class=ENCC>
+그건 그때 가서 생각하자고
+<SYNC Start=301166><P Class=ENCC>&nbsp;
+<SYNC Start=301256><P Class=ENCC>
+- 니나는?<br>-괜찮아
+<SYNC Start=303136><P Class=ENCC>&nbsp;
+<SYNC Start=303211><P Class=ENCC>
+다 수습하고 있어
+<SYNC Start=304642><P Class=ENCC>&nbsp;
+<SYNC Start=304733><P Class=ENCC>
+어여 가서 로크한테 잔소리나 듣자
+<SYNC Start=306898><P Class=ENCC>&nbsp;
+<SYNC Start=307905><P Class=ENCC>
+젠장...
+<SYNC Start=308477><P Class=ENCC>&nbsp;
+<SYNC Start=315989><P Class=ENCC>
+동무가 원했던 전부군요...
+<SYNC Start=318313><P Class=ENCC>&nbsp;
+<SYNC Start=347709><P Class=ENCC>
+마음이 다른 곳에 가 있군요
+<SYNC Start=351094><P Class=ENCC>&nbsp;
+<SYNC Start=352883><P Class=ENCC>
+그냥...
+<SYNC Start=354231><P Class=ENCC>&nbsp;
+<SYNC Start=354622><P Class=ENCC>
+조국을 생각하고 있었습니다
+<SYNC Start=357381><P Class=ENCC>&nbsp;
+<SYNC Start=357614><P Class=ENCC>
+이제 다시는 볼 수 없을 테지요
+<SYNC Start=360155><P Class=ENCC>&nbsp;
+<SYNC Start=360366><P Class=ENCC>
+그립군요?
+<SYNC Start=361469><P Class=ENCC>&nbsp;
+<SYNC Start=361589><P Class=ENCC>
+그렇게 되었어야 할<br>조국의 모습이 그립습니다
+<SYNC Start=364036><P Class=ENCC>&nbsp;
+<SYNC Start=364253><P Class=ENCC>
+우리가 성공한다면...
+<SYNC Start=365813><P Class=ENCC>&nbsp;
+<SYNC Start=366032><P Class=ENCC>
+될 모습의 조국을 그릴 겁니다
+<SYNC Start=369513><P Class=ENCC>&nbsp;
+<SYNC Start=369761><P Class=ENCC>
+더는 그곳에서 지낼 수 없었어요
+<SYNC Start=372669><P Class=ENCC>&nbsp;
+<SYNC Start=372789><P Class=ENCC>
+압니다
+<SYNC Start=374829><P Class=ENCC>&nbsp;
+<SYNC Start=375212><P Class=ENCC>
+그저...
+<SYNC Start=376829><P Class=ENCC>&nbsp;
+<SYNC Start=377167><P Class=ENCC>
+이곳에서 운전을 하면서...
+<SYNC Start=378843><P Class=ENCC>&nbsp;
+<SYNC Start=378994><P Class=ENCC>
+함께 커피를 마시는 사람들을 봤습니다
+<SYNC Start=381204><P Class=ENCC>&nbsp;
+<SYNC Start=381287><P Class=ENCC>
+쇼핑을 하고...
+<SYNC Start=382949><P Class=ENCC>&nbsp;
+<SYNC Start=383242><P Class=ENCC>
+세상의 혼돈은 한 치도 모르는 채로요
+<SYNC Start=387349><P Class=ENCC>&nbsp;
+<SYNC Start=387588><P Class=ENCC>
+우리도 그렇게 되길 바라는 군요
+<SYNC Start=389708><P Class=ENCC>&nbsp;
+<SYNC Start=389859><P Class=ENCC>
+동무는 그렇지 않습니까?
+<SYNC Start=391857><P Class=ENCC>&nbsp;
+<SYNC Start=391934><P Class=ENCC>
+북한을 떠날 때 우리는 선택을 했습니다
+<SYNC Start=394669><P Class=ENCC>&nbsp;
+<SYNC Start=394979><P Class=ENCC>
+부패와 부정을 척결하고<br>조국을 변모시키기 위해
+<SYNC Start=398025><P Class=ENCC>&nbsp;
+<SYNC Start=398173><P Class=ENCC>
+그래요, 저도 우리에게<br>시간이 있길 바랍니다
+<SYNC Start=401950><P Class=ENCC>&nbsp;
+<SYNC Start=402143><P Class=ENCC>
+평범해지기 위해서요...
+<SYNC Start=403679><P Class=ENCC>&nbsp;
+<SYNC Start=403824><P Class=ENCC>
+하지만 우린 선택을 했습니다
+<SYNC Start=406215><P Class=ENCC>&nbsp;
+<SYNC Start=406486><P Class=ENCC>
+동무와 제가 함께...
+<SYNC Start=409403><P Class=ENCC>&nbsp;
+<SYNC Start=410501><P Class=ENCC>
+무슨 일이 있더라도...
+<SYNC Start=412800><P Class=ENCC>&nbsp;
+<SYNC Start=456862><P Class=ENCC>
+뭔가 이건?<br>눈에 안 띄게 다니는 줄 알았는데
+<SYNC Start=459029><P Class=ENCC>&nbsp;
+<SYNC Start=459132><P Class=ENCC>
+잠깐 빌렸습니다
+<SYNC Start=460155><P Class=ENCC>&nbsp;
+<SYNC Start=460215><P Class=ENCC>
+눈에 안 띄게가 잘 안 되더라고요
+<SYNC Start=461862><P Class=ENCC>&nbsp;
+<SYNC Start=461914><P Class=ENCC>
+그렇다면 빨리 배우게, 스콧<br>여기 시스템이 만만찮으니까
+<SYNC Start=465568><P Class=ENCC>&nbsp;
+<SYNC Start=465674><P Class=ENCC>
+리나가 원한 것은<br>공책 한 권이었습니다
+<SYNC Start=469029><P Class=ENCC>&nbsp;
+<SYNC Start=469189><P Class=ENCC>
+여기 제 친구가 전부 얘기해주겠다는군요
+<SYNC Start=473395><P Class=ENCC>&nbsp;
+<SYNC Start=473862><P Class=ENCC>
+그렇지, 이반?
+<SYNC Start=476117><P Class=ENCC>&nbsp;
+<SYNC Start=477749><P Class=ENCC>
+그냥 도식이 있는 공책이다
+<SYNC Start=480349><P Class=ENCC>&nbsp;
+<SYNC Start=480509><P Class=ENCC>
+한국어로...
+<SYNC Start=481749><P Class=ENCC>&nbsp;
+<SYNC Start=481869><P Class=ENCC>
+- 무슨 코드 나부랭이<br>- 그리고?
+<SYNC Start=484680><P Class=ENCC>&nbsp;
+<SYNC Start=485004><P Class=ENCC>
+그리고...
+<SYNC Start=485949><P Class=ENCC>&nbsp;
+<SYNC Start=487989><P Class=ENCC>
+리나는 어떤 애가 필요하댔어
+<SYNC Start=491261><P Class=ENCC>&nbsp;
+<SYNC Start=491382><P Class=ENCC>
+머리 좋은 애,<br>그거 해독하게
+<SYNC Start=493429><P Class=ENCC>&nbsp;
+<SYNC Start=493532><P Class=ENCC>
+어떻게 생긴 앤지 압니까?
+<SYNC Start=495509><P Class=ENCC>&nbsp;
+<SYNC Start=495698><P Class=ENCC>
+상세한 건 여기 다 들었어<br>이반이 매우 협조적이었지
+<SYNC Start=499269><P Class=ENCC>&nbsp;
+<SYNC Start=499503><P Class=ENCC>
+제발...
+<SYNC Start=500589><P Class=ENCC>&nbsp;
+<SYNC Start=500830><P Class=ENCC>
+이렇게 빌게
+<SYNC Start=501864><P Class=ENCC>&nbsp;
+<SYNC Start=502010><P Class=ENCC>
+남자 대 남자로
+<SYNC Start=503033><P Class=ENCC>&nbsp;
+<SYNC Start=503153><P Class=ENCC>
+나 좀 구해줘
+<SYNC Start=504085><P Class=ENCC>&nbsp;
+<SYNC Start=504176><P Class=ENCC>
+얘가 나한테 무슨 짓을<br>할 건지 넌 절대 모를 거야
+<SYNC Start=507469><P Class=ENCC>&nbsp;
+<SYNC Start=507649><P Class=ENCC>
+아니, 알아
+<SYNC Start=508955><P Class=ENCC>&nbsp;
+<SYNC Start=512669><P Class=ENCC>
+그러셔?
+<SYNC Start=514149><P Class=ENCC>&nbsp;
+<SYNC Start=514269><P Class=ENCC>
+좆까 그럼
+<SYNC Start=515346><P Class=ENCC>&nbsp;
+<SYNC Start=515466><P Class=ENCC>
+저 쌍년도 좆까고
+<SYNC Start=517309><P Class=ENCC>&nbsp;
+<SYNC Start=519634><P Class=ENCC>
+좆까?
+<SYNC Start=521018><P Class=ENCC>&nbsp;
+<SYNC Start=521108><P Class=ENCC>
+숙녀분께 그런 말 하면 못썸마!
+<SYNC Start=524085><P Class=ENCC>&nbsp;
+<SYNC Start=524777><P Class=ENCC>
+- 연방보안국으로 넘기긴 할 거지?<br>- 그럼요
+<SYNC Start=527845><P Class=ENCC>&nbsp;
+<SYNC Start=527965><P Class=ENCC>
+언젠가는요
+<SYNC Start=529559><P Class=ENCC>&nbsp;
+<SYNC Start=530417><P Class=ENCC>
+조심하라구, 아저씨들
+<SYNC Start=532537><P Class=ENCC>&nbsp;
+<SYNC Start=539563><P Class=ENCC>
+다음 번에 또 문제 생기면...
+<SYNC Start=542646><P Class=ENCC>&nbsp;
+<SYNC Start=543037><P Class=ENCC>
+다른 사람 불러
+<SYNC Start=545157><P Class=ENCC>&nbsp;
+<SYNC Start=555403><P Class=ENCC>
+얼마나 더 걸리죠?
+<SYNC Start=557509><P Class=ENCC>&nbsp;
+<SYNC Start=557669><P Class=ENCC>
+그건 네가...
+<SYNC Start=559282><P Class=ENCC>&nbsp;
+<SYNC Start=559523><P Class=ENCC>
+빨리 되길 원하냐...
+<SYNC Start=561252><P Class=ENCC>&nbsp;
+<SYNC Start=561403><P Class=ENCC>
+제대로 되길 원하냐에 따라 달렸지
+<SYNC Start=563072><P Class=ENCC>&nbsp;
+<SYNC Start=563192><P Class=ENCC>
+둘 다 원했는데요?
+<SYNC Start=565245><P Class=ENCC>&nbsp;
+<SYNC Start=565606><P Class=ENCC>
+지금 만드는 건 아주 특별한 거야
+<SYNC Start=567621><P Class=ENCC>&nbsp;
+<SYNC Start=567786><P Class=ENCC>
+아무도 성공한 적 없는 거지
+<SYNC Start=570084><P Class=ENCC>&nbsp;
+<SYNC Start=570212><P Class=ENCC>
+왜인지 아나?
+<SYNC Start=571309><P Class=ENCC>&nbsp;
+<SYNC Start=571429><P Class=ENCC>
+불가능에 가까운 거거든
+<SYNC Start=574370><P Class=ENCC>&nbsp;
+<SYNC Start=574535><P Class=ENCC>
+모든 게 완벽하게 균형이 맞아야 돼
+<SYNC Start=576693><P Class=ENCC>&nbsp;
+<SYNC Start=576904><P Class=ENCC>
+반사면부터 렌즈까지
+<SYNC Start=579505><P Class=ENCC>&nbsp;
+<SYNC Start=579640><P Class=ENCC>
+장담하건대 네가 이걸<br>국토를 가로질러 이송할 때...
+<SYNC Start=583084><P Class=ENCC>&nbsp;
+<SYNC Start=583234><P Class=ENCC>
+나의 지나친 신중에 감사할 걸세
+<SYNC Start=585867><P Class=ENCC>&nbsp;
+<SYNC Start=585994><P Class=ENCC>
+실은 한 번도 신경 쓴 적 없죠?
+<SYNC Start=588628><P Class=ENCC>&nbsp;
+<SYNC Start=588869><P Class=ENCC>
+당신의 장치에 의한<br>죽음과 부상들을
+<SYNC Start=592470><P Class=ENCC>&nbsp;
+<SYNC Start=592651><P Class=ENCC>
+우리 어차피 같은 일 하는 사람들 아닌가?
+<SYNC Start=594846><P Class=ENCC>&nbsp;
+<SYNC Start=595004><P Class=ENCC>
+저는 대의를 위해 싸웁니다
+<SYNC Start=597301><P Class=ENCC>&nbsp;
+<SYNC Start=597451><P Class=ENCC>
+전사자들은 더 나은 미래를<br>위해 희생되는 거지요
+<SYNC Start=600549><P Class=ENCC>&nbsp;
+<SYNC Start=600609><P Class=ENCC>
+거기에 기쁨은 없습니다
+<SYNC Start=602389><P Class=ENCC>&nbsp;
+<SYNC Start=602509><P Class=ENCC>
+하지만 당신의 주 관심사는<br>돈으로 시작되고 끝나는 것 같군요
+<SYNC Start=607429><P Class=ENCC>&nbsp;
+<SYNC Start=607549><P Class=ENCC>
+아니
+<SYNC Start=608905><P Class=ENCC>&nbsp;
+<SYNC Start=609410><P Class=ENCC>
+내 유일한 관심사는 작업일세
+<SYNC Start=611521><P Class=ENCC>&nbsp;
+<SYNC Start=611669><P Class=ENCC>
+돈은 보험이지
+<SYNC Start=613175><P Class=ENCC>&nbsp;
+<SYNC Start=613386><P Class=ENCC>
+구매자가 진심이라는 증거니까
+<SYNC Start=615198><P Class=ENCC>&nbsp;
+<SYNC Start=615333><P Class=ENCC>
+보험 없이는 일을 안 하네
+<SYNC Start=617509><P Class=ENCC>&nbsp;
+<SYNC Start=617634><P Class=ENCC>
+필립 로크 같은 자가<br>날 잡도록 두지도 않을 거고
+<SYNC Start=621356><P Class=ENCC>&nbsp;
+<SYNC Start=621491><P Class=ENCC>
+북아일랜드에서부터 알던 사람입니까?
+<SYNC Start=623589><P Class=ENCC>&nbsp;
+<SYNC Start=623815><P Class=ENCC>
+그에게 있어 나는 그림자 속의 불청객이지
+<SYNC Start=629869><P Class=ENCC>&nbsp;
+<SYNC Start=629965><P Class=ENCC>
+내 작업의 기이한 아름다움을 그는 몰라
+<SYNC Start=632109><P Class=ENCC>&nbsp;
+<SYNC Start=632269><P Class=ENCC>
+죽음과 파괴는 절대 아름답지 않습니다
+<SYNC Start=635589><P Class=ENCC>&nbsp;
+<SYNC Start=635749><P Class=ENCC>
+우리 행동에는 대가가 따릅니다
+<SYNC Start=637762><P Class=ENCC>&nbsp;
+<SYNC Start=637942><P Class=ENCC>
+저는 절대 그것을 가벼이 여기지 않습니다
+<SYNC Start=641210><P Class=ENCC>&nbsp;
+<SYNC Start=641469><P Class=ENCC>
+그래, 뭐...
+<SYNC Start=642270><P Class=ENCC>&nbsp;
+<SYNC Start=642359><P Class=ENCC>
+내 사고가 좀 이상하다고도 할 수 있겠지
+<SYNC Start=645229><P Class=ENCC>&nbsp;
+<SYNC Start=645476><P Class=ENCC>
+뭔가가 제대로 되지 않았다고
+<SYNC Start=648109><P Class=ENCC>&nbsp;
+<SYNC Start=648348><P Class=ENCC>
+자넨 이상주의자야
+<SYNC Start=649797><P Class=ENCC>&nbsp;
+<SYNC Start=650033><P Class=ENCC>
+내게는 그게 오히려 이상하지
+<SYNC Start=651842><P Class=ENCC>&nbsp;
+<SYNC Start=652063><P Class=ENCC>
+자넨 사람들의 힘을 믿지만
+<SYNC Start=654052><P Class=ENCC>&nbsp;
+<SYNC Start=654142><P Class=ENCC>
+내게 그들은...
+<SYNC Start=656015><P Class=ENCC>&nbsp;
+<SYNC Start=656488><P Class=ENCC>
+불완전체지
+<SYNC Start=658389><P Class=ENCC>&nbsp;
+<SYNC Start=658901><P Class=ENCC>
+그래서 말인데
+<SYNC Start=660330><P Class=ENCC>&nbsp;
+<SYNC Start=661037><P Class=ENCC>
+필수 요소 없이 더는 작업을 진행 못 하네
+<SYNC Start=663977><P Class=ENCC>&nbsp;
+<SYNC Start=664247><P Class=ENCC>
+양철인간은 심장이 필요해<br>언제나 그렇듯
+<SYNC Start=667300><P Class=ENCC>&nbsp;
+<SYNC Start=668270><P Class=ENCC>
+그건 곧 수중에 넣을 것입니다
+<SYNC Start=671217><P Class=ENCC>&nbsp;
+<SYNC Start=687277><P Class=ENCC>
+여기야
+<SYNC Start=688477><P Class=ENCC>&nbsp;
+<SYNC Start=688583><P Class=ENCC>
+- 저기?<br>- 어
+<SYNC Start=690263><P Class=ENCC>&nbsp;
+<SYNC Start=695023><P Class=ENCC>
+대장, 겉으로 보기엔<br>전부 이상 없어 보입니다
+<SYNC Start=698611><P Class=ENCC>&nbsp;
+<SYNC Start=699028><P Class=ENCC>
+좋아, 이번만은 부디<br>조심해서 진행하게
+<SYNC Start=702867><P Class=ENCC>&nbsp;
+<SYNC Start=703081><P Class=ENCC>
+해독가를 구출해서 리나의 노트에<br>있는 게 뭔지 꼭 알아내야 해
+<SYNC Start=708367><P Class=ENCC>&nbsp;
+<SYNC Start=708799><P Class=ENCC>
+그러니까 죽이지 말고 데려오라 이거네
+<SYNC Start=710634><P Class=ENCC>&nbsp;
+<SYNC Start=710784><P Class=ENCC>
+가자
+<SYNC Start=712483><P Class=ENCC>&nbsp;
+<SYNC Start=716675><P Class=ENCC>
+<font color="gold">IRA 폭탄에 7살 소년 사망</font>
+<SYNC Start=718299><P Class=ENCC>&nbsp;
+<SYNC Start=732666><P Class=ENCC>
+<font color="gold">일치하는 인물 없음</font>
+<SYNC Start=735193><P Class=ENCC>&nbsp;
+<SYNC Start=762023><P Class=ENCC>
+병신
+<SYNC Start=762983><P Class=ENCC>&nbsp;
+<SYNC Start=766571><P Class=ENCC>
+아가, 쿠키 주랴?
+<SYNC Start=767969><P Class=ENCC>&nbsp;
+<SYNC Start=768120><P Class=ENCC>
+아뇨, 글루텐 과민증 있어요
+<SYNC Start=770223><P Class=ENCC>&nbsp;
+<SYNC Start=796337><P Class=ENCC>
+저기요, 얼음 어디 있는지 아세요?
+<SYNC Start=798299><P Class=ENCC>&nbsp;
+<SYNC Start=809371><P Class=ENCC>
+<font color="gold">누구냐?</font>
+<SYNC Start=810333><P Class=ENCC>&nbsp;
+<SYNC Start=812323><P Class=ENCC>
+총 버려! 총 내려!! 내려!!!
+<SYNC Start=814441><P Class=ENCC>&nbsp;
+<SYNC Start=814622><P Class=ENCC>
+총 버려!!
+<SYNC Start=815434><P Class=ENCC>&nbsp;
+<SYNC Start=815509><P Class=ENCC>
+우리가 여기 있다면 너희<br>보스도 이미 해치운 걸 알겠지?
+<SYNC Start=818005><P Class=ENCC>&nbsp;
+<SYNC Start=818095><P Class=ENCC>
+전부 끝났어
+<SYNC Start=819494><P Class=ENCC>&nbsp;
+<SYNC Start=820050><P Class=ENCC>
+마지막 찬스다<br>총 버리고 나가
+<SYNC Start=822742><P Class=ENCC>&nbsp;
+<SYNC Start=822847><P Class=ENCC>
+선택은 네 몫이다
+<SYNC Start=824201><P Class=ENCC>&nbsp;
+<SYNC Start=824291><P Class=ENCC>
+<font color="gold">전 가족이 있어요!</font>
+<SYNC Start=825193><P Class=ENCC>&nbsp;
+<SYNC Start=825253><P Class=ENCC>
+<font color="gold">총 들어</font>
+<SYNC Start=826607><P Class=ENCC>&nbsp;
+<SYNC Start=826757><P Class=ENCC>
+<font color="gold">난 가족이 있다고!</font>
+<SYNC Start=827659><P Class=ENCC>&nbsp;
+<SYNC Start=827763><P Class=ENCC>
+총 들지 마
+<SYNC Start=829156><P Class=ENCC>&nbsp;
+<SYNC Start=829836><P Class=ENCC>
+뭐야, 염병!
+<SYNC Start=830867><P Class=ENCC>&nbsp;
+<SYNC Start=830985><P Class=ENCC>
+젠장!
+<SYNC Start=831724><P Class=ENCC>&nbsp;
+<SYNC Start=832883><P Class=ENCC>
+- 네가 그 꼬마야?<br>- 네
+<SYNC Start=834452><P Class=ENCC>&nbsp;
+<SYNC Start=834588><P Class=ENCC>
+네가 그 꼬마군
+<SYNC Start=835370><P Class=ENCC>&nbsp;
+<SYNC Start=835430><P Class=ENCC>
+짐 챙겨<br>우리랑 같이 간다
+<SYNC Start=837227><P Class=ENCC>&nbsp;
+<SYNC Start=837483><P Class=ENCC>
+어서
+<SYNC Start=838144><P Class=ENCC>&nbsp;
+<SYNC Start=838234><P Class=ENCC>
+- 당신들 저 사람들을 쐈어요!<br>- 정당방위야
+<SYNC Start=840483><P Class=ENCC>&nbsp;
+<SYNC Start=840643><P Class=ENCC>
+그리고 한 명만 쏜 거야<br>우리 착한 사람이야
+<SYNC Start=842505><P Class=ENCC>&nbsp;
+<SYNC Start=842565><P Class=ENCC>
+착한 사람? 당신들 오기 전까진<br>아무도 총질 안 했다구요!
+<SYNC Start=845083><P Class=ENCC>&nbsp;
+<SYNC Start=845203><P Class=ENCC>
+- 그래, 그런 소리 많이 듣지<br>- 가자
+<SYNC Start=847159><P Class=ENCC>&nbsp;
+<SYNC Start=848625><P Class=ENCC>
+<font color="gold">총소리 뭐야?!</font>
+<SYNC Start=849798><P Class=ENCC>&nbsp;
+<SYNC Start=849979><P Class=ENCC>
+아니, 여기 말고, 여기 말고!
+<SYNC Start=851763><P Class=ENCC>&nbsp;
+<SYNC Start=851908><P Class=ENCC>
+어서, 이리 와!
+<SYNC Start=852913><P Class=ENCC>&nbsp;
+<SYNC Start=857051><P Class=ENCC>
+어이, 꼬마야<br>높은 데 무서워하냐?
+<SYNC Start=858689><P Class=ENCC>&nbsp;
+<SYNC Start=858794><P Class=ENCC>
+고소공포증이요<br>그게 높은 데 무서워하는 거예요
+<SYNC Start=862244><P Class=ENCC>&nbsp;
+<SYNC Start=862643><P Class=ENCC>
+입 닥치는 건 안 무섭냐?
+<SYNC Start=864185><P Class=ENCC>&nbsp;
+<SYNC Start=864275><P Class=ENCC>
+정적공포증,<br>그게 침묵을 무서워하는 거예요
+<SYNC Start=866883><P Class=ENCC>&nbsp;
+<SYNC Start=869293><P Class=ENCC>
+됐다
+<SYNC Start=869910><P Class=ENCC>&nbsp;
+<SYNC Start=877676><P Class=ENCC>
+좋아, 가자<br>할 수 있을 거 같아?
+<SYNC Start=879450><P Class=ENCC>&nbsp;
+<SYNC Start=879541><P Class=ENCC>
+- 그럼, 너는?<br>- 그래, 애는?
+<SYNC Start=881483><P Class=ENCC>&nbsp;
+<SYNC Start=881643><P Class=ENCC>
+제 이름은 마티아스예요<br>그리고 안 됩니다, 분명히 못 해요
+<SYNC Start=884563><P Class=ENCC>&nbsp;
+<SYNC Start=884723><P Class=ENCC>
+- 중량 힘 비에 의하면...<br>- 닥쳐! 괜찮을 거야
+<SYNC Start=887523><P Class=ENCC>&nbsp;
+<SYNC Start=890603><P Class=ENCC>
+- 좋아, 네 차례다, 가자<br>- 저 정말로 못 해요
+<SYNC Start=893058><P Class=ENCC>&nbsp;
+<SYNC Start=893178><P Class=ENCC>
+스콧!
+<SYNC Start=893680><P Class=ENCC>&nbsp;
+<SYNC Start=893740><P Class=ENCC>
+꼬마야, 이거 동키콩 같은 거야
+<SYNC Start=895203><P Class=ENCC>&nbsp;
+<SYNC Start=895447><P Class=ENCC>
+층층이 뛰기만 하면 돼<br>동키콩 해봤지?
+<SYNC Start=898387><P Class=ENCC>&nbsp;
+<SYNC Start=898403><P Class=ENCC>
+동키콩요?<br>대체 얼마나 늙은 거예요?
+<SYNC Start=900131><P Class=ENCC>&nbsp;
+<SYNC Start=900251><P Class=ENCC>
+그리고 이건 게임이 아니예요!<br>전 안 뛸 거예요!
+<SYNC Start=902323><P Class=ENCC>&nbsp;
+<SYNC Start=904640><P Class=ENCC>
+안 뛸 거면 이건 필요 없겠군
+<SYNC Start=906385><P Class=ENCC>&nbsp;
+<SYNC Start=906475><P Class=ENCC>
+- 안 돼요, 안 돼, 잠깐!!<br>- 으라차!
+<SYNC Start=908370><P Class=ENCC>&nbsp;
+<SYNC Start=908460><P Class=ENCC>
+가방이 필요해?<br>가서 가져
+<SYNC Start=909753><P Class=ENCC>&nbsp;
+<SYNC Start=913007><P Class=ENCC>
+잘 했어, 친구!
+<SYNC Start=914556><P Class=ENCC>&nbsp;
+<SYNC Start=917883><P Class=ENCC>
+좋아, 이제 저기로 뛸 거야<br>동키콩 처럼
+<SYNC Start=921263><P Class=ENCC>&nbsp;
+<SYNC Start=921368><P Class=ENCC>
+윗층 또는 아래층으로<br>뒤로 가봐
+<SYNC Start=923324><P Class=ENCC>&nbsp;
+<SYNC Start=923354><P Class=ENCC>
+- 스콧, 서둘러<br>- 그래, 알아
+<SYNC Start=924951><P Class=ENCC>&nbsp;
+<SYNC Start=926693><P Class=ENCC>
+저기요...
+<SYNC Start=928016><P Class=ENCC>&nbsp;
+<SYNC Start=928918><P Class=ENCC>
+- 아니면 이리로 가든지<br>- 가가가가!
+<SYNC Start=930317><P Class=ENCC>&nbsp;
+<SYNC Start=932942><P Class=ENCC>
+제길!
+<SYNC Start=933514><P Class=ENCC>&nbsp;
+<SYNC Start=936972><P Class=ENCC>
+<font color="gold">어디로 간 거야?!</font>
+<SYNC Start=938446><P Class=ENCC>&nbsp;
+<SYNC Start=938559><P Class=ENCC>
+<font color="gold">아래층으로, 빨리!</font>
+<SYNC Start=939942><P Class=ENCC>&nbsp;
+<SYNC Start=941152><P Class=ENCC>
+- 스콧!<br>- 이상 무다, 마이키야!
+<SYNC Start=942686><P Class=ENCC>&nbsp;
+<SYNC Start=943889><P Class=ENCC>
+이리 와!
+<SYNC Start=944581><P Class=ENCC>&nbsp;
+<SYNC Start=945964><P Class=ENCC>
+타, 타!
+<SYNC Start=946882><P Class=ENCC>&nbsp;
+<SYNC Start=951368><P Class=ENCC>
+대장, 아이와 정보를 확보했습니다
+<SYNC Start=953763><P Class=ENCC>&nbsp;
+<SYNC Start=955368><P Class=ENCC>
+- 이상 무<br>- 좋아
+<SYNC Start=956390><P Class=ENCC>&nbsp;
+<SYNC Start=961069><P Class=ENCC>
+- 어이 꼬맹아, 폰 있냐?<br>- 네?
+<SYNC Start=963866><P Class=ENCC>&nbsp;
+<SYNC Start=963926><P Class=ENCC>
+폰 내놔
+<SYNC Start=964443><P Class=ENCC>&nbsp;
+<SYNC Start=964603><P Class=ENCC>
+- 뭐 때문...<br>- 전화 좀 쓰게
+<SYNC Start=966482><P Class=ENCC>&nbsp;
+<SYNC Start=966632><P Class=ENCC>
+- 어... 여기요...<br>- 감사
+<SYNC Start=967881><P Class=ENCC>&nbsp;
+<SYNC Start=968287><P Class=ENCC>
+좋은 거네
+<SYNC Start=969083><P Class=ENCC>&nbsp;
+<SYNC Start=970726><P Class=ENCC>
+뭐? 안 돼요, 안 돼!<br>보험 안 들었단 말이예요!
+<SYNC Start=972963><P Class=ENCC>&nbsp;
+<SYNC Start=973238><P Class=ENCC>
+내가 새 거 사줄게
+<SYNC Start=974997><P Class=ENCC>&nbsp;
+<SYNC Start=985123><P Class=ENCC>
+괜찮냐, 꼬맹아?
+<SYNC Start=986683><P Class=ENCC>&nbsp;
+<SYNC Start=987000><P Class=ENCC>
+성인의 안정시 심박수는 분당 60~100 사인데<br>제 심박은 그걸 훨씬 뛰어넘었어요
+<SYNC Start=992225><P Class=ENCC>&nbsp;
+<SYNC Start=992338><P Class=ENCC>
+그냥 긴장 풀려고 노력해봐
+<SYNC Start=993819><P Class=ENCC>&nbsp;
+<SYNC Start=993969><P Class=ENCC>
+숨 쉬고, 계속
+<SYNC Start=995083><P Class=ENCC>&nbsp;
+<SYNC Start=995243><P Class=ENCC>
+넌 괜찮아<br>이제 안전해
+<SYNC Start=997163><P Class=ENCC>&nbsp;
+<SYNC Start=997323><P Class=ENCC>
+우린 영국 정부 소속이야
+<SYNC Start=999397><P Class=ENCC>&nbsp;
+<SYNC Start=999457><P Class=ENCC>
+- 영국이요?<br>- 그래
+<SYNC Start=1001427><P Class=ENCC>&nbsp;
+<SYNC Start=1001653><P Class=ENCC>
+- 놈들이 널 어디서 찾았지?<br>- 어...
+<SYNC Start=1003533><P Class=ENCC>&nbsp;
+<SYNC Start=1003623><P Class=ENCC>
+대학교에 있었어요
+<SYNC Start=1004723><P Class=ENCC>&nbsp;
+<SYNC Start=1004883><P Class=ENCC>
+암호를 해독할 사람을 찾았고 그리고 그냥...
+<SYNC Start=1007427><P Class=ENCC>&nbsp;
+<SYNC Start=1007608><P Class=ENCC>
+그럼 넌 해커냐?
+<SYNC Start=1008563><P Class=ENCC>&nbsp;
+<SYNC Start=1008871><P Class=ENCC>
+네? 아뇨, 아뇨<br>전 암호분석학자예요
+<SYNC Start=1011574><P Class=ENCC>&nbsp;
+<SYNC Start=1011740><P Class=ENCC>
+복잡하게 얽힌 구조의<br>코드를 해독한다고요
+<SYNC Start=1014603><P Class=ENCC>&nbsp;
+<SYNC Start=1014763><P Class=ENCC>
+마음의 눈으로부터 진짜 정체를<br>숨기는 것이 진정한 본질인...
+<SYNC Start=1017198><P Class=ENCC>&nbsp;
+<SYNC Start=1017289><P Class=ENCC>
+그래 그래, 알겠다 꼬마야
+<SYNC Start=1018948><P Class=ENCC>&nbsp;
+<SYNC Start=1019008><P Class=ENCC>
+그래서 코드는 풀었고?
+<SYNC Start=1020563><P Class=ENCC>&nbsp;
+<SYNC Start=1020723><P Class=ENCC>
+지금까지 세 개 풀었어요
+<SYNC Start=1022617><P Class=ENCC>&nbsp;
+<SYNC Start=1022707><P Class=ENCC>
+- 무슨 뜻이든?<br>- 몰라요, 한국어예요
+<SYNC Start=1024643><P Class=ENCC>&nbsp;
+<SYNC Start=1024860><P Class=ENCC>
+전 언어는 안 파요
+<SYNC Start=1026401><P Class=ENCC>&nbsp;
+<SYNC Start=1026469><P Class=ENCC>
+영어랑 독일어만 하면 됐지<br>뭐가 더 필요해요?
+<SYNC Start=1028634><P Class=ENCC>&nbsp;
+<SYNC Start=1028724><P Class=ENCC>
+그리고 전 '중국어가 미래의 언어'<br>나부랭이도 안 믿어요
+<SYNC Start=1031995><P Class=ENCC>&nbsp;
+<SYNC Start=1032055><P Class=ENCC>
+그래, 그래...
+<SYNC Start=1033649><P Class=ENCC>&nbsp;
+<SYNC Start=1034467><P Class=ENCC>
+제 임무는 코드를 풀어서<br>보내는 거였고 그렇게 했어요
+<SYNC Start=1038845><P Class=ENCC>&nbsp;
+<SYNC Start=1039206><P Class=ENCC>
+그러니까 코드 세 개를<br>해독해서 보냈다 이거지?
+<SYNC Start=1041523><P Class=ENCC>&nbsp;
+<SYNC Start=1041683><P Class=ENCC>
+- 몇 개나 더 있었지?<br>- 9개요, 총 12개였어요
+<SYNC Start=1044674><P Class=ENCC>&nbsp;
+<SYNC Start=1044794><P Class=ENCC>
+좋아, 그럼...
+<SYNC Start=1045396><P Class=ENCC>&nbsp;
+<SYNC Start=1045523><P Class=ENCC>
+나머지는 우리를 위해 해독해 줘야겠어
+<SYNC Start=1047599><P Class=ENCC>&nbsp;
+<SYNC Start=1047689><P Class=ENCC>
+네가 보낸 것에 대한<br>상세 정보도 필요하고
+<SYNC Start=1050483><P Class=ENCC>&nbsp;
+<SYNC Start=1050643><P Class=ENCC>
+그럼 일을 할 적절한 공간을 주세요
+<SYNC Start=1052313><P Class=ENCC>&nbsp;
+<SYNC Start=1052403><P Class=ENCC>
+저 차 멀미 해요
+<SYNC Start=1053283><P Class=ENCC>&nbsp;
+<SYNC Start=1053403><P Class=ENCC>
+그리고 저 사람 운전 잘 못 해요
+<SYNC Start=1055147><P Class=ENCC>&nbsp;
+<SYNC Start=1055238><P Class=ENCC>
+나도 몇 년간 그 말 하고 있단다
+<SYNC Start=1057283><P Class=ENCC>&nbsp;
+<SYNC Start=1082930><P Class=ENCC>
+리나... 해독가가 사라졌어요
+<SYNC Start=1085363><P Class=ENCC>&nbsp;
+<SYNC Start=1085757><P Class=ENCC>
+- 20과 짓입니다<br>- 나머지 이름들도 필요합니다
+<SYNC Start=1089012><P Class=ENCC>&nbsp;
+<SYNC Start=1089186><P Class=ENCC>
+압니다
+<SYNC Start=1089914><P Class=ENCC>&nbsp;
+<SYNC Start=1090103><P Class=ENCC>
+제가 되찾을 겁니다
+<SYNC Start=1091177><P Class=ENCC>&nbsp;
+<SYNC Start=1091267><P Class=ENCC>
+첫 세개는 받았지요?
+<SYNC Start=1092681><P Class=ENCC>&nbsp;
+<SYNC Start=1092801><P Class=ENCC>
+네, 당장 필요한 하나는 있습니다
+<SYNC Start=1096064><P Class=ENCC>&nbsp;
+<SYNC Start=1097079><P Class=ENCC>
+양철인간은 심장을 얻을 것입니다
+<SYNC Start=1100049><P Class=ENCC>&nbsp;
+<SYNC Start=1103155><P Class=ENCC>
+무조건 되찾아야 한다!
+<SYNC Start=1104888><P Class=ENCC>&nbsp;
+<SYNC Start=1109820><P Class=ENCC>
+<font color="gold">국제 핵 연구 기구</font>
+<SYNC Start=1111866><P Class=ENCC>&nbsp;
+<SYNC Start=1114252><P Class=ENCC>
+이거 좀 받겠습니다
+<SYNC Start=1115243><P Class=ENCC>&nbsp;
+<SYNC Start=1117168><P Class=ENCC>
+네, 헙니다
+<SYNC Start=1118363><P Class=ENCC>&nbsp;
+<SYNC Start=1119304><P Class=ENCC>
+<font color="gold">허길래 동무</font>
+<SYNC Start=1121349><P Class=ENCC>&nbsp;
+<SYNC Start=1121424><P Class=ENCC>
+<font color="gold">현충일 잘 보내길 바랍니다</font>
+<SYNC Start=1124973><P Class=ENCC>&nbsp;
+<SYNC Start=1126100><P Class=ENCC>
+<font color="gold"> 인사 감사히 받겠습니다</font>
+<SYNC Start=1128704><P Class=ENCC>&nbsp;
+<SYNC Start=1130762><P Class=ENCC>
+<font color="gold">정말입니까?</font>
+<SYNC Start=1132025><P Class=ENCC>&nbsp;
+<SYNC Start=1132679><P Class=ENCC>
+<font color="gold">정말로 일어나는 겁니까?</font>
+<SYNC Start=1134364><P Class=ENCC>&nbsp;
+<SYNC Start=1134875><P Class=ENCC>
+<font color="gold">예, 동무</font>
+<SYNC Start=1136446><P Class=ENCC>&nbsp;
+<SYNC Start=1138040><P Class=ENCC>
+일어납니다
+<SYNC Start=1139288><P Class=ENCC>&nbsp;
+<SYNC Start=1139935><P Class=ENCC>
+<font color="gold">알겠습니다</font>
+<SYNC Start=1141529><P Class=ENCC>&nbsp;
+<SYNC Start=1163803><P Class=ENCC>
+노트북엔 평균적으로<br>변기보다 많은 균이 있어요
+<SYNC Start=1166849><P Class=ENCC>&nbsp;
+<SYNC Start=1167063><P Class=ENCC>
+대장균, 포도상구균...
+<SYNC Start=1170003><P Class=ENCC>&nbsp;
+<SYNC Start=1170458><P Class=ENCC>
+작업이나 시작할래?
+<SYNC Start=1172232><P Class=ENCC>&nbsp;
+<SYNC Start=1173563><P Class=ENCC>
+- 군에서 돈은 잘 주나요?<br>- 아니
+<SYNC Start=1176744><P Class=ENCC>&nbsp;
+<SYNC Start=1176894><P Class=ENCC>
+절대 충분치 않지
+<SYNC Start=1179048><P Class=ENCC>&nbsp;
+<SYNC Start=1179228><P Class=ENCC>
+나머지 코드를 해독하게 시키고 있습니다
+<SYNC Start=1181443><P Class=ENCC>&nbsp;
+<SYNC Start=1181724><P Class=ENCC>
+얼마가 걸릴진 모르겠습니다<br>애가 좀 굳어서요
+<SYNC Start=1184323><P Class=ENCC>&nbsp;
+<SYNC Start=1184483><P Class=ENCC>
+우리가 보낸 세 개는요?
+<SYNC Start=1186483><P Class=ENCC>&nbsp;
+<SYNC Start=1186769><P Class=ENCC>
+명백한 한국어고<br>이름들일세
+<SYNC Start=1190288><P Class=ENCC>&nbsp;
+<SYNC Start=1190679><P Class=ENCC>
+지금 검색을 돌리고 있네
+<SYNC Start=1193386><P Class=ENCC>&nbsp;
+<SYNC Start=1194003><P Class=ENCC>
+놈들의 메일 계정도 보내겠습니다
+<SYNC Start=1196171><P Class=ENCC>&nbsp;
+<SYNC Start=1196261><P Class=ENCC>
+좋네
+<SYNC Start=1197043><P Class=ENCC>&nbsp;
+<SYNC Start=1197600><P Class=ENCC>
+IP 주소를 추적해보겠네
+<SYNC Start=1199344><P Class=ENCC>&nbsp;
+<SYNC Start=1199404><P Class=ENCC>
+리나를 찾을 단서가 있는지 보자고
+<SYNC Start=1201615><P Class=ENCC>&nbsp;
+<SYNC Start=1201750><P Class=ENCC>
+다른 코드들도 해독되는 대로 보내주게
+<SYNC Start=1203810><P Class=ENCC>&nbsp;
+<SYNC Start=1203900><P Class=ENCC>
+네, 알겠습니다
+<SYNC Start=1205118><P Class=ENCC>&nbsp;
+<SYNC Start=1208712><P Class=ENCC>
+커피에 설탕을 그렇게 타서 먹게?
+<SYNC Start=1211018><P Class=ENCC>&nbsp;
+<SYNC Start=1211108><P Class=ENCC>
+무슨 뜻이에요?
+<SYNC Start=1212823><P Class=ENCC>&nbsp;
+<SYNC Start=1214071><P Class=ENCC>
+아니다
+<SYNC Start=1215259><P Class=ENCC>&nbsp;
+<SYNC Start=1216259><P Class=ENCC>
+어떻게 돼 가나?
+<SYNC Start=1217243><P Class=ENCC>&nbsp;
+<SYNC Start=1217552><P Class=ENCC>
+암호가 줄마다 스스로 바뀌기 때문에
+<SYNC Start=1220010><P Class=ENCC>&nbsp;
+<SYNC Start=1220191><P Class=ENCC>
+지금 암호화 알고리즘을 분석하고 있어요
+<SYNC Start=1222709><P Class=ENCC>&nbsp;
+<SYNC Start=1222860><P Class=ENCC>
+그래야만 암호를 해독할 수...
+<SYNC Start=1224424><P Class=ENCC>&nbsp;
+<SYNC Start=1225695><P Class=ENCC>
+잘 돼, 안 돼?
+<SYNC Start=1227229><P Class=ENCC>&nbsp;
+<SYNC Start=1227349><P Class=ENCC>
+그것만 말해
+<SYNC Start=1228683><P Class=ENCC>&nbsp;
+<SYNC Start=1229311><P Class=ENCC>
+당신은 분노로 가득 찬 사람이에요
+<SYNC Start=1230643><P Class=ENCC>&nbsp;
+<SYNC Start=1231108><P Class=ENCC>
+아냐<br>보통은
+<SYNC Start=1232792><P Class=ENCC>&nbsp;
+<SYNC Start=1232912><P Class=ENCC>
+애 말도 일리가 있어
+<SYNC Start=1233995><P Class=ENCC>&nbsp;
+<SYNC Start=1234131><P Class=ENCC>
+진짜로?<br>애 편 들기냐?
+<SYNC Start=1235755><P Class=ENCC>&nbsp;
+<SYNC Start=1235882><P Class=ENCC>
+편 드는 게 아냐
+<SYNC Start=1236537><P Class=ENCC>&nbsp;
+<SYNC Start=1236603><P Class=ENCC>
+쟤가 한 말 중에 처음으로<br>이해가 되는 말이라
+<SYNC Start=1239040><P Class=ENCC>&nbsp;
+<SYNC Start=1239386><P Class=ENCC>
+- 이건 이해 가냐?<br>- 어, 가지
+<SYNC Start=1241070><P Class=ENCC>&nbsp;
+<SYNC Start=1241191><P Class=ENCC>
+그건 당신 음경이에요
+<SYNC Start=1242393><P Class=ENCC>&nbsp;
+<SYNC Start=1242559><P Class=ENCC>
+아냐, 좆까 손가락이야
+<SYNC Start=1244048><P Class=ENCC>&nbsp;
+<SYNC Start=1244137><P Class=ENCC>
+가운데 손가락은 음경을 나타내요<br>옆에 손가락들이 고환을 나타내고요
+<SYNC Start=1248190><P Class=ENCC>&nbsp;
+<SYNC Start=1248258><P Class=ENCC>
+원숭이가 우월성을 과시하기 위해<br>적과 교미를 하는 것과 비슷한 거예요
+<SYNC Start=1252651><P Class=ENCC>&nbsp;
+<SYNC Start=1252837><P Class=ENCC>
+다 했냐?
+<SYNC Start=1253499><P Class=ENCC>&nbsp;
+<SYNC Start=1253871><P Class=ENCC>
+이 녀석 맘에 든다
+<SYNC Start=1255403><P Class=ENCC>&nbsp;
+<SYNC Start=1256066><P Class=ENCC>
+이제 일 좀 할래?
+<SYNC Start=1258367><P Class=ENCC>&nbsp;
+<SYNC Start=1262379><P Class=ENCC>
+그렇게 분노한 데에<br>당신을 탓하지 않아요
+<SYNC Start=1264079><P Class=ENCC>&nbsp;
+<SYNC Start=1264154><P Class=ENCC>
+당신 직종의 사람들에게<br>분명 힘든 시기일 거예요
+<SYNC Start=1267711><P Class=ENCC>&nbsp;
+<SYNC Start=1267951><P Class=ENCC>
+기술이 대세잖아요
+<SYNC Start=1269575><P Class=ENCC>&nbsp;
+<SYNC Start=1269665><P Class=ENCC>
+드론... 사이버 전쟁...
+<SYNC Start=1271923><P Class=ENCC>&nbsp;
+<SYNC Start=1272861><P Class=ENCC>
+당신 같은 병사가 일주일 하는 것보다
+<SYNC Start=1275286><P Class=ENCC>&nbsp;
+<SYNC Start=1275406><P Class=ENCC>
+평균 십대가 20분 동안<br>더 많은 타격을 줄 수 있죠
+<SYNC Start=1277771><P Class=ENCC>&nbsp;
+<SYNC Start=1277891><P Class=ENCC>
+자꾸 기어오르면 내가 20초 내에<br>더 많은 타격을 줄 수 있단다, 꼬마야
+<SYNC Start=1281684><P Class=ENCC>&nbsp;
+<SYNC Start=1281865><P Class=ENCC>
+화장실 갈래요
+<SYNC Start=1282963><P Class=ENCC>&nbsp;
+<SYNC Start=1283143><P Class=ENCC>
+어이, 앉아
+<SYNC Start=1284763><P Class=ENCC>&nbsp;
+<SYNC Start=1285278><P Class=ENCC>
+죄송합니다
+<SYNC Start=1286647><P Class=ENCC>&nbsp;
+<SYNC Start=1287278><P Class=ENCC>
+코드 계속 풀어라
+<SYNC Start=1289639><P Class=ENCC>&nbsp;
+<SYNC Start=1289790><P Class=ENCC>
+엉?
+<SYNC Start=1290301><P Class=ENCC>&nbsp;
+<SYNC Start=1290406><P Class=ENCC>
+저 지금 매우 심란하단 말이에요
+<SYNC Start=1292308><P Class=ENCC>&nbsp;
+<SYNC Start=1292399><P Class=ENCC>
+오늘 사람 죽는 것도 봤는데
+<SYNC Start=1293842><P Class=ENCC>&nbsp;
+<SYNC Start=1293910><P Class=ENCC>
+- 이젠 신체적인 위협까지 받네요<br>- 어이, 좀, 좀...
+<SYNC Start=1296494><P Class=ENCC>&nbsp;
+<SYNC Start=1296579><P Class=ENCC>
+- 제가 원해서 하는 게 아니란 말이에요!<br>- 나도 알아
+<SYNC Start=1299557><P Class=ENCC>&nbsp;
+<SYNC Start=1299699><P Class=ENCC>
+무서운 거 알아
+<SYNC Start=1301123><P Class=ENCC>&nbsp;
+<SYNC Start=1301361><P Class=ENCC>
+너한텐 당연히 엿같은 상황이야
+<SYNC Start=1303647><P Class=ENCC>&nbsp;
+<SYNC Start=1303887><P Class=ENCC>
+나도 애가 있어
+<SYNC Start=1305872><P Class=ENCC>&nbsp;
+<SYNC Start=1306083><P Class=ENCC>
+너보다 조금 더 어리지
+<SYNC Start=1307963><P Class=ENCC>&nbsp;
+<SYNC Start=1308211><P Class=ENCC>
+그냥 날 믿어
+<SYNC Start=1309805><P Class=ENCC>&nbsp;
+<SYNC Start=1309895><P Class=ENCC>
+아무 일도 없도록 할게
+<SYNC Start=1311609><P Class=ENCC>&nbsp;
+<SYNC Start=1311730><P Class=ENCC>
+알겠지?
+<SYNC Start=1312797><P Class=ENCC>&nbsp;
+<SYNC Start=1312948><P Class=ENCC>
+그럼...
+<SYNC Start=1313730><P Class=ENCC>&nbsp;
+<SYNC Start=1315723><P Class=ENCC>
+좋아요
+<SYNC Start=1316331><P Class=ENCC>&nbsp;
+<SYNC Start=1316421><P Class=ENCC>
+갔다와서 마저 해독할게요
+<SYNC Start=1318203><P Class=ENCC>&nbsp;
+<SYNC Start=1318363><P Class=ENCC>
+- 지금은 정말 방뇨를 해야 해요<br>- 그, 그래...
+<SYNC Start=1321451><P Class=ENCC>&nbsp;
+<SYNC Start=1321602><P Class=ENCC>
+그렇게 자세히 말할 필요는 없는데...
+<SYNC Start=1324203><P Class=ENCC>&nbsp;
+<SYNC Start=1328374><P Class=ENCC>
+와우...
+<SYNC Start=1329036><P Class=ENCC>&nbsp;
+<SYNC Start=1329066><P Class=ENCC>
+핀이 안 저런 걸<br>삼신할머니한테 감사하라고
+<SYNC Start=1331563><P Class=ENCC>&nbsp;
+<SYNC Start=1331723><P Class=ENCC>
+그래
+<SYNC Start=1332555><P Class=ENCC>&nbsp;
+<SYNC Start=1333126><P Class=ENCC>
+그럼 북한에 두고 왔을 거야
+<SYNC Start=1335208><P Class=ENCC>&nbsp;
+<SYNC Start=1335667><P Class=ENCC>
+핀은 좀 어때?<br>괜찮아?
+<SYNC Start=1337449><P Class=ENCC>&nbsp;
+<SYNC Start=1337599><P Class=ENCC>
+어, 괜찮아
+<SYNC Start=1339419><P Class=ENCC>&nbsp;
+<SYNC Start=1339810><P Class=ENCC>
+엄마한테 돌아갔어
+<SYNC Start=1341193><P Class=ENCC>&nbsp;
+<SYNC Start=1341314><P Class=ENCC>
+- 전처가 알아?<br>- 아니
+<SYNC Start=1343803><P Class=ENCC>&nbsp;
+<SYNC Start=1344359><P Class=ENCC>
+천만다행히도<br>녀석도 말 안 할 거야
+<SYNC Start=1347123><P Class=ENCC>&nbsp;
+<SYNC Start=1347396><P Class=ENCC>
+그러길 바라
+<SYNC Start=1348547><P Class=ENCC>&nbsp;
+<SYNC Start=1348637><P Class=ENCC>
+이상하게도 마이크야,<br>죽을 고비를 함께 넘기고 나니까...
+<SYNC Start=1353224><P Class=ENCC>&nbsp;
+<SYNC Start=1353720><P Class=ENCC>
+뭔가 돈독해지더라
+<SYNC Start=1355643><P Class=ENCC>&nbsp;
+<SYNC Start=1356163><P Class=ENCC>
+그럼 마티아스랑도 한번 해 보는 게...
+<SYNC Start=1358443><P Class=ENCC>&nbsp;
+<SYNC Start=1358660><P Class=ENCC>
+- 그게 이름인지 저 녀석이 어떻게 알았지?<br>- 응?
+<SYNC Start=1360843><P Class=ENCC>&nbsp;
+<SYNC Start=1361118><P Class=ENCC>
+해독된 코드가 이름들이라고 로크가 말했어
+<SYNC Start=1363630><P Class=ENCC>&nbsp;
+<SYNC Start=1363705><P Class=ENCC>
+언어를 모르는데 어떻게 그게<br>이름인지 알아, 이 쥐방울만한!
+<SYNC Start=1367403><P Class=ENCC>&nbsp;
+<SYNC Start=1369299><P Class=ENCC>
+잠겼어
+<SYNC Start=1369810><P Class=ENCC>&nbsp;
+<SYNC Start=1369870><P Class=ENCC>
+젠장!
+<SYNC Start=1370683><P Class=ENCC>&nbsp;
+<SYNC Start=1371675><P Class=ENCC>
+스콧!
+<SYNC Start=1372547><P Class=ENCC>&nbsp;
+<SYNC Start=1372667><P Class=ENCC>
+아 젠장!
+<SYNC Start=1373483><P Class=ENCC>&nbsp;
+<SYNC Start=1376682><P Class=ENCC>
+- 마이크!<br>- 그래!
+<SYNC Start=1377073><P Class=ENCC>&nbsp;
+<SYNC Start=1377163><P Class=ENCC>
+그래!
+<SYNC Start=1377584><P Class=ENCC>&nbsp;
+<SYNC Start=1380163><P Class=ENCC>
+꼬마야, 어이!
+<SYNC Start=1381644><P Class=ENCC>&nbsp;
+<SYNC Start=1381765><P Class=ENCC>
+기다려!
+<SYNC Start=1382547><P Class=ENCC>&nbsp;
+<SYNC Start=1382968><P Class=ENCC>
+멈춰
+<SYNC Start=1383643><P Class=ENCC>&nbsp;
+<SYNC Start=1383803><P Class=ENCC>
+미안해요, 미안해요, 아저씨들
+<SYNC Start=1385509><P Class=ENCC>&nbsp;
+<SYNC Start=1385659><P Class=ENCC>
+전 못 해요!
+<SYNC Start=1386750><P Class=ENCC>&nbsp;
+<SYNC Start=1386900><P Class=ENCC>
+미안해하지 말고 그냥 멈춰
+<SYNC Start=1387922><P Class=ENCC>&nbsp;
+<SYNC Start=1388013><P Class=ENCC>
+아저씨들이 원하는 사람이 될 수 없어요
+<SYNC Start=1390088><P Class=ENCC>&nbsp;
+<SYNC Start=1390193><P Class=ENCC>
+집에 가야 해요
+<SYNC Start=1391249><P Class=ENCC>&nbsp;
+<SYNC Start=1391340><P Class=ENCC>
+엄마가 엄청 걱정하실 거예요
+<SYNC Start=1393328><P Class=ENCC>&nbsp;
+<SYNC Start=1393434><P Class=ENCC>
+엄마 같은 소리 집어치워!
+<SYNC Start=1395573><P Class=ENCC>&nbsp;
+<SYNC Start=1395723><P Class=ENCC>
+뭐 할려고?
+<SYNC Start=1397467><P Class=ENCC>&nbsp;
+<SYNC Start=1398701><P Class=ENCC>
+멈춰!
+<SYNC Start=1399422><P Class=ENCC>&nbsp;
+<SYNC Start=1400550><P Class=ENCC>
+멈춰
+<SYNC Start=1401363><P Class=ENCC>&nbsp;
+<SYNC Start=1402001><P Class=ENCC>
+넌 내가 본 인간 중 최고로 멍청한 인간이야
+<SYNC Start=1404919><P Class=ENCC>&nbsp;
+<SYNC Start=1405039><P Class=ENCC>
+정신 차려, 인간아!
+<SYNC Start=1406422><P Class=ENCC>&nbsp;
+<SYNC Start=1406618><P Class=ENCC>
+- 넌 절대 날 못 쏴!<br>- 과연 그럴까?
+<SYNC Start=1408843><P Class=ENCC>&nbsp;
+<SYNC Start=1416489><P Class=ENCC>
+왜 이렇게 오래 걸렸어?!
+<SYNC Start=1417843><P Class=ENCC>&nbsp;
+<SYNC Start=1423091><P Class=ENCC>
+제길!
+<SYNC Start=1423683><P Class=ENCC>&nbsp;
+<SYNC Start=1425369><P Class=ENCC>
+아, 젠장!!
+<SYNC Start=1427163><P Class=ENCC>&nbsp;
+<SYNC Start=1427617><P Class=ENCC>
+놈이 타이어를 펑크냈어!
+<SYNC Start=1429542><P Class=ENCC>&nbsp;
+<SYNC Start=1429692><P Class=ENCC>
+좆만한 게!!
+<SYNC Start=1430941><P Class=ENCC>&nbsp;
+<SYNC Start=1442805><P Class=ENCC>
+망할
+<SYNC Start=1443821><P Class=ENCC>&nbsp;
+<SYNC Start=1443942><P Class=ENCC>
+날 쏘다니 믿을 수가 없어<br>피도 나고 난리야!
+<SYNC Start=1446573><P Class=ENCC>&nbsp;
+<SYNC Start=1446724><P Class=ENCC>
+이름들은?
+<SYNC Start=1447885><P Class=ENCC>&nbsp;
+<SYNC Start=1448046><P Class=ENCC>
+노트북을 두고 왔어<br>안에 있는 건 전부 지우고
+<SYNC Start=1450086><P Class=ENCC>&nbsp;
+<SYNC Start=1450246><P Class=ENCC>
+해독한 코드가 없다고?
+<SYNC Start=1451649><P Class=ENCC>&nbsp;
+<SYNC Start=1451829><P Class=ENCC>
+- 종이랑 볼펜 줘<br>- 거기 있다
+<SYNC Start=1454212><P Class=ENCC>&nbsp;
+<SYNC Start=1461286><P Class=ENCC>
+병원 가는 길 맞아?
+<SYNC Start=1463704><P Class=ENCC>&nbsp;
+<SYNC Start=1463794><P Class=ENCC>
+전부 외운 건가?
+<SYNC Start=1464726><P Class=ENCC>&nbsp;
+<SYNC Start=1464832><P Class=ENCC>
+내 지능을 모욕하지 마<br>이 정돈 애들 장난이야
+<SYNC Start=1467086><P Class=ENCC>&nbsp;
+<SYNC Start=1467456><P Class=ENCC>
+오, 그리고 내 보디가드로 붙여준<br>러시아 놈들 완전 쓸모 없었어
+<SYNC Start=1470166><P Class=ENCC>&nbsp;
+<SYNC Start=1470441><P Class=ENCC>
+한 놈은 실제로 나가 떨어져서 포기하더라고
+<SYNC Start=1472513><P Class=ENCC>&nbsp;
+<SYNC Start=1472606><P Class=ENCC>
+내가 너라면 고용 절차를 재고하겠어
+<SYNC Start=1475126><P Class=ENCC>&nbsp;
+<SYNC Start=1476498><P Class=ENCC>
+너는 말이 너무 많아<br>나를 우려시키는군
+<SYNC Start=1479366><P Class=ENCC>&nbsp;
+<SYNC Start=1484926><P Class=ENCC>
+이제 병원으로 좀 가 주겠나?
+<SYNC Start=1487246><P Class=ENCC>&nbsp;
+<SYNC Start=1487362><P Class=ENCC>
+감염되는 걸 원치 않아!
+<SYNC Start=1489332><P Class=ENCC>&nbsp;
+<SYNC Start=1494595><P Class=ENCC>
+안 돼, 안 돼, 안 돼!!
+<SYNC Start=1495331><P Class=ENCC>&nbsp;
+<SYNC Start=1499903><P Class=ENCC>
+좀 낫군
+<SYNC Start=1500820><P Class=ENCC>&nbsp;
+<SYNC Start=1506064><P Class=ENCC>
+- 어디 있는 거야...<br>- 스콧!
+<SYNC Start=1507326><P Class=ENCC>&nbsp;
+<SYNC Start=1516530><P Class=ENCC>
+- 가쇼, 대장<br>- 갑시다
+<SYNC Start=1518086><P Class=ENCC>&nbsp;
+<SYNC Start=1519116><P Class=ENCC>
+자네들이 해독가를 잃느라고 바쁜 동안
+<SYNC Start=1521733><P Class=ENCC>&nbsp;
+<SYNC Start=1521868><P Class=ENCC>
+아까 받은 이름들에 대해 진척이 있었네
+<SYNC Start=1524486><P Class=ENCC>&nbsp;
+<SYNC Start=1524646><P Class=ENCC>
+- 그 중 하나가 여기 빈에서 일해<br>- 그리고요?
+<SYNC Start=1526766><P Class=ENCC>&nbsp;
+<SYNC Start=1526853><P Class=ENCC>
+39국의 잠복 요원이라 사료되네
+<SYNC Start=1529126><P Class=ENCC>&nbsp;
+<SYNC Start=1529286><P Class=ENCC>
+만약 내가 맞다면...
+<SYNC Start=1531327><P Class=ENCC>&nbsp;
+<SYNC Start=1531417><P Class=ENCC>
+아주 나쁜 소식이야
+<SYNC Start=1532966><P Class=ENCC>&nbsp;
+<SYNC Start=1533126><P Class=ENCC>
+그 중 하나가 허길래인데,
+<SYNC Start=1535090><P Class=ENCC>&nbsp;
+<SYNC Start=1535165><P Class=ENCC>
+국제 핵 연구 기구의 고위 연구자야
+<SYNC Start=1539566><P Class=ENCC>&nbsp;
+<SYNC Start=1539686><P Class=ENCC>
+확인을 위한 2차 스캔을 해주십시오
+<SYNC Start=1542433><P Class=ENCC>&nbsp;
+<SYNC Start=1558926><P Class=ENCC>
+5분 내로 출고됩니다
+<SYNC Start=1560666><P Class=ENCC>&nbsp;
+<SYNC Start=1560726><P Class=ENCC>
+17C 노선으로요
+<SYNC Start=1562192><P Class=ENCC>&nbsp;
+<SYNC Start=1571592><P Class=ENCC>
+<font color="gold">경로 확인 완료</font>
+<SYNC Start=1572825><P Class=ENCC>&nbsp;
+<SYNC Start=1572945><P Class=ENCC>
+<font color="gold">지금 보내겠음</font>
+<SYNC Start=1574419><P Class=ENCC>&nbsp;
+<SYNC Start=1575686><P Class=ENCC>
+자, 정보를 맞춰보세
+<SYNC Start=1576975><P Class=ENCC>&nbsp;
+<SYNC Start=1577065><P Class=ENCC>
+리나가 있고...
+<SYNC Start=1578704><P Class=ENCC>&nbsp;
+<SYNC Start=1579095><P Class=ENCC>
+오펜하이머도 있고...
+<SYNC Start=1580166><P Class=ENCC>&nbsp;
+<SYNC Start=1580326><P Class=ENCC>
+폭발물 제조의 대가...
+<SYNC Start=1583206><P Class=ENCC>&nbsp;
+<SYNC Start=1583366><P Class=ENCC>
+핵물질에 접근 가능한<br>잠복 요원도 있고요
+<SYNC Start=1586046><P Class=ENCC>&nbsp;
+<SYNC Start=1586206><P Class=ENCC>
+그렇다네
+<SYNC Start=1586817><P Class=ENCC>&nbsp;
+<SYNC Start=1586877><P Class=ENCC>
+핵폭탄을 만들고 있는 거군요
+<SYNC Start=1588966><P Class=ENCC>&nbsp;
+<SYNC Start=1606686><P Class=ENCC>
+방금 돌린 전화에서 정보가 들어왔다
+<SYNC Start=1610526><P Class=ENCC>&nbsp;
+<SYNC Start=1610686><P Class=ENCC>
+핵물질을 운반하는 예정에 없던 수송대가<br>15분 전에 핵 연구 기구를 떠났다는군
+<SYNC Start=1616885><P Class=ENCC>&nbsp;
+<SYNC Start=1617902><P Class=ENCC>
+호송대의 목적지는<br>볼커스도르프의 연구실이라는군
+<SYNC Start=1621286><P Class=ENCC>&nbsp;
+<SYNC Start=1621857><P Class=ENCC>
+이게 그 노선이네
+<SYNC Start=1623206><P Class=ENCC>&nbsp;
+<SYNC Start=1623366><P Class=ENCC>
+리나가 가로챌 거라 보십니까?
+<SYNC Start=1624992><P Class=ENCC>&nbsp;
+<SYNC Start=1625127><P Class=ENCC>
+그래, 그러니 자네가 먼저 가게
+<SYNC Start=1628006><P Class=ENCC>&nbsp;
+<SYNC Start=1628383><P Class=ENCC>
+호송대가 어드버그의 고속도로를<br>지나는 것이 방금 CCTV에 잡혔네
+<SYNC Start=1631894><P Class=ENCC>&nbsp;
+<SYNC Start=1632075><P Class=ENCC>
+앞서 가서
+<SYNC Start=1633398><P Class=ENCC>&nbsp;
+<SYNC Start=1633578><P Class=ENCC>
+체포하게
+<SYNC Start=1634566><P Class=ENCC>&nbsp;
+<SYNC Start=1634811><P Class=ENCC>
+무전 열고 있게<br>난 나가 있을 게야
+<SYNC Start=1637037><P Class=ENCC>&nbsp;
+<SYNC Start=1637202><P Class=ENCC>
+마티아스가 메일을 보낸 주소를 추적했네
+<SYNC Start=1640857><P Class=ENCC>&nbsp;
+<SYNC Start=1641022><P Class=ENCC>
+뭐 좀 나왔습니까?
+<SYNC Start=1642496><P Class=ENCC>&nbsp;
+<SYNC Start=1642556><P Class=ENCC>
+위치를 삼각측량했어
+<SYNC Start=1645240><P Class=ENCC>&nbsp;
+<SYNC Start=1645390><P Class=ENCC>
+건설현장인데...
+<SYNC Start=1646966><P Class=ENCC>&nbsp;
+<SYNC Start=1647338><P Class=ENCC>
+우리의 작은 러시아 친구<br>이반 미시킨 소유더군
+<SYNC Start=1651428><P Class=ENCC>&nbsp;
+<SYNC Start=1654362><P Class=ENCC>
+가자
+<SYNC Start=1654994><P Class=ENCC>&nbsp;
+<SYNC Start=1669246><P Class=ENCC>
+미안하다
+<SYNC Start=1670208><P Class=ENCC>&nbsp;
+<SYNC Start=1671757><P Class=ENCC>
+행동 개시!
+<SYNC Start=1672659><P Class=ENCC>&nbsp;
+<SYNC Start=1673200><P Class=ENCC>
+개시!!
+<SYNC Start=1674043><P Class=ENCC>&nbsp;
+<SYNC Start=1700401><P Class=ENCC>
+두 번째 열쇠가 필요하다
+<SYNC Start=1702115><P Class=ENCC>&nbsp;
+<SYNC Start=1703950><P Class=ENCC>
+꼭 필요한 거야
+<SYNC Start=1705063><P Class=ENCC>&nbsp;
+<SYNC Start=1753806><P Class=ENCC>
+저거야, 저거야!
+<SYNC Start=1755197><P Class=ENCC>&nbsp;
+<SYNC Start=1755348><P Class=ENCC>
+대장, 호송대를 발견했습니다!
+<SYNC Start=1756766><P Class=ENCC>&nbsp;
+<SYNC Start=1756926><P Class=ENCC>
+이미 공격당해 심각한 총격을 받았습니다
+<SYNC Start=1758476><P Class=ENCC>&nbsp;
+<SYNC Start=1758566><P Class=ENCC>
+교전 들어갑니다
+<SYNC Start=1759461><P Class=ENCC>&nbsp;
+<SYNC Start=1759611><P Class=ENCC>
+알겠네, 마이클
+<SYNC Start=1760806><P Class=ENCC>&nbsp;
+<SYNC Start=1760966><P Class=ENCC>
+절대 핵물질을 접수하게 두지 말게
+<SYNC Start=1763212><P Class=ENCC>&nbsp;
+<SYNC Start=1763333><P Class=ENCC>
+무전 열어 놓고
+<SYNC Start=1764400><P Class=ENCC>&nbsp;
+<SYNC Start=1777326><P Class=ENCC>
+제길!
+<SYNC Start=1777807><P Class=ENCC>&nbsp;
+<SYNC Start=1782544><P Class=ENCC>
+여기 문이 있어!
+<SYNC Start=1784486><P Class=ENCC>&nbsp;
+<SYNC Start=1784646><P Class=ENCC>
+이동!
+<SYNC Start=1785250><P Class=ENCC>&nbsp;
+<SYNC Start=1785431><P Class=ENCC>
+문이 있다는 뭔 뜻이야?!
+<SYNC Start=1787006><P Class=ENCC>&nbsp;
+<SYNC Start=1789912><P Class=ENCC>
+문이 있다고!<br>그 뜻이지!!
+<SYNC Start=1792093><P Class=ENCC>&nbsp;
+<SYNC Start=1792153><P Class=ENCC>
+이동!!
+<SYNC Start=1792875><P Class=ENCC>&nbsp;
+<SYNC Start=1803951><P Class=ENCC>
+스콧, 이동!!
+<SYNC Start=1805126><P Class=ENCC>&nbsp;
+<SYNC Start=1811004><P Class=ENCC>
+염병!
+<SYNC Start=1811455><P Class=ENCC>&nbsp;
+<SYNC Start=1811576><P Class=ENCC>
+망할!
+<SYNC Start=1812027><P Class=ENCC>&nbsp;
+<SYNC Start=1814704><P Class=ENCC>
+방탄이네!!
+<SYNC Start=1816117><P Class=ENCC>&nbsp;
+<SYNC Start=1817049><P Class=ENCC>
+자, 어서 빠지자
+<SYNC Start=1818388><P Class=ENCC>&nbsp;
+<SYNC Start=1820320><P Class=ENCC>
+엿 먹어라 이것들아!
+<SYNC Start=1821846><P Class=ENCC>&nbsp;
+<SYNC Start=1829732><P Class=ENCC>
+젠장!!
+<SYNC Start=1830680><P Class=ENCC>&nbsp;
+<SYNC Start=1831823><P Class=ENCC>
+빨리 가자고, 친구!
+<SYNC Start=1833777><P Class=ENCC>&nbsp;
+<SYNC Start=1925071><P Class=ENCC>
+뒤로 돌아
+<SYNC Start=1926635><P Class=ENCC>&nbsp;
+<SYNC Start=1938790><P Class=ENCC>
+내가 누군지 아나?
+<SYNC Start=1940542><P Class=ENCC>&nbsp;
+<SYNC Start=1941144><P Class=ENCC>
+그래, 필립<br>자넬 알지
+<SYNC Start=1943121><P Class=ENCC>&nbsp;
+<SYNC Start=1943452><P Class=ENCC>
+내가 비무장이란 것 역시 말해주고 싶군
+<SYNC Start=1947368><P Class=ENCC>&nbsp;
+<SYNC Start=1948227><P Class=ENCC>
+네가 내 아들을 죽였나?
+<SYNC Start=1950326><P Class=ENCC>&nbsp;
+<SYNC Start=1950790><P Class=ENCC>
+총 저리 치우게<br>그리고 이야기 하지
+<SYNC Start=1953287><P Class=ENCC>&nbsp;
+<SYNC Start=1953497><P Class=ENCC>
+아니
+<SYNC Start=1954550><P Class=ENCC>&nbsp;
+<SYNC Start=1955039><P Class=ENCC>
+넌 나한테 명령할 수 없어
+<SYNC Start=1957911><P Class=ENCC>&nbsp;
+<SYNC Start=1958211><P Class=ENCC>
+물음에나 답해<br>움직이지 마!
+<SYNC Start=1960993><P Class=ENCC>&nbsp;
+<SYNC Start=1962941><P Class=ENCC>
+내 아들을 죽였나?
+<SYNC Start=1965422><P Class=ENCC>&nbsp;
+<SYNC Start=1967354><P Class=ENCC>
+그 차, 그 폭탄...
+<SYNC Start=1969046><P Class=ENCC>&nbsp;
+<SYNC Start=1969790><P Class=ENCC>
+너였지?
+<SYNC Start=1971881><P Class=ENCC>&nbsp;
+<SYNC Start=1973618><P Class=ENCC>
+신께 맹세컨대 말하지 않으면...
+<SYNC Start=1975206><P Class=ENCC>&nbsp;
+<SYNC Start=1975392><P Class=ENCC>
+말... 하고 싶네
+<SYNC Start=1977745><P Class=ENCC>&nbsp;
+<SYNC Start=1977986><P Class=ENCC>
+말 할 걸세
+<SYNC Start=1978918><P Class=ENCC>&nbsp;
+<SYNC Start=1979024><P Class=ENCC>
+하지만 필립, 자넨<br>잘못된 질문만 하고 있어
+<SYNC Start=1983114><P Class=ENCC>&nbsp;
+<SYNC Start=1983384><P Class=ENCC>
+하물며 무슨 근거로 그게<br>나라고 생각하는 건가?
+<SYNC Start=1986327><P Class=ENCC>&nbsp;
+<SYNC Start=1988911><P Class=ENCC>
+그 구절 때문이다
+<SYNC Start=1990326><P Class=ENCC>&nbsp;
+<SYNC Start=1991196><P Class=ENCC>
+'너의 업보로 인해'?
+<SYNC Start=1992783><P Class=ENCC>&nbsp;
+<SYNC Start=1994294><P Class=ENCC>
+그 구절은 절대 떨칠 수 없었지
+<SYNC Start=1996246><P Class=ENCC>&nbsp;
+<SYNC Start=1996406><P Class=ENCC>
+모든 것을 바꿔도<br>그 구절은 절대 떨칠 수 없었어
+<SYNC Start=1999606><P Class=ENCC>&nbsp;
+<SYNC Start=2000249><P Class=ENCC>
+신학교를 5년 다닌 결과지
+<SYNC Start=2002326><P Class=ENCC>&nbsp;
+<SYNC Start=2002633><P Class=ENCC>
+카톨릭의 무엇이 사디스트와 사이코패스를<br>끌어들이는지 모르겠어
+<SYNC Start=2007332><P Class=ENCC>&nbsp;
+<SYNC Start=2007430><P Class=ENCC>
+자넨 군대에 대해 똑같이 말할 수 있을 테지?
+<SYNC Start=2010203><P Class=ENCC>&nbsp;
+<SYNC Start=2010323><P Class=ENCC>
+아니, 제발...
+<SYNC Start=2011542><P Class=ENCC>&nbsp;
+<SYNC Start=2011858><P Class=ENCC>
+수수께끼 같은 소리 그만하고...
+<SYNC Start=2013037><P Class=ENCC>&nbsp;
+<SYNC Start=2013127><P Class=ENCC>
+움직이지 말라고 했다!<br>동작 그만! 동작...
+<SYNC Start=2016022><P Class=ENCC>&nbsp;
+<SYNC Start=2016293><P Class=ENCC>
+손 보이게 들어
+<SYNC Start=2017736><P Class=ENCC>&nbsp;
+<SYNC Start=2017977><P Class=ENCC>
+여기 봐
+<SYNC Start=2019150><P Class=ENCC>&nbsp;
+<SYNC Start=2023586><P Class=ENCC>
+내 아들을 죽였나?
+<SYNC Start=2025966><P Class=ENCC>&nbsp;
+<SYNC Start=2026218><P Class=ENCC>
+- 자넨 잘못된 질문만 하고...<br>- 죽였냐고!!
+<SYNC Start=2029006><P Class=ENCC>&nbsp;
+<SYNC Start=2029503><P Class=ENCC>
+필립!
+<SYNC Start=2030510><P Class=ENCC>&nbsp;
+<SYNC Start=2030600><P Class=ENCC>
+내가 폭탄을 설치했어
+<SYNC Start=2031623><P Class=ENCC>&nbsp;
+<SYNC Start=2031713><P Class=ENCC>
+내가 버튼을 눌렀어
+<SYNC Start=2033638><P Class=ENCC>&nbsp;
+<SYNC Start=2033849><P Class=ENCC>
+하지만 자네 가족을 노린 게 아냐
+<SYNC Start=2036292><P Class=ENCC>&nbsp;
+<SYNC Start=2037179><P Class=ENCC>
+아직 모르겠나?
+<SYNC Start=2038686><P Class=ENCC>&nbsp;
+<SYNC Start=2039292><P Class=ENCC>
+너의 업보로 인해!
+<SYNC Start=2041046><P Class=ENCC>&nbsp;
+<SYNC Start=2041736><P Class=ENCC>
+자넬 노렸던 걸세
+<SYNC Start=2043322><P Class=ENCC>&nbsp;
+<SYNC Start=2043488><P Class=ENCC>
+자넬 죽이려고 했던 거야
+<SYNC Start=2045488><P Class=ENCC>&nbsp;
+<SYNC Start=2045638><P Class=ENCC>
+내 위장을 유지하기 위해
+<SYNC Start=2047864><P Class=ENCC>&nbsp;
+<SYNC Start=2050631><P Class=ENCC>
+네 위장?
+<SYNC Start=2052044><P Class=ENCC>&nbsp;
+<SYNC Start=2055182><P Class=ENCC>
+내 이름은 크리스토퍼 데스몬드
+<SYNC Start=2056926><P Class=ENCC>&nbsp;
+<SYNC Start=2057062><P Class=ENCC>
+자네와 마찬가지로 영국 정부를 위해 일했네
+<SYNC Start=2059994><P Class=ENCC>&nbsp;
+<SYNC Start=2062558><P Class=ENCC>
+영국 정부가 내 암살을 인가했다고?
+<SYNC Start=2065633><P Class=ENCC>&nbsp;
+<SYNC Start=2069373><P Class=ENCC>
+- 난 안 믿어<br>- 믿을 텐데?
+<SYNC Start=2072726><P Class=ENCC>&nbsp;
+<SYNC Start=2073313><P Class=ENCC>
+항상 의심해왔지 않나?<br>'왜 놈은 존재하지 않지?'
+<SYNC Start=2076333><P Class=ENCC>&nbsp;
+<SYNC Start=2076516><P Class=ENCC>
+'왜 놈에 대한 파일이, 기록이 없지?'
+<SYNC Start=2079431><P Class=ENCC>&nbsp;
+<SYNC Start=2079678><P Class=ENCC>
+'놈의 존재에 대한 단서가<br>왜 하나도 없는 거지?'
+<SYNC Start=2082491><P Class=ENCC>&nbsp;
+<SYNC Start=2082716><P Class=ENCC>
+'그런 일을 할 수 있는 게 대체 누구지?'
+<SYNC Start=2084851><P Class=ENCC>&nbsp;
+<SYNC Start=2084942><P Class=ENCC>
+'그리고 왜?'
+<SYNC Start=2086536><P Class=ENCC>&nbsp;
+<SYNC Start=2087949><P Class=ENCC>
+자기 병사를 죽이려고 한 사실을<br>덮으려 하는 게 아니라면 말이지
+<SYNC Start=2092272><P Class=ENCC>&nbsp;
+<SYNC Start=2100732><P Class=ENCC>
+다음 탄환은 머리에 박아주겠다
+<SYNC Start=2103123><P Class=ENCC>&nbsp;
+<SYNC Start=2107992><P Class=ENCC>
+누가 내 암살을 명령했지?
+<SYNC Start=2110112><P Class=ENCC>&nbsp;
+<SYNC Start=2111345><P Class=ENCC>
+- 모르네<br>- 누구야?!
+<SYNC Start=2113446><P Class=ENCC>&nbsp;
+<SYNC Start=2132842><P Class=ENCC>
+- 멋지군!<br>- 뭐가?
+<SYNC Start=2134006><P Class=ENCC>&nbsp;
+<SYNC Start=2134046><P Class=ENCC>
+꼬리가 붙었다
+<SYNC Start=2135462><P Class=ENCC>&nbsp;
+<SYNC Start=2135551><P Class=ENCC>
+6시 방향으로 접근 중
+<SYNC Start=2137324><P Class=ENCC>&nbsp;
+<SYNC Start=2137805><P Class=ENCC>
+권이야
+<SYNC Start=2139218><P Class=ENCC>&nbsp;
+<SYNC Start=2139459><P Class=ENCC>
+개새끼가 포기를 모르는군
+<SYNC Start=2140711><P Class=ENCC>&nbsp;
+<SYNC Start=2141241><P Class=ENCC>
+길에서 비켜!
+<SYNC Start=2142384><P Class=ENCC>&nbsp;
+<SYNC Start=2142470><P Class=ENCC>
+비켜!!
+<SYNC Start=2143032><P Class=ENCC>&nbsp;
+<SYNC Start=2143091><P Class=ENCC>
+아 젠장!
+<SYNC Start=2143711><P Class=ENCC>&nbsp;
+<SYNC Start=2143993><P Class=ENCC>
+- 길로 가도록 좀 해봐, 응?<br>- 뒷좌석 할머니 오늘은 안 통한다
+<SYNC Start=2146813><P Class=ENCC>&nbsp;
+<SYNC Start=2146964><P Class=ENCC>
+- 그래<br>- 하!
+<SYNC Start=2147716><P Class=ENCC>&nbsp;
+<SYNC Start=2147806><P Class=ENCC>
+- 좋아<br>- 감사!
+<SYNC Start=2148468><P Class=ENCC>&nbsp;
+<SYNC Start=2148558><P Class=ENCC>
+내가 나갈게 그냥
+<SYNC Start=2149490><P Class=ENCC>&nbsp;
+<SYNC Start=2156410><P Class=ENCC>
+염병!
+<SYNC Start=2156951><P Class=ENCC>&nbsp;
+<SYNC Start=2158305><P Class=ENCC>
+놈이 네 오른쪽으로 접근하고 있다, 스콧!
+<SYNC Start=2161087><P Class=ENCC>&nbsp;
+<SYNC Start=2179818><P Class=ENCC>
+- 마이키야, 꽉 잡아!<br>- 가가가가!!
+<SYNC Start=2181503><P Class=ENCC>&nbsp;
+<SYNC Start=2184202><P Class=ENCC>
+날 멈추게 만들고 싶냐?<br>해봐 어디!
+<SYNC Start=2186103><P Class=ENCC>&nbsp;
+<SYNC Start=2189355><P Class=ENCC>
+스콧, 놈들이 좁혀온다!
+<SYNC Start=2191343><P Class=ENCC>&nbsp;
+<SYNC Start=2194001><P Class=ENCC>
+비켜!!!
+<SYNC Start=2194896><P Class=ENCC>&nbsp;
+<SYNC Start=2195377><P Class=ENCC>
+비켜!!!!
+<SYNC Start=2196069><P Class=ENCC>&nbsp;
+<SYNC Start=2209199><P Class=ENCC>
+너!!
+<SYNC Start=2210319><P Class=ENCC>&nbsp;
+<SYNC Start=2210823><P Class=ENCC>
+너였어!
+<SYNC Start=2212026><P Class=ENCC>&nbsp;
+<SYNC Start=2212117><P Class=ENCC>
+네가!!
+<SYNC Start=2213097><P Class=ENCC>&nbsp;
+<SYNC Start=2213275><P Class=ENCC>
+내 아들을 죽였어!
+<SYNC Start=2214838><P Class=ENCC>&nbsp;
+<SYNC Start=2216598><P Class=ENCC>
+나는 무기였네
+<SYNC Start=2218157><P Class=ENCC>&nbsp;
+<SYNC Start=2218352><P Class=ENCC>
+다른 누군가가 목표를 정하고 조준을 했지
+<SYNC Start=2221343><P Class=ENCC>&nbsp;
+<SYNC Start=2221615><P Class=ENCC>
+아, 그래
+<SYNC Start=2222834><P Class=ENCC>&nbsp;
+<SYNC Start=2222954><P Class=ENCC>
+그래서 빗맞췄다?
+<SYNC Start=2224397><P Class=ENCC>&nbsp;
+<SYNC Start=2224658><P Class=ENCC>
+그! 말! 인가?!
+<SYNC Start=2227816><P Class=ENCC>&nbsp;
+<SYNC Start=2228026><P Class=ENCC>
+이 핵폭탄?
+<SYNC Start=2229903><P Class=ENCC>&nbsp;
+<SYNC Start=2230063><P Class=ENCC>
+이것도 네 책임이 아냐?!
+<SYNC Start=2232423><P Class=ENCC>&nbsp;
+<SYNC Start=2232748><P Class=ENCC>
+그 모든 죽음과 고통이?
+<SYNC Start=2236055><P Class=ENCC>&nbsp;
+<SYNC Start=2236356><P Class=ENCC>
+자네가 더 이상 왜 신경 쓰나?
+<SYNC Start=2238423><P Class=ENCC>&nbsp;
+<SYNC Start=2238777><P Class=ENCC>
+난 신경 쓰는 걸 멈춘 적 없어
+<SYNC Start=2241356><P Class=ENCC>&nbsp;
+<SYNC Start=2242123><P Class=ENCC>
+아직도 기를 쓰고 자리를<br>지키려 고수하는군
+<SYNC Start=2246063><P Class=ENCC>&nbsp;
+<SYNC Start=2246440><P Class=ENCC>
+나무꼬챙이 총을 들고 숲을 헤치는 소년들,<br>그 궁극의 게임...
+<SYNC Start=2250503><P Class=ENCC>&nbsp;
+<SYNC Start=2250623><P Class=ENCC>
+이건 게임이 아냐<br>난 군인이다
+<SYNC Start=2252983><P Class=ENCC>&nbsp;
+<SYNC Start=2253143><P Class=ENCC>
+세상을 구하기 위해 노력하지<br>한 번에 시체 한 구씩
+<SYNC Start=2256543><P Class=ENCC>&nbsp;
+<SYNC Start=2256703><P Class=ENCC>
+진정한 자네가 되게<br>자넨 킬러야
+<SYNC Start=2260522><P Class=ENCC>&nbsp;
+<SYNC Start=2261122><P Class=ENCC>
+네 폭탄은 무고한 사람들과 아이들을 죽였다
+<SYNC Start=2266227><P Class=ENCC>&nbsp;
+<SYNC Start=2267768><P Class=ENCC>
+내 아들도...
+<SYNC Start=2269364><P Class=ENCC>&nbsp;
+<SYNC Start=2269498><P Class=ENCC>
+그리고 자넨 저기 저 남자에게<br>두 발의 총알을 쐈지
+<SYNC Start=2271565><P Class=ENCC>&nbsp;
+<SYNC Start=2271624><P Class=ENCC>
+눈 하나 깜빡 않고
+<SYNC Start=2273460><P Class=ENCC>&nbsp;
+<SYNC Start=2273520><P Class=ENCC>
+그도 누군가의 아들 아닌가?
+<SYNC Start=2275623><P Class=ENCC>&nbsp;
+<SYNC Start=2277830><P Class=ENCC>
+그리고 자넨 지금 대원들을<br>현장에 방치하고 있지
+<SYNC Start=2280181><P Class=ENCC>&nbsp;
+<SYNC Start=2280299><P Class=ENCC>
+내게 개인적인 복수를 하기 위해
+<SYNC Start=2282116><P Class=ENCC>&nbsp;
+<SYNC Start=2283183><P Class=ENCC>
+- 스콧, 뭐야?<br>- 그게 말이지...
+<SYNC Start=2284262><P Class=ENCC>&nbsp;
+<SYNC Start=2284322><P Class=ENCC>
+뭐야?!
+<SYNC Start=2285063><P Class=ENCC>&nbsp;
+<SYNC Start=2285886><P Class=ENCC>
+우리 멈출 것 같아, 마이크
+<SYNC Start=2287721><P Class=ENCC>&nbsp;
+<SYNC Start=2287781><P Class=ENCC>
+제기랄!! 좀!!!
+<SYNC Start=2289143><P Class=ENCC>&nbsp;
+<SYNC Start=2289303><P Class=ENCC>
+내가 할 수 있는 게 없다, 마이키야<br>우리 멈출 거야
+<SYNC Start=2291803><P Class=ENCC>&nbsp;
+<SYNC Start=2291903><P Class=ENCC>
+그게 너와 나의 차이야
+<SYNC Start=2294263><P Class=ENCC>&nbsp;
+<SYNC Start=2294423><P Class=ENCC>
+난 내 본질을 받아들였네<br>나는 다르다는 것을...
+<SYNC Start=2298367><P Class=ENCC>&nbsp;
+<SYNC Start=2298871><P Class=ENCC>
+모두가 화염과 폭음을 피할 때<br>나는 그것을 쫓았지
+<SYNC Start=2302827><P Class=ENCC>&nbsp;
+<SYNC Start=2303030><P Class=ENCC>
+너도 같아, 필립
+<SYNC Start=2304463><P Class=ENCC>&nbsp;
+<SYNC Start=2304895><P Class=ENCC>
+다른 사람이라면 완전히 망가졌을 거야
+<SYNC Start=2306983><P Class=ENCC>&nbsp;
+<SYNC Start=2307150><P Class=ENCC>
+그가 신경 쓰고 사랑하는<br>사람에게 그런 일이 생기면...
+<SYNC Start=2310583><P Class=ENCC>&nbsp;
+<SYNC Start=2310743><P Class=ENCC>
+여기서 이러고 있을 순 없어<br>놈들을 멈춰야 해
+<SYNC Start=2312703><P Class=ENCC>&nbsp;
+<SYNC Start=2312774><P Class=ENCC>
+땅에 발 딛기도 전에 죽을 거야!
+<SYNC Start=2314983><P Class=ENCC>&nbsp;
+<SYNC Start=2316103><P Class=ENCC>
+- 아, 염병!!<br>- 들어와!!
+<SYNC Start=2317564><P Class=ENCC>&nbsp;
+<SYNC Start=2317684><P Class=ENCC>
+나가면 바로 벌집 신세야!<br>들어와!
+<SYNC Start=2319383><P Class=ENCC>&nbsp;
+<SYNC Start=2319459><P Class=ENCC>
+아님 여기서 통구이가 되든지!<br>하느님 맙소사!!
+<SYNC Start=2322754><P Class=ENCC>&nbsp;
+<SYNC Start=2322994><P Class=ENCC>
+하지만 우리는 아냐
+<SYNC Start=2324903><P Class=ENCC>&nbsp;
+<SYNC Start=2325063><P Class=ENCC>
+그 고통과 아픔을 동력으로 이용하고
+<SYNC Start=2328023><P Class=ENCC>&nbsp;
+<SYNC Start=2328183><P Class=ENCC>
+비인도적 불경스런 행위의<br>정당한 이유로 삼지
+<SYNC Start=2332338><P Class=ENCC>&nbsp;
+<SYNC Start=2332503><P Class=ENCC>
+놈들이 화물칸을 열고 있어
+<SYNC Start=2334338><P Class=ENCC>&nbsp;
+<SYNC Start=2334398><P Class=ENCC>
+제길... 핵물질...
+<SYNC Start=2336063><P Class=ENCC>&nbsp;
+<SYNC Start=2336183><P Class=ENCC>
+문 못 열 거야
+<SYNC Start=2338378><P Class=ENCC>&nbsp;
+<SYNC Start=2346663><P Class=ENCC>
+하느님 맙소사!
+<SYNC Start=2347973><P Class=ENCC>&nbsp;
+<SYNC Start=2349025><P Class=ENCC>
+제기랄!!
+<SYNC Start=2349612><P Class=ENCC>&nbsp;
+<SYNC Start=2351968><P Class=ENCC>
+넌 나에 대해 아무 것도 몰라
+<SYNC Start=2353743><P Class=ENCC>&nbsp;
+<SYNC Start=2354179><P Class=ENCC>
+영국 정부가 자넬 소모품 취급한 걸 알지
+<SYNC Start=2356983><P Class=ENCC>&nbsp;
+<SYNC Start=2357517><P Class=ENCC>
+장기판에서 언제든지 쳐내져도 되는 졸
+<SYNC Start=2360109><P Class=ENCC>&nbsp;
+<SYNC Start=2360262><P Class=ENCC>
+나처럼 좀 더 중요한 말이 계속<br>게임에 있을 수 있도록 말일세
+<SYNC Start=2364562><P Class=ENCC>&nbsp;
+<SYNC Start=2376912><P Class=ENCC>
+젠장!!
+<SYNC Start=2377663><P Class=ENCC>&nbsp;
+<SYNC Start=2378100><P Class=ENCC>
+자네 아들이 죽었을 때<br>자네가 그만두지 않은 것도 아네
+<SYNC Start=2381640><P Class=ENCC>&nbsp;
+<SYNC Start=2382292><P Class=ENCC>
+생각해볼 시간도 가지지 않았지
+<SYNC Start=2384648><P Class=ENCC>&nbsp;
+<SYNC Start=2386091><P Class=ENCC>
+아냐, 아냐, 아냐!!
+<SYNC Start=2388263><P Class=ENCC>&nbsp;
+<SYNC Start=2397041><P Class=ENCC>
+가자! 여기서 나가야 돼!
+<SYNC Start=2398850><P Class=ENCC>&nbsp;
+<SYNC Start=2400185><P Class=ENCC>
+뛰어 뛰어 뛰어 뛰어!!!
+<SYNC Start=2401433><P Class=ENCC>&nbsp;
+<SYNC Start=2411316><P Class=ENCC>
+넌 그 아이에 대해 말할 자격 없어!
+<SYNC Start=2413484><P Class=ENCC>&nbsp;
+<SYNC Start=2413713><P Class=ENCC>
+내 안토니는 안 돼!
+<SYNC Start=2415533><P Class=ENCC>&nbsp;
+<SYNC Start=2415720><P Class=ENCC>
+그런 짓을 한 인간은...
+<SYNC Start=2417862><P Class=ENCC>&nbsp;
+<SYNC Start=2419417><P Class=ENCC>
+그런 말 할 자격 없어!
+<SYNC Start=2421580><P Class=ENCC>&nbsp;
+<SYNC Start=2427003><P Class=ENCC>
+왜 그만두지 않았나?
+<SYNC Start=2429303><P Class=ENCC>&nbsp;
+<SYNC Start=2430545><P Class=ENCC>
+평범한 사람이라면 누구든 그러했을 텐데
+<SYNC Start=2432863><P Class=ENCC>&nbsp;
+<SYNC Start=2433254><P Class=ENCC>
+자기 때문에 처자식이 당한 피해를 봤다면
+<SYNC Start=2437267><P Class=ENCC>&nbsp;
+<SYNC Start=2438942><P Class=ENCC>
+- 왜 계속 복무했지?<br>- 난 할 일이 있었어
+<SYNC Start=2442583><P Class=ENCC>&nbsp;
+<SYNC Start=2442810><P Class=ENCC>
+아냐, 복수를 원했기 때문이지
+<SYNC Start=2445223><P Class=ENCC>&nbsp;
+<SYNC Start=2445343><P Class=ENCC>
+방아쇠를 당길 때마다
+<SYNC Start=2447073><P Class=ENCC>&nbsp;
+<SYNC Start=2447229><P Class=ENCC>
+타당성을 느꼈지
+<SYNC Start=2449371><P Class=ENCC>&nbsp;
+<SYNC Start=2449621><P Class=ENCC>
+정당성을!
+<SYNC Start=2451423><P Class=ENCC>&nbsp;
+<SYNC Start=2452823><P Class=ENCC>
+- 나는 내가 누군지 알아<br>- 나도 내가 누군지 알지
+<SYNC Start=2456093><P Class=ENCC>&nbsp;
+<SYNC Start=2456234><P Class=ENCC>
+나는 군인이다<br>그리고 내겐 임무가 있어
+<SYNC Start=2459343><P Class=ENCC>&nbsp;
+<SYNC Start=2459728><P Class=ENCC>
+리나가 어디로 가고 있지?
+<SYNC Start=2460983><P Class=ENCC>&nbsp;
+<SYNC Start=2461103><P Class=ENCC>
+지금 그게 무슨 상관인가?
+<SYNC Start=2463373><P Class=ENCC>&nbsp;
+<SYNC Start=2463529><P Class=ENCC>
+자네 아들을 죽였으니<br>자넨 절대 날 살려주지 않을 텐데
+<SYNC Start=2467704><P Class=ENCC>&nbsp;
+<SYNC Start=2468162><P Class=ENCC>
+어느 쪽이든, 나의 가장 위대한<br>창조물을 난 볼 수 없겠군
+<SYNC Start=2473798><P Class=ENCC>&nbsp;
+<SYNC Start=2485026><P Class=ENCC>
+자넨 살인자가 아닐세, 필립
+<SYNC Start=2487136><P Class=ENCC>&nbsp;
+<SYNC Start=2489175><P Class=ENCC>
+넌 예외다
+<SYNC Start=2490890><P Class=ENCC>&nbsp;
+<SYNC Start=2492771><P Class=ENCC>
+- 널 죽이기 위해서라면 선을 넘을 수 있다<br>- 아냐, 자넨 선한 사람이야
+<SYNC Start=2495503><P Class=ENCC>&nbsp;
+<SYNC Start=2495600><P Class=ENCC>
+- 넌 내 아들을 죽였어<br>- 아냐, 자넨 선한 사람이야...
+<SYNC Start=2497284><P Class=ENCC>&nbsp;
+<SYNC Start=2497367><P Class=ENCC>
+네가 내 아들을 죽였어...
+<SYNC Start=2499894><P Class=ENCC>&nbsp;
+<SYNC Start=2501783><P Class=ENCC>
+- 네가 내 아들을 죽였어<br>- 자넨 선한 사람이야
+<SYNC Start=2504422><P Class=ENCC>&nbsp;
+<SYNC Start=2538588><P Class=ENCC>
+대장?
+<SYNC Start=2539463><P Class=ENCC>&nbsp;
+<SYNC Start=2543090><P Class=ENCC>
+놈의 기록... 놈의 모든 메모들...
+<SYNC Start=2545623><P Class=ENCC>&nbsp;
+<SYNC Start=2546283><P Class=ENCC>
+놈의 환경적 고려들...
+<SYNC Start=2548503><P Class=ENCC>&nbsp;
+<SYNC Start=2548830><P Class=ENCC>
+기온, 연중 시각, 실내, 실외...
+<SYNC Start=2552983><P Class=ENCC>&nbsp;
+<SYNC Start=2553831><P Class=ENCC>
+철저한 놈이었네
+<SYNC Start=2555630><P Class=ENCC>&nbsp;
+<SYNC Start=2559357><P Class=ENCC>
+- 제네바...<br>- 그곳을 조사하고 있었네
+<SYNC Start=2562227><P Class=ENCC>&nbsp;
+<SYNC Start=2562622><P Class=ENCC>
+다른 고려사항도 있긴 하네만...
+<SYNC Start=2564343><P Class=ENCC>&nbsp;
+<SYNC Start=2564503><P Class=ENCC>
+리나가 여기로 갔다고 보시는군요
+<SYNC Start=2567228><P Class=ENCC>&nbsp;
+<SYNC Start=2574611><P Class=ENCC>
+나는 말할 기회를 줬네
+<SYNC Start=2576525><P Class=ENCC>&nbsp;
+<SYNC Start=2577003><P Class=ENCC>
+- 허나 말하지 않았어<br>- 네...
+<SYNC Start=2579000><P Class=ENCC>&nbsp;
+<SYNC Start=2579239><P Class=ENCC>
+저희는 이해합니다, 대장
+<SYNC Start=2580799><P Class=ENCC>&nbsp;
+<SYNC Start=2581017><P Class=ENCC>
+아니, 아냐<br>아냐, 아냐
+<SYNC Start=2583303><P Class=ENCC>&nbsp;
+<SYNC Start=2583528><P Class=ENCC>
+만약 상관이 거짓말을 하고 있는<br>것 같다면, 상부에 보고를 하게
+<SYNC Start=2587199><P Class=ENCC>&nbsp;
+<SYNC Start=2587381><P Class=ENCC>
+뭔가 진실이 아니라고 느껴진다면<br>절대 복종하지 말게
+<SYNC Start=2590903><P Class=ENCC>&nbsp;
+<SYNC Start=2591145><P Class=ENCC>
+절대 맹목적으로 복종하지 마
+<SYNC Start=2592757><P Class=ENCC>&nbsp;
+<SYNC Start=2592840><P Class=ENCC>
+저희는 이해한다고 했습니다, 대장
+<SYNC Start=2595279><P Class=ENCC>&nbsp;
+<SYNC Start=2595383><P Class=ENCC>
+믿는다고 하진 않았습니다
+<SYNC Start=2597670><P Class=ENCC>&nbsp;
+<SYNC Start=2598508><P Class=ENCC>
+그러니까 리나가 핵폭탄을<br>갖고 제네바로 갔다 이거군요
+<SYNC Start=2602033><P Class=ENCC>&nbsp;
+<SYNC Start=2602241><P Class=ENCC>
+UN 본부로 직통으로 말이죠
+<SYNC Start=2604175><P Class=ENCC>&nbsp;
+<SYNC Start=2623313><P Class=ENCC>
+리나가 뭘 계획하든, 여기까지야
+<SYNC Start=2626303><P Class=ENCC>&nbsp;
+<SYNC Start=2626963><P Class=ENCC>
+여기서 모든 걸 끝낸다
+<SYNC Start=2629003><P Class=ENCC>&nbsp;
+<SYNC Start=2671596><P Class=ENCC>
+<font color="gold">Vn<br>상업적 이용 금지, 수정 배포 금지</font>
+<SYNC Start=2692602><P Class=ENCC>&nbsp;
+</BODY>
+</SAMI>
+<!-- Strike.Back.S05E08.HDTV.x264-FUM -->
