@@ -1,5 +1,8 @@
-library(data.table)
+if (!require("data.table")) install.packages("data.table")
+if (!require("stringi")) install.packages("stringi")
 library(stringi)
+library(data.table)
+dir.create("./data_pre",showWarnings=F)
 
 dl<-dir("./data",pattern = "smi",all.files = T)
 
