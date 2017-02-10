@@ -38,6 +38,6 @@ for(i in 1:length(dl)){
     title<-gsub("^\\.","",title)
   }
   title<-gsub("\\.smi","",title)
-  write.table(tem,paste0("./data_pre/",title,".txt"),row.names = F,col.names = F,quote = F)
+  write.table(tem,paste0("./data_pre/",title,".txt"),row.names = F,col.names = F,quote = F,fileEncoding="UTF-8")
   print(paste0(i, " / ",length(dl)))
 }
